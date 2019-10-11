@@ -1,0 +1,2768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="Friends.Season07.Episode24.en48kHz" path="/vol/work3/maurice/dvd_extracted/Friends/Friends.Season07.Episode24.en48kHz.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.5"/>
+<Proc name="vrbs_align.eng-usa" version="1.3" editor="Vocapia Research"/>
+<Proc name="vrbs_lid" version="6.0"/>
+<Proc name="vrbs_lma.eng-usa_6.1" version="1.6"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="1262.04" spdur="696.74" nw="2355" tconf="0.37"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="125.32" gender="1" spkid="MS2" lang="eng-usa" lconf="1.00" nw="411" tconf="0.35"/>
+<Speaker ch="1" dur="108.84" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="453" tconf="0.38"/>
+<Speaker ch="1" dur="108.51" gender="1" spkid="MS6" lang="eng-usa" lconf="1.00" nw="391" tconf="0.36"/>
+<Speaker ch="1" dur="98.08" gender="1" spkid="MS3" lang="eng-usa" lconf="1.00" nw="392" tconf="0.37"/>
+<Speaker ch="1" dur="84.20" gender="2" spkid="FS4" lang="eng-usa" lconf="1.00" nw="301" tconf="0.37"/>
+<Speaker ch="1" dur="24.13" gender="2" spkid="FS7" lang="eng-usa" lconf="1.00" nw="17" tconf="0.14"/>
+<Speaker ch="1" dur="53.78" gender="2" spkid="FS8" lang="eng-usa" lconf="1.00" nw="128" tconf="0.36"/>
+<Speaker ch="1" dur="50.80" gender="2" spkid="FS3" lang="eng-usa" lconf="1.00" nw="154" tconf="0.41"/>
+<Speaker ch="1" dur="20.60" gender="1" spkid="MS8" lang="eng-usa" lconf="1.00" nw="70" tconf="0.33"/>
+<Speaker ch="1" dur="1.13" gender="2" spkid="FS5" lang="eng-usa" lconf="1.00" nw="1" tconf="0.27"/>
+<Speaker ch="1" dur="12.70" gender="2" spkid="FS2" lang="eng-usa" lconf="1.00" nw="29" tconf="0.31"/>
+<Speaker ch="1" dur="4.29" gender="1" spkid="MS5" lang="eng-usa" lconf="1.00" nw="1" tconf="0.20"/>
+<Speaker ch="1" dur="2.74" gender="1" spkid="MS7" lang="eng-usa" lconf="1.00" nw="2" tconf="0.10"/>
+<Speaker ch="1" dur="1.62" gender="1" spkid="MS4" lang="eng-usa" lconf="1.00" nw="5" tconf="0.34"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="5.10" etime="8.75" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1" stime="5.40" dur="0.12" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2" stime="5.52" dur="0.27" conf="0.270"> It's </Word>
+<Word id="3" stime="5.79" dur="0.09" conf="0.990"> a </Word>
+<Word id="4" stime="6.01" dur="0.59" conf="0.120"> tradition </Word>
+<Word id="5" stime="7.20" dur="0.22" conf="0.460"> here </Word>
+<Word id="6" stime="7.53" dur="0.07" conf="0.320"> on </Word>
+<Word id="7" stime="7.63" dur="0.14" conf="0.290"> Friends </Word>
+<Word id="8" stime="8.08" dur="0.08" conf="0.440"> after </Word>
+<Word id="9" stime="8.16" dur="0.33" conf="0.110"> every </Word>
+<Word id="10" stime="8.49" dur="0.25" conf="0.180"> taping </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="10.73" etime="11.67" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="11" stime="10.83" dur="0.09" conf="0.320"> for </Word>
+<Word id="12" stime="10.98" dur="0.18" conf="0.400"> me </Word>
+<Word id="13" stime="11.16" dur="0.38" conf="0.320"> to </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="15.58" etime="28.25" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="14" stime="15.62" dur="0.33" conf="0.400"> hang </Word>
+<Word id="15" stime="16.37" dur="0.12" conf="0.320"> out </Word>
+<Word id="16" stime="16.49" dur="0.00" conf="0.100"> with </Word>
+<Word id="17" stime="16.49" dur="0.06" conf="0.990"> you </Word>
+<Word id="18" stime="16.55" dur="0.00" conf="0.100"> guys </Word>
+<Word id="19" stime="16.55" dur="0.00" conf="0.100"> , </Word>
+<Word id="20" stime="16.55" dur="0.21" conf="0.360"> talk </Word>
+<Word id="21" stime="16.76" dur="0.03" conf="0.100"> down </Word>
+<Word id="22" stime="16.79" dur="0.12" conf="0.460"> the </Word>
+<Word id="23" stime="16.91" dur="0.12" conf="0.360"> episode </Word>
+<Word id="24" stime="17.06" dur="0.12" conf="0.320"> umm </Word>
+<Word id="25" stime="17.18" dur="0.00" conf="0.950"> ... </Word>
+<Word id="26" stime="17.25" dur="0.29" conf="0.290"> The </Word>
+<Word id="27" stime="17.54" dur="0.21" conf="0.360"> point </Word>
+<Word id="28" stime="17.75" dur="0.27" conf="0.640"> of </Word>
+<Word id="29" stime="18.02" dur="0.23" conf="0.100"> this </Word>
+<Word id="30" stime="18.25" dur="0.22" conf="0.100"> whole </Word>
+<Word id="31" stime="18.47" dur="0.31" conf="0.230"> thing </Word>
+<Word id="32" stime="18.90" dur="0.20" conf="0.320"> is </Word>
+<Word id="33" stime="19.14" dur="0.14" conf="0.460"> what </Word>
+<Word id="34" stime="19.31" dur="0.12" conf="0.200"> people </Word>
+<Word id="35" stime="19.43" dur="0.10" conf="0.230"> see </Word>
+<Word id="36" stime="19.55" dur="0.27" conf="0.100"> in </Word>
+<Word id="37" stime="19.82" dur="0.30" conf="0.270"> America </Word>
+<Word id="38" stime="20.12" dur="0.12" conf="0.100"> is </Word>
+<Word id="39" stime="20.24" dur="0.00" conf="0.100"> : </Word>
+<Word id="40" stime="20.24" dur="0.19" conf="0.400"> they </Word>
+<Word id="41" stime="20.48" dur="0.21" conf="0.480"> see </Word>
+<Word id="42" stime="20.69" dur="0.09" conf="0.200"> Friends </Word>
+<Word id="43" stime="20.78" dur="0.00" conf="0.100"> , </Word>
+<Word id="44" stime="20.78" dur="0.18" conf="0.200"> they </Word>
+<Word id="45" stime="20.96" dur="0.09" conf="0.230"> love </Word>
+<Word id="46" stime="21.05" dur="0.06" conf="0.990"> the </Word>
+<Word id="47" stime="21.11" dur="0.23" conf="0.360"> show </Word>
+<Word id="48" stime="21.34" dur="0.00" conf="0.100"> , </Word>
+<Word id="49" stime="21.34" dur="0.10" conf="0.100"> it </Word>
+<Word id="50" stime="21.44" dur="0.11" conf="0.360"> looks </Word>
+<Word id="51" stime="21.62" dur="0.35" conf="0.180"> like </Word>
+<Word id="52" stime="22.13" dur="0.12" conf="0.100"> a </Word>
+<Word id="53" stime="22.34" dur="0.26" conf="0.180"> smooth </Word>
+<Word id="54" stime="22.67" dur="0.27" conf="0.150"> running </Word>
+<Word id="55" stime="22.96" dur="0.10" conf="0.180"> machine </Word>
+<Word id="56" stime="23.06" dur="0.00" conf="0.100"> , </Word>
+<Word id="57" stime="23.12" dur="0.27" conf="0.320"> but </Word>
+<Word id="58" stime="23.39" dur="0.15" conf="0.320"> behind </Word>
+<Word id="59" stime="23.54" dur="0.12" conf="0.990"> the </Word>
+<Word id="60" stime="23.66" dur="0.51" conf="0.250"> scenes </Word>
+<Word id="61" stime="24.35" dur="0.35" conf="0.440"> there's </Word>
+<Word id="62" stime="24.92" dur="0.15" conf="0.360"> deceit </Word>
+<Word id="63" stime="25.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="64" stime="25.15" dur="0.31" conf="0.470"> mistrust </Word>
+<Word id="65" stime="25.46" dur="0.00" conf="0.100"> , </Word>
+<Word id="66" stime="25.53" dur="0.32" conf="0.290"> and </Word>
+<Word id="67" stime="25.87" dur="0.10" conf="0.690"> hate </Word>
+<Word id="68" stime="25.97" dur="0.00" conf="0.950"> . </Word>
+<Word id="69" stime="27.11" dur="0.18" conf="0.990"> And </Word>
+<Word id="70" stime="27.29" dur="0.12" conf="0.400"> I </Word>
+<Word id="71" stime="27.71" dur="0.27" conf="0.340"> thought </Word>
+<Word id="72" stime="27.98" dur="0.00" conf="0.100"> , </Word>
+<Word id="73" stime="27.98" dur="0.26" conf="0.320"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="30.40" etime="31.01" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="74" stime="30.70" dur="0.20" conf="0.250"> thought </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="32.34" etime="44.39" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="75" stime="32.38" dur="0.15" conf="0.530"> we'd </Word>
+<Word id="76" stime="32.53" dur="0.59" conf="0.340"> actually </Word>
+<Word id="77" stime="33.19" dur="0.42" conf="0.400"> take </Word>
+<Word id="78" stime="33.64" dur="0.39" conf="0.230"> a </Word>
+<Word id="79" stime="34.03" dur="0.27" conf="0.180"> look </Word>
+<Word id="80" stime="34.30" dur="0.34" conf="0.270"> at </Word>
+<Word id="81" stime="34.90" dur="0.42" conf="0.230"> uh </Word>
+<Word id="82" stime="35.32" dur="0.00" conf="0.100"> , </Word>
+<Word id="83" stime="35.44" dur="0.22" conf="0.480"> y'know </Word>
+<Word id="84" stime="35.82" dur="0.05" conf="0.200"> some </Word>
+<Word id="85" stime="36.07" dur="0.38" conf="0.270"> of </Word>
+<Word id="86" stime="37.78" dur="0.19" conf="0.230"> these </Word>
+<Word id="87" stime="38.23" dur="0.15" conf="0.180"> moments </Word>
+<Word id="88" stime="38.38" dur="0.00" conf="0.100"> where </Word>
+<Word id="89" stime="38.38" dur="0.12" conf="0.990"> you </Word>
+<Word id="90" stime="38.53" dur="0.12" conf="0.100"> guys </Word>
+<Word id="91" stime="38.65" dur="0.12" conf="0.370"> are-there </Word>
+<Word id="92" stime="38.77" dur="0.00" conf="0.100"> are </Word>
+<Word id="93" stime="38.77" dur="0.15" conf="0.270"> mistakes </Word>
+<Word id="94" stime="38.92" dur="0.00" conf="0.950"> . </Word>
+<Word id="95" stime="39.25" dur="0.33" conf="0.160"> You </Word>
+<Word id="96" stime="39.58" dur="0.15" conf="0.230"> make </Word>
+<Word id="97" stime="39.73" dur="0.12" conf="0.290"> mistakes </Word>
+<Word id="98" stime="39.85" dur="0.00" conf="0.950"> . </Word>
+<Word id="99" stime="39.85" dur="0.29" conf="0.130"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="100" stime="40.83" dur="0.28" conf="0.400"> Once </Word>
+<Word id="101" stime="41.11" dur="0.05" conf="0.100"> and </Word>
+<Word id="102" stime="41.16" dur="0.04" conf="0.100"> a </Word>
+<Word id="103" stime="41.20" dur="0.39" conf="0.400"> while </Word>
+<Word id="104" stime="41.59" dur="0.00" conf="0.950"> . </Word>
+<Word id="105" stime="42.01" dur="0.24" conf="0.100"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="106" stime="42.25" dur="0.09" conf="0.690"> From </Word>
+<Word id="107" stime="42.34" dur="0.09" conf="0.460"> time </Word>
+<Word id="108" stime="42.52" dur="0.39" conf="0.200"> to </Word>
+<Word id="109" stime="43.03" dur="0.18" conf="0.400"> time </Word>
+<Word id="110" stime="43.21" dur="0.00" conf="0.950"> . </Word>
+<Word id="111" stime="43.66" dur="0.42" conf="0.180"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="112" stime="44.12" dur="0.17" conf="0.990"> For </Word>
+<Word id="113" stime="44.29" dur="0.09" conf="0.100"> example </Word>
+<Word id="114" stime="44.38" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="67.48" etime="79.41" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="115" stime="67.78" dur="0.18" conf="0.990"> I </Word>
+<Word id="116" stime="67.96" dur="0.00" conf="0.100"> don't </Word>
+<Word id="117" stime="67.96" dur="0.21" conf="0.320"> have </Word>
+<Word id="118" stime="68.17" dur="0.06" conf="0.990"> to </Word>
+<Word id="119" stime="68.29" dur="0.33" conf="0.270"> memorize </Word>
+<Word id="120" stime="68.69" dur="0.11" conf="0.230"> lines </Word>
+<Word id="121" stime="68.80" dur="0.00" conf="0.950"> . </Word>
+<Word id="122" stime="68.89" dur="0.27" conf="0.100"> You </Word>
+<Word id="123" stime="69.22" dur="0.19" conf="0.100"> guys </Word>
+<Word id="124" stime="69.46" dur="0.24" conf="0.230"> actually </Word>
+<Word id="125" stime="69.80" dur="0.17" conf="0.530"> have </Word>
+<Word id="126" stime="70.01" dur="0.14" conf="0.270"> to </Word>
+<Word id="127" stime="70.15" dur="0.21" conf="0.150"> remember </Word>
+<Word id="128" stime="70.87" dur="0.33" conf="0.320"> what </Word>
+<Word id="129" stime="71.23" dur="0.13" conf="0.990"> to </Word>
+<Word id="130" stime="72.05" dur="0.29" conf="0.320"> say </Word>
+<Word id="131" stime="72.34" dur="0.44" conf="0.400"> and </Word>
+<Word id="132" stime="73.08" dur="0.19" conf="0.990"> you </Word>
+<Word id="133" stime="73.27" dur="0.24" conf="0.270"> probably </Word>
+<Word id="134" stime="73.51" dur="0.15" conf="0.320"> forget </Word>
+<Word id="135" stime="73.75" dur="0.15" conf="0.100"> from </Word>
+<Word id="136" stime="73.90" dur="0.34" conf="0.290"> time </Word>
+<Word id="137" stime="74.53" dur="0.21" conf="0.400"> to </Word>
+<Word id="138" stime="75.25" dur="0.10" conf="0.320"> time </Word>
+<Word id="139" stime="75.35" dur="0.00" conf="0.950"> . </Word>
+<Word id="140" stime="75.63" dur="0.16" conf="0.460"> Yes </Word>
+<Word id="141" stime="75.79" dur="0.00" conf="0.950"> ? </Word>
+<Word id="142" stime="76.50" dur="0.07" conf="0.100"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="143" stime="76.57" dur="0.33" conf="0.200"> Our </Word>
+<Word id="144" stime="77.53" dur="0.21" conf="0.400"> energy </Word>
+<Word id="145" stime="77.78" dur="0.14" conf="0.400"> just </Word>
+<Word id="146" stime="77.92" dur="0.15" conf="0.180"> comes </Word>
+<Word id="147" stime="78.07" dur="0.30" conf="0.100"> way </Word>
+<Word id="148" stime="78.37" dur="0.12" conf="0.100"> up </Word>
+<Word id="149" stime="78.52" dur="0.12" conf="0.100"> when </Word>
+<Word id="150" stime="78.64" dur="0.51" conf="0.470"> there's </Word>
+<Word id="151" stime="79.15" dur="0.13" conf="0.400"> an </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="79.41" etime="80.77" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="152" stime="79.67" dur="0.99" conf="0.100"> audience </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="80.77" etime="96.80" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="153" stime="80.99" dur="0.12" conf="0.360"> here </Word>
+<Word id="154" stime="81.20" dur="0.06" conf="0.100"> and </Word>
+<Word id="155" stime="81.26" dur="0.18" conf="0.200"> when </Word>
+<Word id="156" stime="81.50" dur="0.12" conf="0.990"> that </Word>
+<Word id="157" stime="81.62" dur="0.09" conf="0.440"> happens </Word>
+<Word id="158" stime="81.71" dur="0.00" conf="0.100"> , </Word>
+<Word id="159" stime="81.71" dur="0.24" conf="0.490"> something </Word>
+<Word id="160" stime="82.04" dur="0.23" conf="0.180"> happens </Word>
+<Word id="161" stime="82.45" dur="0.13" conf="0.150"> between </Word>
+<Word id="162" stime="82.70" dur="0.14" conf="0.230"> your </Word>
+<Word id="163" stime="82.91" dur="0.09" conf="0.100"> brain </Word>
+<Word id="164" stime="83.00" dur="0.48" conf="0.400"> and </Word>
+<Word id="165" stime="83.63" dur="0.27" conf="0.400"> your </Word>
+<Word id="166" stime="84.23" dur="0.12" conf="0.160"> mouth </Word>
+<Word id="167" stime="84.35" dur="0.06" conf="0.290"> sometimes </Word>
+<Word id="168" stime="84.41" dur="0.20" conf="0.200"> and </Word>
+<Word id="169" stime="84.65" dur="0.21" conf="0.360"> it </Word>
+<Word id="170" stime="85.13" dur="0.33" conf="0.400"> just </Word>
+<Word id="171" stime="85.79" dur="0.45" conf="0.340"> doesn't </Word>
+<Word id="172" stime="86.24" dur="0.00" conf="0.100"> , </Word>
+<Word id="173" stime="86.24" dur="0.10" conf="0.400"> it </Word>
+<Word id="174" stime="86.36" dur="0.30" conf="0.360"> just </Word>
+<Word id="175" stime="86.69" dur="0.45" conf="0.530"> doesn't </Word>
+<Word id="176" stime="87.14" dur="0.18" conf="0.230"> work </Word>
+<Word id="177" stime="87.32" dur="0.00" conf="0.950"> . </Word>
+<Word id="178" stime="87.41" dur="0.24" conf="0.220"> [dr_ross_geller] </Word>
+<Word id="179" stime="87.76" dur="0.24" conf="0.100"> Uh </Word>
+<Word id="180" stime="88.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="181" stime="88.25" dur="0.18" conf="0.230"> oh-oh </Word>
+<Word id="182" stime="88.43" dur="0.00" conf="0.100"> , </Word>
+<Word id="183" stime="88.43" dur="0.21" conf="0.100"> umm </Word>
+<Word id="184" stime="88.64" dur="0.09" conf="0.400"> no </Word>
+<Word id="185" stime="88.73" dur="0.12" conf="0.230"> you </Word>
+<Word id="186" stime="88.85" dur="0.06" conf="0.100"> didn't </Word>
+<Word id="187" stime="88.91" dur="0.00" conf="0.950"> . </Word>
+<Word id="188" stime="89.33" dur="0.09" conf="0.990"> I </Word>
+<Word id="189" stime="89.42" dur="0.18" conf="0.100"> did </Word>
+<Word id="190" stime="89.60" dur="0.00" conf="0.950"> . </Word>
+<Word id="191" stime="90.41" dur="0.09" conf="0.170"> [chandler_bing] </Word>
+<Word id="192" stime="90.50" dur="0.09" conf="0.640"> Oh </Word>
+<Word id="193" stime="90.65" dur="0.06" conf="0.360"> uh-uh </Word>
+<Word id="194" stime="90.71" dur="0.00" conf="0.100"> , </Word>
+<Word id="195" stime="90.71" dur="0.21" conf="0.100"> no-no-no-no-uh-uh </Word>
+<Word id="196" stime="90.92" dur="0.00" conf="0.950"> . </Word>
+<Word id="197" stime="90.92" dur="0.09" conf="0.100"> [phoebe_buffay] </Word>
+<Word id="198" stime="91.01" dur="0.06" conf="0.320"> So </Word>
+<Word id="199" stime="91.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="200" stime="91.07" dur="0.18" conf="0.270"> we </Word>
+<Word id="201" stime="91.28" dur="0.15" conf="0.290"> realize </Word>
+<Word id="202" stime="91.45" dur="0.10" conf="0.320"> that-Oh </Word>
+<Word id="203" stime="91.55" dur="0.15" conf="0.100"> no </Word>
+<Word id="204" stime="91.70" dur="0.00" conf="0.950"> ... </Word>
+<Word id="205" stime="91.75" dur="0.22" conf="0.460"> I'm </Word>
+<Word id="206" stime="91.97" dur="0.24" conf="0.120"> telling </Word>
+<Word id="207" stime="92.25" dur="0.17" conf="0.100"> it </Word>
+<Word id="208" stime="92.42" dur="0.00" conf="0.950"> ! </Word>
+<Word id="209" stime="93.24" dur="0.17" conf="0.100"> I'm </Word>
+<Word id="210" stime="93.41" dur="0.09" conf="0.180"> telling </Word>
+<Word id="211" stime="93.50" dur="0.17" conf="0.230"> it </Word>
+<Word id="212" stime="93.71" dur="0.24" conf="0.280"> [joey_tribbiani] </Word>
+<Word id="213" stime="93.95" dur="0.27" conf="0.160"> Ha-ha </Word>
+<Word id="214" stime="94.22" dur="0.00" conf="0.950"> . </Word>
+<Word id="215" stime="94.40" dur="0.27" conf="0.270"> Look-Come </Word>
+<Word id="216" stime="94.73" dur="0.27" conf="0.270"> on </Word>
+<Word id="217" stime="95.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="218" stime="95.16" dur="0.17" conf="0.320"> I </Word>
+<Word id="219" stime="95.33" dur="0.09" conf="0.100"> don't </Word>
+<Word id="220" stime="95.42" dur="0.27" conf="0.270"> know </Word>
+<Word id="221" stime="95.93" dur="0.15" conf="0.460"> what </Word>
+<Word id="222" stime="96.08" dur="0.18" conf="0.270"> to </Word>
+<Word id="223" stime="96.26" dur="0.06" conf="0.990"> do </Word>
+<Word id="224" stime="96.32" dur="0.06" conf="0.200"> ...or </Word>
+<Word id="225" stime="96.38" dur="0.12" conf="0.230"> say </Word>
+<Word id="226" stime="96.50" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="99.34" etime="106.97" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="227" stime="99.50" dur="0.17" conf="0.240"> [joey_tribbiani] </Word>
+<Word id="228" stime="99.74" dur="0.18" conf="0.320"> Ha-ha </Word>
+<Word id="229" stime="99.92" dur="0.00" conf="0.100"> , </Word>
+<Word id="230" stime="99.95" dur="0.12" conf="0.270"> very </Word>
+<Word id="231" stime="100.07" dur="0.26" conf="0.100"> funny </Word>
+<Word id="232" stime="100.33" dur="0.00" conf="0.950"> . </Word>
+<Word id="233" stime="101.09" dur="0.12" conf="0.400"> I </Word>
+<Word id="234" stime="101.25" dur="0.17" conf="0.320"> don't </Word>
+<Word id="235" stime="101.50" dur="0.12" conf="0.150"> know </Word>
+<Word id="236" stime="102.29" dur="0.34" conf="0.460"> what </Word>
+<Word id="237" stime="103.49" dur="0.14" conf="0.200"> to </Word>
+<Word id="238" stime="103.67" dur="0.46" conf="0.230"> do </Word>
+<Word id="239" stime="104.13" dur="0.00" conf="0.950"> ! </Word>
+<Word id="240" stime="104.27" dur="0.09" conf="0.400"> Y'know </Word>
+<Word id="241" stime="104.36" dur="0.00" conf="0.950"> ? </Word>
+<Word id="242" stime="106.17" dur="0.14" conf="0.460"> Holy </Word>
+<Word id="243" stime="106.38" dur="0.29" conf="0.400"> crud </Word>
+<Word id="244" stime="106.67" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="108.75" etime="113.10" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="245" stime="108.88" dur="0.12" conf="0.230"> [joey_tribbiani] </Word>
+<Word id="246" stime="109.03" dur="0.09" conf="0.100"> Ha-ha-ha </Word>
+<Word id="247" stime="109.12" dur="0.00" conf="0.100"> , </Word>
+<Word id="248" stime="109.12" dur="0.12" conf="0.230"> very </Word>
+<Word id="249" stime="109.24" dur="0.06" conf="0.400"> funny </Word>
+<Word id="250" stime="109.30" dur="0.00" conf="0.950"> . </Word>
+<Word id="251" stime="109.82" dur="0.10" conf="0.400"> Look </Word>
+<Word id="252" stime="109.92" dur="0.00" conf="0.100"> , </Word>
+<Word id="253" stime="109.98" dur="0.10" conf="0.100"> I </Word>
+<Word id="254" stime="110.11" dur="0.21" conf="0.460"> don't </Word>
+<Word id="255" stime="110.36" dur="0.17" conf="0.990"> know </Word>
+<Word id="256" stime="110.53" dur="0.22" conf="0.460"> what </Word>
+<Word id="257" stime="110.84" dur="0.10" conf="0.320"> to </Word>
+<Word id="258" stime="110.97" dur="0.10" conf="0.230"> do </Word>
+<Word id="259" stime="111.07" dur="0.00" conf="0.950"> ! </Word>
+<Word id="260" stime="111.13" dur="0.42" conf="0.150"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="261" stime="112.27" dur="0.21" conf="0.270"> It </Word>
+<Word id="262" stime="112.53" dur="0.19" conf="0.200"> is </Word>
+<Word id="263" stime="112.79" dur="0.30" conf="0.320"> one </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="118.03" etime="124.65" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="264" stime="118.03" dur="0.25" conf="0.270"> of </Word>
+<Word id="265" stime="118.31" dur="0.09" conf="0.460"> those </Word>
+<Word id="266" stime="118.40" dur="0.09" conf="0.100"> days </Word>
+<Word id="267" stime="118.49" dur="0.00" conf="0.950"> ! </Word>
+<Word id="268" stime="119.37" dur="0.17" conf="0.300"> [phoebe_buffay] </Word>
+<Word id="269" stime="119.57" dur="0.12" conf="0.180"> 'Xcusa </Word>
+<Word id="270" stime="119.69" dur="0.09" conf="0.290"> seniora </Word>
+<Word id="271" stime="119.78" dur="0.00" conf="0.100"> , </Word>
+<Word id="272" stime="119.78" dur="0.09" conf="0.120"> voulez-bere </Word>
+<Word id="273" stime="119.90" dur="0.12" conf="0.120"> quakay--uck </Word>
+<Word id="274" stime="120.07" dur="0.19" conf="0.270"> it </Word>
+<Word id="275" stime="120.26" dur="0.00" conf="0.950"> ! </Word>
+<Word id="276" stime="121.34" dur="0.27" conf="0.100"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="277" stime="121.91" dur="0.24" conf="0.100"> Wow </Word>
+<Word id="278" stime="122.26" dur="0.25" conf="0.400"> Pheebs </Word>
+<Word id="279" stime="122.51" dur="0.00" conf="0.100"> , </Word>
+<Word id="280" stime="122.57" dur="0.09" conf="0.480"> you-you </Word>
+<Word id="281" stime="122.69" dur="0.12" conf="0.100"> speak </Word>
+<Word id="282" stime="122.81" dur="0.24" conf="0.320"> gutter </Word>
+<Word id="283" stime="123.05" dur="0.00" conf="0.950"> ? </Word>
+<Word id="284" stime="123.75" dur="0.14" conf="0.140"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="285" stime="123.97" dur="0.08" conf="0.320"> You </Word>
+<Word id="286" stime="124.07" dur="0.19" conf="0.360"> still </Word>
+<Word id="287" stime="124.31" dur="0.12" conf="0.320"> get </Word>
+<Word id="288" stime="124.43" dur="0.20" conf="0.180"> nervous </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="126.51" etime="129.88" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="289" stime="126.51" dur="0.36" conf="0.100"> everybody </Word>
+<Word id="290" stime="128.75" dur="0.50" conf="0.100"> just </Word>
+<Word id="291" stime="129.39" dur="0.08" conf="0.440"> before </Word>
+<Word id="292" stime="129.47" dur="0.15" conf="0.100"> a </Word>
+<Word id="293" stime="129.62" dur="0.07" conf="0.270"> show </Word>
+<Word id="294" stime="129.69" dur="0.00" conf="0.950"> ? </Word>
+<Word id="295" stime="129.71" dur="0.16" conf="0.100"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="132.23" etime="136.85" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="296" stime="132.53" dur="0.29" conf="0.340"> Absolutely </Word>
+<Word id="297" stime="132.82" dur="0.00" conf="0.950"> . </Word>
+<Word id="298" stime="133.46" dur="0.15" conf="0.100"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="299" stime="133.61" dur="0.13" conf="0.110"> Everybody </Word>
+<Word id="300" stime="133.74" dur="0.00" conf="0.950"> . </Word>
+<Word id="301" stime="133.88" dur="0.06" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="302" stime="134.03" dur="0.15" conf="0.400"> It's </Word>
+<Word id="303" stime="134.18" dur="0.24" conf="0.250"> amazing </Word>
+<Word id="304" stime="134.42" dur="0.06" conf="0.230"> like </Word>
+<Word id="305" stime="135.79" dur="0.22" conf="0.230"> all </Word>
+<Word id="306" stime="136.04" dur="0.09" conf="0.530"> week </Word>
+<Word id="307" stime="136.13" dur="0.17" conf="0.360"> long </Word>
+<Word id="308" stime="136.30" dur="0.04" conf="0.100"> we've-we've </Word>
+<Word id="309" stime="136.34" dur="0.09" conf="0.100"> been </Word>
+<Word id="310" stime="136.46" dur="0.09" conf="0.200"> saying </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="138.55" etime="144.24" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="311" stime="138.85" dur="0.06" conf="0.990"> the </Word>
+<Word id="312" stime="139.22" dur="0.12" conf="0.230"> same </Word>
+<Word id="313" stime="139.34" dur="0.68" conf="0.400"> lines </Word>
+<Word id="314" stime="140.97" dur="0.05" conf="0.100"> and </Word>
+<Word id="315" stime="141.10" dur="0.05" conf="0.530"> then </Word>
+<Word id="316" stime="141.35" dur="0.12" conf="0.530"> the </Word>
+<Word id="317" stime="141.95" dur="0.27" conf="0.250"> audience </Word>
+<Word id="318" stime="142.22" dur="0.07" conf="0.400"> is </Word>
+<Word id="319" stime="142.90" dur="0.19" conf="0.200"> here </Word>
+<Word id="320" stime="143.09" dur="0.06" conf="0.400"> and </Word>
+<Word id="321" stime="143.26" dur="0.43" conf="0.180"> we </Word>
+<Word id="322" stime="143.69" dur="0.09" conf="0.100"> will </Word>
+<Word id="323" stime="143.78" dur="0.44" conf="0.370"> mess </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="144.82" etime="147.32" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="324" stime="144.82" dur="0.36" conf="0.100"> up </Word>
+<Word id="325" stime="145.18" dur="0.00" conf="0.100"> , </Word>
+<Word id="326" stime="145.78" dur="0.14" conf="0.530"> and </Word>
+<Word id="327" stime="146.02" dur="0.15" conf="0.100"> if </Word>
+<Word id="328" stime="146.21" dur="0.10" conf="0.400"> you </Word>
+<Word id="329" stime="146.33" dur="0.12" conf="0.270"> mess </Word>
+<Word id="330" stime="146.45" dur="0.27" conf="0.230"> up </Word>
+<Word id="331" stime="146.72" dur="0.09" conf="0.270"> once </Word>
+<Word id="332" stime="146.81" dur="0.00" conf="0.100"> , </Word>
+<Word id="333" stime="146.81" dur="0.18" conf="0.400"> then </Word>
+<Word id="334" stime="146.99" dur="0.15" conf="0.530"> you'll </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="149.93" etime="154.25" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="335" stime="150.09" dur="0.15" conf="0.230"> get </Word>
+<Word id="336" stime="150.29" dur="0.19" conf="0.130"> nervous </Word>
+<Word id="337" stime="150.48" dur="0.07" conf="0.100"> because </Word>
+<Word id="338" stime="150.57" dur="0.09" conf="0.320"> you'll-you </Word>
+<Word id="339" stime="150.70" dur="0.14" conf="0.200"> know </Word>
+<Word id="340" stime="150.84" dur="0.12" conf="0.100"> you'll </Word>
+<Word id="341" stime="150.96" dur="0.24" conf="0.130"> probably </Word>
+<Word id="342" stime="151.20" dur="0.24" conf="0.160"> mess </Word>
+<Word id="343" stime="151.44" dur="0.12" conf="0.100"> up </Word>
+<Word id="344" stime="151.56" dur="0.12" conf="0.270"> again </Word>
+<Word id="345" stime="151.68" dur="0.00" conf="0.950"> . </Word>
+<Word id="346" stime="151.68" dur="0.24" conf="0.170"> [the_director] </Word>
+<Word id="347" stime="151.98" dur="0.12" conf="0.320"> Action </Word>
+<Word id="348" stime="152.10" dur="0.00" conf="0.950"> ! </Word>
+<Word id="349" stime="152.10" dur="0.43" conf="0.170"> [monica_geller] </Word>
+<Word id="350" stime="152.82" dur="0.53" conf="0.320"> When </Word>
+<Word id="351" stime="153.84" dur="0.11" conf="0.460"> you </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="162.10" etime="177.64" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="352" stime="162.21" dur="0.20" conf="0.200"> were </Word>
+<Word id="353" stime="162.41" dur="0.18" conf="0.990"> little </Word>
+<Word id="354" stime="162.59" dur="0.10" conf="0.100"> you </Word>
+<Word id="355" stime="162.69" dur="0.44" conf="0.400"> slept </Word>
+<Word id="356" stime="163.13" dur="0.12" conf="0.170"> through-through </Word>
+<Word id="357" stime="163.25" dur="0.09" conf="0.990"> the </Word>
+<Word id="358" stime="163.46" dur="0.51" conf="0.110"> Grand </Word>
+<Word id="359" stime="164.27" dur="0.53" conf="0.400"> Canyon </Word>
+<Word id="360" stime="164.80" dur="0.00" conf="0.950"> . </Word>
+<Word id="361" stime="165.33" dur="0.20" conf="0.220"> [the_director] </Word>
+<Word id="362" stime="165.53" dur="0.06" conf="0.230"> Watch </Word>
+<Word id="363" stime="165.64" dur="0.22" conf="0.100"> again </Word>
+<Word id="364" stime="165.86" dur="0.26" conf="0.360"> that </Word>
+<Word id="365" stime="166.19" dur="0.21" conf="0.690"> hand </Word>
+<Word id="366" stime="166.40" dur="0.00" conf="0.950"> . </Word>
+<Word id="367" stime="166.73" dur="0.09" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="368" stime="166.82" dur="0.15" conf="0.580"> This'll </Word>
+<Word id="369" stime="166.97" dur="0.08" conf="0.100"> be </Word>
+<Word id="370" stime="167.05" dur="0.34" conf="0.320"> five/ten </Word>
+<Word id="371" stime="167.39" dur="0.12" conf="0.360"> takes </Word>
+<Word id="372" stime="167.51" dur="0.00" conf="0.950"> . </Word>
+<Word id="373" stime="167.51" dur="0.09" conf="0.110"> [the_director] </Word>
+<Word id="374" stime="167.60" dur="0.34" conf="0.320"> Okay </Word>
+<Word id="375" stime="167.94" dur="0.00" conf="0.950"> . </Word>
+<Word id="376" stime="168.07" dur="0.19" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="377" stime="168.26" dur="0.12" conf="0.270"> Okay </Word>
+<Word id="378" stime="168.38" dur="0.00" conf="0.950"> . </Word>
+<Word id="379" stime="168.42" dur="0.17" conf="0.100"> You </Word>
+<Word id="380" stime="168.59" dur="0.10" conf="0.100"> know </Word>
+<Word id="381" stime="168.77" dur="0.09" conf="0.990"> it's </Word>
+<Word id="382" stime="168.86" dur="0.15" conf="0.100"> gonna </Word>
+<Word id="383" stime="169.01" dur="0.22" conf="0.160"> happen </Word>
+<Word id="384" stime="169.23" dur="0.00" conf="0.950"> . </Word>
+<Word id="385" stime="170.49" dur="0.26" conf="0.260"> [the_director] </Word>
+<Word id="386" stime="170.84" dur="0.27" conf="0.270"> Once </Word>
+<Word id="387" stime="171.62" dur="0.15" conf="0.270"> again </Word>
+<Word id="388" stime="171.77" dur="0.00" conf="0.100"> , </Word>
+<Word id="389" stime="171.77" dur="0.18" conf="0.180"> and </Word>
+<Word id="390" stime="171.99" dur="0.17" conf="0.580"> action </Word>
+<Word id="391" stime="172.16" dur="0.00" conf="0.950"> ! </Word>
+<Word id="392" stime="172.43" dur="0.24" conf="0.100"> [monica_geller] </Word>
+<Word id="393" stime="172.67" dur="0.35" conf="0.100"> When-when </Word>
+<Word id="394" stime="173.54" dur="0.34" conf="0.460"> you </Word>
+<Word id="395" stime="173.99" dur="0.14" conf="0.160"> were </Word>
+<Word id="396" stime="174.32" dur="0.17" conf="0.180"> little </Word>
+<Word id="397" stime="174.53" dur="0.06" conf="0.320"> you </Word>
+<Word id="398" stime="174.59" dur="0.16" conf="0.360"> slept </Word>
+<Word id="399" stime="174.84" dur="0.20" conf="0.270"> through </Word>
+<Word id="400" stime="175.04" dur="0.12" conf="0.990"> the </Word>
+<Word id="401" stime="175.16" dur="0.23" conf="0.400"> Grand </Word>
+<Word id="402" stime="175.67" dur="0.33" conf="0.440"> Canyon </Word>
+<Word id="403" stime="176.00" dur="0.00" conf="0.950"> . </Word>
+<Word id="404" stime="176.63" dur="0.19" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="405" stime="176.87" dur="0.12" conf="0.320"> Oh </Word>
+<Word id="406" stime="176.99" dur="0.00" conf="0.950"> ! </Word>
+<Word id="407" stime="177.02" dur="0.32" conf="0.460"> Okay </Word>
+<Word id="408" stime="177.34" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="180.79" etime="181.94" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="409" stime="180.79" dur="0.15" conf="0.990"> I'm </Word>
+<Word id="410" stime="181.04" dur="0.24" conf="0.440"> gonna </Word>
+<Word id="411" stime="181.40" dur="0.54" conf="0.320"> try </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="182.77" etime="195.07" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="412" stime="182.77" dur="0.36" conf="0.100"> it </Word>
+<Word id="413" stime="183.96" dur="0.40" conf="0.440"> without </Word>
+<Word id="414" stime="184.74" dur="0.20" conf="0.460"> the </Word>
+<Word id="415" stime="184.94" dur="0.21" conf="0.100"> coffee </Word>
+<Word id="416" stime="185.15" dur="0.22" conf="0.100"> cup </Word>
+<Word id="417" stime="185.37" dur="0.21" conf="0.100"> 'cause </Word>
+<Word id="418" stime="185.58" dur="0.15" conf="0.990"> I </Word>
+<Word id="419" stime="185.73" dur="0.22" conf="0.180"> think </Word>
+<Word id="420" stime="186.00" dur="0.36" conf="0.100"> it's </Word>
+<Word id="421" stime="186.36" dur="0.12" conf="0.990"> the </Word>
+<Word id="422" stime="186.48" dur="0.32" conf="0.360"> left </Word>
+<Word id="423" stime="187.11" dur="0.27" conf="0.180"> hand </Word>
+<Word id="424" stime="187.38" dur="0.09" conf="0.360"> that's </Word>
+<Word id="425" stime="187.47" dur="0.36" conf="0.460"> messing </Word>
+<Word id="426" stime="187.83" dur="0.24" conf="0.180"> me </Word>
+<Word id="427" stime="188.07" dur="0.06" conf="0.100"> up </Word>
+<Word id="428" stime="188.13" dur="0.00" conf="0.950"> . </Word>
+<Word id="429" stime="188.16" dur="0.12" conf="0.150"> [monica_geller] </Word>
+<Word id="430" stime="188.28" dur="0.15" conf="0.400"> When </Word>
+<Word id="431" stime="188.43" dur="0.09" conf="0.990"> you </Word>
+<Word id="432" stime="188.52" dur="0.09" conf="0.100"> were </Word>
+<Word id="433" stime="188.61" dur="0.33" conf="0.100"> little </Word>
+<Word id="434" stime="188.94" dur="0.33" conf="0.400"> you </Word>
+<Word id="435" stime="189.27" dur="0.09" conf="0.230"> slept </Word>
+<Word id="436" stime="189.36" dur="0.18" conf="0.320"> through </Word>
+<Word id="437" stime="189.75" dur="0.14" conf="0.100"> the </Word>
+<Word id="438" stime="189.93" dur="0.27" conf="0.430"> Grand--Oh </Word>
+<Word id="439" stime="190.30" dur="0.41" conf="0.100"> fffff </Word>
+<Word id="440" stime="190.71" dur="0.00" conf="0.950"> ... </Word>
+<Word id="441" stime="190.76" dur="0.00" conf="0.950"> . </Word>
+<Word id="442" stime="192.36" dur="0.08" conf="0.100"> [monica_geller] </Word>
+<Word id="443" stime="192.44" dur="0.63" conf="0.530"> Sorry </Word>
+<Word id="444" stime="193.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="445" stime="194.19" dur="0.69" conf="0.320"> let's </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="195.07" etime="197.84" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="446" stime="195.32" dur="2.22" conf="0.100"> go </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="197.90" etime="199.74" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="447" stime="197.90" dur="0.13" conf="0.230"> back </Word>
+<Word id="448" stime="198.03" dur="0.00" conf="0.950"> ! </Word>
+<Word id="449" stime="198.09" dur="0.07" conf="0.400"> 'Cause </Word>
+<Word id="450" stime="198.18" dur="0.32" conf="0.340"> you've </Word>
+<Word id="451" stime="198.50" dur="0.07" conf="0.640"> got </Word>
+<Word id="452" stime="198.57" dur="0.21" conf="0.400"> more </Word>
+<Word id="453" stime="198.78" dur="0.15" conf="0.400"> to </Word>
+<Word id="454" stime="198.93" dur="0.51" conf="0.360"> say </Word>
+<Word id="455" stime="199.44" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="201.95" etime="202.79" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="456" stime="202.25" dur="0.24" conf="0.110"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="203.34" etime="206.60" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="457" stime="203.47" dur="0.06" conf="0.990"> Do </Word>
+<Word id="458" stime="203.53" dur="0.04" conf="0.100"> I </Word>
+<Word id="459" stime="203.57" dur="0.00" conf="0.950"> ? </Word>
+<Word id="460" stime="203.61" dur="0.16" conf="0.250"> Absolutely </Word>
+<Word id="461" stime="203.77" dur="0.00" conf="0.950"> . </Word>
+<Word id="462" stime="203.77" dur="0.44" conf="0.340"> Absolutely </Word>
+<Word id="463" stime="204.21" dur="0.00" conf="0.950"> . </Word>
+<Word id="464" stime="206.14" dur="0.15" conf="0.270"> Yeah </Word>
+<Word id="465" stime="206.29" dur="0.00" conf="0.100"> , </Word>
+<Word id="466" stime="206.35" dur="0.24" conf="0.320"> that's </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="206.60" etime="210.98" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="467" stime="206.85" dur="3.88" conf="0.100"> your </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="210.98" etime="220.32" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="468" stime="210.98" dur="0.21" conf="0.400"> fault </Word>
+<Word id="469" stime="211.19" dur="0.00" conf="0.950"> . </Word>
+<Word id="470" stime="211.23" dur="0.30" conf="0.100"> I </Word>
+<Word id="471" stime="211.78" dur="0.20" conf="0.120"> ...say </Word>
+<Word id="472" stime="211.98" dur="0.00" conf="0.950"> . </Word>
+<Word id="473" stime="211.98" dur="0.30" conf="0.130"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="474" stime="212.31" dur="0.12" conf="0.990"> I </Word>
+<Word id="475" stime="212.43" dur="0.12" conf="0.100"> love </Word>
+<Word id="476" stime="212.55" dur="0.27" conf="0.320"> you </Word>
+<Word id="477" stime="212.82" dur="0.00" conf="0.950"> . </Word>
+<Word id="478" stime="213.12" dur="0.15" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="479" stime="213.27" dur="0.31" conf="0.270"> I </Word>
+<Word id="480" stime="213.77" dur="0.13" conf="0.320"> love </Word>
+<Word id="481" stime="213.90" dur="0.45" conf="0.290"> you </Word>
+<Word id="482" stime="214.35" dur="0.00" conf="0.950"> ! </Word>
+<Word id="483" stime="214.35" dur="0.15" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="484" stime="214.50" dur="0.06" conf="0.320"> But </Word>
+<Word id="485" stime="214.58" dur="0.10" conf="0.230"> there </Word>
+<Word id="486" stime="214.68" dur="0.18" conf="0.460"> must </Word>
+<Word id="487" stime="214.86" dur="0.21" conf="0.400"> be </Word>
+<Word id="488" stime="215.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="489" stime="215.14" dur="0.29" conf="0.100"> there </Word>
+<Word id="490" stime="215.57" dur="0.25" conf="0.110"> must-are </Word>
+<Word id="491" stime="215.82" dur="0.12" conf="0.100"> a </Word>
+<Word id="492" stime="216.01" dur="0.20" conf="0.230"> lot </Word>
+<Word id="493" stime="216.21" dur="0.15" conf="0.320"> of </Word>
+<Word id="494" stime="216.36" dur="0.27" conf="0.480"> moments </Word>
+<Word id="495" stime="216.63" dur="0.08" conf="0.100"> over </Word>
+<Word id="496" stime="216.71" dur="0.28" conf="0.400"> the </Word>
+<Word id="497" stime="216.99" dur="0.00" conf="0.100"> years </Word>
+<Word id="498" stime="216.99" dur="0.30" conf="0.320"> where </Word>
+<Word id="499" stime="217.29" dur="0.15" conf="0.160"> you're </Word>
+<Word id="500" stime="217.52" dur="0.31" conf="0.990"> just </Word>
+<Word id="501" stime="217.83" dur="0.14" conf="0.180"> trying </Word>
+<Word id="502" stime="218.01" dur="0.12" conf="0.100"> to </Word>
+<Word id="503" stime="218.13" dur="0.48" conf="0.180"> do </Word>
+<Word id="504" stime="218.61" dur="0.12" conf="0.100"> your </Word>
+<Word id="505" stime="218.77" dur="0.23" conf="0.270"> job </Word>
+<Word id="506" stime="219.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="507" stime="219.00" dur="0.30" conf="0.340"> something </Word>
+<Word id="508" stime="219.30" dur="0.21" conf="0.400"> goes </Word>
+<Word id="509" stime="219.57" dur="0.45" conf="0.400"> wrong </Word>
+<Word id="510" stime="220.02" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="222.78" etime="228.56" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="511" stime="222.78" dur="0.67" conf="0.210"> [joey_tribbiani] </Word>
+<Word id="512" stime="224.32" dur="0.33" conf="0.990"> Hey </Word>
+<Word id="513" stime="224.74" dur="0.15" conf="0.100"> and </Word>
+<Word id="514" stime="224.89" dur="0.00" conf="0.100"> , </Word>
+<Word id="515" stime="224.95" dur="0.24" conf="0.200"> this </Word>
+<Word id="516" stime="225.42" dur="0.23" conf="0.100"> is </Word>
+<Word id="517" stime="225.75" dur="0.24" conf="0.270"> a </Word>
+<Word id="518" stime="226.18" dur="0.26" conf="0.400"> little </Word>
+<Word id="519" stime="226.48" dur="0.24" conf="0.320"> extra </Word>
+<Word id="520" stime="226.94" dur="0.26" conf="0.290"> something </Word>
+<Word id="521" stime="227.25" dur="0.25" conf="0.100"> for </Word>
+<Word id="522" stime="227.50" dur="0.12" conf="0.200"> y'know </Word>
+<Word id="523" stime="227.62" dur="0.00" conf="0.100"> , </Word>
+<Word id="524" stime="227.76" dur="0.04" conf="0.230"> always </Word>
+<Word id="525" stime="227.80" dur="0.24" conf="0.320"> being </Word>
+<Word id="526" stime="228.10" dur="0.06" conf="0.230"> there </Word>
+<Word id="527" stime="228.24" dur="0.32" conf="0.200"> for </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="230.46" etime="231.05" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="528" stime="230.56" dur="0.19" conf="0.320"> me </Word>
+<Word id="529" stime="230.75" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="237.42" etime="239.33" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="530" stime="237.72" dur="0.28" conf="0.100"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="531" stime="238.33" dur="0.36" conf="0.530"> Hey </Word>
+<Word id="532" stime="238.73" dur="0.14" conf="0.460"> Joey </Word>
+<Word id="533" stime="238.87" dur="0.00" conf="0.950"> ! </Word>
+<Word id="534" stime="238.87" dur="0.00" conf="0.100"> The </Word>
+<Word id="535" stime="238.87" dur="0.39" conf="0.530"> camera </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="245.96" etime="249.78" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="536" stime="246.00" dur="0.21" conf="0.690"> hit </Word>
+<Word id="537" stime="246.39" dur="0.18" conf="0.690"> our </Word>
+<Word id="538" stime="246.57" dur="0.07" conf="0.100"> wall </Word>
+<Word id="539" stime="246.64" dur="0.00" conf="0.950"> ! </Word>
+<Word id="540" stime="246.71" dur="0.58" conf="0.140"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="541" stime="247.44" dur="0.12" conf="0.400"> What? </Word>
+<Word id="542" stime="247.56" dur="0.00" conf="0.950"> ! </Word>
+<Word id="543" stime="248.28" dur="0.12" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="544" stime="248.40" dur="0.07" conf="0.400"> Ahh </Word>
+<Word id="545" stime="248.47" dur="0.00" conf="0.950"> ! </Word>
+<Word id="546" stime="249.10" dur="0.17" conf="0.530"> Sh--it </Word>
+<Word id="547" stime="249.27" dur="0.06" conf="0.530"> that </Word>
+<Word id="548" stime="249.33" dur="0.15" conf="0.460"> hurt </Word>
+<Word id="549" stime="249.48" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="252.63" etime="258.58" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="550" stime="252.88" dur="0.36" conf="0.100"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="551" stime="253.24" dur="0.10" conf="0.990"> Are </Word>
+<Word id="552" stime="253.36" dur="0.12" conf="0.990"> you </Word>
+<Word id="553" stime="253.48" dur="0.36" conf="0.180"> okay </Word>
+<Word id="554" stime="253.84" dur="0.00" conf="0.950"> ? </Word>
+<Word id="555" stime="255.88" dur="0.29" conf="0.240"> [chandler_bing] </Word>
+<Word id="556" stime="256.24" dur="0.06" conf="0.530"> Hey </Word>
+<Word id="557" stime="256.30" dur="0.36" conf="0.130"> Rach </Word>
+<Word id="558" stime="256.66" dur="0.00" conf="0.950"> ! </Word>
+<Word id="559" stime="256.81" dur="0.12" conf="0.250"> [joey_tribbiani] </Word>
+<Word id="560" stime="256.93" dur="0.09" conf="0.400"> Oh </Word>
+<Word id="561" stime="257.07" dur="0.19" conf="0.180"> yeah </Word>
+<Word id="562" stime="257.26" dur="0.00" conf="0.950"> ? </Word>
+<Word id="563" stime="257.47" dur="0.36" conf="0.290"> Then </Word>
+<Word id="564" stime="257.83" dur="0.06" conf="0.320"> how </Word>
+<Word id="565" stime="257.97" dur="0.31" conf="0.480"> come </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="261.70" etime="267.41" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="566" stime="262.00" dur="0.12" conf="0.990"> I </Word>
+<Word id="567" stime="262.12" dur="0.24" conf="0.100"> keep- </Word>
+<Word id="568" stime="262.48" dur="0.30" conf="0.100"> [monica_geller] </Word>
+<Word id="569" stime="262.78" dur="0.35" conf="0.270"> It </Word>
+<Word id="570" stime="263.29" dur="0.07" conf="0.270"> was </Word>
+<Word id="571" stime="263.40" dur="0.22" conf="0.360"> so </Word>
+<Word id="572" stime="263.62" dur="0.12" conf="0.200"> wild </Word>
+<Word id="573" stime="263.74" dur="0.00" conf="0.950"> ! </Word>
+<Word id="574" stime="265.86" dur="0.31" conf="0.100"> We </Word>
+<Word id="575" stime="266.17" dur="0.11" conf="0.270"> told </Word>
+<Word id="576" stime="266.35" dur="0.15" conf="0.460"> 'em </Word>
+<Word id="577" stime="266.50" dur="0.24" conf="0.100"> we </Word>
+<Word id="578" stime="266.80" dur="0.05" conf="0.710"> were </Word>
+<Word id="579" stime="266.89" dur="0.19" conf="0.100"> the </Word>
+<Word id="580" stime="267.18" dur="0.23" conf="0.210"> Gunderson's </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="267.69" etime="272.19" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="581" stime="267.99" dur="0.29" conf="0.400"> in </Word>
+<Word id="582" stime="268.38" dur="0.30" conf="0.300"> 16 </Word>
+<Word id="583" stime="268.68" dur="0.05" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="584" stime="268.73" dur="0.10" conf="0.990"> I </Word>
+<Word id="585" stime="268.83" dur="0.19" conf="0.180"> spit </Word>
+<Word id="586" stime="269.07" dur="0.12" conf="0.400"> on </Word>
+<Word id="587" stime="269.19" dur="0.14" conf="0.230"> her </Word>
+<Word id="588" stime="269.33" dur="0.00" conf="0.950"> ! </Word>
+<Word id="589" stime="269.46" dur="0.26" conf="0.100"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="590" stime="269.90" dur="0.46" conf="0.340"> Operation </Word>
+<Word id="591" stime="270.36" dur="0.00" conf="0.950"> . </Word>
+<Word id="592" stime="270.97" dur="0.14" conf="0.320"> You </Word>
+<Word id="593" stime="271.11" dur="0.27" conf="0.230"> had </Word>
+<Word id="594" stime="271.38" dur="0.09" conf="0.100"> a </Word>
+<Word id="595" stime="271.47" dur="0.13" conf="0.200"> fun </Word>
+<Word id="596" stime="271.70" dur="0.19" conf="0.360"> one </Word>
+<Word id="597" stime="271.89" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="274.21" etime="283.97" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="598" stime="274.51" dur="0.21" conf="0.100"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="599" stime="274.72" dur="0.12" conf="0.320"> Oh </Word>
+<Word id="600" stime="274.84" dur="0.62" conf="0.180"> yeah </Word>
+<Word id="601" stime="275.46" dur="0.00" conf="0.950"> ! </Word>
+<Word id="602" stime="275.65" dur="0.48" conf="0.130"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="603" stime="276.13" dur="0.12" conf="0.990"> With </Word>
+<Word id="604" stime="276.25" dur="0.27" conf="0.340"> Operation </Word>
+<Word id="605" stime="276.52" dur="0.00" conf="0.950"> . </Word>
+<Word id="606" stime="276.64" dur="0.63" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="607" stime="277.30" dur="0.12" conf="0.320"> It </Word>
+<Word id="608" stime="277.53" dur="0.46" conf="0.180"> was </Word>
+<Word id="609" stime="278.03" dur="0.17" conf="0.320"> a </Word>
+<Word id="610" stime="278.29" dur="0.36" conf="0.340"> little </Word>
+<Word id="611" stime="278.65" dur="0.75" conf="0.490"> game </Word>
+<Word id="612" stime="279.40" dur="0.00" conf="0.950"> . </Word>
+<Word id="613" stime="280.19" dur="0.14" conf="0.600"> Yeah </Word>
+<Word id="614" stime="280.33" dur="0.00" conf="0.100"> , </Word>
+<Word id="615" stime="280.33" dur="0.43" conf="0.530"> with </Word>
+<Word id="616" stime="280.87" dur="0.06" conf="0.640"> an </Word>
+<Word id="617" stime="280.93" dur="0.12" conf="0.270"> electric </Word>
+<Word id="618" stime="281.05" dur="0.15" conf="0.360"> buzzer </Word>
+<Word id="619" stime="281.20" dur="0.00" conf="0.950"> . </Word>
+<Word id="620" stime="281.92" dur="0.12" conf="0.100"> [phoebe_buffay] </Word>
+<Word id="621" stime="282.04" dur="0.06" conf="0.100"> Oh-ooh </Word>
+<Word id="622" stime="282.10" dur="0.00" conf="0.100"> , </Word>
+<Word id="623" stime="282.10" dur="0.36" conf="0.460"> and </Word>
+<Word id="624" stime="282.59" dur="0.14" conf="0.530"> I </Word>
+<Word id="625" stime="282.73" dur="0.00" conf="0.100"> brought </Word>
+<Word id="626" stime="282.73" dur="0.12" conf="0.460"> Operation </Word>
+<Word id="627" stime="282.85" dur="0.00" conf="0.100"> , </Word>
+<Word id="628" stime="282.95" dur="0.41" conf="0.180"> but </Word>
+<Word id="629" stime="283.47" dur="0.50" conf="0.200"> umm </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="283.97" etime="284.88" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="630" stime="284.14" dur="0.44" conf="0.100"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="285.63" etime="293.20" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="631" stime="285.82" dur="0.12" conf="0.180"> lost </Word>
+<Word id="632" stime="285.97" dur="0.12" conf="0.460"> the </Word>
+<Word id="633" stime="286.09" dur="0.18" conf="0.270"> umm </Word>
+<Word id="634" stime="286.27" dur="0.00" conf="0.950"> ... </Word>
+<Word id="635" stime="286.64" dur="0.17" conf="0.230"> It's </Word>
+<Word id="636" stime="286.81" dur="0.15" conf="0.200"> making </Word>
+<Word id="637" stime="286.96" dur="0.06" conf="0.990"> a </Word>
+<Word id="638" stime="287.02" dur="0.04" conf="0.100"> noise </Word>
+<Word id="639" stime="287.06" dur="0.00" conf="0.950"> . </Word>
+<Word id="640" stime="287.09" dur="0.29" conf="0.100"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="641" stime="287.41" dur="0.60" conf="0.150"> But </Word>
+<Word id="642" stime="288.10" dur="0.39" conf="0.230"> le </Word>
+<Word id="643" stime="288.53" dur="0.14" conf="0.400"> Blanc </Word>
+<Word id="644" stime="288.67" dur="0.05" conf="0.100"> really </Word>
+<Word id="645" stime="288.72" dur="0.22" conf="0.400"> doesn't </Word>
+<Word id="646" stime="288.94" dur="0.15" conf="0.530"> mess </Word>
+<Word id="647" stime="289.09" dur="0.09" conf="0.990"> up </Word>
+<Word id="648" stime="289.18" dur="0.00" conf="0.100"> much </Word>
+<Word id="649" stime="289.18" dur="0.00" conf="0.950"> . </Word>
+<Word id="650" stime="289.18" dur="0.09" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="651" stime="289.27" dur="0.10" conf="0.690"> You </Word>
+<Word id="652" stime="289.42" dur="0.27" conf="0.320"> don't </Word>
+<Word id="653" stime="289.78" dur="0.39" conf="0.130"> verbally </Word>
+<Word id="654" stime="291.04" dur="0.21" conf="0.200"> mess </Word>
+<Word id="655" stime="291.25" dur="0.18" conf="0.320"> up </Word>
+<Word id="656" stime="291.43" dur="0.00" conf="0.100"> , </Word>
+<Word id="657" stime="291.46" dur="0.21" conf="0.100"> but </Word>
+<Word id="658" stime="291.77" dur="0.38" conf="0.400"> sometimes </Word>
+<Word id="659" stime="292.19" dur="0.14" conf="0.100"> physically </Word>
+<Word id="660" stime="292.33" dur="0.00" conf="0.950"> ? </Word>
+<Word id="661" stime="292.33" dur="0.15" conf="0.690"> You </Word>
+<Word id="662" stime="292.48" dur="0.68" conf="0.290"> mess </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="296.25" etime="309.36" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="663" stime="296.25" dur="0.13" conf="0.100"> up </Word>
+<Word id="664" stime="296.38" dur="0.00" conf="0.950"> . </Word>
+<Word id="665" stime="297.01" dur="0.90" conf="0.200"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="666" stime="297.93" dur="0.07" conf="0.990"> I </Word>
+<Word id="667" stime="298.00" dur="0.09" conf="0.400"> have </Word>
+<Word id="668" stime="298.27" dur="0.09" conf="0.320"> had </Word>
+<Word id="669" stime="298.36" dur="0.42" conf="0.360"> some </Word>
+<Word id="670" stime="298.83" dur="0.10" conf="0.160"> clumsy </Word>
+<Word id="671" stime="298.93" dur="0.09" conf="0.180"> moments </Word>
+<Word id="672" stime="299.02" dur="0.74" conf="0.100"> I </Word>
+<Word id="673" stime="300.43" dur="0.12" conf="0.200"> guess </Word>
+<Word id="674" stime="300.60" dur="0.19" conf="0.460"> you </Word>
+<Word id="675" stime="301.21" dur="0.12" conf="0.990"> can </Word>
+<Word id="676" stime="301.33" dur="0.15" conf="0.200"> call </Word>
+<Word id="677" stime="301.48" dur="0.36" conf="0.290"> 'em </Word>
+<Word id="678" stime="301.84" dur="0.00" conf="0.950"> . </Word>
+<Word id="679" stime="301.91" dur="0.29" conf="0.140"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="680" stime="302.32" dur="0.18" conf="0.100"> He </Word>
+<Word id="681" stime="302.57" dur="0.26" conf="0.200"> fell </Word>
+<Word id="682" stime="302.83" dur="0.00" conf="0.100"> down </Word>
+<Word id="683" stime="302.83" dur="0.36" conf="0.320"> once </Word>
+<Word id="684" stime="303.19" dur="0.00" conf="0.950"> ! </Word>
+<Word id="685" stime="303.52" dur="0.18" conf="0.990"> And </Word>
+<Word id="686" stime="303.70" dur="0.00" conf="0.100"> we </Word>
+<Word id="687" stime="303.70" dur="0.15" conf="0.320"> re-did </Word>
+<Word id="688" stime="303.89" dur="0.17" conf="0.320"> it </Word>
+<Word id="689" stime="304.10" dur="0.17" conf="0.460"> and </Word>
+<Word id="690" stime="304.32" dur="0.14" conf="0.100"> we </Word>
+<Word id="691" stime="304.54" dur="0.21" conf="0.400"> went </Word>
+<Word id="692" stime="304.75" dur="0.30" conf="0.200"> back </Word>
+<Word id="693" stime="305.05" dur="0.00" conf="0.950"> . </Word>
+<Word id="694" stime="305.86" dur="0.09" conf="0.400"> And </Word>
+<Word id="695" stime="305.99" dur="0.14" conf="0.160"> he--he </Word>
+<Word id="696" stime="306.23" dur="0.44" conf="0.460"> was </Word>
+<Word id="697" stime="306.70" dur="0.12" conf="0.230"> afraid </Word>
+<Word id="698" stime="306.94" dur="0.12" conf="0.230"> he </Word>
+<Word id="699" stime="307.17" dur="0.55" conf="0.100"> was </Word>
+<Word id="700" stime="307.75" dur="0.19" conf="0.530"> gonna </Word>
+<Word id="701" stime="307.99" dur="0.06" conf="0.270"> fall </Word>
+<Word id="702" stime="308.07" dur="0.10" conf="0.100"> down </Word>
+<Word id="703" stime="308.25" dur="0.34" conf="0.260"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="704" stime="308.59" dur="0.15" conf="0.320"> You </Word>
+<Word id="705" stime="308.74" dur="0.06" conf="0.230"> could </Word>
+<Word id="706" stime="308.80" dur="0.32" conf="0.430"> actually </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="309.36" etime="311.02" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="707" stime="309.48" dur="1.24" conf="0.100"> see </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="311.43" etime="312.26" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="708" stime="311.73" dur="0.52" conf="0.150"> him </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="313.24" etime="315.11" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="709" stime="313.24" dur="0.25" conf="0.580"> trying </Word>
+<Word id="710" stime="313.55" dur="0.39" conf="0.530"> not </Word>
+<Word id="711" stime="314.34" dur="0.29" conf="0.400"> to </Word>
+<Word id="712" stime="314.63" dur="0.00" conf="0.100"> fall </Word>
+<Word id="713" stime="314.63" dur="0.18" conf="0.460"> down </Word>
+<Word id="714" stime="314.81" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="319.21" etime="321.11" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="715" stime="319.51" dur="0.39" conf="0.280"> [joey_tribbiani] </Word>
+<Word id="716" stime="319.90" dur="0.36" conf="0.370"> Pheebs </Word>
+<Word id="717" stime="320.26" dur="0.00" conf="0.950"> ! </Word>
+<Word id="718" stime="320.78" dur="0.31" conf="0.180"> Check </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="322.22" etime="324.69" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="719" stime="322.26" dur="0.09" conf="0.530"> it </Word>
+<Word id="720" stime="322.59" dur="0.21" conf="0.640"> out </Word>
+<Word id="721" stime="322.80" dur="0.00" conf="0.950"> ! </Word>
+<Word id="722" stime="323.49" dur="0.27" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="723" stime="323.76" dur="0.36" conf="0.200"> This </Word>
+<Word id="724" stime="324.12" dur="0.15" conf="0.250"> particular </Word>
+<Word id="725" stime="324.27" dur="0.12" conf="0.460"> time </Word>
+<Word id="726" stime="324.42" dur="0.24" conf="0.100"> when </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="326.49" etime="344.35" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="727" stime="326.68" dur="0.13" conf="0.100"> he </Word>
+<Word id="728" stime="326.85" dur="0.08" conf="0.150"> continued </Word>
+<Word id="729" stime="327.03" dur="0.10" conf="0.640"> to </Word>
+<Word id="730" stime="327.23" dur="0.35" conf="0.100"> fall </Word>
+<Word id="731" stime="328.03" dur="0.15" conf="0.320"> or </Word>
+<Word id="732" stime="328.18" dur="0.12" conf="0.640"> y'know </Word>
+<Word id="733" stime="328.30" dur="0.00" conf="0.100"> , </Word>
+<Word id="734" stime="328.42" dur="0.29" conf="0.230"> try </Word>
+<Word id="735" stime="328.84" dur="0.12" conf="0.180"> not </Word>
+<Word id="736" stime="329.00" dur="0.17" conf="0.230"> to </Word>
+<Word id="737" stime="329.17" dur="0.03" conf="0.100"> fall </Word>
+<Word id="738" stime="329.20" dur="0.00" conf="0.100"> , </Word>
+<Word id="739" stime="329.20" dur="0.18" conf="0.530"> I </Word>
+<Word id="740" stime="329.38" dur="0.00" conf="0.100"> was </Word>
+<Word id="741" stime="329.38" dur="0.21" conf="0.400"> in </Word>
+<Word id="742" stime="329.69" dur="0.41" conf="0.460"> the </Word>
+<Word id="743" stime="330.13" dur="0.24" conf="0.270"> room </Word>
+<Word id="744" stime="330.41" dur="0.12" conf="0.460"> with </Word>
+<Word id="745" stime="330.53" dur="0.11" conf="0.130"> Matthew </Word>
+<Word id="746" stime="330.64" dur="0.09" conf="0.460"> and </Word>
+<Word id="747" stime="330.77" dur="0.14" conf="0.440"> Matthew </Word>
+<Word id="748" stime="330.91" dur="0.06" conf="0.400"> was </Word>
+<Word id="749" stime="330.97" dur="0.03" conf="0.100"> like </Word>
+<Word id="750" stime="331.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="751" stime="331.00" dur="0.00" conf="0.100"> &quot; </Word>
+<Word id="752" stime="331.00" dur="0.21" conf="0.320"> Should </Word>
+<Word id="753" stime="331.21" dur="0.06" conf="0.100"> I </Word>
+<Word id="754" stime="331.27" dur="0.33" conf="0.100"> do </Word>
+<Word id="755" stime="331.60" dur="0.24" conf="0.530"> it? </Word>
+<Word id="756" stime="331.84" dur="0.00" conf="0.100"> &quot; </Word>
+<Word id="757" stime="331.87" dur="0.15" conf="0.180"> [joey_tribbiani] </Word>
+<Word id="758" stime="332.02" dur="0.06" conf="0.100"> Pheebs </Word>
+<Word id="759" stime="332.08" dur="0.00" conf="0.950"> ! </Word>
+<Word id="760" stime="334.54" dur="0.24" conf="0.200"> Check </Word>
+<Word id="761" stime="334.87" dur="0.36" conf="0.180"> it </Word>
+<Word id="762" stime="335.25" dur="0.10" conf="0.270"> out </Word>
+<Word id="763" stime="335.35" dur="0.00" conf="0.950"> ! </Word>
+<Word id="764" stime="335.49" dur="0.16" conf="0.400"> Check </Word>
+<Word id="765" stime="335.68" dur="0.23" conf="0.270"> it </Word>
+<Word id="766" stime="335.95" dur="0.42" conf="0.360"> out </Word>
+<Word id="767" stime="336.37" dur="0.00" conf="0.950"> ! </Word>
+<Word id="768" stime="336.42" dur="0.22" conf="0.100"> Check </Word>
+<Word id="769" stime="336.64" dur="0.09" conf="0.990"> it </Word>
+<Word id="770" stime="337.03" dur="0.43" conf="0.530"> out </Word>
+<Word id="771" stime="337.46" dur="0.00" conf="0.950"> ! </Word>
+<Word id="772" stime="338.32" dur="0.40" conf="0.360"> Check </Word>
+<Word id="773" stime="338.86" dur="0.57" conf="0.100"> it </Word>
+<Word id="774" stime="339.70" dur="0.27" conf="0.230"> out </Word>
+<Word id="775" stime="339.97" dur="0.00" conf="0.950"> ! </Word>
+<Word id="776" stime="341.11" dur="0.21" conf="0.150"> [phoebe_buffay] </Word>
+<Word id="777" stime="341.32" dur="0.21" conf="0.270"> Ooh </Word>
+<Word id="778" stime="341.53" dur="0.00" conf="0.100"> , </Word>
+<Word id="779" stime="341.64" dur="0.46" conf="0.360"> Soap </Word>
+<Word id="780" stime="342.16" dur="0.29" conf="0.200"> Opera </Word>
+<Word id="781" stime="343.09" dur="0.27" conf="0.370"> Digest </Word>
+<Word id="782" stime="343.36" dur="0.00" conf="0.950"> ! </Word>
+<Word id="783" stime="343.36" dur="0.09" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="784" stime="343.45" dur="0.10" conf="0.580"> Matthew </Word>
+<Word id="785" stime="343.55" dur="0.00" conf="0.100"> , </Word>
+<Word id="786" stime="343.57" dur="0.06" conf="0.990"> you </Word>
+<Word id="787" stime="343.63" dur="0.12" conf="0.400"> have </Word>
+<Word id="788" stime="343.75" dur="0.00" conf="0.100"> a </Word>
+<Word id="789" stime="343.75" dur="0.18" conf="0.100"> reputation </Word>
+<Word id="790" stime="343.93" dur="0.34" conf="0.270"> with </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="347.42" etime="349.17" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="791" stime="347.52" dur="0.21" conf="0.990"> the </Word>
+<Word id="792" stime="347.73" dur="0.24" conf="0.320"> rest </Word>
+<Word id="793" stime="348.03" dur="0.09" conf="0.100"> of </Word>
+<Word id="794" stime="348.14" dur="0.10" conf="0.990"> the </Word>
+<Word id="795" stime="348.36" dur="0.51" conf="0.440"> cast </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="351.86" etime="356.31" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="796" stime="352.08" dur="0.12" conf="0.400"> that </Word>
+<Word id="797" stime="352.23" dur="0.09" conf="0.270"> sometimes </Word>
+<Word id="798" stime="352.32" dur="0.24" conf="0.270"> you </Word>
+<Word id="799" stime="352.56" dur="0.75" conf="0.180"> like </Word>
+<Word id="800" stime="354.42" dur="0.18" conf="0.100"> to </Word>
+<Word id="801" stime="354.60" dur="0.00" conf="0.100"> , </Word>
+<Word id="802" stime="354.60" dur="0.21" conf="0.100"> you </Word>
+<Word id="803" stime="354.81" dur="0.21" conf="0.180"> like </Word>
+<Word id="804" stime="355.02" dur="0.15" conf="0.320"> to </Word>
+<Word id="805" stime="355.19" dur="0.10" conf="0.100"> fool </Word>
+<Word id="806" stime="355.29" dur="0.24" conf="0.480"> around </Word>
+<Word id="807" stime="355.53" dur="0.09" conf="0.530"> a </Word>
+<Word id="808" stime="355.62" dur="0.12" conf="0.270"> bit </Word>
+<Word id="809" stime="355.74" dur="0.00" conf="0.950"> . </Word>
+<Word id="810" stime="355.74" dur="0.45" conf="0.270"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="358.22" etime="370.65" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="811" stime="358.29" dur="0.21" conf="0.460"> mean </Word>
+<Word id="812" stime="358.50" dur="0.12" conf="0.200"> like </Word>
+<Word id="813" stime="358.62" dur="0.09" conf="0.100"> if </Word>
+<Word id="814" stime="358.71" dur="0.30" conf="0.500"> something's </Word>
+<Word id="815" stime="359.01" dur="0.32" conf="0.100"> naturally </Word>
+<Word id="816" stime="359.57" dur="0.19" conf="0.480"> going </Word>
+<Word id="817" stime="360.13" dur="0.05" conf="0.100"> wrong </Word>
+<Word id="818" stime="360.33" dur="0.06" conf="0.990"> you </Word>
+<Word id="819" stime="360.39" dur="0.00" conf="0.100"> like </Word>
+<Word id="820" stime="360.39" dur="0.00" conf="0.100"> to </Word>
+<Word id="821" stime="360.39" dur="0.00" conf="0.100"> get </Word>
+<Word id="822" stime="360.39" dur="0.09" conf="0.270"> in </Word>
+<Word id="823" stime="360.48" dur="0.00" conf="0.100"> there </Word>
+<Word id="824" stime="360.48" dur="0.00" conf="0.100"> and </Word>
+<Word id="825" stime="360.48" dur="0.00" conf="0.100"> juice </Word>
+<Word id="826" stime="360.48" dur="0.09" conf="0.530"> it </Word>
+<Word id="827" stime="360.57" dur="0.03" conf="0.990"> a </Word>
+<Word id="828" stime="360.60" dur="0.17" conf="0.100"> little </Word>
+<Word id="829" stime="360.81" dur="0.09" conf="0.400"> bit </Word>
+<Word id="830" stime="360.90" dur="0.00" conf="0.950"> . </Word>
+<Word id="831" stime="360.95" dur="0.19" conf="0.460"> True </Word>
+<Word id="832" stime="361.32" dur="0.24" conf="0.270"> or </Word>
+<Word id="833" stime="362.14" dur="0.18" conf="0.230"> false </Word>
+<Word id="834" stime="362.32" dur="0.00" conf="0.950"> ? </Word>
+<Word id="835" stime="362.84" dur="0.39" conf="0.100"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="836" stime="363.33" dur="0.12" conf="0.990"> I </Word>
+<Word id="837" stime="363.45" dur="0.06" conf="0.100"> don't </Word>
+<Word id="838" stime="363.51" dur="0.21" conf="0.210"> necessarily </Word>
+<Word id="839" stime="363.72" dur="0.00" conf="0.100"> like </Word>
+<Word id="840" stime="363.72" dur="0.09" conf="0.990"> to </Word>
+<Word id="841" stime="363.81" dur="0.17" conf="0.100"> juice </Word>
+<Word id="842" stime="364.02" dur="0.18" conf="0.490"> things </Word>
+<Word id="843" stime="364.20" dur="0.21" conf="0.160"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="844" stime="364.44" dur="0.15" conf="0.100"> He </Word>
+<Word id="845" stime="364.59" dur="0.30" conf="0.290"> said </Word>
+<Word id="846" stime="364.96" dur="0.26" conf="0.290"> true </Word>
+<Word id="847" stime="365.22" dur="0.50" conf="0.230"> or </Word>
+<Word id="848" stime="365.72" dur="0.44" conf="0.100"> false </Word>
+<Word id="849" stime="366.16" dur="0.00" conf="0.950"> ! </Word>
+<Word id="850" stime="366.60" dur="0.21" conf="0.100"> [joey_tribbiani] </Word>
+<Word id="851" stime="366.81" dur="0.23" conf="0.270"> Oh </Word>
+<Word id="852" stime="367.04" dur="0.00" conf="0.950"> ! </Word>
+<Word id="853" stime="367.27" dur="0.23" conf="0.100"> Ooh-ooh </Word>
+<Word id="854" stime="367.50" dur="0.00" conf="0.950"> ! </Word>
+<Word id="855" stime="367.72" dur="0.23" conf="0.100"> [monica_geller] </Word>
+<Word id="856" stime="367.95" dur="0.17" conf="0.530"> What </Word>
+<Word id="857" stime="368.12" dur="0.16" conf="0.100"> are </Word>
+<Word id="858" stime="368.28" dur="0.48" conf="0.230"> you </Word>
+<Word id="859" stime="368.76" dur="0.22" conf="0.100"> doing? </Word>
+<Word id="860" stime="368.98" dur="0.00" conf="0.950"> ! </Word>
+<Word id="861" stime="369.20" dur="0.22" conf="0.100"> [joey_tribbiani] </Word>
+<Word id="862" stime="369.42" dur="0.17" conf="0.160"> You're </Word>
+<Word id="863" stime="369.69" dur="0.15" conf="0.180"> still </Word>
+<Word id="864" stime="369.84" dur="0.09" conf="0.990"> a </Word>
+<Word id="865" stime="369.93" dur="0.17" conf="0.100"> tiny </Word>
+<Word id="866" stime="370.14" dur="0.24" conf="0.460"> bit </Word>
+<Word id="867" stime="370.38" dur="0.02" conf="0.100"> on </Word>
+<Word id="868" stime="370.40" dur="0.07" conf="0.460"> fire </Word>
+<Word id="869" stime="370.50" dur="0.11" conf="0.230"> there </Word>
+<Word id="870" stime="370.61" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="370.65" etime="372.24" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="871" stime="370.87" dur="1.07" conf="0.100"> [monica_geller] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="372.39" etime="381.51" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="872" stime="372.66" dur="0.08" conf="0.270"> Oh </Word>
+<Word id="873" stime="372.74" dur="0.01" conf="0.100"> geez </Word>
+<Word id="874" stime="372.75" dur="0.00" conf="0.950"> ! </Word>
+<Word id="875" stime="372.76" dur="0.10" conf="0.100"> Okay </Word>
+<Word id="876" stime="372.86" dur="0.00" conf="0.950"> ! </Word>
+<Word id="877" stime="372.86" dur="0.14" conf="0.580"> Thanks </Word>
+<Word id="878" stime="373.00" dur="0.00" conf="0.950"> ! </Word>
+<Word id="879" stime="373.00" dur="0.19" conf="0.150"> [richard_crosby] </Word>
+<Word id="880" stime="373.19" dur="0.29" conf="0.100"> It </Word>
+<Word id="881" stime="373.48" dur="0.15" conf="0.320"> was </Word>
+<Word id="882" stime="373.63" dur="0.09" conf="0.360"> great </Word>
+<Word id="883" stime="373.72" dur="0.06" conf="0.100"> seeing </Word>
+<Word id="884" stime="373.80" dur="0.10" conf="0.100"> you </Word>
+<Word id="885" stime="373.90" dur="0.09" conf="0.990"> the </Word>
+<Word id="886" stime="373.99" dur="0.36" conf="0.640"> other </Word>
+<Word id="887" stime="374.44" dur="0.09" conf="0.460"> night </Word>
+<Word id="888" stime="374.53" dur="0.00" conf="0.950"> . </Word>
+<Word id="889" stime="374.53" dur="0.56" conf="0.170"> [monica_geller] </Word>
+<Word id="890" stime="375.97" dur="0.17" conf="0.990"> Well </Word>
+<Word id="891" stime="376.14" dur="0.00" conf="0.100"> , </Word>
+<Word id="892" stime="376.25" dur="0.19" conf="0.530"> it </Word>
+<Word id="893" stime="376.90" dur="0.29" conf="0.460"> was </Word>
+<Word id="894" stime="377.19" dur="0.43" conf="0.100"> good </Word>
+<Word id="895" stime="377.62" dur="0.42" conf="0.100"> to </Word>
+<Word id="896" stime="378.04" dur="0.21" conf="0.400"> see </Word>
+<Word id="897" stime="378.25" dur="0.09" conf="0.320"> you </Word>
+<Word id="898" stime="378.34" dur="0.09" conf="0.640"> too </Word>
+<Word id="899" stime="378.43" dur="0.00" conf="0.950"> . </Word>
+<Word id="900" stime="378.49" dur="0.05" conf="0.100"> Did </Word>
+<Word id="901" stime="378.54" dur="0.45" conf="0.200"> you </Word>
+<Word id="902" stime="379.54" dur="0.74" conf="0.100"> come </Word>
+<Word id="903" stime="380.56" dur="0.14" conf="0.270"> down </Word>
+<Word id="904" stime="380.70" dur="0.00" conf="0.100"> here </Word>
+<Word id="905" stime="380.70" dur="0.10" conf="0.990"> to </Word>
+<Word id="906" stime="380.83" dur="0.54" conf="0.360"> tell </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="383.48" etime="387.53" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="907" stime="383.48" dur="0.36" conf="0.100"> me </Word>
+<Word id="908" stime="385.94" dur="0.20" conf="0.270"> that </Word>
+<Word id="909" stime="386.14" dur="0.00" conf="0.950"> ? </Word>
+<Word id="910" stime="386.22" dur="0.14" conf="0.160"> [richard_crosby] </Word>
+<Word id="911" stime="386.40" dur="0.21" conf="0.270"> Noo </Word>
+<Word id="912" stime="386.61" dur="0.00" conf="0.950"> ! </Word>
+<Word id="913" stime="386.64" dur="0.09" conf="0.990"> I </Word>
+<Word id="914" stime="386.73" dur="0.28" conf="0.200"> came </Word>
+<Word id="915" stime="387.07" dur="0.29" conf="0.990"> down </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="398.12" etime="407.38" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="916" stime="398.12" dur="0.15" conf="0.200"> here </Word>
+<Word id="917" stime="398.31" dur="0.09" conf="0.100"> to </Word>
+<Word id="918" stime="398.45" dur="0.19" conf="0.990"> tell </Word>
+<Word id="919" stime="398.72" dur="0.31" conf="0.990"> you </Word>
+<Word id="920" stime="399.84" dur="0.21" conf="0.250"> something </Word>
+<Word id="921" stime="400.05" dur="0.00" conf="0.100"> else </Word>
+<Word id="922" stime="400.05" dur="0.00" conf="0.950"> . </Word>
+<Word id="923" stime="400.05" dur="0.09" conf="0.400"> I </Word>
+<Word id="924" stime="400.14" dur="0.24" conf="0.180"> came </Word>
+<Word id="925" stime="400.38" dur="0.00" conf="0.100"> here </Word>
+<Word id="926" stime="400.38" dur="0.09" conf="0.990"> to </Word>
+<Word id="927" stime="400.51" dur="0.17" conf="0.990"> tell </Word>
+<Word id="928" stime="400.70" dur="0.10" conf="0.990"> you </Word>
+<Word id="929" stime="400.80" dur="0.10" conf="0.990"> I </Word>
+<Word id="930" stime="400.90" dur="0.02" conf="0.100"> still </Word>
+<Word id="931" stime="400.92" dur="0.12" conf="0.200"> love </Word>
+<Word id="932" stime="401.04" dur="0.09" conf="0.990"> you </Word>
+<Word id="933" stime="401.13" dur="0.00" conf="0.950"> . </Word>
+<Word id="934" stime="401.22" dur="0.51" conf="0.210"> [chandler_bing] </Word>
+<Word id="935" stime="402.54" dur="0.19" conf="0.600"> What </Word>
+<Word id="936" stime="402.78" dur="0.14" conf="0.320"> the </Word>
+<Word id="937" stime="402.92" dur="0.00" conf="0.100"> fu--ck </Word>
+<Word id="938" stime="402.92" dur="0.10" conf="0.990"> are </Word>
+<Word id="939" stime="403.02" dur="0.03" conf="0.100"> you </Word>
+<Word id="940" stime="403.05" dur="0.24" conf="0.100"> doing? </Word>
+<Word id="941" stime="403.29" dur="0.00" conf="0.950"> ! </Word>
+<Word id="942" stime="403.29" dur="0.24" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="943" stime="403.53" dur="0.18" conf="0.270"> Now </Word>
+<Word id="944" stime="403.71" dur="0.48" conf="0.990"> you </Word>
+<Word id="945" stime="404.19" dur="0.48" conf="0.100"> guys </Word>
+<Word id="946" stime="404.67" dur="0.21" conf="0.100"> work </Word>
+<Word id="947" stime="404.88" dur="0.12" conf="0.400"> with </Word>
+<Word id="948" stime="405.00" dur="0.00" conf="0.100"> animals </Word>
+<Word id="949" stime="405.00" dur="0.18" conf="0.100"> a </Word>
+<Word id="950" stime="405.18" dur="0.24" conf="0.460"> lot </Word>
+<Word id="951" stime="405.42" dur="0.00" conf="0.950"> . </Word>
+<Word id="952" stime="405.47" dur="0.19" conf="0.990"> You </Word>
+<Word id="953" stime="406.02" dur="0.24" conf="0.230"> had </Word>
+<Word id="954" stime="406.29" dur="0.17" conf="0.200"> to </Word>
+<Word id="955" stime="406.63" dur="0.26" conf="0.160"> work </Word>
+<Word id="956" stime="406.89" dur="0.29" conf="0.370"> early </Word>
+<Word id="957" stime="407.23" dur="0.14" conf="0.320"> on </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="410.14" etime="411.37" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="958" stime="410.18" dur="0.12" conf="0.270"> with </Word>
+<Word id="959" stime="410.30" dur="0.27" conf="0.270"> a </Word>
+<Word id="960" stime="410.57" dur="0.33" conf="0.160"> monkey </Word>
+<Word id="961" stime="410.90" dur="0.47" conf="0.150"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="415.86" etime="419.93" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="962" stime="416.16" dur="0.21" conf="0.360"> That </Word>
+<Word id="963" stime="416.45" dur="0.16" conf="0.400"> damn </Word>
+<Word id="964" stime="416.61" dur="0.48" conf="0.200"> monkey </Word>
+<Word id="965" stime="417.09" dur="0.00" conf="0.950"> . </Word>
+<Word id="966" stime="417.90" dur="0.33" conf="0.110"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="967" stime="418.23" dur="0.12" conf="0.990"> That </Word>
+<Word id="968" stime="418.39" dur="0.14" conf="0.100"> damn </Word>
+<Word id="969" stime="418.66" dur="0.11" conf="0.320"> monkey </Word>
+<Word id="970" stime="418.77" dur="0.00" conf="0.950"> . </Word>
+<Word id="971" stime="418.89" dur="0.06" conf="0.280"> [rachel_green] </Word>
+<Word id="972" stime="418.95" dur="0.09" conf="0.460"> Okay </Word>
+<Word id="973" stime="419.04" dur="0.00" conf="0.950"> . </Word>
+<Word id="974" stime="419.13" dur="0.09" conf="0.460"> Okay </Word>
+<Word id="975" stime="419.22" dur="0.00" conf="0.100"> , </Word>
+<Word id="976" stime="419.22" dur="0.42" conf="0.320"> see </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="419.95" etime="421.80" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="977" stime="420.25" dur="1.25" conf="0.230"> now </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="421.85" etime="426.42" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="978" stime="421.85" dur="0.36" conf="0.100"> the </Word>
+<Word id="979" stime="422.56" dur="0.26" conf="0.400"> one </Word>
+<Word id="980" stime="422.82" dur="0.03" conf="0.100"> with </Word>
+<Word id="981" stime="422.85" dur="0.15" conf="0.270"> the </Word>
+<Word id="982" stime="423.06" dur="0.21" conf="0.290"> feather </Word>
+<Word id="983" stime="423.63" dur="0.15" conf="0.230"> boa </Word>
+<Word id="984" stime="423.78" dur="0.00" conf="0.950"> ? </Word>
+<Word id="985" stime="423.87" dur="0.12" conf="0.160"> That's </Word>
+<Word id="986" stime="423.99" dur="0.07" conf="0.230"> Dr </Word>
+<Word id="987" stime="424.06" dur="0.00" conf="0.950"> . </Word>
+<Word id="988" stime="424.08" dur="0.12" conf="0.270"> Francis </Word>
+<Word id="989" stime="424.20" dur="0.00" conf="0.950"> . </Word>
+<Word id="990" stime="424.20" dur="0.09" conf="0.460"> She </Word>
+<Word id="991" stime="424.29" dur="0.00" conf="0.100"> used </Word>
+<Word id="992" stime="424.29" dur="0.09" conf="0.990"> to </Word>
+<Word id="993" stime="424.43" dur="0.19" conf="0.270"> be </Word>
+<Word id="994" stime="424.62" dur="0.09" conf="0.530"> a </Word>
+<Word id="995" stime="424.92" dur="0.12" conf="0.320"> man </Word>
+<Word id="996" stime="425.04" dur="0.00" conf="0.950"> . </Word>
+<Word id="997" stime="425.15" dur="0.07" conf="0.320"> Oh </Word>
+<Word id="998" stime="425.22" dur="0.09" conf="0.400"> look </Word>
+<Word id="999" stime="425.31" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1000" stime="425.34" dur="0.15" conf="0.320"> There--Okay </Word>
+<Word id="1001" stime="425.49" dur="0.00" conf="0.950"> . </Word>
+<Word id="1002" stime="425.91" dur="0.18" conf="0.100"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1003" stime="426.09" dur="0.06" conf="0.460"> Katie </Word>
+<Word id="1004" stime="426.15" dur="0.00" conf="0.950"> . </Word>
+<Word id="1005" stime="426.15" dur="0.24" conf="0.180"> Geez </Word>
+<Word id="1006" stime="426.39" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="428.43" etime="430.75" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1007" stime="428.59" dur="0.26" conf="0.230"> See </Word>
+<Word id="1008" stime="429.19" dur="0.18" conf="0.360"> Katie </Word>
+<Word id="1009" stime="429.37" dur="0.00" conf="0.100"> , </Word>
+<Word id="1010" stime="429.78" dur="0.20" conf="0.180"> come </Word>
+<Word id="1011" stime="430.02" dur="0.12" conf="0.340"> here-Katie </Word>
+<Word id="1012" stime="430.14" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1013" stime="430.30" dur="0.18" conf="0.530"> Katie </Word>
+<Word id="1014" stime="430.48" dur="0.00" conf="0.100"> , </Word>
+<Word id="1015" stime="430.51" dur="0.12" conf="0.200"> come </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="432.88" etime="436.18" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1016" stime="433.18" dur="0.16" conf="0.710"> here </Word>
+<Word id="1017" stime="433.38" dur="0.12" conf="0.270"> Katie </Word>
+<Word id="1018" stime="433.50" dur="0.00" conf="0.950"> . </Word>
+<Word id="1019" stime="434.25" dur="0.12" conf="0.270"> Very </Word>
+<Word id="1020" stime="434.45" dur="0.31" conf="0.360"> good </Word>
+<Word id="1021" stime="434.76" dur="0.00" conf="0.950"> . </Word>
+<Word id="1022" stime="435.09" dur="0.24" conf="0.130"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1023" stime="435.42" dur="0.09" conf="0.400"> Lisa's </Word>
+<Word id="1024" stime="435.51" dur="0.37" conf="0.180"> laugh </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="449.81" etime="451.74" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1025" stime="449.81" dur="0.37" conf="0.200"> though </Word>
+<Word id="1026" stime="450.18" dur="0.03" conf="0.100"> ...There's-It's </Word>
+<Word id="1027" stime="450.21" dur="0.21" conf="0.990"> so </Word>
+<Word id="1028" stime="450.45" dur="0.12" conf="0.250"> infectious </Word>
+<Word id="1029" stime="450.57" dur="0.00" conf="0.950"> . </Word>
+<Word id="1030" stime="450.57" dur="0.21" conf="0.100"> It's </Word>
+<Word id="1031" stime="450.78" dur="0.12" conf="0.230"> one </Word>
+<Word id="1032" stime="450.90" dur="0.37" conf="0.100"> of </Word>
+<Word id="1033" stime="451.27" dur="0.17" conf="0.400"> those </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="453.92" etime="455.37" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1034" stime="454.22" dur="0.19" conf="0.320"> things </Word>
+<Word id="1035" stime="454.41" dur="0.18" conf="0.100"> ...just </Word>
+<Word id="1036" stime="454.59" dur="0.07" conf="0.180"> forget </Word>
+<Word id="1037" stime="454.68" dur="0.07" conf="0.460"> about </Word>
+<Word id="1038" stime="454.85" dur="0.22" conf="0.460"> it </Word>
+<Word id="1039" stime="455.07" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="458.17" etime="459.32" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1040" stime="458.39" dur="0.18" conf="0.530"> Once </Word>
+<Word id="1041" stime="458.90" dur="0.12" conf="0.320"> it </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="466.50" etime="467.99" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1042" stime="466.62" dur="0.16" conf="0.320"> starts </Word>
+<Word id="1043" stime="466.78" dur="0.00" conf="0.100"> , </Word>
+<Word id="1044" stime="466.78" dur="0.06" conf="0.270"> it's </Word>
+<Word id="1045" stime="466.88" dur="0.11" conf="0.230"> all </Word>
+<Word id="1046" stime="467.02" dur="0.14" conf="0.100"> gone </Word>
+<Word id="1047" stime="467.16" dur="0.00" conf="0.950"> . </Word>
+<Word id="1048" stime="467.44" dur="0.29" conf="0.100"> [rachel_green] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="467.99" etime="469.30" spkid="MS7" lang="eng-usa" lconf="1.00">
+<Word id="1049" stime="468.21" dur="0.86" conf="0.100"> No </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="469.30" etime="470.75" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1050" stime="469.34" dur="0.12" conf="0.360"> y'know </Word>
+<Word id="1051" stime="469.46" dur="0.00" conf="0.100"> , </Word>
+<Word id="1052" stime="469.49" dur="0.21" conf="0.100"> I </Word>
+<Word id="1053" stime="469.76" dur="0.27" conf="0.230"> don't </Word>
+<Word id="1054" stime="470.03" dur="0.69" conf="0.250"> want </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="472.41" etime="474.17" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1055" stime="472.57" dur="0.12" conf="0.400"> to </Word>
+<Word id="1056" stime="472.69" dur="0.10" conf="0.150"> switch </Word>
+<Word id="1057" stime="472.79" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1058" stime="473.17" dur="0.34" conf="0.530"> Come </Word>
+<Word id="1059" stime="473.71" dur="0.16" conf="0.100"> on </Word>
+<Word id="1060" stime="473.87" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="479.27" etime="482.89" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1061" stime="479.27" dur="0.15" conf="0.100"> I </Word>
+<Word id="1062" stime="479.52" dur="0.21" conf="0.440"> can </Word>
+<Word id="1063" stime="479.76" dur="0.13" conf="0.530"> throw </Word>
+<Word id="1064" stime="479.89" dur="0.00" conf="0.100"> wet </Word>
+<Word id="1065" stime="479.89" dur="0.15" conf="0.230"> paper </Word>
+<Word id="1066" stime="480.04" dur="0.00" conf="0.100"> towels </Word>
+<Word id="1067" stime="480.04" dur="0.15" conf="0.990"> here </Word>
+<Word id="1068" stime="480.19" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1069" stime="480.45" dur="0.30" conf="0.340"> [phoebe_buffay] </Word>
+<Word id="1070" stime="480.81" dur="0.12" conf="0.530"> Well </Word>
+<Word id="1071" stime="481.04" dur="0.05" conf="0.320"> at </Word>
+<Word id="1072" stime="481.14" dur="0.19" conf="0.270"> Monica's </Word>
+<Word id="1073" stime="481.38" dur="0.26" conf="0.110"> you </Word>
+<Word id="1074" stime="481.71" dur="0.51" conf="0.230"> can </Word>
+<Word id="1075" stime="482.45" dur="0.12" conf="0.400"> eat- </Word>
+<Word id="1076" stime="482.63" dur="0.07" conf="0.100"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1077" stime="482.70" dur="0.17" conf="0.100"> Okay </Word>
+<Word id="1078" stime="482.87" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="484.88" etime="500.69" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1079" stime="484.92" dur="0.19" conf="0.270"> shh </Word>
+<Word id="1080" stime="485.25" dur="0.14" conf="0.360"> yeah </Word>
+<Word id="1081" stime="485.39" dur="0.00" conf="0.950"> . </Word>
+<Word id="1082" stime="486.09" dur="0.18" conf="0.180"> 'Cause </Word>
+<Word id="1083" stime="486.27" dur="0.30" conf="0.530"> it's </Word>
+<Word id="1084" stime="486.57" dur="0.09" conf="0.640"> not </Word>
+<Word id="1085" stime="486.66" dur="0.00" conf="0.100"> silly </Word>
+<Word id="1086" stime="486.66" dur="0.00" conf="0.950"> . </Word>
+<Word id="1087" stime="486.66" dur="0.06" conf="0.100"> [the_director] </Word>
+<Word id="1088" stime="486.81" dur="0.36" conf="0.230"> Here </Word>
+<Word id="1089" stime="487.67" dur="0.13" conf="0.990"> we </Word>
+<Word id="1090" stime="488.07" dur="0.15" conf="0.100"> go </Word>
+<Word id="1091" stime="488.22" dur="0.00" conf="0.950"> . </Word>
+<Word id="1092" stime="488.74" dur="0.14" conf="0.100"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1093" stime="488.88" dur="0.06" conf="0.320"> Okay </Word>
+<Word id="1094" stime="488.94" dur="0.00" conf="0.950"> . </Word>
+<Word id="1095" stime="489.30" dur="0.21" conf="0.180"> [the_director] </Word>
+<Word id="1096" stime="489.51" dur="0.09" conf="0.640"> And </Word>
+<Word id="1097" stime="489.63" dur="0.51" conf="0.120"> ...action </Word>
+<Word id="1098" stime="490.14" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1099" stime="490.17" dur="0.24" conf="0.100"> [rachel_green] </Word>
+<Word id="1100" stime="490.50" dur="0.33" conf="0.360"> No-no </Word>
+<Word id="1101" stime="490.86" dur="0.12" conf="0.100"> Ph-Ph-Ph-Ph </Word>
+<Word id="1102" stime="490.98" dur="0.52" conf="0.130"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1103" stime="492.36" dur="0.12" conf="0.200"> Ready </Word>
+<Word id="1104" stime="492.48" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1105" stime="492.84" dur="0.22" conf="0.170"> [lisa#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1106" stime="493.32" dur="0.12" conf="0.600"> Yeah </Word>
+<Word id="1107" stime="493.44" dur="0.00" conf="0.950"> . </Word>
+<Word id="1108" stime="497.01" dur="0.15" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1109" stime="497.16" dur="0.12" conf="0.400"> And </Word>
+<Word id="1110" stime="497.31" dur="0.09" conf="0.400"> then </Word>
+<Word id="1111" stime="497.40" dur="0.09" conf="0.400"> it </Word>
+<Word id="1112" stime="497.49" dur="0.00" conf="0.100"> just </Word>
+<Word id="1113" stime="497.49" dur="0.21" conf="0.320"> builds </Word>
+<Word id="1114" stime="497.70" dur="0.24" conf="0.360"> on </Word>
+<Word id="1115" stime="497.94" dur="0.51" conf="0.460"> itself </Word>
+<Word id="1116" stime="498.60" dur="0.20" conf="0.320"> and </Word>
+<Word id="1117" stime="498.80" dur="0.46" conf="0.100"> there's </Word>
+<Word id="1118" stime="499.26" dur="0.15" conf="0.990"> no </Word>
+<Word id="1119" stime="499.50" dur="0.15" conf="0.200"> doing </Word>
+<Word id="1120" stime="499.65" dur="0.09" conf="0.990"> the </Word>
+<Word id="1121" stime="499.74" dur="0.00" conf="0.100"> scene </Word>
+<Word id="1122" stime="499.74" dur="0.66" conf="0.370"> after </Word>
+<Word id="1123" stime="500.40" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="501.70" etime="504.60" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1124" stime="501.76" dur="0.13" conf="0.990"> I </Word>
+<Word id="1125" stime="501.89" dur="0.66" conf="0.100"> mean </Word>
+<Word id="1126" stime="502.55" dur="0.18" conf="0.270"> you </Word>
+<Word id="1127" stime="502.75" dur="0.07" conf="0.100"> probably </Word>
+<Word id="1128" stime="502.85" dur="0.17" conf="0.200"> wait </Word>
+<Word id="1129" stime="503.06" dur="0.09" conf="0.320"> and </Word>
+<Word id="1130" stime="503.15" dur="0.00" conf="0.100"> really </Word>
+<Word id="1131" stime="503.15" dur="0.09" conf="0.530"> get </Word>
+<Word id="1132" stime="503.24" dur="0.05" conf="0.100"> it </Word>
+<Word id="1133" stime="503.29" dur="0.19" conf="0.370"> together </Word>
+<Word id="1134" stime="503.48" dur="0.09" conf="0.100"> and </Word>
+<Word id="1135" stime="503.60" dur="0.28" conf="0.100"> do </Word>
+<Word id="1136" stime="503.94" dur="0.17" conf="0.460"> it </Word>
+<Word id="1137" stime="504.11" dur="0.00" conf="0.950"> . </Word>
+<Word id="1138" stime="504.11" dur="0.00" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1139" stime="504.11" dur="0.19" conf="0.270"> For </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="505.72" etime="510.34" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1140" stime="505.72" dur="0.20" conf="0.270"> me </Word>
+<Word id="1141" stime="505.92" dur="0.00" conf="0.100"> , </Word>
+<Word id="1142" stime="506.06" dur="0.15" conf="0.990"> I </Word>
+<Word id="1143" stime="506.21" dur="0.18" conf="0.990"> have </Word>
+<Word id="1144" stime="506.39" dur="0.00" conf="0.100"> a </Word>
+<Word id="1145" stime="506.39" dur="0.09" conf="0.100"> hard </Word>
+<Word id="1146" stime="506.48" dur="0.36" conf="0.100"> time </Word>
+<Word id="1147" stime="507.11" dur="0.19" conf="0.180"> with </Word>
+<Word id="1148" stime="507.37" dur="0.07" conf="0.100"> le </Word>
+<Word id="1149" stime="507.44" dur="0.18" conf="0.360"> Blanc </Word>
+<Word id="1150" stime="507.62" dur="0.00" conf="0.100"> in </Word>
+<Word id="1151" stime="507.62" dur="0.15" conf="0.270"> particular </Word>
+<Word id="1152" stime="507.77" dur="0.00" conf="0.950"> . </Word>
+<Word id="1153" stime="507.77" dur="0.12" conf="0.120"> When-when-I </Word>
+<Word id="1154" stime="507.94" dur="0.19" conf="0.530"> mean </Word>
+<Word id="1155" stime="508.59" dur="0.17" conf="0.270"> when </Word>
+<Word id="1156" stime="508.81" dur="0.12" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1157" stime="509.03" dur="0.07" conf="0.990"> You </Word>
+<Word id="1158" stime="509.10" dur="0.01" conf="0.100"> bastard </Word>
+<Word id="1159" stime="509.11" dur="0.00" conf="0.950"> . </Word>
+<Word id="1160" stime="509.12" dur="0.09" conf="0.140"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1161" stime="509.25" dur="0.17" conf="0.270"> Yeah </Word>
+<Word id="1162" stime="509.42" dur="0.00" conf="0.100"> , </Word>
+<Word id="1163" stime="509.45" dur="0.14" conf="0.360"> what </Word>
+<Word id="1164" stime="509.63" dur="0.15" conf="0.100"> did </Word>
+<Word id="1165" stime="509.81" dur="0.09" conf="0.990"> I </Word>
+<Word id="1166" stime="509.90" dur="0.14" conf="0.100"> do </Word>
+<Word id="1167" stime="510.04" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="515.94" etime="520.26" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1168" stime="516.24" dur="0.14" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1169" stime="516.42" dur="0.21" conf="0.100"> ...I </Word>
+<Word id="1170" stime="516.66" dur="0.12" conf="0.100"> keep </Word>
+<Word id="1171" stime="516.78" dur="0.06" conf="0.990"> a </Word>
+<Word id="1172" stime="518.75" dur="0.15" conf="0.530"> straight </Word>
+<Word id="1173" stime="518.90" dur="0.17" conf="0.160"> face </Word>
+<Word id="1174" stime="519.13" dur="0.17" conf="0.150"> he-he </Word>
+<Word id="1175" stime="519.40" dur="0.41" conf="0.250"> delivers </Word>
+<Word id="1176" stime="519.87" dur="0.21" conf="0.100"> like </Word>
+<Word id="1177" stime="520.08" dur="0.15" conf="0.530"> this </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="521.46" etime="525.52" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1178" stime="521.46" dur="0.36" conf="0.100"> look </Word>
+<Word id="1179" stime="521.82" dur="0.00" conf="0.100"> , </Word>
+<Word id="1180" stime="523.04" dur="0.15" conf="0.100"> a </Word>
+<Word id="1181" stime="523.19" dur="0.30" conf="0.430"> reaction </Word>
+<Word id="1182" stime="523.49" dur="0.00" conf="0.100"> to </Word>
+<Word id="1183" stime="523.49" dur="0.07" conf="0.990"> you </Word>
+<Word id="1184" stime="523.56" dur="0.00" conf="0.100"> , </Word>
+<Word id="1185" stime="523.63" dur="0.22" conf="0.100"> or </Word>
+<Word id="1186" stime="523.85" dur="0.09" conf="0.990"> a </Word>
+<Word id="1187" stime="523.94" dur="0.60" conf="0.370"> certain </Word>
+<Word id="1188" stime="524.60" dur="0.24" conf="0.230"> take </Word>
+<Word id="1189" stime="524.84" dur="0.00" conf="0.100"> , </Word>
+<Word id="1190" stime="524.87" dur="0.15" conf="0.100"> I-I-I </Word>
+<Word id="1191" stime="525.02" dur="0.06" conf="0.320"> mean </Word>
+<Word id="1192" stime="525.08" dur="0.43" conf="0.320"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="525.84" etime="528.02" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1193" stime="525.84" dur="0.36" conf="0.100"> find </Word>
+<Word id="1194" stime="526.52" dur="0.15" conf="0.100"> it </Word>
+<Word id="1195" stime="526.77" dur="0.24" conf="0.270"> so </Word>
+<Word id="1196" stime="527.01" dur="0.12" conf="0.100"> funny </Word>
+<Word id="1197" stime="527.13" dur="0.00" conf="0.950"> . </Word>
+<Word id="1198" stime="527.34" dur="0.06" conf="0.170"> [joey_tribbiani] </Word>
+<Word id="1199" stime="527.40" dur="0.18" conf="0.150"> Mornin' </Word>
+<Word id="1200" stime="527.64" dur="0.12" conf="0.220"> [dr_ross_geller] </Word>
+<Word id="1201" stime="527.81" dur="0.20" conf="0.160"> Mornin' </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="529.37" etime="530.27" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1202" stime="529.44" dur="0.24" conf="0.280"> [joey_tribbiani] </Word>
+<Word id="1203" stime="529.68" dur="0.29" conf="0.200"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="532.16" etime="535.65" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1204" stime="532.39" dur="0.17" conf="0.460"> mean </Word>
+<Word id="1205" stime="532.61" dur="0.10" conf="0.100"> what </Word>
+<Word id="1206" stime="532.71" dur="0.15" conf="0.230"> kind </Word>
+<Word id="1207" stime="532.86" dur="0.21" conf="0.400"> of </Word>
+<Word id="1208" stime="533.07" dur="0.24" conf="0.270"> an </Word>
+<Word id="1209" stime="533.39" dur="0.31" conf="0.400"> actor </Word>
+<Word id="1210" stime="533.70" dur="0.00" conf="0.100"> , </Word>
+<Word id="1211" stime="533.78" dur="0.19" conf="0.200"> what </Word>
+<Word id="1212" stime="533.97" dur="0.15" conf="0.400"> kind </Word>
+<Word id="1213" stime="534.12" dur="0.12" conf="0.200"> of </Word>
+<Word id="1214" stime="534.29" dur="0.22" conf="0.270"> an </Word>
+<Word id="1215" stime="534.51" dur="0.03" conf="0.100"> actor </Word>
+<Word id="1216" stime="534.54" dur="0.63" conf="0.210"> can't </Word>
+<Word id="1217" stime="535.17" dur="0.46" conf="0.400"> even </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="538.60" etime="540.46" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1218" stime="538.64" dur="0.14" conf="0.180"> say </Word>
+<Word id="1219" stime="538.78" dur="0.00" conf="0.100"> , </Word>
+<Word id="1220" stime="538.78" dur="0.00" conf="0.100"> &quot; </Word>
+<Word id="1221" stime="538.82" dur="0.18" conf="0.200"> Hmm </Word>
+<Word id="1222" stime="539.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="1223" stime="539.00" dur="0.03" conf="0.100"> noodle </Word>
+<Word id="1224" stime="539.03" dur="0.15" conf="0.100"> soup? </Word>
+<Word id="1225" stime="539.18" dur="0.00" conf="0.100"> &quot; </Word>
+<Word id="1226" stime="539.32" dur="0.19" conf="0.100"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1227" stime="539.57" dur="0.18" conf="0.100"> That's </Word>
+<Word id="1228" stime="539.77" dur="0.10" conf="0.400"> a </Word>
+<Word id="1229" stime="539.87" dur="0.12" conf="0.530"> good </Word>
+<Word id="1230" stime="539.99" dur="0.17" conf="0.100"> one </Word>
+<Word id="1231" stime="540.16" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="543.07" etime="544.59" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1232" stime="543.37" dur="0.09" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1233" stime="543.64" dur="0.19" conf="0.320"> Now </Word>
+<Word id="1234" stime="543.83" dur="0.00" conf="0.100"> , </Word>
+<Word id="1235" stime="543.91" dur="0.12" conf="0.530"> we </Word>
+<Word id="1236" stime="544.06" dur="0.09" conf="0.360"> should </Word>
+<Word id="1237" stime="544.15" dur="0.14" conf="0.990"> go </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="544.29" etime="546.46" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1238" stime="544.29" dur="0.83" conf="0.100"> back </Word>
+<Word id="1239" stime="545.12" dur="0.83" conf="0.100"> and </Word>
+<Word id="1240" stime="545.95" dur="0.22" conf="0.200"> take </Word>
+<Word id="1241" stime="546.27" dur="0.15" conf="0.400"> the </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="546.46" etime="548.81" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1242" stime="546.49" dur="0.07" conf="0.200"> other </Word>
+<Word id="1243" stime="546.56" dur="0.07" conf="0.200"> line </Word>
+<Word id="1244" stime="546.63" dur="0.00" conf="0.950"> . </Word>
+<Word id="1245" stime="546.83" dur="0.27" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1246" stime="547.10" dur="0.29" conf="0.180"> Okay </Word>
+<Word id="1247" stime="547.39" dur="0.00" conf="0.100"> , </Word>
+<Word id="1248" stime="547.46" dur="0.06" conf="0.320"> I'll </Word>
+<Word id="1249" stime="547.52" dur="0.15" conf="0.990"> just </Word>
+<Word id="1250" stime="547.67" dur="0.27" conf="0.320"> put </Word>
+<Word id="1251" stime="547.94" dur="0.03" conf="0.990"> a </Word>
+<Word id="1252" stime="547.97" dur="0.18" conf="0.990"> little </Word>
+<Word id="1253" stime="548.22" dur="0.29" conf="0.360"> more </Word>
+<Word id="1254" stime="548.51" dur="0.26" conf="0.100"> booze </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="559.80" etime="561.10" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1255" stime="560.09" dur="0.17" conf="0.400"> on </Word>
+<Word id="1256" stime="560.42" dur="0.29" conf="0.480"> there </Word>
+<Word id="1257" stime="560.71" dur="0.00" conf="0.950"> . </Word>
+<Word id="1258" stime="560.75" dur="0.04" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1259" stime="560.79" dur="0.31" conf="0.400"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="564.61" etime="578.10" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1260" stime="564.91" dur="0.21" conf="0.200"> think </Word>
+<Word id="1261" stime="565.12" dur="0.00" conf="0.100"> , </Word>
+<Word id="1262" stime="565.15" dur="0.24" conf="0.190"> subconsciously </Word>
+<Word id="1263" stime="565.53" dur="0.50" conf="0.400"> [joey_tribbiani] </Word>
+<Word id="1264" stime="566.03" dur="0.17" conf="0.100"> Nope </Word>
+<Word id="1265" stime="566.20" dur="0.00" conf="0.100"> , </Word>
+<Word id="1266" stime="566.20" dur="0.12" conf="0.990"> you </Word>
+<Word id="1267" stime="566.32" dur="0.17" conf="0.270"> lost </Word>
+<Word id="1268" stime="566.56" dur="0.12" conf="0.230"> me </Word>
+<Word id="1269" stime="566.68" dur="0.00" conf="0.950"> . </Word>
+<Word id="1270" stime="566.73" dur="0.07" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1271" stime="566.80" dur="0.18" conf="0.530"> No </Word>
+<Word id="1272" stime="566.98" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1273" stime="568.60" dur="0.06" conf="0.270"> Come </Word>
+<Word id="1274" stime="568.66" dur="0.12" conf="0.400"> on </Word>
+<Word id="1275" stime="568.78" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1276" stime="568.78" dur="0.58" conf="0.320"> [joey_tribbiani] </Word>
+<Word id="1277" stime="569.36" dur="0.00" conf="0.100"> Okay </Word>
+<Word id="1278" stime="569.36" dur="0.00" conf="0.100"> , </Word>
+<Word id="1279" stime="569.36" dur="0.08" conf="0.460"> the </Word>
+<Word id="1280" stime="570.16" dur="0.15" conf="0.100"> next </Word>
+<Word id="1281" stime="570.31" dur="0.14" conf="0.250"> situation </Word>
+<Word id="1282" stime="570.52" dur="0.09" conf="0.530"> is </Word>
+<Word id="1283" stime="570.61" dur="0.10" conf="0.100"> for </Word>
+<Word id="1284" stime="570.73" dur="0.11" conf="0.370"> Rachel </Word>
+<Word id="1285" stime="570.84" dur="0.00" conf="0.950"> . </Word>
+<Word id="1286" stime="570.92" dur="0.14" conf="0.100"> The </Word>
+<Word id="1287" stime="571.09" dur="0.14" conf="0.160"> wedding </Word>
+<Word id="1288" stime="571.49" dur="0.08" conf="0.990"> is </Word>
+<Word id="1289" stime="571.57" dur="0.12" conf="0.160"> about </Word>
+<Word id="1290" stime="571.69" dur="0.06" conf="0.990"> to </Word>
+<Word id="1291" stime="571.78" dur="0.09" conf="0.180"> start </Word>
+<Word id="1292" stime="571.87" dur="0.06" conf="0.100"> you </Word>
+<Word id="1293" stime="571.93" dur="0.08" conf="0.100"> walk </Word>
+<Word id="1294" stime="572.01" dur="0.07" conf="0.530"> into </Word>
+<Word id="1295" stime="572.08" dur="0.21" conf="0.460"> the </Word>
+<Word id="1296" stime="572.29" dur="0.12" conf="0.100"> back </Word>
+<Word id="1297" stime="572.41" dur="0.08" conf="0.230"> room </Word>
+<Word id="1298" stime="572.49" dur="0.10" conf="0.400"> and </Word>
+<Word id="1299" stime="572.64" dur="0.10" conf="0.320"> you </Word>
+<Word id="1300" stime="572.74" dur="0.02" conf="0.100"> find </Word>
+<Word id="1301" stime="572.76" dur="0.08" conf="0.200"> Monica </Word>
+<Word id="1302" stime="572.84" dur="0.08" conf="0.180"> taking </Word>
+<Word id="1303" stime="572.98" dur="0.29" conf="0.100"> a </Word>
+<Word id="1304" stime="573.27" dur="0.07" conf="0.530"> nap </Word>
+<Word id="1305" stime="573.34" dur="0.02" conf="0.100"> with </Word>
+<Word id="1306" stime="573.36" dur="0.10" conf="0.230"> Ross </Word>
+<Word id="1307" stime="573.46" dur="0.00" conf="0.950"> . </Word>
+<Word id="1308" stime="573.46" dur="0.09" conf="0.270"> I'll </Word>
+<Word id="1309" stime="573.58" dur="0.12" conf="0.180"> be </Word>
+<Word id="1310" stime="573.73" dur="0.12" conf="0.360"> Monica </Word>
+<Word id="1311" stime="573.85" dur="0.00" conf="0.950"> . </Word>
+<Word id="1312" stime="573.85" dur="0.12" conf="0.230"> Go </Word>
+<Word id="1313" stime="573.97" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1314" stime="574.09" dur="0.09" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1315" stime="574.18" dur="0.09" conf="0.100"> No </Word>
+<Word id="1316" stime="574.27" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1317" stime="574.27" dur="0.24" conf="0.460"> No </Word>
+<Word id="1318" stime="574.51" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1319" stime="574.51" dur="0.12" conf="0.800"> No </Word>
+<Word id="1320" stime="574.63" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1321" stime="574.94" dur="0.41" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1322" stime="575.71" dur="0.09" conf="0.710"> We'll </Word>
+<Word id="1323" stime="575.83" dur="0.07" conf="0.400"> be </Word>
+<Word id="1324" stime="575.96" dur="0.23" conf="0.160"> right </Word>
+<Word id="1325" stime="576.19" dur="0.15" conf="0.100"> back </Word>
+<Word id="1326" stime="576.34" dur="0.13" conf="0.460"> with </Word>
+<Word id="1327" stime="576.47" dur="0.41" conf="0.270"> more </Word>
+<Word id="1328" stime="576.95" dur="0.29" conf="0.320"> Friends </Word>
+<Word id="1329" stime="577.24" dur="0.00" conf="0.100"> , </Word>
+<Word id="1330" stime="577.28" dur="0.14" conf="0.290"> less </Word>
+<Word id="1331" stime="577.42" dur="0.15" conf="0.270"> me </Word>
+<Word id="1332" stime="577.57" dur="0.00" conf="0.950"> . </Word>
+<Word id="1333" stime="577.62" dur="0.22" conf="0.160"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1334" stime="577.84" dur="0.00" conf="0.100"> I'm </Word>
+<Word id="1335" stime="577.84" dur="0.12" conf="0.460"> doing </Word>
+<Word id="1336" stime="577.96" dur="0.00" conf="0.100"> my </Word>
+<Word id="1337" stime="577.96" dur="0.12" conf="0.530"> brother </Word>
+<Word id="1338" stime="578.08" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="591.05" etime="593.90" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1339" stime="591.09" dur="0.09" conf="0.100"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1340" stime="591.18" dur="0.21" conf="0.360"> That's </Word>
+<Word id="1341" stime="591.51" dur="0.19" conf="0.130"> ...gross </Word>
+<Word id="1342" stime="591.70" dur="0.00" conf="0.950"> . </Word>
+<Word id="1343" stime="591.82" dur="0.11" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1344" stime="591.93" dur="0.31" conf="0.320"> You </Word>
+<Word id="1345" stime="592.41" dur="0.11" conf="0.100"> uh </Word>
+<Word id="1346" stime="592.52" dur="0.00" conf="0.100"> , </Word>
+<Word id="1347" stime="592.60" dur="0.24" conf="0.370"> you've </Word>
+<Word id="1348" stime="593.09" dur="0.28" conf="0.370"> worked </Word>
+<Word id="1349" stime="593.46" dur="0.41" conf="0.180"> with-They </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="596.73" etime="597.89" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1350" stime="596.95" dur="0.93" conf="0.300"> always </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="598.56" etime="599.82" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="1351" stime="598.86" dur="0.38" conf="0.180"> say </Word>
+<Word id="1352" stime="599.24" dur="0.18" conf="0.100"> a </Word>
+<Word id="1353" stime="599.42" dur="0.34" conf="0.250"> performer </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="601.95" etime="610.65" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1354" stime="601.95" dur="0.36" conf="0.100"> should </Word>
+<Word id="1355" stime="604.49" dur="0.33" conf="0.290"> never </Word>
+<Word id="1356" stime="604.88" dur="0.27" conf="0.200"> work </Word>
+<Word id="1357" stime="605.18" dur="0.21" conf="0.320"> with </Word>
+<Word id="1358" stime="605.39" dur="0.18" conf="0.200"> pets </Word>
+<Word id="1359" stime="605.57" dur="0.09" conf="0.320"> or </Word>
+<Word id="1360" stime="605.66" dur="0.09" conf="0.100"> children </Word>
+<Word id="1361" stime="605.75" dur="0.00" conf="0.950"> . </Word>
+<Word id="1362" stime="605.75" dur="0.46" conf="0.180"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1363" stime="606.21" dur="0.20" conf="0.100"> Aww </Word>
+<Word id="1364" stime="606.41" dur="0.00" conf="0.100"> , </Word>
+<Word id="1365" stime="606.41" dur="0.36" conf="0.480"> the </Word>
+<Word id="1366" stime="606.77" dur="0.33" conf="0.290"> kids </Word>
+<Word id="1367" stime="607.10" dur="0.00" conf="0.950"> . </Word>
+<Word id="1368" stime="607.12" dur="0.01" conf="0.100"> [the_director] </Word>
+<Word id="1369" stime="607.13" dur="0.12" conf="0.530"> Action </Word>
+<Word id="1370" stime="607.25" dur="0.00" conf="0.950"> . </Word>
+<Word id="1371" stime="607.25" dur="0.09" conf="0.100"> [rachel_green] </Word>
+<Word id="1372" stime="607.34" dur="0.15" conf="0.270"> Okay </Word>
+<Word id="1373" stime="607.49" dur="0.00" conf="0.950"> . </Word>
+<Word id="1374" stime="607.49" dur="0.30" conf="0.400"> Now-What </Word>
+<Word id="1375" stime="608.40" dur="0.08" conf="0.530"> is </Word>
+<Word id="1376" stime="608.48" dur="0.04" conf="0.100"> my </Word>
+<Word id="1377" stime="608.52" dur="0.16" conf="0.160"> first </Word>
+<Word id="1378" stime="608.72" dur="0.27" conf="0.200"> line </Word>
+<Word id="1379" stime="608.99" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1380" stime="609.20" dur="0.21" conf="0.100"> [ben#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1381" stime="609.41" dur="0.18" conf="0.460"> What </Word>
+<Word id="1382" stime="609.59" dur="0.04" conf="0.100"> did </Word>
+<Word id="1383" stime="609.63" dur="0.13" conf="0.270"> we </Word>
+<Word id="1384" stime="609.85" dur="0.22" conf="0.640"> agree </Word>
+<Word id="1385" stime="610.07" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1386" stime="610.07" dur="0.28" conf="0.150"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="610.90" etime="616.44" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1387" stime="611.12" dur="0.22" conf="0.460"> Okay </Word>
+<Word id="1388" stime="611.34" dur="0.20" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1389" stime="611.54" dur="0.18" conf="0.460"> The </Word>
+<Word id="1390" stime="611.72" dur="0.25" conf="0.100"> good </Word>
+<Word id="1391" stime="611.97" dur="0.25" conf="0.100"> thing </Word>
+<Word id="1392" stime="612.22" dur="0.46" conf="0.100"> about </Word>
+<Word id="1393" stime="613.19" dur="0.09" conf="0.600"> the </Word>
+<Word id="1394" stime="613.34" dur="0.15" conf="0.230"> young </Word>
+<Word id="1395" stime="613.49" dur="0.39" conf="0.440"> kids </Word>
+<Word id="1396" stime="614.24" dur="0.59" conf="0.130"> though </Word>
+<Word id="1397" stime="614.83" dur="0.00" conf="0.100"> , </Word>
+<Word id="1398" stime="615.32" dur="0.82" conf="0.230"> they're </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="616.47" etime="617.46" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1399" stime="616.47" dur="0.69" conf="0.100"> completely </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="617.49" etime="621.19" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1400" stime="617.64" dur="0.18" conf="0.300"> unpredictable </Word>
+<Word id="1401" stime="617.82" dur="0.00" conf="0.950"> . </Word>
+<Word id="1402" stime="618.00" dur="0.17" conf="0.100"> Which </Word>
+<Word id="1403" stime="618.17" dur="0.20" conf="0.400"> is </Word>
+<Word id="1404" stime="618.52" dur="0.62" conf="0.180"> a </Word>
+<Word id="1405" stime="620.23" dur="0.42" conf="0.100"> lot </Word>
+<Word id="1406" stime="620.65" dur="0.54" conf="0.400"> of </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="633.71" etime="643.72" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1407" stime="634.01" dur="0.17" conf="0.270"> fun </Word>
+<Word id="1408" stime="634.31" dur="0.39" conf="0.270"> as </Word>
+<Word id="1409" stime="634.93" dur="0.17" conf="0.400"> an </Word>
+<Word id="1410" stime="635.39" dur="0.39" conf="0.370"> actor </Word>
+<Word id="1411" stime="635.99" dur="0.18" conf="0.360"> to </Word>
+<Word id="1412" stime="636.17" dur="0.21" conf="0.180"> respond </Word>
+<Word id="1413" stime="636.41" dur="0.18" conf="0.990"> with </Word>
+<Word id="1414" stime="636.59" dur="0.00" conf="0.950"> . </Word>
+<Word id="1415" stime="636.95" dur="0.18" conf="0.100"> But </Word>
+<Word id="1416" stime="637.25" dur="0.12" conf="0.460"> there </Word>
+<Word id="1417" stime="637.37" dur="0.30" conf="0.990"> was </Word>
+<Word id="1418" stime="637.71" dur="0.53" conf="0.320"> one </Word>
+<Word id="1419" stime="639.15" dur="0.11" conf="0.160"> story </Word>
+<Word id="1420" stime="639.26" dur="0.21" conf="0.120"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1421" stime="639.47" dur="0.06" conf="0.100"> Oh </Word>
+<Word id="1422" stime="639.53" dur="0.18" conf="0.990"> little </Word>
+<Word id="1423" stime="639.79" dur="0.28" conf="0.230"> Ben </Word>
+<Word id="1424" stime="640.07" dur="0.00" conf="0.950"> . </Word>
+<Word id="1425" stime="640.13" dur="0.09" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1426" stime="640.22" dur="0.17" conf="0.180"> Where </Word>
+<Word id="1427" stime="640.82" dur="0.07" conf="0.990"> the </Word>
+<Word id="1428" stime="640.91" dur="0.34" conf="0.100"> story </Word>
+<Word id="1429" stime="641.69" dur="0.15" conf="0.100"> was </Word>
+<Word id="1430" stime="641.84" dur="0.30" conf="0.360"> that </Word>
+<Word id="1431" stime="642.21" dur="0.32" conf="0.100"> I </Word>
+<Word id="1432" stime="642.53" dur="0.24" conf="0.320"> was </Word>
+<Word id="1433" stime="642.77" dur="0.21" conf="0.110"> anticipating </Word>
+<Word id="1434" stime="642.98" dur="0.22" conf="0.640"> that </Word>
+<Word id="1435" stime="643.25" dur="0.44" conf="0.180"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="649.13" etime="651.92" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1436" stime="649.43" dur="0.17" conf="0.290"> would </Word>
+<Word id="1437" stime="649.67" dur="0.23" conf="0.100"> be </Word>
+<Word id="1438" stime="649.99" dur="0.30" conf="0.270"> around </Word>
+<Word id="1439" stime="650.29" dur="0.15" conf="0.320"> to </Word>
+<Word id="1440" stime="650.51" dur="0.29" conf="0.150"> hear </Word>
+<Word id="1441" stime="650.80" dur="0.18" conf="0.400"> my </Word>
+<Word id="1442" stime="650.98" dur="0.20" conf="0.440"> son's </Word>
+<Word id="1443" stime="651.18" dur="0.31" conf="0.100"> first </Word>
+<Word id="1444" stime="651.49" dur="0.42" conf="0.200"> words </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="653.17" etime="658.99" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1445" stime="653.47" dur="0.07" conf="0.100"> spoken </Word>
+<Word id="1446" stime="653.54" dur="0.00" conf="0.950"> . </Word>
+<Word id="1447" stime="653.62" dur="0.17" conf="0.530"> But </Word>
+<Word id="1448" stime="653.83" dur="0.12" conf="0.270"> the </Word>
+<Word id="1449" stime="653.98" dur="0.21" conf="0.360"> scene </Word>
+<Word id="1450" stime="654.19" dur="0.00" conf="0.100"> was </Word>
+<Word id="1451" stime="654.19" dur="0.17" conf="0.230"> about </Word>
+<Word id="1452" stime="654.40" dur="0.30" conf="0.200"> that </Word>
+<Word id="1453" stime="654.70" dur="0.06" conf="0.400"> he </Word>
+<Word id="1454" stime="654.84" dur="0.16" conf="0.360"> wasn't </Word>
+<Word id="1455" stime="655.03" dur="0.12" conf="0.290"> supposed </Word>
+<Word id="1456" stime="655.15" dur="0.12" conf="0.320"> to </Word>
+<Word id="1457" stime="655.33" dur="0.27" conf="0.200"> be </Word>
+<Word id="1458" stime="655.62" dur="0.07" conf="0.100"> able </Word>
+<Word id="1459" stime="655.69" dur="0.06" conf="0.320"> to </Word>
+<Word id="1460" stime="655.75" dur="0.30" conf="0.130"> speak </Word>
+<Word id="1461" stime="656.05" dur="0.43" conf="0.200"> and </Word>
+<Word id="1462" stime="656.48" dur="0.00" conf="0.100"> , </Word>
+<Word id="1463" stime="656.48" dur="0.23" conf="0.100"> uh </Word>
+<Word id="1464" stime="656.71" dur="0.15" conf="0.100"> for </Word>
+<Word id="1465" stime="656.89" dur="0.12" conf="0.100"> some </Word>
+<Word id="1466" stime="657.09" dur="0.31" conf="0.400"> reason </Word>
+<Word id="1467" stime="657.40" dur="0.12" conf="0.990"> when </Word>
+<Word id="1468" stime="657.55" dur="0.15" conf="0.990"> we </Word>
+<Word id="1469" stime="657.70" dur="0.72" conf="0.460"> started </Word>
+<Word id="1470" stime="658.42" dur="0.41" conf="0.270"> doing </Word>
+<Word id="1471" stime="658.87" dur="0.12" conf="0.990"> the </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="658.99" etime="660.35" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1472" stime="658.99" dur="0.52" conf="0.200"> show </Word>
+<Word id="1473" stime="659.51" dur="0.00" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1474" stime="659.51" dur="0.12" conf="0.400"> Hi </Word>
+<Word id="1475" stime="659.63" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1476" stime="659.63" dur="0.09" conf="0.200"> We're </Word>
+<Word id="1477" stime="659.72" dur="0.33" conf="0.320"> visiting </Word>
+<Word id="1478" stime="660.05" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="661.99" etime="666.44" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1479" stime="662.12" dur="0.12" conf="0.340"> [rachel_green] </Word>
+<Word id="1480" stime="662.31" dur="0.14" conf="0.270"> Yay </Word>
+<Word id="1481" stime="662.45" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1482" stime="662.45" dur="0.00" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1483" stime="662.45" dur="0.26" conf="0.180"> It's </Word>
+<Word id="1484" stime="662.78" dur="0.09" conf="0.270"> Ben </Word>
+<Word id="1485" stime="662.87" dur="0.36" conf="0.320"> and </Word>
+<Word id="1486" stime="663.92" dur="0.18" conf="0.400"> his </Word>
+<Word id="1487" stime="664.10" dur="0.05" conf="0.100"> Da-Da </Word>
+<Word id="1488" stime="664.15" dur="0.00" conf="0.950"> . </Word>
+<Word id="1489" stime="664.20" dur="0.17" conf="0.400"> Da-Da </Word>
+<Word id="1490" stime="664.37" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1491" stime="664.37" dur="0.00" conf="0.100"> Can </Word>
+<Word id="1492" stime="664.37" dur="0.18" conf="0.230"> you </Word>
+<Word id="1493" stime="665.32" dur="0.04" conf="0.100"> say </Word>
+<Word id="1494" stime="665.63" dur="0.12" conf="0.100"> Da-Da </Word>
+<Word id="1495" stime="665.75" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1496" stime="665.75" dur="0.24" conf="0.290"> Y'know </Word>
+<Word id="1497" stime="665.99" dur="0.00" conf="0.100"> , </Word>
+<Word id="1498" stime="666.04" dur="0.19" conf="0.230"> you </Word>
+<Word id="1499" stime="666.23" dur="0.00" conf="0.100"> might </Word>
+<Word id="1500" stime="666.23" dur="0.00" conf="0.100"> as </Word>
+<Word id="1501" stime="666.23" dur="0.21" conf="0.200"> well </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="673.37" etime="674.74" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="1502" stime="673.67" dur="0.06" conf="0.100"> say </Word>
+<Word id="1503" stime="673.73" dur="0.24" conf="0.460"> it </Word>
+<Word id="1504" stime="673.97" dur="0.47" conf="0.100"> because </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="674.75" etime="675.80" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1505" stime="674.82" dur="0.15" conf="0.990"> I </Word>
+<Word id="1506" stime="674.97" dur="0.09" conf="0.100"> told </Word>
+<Word id="1507" stime="675.06" dur="0.06" conf="0.690"> your </Word>
+<Word id="1508" stime="675.12" dur="0.44" conf="0.150"> [ben#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="677.33" etime="678.59" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1509" stime="677.55" dur="0.17" conf="0.100"> Da </Word>
+<Word id="1510" stime="677.76" dur="0.21" conf="0.200"> ...Da </Word>
+<Word id="1511" stime="677.97" dur="0.00" conf="0.950"> . </Word>
+<Word id="1512" stime="678.02" dur="0.05" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1513" stime="678.07" dur="0.16" conf="0.440"> Can </Word>
+<Word id="1514" stime="678.27" dur="0.23" conf="0.200"> you </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="679.26" etime="687.50" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1515" stime="679.40" dur="0.53" conf="0.200"> say </Word>
+<Word id="1516" stime="680.35" dur="0.50" conf="0.100"> Da-Da </Word>
+<Word id="1517" stime="680.85" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1518" stime="681.04" dur="0.14" conf="0.460"> See </Word>
+<Word id="1519" stime="681.18" dur="0.00" conf="0.100"> , </Word>
+<Word id="1520" stime="681.29" dur="0.23" conf="0.200"> I'm </Word>
+<Word id="1521" stime="681.67" dur="0.44" conf="0.320"> gonna </Word>
+<Word id="1522" stime="682.24" dur="0.23" conf="0.180"> tell </Word>
+<Word id="1523" stime="682.51" dur="0.27" conf="0.690"> your </Word>
+<Word id="1524" stime="682.85" dur="0.29" conf="0.130"> mommies </Word>
+<Word id="1525" stime="683.14" dur="0.30" conf="0.400"> you </Word>
+<Word id="1526" stime="683.57" dur="0.53" conf="0.270"> said </Word>
+<Word id="1527" stime="685.75" dur="0.30" conf="0.100"> it </Word>
+<Word id="1528" stime="686.32" dur="0.14" conf="0.320"> anyway </Word>
+<Word id="1529" stime="686.46" dur="0.00" conf="0.100"> , </Word>
+<Word id="1530" stime="686.77" dur="0.12" conf="0.990"> so </Word>
+<Word id="1531" stime="686.92" dur="0.09" conf="0.990"> you </Word>
+<Word id="1532" stime="687.01" dur="0.19" conf="0.320"> might </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="690.62" etime="696.91" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1533" stime="690.62" dur="0.36" conf="0.100"> as </Word>
+<Word id="1534" stime="694.41" dur="0.17" conf="0.360"> well </Word>
+<Word id="1535" stime="694.61" dur="0.12" conf="0.100"> try </Word>
+<Word id="1536" stime="694.73" dur="0.10" conf="0.110"> [ben#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1537" stime="695.64" dur="0.11" conf="0.100"> Da </Word>
+<Word id="1538" stime="695.81" dur="0.22" conf="0.100"> ...Da </Word>
+<Word id="1539" stime="696.03" dur="0.00" conf="0.950"> . </Word>
+<Word id="1540" stime="696.11" dur="0.51" conf="0.100"> [dr_ross_geller] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="696.91" etime="701.23" spkid="FS4" lang="eng-usa" lconf="1.00">
+<Word id="1541" stime="697.07" dur="0.15" conf="0.320"> Huh </Word>
+<Word id="1542" stime="697.22" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1543" stime="697.30" dur="0.19" conf="0.100"> [ben#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1544" stime="697.58" dur="0.33" conf="0.320"> Da </Word>
+<Word id="1545" stime="697.91" dur="0.01" conf="0.100"> ...Da </Word>
+<Word id="1546" stime="697.92" dur="0.00" conf="0.950"> . </Word>
+<Word id="1547" stime="697.93" dur="0.01" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1548" stime="697.94" dur="0.21" conf="0.460"> Yeah </Word>
+<Word id="1549" stime="698.15" dur="0.00" conf="0.100"> , </Word>
+<Word id="1550" stime="698.18" dur="0.12" conf="0.100"> he's </Word>
+<Word id="1551" stime="698.33" dur="0.12" conf="0.180"> saying </Word>
+<Word id="1552" stime="698.50" dur="0.22" conf="0.180"> Da-Da </Word>
+<Word id="1553" stime="698.72" dur="0.00" conf="0.950"> . </Word>
+<Word id="1554" stime="698.77" dur="0.19" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1555" stime="698.96" dur="0.09" conf="0.990"> And </Word>
+<Word id="1556" stime="699.05" dur="0.23" conf="0.200"> then </Word>
+<Word id="1557" stime="699.53" dur="0.24" conf="0.500"> sometimes </Word>
+<Word id="1558" stime="699.77" dur="0.03" conf="0.100"> during </Word>
+<Word id="1559" stime="699.80" dur="0.03" conf="0.100"> the </Word>
+<Word id="1560" stime="699.83" dur="0.10" conf="0.230"> show </Word>
+<Word id="1561" stime="699.98" dur="0.14" conf="0.640"> y'know </Word>
+<Word id="1562" stime="700.12" dur="0.02" conf="0.100"> but </Word>
+<Word id="1563" stime="700.14" dur="0.02" conf="0.100"> you're </Word>
+<Word id="1564" stime="700.16" dur="0.12" conf="0.270"> like </Word>
+<Word id="1565" stime="700.28" dur="0.00" conf="0.100"> , </Word>
+<Word id="1566" stime="700.28" dur="0.00" conf="0.100"> the </Word>
+<Word id="1567" stime="700.28" dur="0.00" conf="0.100"> scene's </Word>
+<Word id="1568" stime="700.28" dur="0.00" conf="0.100"> going </Word>
+<Word id="1569" stime="700.28" dur="0.00" conf="0.100"> one </Word>
+<Word id="1570" stime="700.28" dur="0.06" conf="0.400"> way </Word>
+<Word id="1571" stime="700.40" dur="0.24" conf="0.180"> but </Word>
+<Word id="1572" stime="700.70" dur="0.50" conf="0.160"> you're </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="707.45" etime="713.35" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1573" stime="707.58" dur="0.25" conf="0.230"> just </Word>
+<Word id="1574" stime="707.83" dur="0.00" conf="0.100"> tempted </Word>
+<Word id="1575" stime="707.83" dur="0.06" conf="0.990"> to </Word>
+<Word id="1576" stime="707.91" dur="0.15" conf="0.100"> say </Word>
+<Word id="1577" stime="708.08" dur="0.10" conf="0.290"> something </Word>
+<Word id="1578" stime="708.22" dur="0.14" conf="0.180"> another </Word>
+<Word id="1579" stime="708.41" dur="0.10" conf="0.460"> time </Word>
+<Word id="1580" stime="708.51" dur="0.00" conf="0.950"> . </Word>
+<Word id="1581" stime="708.91" dur="0.38" conf="0.130"> Like </Word>
+<Word id="1582" stime="709.29" dur="0.00" conf="0.100"> , </Word>
+<Word id="1583" stime="709.62" dur="0.12" conf="0.400"> do </Word>
+<Word id="1584" stime="709.77" dur="0.39" conf="0.400"> you </Word>
+<Word id="1585" stime="710.23" dur="0.29" conf="0.130"> remember </Word>
+<Word id="1586" stime="710.54" dur="0.10" conf="0.270"> that </Word>
+<Word id="1587" stime="710.64" dur="0.21" conf="0.460"> one </Word>
+<Word id="1588" stime="710.85" dur="0.00" conf="0.100"> where </Word>
+<Word id="1589" stime="710.85" dur="0.12" conf="0.320"> Monica's </Word>
+<Word id="1590" stime="710.97" dur="0.03" conf="0.100"> baking </Word>
+<Word id="1591" stime="711.00" dur="0.12" conf="0.290"> cookies </Word>
+<Word id="1592" stime="711.12" dur="0.00" conf="0.100"> in </Word>
+<Word id="1593" stime="711.12" dur="0.30" conf="0.230"> our </Word>
+<Word id="1594" stime="711.42" dur="0.21" conf="0.270"> old </Word>
+<Word id="1595" stime="711.63" dur="0.12" conf="0.120"> apartment </Word>
+<Word id="1596" stime="711.75" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1597" stime="711.75" dur="0.56" conf="0.210"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1598" stime="712.47" dur="0.14" conf="0.320"> She's </Word>
+<Word id="1599" stime="712.65" dur="0.27" conf="0.290"> trying </Word>
+<Word id="1600" stime="713.00" dur="0.34" conf="0.320"> to </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="723.38" etime="725.71" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1601" stime="723.45" dur="0.10" conf="0.150"> intrigue </Word>
+<Word id="1602" stime="723.55" dur="0.02" conf="0.100"> us </Word>
+<Word id="1603" stime="723.57" dur="0.21" conf="0.320"> to </Word>
+<Word id="1604" stime="723.78" dur="0.09" conf="0.400"> hang </Word>
+<Word id="1605" stime="724.01" dur="0.10" conf="0.640"> out </Word>
+<Word id="1606" stime="724.11" dur="0.05" conf="0.100"> with </Word>
+<Word id="1607" stime="724.16" dur="0.22" conf="0.460"> her </Word>
+<Word id="1608" stime="724.38" dur="0.00" conf="0.950"> . </Word>
+<Word id="1609" stime="724.38" dur="0.00" conf="0.100"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1610" stime="724.38" dur="0.07" conf="0.320"> Yeah </Word>
+<Word id="1611" stime="724.45" dur="0.00" conf="0.100"> , </Word>
+<Word id="1612" stime="724.47" dur="0.38" conf="0.180"> she's </Word>
+<Word id="1613" stime="724.89" dur="0.30" conf="0.360"> trying </Word>
+<Word id="1614" stime="725.19" dur="0.06" conf="0.100"> to </Word>
+<Word id="1615" stime="725.25" dur="0.43" conf="0.200"> waft </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="728.71" etime="732.71" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1616" stime="728.77" dur="0.19" conf="0.230"> the </Word>
+<Word id="1617" stime="729.04" dur="0.16" conf="0.100"> smell </Word>
+<Word id="1618" stime="730.13" dur="0.12" conf="0.100"> across </Word>
+<Word id="1619" stime="730.25" dur="0.15" conf="0.230"> the </Word>
+<Word id="1620" stime="730.45" dur="0.19" conf="0.320"> hall </Word>
+<Word id="1621" stime="730.65" dur="0.06" conf="0.990"> to </Word>
+<Word id="1622" stime="730.73" dur="0.06" conf="0.530"> get </Word>
+<Word id="1623" stime="730.79" dur="0.00" conf="0.100"> us </Word>
+<Word id="1624" stime="730.79" dur="0.00" conf="0.100"> to </Word>
+<Word id="1625" stime="730.79" dur="0.54" conf="0.400"> come </Word>
+<Word id="1626" stime="731.42" dur="0.33" conf="0.320"> hang </Word>
+<Word id="1627" stime="731.75" dur="0.00" conf="0.100"> out </Word>
+<Word id="1628" stime="731.75" dur="0.14" conf="0.400"> in </Word>
+<Word id="1629" stime="731.89" dur="0.01" conf="0.100"> her </Word>
+<Word id="1630" stime="731.90" dur="0.01" conf="0.100"> new </Word>
+<Word id="1631" stime="731.91" dur="0.01" conf="0.100"> place </Word>
+<Word id="1632" stime="731.92" dur="0.00" conf="0.100"> , </Word>
+<Word id="1633" stime="731.92" dur="0.01" conf="0.100"> and </Word>
+<Word id="1634" stime="731.93" dur="0.12" conf="0.990"> we're </Word>
+<Word id="1635" stime="732.09" dur="0.17" conf="0.150"> sitting </Word>
+<Word id="1636" stime="732.26" dur="0.12" conf="0.200"> there </Word>
+<Word id="1637" stime="732.38" dur="0.09" conf="0.360"> eating </Word>
+<Word id="1638" stime="732.47" dur="0.21" conf="0.200"> pizza </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="735.15" etime="740.44" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1639" stime="735.19" dur="0.15" conf="0.100"> and </Word>
+<Word id="1640" stime="735.37" dur="0.06" conf="0.990"> I </Word>
+<Word id="1641" stime="735.48" dur="0.15" conf="0.100"> think </Word>
+<Word id="1642" stime="735.77" dur="0.17" conf="0.270"> it </Word>
+<Word id="1643" stime="735.94" dur="0.06" conf="0.400"> was </Word>
+<Word id="1644" stime="737.74" dur="0.24" conf="0.990"> you </Word>
+<Word id="1645" stime="737.98" dur="0.21" conf="0.100"> that </Word>
+<Word id="1646" stime="739.18" dur="0.34" conf="0.530"> said </Word>
+<Word id="1647" stime="739.67" dur="0.14" conf="0.100"> [phoebe_buffay] </Word>
+<Word id="1648" stime="739.81" dur="0.33" conf="0.100"> What </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="742.23" etime="744.02" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1649" stime="742.23" dur="0.28" conf="0.400"> do </Word>
+<Word id="1650" stime="742.54" dur="0.12" conf="0.990"> I </Word>
+<Word id="1651" stime="742.66" dur="0.15" conf="0.100"> smell </Word>
+<Word id="1652" stime="742.81" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1653" stime="742.81" dur="0.15" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1654" stime="743.00" dur="0.14" conf="0.100"> I </Word>
+<Word id="1655" stime="743.17" dur="0.09" conf="0.360"> think </Word>
+<Word id="1656" stime="743.26" dur="0.14" conf="0.270"> I </Word>
+<Word id="1657" stime="743.40" dur="0.04" conf="0.100"> was </Word>
+<Word id="1658" stime="743.44" dur="0.37" conf="0.530"> supposed </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="744.06" etime="745.17" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1659" stime="744.36" dur="0.19" conf="0.230"> to </Word>
+<Word id="1660" stime="744.60" dur="0.27" conf="0.270"> say </Word>
+<Word id="1661" stime="744.87" dur="0.00" conf="0.100"> , </Word>
+<Word id="1662" stime="744.87" dur="0.00" conf="0.100"> &quot; </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="745.92" etime="747.22" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1663" stime="745.99" dur="0.93" conf="0.100"> I </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="747.29" etime="750.54" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1664" stime="747.59" dur="0.13" conf="0.460"> don't </Word>
+<Word id="1665" stime="747.75" dur="0.12" conf="0.460"> know, </Word>
+<Word id="1666" stime="747.87" dur="0.00" conf="0.100"> &quot; </Word>
+<Word id="1667" stime="747.89" dur="0.10" conf="0.320"> and </Word>
+<Word id="1668" stime="748.02" dur="0.12" conf="0.400"> go </Word>
+<Word id="1669" stime="748.17" dur="0.12" conf="0.270"> over </Word>
+<Word id="1670" stime="748.29" dur="0.17" conf="0.200"> and </Word>
+<Word id="1671" stime="748.50" dur="0.14" conf="0.270"> open </Word>
+<Word id="1672" stime="748.68" dur="0.06" conf="0.320"> the </Word>
+<Word id="1673" stime="748.98" dur="0.12" conf="0.200"> door </Word>
+<Word id="1674" stime="749.10" dur="0.00" conf="0.950"> . </Word>
+<Word id="1675" stime="749.10" dur="0.33" conf="0.100"> And </Word>
+<Word id="1676" stime="749.76" dur="0.27" conf="0.100"> I </Word>
+<Word id="1677" stime="750.07" dur="0.17" conf="0.100"> went </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="750.61" etime="752.04" spkid="MS7" lang="eng-usa" lconf="1.00">
+<Word id="1678" stime="750.83" dur="0.91" conf="0.100"> [phoebe_buffay] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="752.51" etime="754.13" spkid="MS4" lang="eng-usa" lconf="1.00">
+<Word id="1679" stime="752.81" dur="0.11" conf="0.200"> What </Word>
+<Word id="1680" stime="752.99" dur="0.11" conf="0.320"> do </Word>
+<Word id="1681" stime="753.23" dur="0.31" conf="0.100"> I </Word>
+<Word id="1682" stime="753.65" dur="0.46" conf="0.150"> smell </Word>
+<Word id="1683" stime="754.11" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="761.81" etime="763.31" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1684" stime="761.90" dur="0.27" conf="0.240"> [joey_tribbiani] </Word>
+<Word id="1685" stime="762.38" dur="0.15" conf="0.230"> Sorry </Word>
+<Word id="1686" stime="762.53" dur="0.00" conf="0.950"> . </Word>
+<Word id="1687" stime="762.93" dur="0.30" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="766.63" etime="770.70" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1688" stime="766.70" dur="0.17" conf="0.690"> And </Word>
+<Word id="1689" stime="767.25" dur="0.13" conf="0.400"> then </Word>
+<Word id="1690" stime="767.42" dur="0.25" conf="0.530"> it </Word>
+<Word id="1691" stime="768.09" dur="0.15" conf="0.100"> was </Word>
+<Word id="1692" stime="768.46" dur="0.12" conf="0.200"> like </Word>
+<Word id="1693" stime="768.62" dur="0.10" conf="0.460"> four </Word>
+<Word id="1694" stime="768.74" dur="0.15" conf="0.360"> takes </Word>
+<Word id="1695" stime="768.92" dur="0.09" conf="0.360"> later </Word>
+<Word id="1696" stime="769.16" dur="0.09" conf="0.100"> before </Word>
+<Word id="1697" stime="769.85" dur="0.18" conf="0.990"> we </Word>
+<Word id="1698" stime="770.03" dur="0.06" conf="0.100"> could </Word>
+<Word id="1699" stime="770.09" dur="0.24" conf="0.360"> get </Word>
+<Word id="1700" stime="770.33" dur="0.37" conf="0.400"> through </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="770.70" etime="772.05" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1701" stime="770.70" dur="1.05" conf="0.100"> it </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="772.57" etime="773.04" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1702" stime="772.64" dur="0.10" conf="0.230"> with </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="776.95" etime="783.44" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1703" stime="777.01" dur="0.19" conf="0.100"> a </Word>
+<Word id="1704" stime="777.35" dur="0.63" conf="0.320"> straight </Word>
+<Word id="1705" stime="778.18" dur="0.16" conf="0.160"> face </Word>
+<Word id="1706" stime="778.34" dur="0.00" conf="0.950"> . </Word>
+<Word id="1707" stime="778.34" dur="0.21" conf="0.100"> [phoebe_buffay] </Word>
+<Word id="1708" stime="778.61" dur="0.34" conf="0.290"> What </Word>
+<Word id="1709" stime="779.07" dur="0.13" conf="0.320"> do </Word>
+<Word id="1710" stime="779.24" dur="0.06" conf="0.100"> I </Word>
+<Word id="1711" stime="779.37" dur="0.32" conf="0.230"> smell </Word>
+<Word id="1712" stime="779.69" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1713" stime="779.75" dur="0.05" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1714" stime="779.80" dur="0.48" conf="0.200"> Le </Word>
+<Word id="1715" stime="780.50" dur="0.27" conf="0.150"> Blanc </Word>
+<Word id="1716" stime="780.77" dur="0.00" conf="0.950"> . </Word>
+<Word id="1717" stime="780.77" dur="0.48" conf="0.100"> [phoebe_buffay] </Word>
+<Word id="1718" stime="781.38" dur="0.14" conf="0.100"> What </Word>
+<Word id="1719" stime="781.62" dur="0.44" conf="0.320"> do </Word>
+<Word id="1720" stime="782.74" dur="0.07" conf="0.990"> I </Word>
+<Word id="1721" stime="782.85" dur="0.11" conf="0.180"> smell </Word>
+<Word id="1722" stime="782.96" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1723" stime="782.99" dur="0.45" conf="0.240"> [joey_tribbiani] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="784.45" etime="785.50" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1724" stime="784.45" dur="0.19" conf="0.990"> I </Word>
+<Word id="1725" stime="784.64" dur="0.00" conf="0.100"> don't </Word>
+<Word id="1726" stime="784.64" dur="0.19" conf="0.990"> know </Word>
+<Word id="1727" stime="784.83" dur="0.00" conf="0.100"> , </Word>
+<Word id="1728" stime="784.88" dur="0.19" conf="0.600"> but </Word>
+<Word id="1729" stime="785.12" dur="0.37" conf="0.200"> it </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="787.05" etime="797.80" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1730" stime="787.05" dur="0.36" conf="0.100"> smells </Word>
+<Word id="1731" stime="788.98" dur="0.12" conf="0.230"> good </Word>
+<Word id="1732" stime="789.10" dur="0.00" conf="0.950"> . </Word>
+<Word id="1733" stime="789.10" dur="0.07" conf="0.140"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1734" stime="789.17" dur="0.02" conf="0.100"> But </Word>
+<Word id="1735" stime="789.19" dur="0.06" conf="0.110"> audiences-You </Word>
+<Word id="1736" stime="789.30" dur="0.19" conf="0.530"> have </Word>
+<Word id="1737" stime="789.49" dur="0.00" conf="0.100"> a </Word>
+<Word id="1738" stime="789.49" dur="0.00" conf="0.100"> live </Word>
+<Word id="1739" stime="789.49" dur="0.09" conf="0.360"> studio </Word>
+<Word id="1740" stime="789.58" dur="0.08" conf="0.100"> audience </Word>
+<Word id="1741" stime="789.66" dur="0.07" conf="0.990"> and </Word>
+<Word id="1742" stime="789.73" dur="0.33" conf="0.320"> they </Word>
+<Word id="1743" stime="790.06" dur="0.23" conf="0.200"> must </Word>
+<Word id="1744" stime="790.72" dur="0.19" conf="0.400"> love </Word>
+<Word id="1745" stime="790.91" dur="0.11" conf="0.100"> that </Word>
+<Word id="1746" stime="791.02" dur="0.00" conf="0.950"> . </Word>
+<Word id="1747" stime="791.13" dur="0.19" conf="0.230"> They </Word>
+<Word id="1748" stime="791.32" dur="0.08" conf="0.230"> must </Word>
+<Word id="1749" stime="791.49" dur="0.25" conf="0.150"> love </Word>
+<Word id="1750" stime="791.74" dur="0.18" conf="0.230"> it </Word>
+<Word id="1751" stime="791.92" dur="0.00" conf="0.100"> when </Word>
+<Word id="1752" stime="791.92" dur="0.30" conf="0.400"> they </Word>
+<Word id="1753" stime="792.22" dur="0.69" conf="0.100"> see </Word>
+<Word id="1754" stime="792.91" dur="0.12" conf="0.990"> you </Word>
+<Word id="1755" stime="793.03" dur="0.09" conf="0.100"> guys </Word>
+<Word id="1756" stime="793.17" dur="0.19" conf="0.180"> playing </Word>
+<Word id="1757" stime="793.36" dur="0.00" conf="0.950"> . </Word>
+<Word id="1758" stime="793.51" dur="0.36" conf="0.100"> [chandler_bing] </Word>
+<Word id="1759" stime="793.92" dur="0.22" conf="0.990"> What </Word>
+<Word id="1760" stime="794.20" dur="0.16" conf="0.100"> are </Word>
+<Word id="1761" stime="794.40" dur="0.10" conf="0.100"> you </Word>
+<Word id="1762" stime="794.56" dur="0.16" conf="0.150"> guys </Word>
+<Word id="1763" stime="794.98" dur="0.08" conf="0.230"> doing </Word>
+<Word id="1764" stime="795.06" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1765" stime="795.09" dur="0.10" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1766" stime="795.19" dur="0.17" conf="0.530"> Nothing </Word>
+<Word id="1767" stime="795.36" dur="0.00" conf="0.950"> . </Word>
+<Word id="1768" stime="795.43" dur="0.12" conf="0.170"> [joey_tribbiani] </Word>
+<Word id="1769" stime="796.12" dur="0.36" conf="0.320"> Nothin' </Word>
+<Word id="1770" stime="796.48" dur="0.00" conf="0.950"> . </Word>
+<Word id="1771" stime="797.44" dur="0.06" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="800.93" etime="801.78" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1772" stime="800.93" dur="0.39" conf="0.320"> So </Word>
+<Word id="1773" stime="801.49" dur="0.29" conf="0.270"> that </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="802.95" etime="805.48" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1774" stime="802.95" dur="0.36" conf="0.100"> you </Word>
+<Word id="1775" stime="804.48" dur="0.19" conf="0.200"> will </Word>
+<Word id="1776" stime="804.67" dur="0.18" conf="0.110"> intentionally </Word>
+<Word id="1777" stime="805.18" dur="0.21" conf="0.530"> do </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="806.47" etime="809.87" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1778" stime="806.47" dur="0.20" conf="0.290"> something </Word>
+<Word id="1779" stime="806.72" dur="0.18" conf="0.100"> that-they'll-they'll </Word>
+<Word id="1780" stime="806.90" dur="0.43" conf="0.100"> intentionally </Word>
+<Word id="1781" stime="807.94" dur="0.27" conf="0.290"> screw </Word>
+<Word id="1782" stime="808.28" dur="0.23" conf="0.320"> it </Word>
+<Word id="1783" stime="808.51" dur="0.16" conf="0.100"> up </Word>
+<Word id="1784" stime="808.66" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1785" stime="808.82" dur="0.08" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1786" stime="808.90" dur="0.10" conf="0.230"> Yeah </Word>
+<Word id="1787" stime="809.00" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1788" stime="809.00" dur="0.09" conf="0.140"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1789" stime="809.15" dur="0.36" conf="0.270"> Yeah </Word>
+<Word id="1790" stime="809.51" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1791" stime="809.56" dur="0.22" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="809.87" etime="816.21" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1792" stime="809.92" dur="0.28" conf="0.230"> Why </Word>
+<Word id="1793" stime="810.20" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1794" stime="810.48" dur="0.63" conf="0.530"> What's </Word>
+<Word id="1795" stime="811.11" dur="0.45" conf="0.100"> the </Word>
+<Word id="1796" stime="811.56" dur="0.15" conf="0.180"> matter </Word>
+<Word id="1797" stime="811.71" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1798" stime="811.71" dur="0.06" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1799" stime="811.77" dur="0.15" conf="0.110"> You-you've </Word>
+<Word id="1800" stime="811.92" dur="0.12" conf="0.600"> worn </Word>
+<Word id="1801" stime="812.04" dur="0.00" conf="0.100"> a </Word>
+<Word id="1802" stime="812.04" dur="0.00" conf="0.100"> fat </Word>
+<Word id="1803" stime="812.04" dur="0.00" conf="0.100"> suit </Word>
+<Word id="1804" stime="812.04" dur="0.06" conf="0.400"> on </Word>
+<Word id="1805" stime="812.10" dur="0.06" conf="0.990"> the </Word>
+<Word id="1806" stime="812.21" dur="0.56" conf="0.600"> show </Word>
+<Word id="1807" stime="812.77" dur="0.00" conf="0.950"> . </Word>
+<Word id="1808" stime="813.00" dur="0.09" conf="0.100"> And </Word>
+<Word id="1809" stime="813.09" dur="0.00" conf="0.100"> , </Word>
+<Word id="1810" stime="813.09" dur="0.09" conf="0.400"> a </Word>
+<Word id="1811" stime="813.18" dur="0.12" conf="0.530"> lot </Word>
+<Word id="1812" stime="813.30" dur="0.06" conf="0.990"> of </Word>
+<Word id="1813" stime="813.48" dur="0.42" conf="0.200"> people </Word>
+<Word id="1814" stime="813.93" dur="0.23" conf="0.320"> love </Word>
+<Word id="1815" stime="814.16" dur="0.32" conf="0.100"> you </Word>
+<Word id="1816" stime="814.48" dur="0.11" conf="0.100"> in </Word>
+<Word id="1817" stime="814.91" dur="0.10" conf="0.400"> the </Word>
+<Word id="1818" stime="815.01" dur="0.28" conf="0.460"> fat </Word>
+<Word id="1819" stime="815.50" dur="0.41" conf="0.440"> suit </Word>
+<Word id="1820" stime="815.91" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="818.88" etime="820.75" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1821" stime="818.88" dur="0.19" conf="0.400"> Do </Word>
+<Word id="1822" stime="819.09" dur="0.07" conf="0.100"> you </Word>
+<Word id="1823" stime="819.16" dur="0.09" conf="0.100"> like </Word>
+<Word id="1824" stime="819.25" dur="0.07" conf="0.360"> wearing </Word>
+<Word id="1825" stime="819.32" dur="0.08" conf="0.990"> the </Word>
+<Word id="1826" stime="819.40" dur="0.20" conf="0.460"> fat </Word>
+<Word id="1827" stime="819.60" dur="0.02" conf="0.100"> suit </Word>
+<Word id="1828" stime="819.62" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1829" stime="819.64" dur="0.30" conf="0.270"> Is </Word>
+<Word id="1830" stime="819.98" dur="0.14" conf="0.530"> it </Word>
+<Word id="1831" stime="820.19" dur="0.26" conf="0.100"> fun </Word>
+<Word id="1832" stime="820.45" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="821.09" etime="822.36" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="1833" stime="821.39" dur="0.23" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1834" stime="821.75" dur="0.31" conf="0.180"> I'm </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="824.62" etime="828.11" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1835" stime="824.69" dur="0.17" conf="0.150"> melting </Word>
+<Word id="1836" stime="824.86" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1837" stime="824.93" dur="0.09" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1838" stime="825.02" dur="0.12" conf="0.100"> They </Word>
+<Word id="1839" stime="825.16" dur="0.07" conf="0.460"> made </Word>
+<Word id="1840" stime="825.23" dur="0.09" conf="0.100"> me </Word>
+<Word id="1841" stime="825.32" dur="0.16" conf="0.100"> dance </Word>
+<Word id="1842" stime="825.48" dur="0.00" conf="0.100"> , </Word>
+<Word id="1843" stime="825.58" dur="0.29" conf="0.320"> in </Word>
+<Word id="1844" stime="825.87" dur="0.08" conf="0.460"> the </Word>
+<Word id="1845" stime="825.98" dur="0.12" conf="0.270"> fat </Word>
+<Word id="1846" stime="826.10" dur="0.22" conf="0.460"> suit </Word>
+<Word id="1847" stime="826.32" dur="0.00" conf="0.950"> . </Word>
+<Word id="1848" stime="826.37" dur="0.24" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1849" stime="827.03" dur="0.14" conf="0.230"> I-I </Word>
+<Word id="1850" stime="827.36" dur="0.12" conf="0.230"> heard </Word>
+<Word id="1851" stime="827.48" dur="0.63" conf="0.180"> some </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="828.27" etime="829.40" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="1852" stime="828.57" dur="0.82" conf="0.270"> of </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="829.40" etime="830.97" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1853" stime="829.50" dur="0.12" conf="0.990"> you </Word>
+<Word id="1854" stime="829.70" dur="0.31" conf="0.370"> guys </Word>
+<Word id="1855" stime="830.05" dur="0.14" conf="0.370"> talking </Word>
+<Word id="1856" stime="830.19" dur="0.15" conf="0.100"> about </Word>
+<Word id="1857" stime="830.34" dur="0.26" conf="0.160"> this </Word>
+<Word id="1858" stime="830.73" dur="0.24" conf="0.100"> earlier </Word>
+<Word id="1859" stime="830.97" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="833.42" etime="838.69" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1860" stime="833.46" dur="0.15" conf="0.100"> but </Word>
+<Word id="1861" stime="833.64" dur="0.12" conf="0.370"> sometimes </Word>
+<Word id="1862" stime="834.33" dur="0.09" conf="0.160"> there's </Word>
+<Word id="1863" stime="834.51" dur="0.41" conf="0.400"> just </Word>
+<Word id="1864" stime="834.99" dur="0.09" conf="0.400"> a </Word>
+<Word id="1865" stime="835.08" dur="0.11" conf="0.100"> word </Word>
+<Word id="1866" stime="835.19" dur="0.34" conf="0.180"> that </Word>
+<Word id="1867" stime="835.53" dur="0.36" conf="0.380"> someone </Word>
+<Word id="1868" stime="836.82" dur="0.31" conf="0.320"> has </Word>
+<Word id="1869" stime="837.33" dur="0.15" conf="0.640"> to </Word>
+<Word id="1870" stime="837.48" dur="0.00" conf="0.100"> say </Word>
+<Word id="1871" stime="837.48" dur="0.07" conf="0.270"> that </Word>
+<Word id="1872" stime="837.57" dur="0.06" conf="0.200"> you'll </Word>
+<Word id="1873" stime="837.63" dur="0.12" conf="0.460"> get </Word>
+<Word id="1874" stime="837.78" dur="0.38" conf="0.130"> hung </Word>
+<Word id="1875" stime="838.16" dur="0.10" conf="0.100"> up </Word>
+<Word id="1876" stime="838.26" dur="0.15" conf="0.400"> on </Word>
+<Word id="1877" stime="838.41" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="839.92" etime="842.30" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="1878" stime="839.98" dur="0.10" conf="0.320"> And </Word>
+<Word id="1879" stime="840.11" dur="0.09" conf="0.270"> it'll </Word>
+<Word id="1880" stime="840.23" dur="0.09" conf="0.150"> just-the </Word>
+<Word id="1881" stime="840.38" dur="0.36" conf="0.460"> way </Word>
+<Word id="1882" stime="841.52" dur="0.48" conf="0.230"> you </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="843.53" etime="845.55" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1883" stime="843.67" dur="0.17" conf="0.530"> say </Word>
+<Word id="1884" stime="843.84" dur="0.09" conf="0.320"> the </Word>
+<Word id="1885" stime="843.97" dur="0.15" conf="0.270"> word </Word>
+<Word id="1886" stime="844.17" dur="0.14" conf="0.400"> is </Word>
+<Word id="1887" stime="844.35" dur="0.09" conf="0.200"> funny </Word>
+<Word id="1888" stime="844.45" dur="0.08" conf="0.100"> to </Word>
+<Word id="1889" stime="844.53" dur="0.18" conf="0.120"> everybody </Word>
+<Word id="1890" stime="844.71" dur="0.12" conf="0.160"> else </Word>
+<Word id="1891" stime="844.83" dur="0.00" conf="0.950"> . </Word>
+<Word id="1892" stime="844.92" dur="0.36" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="1893" stime="845.33" dur="0.18" conf="0.230"> That </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="850.26" etime="861.57" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="1894" stime="850.26" dur="0.36" conf="0.100"> tastes </Word>
+<Word id="1895" stime="855.37" dur="0.14" conf="0.320"> like </Word>
+<Word id="1896" stime="855.55" dur="0.17" conf="0.320"> feet </Word>
+<Word id="1897" stime="855.72" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1898" stime="855.72" dur="0.30" conf="0.100"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1899" stime="856.04" dur="0.10" conf="0.400"> It </Word>
+<Word id="1900" stime="856.14" dur="0.30" conf="0.370"> tastes </Word>
+<Word id="1901" stime="856.44" dur="0.51" conf="0.290"> like </Word>
+<Word id="1902" stime="857.42" dur="0.22" conf="0.100"> feet </Word>
+<Word id="1903" stime="857.64" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1904" stime="857.67" dur="0.18" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1905" stime="857.85" dur="0.12" conf="0.270"> Okay </Word>
+<Word id="1906" stime="857.97" dur="0.00" conf="0.100"> , </Word>
+<Word id="1907" stime="858.11" dur="0.35" conf="0.100"> we're </Word>
+<Word id="1908" stime="858.60" dur="0.40" conf="0.270"> good </Word>
+<Word id="1909" stime="859.00" dur="0.00" conf="0.950"> . </Word>
+<Word id="1910" stime="859.14" dur="0.42" conf="0.290"> [the_director] </Word>
+<Word id="1911" stime="860.87" dur="0.11" conf="0.530"> Action </Word>
+<Word id="1912" stime="860.98" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1913" stime="861.12" dur="0.15" conf="0.130"> [dr_ross_geller] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="865.81" etime="867.19" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="1914" stime="865.85" dur="0.09" conf="0.100"> That </Word>
+<Word id="1915" stime="865.97" dur="0.12" conf="0.360"> tastes </Word>
+<Word id="1916" stime="866.23" dur="0.31" conf="0.370"> like </Word>
+<Word id="1917" stime="866.54" dur="0.21" conf="0.230"> feet </Word>
+<Word id="1918" stime="866.75" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1919" stime="866.75" dur="0.14" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="883.36" etime="884.29" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1920" stime="883.40" dur="0.12" conf="0.130"> Sometimes </Word>
+<Word id="1921" stime="883.52" dur="0.18" conf="0.100"> the </Word>
+<Word id="1922" stime="883.81" dur="0.35" conf="0.340"> dialogue </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="890.46" etime="896.38" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="1923" stime="890.53" dur="0.30" conf="0.480"> itself </Word>
+<Word id="1924" stime="890.83" dur="0.12" conf="0.990"> is </Word>
+<Word id="1925" stime="890.95" dur="0.00" conf="0.100"> just </Word>
+<Word id="1926" stime="890.95" dur="0.23" conf="0.460"> so </Word>
+<Word id="1927" stime="892.22" dur="0.20" conf="0.200"> funny </Word>
+<Word id="1928" stime="893.26" dur="0.12" conf="0.990"> and </Word>
+<Word id="1929" stime="893.41" dur="0.09" conf="0.100"> you'll-we'll </Word>
+<Word id="1930" stime="893.52" dur="0.10" conf="0.400"> be </Word>
+<Word id="1931" stime="893.62" dur="0.23" conf="0.200"> rehearsing </Word>
+<Word id="1932" stime="893.85" dur="0.13" conf="0.320"> during </Word>
+<Word id="1933" stime="894.02" dur="0.14" conf="0.990"> the </Word>
+<Word id="1934" stime="894.16" dur="0.06" conf="0.100"> week </Word>
+<Word id="1935" stime="894.22" dur="0.30" conf="0.200"> and </Word>
+<Word id="1936" stime="894.52" dur="0.30" conf="0.160"> you </Word>
+<Word id="1937" stime="894.82" dur="0.15" conf="0.100"> just-whatever-whatever </Word>
+<Word id="1938" stime="895.04" dur="0.29" conf="0.200"> the </Word>
+<Word id="1939" stime="895.36" dur="0.30" conf="0.230"> joke </Word>
+<Word id="1940" stime="895.66" dur="0.15" conf="0.400"> is </Word>
+<Word id="1941" stime="895.81" dur="0.00" conf="0.100"> ; </Word>
+<Word id="1942" stime="895.81" dur="0.11" conf="0.100"> it's </Word>
+<Word id="1943" stime="895.92" dur="0.43" conf="0.180"> so </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="904.60" etime="919.05" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="1944" stime="904.60" dur="0.36" conf="0.100"> funny </Word>
+<Word id="1945" stime="913.21" dur="0.08" conf="0.990"> we </Word>
+<Word id="1946" stime="913.33" dur="0.09" conf="0.100"> can't </Word>
+<Word id="1947" stime="913.54" dur="0.57" conf="0.300"> get </Word>
+<Word id="1948" stime="914.16" dur="0.19" conf="0.100"> through </Word>
+<Word id="1949" stime="914.35" dur="0.12" conf="0.400"> it </Word>
+<Word id="1950" stime="914.47" dur="0.00" conf="0.100"> in </Word>
+<Word id="1951" stime="914.47" dur="0.24" conf="0.400"> rehearsal </Word>
+<Word id="1952" stime="914.71" dur="0.00" conf="0.100"> and </Word>
+<Word id="1953" stime="914.71" dur="0.36" conf="0.400"> just </Word>
+<Word id="1954" stime="916.48" dur="0.09" conf="0.100"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1955" stime="916.60" dur="0.12" conf="0.100"> You </Word>
+<Word id="1956" stime="916.72" dur="0.27" conf="0.180"> just </Word>
+<Word id="1957" stime="917.33" dur="0.17" conf="0.690"> know </Word>
+<Word id="1958" stime="917.50" dur="0.00" conf="0.950"> . </Word>
+<Word id="1959" stime="917.55" dur="0.19" conf="0.110"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="1960" stime="917.81" dur="0.11" conf="0.100"> You-you </Word>
+<Word id="1961" stime="918.28" dur="0.30" conf="0.320"> mentally </Word>
+<Word id="1962" stime="918.58" dur="0.27" conf="0.320"> make </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="919.78" etime="920.76" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1963" stime="920.08" dur="0.38" conf="0.100"> a </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="923.49" etime="925.01" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="1964" stime="923.79" dur="0.93" conf="0.250"> flag </Word>
+<Word id="1965" stime="924.72" dur="0.10" conf="0.400"> on </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="934.76" etime="936.57" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="1966" stime="934.89" dur="0.12" conf="0.270"> it </Word>
+<Word id="1967" stime="935.09" dur="0.15" conf="0.230"> and </Word>
+<Word id="1968" stime="935.79" dur="0.18" conf="0.270"> you </Word>
+<Word id="1969" stime="936.02" dur="0.19" conf="0.100"> say </Word>
+<Word id="1970" stime="936.21" dur="0.00" conf="0.100"> , </Word>
+<Word id="1971" stime="936.21" dur="0.00" conf="0.100"> &quot; </Word>
+<Word id="1972" stime="936.24" dur="0.22" conf="0.990"> Okay </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="941.41" etime="945.55" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1973" stime="941.41" dur="0.19" conf="0.690"> show </Word>
+<Word id="1974" stime="941.69" dur="0.36" conf="0.530"> night </Word>
+<Word id="1975" stime="942.05" dur="0.00" conf="0.100"> , </Word>
+<Word id="1976" stime="942.32" dur="0.17" conf="0.990"> I'm </Word>
+<Word id="1977" stime="942.59" dur="0.16" conf="0.110"> just-I'll </Word>
+<Word id="1978" stime="942.90" dur="0.14" conf="0.180"> never </Word>
+<Word id="1979" stime="943.15" dur="0.08" conf="0.320"> be </Word>
+<Word id="1980" stime="943.33" dur="0.40" conf="0.360"> able </Word>
+<Word id="1981" stime="944.24" dur="0.19" conf="0.100"> to </Word>
+<Word id="1982" stime="944.54" dur="0.24" conf="0.400"> get </Word>
+<Word id="1983" stime="944.92" dur="0.62" conf="0.430"> through </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="950.20" etime="955.02" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1984" stime="950.44" dur="0.10" conf="0.320"> this </Word>
+<Word id="1985" stime="950.54" dur="0.00" conf="0.100"> . </Word>
+<Word id="1986" stime="950.54" dur="0.00" conf="0.950"> &quot; </Word>
+<Word id="1987" stime="950.78" dur="0.17" conf="0.320"> [monica_geller] </Word>
+<Word id="1988" stime="952.94" dur="0.38" conf="0.530"> Are </Word>
+<Word id="1989" stime="953.50" dur="0.22" conf="0.160"> you </Word>
+<Word id="1990" stime="953.72" dur="0.52" conf="0.100"> saying </Word>
+<Word id="1991" stime="954.24" dur="0.26" conf="0.640"> that </Word>
+<Word id="1992" stime="954.53" dur="0.14" conf="0.270"> you </Word>
+<Word id="1993" stime="954.77" dur="0.24" conf="0.180"> don't </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="955.02" etime="959.31" spkid="MS5" lang="eng-usa" lconf="1.00">
+<Word id="1994" stime="955.02" dur="3.99" conf="0.200"> want </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="960.86" etime="962.25" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1995" stime="960.86" dur="0.13" conf="0.100"> to </Word>
+<Word id="1996" stime="961.02" dur="0.12" conf="0.100"> get </Word>
+<Word id="1997" stime="961.14" dur="0.12" conf="0.200"> with </Word>
+<Word id="1998" stime="961.26" dur="0.09" conf="0.530"> this </Word>
+<Word id="1999" stime="961.35" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2000" stime="961.35" dur="0.00" conf="0.100"> [chandler_bing] </Word>
+<Word id="2001" stime="961.35" dur="0.10" conf="0.230"> You </Word>
+<Word id="2002" stime="961.47" dur="0.14" conf="0.460"> see </Word>
+<Word id="2003" stime="961.61" dur="0.00" conf="0.100"> , </Word>
+<Word id="2004" stime="961.61" dur="0.37" conf="0.100"> I </Word>
+<Word id="2005" stime="961.98" dur="0.23" conf="0.290"> don't </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="965.15" etime="968.15" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2006" stime="965.15" dur="0.23" conf="0.320"> say- </Word>
+<Word id="2007" stime="965.43" dur="0.36" conf="0.290"> [phoebe_buffay] </Word>
+<Word id="2008" stime="966.90" dur="0.24" conf="0.100"> Oh </Word>
+<Word id="2009" stime="967.14" dur="0.00" conf="0.100"> , </Word>
+<Word id="2010" stime="967.14" dur="0.27" conf="0.160"> sweet </Word>
+<Word id="2011" stime="967.41" dur="0.00" conf="0.100"> Je--sus </Word>
+<Word id="2012" stime="967.41" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2013" stime="967.41" dur="0.10" conf="0.100"> Oh </Word>
+<Word id="2014" stime="967.51" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2015" stime="967.53" dur="0.06" conf="0.230"> Monica </Word>
+<Word id="2016" stime="967.59" dur="0.00" conf="0.100"> , </Word>
+<Word id="2017" stime="967.59" dur="0.18" conf="0.290"> these </Word>
+<Word id="2018" stime="967.83" dur="0.27" conf="0.460"> are </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="971.90" etime="976.19" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2019" stime="971.96" dur="0.16" conf="0.320"> the </Word>
+<Word id="2020" stime="972.31" dur="0.38" conf="0.430"> cookies </Word>
+<Word id="2021" stime="972.69" dur="0.18" conf="0.270"> they </Word>
+<Word id="2022" stime="972.87" dur="0.21" conf="0.180"> serve </Word>
+<Word id="2023" stime="973.15" dur="0.32" conf="0.320"> in </Word>
+<Word id="2024" stime="973.52" dur="0.22" conf="0.100"> hell </Word>
+<Word id="2025" stime="973.74" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2026" stime="975.30" dur="0.45" conf="0.350"> [chandler_bing] </Word>
+<Word id="2027" stime="975.75" dur="0.14" conf="0.230"> Whoa </Word>
+<Word id="2028" stime="975.89" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="981.41" etime="983.57" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2029" stime="981.51" dur="0.12" conf="0.480"> She's </Word>
+<Word id="2030" stime="981.63" dur="0.18" conf="0.200"> purty </Word>
+<Word id="2031" stime="981.81" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2032" stime="981.81" dur="0.36" conf="0.280"> [joey_tribbiani] </Word>
+<Word id="2033" stime="982.21" dur="0.14" conf="0.320"> Oh </Word>
+<Word id="2034" stime="982.35" dur="0.09" conf="0.460"> yeah </Word>
+<Word id="2035" stime="982.44" dur="0.00" conf="0.100"> , </Word>
+<Word id="2036" stime="982.44" dur="0.24" conf="0.100"> and </Word>
+<Word id="2037" stime="982.68" dur="0.24" conf="0.320"> she's </Word>
+<Word id="2038" stime="982.92" dur="0.14" conf="0.100"> really </Word>
+<Word id="2039" stime="983.10" dur="0.17" conf="0.360"> nice </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="990.37" etime="991.81" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2040" stime="990.56" dur="0.21" conf="0.100"> too </Word>
+<Word id="2041" stime="990.77" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2042" stime="990.77" dur="0.06" conf="0.270"> She </Word>
+<Word id="2043" stime="990.90" dur="0.29" conf="0.460"> taught </Word>
+<Word id="2044" stime="991.19" dur="0.15" conf="0.270"> me </Word>
+<Word id="2045" stime="991.34" dur="0.46" conf="0.480"> about </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="991.80" etime="994.31" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2046" stime="991.80" dur="0.71" conf="0.100"> y'know </Word>
+<Word id="2047" stime="992.50" dur="0.00" conf="0.100"> , </Word>
+<Word id="2048" stime="992.50" dur="0.70" conf="0.100"> how </Word>
+<Word id="2049" stime="993.21" dur="0.19" conf="0.990"> to </Word>
+<Word id="2050" stime="993.40" dur="0.30" conf="0.200"> work </Word>
+<Word id="2051" stime="993.70" dur="0.18" conf="0.600"> with </Word>
+<Word id="2052" stime="993.88" dur="0.00" conf="0.100"> the </Word>
+<Word id="2053" stime="993.88" dur="0.42" conf="0.320"> cameras </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="995.67" etime="996.46" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2054" stime="995.72" dur="0.14" conf="0.990"> and </Word>
+<Word id="2055" stime="995.86" dur="0.00" conf="0.100"> smell-the-fart </Word>
+<Word id="2056" stime="995.86" dur="0.12" conf="0.320"> acting </Word>
+<Word id="2057" stime="995.98" dur="0.00" conf="0.950"> . </Word>
+<Word id="2058" stime="996.09" dur="0.30" conf="0.320"> [monica_geller] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="997.43" etime="999.00" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2059" stime="997.53" dur="0.12" conf="0.230"> Joey </Word>
+<Word id="2060" stime="997.65" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2061" stime="997.65" dur="0.33" conf="0.100"> [rachel_green] </Word>
+<Word id="2062" stime="997.98" dur="0.12" conf="0.100"> I'm </Word>
+<Word id="2063" stime="998.15" dur="0.25" conf="0.360"> sorry </Word>
+<Word id="2064" stime="998.40" dur="0.60" conf="0.130"> [dr_ross_geller] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="999.79" etime="1008.03" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2065" stime="999.79" dur="0.36" conf="0.100"> Excuse </Word>
+<Word id="2066" stime="1000.94" dur="0.14" conf="0.270"> me </Word>
+<Word id="2067" stime="1001.08" dur="0.00" conf="0.100"> , </Word>
+<Word id="2068" stime="1001.08" dur="0.00" conf="0.100"> what </Word>
+<Word id="2069" stime="1001.08" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2070" stime="1001.08" dur="0.00" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2071" stime="1001.08" dur="0.17" conf="0.360"> When </Word>
+<Word id="2072" stime="1001.25" dur="0.02" conf="0.100"> you </Word>
+<Word id="2073" stime="1001.27" dur="0.02" conf="0.100"> have </Word>
+<Word id="2074" stime="1001.29" dur="0.39" conf="0.200"> to </Word>
+<Word id="2075" stime="1001.68" dur="0.06" conf="0.320"> do </Word>
+<Word id="2076" stime="1001.74" dur="0.33" conf="0.400"> physical </Word>
+<Word id="2077" stime="1002.07" dur="0.03" conf="0.100"> business </Word>
+<Word id="2078" stime="1002.10" dur="0.12" conf="0.990"> for </Word>
+<Word id="2079" stime="1002.22" dur="0.06" conf="0.990"> a </Word>
+<Word id="2080" stime="1002.33" dur="0.22" conf="0.180"> scene </Word>
+<Word id="2081" stime="1002.55" dur="0.00" conf="0.100"> , </Word>
+<Word id="2082" stime="1002.55" dur="0.39" conf="0.320"> I </Word>
+<Word id="2083" stime="1003.24" dur="0.18" conf="0.460"> mean </Word>
+<Word id="2084" stime="1003.42" dur="0.09" conf="0.100"> there </Word>
+<Word id="2085" stime="1003.65" dur="0.55" conf="0.160"> must </Word>
+<Word id="2086" stime="1004.65" dur="0.60" conf="0.180"> be </Word>
+<Word id="2087" stime="1005.25" dur="0.00" conf="0.100"> ; </Word>
+<Word id="2088" stime="1006.42" dur="0.41" conf="0.290"> there </Word>
+<Word id="2089" stime="1006.96" dur="0.36" conf="0.200"> must </Word>
+<Word id="2090" stime="1007.46" dur="0.56" conf="0.180"> be </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1013.84" etime="1015.80" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2091" stime="1013.84" dur="0.22" conf="0.530"> a </Word>
+<Word id="2092" stime="1014.10" dur="0.14" conf="0.100"> lot </Word>
+<Word id="2093" stime="1014.24" dur="0.17" conf="0.270"> of </Word>
+<Word id="2094" stime="1014.45" dur="0.15" conf="0.230"> funny </Word>
+<Word id="2095" stime="1014.66" dur="0.19" conf="0.670"> moments </Word>
+<Word id="2096" stime="1014.90" dur="0.06" conf="0.270"> when </Word>
+<Word id="2097" stime="1014.96" dur="0.12" conf="0.320"> you </Word>
+<Word id="2098" stime="1015.08" dur="0.36" conf="0.130"> have </Word>
+<Word id="2099" stime="1015.44" dur="0.20" conf="0.270"> to </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1017.65" etime="1019.81" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2100" stime="1017.71" dur="0.19" conf="0.530"> physically </Word>
+<Word id="2101" stime="1017.98" dur="0.34" conf="0.360"> do </Word>
+<Word id="2102" stime="1018.32" dur="0.09" conf="0.100"> a </Word>
+<Word id="2103" stime="1018.41" dur="0.06" conf="0.230"> task </Word>
+<Word id="2104" stime="1018.47" dur="0.47" conf="0.150"> as </Word>
+<Word id="2105" stime="1019.28" dur="0.32" conf="0.160"> part </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1032.28" etime="1033.39" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2106" stime="1032.35" dur="0.24" conf="0.640"> of </Word>
+<Word id="2107" stime="1032.59" dur="0.21" conf="0.100"> a </Word>
+<Word id="2108" stime="1032.80" dur="0.29" conf="0.180"> scene </Word>
+<Word id="2109" stime="1033.09" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1034.82" etime="1036.41" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2110" stime="1035.12" dur="0.12" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2111" stime="1035.27" dur="0.12" conf="0.100"> Yeah </Word>
+<Word id="2112" stime="1035.39" dur="0.00" conf="0.100"> , </Word>
+<Word id="2113" stime="1035.39" dur="0.12" conf="0.150"> Rachel </Word>
+<Word id="2114" stime="1035.51" dur="0.00" conf="0.100"> , </Word>
+<Word id="2115" stime="1035.56" dur="0.19" conf="0.270"> Chandler </Word>
+<Word id="2116" stime="1035.75" dur="0.00" conf="0.100"> , </Word>
+<Word id="2117" stime="1035.75" dur="0.37" conf="0.460"> and </Word>
+<Word id="2118" stime="1036.17" dur="0.21" conf="0.100"> Ross </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1040.37" etime="1042.50" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2119" stime="1040.41" dur="0.24" conf="0.230"> had </Word>
+<Word id="2120" stime="1040.70" dur="0.19" conf="0.100"> to </Word>
+<Word id="2121" stime="1040.89" dur="0.27" conf="0.400"> try </Word>
+<Word id="2122" stime="1041.16" dur="0.31" conf="0.320"> to </Word>
+<Word id="2123" stime="1041.47" dur="0.08" conf="0.100"> get </Word>
+<Word id="2124" stime="1041.55" dur="0.12" conf="0.530"> a </Word>
+<Word id="2125" stime="1041.67" dur="0.30" conf="0.270"> couch </Word>
+<Word id="2126" stime="1041.97" dur="0.43" conf="0.100"> up </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1043.40" etime="1044.98" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2127" stime="1043.40" dur="0.19" conf="0.100"> a </Word>
+<Word id="2128" stime="1043.59" dur="0.30" conf="0.250"> stair-a </Word>
+<Word id="2129" stime="1043.89" dur="0.12" conf="0.100"> very </Word>
+<Word id="2130" stime="1044.01" dur="0.06" conf="0.230"> narrow </Word>
+<Word id="2131" stime="1044.13" dur="0.24" conf="0.360"> New </Word>
+<Word id="2132" stime="1044.40" dur="0.12" conf="0.460"> York </Word>
+<Word id="2133" stime="1044.61" dur="0.36" conf="0.200"> stairwell </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1046.04" etime="1050.04" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2134" stime="1046.17" dur="0.30" conf="0.990"> and </Word>
+<Word id="2135" stime="1046.47" dur="0.03" conf="0.100"> that </Word>
+<Word id="2136" stime="1046.50" dur="0.69" conf="0.320"> was </Word>
+<Word id="2137" stime="1047.19" dur="0.21" conf="0.100"> probably </Word>
+<Word id="2138" stime="1047.40" dur="0.21" conf="0.230"> ...I-I </Word>
+<Word id="2139" stime="1047.61" dur="0.24" conf="0.160"> think </Word>
+<Word id="2140" stime="1047.92" dur="0.32" conf="0.270"> it </Word>
+<Word id="2141" stime="1048.24" dur="0.14" conf="0.230"> was </Word>
+<Word id="2142" stime="1048.38" dur="0.07" conf="0.100"> the </Word>
+<Word id="2143" stime="1048.48" dur="0.18" conf="0.290"> hardest </Word>
+<Word id="2144" stime="1048.66" dur="0.15" conf="0.250"> I've-I've </Word>
+<Word id="2145" stime="1048.81" dur="0.30" conf="0.230"> laughed </Word>
+<Word id="2146" stime="1049.11" dur="0.33" conf="0.100"> in </Word>
+<Word id="2147" stime="1049.47" dur="0.18" conf="0.990"> my </Word>
+<Word id="2148" stime="1049.86" dur="0.17" conf="0.990"> life </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1056.71" etime="1057.67" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2149" stime="1056.71" dur="0.22" conf="0.320"> period </Word>
+<Word id="2150" stime="1056.93" dur="0.00" conf="0.950"> . </Word>
+<Word id="2151" stime="1057.08" dur="0.29" conf="0.170"> [dr_ross_geller] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1059.10" etime="1059.77" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2152" stime="1059.18" dur="0.17" conf="0.360"> Pivot </Word>
+<Word id="2153" stime="1059.35" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2154" stime="1059.35" dur="0.12" conf="0.200"> Pivot </Word>
+<Word id="2155" stime="1059.47" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1062.77" etime="1064.34" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2156" stime="1062.88" dur="0.14" conf="0.230"> Okay </Word>
+<Word id="2157" stime="1063.02" dur="0.00" conf="0.100"> , </Word>
+<Word id="2158" stime="1063.02" dur="0.12" conf="0.270"> pivot </Word>
+<Word id="2159" stime="1063.14" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2160" stime="1063.38" dur="0.15" conf="0.320"> Piv-at </Word>
+<Word id="2161" stime="1063.53" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2162" stime="1063.53" dur="0.00" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="2163" stime="1063.53" dur="0.06" conf="0.460"> Pivot </Word>
+<Word id="2164" stime="1063.59" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2165" stime="1063.59" dur="0.24" conf="0.150"> Piv-at </Word>
+<Word id="2166" stime="1063.83" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2167" stime="1063.83" dur="0.07" conf="0.360"> Piv-at! </Word>
+<Word id="2168" stime="1063.90" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2169" stime="1063.91" dur="0.01" conf="0.100"> [chandler_bing] </Word>
+<Word id="2170" stime="1063.92" dur="0.12" conf="0.400"> Shut </Word>
+<Word id="2171" stime="1064.04" dur="0.27" conf="0.320"> up </Word>
+<Word id="2172" stime="1064.31" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1068.84" etime="1069.56" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2173" stime="1069.14" dur="0.40" conf="0.400"> Shut </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1069.54" etime="1076.82" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="2174" stime="1069.54" dur="0.36" conf="0.100"> up </Word>
+<Word id="2175" stime="1069.90" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2176" stime="1075.72" dur="0.20" conf="0.320"> Shut </Word>
+<Word id="2177" stime="1075.94" dur="0.08" conf="0.270"> up! </Word>
+<Word id="2178" stime="1076.02" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2179" stime="1076.02" dur="0.18" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2180" stime="1076.20" dur="0.18" conf="0.320"> Pivat! </Word>
+<Word id="2181" stime="1076.38" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2182" stime="1076.38" dur="0.18" conf="0.180"> Pivat!! </Word>
+<Word id="2183" stime="1076.56" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1079.73" etime="1080.80" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="2184" stime="1079.73" dur="0.36" conf="0.100"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2185" stime="1080.09" dur="0.15" conf="0.530"> You've </Word>
+<Word id="2186" stime="1080.24" dur="0.04" conf="0.100"> done </Word>
+<Word id="2187" stime="1080.28" dur="0.22" conf="0.270"> over </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1080.87" etime="1082.85" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="2188" stime="1080.87" dur="1.68" conf="0.300"> 150 </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1082.97" etime="1083.62" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2189" stime="1082.97" dur="0.40" conf="0.200"> episodes </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1087.18" etime="1094.58" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="2190" stime="1087.18" dur="0.00" conf="0.100"> , </Word>
+<Word id="2191" stime="1087.18" dur="0.36" conf="0.100"> but </Word>
+<Word id="2192" stime="1091.35" dur="0.13" conf="0.100"> your </Word>
+<Word id="2193" stime="1091.51" dur="0.11" conf="0.270"> favorite </Word>
+<Word id="2194" stime="1091.72" dur="0.14" conf="0.100"> moments </Word>
+<Word id="2195" stime="1091.91" dur="0.19" conf="0.440"> that </Word>
+<Word id="2196" stime="1092.13" dur="0.15" conf="0.300"> 80 </Word>
+<Word id="2197" stime="1092.28" dur="0.12" conf="0.400"> years </Word>
+<Word id="2198" stime="1092.40" dur="0.00" conf="0.100"> from </Word>
+<Word id="2199" stime="1092.40" dur="0.15" conf="0.400"> now </Word>
+<Word id="2200" stime="1092.55" dur="0.06" conf="0.200"> you'll </Word>
+<Word id="2201" stime="1092.61" dur="0.06" conf="0.990"> be </Word>
+<Word id="2202" stime="1092.67" dur="0.09" conf="0.290"> thinking </Word>
+<Word id="2203" stime="1092.76" dur="0.19" conf="0.360"> about </Word>
+<Word id="2204" stime="1092.95" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2205" stime="1093.00" dur="0.39" conf="0.180"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2206" stime="1093.43" dur="0.17" conf="0.460"> It </Word>
+<Word id="2207" stime="1093.60" dur="0.13" conf="0.530"> is </Word>
+<Word id="2208" stime="1093.73" dur="0.00" conf="0.100"> when </Word>
+<Word id="2209" stime="1093.73" dur="0.16" conf="0.530"> we're </Word>
+<Word id="2210" stime="1093.97" dur="0.17" conf="0.230"> able </Word>
+<Word id="2211" stime="1094.14" dur="0.09" conf="0.990"> to </Word>
+<Word id="2212" stime="1094.23" dur="0.34" conf="0.100"> crack </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1097.04" etime="1100.30" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="2213" stime="1097.20" dur="0.09" conf="0.400"> each </Word>
+<Word id="2214" stime="1097.29" dur="0.00" conf="0.100"> other </Word>
+<Word id="2215" stime="1097.29" dur="0.09" conf="0.100"> up </Word>
+<Word id="2216" stime="1097.38" dur="0.00" conf="0.950"> . </Word>
+<Word id="2217" stime="1097.38" dur="0.22" conf="0.100"> [chandler_bing] </Word>
+<Word id="2218" stime="1097.70" dur="0.10" conf="0.150"> Monica's </Word>
+<Word id="2219" stime="1097.87" dur="0.29" conf="0.270"> gotta </Word>
+<Word id="2220" stime="1098.19" dur="0.15" conf="0.100"> have </Word>
+<Word id="2221" stime="1098.34" dur="0.12" conf="0.690"> the </Word>
+<Word id="2222" stime="1098.46" dur="0.33" conf="0.100"> phone </Word>
+<Word id="2223" stime="1098.79" dur="0.12" conf="0.530"> in </Word>
+<Word id="2224" stime="1098.99" dur="0.34" conf="0.150"> the </Word>
+<Word id="2225" stime="1099.33" dur="0.12" conf="0.200"> right </Word>
+<Word id="2226" stime="1099.45" dur="0.39" conf="0.440"> place </Word>
+<Word id="2227" stime="1099.93" dur="0.25" conf="0.230"> and- </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1103.28" etime="1110.65" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2228" stime="1103.28" dur="0.36" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="2229" stime="1106.74" dur="0.28" conf="0.270"> All </Word>
+<Word id="2230" stime="1107.02" dur="0.59" conf="0.230"> right </Word>
+<Word id="2231" stime="1107.61" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2232" stime="1107.86" dur="0.21" conf="0.100"> All </Word>
+<Word id="2233" stime="1108.07" dur="0.12" conf="0.200"> right </Word>
+<Word id="2234" stime="1108.19" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2235" stime="1108.22" dur="0.33" conf="0.270"> All </Word>
+<Word id="2236" stime="1108.55" dur="0.18" conf="0.360"> right </Word>
+<Word id="2237" stime="1108.73" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2238" stime="1108.73" dur="0.31" conf="0.100"> We </Word>
+<Word id="2239" stime="1109.18" dur="0.27" conf="0.320"> are </Word>
+<Word id="2240" stime="1109.45" dur="0.03" conf="0.100"> fixing </Word>
+<Word id="2241" stime="1109.48" dur="0.15" conf="0.530"> it </Word>
+<Word id="2242" stime="1109.63" dur="0.00" conf="0.950"> . </Word>
+<Word id="2243" stime="1109.63" dur="0.11" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2244" stime="1109.81" dur="0.48" conf="0.160"> He's </Word>
+<Word id="2245" stime="1110.34" dur="0.19" conf="0.400"> gone </Word>
+<Word id="2246" stime="1110.53" dur="0.00" conf="0.950"> . </Word>
+<Word id="2247" stime="1110.54" dur="0.01" conf="0.100"> He's </Word>
+<Word id="2248" stime="1110.55" dur="0.10" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1112.23" etime="1116.09" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="2249" stime="1112.23" dur="0.37" conf="0.100"> We </Word>
+<Word id="2250" stime="1114.18" dur="0.15" conf="0.400"> enjoy </Word>
+<Word id="2251" stime="1114.33" dur="0.04" conf="0.100"> watching </Word>
+<Word id="2252" stime="1114.37" dur="0.08" conf="0.460"> each </Word>
+<Word id="2253" stime="1114.53" dur="0.02" conf="0.600"> other </Word>
+<Word id="2254" stime="1114.55" dur="0.00" conf="0.950"> . </Word>
+<Word id="2255" stime="1114.55" dur="0.33" conf="0.180"> And </Word>
+<Word id="2256" stime="1114.88" dur="0.09" conf="0.990"> I </Word>
+<Word id="2257" stime="1114.97" dur="0.36" conf="0.290"> settle </Word>
+<Word id="2258" stime="1115.33" dur="0.06" conf="0.320"> for </Word>
+<Word id="2259" stime="1115.39" dur="0.24" conf="0.120"> watching </Word>
+<Word id="2260" stime="1115.63" dur="0.09" conf="0.460"> each </Word>
+<Word id="2261" stime="1115.72" dur="0.27" conf="0.580"> other's </Word>
+<Word id="2262" stime="1115.99" dur="0.06" conf="0.250"> performance </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1119.69" etime="1125.95" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2263" stime="1119.69" dur="0.00" conf="0.100"> , </Word>
+<Word id="2264" stime="1119.69" dur="0.36" conf="0.100"> and </Word>
+<Word id="2265" stime="1120.05" dur="0.36" conf="0.100"> we </Word>
+<Word id="2266" stime="1124.05" dur="0.23" conf="0.100"> like </Word>
+<Word id="2267" stime="1124.52" dur="0.24" conf="0.230"> each </Word>
+<Word id="2268" stime="1124.81" dur="0.22" conf="0.200"> other </Word>
+<Word id="2269" stime="1125.03" dur="0.00" conf="0.950"> . </Word>
+<Word id="2270" stime="1125.09" dur="0.24" conf="0.160"> [dr_ross_geller] </Word>
+<Word id="2271" stime="1125.33" dur="0.00" conf="0.100"> Oh </Word>
+<Word id="2272" stime="1125.33" dur="0.12" conf="0.990"> the </Word>
+<Word id="2273" stime="1125.45" dur="0.00" conf="0.100"> band's </Word>
+<Word id="2274" stime="1125.45" dur="0.36" conf="0.480"> ready </Word>
+<Word id="2275" stime="1125.81" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1128.41" etime="1135.46" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2276" stime="1128.51" dur="0.41" conf="0.100"> And </Word>
+<Word id="2277" stime="1130.49" dur="0.07" conf="0.130"> well-I-I-we </Word>
+<Word id="2278" stime="1130.63" dur="0.22" conf="0.160"> gotta </Word>
+<Word id="2279" stime="1130.85" dur="0.04" conf="0.100"> do </Word>
+<Word id="2280" stime="1130.89" dur="0.14" conf="0.100"> what </Word>
+<Word id="2281" stime="1131.03" dur="0.12" conf="0.990"> the </Word>
+<Word id="2282" stime="1131.15" dur="0.09" conf="0.100"> band </Word>
+<Word id="2283" stime="1131.24" dur="0.31" conf="0.160"> says </Word>
+<Word id="2284" stime="1131.55" dur="0.00" conf="0.100"> , </Word>
+<Word id="2285" stime="1131.63" dur="0.36" conf="0.150"> right </Word>
+<Word id="2286" stime="1131.99" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2287" stime="1131.99" dur="0.12" conf="0.530"> I </Word>
+<Word id="2288" stime="1132.11" dur="0.00" conf="0.100"> don't </Word>
+<Word id="2289" stime="1132.11" dur="0.21" conf="0.270"> care </Word>
+<Word id="2290" stime="1132.35" dur="0.12" conf="0.230"> about </Word>
+<Word id="2291" stime="1132.47" dur="0.09" conf="0.990"> the </Word>
+<Word id="2292" stime="1132.56" dur="0.27" conf="0.250"> stinkin' </Word>
+<Word id="2293" stime="1132.83" dur="0.09" conf="0.100"> band! </Word>
+<Word id="2294" stime="1132.92" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2295" stime="1132.92" dur="0.09" conf="0.110"> [conan#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2296" stime="1133.01" dur="0.45" conf="0.600"> Okay </Word>
+<Word id="2297" stime="1133.46" dur="0.57" conf="0.100"> Friends </Word>
+<Word id="2298" stime="1134.03" dur="0.27" conf="0.460"> gang </Word>
+<Word id="2299" stime="1134.30" dur="0.00" conf="0.100"> , </Word>
+<Word id="2300" stime="1134.37" dur="0.13" conf="0.360"> thanks </Word>
+<Word id="2301" stime="1134.54" dur="0.36" conf="0.150"> for </Word>
+<Word id="2302" stime="1134.90" dur="0.41" conf="0.180"> doing </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1138.79" etime="1141.98" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2303" stime="1138.79" dur="0.22" conf="0.530"> it </Word>
+<Word id="2304" stime="1139.01" dur="0.00" conf="0.950"> . </Word>
+<Word id="2305" stime="1139.04" dur="0.02" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2306" stime="1139.06" dur="0.22" conf="0.230"> Well </Word>
+<Word id="2307" stime="1139.28" dur="0.38" conf="0.110"> thank </Word>
+<Word id="2308" stime="1139.76" dur="0.39" conf="0.990"> you </Word>
+<Word id="2309" stime="1140.51" dur="0.46" conf="0.180"> so </Word>
+<Word id="2310" stime="1141.50" dur="0.18" conf="0.100"> much </Word>
+<Word id="2311" stime="1141.68" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1142.87" etime="1145.64" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2312" stime="1142.91" dur="0.10" conf="0.100"> [jennifer#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2313" stime="1143.12" dur="0.22" conf="0.360"> Thank </Word>
+<Word id="2314" stime="1144.74" dur="0.12" conf="0.320"> you </Word>
+<Word id="2315" stime="1144.86" dur="0.09" conf="0.200"> Conan </Word>
+<Word id="2316" stime="1144.95" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2317" stime="1144.99" dur="0.17" conf="0.160"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2318" stime="1145.16" dur="0.00" conf="0.100"> Well </Word>
+<Word id="2319" stime="1145.16" dur="0.15" conf="0.360"> thank </Word>
+<Word id="2320" stime="1145.31" dur="0.30" conf="0.400"> for </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1151.22" etime="1153.43" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2321" stime="1151.27" dur="0.43" conf="0.400"> coming </Word>
+<Word id="2322" stime="1152.16" dur="0.24" conf="0.460"> here </Word>
+<Word id="2323" stime="1152.40" dur="0.00" conf="0.100"> , </Word>
+<Word id="2324" stime="1152.40" dur="0.28" conf="0.100"> it's </Word>
+<Word id="2325" stime="1152.94" dur="0.19" conf="0.200"> good </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1172.01" etime="1172.59" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2326" stime="1172.08" dur="0.21" conf="0.270"> to </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1173.84" etime="1175.01" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="2327" stime="1173.93" dur="0.31" conf="0.130"> see </Word>
+<Word id="2328" stime="1174.24" dur="0.18" conf="0.990"> you </Word>
+<Word id="2329" stime="1174.42" dur="0.00" conf="0.950"> . </Word>
+<Word id="2330" stime="1174.53" dur="0.46" conf="0.290"> [phoebe_buffay] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1195.82" etime="1201.82" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="2331" stime="1196.12" dur="0.15" conf="0.400"> Thank </Word>
+<Word id="2332" stime="1196.27" dur="0.09" conf="0.100"> you </Word>
+<Word id="2333" stime="1196.45" dur="0.12" conf="0.100"> my </Word>
+<Word id="2334" stime="1196.60" dur="0.13" conf="0.290"> babies </Word>
+<Word id="2335" stime="1196.73" dur="0.00" conf="0.950"> . </Word>
+<Word id="2336" stime="1196.81" dur="0.12" conf="0.100"> [monica_geller] </Word>
+<Word id="2337" stime="1196.93" dur="0.30" conf="0.100"> Oh </Word>
+<Word id="2338" stime="1198.91" dur="0.22" conf="0.990"> what </Word>
+<Word id="2339" stime="1200.14" dur="0.21" conf="0.990"> are </Word>
+<Word id="2340" stime="1200.35" dur="0.04" conf="0.100"> doing? </Word>
+<Word id="2341" stime="1200.38" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2342" stime="1200.42" dur="0.18" conf="0.300"> [joey_tribbiani] </Word>
+<Word id="2343" stime="1200.95" dur="0.18" conf="0.200"> You're </Word>
+<Word id="2344" stime="1201.13" dur="0.09" conf="0.100"> still </Word>
+<Word id="2345" stime="1201.22" dur="0.03" conf="0.990"> a </Word>
+<Word id="2346" stime="1201.25" dur="0.35" conf="0.200"> tiny </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1204.20" etime="1215.39" spkid="FS8" lang="eng-usa" lconf="1.00">
+<Word id="2347" stime="1204.50" dur="0.09" conf="0.320"> bit </Word>
+<Word id="2348" stime="1204.71" dur="0.24" conf="0.100"> on </Word>
+<Word id="2349" stime="1205.04" dur="0.42" conf="0.250"> fire </Word>
+<Word id="2350" stime="1205.53" dur="0.26" conf="0.360"> there </Word>
+<Word id="2351" stime="1205.79" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2352" stime="1205.79" dur="0.00" conf="0.100"> [monica_geller] </Word>
+<Word id="2353" stime="1205.79" dur="0.06" conf="0.530"> I </Word>
+<Word id="2354" stime="1205.85" dur="0.06" conf="0.400"> think </Word>
+<Word id="2355" stime="1205.91" dur="0.01" conf="0.100"> you </Word>
+<Word id="2356" stime="1205.92" dur="0.02" conf="0.100"> got </Word>
+<Word id="2357" stime="1205.94" dur="0.01" conf="0.100"> it </Word>
+<Word id="2358" stime="1205.95" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2359" stime="1205.96" dur="0.02" conf="0.100"> [courtney#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2360" stime="1205.98" dur="0.01" conf="0.100"> I'm </Word>
+<Word id="2361" stime="1205.99" dur="0.49" conf="0.320"> sorry </Word>
+<Word id="2362" stime="1206.48" dur="0.00" conf="0.100"> , </Word>
+<Word id="2363" stime="1206.93" dur="0.15" conf="0.990"> I </Word>
+<Word id="2364" stime="1207.08" dur="0.00" conf="0.100"> messed </Word>
+<Word id="2365" stime="1207.08" dur="0.00" conf="0.100"> up </Word>
+<Word id="2366" stime="1207.08" dur="0.00" conf="0.950"> . </Word>
+<Word id="2367" stime="1207.08" dur="0.00" conf="0.100"> [matt#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2368" stime="1207.08" dur="0.00" conf="0.100"> I'll </Word>
+<Word id="2369" stime="1207.08" dur="0.18" conf="0.460"> do </Word>
+<Word id="2370" stime="1207.31" dur="0.08" conf="0.460"> it </Word>
+<Word id="2371" stime="1207.39" dur="0.02" conf="0.100"> again </Word>
+<Word id="2372" stime="1207.41" dur="0.06" conf="0.400"> and </Word>
+<Word id="2373" stime="1207.55" dur="0.34" conf="0.340"> again </Word>
+<Word id="2374" stime="1207.89" dur="0.00" conf="0.100"> if </Word>
+<Word id="2375" stime="1207.89" dur="0.36" conf="0.100"> you </Word>
+<Word id="2376" stime="1208.85" dur="0.46" conf="0.460"> want </Word>
+<Word id="2377" stime="1209.31" dur="0.00" conf="0.950"> . </Word>
+<Word id="2378" stime="1209.51" dur="0.18" conf="0.100"> [dr_ross_geller] </Word>
+<Word id="2379" stime="1209.69" dur="0.13" conf="0.100"> No-no </Word>
+<Word id="2380" stime="1209.82" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2381" stime="1209.90" dur="0.24" conf="0.130"> I'll-I'll </Word>
+<Word id="2382" stime="1210.14" dur="0.79" conf="0.100"> [david#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2383" stime="1210.93" dur="0.79" conf="0.100"> That </Word>
+<Word id="2384" stime="1211.72" dur="0.17" conf="0.530"> is </Word>
+<Word id="2385" stime="1211.89" dur="0.14" conf="0.270"> too </Word>
+<Word id="2386" stime="1212.03" dur="0.32" conf="0.400"> much </Word>
+<Word id="2387" stime="1212.35" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2388" stime="1214.34" dur="0.21" conf="0.100"> [matthew#unknown#Friends.Season07.Episode24] </Word>
+<Word id="2389" stime="1214.55" dur="0.07" conf="0.320"> Let </Word>
+<Word id="2390" stime="1214.64" dur="0.12" conf="0.100"> me </Word>
+<Word id="2391" stime="1214.76" dur="0.07" conf="0.230"> start </Word>
+<Word id="2392" stime="1214.85" dur="0.15" conf="0.400"> that </Word>
+<Word id="2393" stime="1215.00" dur="0.09" conf="0.270"> again </Word>
+<Word id="2394" stime="1215.09" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>

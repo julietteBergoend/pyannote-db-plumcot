@@ -1,0 +1,6 @@
+#IDE stuff
+.ipynb_checkpoints/
+.spyderworkspace
+
+#old data, keep for ref locally
+hard-alignment-anonymous/
