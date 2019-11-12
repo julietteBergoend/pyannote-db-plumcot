@@ -1,0 +1,405 @@
+old_nan The little Lord's been dreaming again.
+theon_greyjoy We have visitors.
+bran_stark I don't want to see anyone.
+theon_greyjoy Really? If I was cooped up all day with no one but this old bat for company, I'd go mad. Anyway, you don't have a choice. Robb's waiting.
+bran_stark I don't want to go.
+theon_greyjoy Neither do I. But Robb's Lord of Winterfell, which means I do what he says and you do what I say. Hodor! Help Bran down the hall.
+tyrion_lannister I must say I received a slightly warmer welcome on my last visit.
+robb_stark Any man of the Night's Watch is welcome at Winterfell.
+tyrion_lannister Any man of the Night's Watch, but not I, eh, boy?
+robb_stark I'm not your boy, Lannister. I'm Lord of Winterfell while my father is away.
+tyrion_lannister Then you might learn a lord's courtesy.
+tyrion_lannister So it's true. Hello Bran. Do you remember anything about what happened?
+maester_luwin He has no memory of that day.
+tyrion_lannister Curious.
+robb_stark Why are you here?
+tyrion_lannister Would your charming companion be so kind as to kneel? My neck is beginning to hurt.
+bran_stark Kneel, Hodor.
+tyrion_lannister Do you like to ride, Bran?
+bran_stark Yes. Well, I mean I did like to.
+maester_luwin The boy has lost the use of his legs.
+tyrion_lannister What of it? With the right horse and saddle, even a cripple can ride.
+bran_stark I'm not a cripple.
+tyrion_lannister Then I'm not a dwarf. My father will rejoice to hear it. I have a gift for you. Give that to your saddler. He'll provide the rest. You must shape the horse to the rider. Start with a yearling and teach it to respond to the reins and to the boy's voice.
+bran_stark Will I really be able to ride?
+tyrion_lannister You will. On horseback you will be as tall as any of them.
+robb_stark Is this some kind of trick? Why do you want to help him?
+tyrion_lannister I have a tender spot in my heart for cripples, bastards and broken things.
+robb_stark You've done my brother a kindness. The hospitality of Winterfell is yours.
+tyrion_lannister Spare me your false courtesies, Lord Stark. There's a brothel outside your walls. There I'll find a bed and both of us can sleep easier.
+theon_greyjoy Couldn't resist some northern ass? If you like redheads, ask for Ros.
+tyrion_lannister Come to see me off, Greyjoy? Kind of you. Your master doesn't seem to like Lannisters.
+theon_greyjoy He's not my master.
+tyrion_lannister No, of course not. What happened here? Where is lady Stark? Why didn't she receive me?
+theon_greyjoy She wasn't feeling well.
+tyrion_lannister She's not in Winterfell, is she? Where did she go?
+theon_greyjoy My lady's whereabouts...
+tyrion_lannister My lady? Your loyalty to your captors is touching. Tell me, how do you think Balon Greyjoy would feel if he could see his only surviving son has turned lackey? I still remember seeing my father's fleet burn in Lannisport. I believe your uncles were responsible?
+theon_greyjoy Must have been a pretty sight.
+tyrion_lannister Nothing prettier than watching sailors burn alive. Yes, a great victory for your people. Shame how it all turned out.
+theon_greyjoy We were outnumbered 10 to one.
+tyrion_lannister A stupid rebellion then. I suppose your father realized that when your brothers died in battle. Now here you are, your enemy's squire.
+theon_greyjoy Careful, Imp.
+tyrion_lannister I've offended you. Forgive me, it's been a rough morning. Anyway, don't despair. I'm a constant disappointment to my own father and I've learned to live with it. Your next tumble with Ros is on me. I'll try not to wear her out.
+jon_snow Leg, shoulder, leg. Left foot forward. Good. Now pivot as you deliver the stroke. Put all your weight behind it.
+grenn What in seven hells is that?
+pypar They'll need an eighth hell to fit him in.
+alliser_thorne Tell them your name.
+samwell_tarly Samwell Tarly, of Horn Hill. I mean, I was of Horn Hill. I've come to take the black.
+rast Come to take the black pudding.
+alliser_thorne Well, you couldn't be any worse than you look. See what he can do.
+samwell_tarly I yield. Please, no more.
+alliser_thorne On your feet. Pick up your sword. Hit him till he finds his feet. It seems they've run short of poachers and thieves down south. Now they send us squealing bloody pigs. Again, harder.
+jon_snow Enough! He yielded.
+alliser_thorne Looks like the bastard's in love. All right then, lord Snow, you wish to defend your lady love, let's make it an exercise. You two. Three of you ought to be sufficient to make lady piggy squeal. All you've got to do is get past the bastard.
+jon_snow Are you sure you want to do this?
+grenn No. Yield yield yield! I yield.
+alliser_thorne We're done for today. Go clean the armory. That's all you're good for.
+pypar Well fought!
+grenn Piss off.
+samwell_tarly Did he hurt you?
+jon_snow I've had worse.
+samwell_tarly You can call me Sam... If you want. My mother calls me Sam.
+jon_snow It's not going to get any easier, you know? You'll have to defend yourself.
+grenn Why didn't you get up and fight?
+samwell_tarly I wanted to. I just couldn't.
+grenn Why not?
+samwell_tarly I'm a coward. My father always says so.
+jon_snow The Wall's no place for cowards.
+samwell_tarly You're right. I'm sorry. I just... Wanted to thank you.
+grenn A bloody coward. People saw us talking to him. Now they'll think we're cowards too.
+pypar You're too stupid to be a coward.
+grenn You're too stupid to be a...
+pypar Quick now, before summer's over.
+grenn Come on here!
+jorah_mormont Vaes Dothrak. The city of the horselords.
+viserys_targaryen A pile of mud. Mud and shit and twigs - best these savages can do.
+daenerys_targaryen These are my people now. You shouldn't call them savages.
+viserys_targaryen I'll call them what I like, because they're my people. This is my army. Khal Drogo is marching the wrong way with my army.
+daenerys_targaryen If my brother was given an army of Dothraki, could you conquer the Seven Kingdoms?
+jorah_mormont The Dothraki have never crossed the Narrow Sea. They fear any water their horses can't drink.
+daenerys_targaryen But if they did?
+jorah_mormont King Robert is fool enough to meet them in open battle, but the men advising him are different.
+daenerys_targaryen And you know these men?
+jorah_mormont I fought beside them once, long ago. Now Ned Stark wants my head. He drove me from my land.
+daenerys_targaryen You sold slaves.
+jorah_mormont Aye.
+daenerys_targaryen Why?
+jorah_mormont I had no money and an expensive wife.
+daenerys_targaryen And where is she now?
+jorah_mormont In another place, with another man.
+doreah Your Grace?
+viserys_targaryen Yes, my dear?
+doreah They call you the last dragon...
+viserys_targaryen They do.
+doreah You have dragon's blood in your veins?
+viserys_targaryen It's entirely possible.
+doreah What happened to the dragons? I was told that brave men killed them all.
+viserys_targaryen The brave men didn't kill dragons. The brave men rode them. Rode them from Valyria to build the greatest civilization this world has ever seen. The breath of the greatest dragon forged the Iron Throne, which the Usurper is keeping warm for me. The swords of the vanquished, a thousand of them... melted together like so many candles.
+doreah I have always wanted to see a dragon. There is nothing in the world that I would rather see.
+viserys_targaryen Really? Why dragons?
+doreah They can fly. And wherever they are, just a few flaps of their wings and they're somewhere else... Far away. And they can kill. Anyone or anything that tries to hurt them gets burned away to nothing... melted... like so many candles. Seeing a dragon would make me very happy.
+viserys_targaryen Well, after 15 years in a pleasure house, I imagine just seeing the sky makes you happy.
+doreah I was not locked in. I have seen things.
+viserys_targaryen What have you seen?
+doreah I've seen... A man from Asshai with a dagger of real dragonglass. I've seen a man who could change his face the way that other men change their clothes. And I've seen a pirate who wore his weight in gold and whose ship had sails of colored silk. So... Have you seen one?
+viserys_targaryen A pirate ship?
+doreah A dragon.
+viserys_targaryen No, the last one died many years before I was born. I'll tell you what I have seen their skulls. They used to decorate the throne room in the Red Keep. When I was very young, just 3 or 4, my father used to walk me down the rows and I'd recite their names for him. When I got them all right, he'd give me a sweet. The ones closest to the door were the last ones they were able to hatch and they were all stunted and wrong. Skulls no bigger than dog skulls. But as you got closer to the Iron Throne... They got bigger and bigger and bigger. There was Ghiscar and Valryon, Vermithrax, Essovius, Archonel, Meraxes, Vhagar... And Balerion the Dread... whose fire forged the Seven Kingdoms into one.
+doreah What happened to the skulls?
+viserys_targaryen I don't know. The Usurper had them smashed to powder, I expect. Scattered to the wind.
+doreah That's very sad.
+viserys_targaryen Yes, it is. What did I buy you for? To make me sad?
+doreah No, your Grace. To teach your sister.
+viserys_targaryen To teach my sister how to be a better lover? You think I bought you to make Khal Drogo happy? You pretty little idiot. Go on then. Get on with it.
+septa_mordane Someday your husband will sit there and you will sit by his side. And one day, before too long, you will present your son to the court. All the lords of Westeros will gather here to see the little prince...
+sansa_stark What if I have a girl?
+septa_mordane Gods be good, you'll have boys and girls and plenty of them.
+sansa_stark What if I only have girls?
+septa_mordane I wouldn't worry about that.
+sansa_stark Jeyne Poole's mother had five children, all of them girls.
+septa_mordane Yes, but it's highly unlikely.
+sansa_stark But what if?
+septa_mordane If you only had girls, I suppose the throne would pass to Prince Joffrey's little brother.
+sansa_stark And everyone would hate me.
+septa_mordane Nobody could ever hate you.
+sansa_stark Joffrey does.
+septa_mordane Nonsense. Why would you say such a thing? That business with the wolves? I've told you a hundred times... A direwolf is not...
+sansa_stark Please shut up about it.
+septa_mordane Do you remember your lessons? Who built the Iron Throne?
+sansa_stark Aegon the Conqueror.
+septa_mordane And who built the Red Keep?
+sansa_stark Maegor the Cruel.
+septa_mordane And how many years did it take to build...
+sansa_stark My grandfather and uncle were murdered here, weren't they?
+septa_mordane They were killed on the orders of King Aerys, yes.
+sansa_stark The Mad King.
+septa_mordane Commonly known as the Mad King.
+sansa_stark Why were they killed?
+septa_mordane You should speak to your father about these matters.
+sansa_stark I don't want to speak to my father, ever.
+septa_mordane You will find it in your heart to forgive your father.
+sansa_stark No, I won't.
+janos_slynt It's the Hand's tournament that's causing all this trouble, my Lords.
+eddard_stark The King's tournament. I assure you the Hand wants no part of it.
+janos_slynt Call it what you will, Lord Stark Ser, the city is packed with people and more flooding in every day. Last night we had a tavern riot, a brothel fire, three stabbings and a drunken horse race down the Street of Sisters.
+lord_varys Dreadful.
+renly_baratheon If you can't keep the King's peace, perhaps the City Watch should be commanded by someone who can.
+janos_slynt I need more men.
+eddard_stark You'll get 50. Lord Baelish will see it paid for.
+petyr_baelish I will?
+eddard_stark You found money for a champion's purse, you can find money to keep the peace. I'll also give you 20 of my household guards till the crowds have left.
+janos_slynt Thank you, my Lord Hand Ser. They will be put to good use.
+eddard_stark The sooner this is over, the better.
+lord_varys The realm prospers from such events, my Lord. They give the great a chance at glory, and the lowly a respite from their woes.
+petyr_baelish And every inn in the city is full and the whores are walking bow-legged.
+eddard_stark I'm sure the tourney puts coins in many a pocket. Now... If there's nothing else, my Lords?
+grand_maester_pycelle This heat. On days like this, I envy you northerners your summer snows. Until tomorrow my Lord.
+eddard_stark I've been hoping to talk to you about Jon Arryn.
+grand_maester_pycelle Lord Arryn? His death was a great sadness to all of us. I took personal charge of his care, but I could not save him. His sickness struck him very hard and very fast. I saw him in my chambers just the night before he passed. Lord Jon often came to me for counsel.
+eddard_stark Why?
+grand_maester_pycelle I have been Grand Maester for many years. Kings and Hands have come to me for advice since...
+eddard_stark What did Jon want the night before he died?
+grand_maester_pycelle He came inquiring after a book.
+eddard_stark A book? What book?
+grand_maester_pycelle I fear it would be of little interest to you, my Lord. A ponderous tome.
+eddard_stark I'd like to read it.
+grand_maester_pycelle "The lineages and histories of the great houses of the Seven Kingdoms, with descriptions of many high lords and noble ladies and their children."
+eddard_stark "Harkon Umber, first of his name, born to lord Hother Umber and lady Amaryllis Umber in the 183rd year after Aegon's landing, at the last hearth. Blue of eye, brown of hair and fair complected, died in his 14th year of a wound sustained
+grand_maester_pycelle As I said, my Lord, a ponderous read.
+eddard_stark Did Jon Arryn tell you what he wanted with it?
+grand_maester_pycelle He did not, my Lord. And I did not presume to ask.
+eddard_stark Jon's death...
+grand_maester_pycelle Such a tragedy.
+eddard_stark Did he say anything to you during his final hours?
+grand_maester_pycelle Nothing of import, my Lord. There was one phrase he kept repeating "The seed is strong," I think it was.
+eddard_stark "The seed is strong"? What does that mean?
+grand_maester_pycelle The dying mind is a demented mind, Lord Stark. For all the weight they're given, last words are usually as significant as first words.
+eddard_stark And you're quite certain he died of a natural illness?
+grand_maester_pycelle What else could it be?
+eddard_stark Poison.
+grand_maester_pycelle A disturbing thought. I don't think it likely. The Hand was loved by all. What sort of man would dare...
+eddard_stark I've heard it said that poison is a woman's weapon.
+grand_maester_pycelle Yes. Women, cravens... and eunuchs. Did you know that lord Varys is a eunuch?
+eddard_stark Everybody knows that.
+grand_maester_pycelle Yes, yes, of course. How that sort of person found himself on the King's Council, I will never know.
+eddard_stark I've taken enough of your time.
+grand_maester_pycelle No trouble at all, my Lord. It's a great honor...
+eddard_stark Thank you. I'll find my own way out.
+arya_stark Syrio says a water dancer can stand on one toe for hours.
+eddard_stark It's a hard fall down these steps.
+arya_stark Syrio says every hurt is a lesson and every lesson makes you better. Tomorrow I'm going to be chasing cats.
+eddard_stark Cats? Syrio says…
+arya_stark He says every swordsman should study cats. They're quiet as shadows and as light as feathers. You have to be quick to catch them.
+eddard_stark He's right about that.
+arya_stark Now that Bran's awake will he come live with us?
+eddard_stark He needs to get his strength back first.
+arya_stark He wants to be a knight of the King’s Guard. He can't be one now, can he?
+eddard_stark No. But someday he could be Lord of a holdfast or sit on the King's Council. Or he might raise castles like Brandon the Builder.
+arya_stark Can I be Lord of a holdfast?
+eddard_stark You will marry a high Lord and rule his castle. And your sons shall be knights and princes and lords.
+arya_stark No. That's not me.
+samwell_tarly Hello. Ser Alliser said I'm to be your new watch partner. I should warn you, I don't see all that well.
+jon_snow Come stand by the fire. It's warmer.
+samwell_tarly No, that's all right. I'm fine.
+jon_snow You're not. You're freezing.
+samwell_tarly I don't like high places.
+jon_snow You can't fight. You can't see. You're afraid of heights and almost everything else probably. What are you doing here, Sam?
+samwell_tarly On the morning of my 18th nameday, my father came to me. "You're almost a man now," he said, "but you're not worthy of my land and title. Tomorrow, you're going to take the black, forsake all claim to your inheritance and start north. If you do not," he said, "then we'll have a hunt and somewhere in these woods your horse will stumble and you'll be thrown from your saddle to die. Or so I'll tell your mother. Nothing would please me more." Ser Alliser's going to make me fight again tomorrow, isn't he?
+jon_snow Yes, he is.
+samwell_tarly I'm not going to get any better, you know?
+jon_snow Well… You can't get any worse.
+petyr_baelish I hear you're reading a boring book.
+eddard_stark Pycelle talks too much.
+petyr_baelish He never stops. Do you know Ser Hugh of the Vale? Not surprising. Until recently, he was only a squire... Jon Arryn's squire. He was knighted almost immediately after his master's untimely death.
+eddard_stark Knighted for what? Why are you telling me this?
+petyr_baelish I promised Cat that I'd help you.
+eddard_stark Where is Ser Hugh? I'll speak to him.
+petyr_baelish A singularly bad idea. Do you see that boy there? One of Varys's little birds. The Spider has taken a great interest in your comings and goings. Now look there. That one belongs to the Queen. And do you see that Septa pretending to read her book?
+eddard_stark Varys or the Queen?
+petyr_baelish No. She's one of mine. Is there someone in your service whom you trust completely?
+eddard_stark Yes.
+petyr_baelish The wiser answer was no, my Lord. Get a message to this paragon of yours... Discreetly. Send him to question Ser Hugh. After that, you might want him to visit a certain armorer in the city. He lives in a large house at the top of the street of Steel.
+eddard_stark Why?
+petyr_baelish I have my observers, as I said, and it's possible that they saw Lord Arryn visit this armorer several times in the weeks before his death.
+eddard_stark Lord Baelish, perhaps I was wrong to distrust you.
+petyr_baelish Distrusting me was the wisest thing you've done since you climbed off your horse.
+jory_cassel Ser Hugh? Ser Hugh!
+hugh_of_the_vale As you can see, I'm busy.
+jory_cassel I'm here on behalf of Lord Eddard Stark, the Hand of the king. I'm the captain of his guard.
+hugh_of_the_vale I'm sorry. I didn't catch your name, Ser...
+jory_cassel No "ser." I'm not a knight.
+hugh_of_the_vale I see. Well, it just so happens that I am.
+jory_cassel He said he'd be glad to talk to the Hand himself. He's a knight, you see.
+eddard_stark A knight. They strut around like roosters down here. Even the ones who've never seen an arrow coming their way.
+jory_cassel You shouldn't be out here, my Lord. There's no telling who has eyes where.
+eddard_stark Let them look.
+tobho_mott The former Hand did call on me, my Lord, several times. I regret to say he did not honor me with his patronage.
+eddard_stark What did Lord Arryn want?
+tobho_mott He always came to see the boy.
+eddard_stark I'd like to see him as well.
+tobho_mott As you wish, my Lord. Gendry! Here he is. Strong for his age. He works hard. Show the Hand the helmet you made, lad.
+eddard_stark This is fine work.
+gendry It's not for sale.
+tobho_mott Boy, this is the King's Hand! If his lordship wants the helmet...
+gendry I made it for me.
+tobho_mott Forgive him, my Lord.
+eddard_stark There's nothing to forgive. When Lord Arryn came to visit you, what would you talk about?
+gendry He just asked me questions is all, my Lord.
+eddard_stark What kind of questions?
+gendry About my work at first, if I was being treated well, if I liked it here. But then he started asking me about my mother.
+eddard_stark Your mother?
+gendry Who she was, what she looked like.
+eddard_stark What did you tell him?
+gendry She died when I was little. She had yellow hair. She'd sing to me sometimes.
+eddard_stark Look at me. Get back to work, lad. If the day ever comes when that boy'd rather wield a sword than forge one, you send him to me.
+jory_cassel Find anything?
+eddard_stark King Robert's bastard son.
+jory_cassel This is for the King from Lord Stark.
+jaime_lannister Listen. Do you hear them? How many do you think are in there with him? Guess.
+jory_cassel Three? Four?
+jaime_lannister He likes to do this when I'm on duty... He makes me listen as he insults my sister.
+jory_cassel Forgive me, my Lord...
+jaime_lannister Why do I have to forgive you? Have you wronged me?
+jory_cassel We've met before, you know.
+jaime_lannister Have we? Strange, I've forgotten.
+jory_cassel The siege of Pyke. We fought side by side one afternoon.
+jaime_lannister That's where you got your scar?
+jory_cassel Aye. One of the Greyjoys nearly took my eye.
+jaime_lannister Vicious sons of whores.
+jory_cassel They like their bloodshed.
+jaime_lannister They stopped liking it at the end. That was a proper battle. D'you remember Thoros of Myr charging through the breach?
+jory_cassel With his burning sword? I'll remember that till the day I die.
+jaime_lannister I saw the youngest of the Greyjoy lads at Winterfell. It was like seeing a shark on a mountaintop.
+jory_cassel Theon? He's a good lad.
+jaime_lannister I doubt it.
+robert_baratheon I'll bet you smell of blackberry jam! Let me smell it. Come here.
+jory_cassel Can I leave this with you? The message from Lord Stark.
+jaime_lannister I don't serve Lord Stark.
+grenn Where have you been?
+jon_snow Watch duty. With Sam.
+pypar Prince Porkchop. Where is he?
+jon_snow He wasn't hungry.
+pypar Impossible!
+jon_snow That's enough. Sam's no different from the rest of us. There was no place for him in the world, so he's come here. We're not going to hurt him in the training yard anymore. Never again, no matter what Thorne says. He's our brother now and we're going to protect him.
+rast You are in love, Lord Snow. You girls can do as you please. But if Thorne puts me up against Lady Piggy, I'm gonna slice me off a side of bacon.
+jon_snow No one touches Sam.
+alliser_thorne What are you waiting for? Attack him! You, get in there.
+grenn Hit me. Go on, hit me! I yield! Yield yield. I yield.
+alliser_thorne You think this is funny, do you? When you're out there beyond the Wall with the sun going down, do you want a man at your back? Or a sniveling boy?
+viserys_targaryen You send this whore to give me commands? I should have sent you back her head!
+doreah Forgive me, Khaleesi. I did as you asked.
+daenerys_targaryen Hush now. It's all right. Irri, take her and leave us.
+irri Yes, Khaleesi.
+daenerys_targaryen Why did you hit her?!
+viserys_targaryen How many times do I have to tell you? You do not command me.
+daenerys_targaryen I wasn't commanding you. I just wanted to invite you to supper.
+viserys_targaryen What's this?
+daenerys_targaryen It's a gift. I had it made for you.
+viserys_targaryen Dothraki rags? Are you going to dress me now?
+daenerys_targaryen Please.
+viserys_targaryen This stinks of manure. All of it.
+daenerys_targaryen Stop - stop it.
+viserys_targaryen You would turn me into one of them, wouldn't you? Next you'll want to braid my hair.
+daenerys_targaryen You've no right to a braid. You've won no victories yet.
+viserys_targaryen You do not talk back to me!
+viserys_targaryen You are a horselord's slut. And now you've woken the dragon...
+daenerys_targaryen I am a Khaleesi of the Dothraki! I am the wife of the great Khal and I carry his son inside me. The next time you raise a hand to me will be the last time you have hands.
+samwell_tarly I know for a fact that some of the officers go to that brothel in Mole's Town.
+jon_snow I wouldn't doubt it.
+samwell_tarly Don't you think it's a little bit unfair? Making us take our vows while they sneak off for a little sally on the side?
+jon_snow Sally on the side?
+samwell_tarly It's silly, isn't it? What, we can't defend the Wall unless we're celibate? It's absurd.
+jon_snow I didn't think you'd be so upset about it.
+samwell_tarly Why not? Because I'm fat? But I like girls just as much as you do. They might not like me as much. I've never... been with one. You've probably had hundreds.
+jon_snow As a matter of fact, I'm the same as you.
+samwell_tarly I find that hard to believe.
+jon_snow I came very close once. I was alone in a room with a naked girl, but...
+samwell_tarly You didn't know where to put it?
+jon_snow I know where to put it.
+samwell_tarly Was she... Old and ugly?
+jon_snow Young and gorgeous. A whore named Ros.
+samwell_tarly What color hair?
+jon_snow Red.
+samwell_tarly I like red hair. And her... Her...
+jon_snow You don't want to know.
+samwell_tarly That good?
+jon_snow Better.
+samwell_tarly Oh no. So why exactly did you not make love to Ros with the perfect...
+jon_snow What's my name?
+samwell_tarly Jon Snow?
+jon_snow And why is my surname Snow?
+samwell_tarly Because... You're a bastard from the north.
+jon_snow I never met my mother. My father wouldn't even tell me her name. I don't know if she's living or dead. I don't know if she's a noblewoman or a fisherman's wife... Or a whore. So I sat there in the brothel as Ros took off her clothes. But I couldn't do it. Because all I could think was what if I got her pregnant and she had a child, another bastard named Snow? It's not a good life for a child.
+samwell_tarly So... You didn't know where to put it?
+alliser_thorne Enjoying yourselves? You look cold, boys.
+samwell_tarly It is a bit nippy.
+alliser_thorne A bit nippy, yeah, by the fire, indoors. It's still summer. Do you boys even remember the last winter? How long has it been now? What, 10 years? I remember. Was it uncomfortable at Winterfell? Were there days when you just couldn't get warm, never mind how many fires your servants built?
+jon_snow I build my own fires.
+alliser_thorne That's admirable. I spent six months out there, beyond the Wall during the last winter. It was supposed to be a two-week mission. We heard a rumor Mance Rayder was planning to attack Eastwatch. So we went out to look for some of his men... Capture them, gather some knowledge. The Wildlings who fight for Mance Rayder are hard men. Harder than you'll ever be. They know their country better than we do. They knew there was a storm coming in. So they hid in their caves and waited for it to pass. And we got caught in the open. Wind so strong it yanked 100-foot trees straight from the ground, roots and all. If you took your gloves off to find your cock to have a piss, you lost a finger to the frost. And all in darkness. You don't know cold. Neither of you do. The horses died first. We didn't have enough to feed them, to keep them warm. Eating the horses was easy. But later when we started to fall... That wasn't easy. We should have had a couple of boys like you along, shouldn't we? Soft, fat boys like you. We'd have lasted a fortnight on you and still had bones leftover for soup. Soon we'll have new recruits and you lot will be passed along to the Lord Commander for assignment and they will call you men of the Night's Watch, but you'd be fools to believe it. You're boys still. And come the winter you will die... Like flies.
+daenerys_targaryen I hit him. I hit the dragon.
+jorah_mormont Your brother Rhaegar was the last dragon. Viserys is less than the shadow of a snake.
+daenerys_targaryen He is still the true King.
+jorah_mormont The truth now do you want to see your brother sitting on the Iron Throne?
+daenerys_targaryen No. But the common people are waiting for him. Illyrio said they're sewing dragon banners and praying for his return.
+jorah_mormont The common people pray for rain, health and a summer that never ends. They don't care what games the high Lords play.
+daenerys_targaryen What do you pray for, Ser Jorah?
+jorah_mormont Home.
+daenerys_targaryen I pray for home too. My brother will never take back the Seven Kingdoms. He couldn't lead an army even if my husband gave him one. He'll never take us home.
+petyr_baelish Lover's quarrel?
+sansa_stark I'm sorry. Do I...?
+septa_mordane Sansa dear, this is Lord Baelish. He's known...
+petyr_baelish An old friend of the family. I've known your mother a long long time.
+arya_stark Why do they call you Littlefinger?
+sansa_stark Arya!
+septa_mordane Don't be rude!
+petyr_baelish No, it's quite all right. When I was a child I was very small and I come from a little spit of land called The Fingers, so you see, it's an exceedingly clever nickname.
+robert_baratheon I've been sitting here for days! Start the damn joust before I piss myself!
+sansa_stark Gods, who is that?
+petyr_baelish Ser Gregor Clegane. They call him the Mountain. The Hound's older brother.
+sansa_stark And his opponent?
+petyr_baelish Ser Hugh of the Vale. He was Jon Arryn's squire. Look how far he's come.
+robert_baratheon Yes, yes. Enough of the bloody pomp. Have at it!
+petyr_baelish Not what you were expecting? Has anyone ever told you the story of the Mountain and the Hound? Lovely little tale of brotherly love. The Hound was just a pup, six years old maybe. Gregor a few years older, already a big lad, already getting a bit of a reputation. Some lucky boys just born with a talent for violence. One evening... Gregor found his little brother playing with a toy by the fire... Gregor's toy, a wooden knight. Gregor never said a word, he just grabbed his brother by the scruff of his neck and shoved his face into the burning coals. Held him there while the boy screamed, while his face melted. There aren't very many people who know that story.
+sansa_stark I won't tell anyone. I promise.
+petyr_baelish No, please don't. If the Hound so much as heard you mention it, I'm afraid all the knights in King's Landing would not be able to save you.
+jory_cassel My Lord, Her Grace the Queen.
+eddard_stark Your Grace.
+cersei_lannister You're missing your tournament.
+eddard_stark Putting my name on it doesn't make it mine.
+cersei_lannister I thought we might put what happened on the Kingsroad behind us – the ugliness with the wolves. And forcing you to kill the beast was extreme. Though sometimes we go to extremes where our children are concerned. How is Sansa?
+eddard_stark She likes it here.
+cersei_lannister The only Stark who does. Favors her mother, not much of the north in her.
+eddard_stark What are you doing here?
+cersei_lannister I might ask the same of you. What is it you hope to accomplish?
+eddard_stark The King called on me to serve him and the realm, and that's what I'll do until he tells me otherwise.
+cersei_lannister You can't change him. You can't help him. He'll do what he wants, which is all he's ever done. You'll try your best to pick up the pieces.
+eddard_stark If that's my job, then so be it.
+cersei_lannister You're just a soldier, aren't you? You take your orders and you carry on. I suppose it makes sense. Your older brother was trained to lead and you were trained to follow.
+eddard_stark I was also trained to kill my enemies, Your Grace.
+cersei_lannister As was I.
+marillion Seven blessings to you, goodfolk!
+catelyn_stark And to you.
+rodrik_cassel Boy! Bread, meat and beer, quickly.
+marillion Good idea, grandfather. I'm starving. A song while we wait or?
+rodrik_cassel I'd rather throw myself down a well.
+marillion Grandfather, may be your last chance if you're heading north. The only music the northerners know is the howling of wolves!
+masha_heddle I'm sorry, my Lord, we're full up. Every room.
+tyrion_lannister My men can sleep in the stable. As for myself, I don't require a large room.
+masha_heddle Truly, my lord, we have nothing.
+tyrion_lannister Is there nothing I can do... to remedy this?
+bronn You can have my room.
+tyrion_lannister There's a clever man. You can manage food, I trust? Yoren, dine with me.
+yoren Aye, my Lord.
+marillion My Lord of Lannister! Might I entertain you while you eat? I can sing of your father's victory at King's Landing!
+tyrion_lannister Nothing would more likely ruin my supper. Lady Stark! What an unexpected pleasure. I was sorry to have missed you at Winterfell.
+masha_heddle Lady Stark.
+catelyn_stark I was still Catelyn Tully the last time I stayed here. You, Ser... Is that the black bat of Harrenhal I see embroidered on your coat?
+knight_of_house_whent It is, my Lady.
+catelyn_stark And is Lady Whent a true and honest friend to my father... Lord Hoster Tully of Riverrun?
+knight_of_house_whent She is.
+catelyn_stark The red stallion was always a welcome sight at Riverrun. My father counts Jonas Bracken amongst his oldest and most loyal bannermen.
+knight_of_house_bracken Our lord is honored by his trust.
+tyrion_lannister I envy your father all his fine friends, but I don't quite see the purpose of this.
+catelyn_stark Knight of House Frey Lord Walder is well, my Lady. He has asked your father for the honor of his presence on his 90th nameday. He plans to take another wife.
+catelyn_stark This man... Came into my house as a guest and there conspired to murder my son, a boy of 10. In the name of King Robert and the good Lords you serve, I call upon you to seize him and help me return him to Winterfell to await the king's justice.
