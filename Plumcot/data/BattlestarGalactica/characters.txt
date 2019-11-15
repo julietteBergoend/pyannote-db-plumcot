@@ -10,9 +10,9 @@ chief_galen_tyrol,aaron_douglas,Chief Galen Tyrol,Aaron Douglas,https://www.imdb
 captain_karl_agathon,tahmoh_penikett,Captain Karl 'Helo' Agathon,Tahmoh Penikett,https://www.imdb.com/title/tt0407362/characters/nm0671886
 lt_felix_gaeta,alessandro_juliani,Lt. Felix Gaeta,Alessandro Juliani,https://www.imdb.com/title/tt0407362/characters/nm0432228
 officer_anastasia_dualla,kandyse_mcclure,Officer Anastasia Dualla,Kandyse McClure,https://www.imdb.com/title/tt0407362/characters/nm0565973
+lt_brendan_constanza,bodie_olmos,Lt. Brendan 'Hot Dog' Constanza,Bodie Olmos,https://www.imdb.com/title/tt0407362/characters/nm0647453
 dr_cottle,donnelly_rhodes,Dr. Cottle,Donnelly Rhodes,https://www.imdb.com/title/tt0407362/characters/nm0722413
 crewman_specialist_cally_henderson,nicki_clyne,Crewman Specialist Cally Henderson,Nicki Clyne,https://www.imdb.com/title/tt0407362/characters/nm0167435
-lt_brendan_constanza,bodie_olmos,Lt. Brendan 'Hot Dog' Constanza,Bodie Olmos,https://www.imdb.com/title/tt0407362/characters/nm0647453
 samuel_anders,michael_trucco,Samuel Anders,Michael Trucco,https://www.imdb.com/title/tt0407362/characters/nm0873998
 racetrack,leah_cairns,Racetrack,Leah Cairns,https://www.imdb.com/title/tt0407362/characters/nm1489668
 tory_foster,rekha_sharma,Tory Foster,Rekha Sharma,https://www.imdb.com/title/tt0407362/characters/nm0788907
@@ -59,12 +59,12 @@ speaking_delegate_1,donna_soares,Speaking Delegate #1,Donna Soares,
 dealino,darcy_laurie,Dealino,Darcy Laurie,
 nicky_tyrol,finn_r_devitt,Nicky Tyrol,Finn R. Devitt,https://www.imdb.com/title/tt0407362/characters/nm2986703
 kacey,madeleine_parker,Kacey,Madeleine Parker,https://www.imdb.com/title/tt0407362/characters/nm2264355
+marine_sgt_omar_fischer,aleks_paunovic,Marine Sgt. Omar Fischer,Aleks Paunovic,https://www.imdb.com/title/tt0407362/characters/nm0006820
 colonel_jack_fisk,graham_beckel,Colonel Jack Fisk,Graham Beckel,https://www.imdb.com/title/tt0407362/characters/nm0065320
 cpl_venner,chris_shields,Cpl. Venner,Chris Shields,
 sarah_porter,patricia_idlette,Sarah Porter,Patricia Idlette,
 maya,erica_cerra,Maya,Erica Cerra,
 hera_agathon,iliana_gomezmartinez,Hera Agathon,Iliana Gomez-Martinez,https://www.imdb.com/title/tt0407362/characters/nm3353520
-marine_sgt_fischer,aleks_paunovic,Marine Sgt. Fischer,Aleks Paunovic,https://www.imdb.com/title/tt0407362/characters/nm0006820
 sgt_brandy_harder,heather_doerksen,Sgt. Brandy Harder,Heather Doerksen,
 quorum_delegate,veena_sood,Quorum Delegate,Veena Sood,
 crewman_specialist_gage,mike_dopud,Crewman Specialist Gage,Mike Dopud,
@@ -115,8 +115,10 @@ frank_porthos,kevin_mcnulty,Frank Porthos,Kevin McNulty,
 marine_1,richard_jollymore,Marine #1,Richard Jollymore,
 marine_2,anthony_st_john,Marine #2,Anthony St. John,
 karma,jim_shield,Karma,Jim Shield,
+bell,patrick_harrison,Bell,Patrick Harrison,https://www.imdb.com/title/tt0407362/characters/nm0365798
 rafferty,patrick_gilmore,Rafferty,Patrick Gilmore,
 marine_nathanson,curtis_caravaggio,Marine Nathanson,Curtis Caravaggio,
+fischers_opponent,paul_lazenby,Fischer's Opponent,Paul Lazenby,
 vinson,mark_houghton,Vinson,Mark Houghton,
 shevon,claudette_mink,Shevon,Claudette Mink,https://www.imdb.com/title/tt0407362/characters/nm0006419
 boxey,connor_widdows,Boxey,Connor Widdows,https://www.imdb.com/title/tt0407362/characters/nm0927045
@@ -163,7 +165,6 @@ cabott,jerry_wasserman,Cabott,Jerry Wasserman,https://www.imdb.com/title/tt04073
 nurse_sashon,alana_husband,Nurse Sashon,Alana Husband,
 caprica_cleric,bill_meilen,Caprica Cleric,Bill Meilen,
 lt_alastair_thorne,fulvio_cecere,Lt. Alastair Thorne,Fulvio Cecere,https://www.imdb.com/title/tt0407362/characters/nm0147661
-bell,patrick_harrison,Bell,Patrick Harrison,https://www.imdb.com/title/tt0407362/characters/nm0365798
 lt_emmitt_jones,linnea_sharples,Lt. Emmitt 'Sweetness' Jones,Linnea Sharples,
 environmental_specialist,james_upton,Environmental Specialist,James Upton,
 milo,samuel_patrick_chu,Milo,Samuel Patrick Chu,
@@ -201,7 +202,7 @@ phoebe,lori_triolo,Phoebe,Lori Triolo,
 reporter_2,morris_chapdelaine,Reporter #2,Morris Chapdelaine,
 eco_lyla_ellway,tammy_hui,ECO Lyla 'Shark' Ellway,Tammy Hui,
 mr_buckminster,aaron_brooks,Mr. Buckminster,Aaron Brooks,
-corporal_d_wallace,ivan_cermak,Corporal D. Wallace,Ivan Cermák,
+corporal_d_wallace,ivan_cermak,Corporal D. Wallace,Ivan Cermak,
 collishaw,garvin_cross,Collishaw,Garvin Cross,
 marine,troy_everett,Marine,Troy Everett,
 sgt_watkins,nicholas_treeshin,Sgt. Watkins,Nicholas Treeshin,
@@ -231,19 +232,18 @@ reporter_carolyn,tiffany_burns,Reporter Carolyn,Tiffany Burns,
 stripper,holly_eglinton,Stripper,Holly Eglinton,
 marine_reb,alain_chanoine,Marine Reb,Alain Chanoine,
 police_officer,stefanie_samuels,Police Officer,Stefanie Samuels,
-pegasus_guard_2,paul_lazenby,Pegasus Guard #2,Paul Lazenby,
 pegasus_guard,mercy_saidi,Pegasus Guard,Mercy Saidi,
 caprican_dancer,debora_bastos,Caprican Dancer,Debora Bastos,
 pyramid_player,jeff_sanca,Pyramid Player,Jeff Sanca,
 raptor_pilot,ashley_ball,Raptor Pilot,Ashley Ball,
 herbalist,marci_t_house,Herbalist,Marci T. House,
 tattooed_pilot,leo_chiang,Tattooed pilot,Leo Chiang,
-voice_actor,james_bannon,Voice Actor,James Bannon,
 crewman_in_bar,john_hoving,Crewman in bar,John Hoving,
 calvin,skylar_tyj,Calvin,Skylar Tyj,
 deckhand,douglas_embry,Deckhand,Douglas Embry,
 reporter_4,ally_warren,Reporter #4,Ally Warren,
 dancer,jeff_dimitriou,Dancer,Jeff Dimitriou,
+sons_of_ares_leader,rob_hayter,Sons of Ares Leader,Rob Hayter,
 bystander_at_funeral,michael_angeli,Bystander at Funeral,Michael Angeli,
 man_in_hangar_bay,doug_drexler,Man in Hangar Bay,Doug Drexler,
 acolyte_1,maria_gallo,Acolyte #1,Maria Gallo,

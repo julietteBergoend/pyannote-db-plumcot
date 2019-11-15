@@ -20,10 +20,10 @@ captain_tarpals,steve_speirs,Captain Tarpals,Steve Speirs,https://www.imdb.com/t
 nute_gunray,silas_carson,Nute Gunray,Silas Carson,https://www.imdb.com/title/tt0120915/characters/nm0141324
 mas_amedda,jerome_st_john_blake,Mas Amedda,Jerome St. John Blake,https://www.imdb.com/title/tt0120915/characters/nm0086592
 daultay_dofine_,alan_ruscoe,Daultay Dofine /,Alan Ruscoe,
-ric_olie,ralph_brown,Ric Olié,Ralph Brown,
+ric_olie,ralph_brown,Ric Olié,Ralph Brown,https://www.imdb.com/title/tt0120915/characters/nm0114460
 fighter_pilot_bravo_5,celia_imrie,Fighter Pilot Bravo 5,Celia Imrie,
 fighter_pilot_bravo_2,benedict_taylor,Fighter Pilot Bravo 2,Benedict Taylor,
-fighter_pilot_bravo_3,clarence_smith,Fighter Pilot Bravo 3,Clarence Smith,https://www.imdb.com/title/tt0120915/characters/nm0807734
+fighter_pilot_bravo_3,clarence_smith,Fighter Pilot Bravo 3,Clarence Smith,
 mace_windu,samuel_l_jackson,Mace Windu,Samuel L. Jackson,https://www.imdb.com/title/tt0120915/characters/nm0000168
 palace_guard,dominic_west,Palace Guard,Dominic West,
 rabe,karol_cristina_da_silva,Rabé,Karol Cristina da Silva,https://www.imdb.com/title/tt0120915/characters/nm0196263
@@ -99,9 +99,11 @@ kaadu_handler,dan_madsen,Kaadu Handler,Dan Madsen,
 orn_free_taas_aide,iain_mccaig,Orn Free Taa's Aide,Iain McCaig,
 naboo_courier,rick_mccallum,Naboo Courier,Rick McCallum,
 naboo_fighter_pilot,joao_costa_menezes,Naboo Fighter Pilot,João Costa Menezes,
+naboo_royal_security_guard,arnold_montey,Naboo Royal Security Guard,Arnold Montey,
 battle_droid,taylor_murphy,Battle Droid,Taylor Murphy,
 pod_race_spectator_in_jabbas_private_box,jeff_olson,Pod Race Spectator in Jabba's Private Box,Jeff Olson,
 mos_espa_citizen,lorne_peterson,Mos Espa Citizen,Lorne Peterson,
+naboo_soldier,andrew_raven,Naboo Soldier,Andrew Raven,
 gungan_guard,neil_riddaway,Gungan Guard,Neil Riddaway,
 naboo_courier,steve_sansweet,Naboo Courier,Steve Sansweet,
 naboo_royal_guard,mike_savva,Naboo Royal Guard,Mike Savva,
@@ -111,7 +113,7 @@ lt_gavyn_sykes_bravo_6,christian_simpson,Lt. Gavyn Sykes - Bravo 6,Christian Sim
 naboo_courier,paul_martin_smith,Naboo Courier,Paul Martin Smith,
 naboo_speeder_driver,scott_squires,Naboo Speeder Driver,Scott Squires,
 battle_droid,tom_sylla,Battle Droid,Tom Sylla,
-chokk_jabbas_bodyguard,bill_tlusty,Chokk, Jabba's Bodyguard,Bill Tlusty,
+chokk_jabbas_bodyguard,bill_tlusty,Chokk Jabba's Bodyguard,Bill Tlusty,
 mawhonic,danny_wagner,Mawhonic,Danny Wagner,
 bib_fortuna,matthew_wood,Bib Fortuna,Matthew Wood,https://www.imdb.com/title/tt0120915/characters/nm0003214
 obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt0121765/characters/nm0000191
@@ -171,7 +173,8 @@ artuo_pratuhr,don_bies,Artuo Pratuhr,Don Bies,
 tusken_raider,jamel_boukabou,Tusken Raider,Jamel Boukabou,
 waitress,kristen_bronson,Waitress,Kristen Bronson,
 naboo_guard,douglas_bunn,Naboo Guard,Douglas Bunn,
-freighter_captain,david_john_clark,Freighter Captain,David John Clark,
+the_courier,caine,The Courier,Caine,
+starfreighter_security_officer,david_john_clark,Starfreighter Security Officer,David John Clark,
 poggle_the_lesser,marton_csokas,Poggle the Lesser,Marton Csokas,https://www.imdb.com/title/tt0121765/characters/nm0190744
 hand_maiden,natalie_dankssmith,Hand Maiden,Natalie Danks-Smith,
 coruscant_starfreighter_passenger,russell_darling,Coruscant Starfreighter Passenger,Russell Darling,
@@ -184,14 +187,16 @@ senator_ronet_coorr,stephen_george,Senator Ronet Coorr,Stephen George,
 jedi_khatt_qiyn,zuraya_hamilton,Jedi Khatt Qiyn,Zuraya Hamilton,
 sar_labooda,emma_howard,Sar Labooda,Emma Howard,
 toonbuck_toora,hilton_howson,Toonbuck Toora,Hilton Howson,
-saesee_tiin_arena_sequences,jesse_jensen,Saesee Tiin - Arena Sequences,Jesse Jensen,
+saesee_tiin_arena_sequences,jesse_jensen,Saesee Tiin - Arena Sequences,Jesse Jensen,https://www.imdb.com/title/tt0121765/characters/nm0421508
 hayde_gofai,fiona_johnson,Hayde Gofai,Fiona Johnson,
 dexs_diner_bounty_hunter,sara_elizabeth_joyce,Dex's Diner Bounty Hunter,Sara Elizabeth Joyce,
+jedi,luke_kearney,Jedi,Luke Kearney,
 barriss_offee,nalini_krishan,Barriss Offee,Nalini Krishan,
 lillea_bringbit,gillian_libbert,Lillea Bringbit,Gillian Libbert,
 adnama,amanda_lucas,Adnama,Amanda Lucas,
 zett_jukassa,jett_lucas,Zett Jukassa,Jett Lucas,
 lunae_minx,katie_lucas,Lunae Minx,Katie Lucas,https://www.imdb.com/title/tt0121765/characters/nm0337964
+starfreighter_security_officer,arnold_montey,Starfreighter Security Officer,Arnold Montey,
 quigon_jinn,liam_neeson,Qui-Gon Jinn,Liam Neeson,https://www.imdb.com/title/tt0121765/characters/nm0000553
 coruscant_club_patron_rodian_refugee,daniel_perrott,Coruscant Club Patron & Rodian Refugee,Daniel Perrott,
 ganwick_trag,ian_roberts,Ganwick Trag,Ian Roberts,
@@ -201,14 +206,13 @@ temple_jedi,juanluis_sanchez,Temple Jedi,Juan-Luis Sanchez,
 naboo_cruiser_officer,mike_savva,Naboo Cruiser Officer,Mike Savva,
 tatooine_resident,p_kevin_scott,Tatooine Resident,P. Kevin Scott,
 zey_nep,zeynep_selcuk,Zey Nep,Zeynep Selcuk,
-shaak_ti,orli_shoshan,Shaak Ti,Orli Shoshan,
+shaak_ti,orli_shoshan,Shaak Ti,Orli Shoshan,https://www.imdb.com/title/tt0121765/characters/nm1051353
 clone_trooper,richard_stride,Clone Trooper,Richard Stride,
 rothdel_masona_arena_jedi,leonard_l_thomas,Roth-Del Masona - Arena Jedi,Leonard L. Thomas,
 civ_sila,trevor_tighe,Civ Sila,Trevor Tighe,
-rune_haako_,christopher_truswell,Rune Haako /,Christopher Truswell,
+rune_haako,christopher_truswell,Rune Haako,Christopher Truswell,https://www.imdb.com/title/tt0121765/characters/nm0874455
 coo2180,ian_watkin,COO-2180,Ian Watkin,https://www.imdb.com/title/tt0121765/characters/nm0914240
 clone_war_jedi,r_christopher_white,Clone War Jedi,R. Christopher White,
-temple_jedi,eric_wong,Temple Jedi,Eric Wong,
 magaloof_,matthew_wood,Magaloof /,Matthew Wood,
 obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt0121766/characters/nm0000191
 padme,natalie_portman,Padmé,Natalie Portman,https://www.imdb.com/title/tt0121766/characters/nm0000204
@@ -249,7 +253,7 @@ sola_naberrie,claudia_karvan,Sola Naberrie,Claudia Karvan,
 ryoo_naberrie,keira_wingate,Ryoo Naberrie,Keira Wingate,
 pooja_naberrie,hayley_mooy,Pooja Naberrie,Hayley Mooy,
 sly_moore,sandi_finlay,Sly Moore,Sandi Finlay,
-chi_eekway,katie_lucas,Chi Eekway,Katie Lucas,
+chi_eekway,katie_lucas,Chi Eekway,Katie Lucas,https://www.imdb.com/title/tt0121766/characters/nm0337964
 mon_mothma,genevieve_oreilly,Mon Mothma,Genevieve O'Reilly,
 fang_zar,warren_owens,Fang Zar,Warren Owens,
 maledee,kee_chan,Malé-Dee,Kee Chan,
@@ -260,24 +264,25 @@ motee,kristy_wright,Moteé,Kristy Wright,
 whie,coinneach_alexander,Whie,Coinneach Alexander,
 bene,olivia_mccallum,Bene,Olivia McCallum,
 wookiee,michael_kingma,Wookiee,Michael Kingma,https://www.imdb.com/title/tt0121766/characters/nm1432899
-wookiee,axel_dench,Wookiee,Axel Dench,
-wookiee,steven_foy,Wookiee,Steven Foy,
-wookiee,julian_khazzouh,Wookiee,Julian Khazzouh,
-wookiee,james_rowland,Wookiee,James Rowland,
-wookiee,david_stiff,Wookiee,David Stiff,
-wookiee,robert_cope,Wookiee,Robert Cope,
+wookiee,axel_dench,Wookiee,Axel Dench,https://www.imdb.com/title/tt0121766/characters/nm1458351
+wookiee,steven_foy,Wookiee,Steven Foy,https://www.imdb.com/title/tt0121766/characters/nm1678811
+wookiee,julian_khazzouh,Wookiee,Julian Khazzouh,https://www.imdb.com/title/tt0121766/characters/nm1678980
+wookiee,james_rowland,Wookiee,James Rowland,https://www.imdb.com/title/tt0121766/characters/nm1677803
+wookiee,david_stiff,Wookiee,David Stiff,https://www.imdb.com/title/tt0121766/characters/nm1400040
+wookiee,robert_cope,Wookiee,Robert Cope,https://www.imdb.com/title/tt0121766/characters/nm1682648
 gh7_medical_droid,david_acord,GH-7 Medical Droid,David Acord,https://www.imdb.com/title/tt0121766/characters/nm0004198
 meena_tills,paul_bateman,Meena TIlls,Paul Bateman,
-sors_bandeam,ross_beadman,Sors Bandeam,Ross Beadman,
+sors_bandeam,ross_beadman,Sors Bandeam,Ross Beadman,https://www.imdb.com/title/tt0121766/characters/nm7825320
 mas_amedda,jerome_st_john_blake,Mas Amedda,Jerome St. John Blake,
 clone_trooper,robert_m_bouffard,Clone Trooper,Robert M. Bouffard,
 opera_house_patron,jill_brooks,Opera House Patron,Jill Brooks,
 darth_vader,gene_bryant,Darth Vader,Gene Bryant,
+jedi_knight,josh_canning,Jedi Knight,Josh Canning,
 jedi_knight,dominique_chionchio,Jedi Knight,Dominique Chionchio,
 opera_house_patron,rob_coleman,Opera House Patron,Rob Coleman,
 kit_fisto,ben_cooke,Kit Fisto,Ben Cooke,https://www.imdb.com/title/tt0121766/characters/nm0177374
 luminara_unduli,fay_david,Luminara Unduli,Fay David,
-meena_tills_mon_calamari_senator,paul_davies,Meena Tills, Mon Calamari Senator,Paul Davies,
+meena_tills_mon_calamari_senator,paul_davies,Meena Tills Mon Calamari Senator,Paul Davies,
 bail_organas_aide_1,caroline_de_souza_correa,Bail Organa's Aide #1,Caroline de Souza Correa,
 hand_maiden,eliana_dona,Hand Maiden,Eliana Dona,
 naboo_officer,malcolm_eager,Naboo Officer,Malcolm Eager,
@@ -300,6 +305,7 @@ opera_house_patron,janet_lewin,Opera House Patron,Janet Lewin,
 senator_bana_breemu,bai_ling,Senator Bana Breemu,Bai Ling,
 baron_papanoida,george_lucas,Baron Papanoida,George Lucas,https://www.imdb.com/title/tt0121766/characters/nm0000184
 cellheim_anujo,dean_mitchell,Cellheim Anujo,Dean Mitchell,
+opera_guest,arnold_montey,Opera Guest,Arnold Montey,
 senator_po_nudo,paul_james_nicholson,Senator Po Nudo,Paul James Nicholson,
 senator_calek_kelbin,blake_nickle,Senator Calek Kelbin,Blake Nickle,
 opera_house_patron,denise_ream,Opera House Patron,Denise Ream,
@@ -381,7 +387,7 @@ brea_tonnika,christine_hewett,Brea Tonnika,Christine Hewett,https://www.imdb.com
 jawa,tiffany_hillkurtz,Jawa,Tiffany Hillkurtz,
 stormtrooper,arthur_howell,Stormtrooper,Arthur Howell,https://www.imdb.com/title/tt0076759/characters/nm0397931
 ponda_baba,tommy_ilsley,Ponda Baba,Tommy Ilsley,https://www.imdb.com/title/tt0076759/characters/nm0407908
-death_star_trooper,joe_johnston,Death Star Trooper,Joe Johnston,
+death_star_trooper,joe_johnston,Death Star Trooper,Joe Johnston,https://www.imdb.com/title/tt0076759/characters/nm0002653
 mosep,annette_jones,Mosep,Annette Jones,
 darth_vader,james_earl_jones,Darth Vader,James Earl Jones,https://www.imdb.com/title/tt0076759/characters/nm0000469
 chall_bekan,linda_jones,Chall Bekan,Linda Jones,
@@ -399,7 +405,7 @@ cantina_patron,geoffrey_moon,Cantina Patron,Geoffrey Moon,
 swilla_corey,mandy_morton,Swilla Corey,Mandy Morton,
 massassi_base_rebel_scout,lorne_peterson,Massassi Base Rebel Scout,Lorne Peterson,https://www.imdb.com/title/tt0076759/characters/nm0677285
 rycar_ryjerd,marcus_powell,Rycar Ryjerd,Marcus Powell,https://www.imdb.com/title/tt0076759/characters/nm0694219
-incom_engineer,shane_rimmer,InCom Engineer,Shane Rimmer,
+incom_engineer,shane_rimmer,InCom Engineer,Shane Rimmer,https://www.imdb.com/title/tt0076759/characters/nm0727300
 leesub_sirln,pam_rose,Leesub Sirln,Pam Rose,
 cmdr_praji_,george_roubicek,Cmdr. Praji (Imperial Officer #2 on rebel ship),George Roubicek,https://www.imdb.com/title/tt0076759/characters/nm0745528
 tawss_khaa,erica_simmons,Tawss Khaa,Erica Simmons,
@@ -468,6 +474,7 @@ stormtrooper_,richard_bonehill,Stormtrooper /,Richard Bonehill,
 holographic_officer,stephen_buchanan,Holographic Officer,Stephen Buchanan,
 stormtrooper,chris_bunn,Stormtrooper,Chris Bunn,
 female_hoth_control_room_tech,mercedes_burleigh,Female Hoth Control Room Tech,Mercedes Burleigh,
+ugnaught,jane_busby,Ugnaught,Jane Busby,
 dengar,maurice_bush,Dengar,Maurice Bush,https://www.imdb.com/title/tt0080684/characters/nm0124173
 imperial_officer_,trevor_butterfield,Imperial Officer /,Trevor Butterfield,
 holographic_imperial_officer,john_cannon,Holographic Imperial Officer,John Cannon,
@@ -489,7 +496,6 @@ imperial_shuttle_mechanic,michael_a_frandy,Imperial Shuttle Mechanic,Michael A. 
 stormtrooper_,patrick_ginter,Stormtrooper /,Patrick Ginter,
 bossk,alan_harris,Bossk,Alan Harris,https://www.imdb.com/title/tt0080684/characters/nm0364402
 rebel_technician_on_hoth,walter_henry,Rebel Technician on Hoth,Walter Henry,
-extra,tiffany_hillkurtz,Extra,Tiffany Hillkurtz,
 bespin_woman,susie_hudson,Bespin Woman,Susie Hudson,
 atat_driver,paul_jerricho,AT-AT Driver,Paul Jerricho,
 captain_shawn_valdez_hoth_rebel,joe_johnston,Captain Shawn Valdez - Hoth Rebel,Joe Johnston,
@@ -501,7 +507,7 @@ rebel_pilot,mac_mcdonald,Rebel Pilot,Mac McDonald,
 general_mcquarrie,ralph_mcquarrie,General McQuarrie,Ralph McQuarrie,
 stormtrooper_,steve_meek,Stormtrooper /,Steve Meek,
 boba_fett_,temuera_morrison,Boba Fett (2004 DVD version),Temuera Morrison,https://www.imdb.com/title/tt0080684/characters/nm0607325
-stormtrooper,ralph_morse,Stormtrooper,Ralph Morse,https://www.imdb.com/title/tt0080684/characters/nm0607659
+stormtrooper,ralph_g_morse,Stormtrooper,Ralph G. Morse,https://www.imdb.com/title/tt0080684/characters/nm0607659
 zuckuss_,cathy_munroe,Zuckuss /,Cathy Munroe,
 darth_vader_,c_andrew_nelson,Darth Vader (special edition),C. Andrew Nelson,
 4lom,chris_parsons,4-LOM,Chris Parsons,https://www.imdb.com/title/tt0080684/characters/nm0663793
@@ -511,7 +517,6 @@ wampa,terry_richards,Wampa,Terry Richards,
 snowtrooper,doug_robinson,Snowtrooper,Doug Robinson,
 stormtrooper,peter_rossmurray,Stormtrooper,Peter Ross-Murray,
 snowtrooper,peter_roy,Snowtrooper,Peter Roy,
-_,michael_santiago,(voice) (uncredited),Michael Santiago,
 rebel_soldier,richard_sidoli,Rebel Soldier,Richard Sidoli,
 snowtrooper,tony_smart,Snowtrooper,Tony Smart,
 hoth_rebel,alan_swaden,Hoth Rebel,Alan Swaden,
@@ -540,13 +545,13 @@ admiral_ackbar,tim_rose,Admiral Ackbar,Tim Rose,https://www.imdb.com/title/tt008
 general_madine,dermot_crowley,General Madine,Dermot Crowley,https://www.imdb.com/title/tt0086190/characters/nm0189720
 mon_mothma,caroline_blakiston,Mon Mothma,Caroline Blakiston,https://www.imdb.com/title/tt0086190/characters/nm0086860
 wicket,warwick_davis,Wicket,Warwick Davis,https://www.imdb.com/title/tt0086190/characters/nm0001116
-boba_fett,jeremy_bulloch,Boba Fett,Jeremy Bulloch,
+boba_fett,jeremy_bulloch,Boba Fett,Jeremy Bulloch,https://www.imdb.com/title/tt0086190/characters/nm0120116
 oola,femi_taylor,Oola,Femi Taylor,https://www.imdb.com/title/tt0086190/characters/nm0852361
 sy_snootles,annie_arbogast,Sy Snootles,Annie Arbogast,https://www.imdb.com/title/tt0086190/characters/nm0033399
 fat_dancer,claire_davenport,Fat Dancer,Claire Davenport,https://www.imdb.com/title/tt0086190/characters/nm0202575
 teebo,jack_purvis,Teebo,Jack Purvis,
 logray,mike_edmonds,Logray,Mike Edmonds,https://www.imdb.com/title/tt0086190/characters/nm0249507
-chief_chirpa,jane_busby,Chief Chirpa,Jane Busby,
+chief_chirpa,jane_busby,Chief Chirpa,Jane Busby,https://www.imdb.com/title/tt0086190/characters/nm0123899
 ewok_warrior,malcolm_dixon,Ewok Warrior,Malcolm Dixon,
 ewok_warrior,mike_cottrell,Ewok Warrior,Mike Cottrell,
 nicki,nicolas_read,Nicki,Nicolas Read,
@@ -666,10 +671,11 @@ rebel_pilot_sila_kott,poppy_hands,Rebel Pilot Sila Kott,Poppy Hands,https://www.
 captain_yutani_rebel_soldier,gordon_hann,Captain Yutani - Rebel Soldier,Gordon Hann,
 stormtrooper,alan_harris,Stormtrooper,Alan Harris,
 colonel_jendon_imperial_copilot_of_st321,mike_havord,Colonel Jendon - Imperial Co-Pilot of ST321,Mike Havord,
-karie_neth_y_wing_pilot_grey_squadron,lynne_hazelden,Karie Neth - Y Wing Pilot, Grey Squadron,Lynne Hazelden,
+karie_neth_y_wing_pilot_grey_squadron,lynne_hazelden,Karie Neth - Y Wing Pilot Grey Squadron,Lynne Hazelden,
 council_member_in_briefing_room,walter_henry,Council Member in Briefing Room,Walter Henry,
 hermi_odle_jabbas_2nd_servant,philip_herbert,Hermi Odle - Jabba's 2nd Servant,Philip Herbert,
 lt_renz_officer_in_bunker,barrie_holland,Lt. Renz - 'Rebel Scum' Officer in Bunker,Barrie Holland,https://www.imdb.com/title/tt0086190/characters/nm1275975
+taym_drengaren_,larry_holt,Taym Dren-garen /,Larry Holt,
 tessek,gerald_home,Tessek,Gerald Home,https://www.imdb.com/title/tt0086190/characters/nm0392935
 imperial_commander,william_hoyland,Imperial Commander,William Hoyland,
 captain_yorr_imperial_pilot_of_st321,jasper_jacob,Captain Yorr - Imperial Pilot of ST321,Jasper Jacob,
@@ -688,7 +694,7 @@ maj_marquand_atst_driver,richard_marquand,Maj. Marquand - AT-ST Driver,Richard M
 arvel_crynyd,hilton_mcrae,Arvel Crynyd,Hilton McRae,https://www.imdb.com/title/tt0086190/characters/nm0574436
 gamorrean_guard,george_miller,Gamorrean Guard,George Miller,
 keir_santage_,billy_j_mitchell,Keir Santage (Red Seven),Billy J. Mitchell,https://www.imdb.com/title/tt0086190/characters/nm0593165
-stormtrooper,ralph_morse,Stormtrooper,Ralph Morse,https://www.imdb.com/title/tt0086190/characters/nm0607659
+stormtrooper,ralph_g_morse,Stormtrooper,Ralph G. Morse,https://www.imdb.com/title/tt0086190/characters/nm0607659
 xwing_pilot,terence_mustoo,X-Wing pilot,Terence Mustoo,
 jess_female_musician_flirting_with_bib_fortuna,amanda_noar,Jess - Female Musician flirting with Bib Fortuna,Amanda Noar,
 kin_jian_gunner_grey_leader,jack_orris,Kin Jian - Gunner Grey Leader,Jack Orris,
@@ -703,7 +709,7 @@ major_olander_brit_rebel,peter_roy,Major Olander Brit - Rebel,Peter Roy,
 awing_pilot,terry_sach,A-Wing Pilot,Terry Sach,
 ywing_pilot,errol_shaker,Y-Wing Pilot,Errol Shaker,
 rebel_technician,tina_simmons,Rebel Technician,Tina Simmons,
-klaatu_jabbas_palace_,john_simpkin,Klaatu - Jabba's Palace /,John Simpkin,
+klaatu,john_simpkin,Klaatu,John Simpkin,
 imperial_officer_,anthony_smee,Imperial Officer - 'Open the Back Door',Anthony Smee,
 gamorrean_guard,hugh_spight,Gamorrean Guard,Hugh Spight,
 ree_yees,paul_springer,Ree Yees,Paul Springer,https://www.imdb.com/title/tt0086190/characters/nm0819752
@@ -713,6 +719,7 @@ colonel_airen_cracken_rebel_soldier_on_millennium_falcon,michael_stevens,Colonel
 bwing_pilot,david_stone,B-Wing Pilot,David Stone,
 rancor_jabbas_pet_monster,phil_tippett,Rancor - Jabba's Pet Monster,Phil Tippett,https://www.imdb.com/title/tt0086190/characters/nm0864138
 beedo_jabbas_bounty_hunter,marolyn_turk,Beedo - Jabba's Bounty Hunter,Marolyn Turk,
+rennek,jules_walter,Rennek,Jules Walter,
 jabba_the_hutt,larry_ward,Jabba the Hutt,Larry Ward,https://www.imdb.com/title/tt0086190/characters/nm5925474
 lt_watts_atst_driver,robert_watts,Lt. Watts - AT-ST Driver,Robert Watts,https://www.imdb.com/title/tt0086190/characters/nm0915226
 boushh,pat_welsh,Boushh,Pat Welsh,
@@ -764,7 +771,7 @@ bar_patron,judah_friedlander,Bar Patron,Judah Friedlander,https://www.imdb.com/t
 bar_patron,victor_mcguire,Bar Patron,Victor McGuire,
 bar_patron,miltos_yerolemou,Bar Patron,Miltos Yerolemou,
 bar_patron,francesca_longrigg,Bar Patron,Francesca Longrigg,
-bar_patron,dc_barns,Bar Patron,D.C. Barns,
+bar_patron,dc_barns,Bar Patron,D.C. Barns,https://www.imdb.com/title/tt2488496/characters/nm3474632
 bar_patron,matt_johnson,Bar Patron,Matt Johnson,
 lieutenant_connix,billie_lourd,Lieutenant Connix,Billie Lourd,https://www.imdb.com/title/tt2488496/characters/nm6609666
 min_sakul,leanne_best,Min Sakul,Leanne Best,
@@ -790,22 +797,23 @@ first_order_officer,jack_laskey,First Order Officer,Jack Laskey,
 bb8_performed_by,brian_herring,BB-8 Performed By,Brian Herring,https://www.imdb.com/title/tt2488496/characters/nm1640219
 bb8_performed_by,dave_chapman,BB-8 Performed By,Dave Chapman,https://www.imdb.com/title/tt2488496/characters/nm2237150
 fn2199,david_acord,FN-2199,David Acord,
+jashco_phurus,daniel_adjei,Jashco Phurus,Daniel Adjei,https://www.imdb.com/title/tt2488496/characters/nm10548016
 first_order_stormtrooper_,charlie_akin,First Order Stormtrooper /,Charlie Akin,
 rebel_soldier,adrian_allan,Rebel Soldier,Adrian Allan,
 first_order_stormtrooper,samantha_alleyne,First Order Stormtrooper,Samantha Alleyne,
 xwing_pilot,paul_biddiss,X-Wing pilot,Paul Biddiss,
 first_order_officer,hannah_blamires,First Order Officer,Hannah Blamires,
 resistance_pa_announcer,verona_blue,Resistance PA Announcer,Verona Blue,
-first_order_admiral,rony_bridges,First Order Admiral,Rony Bridges,
+first_order_admiral,rony_bridges,First Order Admiral,Rony Bridges,https://www.imdb.com/title/tt2488496/characters/nm1456427
 stormtrooper,dante_briggins,Stormtrooper,Dante Briggins,
 stormtrooper,stuart_budd,Stormtrooper,Stuart Budd,
 heavy_gunner_stormtrooper,jamie_b_chambers,Heavy Gunner Stormtrooper,Jamie B. Chambers,
 resistance_engineer,calvin_chen,Resistance Engineer,Calvin Chen,https://www.imdb.com/title/tt2488496/characters/nm9191742
 stormtrooper,alan_chimes,Stormtrooper,Alan Chimes,
 stormtrooper,jamie_clay,Stormtrooper,Jamie Clay,
-first_order_general,bern_collaco,First Order General,Bern Collaço,
+first_order_general,bern_collaco,First Order General,Bern Collaço,https://www.imdb.com/title/tt2488496/characters/nm0171625
 hangar_officer_,david_w_collins,Hangar Officer /,David W. Collins,
-durteel_haza_,cavin_cornwall,Durteel Haza /,Cavin Cornwall,
+durteel_haza,cavin_cornwall,Durteel Haza,Cavin Cornwall,https://www.imdb.com/title/tt2488496/characters/nm0180470
 resistance_medic,patrick_correll,Resistance Medic,Patrick Correll,
 storm_trooper,rowan_cox,Storm Trooper,Rowan Cox,
 stormtrooper,daniel_craig,Stormtrooper,Daniel Craig,https://www.imdb.com/title/tt2488496/characters/nm0185819
@@ -813,14 +821,13 @@ pz4co,nathalie_cuzner,PZ-4CO,Nathalie Cuzner,https://www.imdb.com/title/tt248849
 stormtrooper,rimmel_daniel,Stormtrooper,Rimmel Daniel,
 goss_toowers,keith_dewinter,Goss Toowers,Keith De'Winter,
 stormtrooper,adrian_derrickpalmer,Stormtrooper,Adrian Derrick-Palmer,
-knight_of_ren,michael_dickins,Knight of Ren,Michael Dickins,
+knight_of_ren,michael_dickins,Knight of Ren,Michael Dickins,https://www.imdb.com/title/tt2488496/characters/nm5716341
 niima_scavenger,mark_dodson,Niima Scavenger,Mark Dodson,
 imperial_gunner,nick_donald,Imperial Gunner,Nick Donald,
 starkiller_pa_announcer,michael_donovan,Starkiller PA Announcer,Michael Donovan,
 jakku_villager,cameron_edwards,Jakku Villager,Cameron Edwards,
 mazs_bar_pirate,mick_fryerkelsey,Maz's Bar Pirate,Mick Fryer-Kelsey,
 first_order_stormtrooper,jesse_michael_fullington,First Order Stormtrooper,Jesse Michael Fullington,
-jakku_defender,gloria_garcia,Jakku Defender,Gloria Garcia,
 bar_patron,salo_gardner,Bar Patron,Salo Gardner,
 rebel_alliance,caroline_garnell,Rebel Alliance,Caroline Garnell,
 first_order_officer,chris_geden,First Order Officer,Chris Geden,
@@ -829,7 +836,10 @@ rebel,versha_grant,Rebel,Versha Grant,
 snowtrooper,steven_griffiths,Snowtrooper,Steven Griffiths,https://www.imdb.com/title/tt2488496/characters/nm4138483
 obiwan_kenobi,alec_guinness,Obi-Wan Kenobi,Alec Guinness,
 stormtrooper,gary_hailes,Stormtrooper,Gary Hailes,
+rebel,tim_hammersley,Rebel,Tim Hammersley,
+first_order_stormtrooper,chris_hastings,First Order Stormtrooper,Chris Hastings,
 bar_worker,marina_hayter,Bar Worker,Marina Hayter,
+resistance,kelvin_hewlett,Resistance,Kelvin Hewlett,
 resistance_fighter,matthew_hobbs,Resistance Fighter,Matthew Hobbs,
 xwing_pilot,phil_hodges,X-Wing Pilot,Phil Hodges,
 stormtrooper,leigh_holland,Stormtrooper,Leigh Holland,
@@ -852,10 +862,12 @@ hangar_officer_,devon_libran,Hangar Officer /,Devon Libran,
 stormtrooper,billy_james_machin,Stormtrooper,Billy James Machin,
 jakku_villager,hamza_malik,Jakku Villager,Hamza Malik,
 stormtrooper,raymond_mamrak,Stormtrooper,Raymond Mamrak,
+resistance_fighter,kelsey_marie,Resistance Fighter,Kelsey Marie,
 first_order_stormtrooper,kennylee_mbanefo,First Order Stormtrooper,Kenny-Lee Mbanefo,
 bar_patron,david_mccarrison,Bar Patron,David McCarrison,
 obiwan_kenobi,ewan_mcgregor,Obi-Wan Kenobi,Ewan McGregor,https://www.imdb.com/title/tt2488496/characters/nm0000191
 first_order_stormtrooper,sandeep_mohan,First Order Stormtrooper,Sandeep Mohan,
+stormtrooper,arnold_montey,Stormtrooper,Arnold Montey,
 officer_of_the_rebel_alliance,benjayx_murphy,Officer of the Rebel Alliance,Benjayx Murphy,
 professor_allium,robert_nairne,Professor Allium,Robert Nairne,
 bar_patron,charlie_nevett,Bar Patron,Charlie Nevett,
@@ -868,11 +880,12 @@ hassk_thug,nathan_plant,Hassk Thug,Nathan Plant,
 rosser_weno,elroy_powell,Rosser Weno,Elroy Powell,
 crokind_shand,cecep_arif_rahman,Crokind Shand,Cecep Arif Rahman,https://www.imdb.com/title/tt2488496/characters/nm5433042
 stormtrooper,jay_rincon,Stormtrooper,Jay Rincon,
-first_order_stormtrooper,marc_rolfe,First Order Stormtrooper,Marc Rolfe,
+first_order_stormtrooper,marc_rolfe,First Order Stormtrooper,Marc Rolfe,https://www.imdb.com/title/tt2488496/characters/nm5879675
 resistance_fighter,julio_romeo,Resistance Fighter,Julio Romeo,
 first_order_stormtrooper,mark_flynn_rutter,First Order Stormtrooper,Mark Flynn Rutter,
 resistance_technician,meredith_salenger,Resistance Technician,Meredith Salenger,
 first_order_stormtrooper,david_m_santana,First Order Stormtrooper,David M. Santana,https://www.imdb.com/title/tt2488496/characters/nm6866989
+jakku_defender,gloria_santillana,Jakku Defender,Gloria Santillana,
 desert_scavenger,orly_schuchmacher,Desert Scavenger,Orly Schuchmacher,
 stormtrooper,ben_schwartz,Stormtrooper,Ben Schwartz,https://www.imdb.com/title/tt2488496/characters/nm2355635
 power_droid,arti_shah,Power Droid,Arti Shah,
@@ -890,12 +903,12 @@ xwing_pilot,andy_sweet,X-Wing Pilot,Andy Sweet,
 hangar_officer_,catherine_taber,Hangar Officer /,Catherine Taber,
 niima_scavenger_,fred_tatasciore,Niima Scavenger /,Fred Tatasciore,
 first_order_stormtrooper,james_arnold_taylor,First Order Stormtrooper,James Arnold Taylor,
-r2d2,jimmy_vee,R2-D2,Jimmy Vee,
+nima_outpost_scavenger,peter_theobalds,Nima Outpost Scavenger,Peter Theobalds,
+rebel_soldier,pablo_verdejo,Rebel Soldier,Pablo Verdejo,
 bar_patron,ashley_ward,Bar Patron,Ashley Ward,
 varmik,paul_warren,Varmik,Paul Warren,https://www.imdb.com/title/tt2488496/characters/nm2339366
-resistance_fighter,kelsey_white,Resistance Fighter,Kelsey White,
 bollie_prindel,ian_whyte,Bollie Prindel,Ian Whyte,https://www.imdb.com/title/tt2488496/characters/nm1613839
 ello_asty,matthew_wood,Ello Asty,Matthew Wood,https://www.imdb.com/title/tt2488496/characters/nm0003214
-ubert_quaril,topo_wresniwiro,Ubert Quaril,Topo Wresniwiro,
+ubert_quaril,topo_wresniwiro,Ubert Quaril,Topo Wresniwiro,https://www.imdb.com/title/tt2488496/characters/nm8508973
 fn2199,liang_yang,FN-2199,Liang Yang,https://www.imdb.com/title/tt2488496/characters/nm2403982
 first_order_snowtrooper,joshua_asberg,First Order Snowtrooper,Joshua Ásberg,

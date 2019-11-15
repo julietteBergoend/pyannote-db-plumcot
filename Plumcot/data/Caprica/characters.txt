@@ -6,32 +6,32 @@ lacy_rand,magda_apanowicz,Lacy Rand,Magda Apanowicz,https://www.imdb.com/title/t
 sam_adama,sasha_roiz,Sam Adama,Sasha Roiz,https://www.imdb.com/title/tt0799862/characters/nm1501388
 clarice_willow,polly_walker,Clarice Willow,Polly Walker,https://www.imdb.com/title/tt0799862/characters/nm0908116
 serge,jim_thomson,Serge,Jim Thomson,
-jordan_durham,brian_markinson,Jordan Durham,Brian Markinson,
+jordan_durham,brian_markinson,Jordan Durham,Brian Markinson,https://www.imdb.com/title/tt0799862/characters/nm0548498
 cyrus_xander,hiro_kanagawa,Cyrus Xander,Hiro Kanagawa,https://www.imdb.com/title/tt0799862/characters/nm0437032
 olaf,panou,Olaf,Panou,
 william_adama,sina_najafi,William Adama,Sina Najafi,https://www.imdb.com/title/tt0799862/characters/nm1859748
 nestor,scott_porter,Nestor,Scott Porter,
-tamara_adama,genevieve_buechner,Tamara Adama,Genevieve Buechner,
-ruth,karen_elizabeth_austin,Ruth,Karen Elizabeth Austin,
-evelyn,teryl_rothery,Evelyn,Teryl Rothery,
+tamara_adama,genevieve_buechner,Tamara Adama,Genevieve Buechner,https://www.imdb.com/title/tt0799862/characters/nm1068777
+ruth,karen_elizabeth_austin,Ruth,Karen Elizabeth Austin,https://www.imdb.com/title/tt0799862/characters/nm0042439
+evelyn,teryl_rothery,Evelyn,Teryl Rothery,https://www.imdb.com/title/tt0799862/characters/nm0745186
 the_guatrau,jorge_montesi,The Guatrau,Jorge Montesi,https://www.imdb.com/title/tt0799862/characters/nm0599624
 keon,liam_sproule,Keon,Liam Sproule,
 bodyguard_sean,feguins_toussaint,Bodyguard Sean,Feguins Toussaint,
-tomas_vergis,john_pyperferguson,Tomas Vergis,John Pyper-Ferguson,
-gdd_director_gara_singh,peter_wingfield,GDD Director Gara Singh,Peter Wingfield,
+tomas_vergis,john_pyperferguson,Tomas Vergis,John Pyper-Ferguson,https://www.imdb.com/title/tt0799862/characters/nm0701561
+gdd_director_gara_singh,peter_wingfield,GDD Director Gara Singh,Peter Wingfield,https://www.imdb.com/title/tt0799862/characters/nm0935057
 baxter_sarno,patton_oswalt,Baxter Sarno,Patton Oswalt,https://www.imdb.com/title/tt0799862/characters/nm0652663
-philo,alex_arsenault,Philo,Alex Arsenault,
-marbeth,anita_torrance,Mar-Beth,Anita Torrance,
-barnabas_greeley,james_marsters,Barnabas Greeley,James Marsters,
+philo,alex_arsenault,Philo,Alex Arsenault,https://www.imdb.com/title/tt0799862/characters/nm1604007
+marbeth,anita_torrance,Mar-Beth,Anita Torrance,https://www.imdb.com/title/tt0799862/characters/nm1813773
+barnabas_greeley,james_marsters,Barnabas Greeley,James Marsters,https://www.imdb.com/title/tt0799862/characters/nm0551346
 odin_sinclair,ryan_kennedy,Odin Sinclair,Ryan Kennedy,
-diego,ryan_robbins,Diego,Ryan Robbins,
+diego,ryan_robbins,Diego,Ryan Robbins,https://www.imdb.com/title/tt0799862/characters/nm0730455
 kevin_reikle,christopher_heyerdahl,Kevin Reikle,Christopher Heyerdahl,
 larry,julius_chapple,Larry,Julius Chapple,
-ben_stark,avan_jogia,Ben Stark,Avan Jogia,
-emmanuelle,leah_gibson,Emmanuelle,Leah Gibson,
-youngblood,kendall_cross,Youngblood,Kendall Cross,
-priyah_magnus,luciana_carro,Priyah Magnus,Luciana Carro,
-fidelia_fazekas,carmen_moore,Fidelia Fazekas,Carmen Moore,
+ben_stark,avan_jogia,Ben Stark,Avan Jogia,https://www.imdb.com/title/tt0799862/characters/nm2240326
+emmanuelle,leah_gibson,Emmanuelle,Leah Gibson,https://www.imdb.com/title/tt0799862/characters/nm2706397
+youngblood,kendall_cross,Youngblood,Kendall Cross,https://www.imdb.com/title/tt0799862/characters/nm0189202
+priyah_magnus,luciana_carro,Priyah Magnus,Luciana Carro,https://www.imdb.com/title/tt0799862/characters/nm1382781
+fidelia_fazekas,carmen_moore,Fidelia Fazekas,Carmen Moore,https://www.imdb.com/title/tt0799862/characters/nm0601003
 tanner,philip_granger,Tanner,Philip Granger,
 darius,jesse_haddock,Darius,Jesse Haddock,
 drew,james_pizzinato,Drew,James Pizzinato,
@@ -43,8 +43,8 @@ lexon,luc_roderique,Lexon,Luc Roderique,
 steve_bahara,dale_wolfe,Steve Bahara,Dale Wolfe,
 francis,christian_tessier,Francis,Christian Tessier,
 caesar_the_dog,hannah,Caesar the Dog,Hannah,
-mother,meg_tilly,Mother,Meg Tilly,
-heracles,richard_harmon,Heracles,Richard Harmon,
+mother,meg_tilly,Mother,Meg Tilly,https://www.imdb.com/title/tt0799862/characters/nm0000672
+heracles,richard_harmon,Heracles,Richard Harmon,https://www.imdb.com/title/tt0799862/characters/nm2113653
 jon_parker,thomas_saunders,Jon Parker,Thomas Saunders,
 desiree_willow,francoise_yip,Desiree Willow,Françoise Yip,
 prefect_caston,katie_keating,Prefect Caston,Katie Keating,
@@ -56,16 +56,16 @@ military_father,rogan_christopher,Military Father,Rogan Christopher,
 mother,tanya_hubbard,Mother,Tanya Hubbard,
 crew_member,maggie_ma,Crew Member,Maggie Ma,
 gdd_receptionist,nicola_anderson,GDD Receptionist,Nicola Anderson,
-vesta,camille_mitchell,Vesta,Camille Mitchell,
-minister_chambers,william_b_davis,Minister Chambers,William B. Davis,
+vesta,camille_mitchell,Vesta,Camille Mitchell,https://www.imdb.com/title/tt0799862/characters/nm0593193
+minister_chambers,william_b_davis,Minister Chambers,William B. Davis,https://www.imdb.com/title/tt0799862/characters/nm0205657
 cerberus,dmitry_chepovetsky,Cerberus,Dmitry Chepovetsky,
 atreus,ben_cotton,Atreus,Ben Cotton,
 cornell_gast,andrew_airlie,Cornell Gast,Andrew Airlie,
 william_adama_sr,aleks_paunovic,William Adama Sr.,Aleks Paunovic,
-kolibri,elisabeth_rosen,Kolibri,Elisabeth Rosen,
-col_sasha_patel,jill_teed,Col. Sasha Patel,Jill Teed,
-obal_ferris,winston_rekert,Obal Ferris,Winston Rekert,
-shannon_adama,anna_galvin,Shannon Adama,Anna Galvin,
+kolibri,elisabeth_rosen,Kolibri,Elisabeth Rosen,https://www.imdb.com/title/tt0799862/characters/nm0741960
+col_sasha_patel,jill_teed,Col. Sasha Patel,Jill Teed,https://www.imdb.com/title/tt0799862/characters/nm0853805
+obal_ferris,winston_rekert,Obal Ferris,Winston Rekert,https://www.imdb.com/title/tt0799862/characters/nm0718759
+shannon_adama,anna_galvin,Shannon Adama,Anna Galvin,https://www.imdb.com/title/tt0799862/characters/nm0303442
 chiron,ac_peterson,Chiron,A.C. Peterson,
 louie,chris_shields,Louie,Chris Shields,
 byun,eve_harlow,Byun,Eve Harlow,
@@ -82,7 +82,7 @@ prosecutor,nancy_kerr,Prosecutor,Nancy Kerr,
 sagitarron_recruit,james_kirk,Sagitarron Recruit,James Kirk,
 bouncer_2,king_lau,Bouncer #2,King Lau,
 rhetoric_host_2,paul_pape,Rhetoric Host #2,Paul Pape,
-young_zoe,olivia_steele_falconer,Young Zoe,Olivia Steele Falconer,
+young_zoe,olivia_steele_falconer,Young Zoe,Olivia Steele Falconer,https://www.imdb.com/title/tt0799862/characters/nm4004498
 demes,vincent_tong,Demes,Vincent Tong,
 mayor,terence_kelly,Mayor,Terence Kelly,
 isabelle_adama,alison_araya,Isabelle Adama,Alison Araya,
@@ -107,7 +107,7 @@ defendant,josh_byer,Defendant,Josh Byer,
 young_sam_adama,alexander_kambolis,Young Sam Adama,Alexander Kambolis,
 reporter,sophie_lui,Reporter,Sophie Lui,
 chirons_bank_guard,james_ralph,Chiron's Bank Guard,James Ralph,
-ada,kacey_rohl,Ada,Kacey Rohl,
+ada,kacey_rohl,Ada,Kacey Rohl,https://www.imdb.com/title/tt0799862/characters/nm3821782
 hecate,vicky_lambert,Hecate,Vicky Lambert,
 tommy,lloyd_adams,Tommy,Lloyd Adams,
 rail_thin_man,charles_andre,Rail Thin Man,Charles Andre,
@@ -116,7 +116,7 @@ sto_guard_1,rob_boyce,STO Guard #1,Rob 'Sluggo' Boyce,
 tessa,taya_clyne,Tessa,Taya Clyne,
 bartender,diego_diablo_del_mar,Bartender,Diego Diablo Del Mar,
 young_amanda,kassandra_kingsborough,Young Amanda,Kassandra Kingsborough,
-makeup_artist,rebecca_lee,Makeup Artist,Rebecca Lee,
+makeup_artist,rebecca_lee,Makeup Artist,Rebecca Lee,https://www.imdb.com/title/tt0799862/characters/nm1624283
 jax,iris_paluly,Jax,Iris Paluly,
 adas_mother,linnea_sharples,Ada's Mother,Linnea Sharples,
 johnny,evan_bird,Johnny,Evan Bird,
@@ -198,6 +198,5 @@ avatar,andres_markwart,Avatar,Andres Markwart,
 burlesque_dancer,nathalie_marrable,Burlesque Dancer,Nathalie Marrable,
 avatar,charlie_robson,Avatar,Charlie Robson,
 gogo_dancer,ayesha_shiva,Go-Go Dancer,Ayesha Shiva,
-virtual_nightclub_patron,chelsea_marie_elliott,Virtual Nightclub Patron,Chelsea Marie Elliott,
 chirons_pretty_boy,enrique_garcia,Chiron's Pretty Boy,Enrique Garcia,
 security_guard,tom_macneill,Security Guard,Tom MacNeill,
