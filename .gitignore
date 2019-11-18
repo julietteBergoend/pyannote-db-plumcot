@@ -11,11 +11,18 @@ build/
 dist/
 pyannote.db.plumcot.egg-info/
 
-#python stuff
-__pycache__/
-build/
-dist/
-pyannote.db.plumcot.egg-info/
-
 #NFS
 .nfs*
+
+#stuff necessary for forced-alignment
+#see https://github.com/PaulLerner/Forced-Alignment
+*.anonymous
+*.brackets
+
+#vrbs forced-alignment output
+#see https://github.com/PaulLerner/Forced-Alignment
+*.xml
+
+#gecko compliant json file of forced-alignment
+#see https://github.com/PaulLerner/Forced-Alignment
+*.json
