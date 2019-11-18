@@ -1,0 +1,21 @@
+#IDE stuff
+.ipynb_checkpoints/
+.spyderworkspace
+
+#old data, keep for ref locally
+hard-alignment-anonymous/
+
+#python stuff
+__pycache__/
+build/
+dist/
+pyannote.db.plumcot.egg-info/
+
+#python stuff
+__pycache__/
+build/
+dist/
+pyannote.db.plumcot.egg-info/
+
+#NFS
+.nfs*
