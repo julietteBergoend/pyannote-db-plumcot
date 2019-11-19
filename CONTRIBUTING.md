@@ -163,7 +163,7 @@ All normalized names should appear in the IMDB credits except for few cases:
 
 When a character from the transcript doesn't have an equivalent in IMDB, we name it as *{transcriptName}#unknown#{idEpisode}*.
 
-When several characters speak at the same time, we concatenate normalized names in alphabetical order with "@" as separator like *penny@sheldon_cooper*. 
+When several characters speak at the same time, we concatenate normalized names in alphabetical order with "@" as separator like *penny@sheldon_cooper*.
 
 *all@* is used as the "all" tag.
 
@@ -180,20 +180,30 @@ You can then select a {transcriptName} you want to change, and the script asks f
 
 You can finally save the changes and create the appropriate `{idEpisode}.txt` file with *end*.
 
-### `alignment.stm`
+### `forced-alignment/ folder`
 
-This file provides the forced-aligned transcripts of all episodes in episodes.txt. It contains one line per word using the [`stm`](http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/infmts.htm#stm_fmt_name_0) or [`ctm`](https://web.archive.org/web/20170119114252/http://www.itl.nist.gov/iad/mig/tests/rt/2009/docs/rt09-meeting-eval-plan-v2.pdf) file format.
+Forced alignment was done using VRBS (closed-source), the rest of the code (e.g. add speaker id to the forced-alignment output) is [available here](https://github.com/PaulLerner/Forced-Alignment).
+
+We save :
+- RTTM files for diarization/identification : `<SERIE_URI>_<FORCED_ALIGNMENT_COLLAR>collar.rttm`. We merge tracks with same label and separated by less than `FORCED_ALIGNMENT_COLLAR` seconds, as forced-alignment output is usually over-segmented
+- UEM file : `<SERIE_URI>_<VRBS_CONFIDENCE_THRESHOLD>confidence.uem`. Keeps track of the "annotated" parts of the file (i.e. discard the parts were VRBS is not confident)
+- train, dev and test lists : `<set>.lst` for reproducible results.
+
+#### `<file_uri>.aligned`
+Inspired by [`stm`](http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/infmts.htm#stm_fmt_name_0) the `aligned` format provides additionally the confidence of the model in the transcription :
 
 ```
-TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> How
-TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> are
-TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> you
-TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> ,
-TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> Leonard
-TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> ?
+<file_uri> <speaker_id> <start_time> <end_time> <token> <confidence_score>
 ```
-
-Note : Benjamin and Hervé will take care of it.
+e.g. :
+```
+TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time How 0.9
+TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time are 0.6
+TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time you 0.8
+TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time , 0.1
+TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time Leonard 0.5
+TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time ? 0.2
+```
 
 ### `entities.txt`
 
