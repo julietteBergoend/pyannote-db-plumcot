@@ -1,0 +1,2882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioDoc name="TheBigBangTheory.Season03.Episode13.en48kHz" path="/vol/work3/maurice/dvd_extracted/TheBigBangTheory/TheBigBangTheory.Season03.Episode13.en48kHz.wav">
+<ProcList>
+<Proc name="vrbs_part" version="2.5"/>
+<Proc name="vrbs_align.eng-usa" version="1.3" editor="Vocapia Research"/>
+<Proc name="vrbs_lid" version="6.0"/>
+<Proc name="vrbs_lma.eng-usa_6.1" version="1.6"/>
+</ProcList>
+<ChannelList>
+<Channel num="1" sigdur="1172.01" spdur="790.39" nw="2567" tconf="0.79"/>
+</ChannelList>
+<SpeakerList>
+<Speaker ch="1" dur="226.46" gender="1" spkid="MS3" lang="eng-usa" lconf="1.00" nw="848" tconf="0.86"/>
+<Speaker ch="1" dur="178.84" gender="1" spkid="MS2" lang="eng-usa" lconf="1.00" nw="638" tconf="0.79"/>
+<Speaker ch="1" dur="13.13" gender="2" spkid="FS5" lang="eng-usa" lconf="1.00" nw="31" tconf="0.37"/>
+<Speaker ch="1" dur="111.62" gender="2" spkid="FS3" lang="eng-usa" lconf="1.00" nw="316" tconf="0.76"/>
+<Speaker ch="1" dur="27.86" gender="2" spkid="FS1" lang="eng-usa" lconf="1.00" nw="96" tconf="0.75"/>
+<Speaker ch="1" dur="63.43" gender="2" spkid="FS6" lang="eng-usa" lconf="1.00" nw="215" tconf="0.78"/>
+<Speaker ch="1" dur="31.14" gender="1" spkid="MS8" lang="eng-usa" lconf="1.00" nw="101" tconf="0.91"/>
+<Speaker ch="1" dur="20.27" gender="1" spkid="MS1" lang="eng-usa" lconf="1.00" nw="65" tconf="0.76"/>
+<Speaker ch="1" dur="44.55" gender="2" spkid="FS2" lang="eng-usa" lconf="1.00" nw="108" tconf="0.73"/>
+<Speaker ch="1" dur="13.54" gender="1" spkid="MS6" lang="eng-usa" lconf="1.00" nw="41" tconf="0.80"/>
+<Speaker ch="1" dur="35.37" gender="2" spkid="FS7" lang="eng-usa" lconf="1.00" nw="75" tconf="0.51"/>
+<Speaker ch="1" dur="21.50" gender="1" spkid="MS4" lang="eng-usa" lconf="1.00" nw="19" tconf="0.33"/>
+<Speaker ch="1" dur="2.68" gender="1" spkid="MS7" lang="eng-usa" lconf="1.00" nw="14" tconf="0.48"/>
+</SpeakerList>
+<SegmentList>
+<SpeechSegment ch="1" sconf="1.00" stime="3.38" etime="11.46" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1" stime="3.68" dur="0.12" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="2" stime="4.07" dur="0.06" conf="0.100"> Boy </Word>
+<Word id="3" stime="4.13" dur="0.00" conf="0.100"> , </Word>
+<Word id="4" stime="4.13" dur="0.18" conf="0.990"> seems </Word>
+<Word id="5" stime="4.31" dur="0.12" conf="0.990"> like </Word>
+<Word id="6" stime="4.51" dur="0.34" conf="0.990"> forever </Word>
+<Word id="7" stime="4.89" dur="0.17" conf="0.990"> since </Word>
+<Word id="8" stime="5.06" dur="0.09" conf="0.990"> the </Word>
+<Word id="9" stime="5.20" dur="0.22" conf="0.100"> four </Word>
+<Word id="10" stime="5.44" dur="0.07" conf="0.990"> of </Word>
+<Word id="11" stime="5.51" dur="0.14" conf="0.990"> us </Word>
+<Word id="12" stime="5.69" dur="0.09" conf="0.990"> have </Word>
+<Word id="13" stime="5.81" dur="0.12" conf="0.990"> been </Word>
+<Word id="14" stime="5.93" dur="0.14" conf="0.990"> out </Word>
+<Word id="15" stime="6.11" dur="0.12" conf="0.990"> to </Word>
+<Word id="16" stime="6.29" dur="0.24" conf="0.990"> eat </Word>
+<Word id="17" stime="6.53" dur="0.00" conf="0.100"> , </Word>
+<Word id="18" stime="6.56" dur="0.09" conf="0.990"> you </Word>
+<Word id="19" stime="6.65" dur="0.12" conf="0.990"> know </Word>
+<Word id="20" stime="6.77" dur="0.00" conf="0.950"> ? </Word>
+<Word id="21" stime="6.98" dur="0.17" conf="0.990"> Just </Word>
+<Word id="22" stime="7.19" dur="0.06" conf="0.990"> the </Word>
+<Word id="23" stime="7.38" dur="0.56" conf="0.990"> guys </Word>
+<Word id="24" stime="7.94" dur="0.00" conf="0.950"> . </Word>
+<Word id="25" stime="8.00" dur="0.05" conf="0.100"> [raj_koothrappali] </Word>
+<Word id="26" stime="8.05" dur="0.27" conf="0.990"> Oh </Word>
+<Word id="27" stime="8.32" dur="0.00" conf="0.100"> , </Word>
+<Word id="28" stime="8.36" dur="0.43" conf="0.990"> God </Word>
+<Word id="29" stime="8.79" dur="0.00" conf="0.950"> ! </Word>
+<Word id="30" stime="8.87" dur="0.26" conf="0.990"> Yes </Word>
+<Word id="31" stime="9.13" dur="0.00" conf="0.100"> , </Word>
+<Word id="32" stime="9.20" dur="0.15" conf="0.990"> we </Word>
+<Word id="33" stime="9.41" dur="0.27" conf="0.990"> get </Word>
+<Word id="34" stime="9.68" dur="0.15" conf="0.990"> it </Word>
+<Word id="35" stime="9.83" dur="0.00" conf="0.950"> . </Word>
+<Word id="36" stime="9.86" dur="0.15" conf="0.990"> You </Word>
+<Word id="37" stime="10.01" dur="0.24" conf="0.990"> have </Word>
+<Word id="38" stime="10.28" dur="0.10" conf="0.990"> a </Word>
+<Word id="39" stime="10.50" dur="0.47" conf="0.990"> girlfriend </Word>
+<Word id="40" stime="11.09" dur="0.34" conf="0.990"> now </Word>
+<Word id="41" stime="11.43" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="11.90" etime="15.39" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="42" stime="11.90" dur="0.48" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="43" stime="12.38" dur="0.47" conf="0.100"> A </Word>
+<Word id="44" stime="12.85" dur="0.19" conf="0.480"> little </Word>
+<Word id="45" stime="13.13" dur="0.36" conf="0.990"> jealous </Word>
+<Word id="46" stime="13.49" dur="0.00" conf="0.100"> , </Word>
+<Word id="47" stime="13.49" dur="0.01" conf="0.100"> are </Word>
+<Word id="48" stime="13.50" dur="0.02" conf="0.100"> we </Word>
+<Word id="49" stime="13.52" dur="0.00" conf="0.950"> ? </Word>
+<Word id="50" stime="13.53" dur="0.27" conf="0.210"> [raj_koothrappali] </Word>
+<Word id="51" stime="14.11" dur="0.19" conf="0.990"> No </Word>
+<Word id="52" stime="14.30" dur="0.00" conf="0.100"> , </Word>
+<Word id="53" stime="14.33" dur="0.12" conf="0.990"> I'm </Word>
+<Word id="54" stime="14.45" dur="0.18" conf="0.990"> not </Word>
+<Word id="55" stime="14.76" dur="0.48" conf="0.990"> jealous </Word>
+<Word id="56" stime="15.24" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="18.55" etime="20.87" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="57" stime="18.78" dur="0.14" conf="0.990"> All </Word>
+<Word id="58" stime="18.92" dur="0.18" conf="0.990"> right </Word>
+<Word id="59" stime="19.10" dur="0.00" conf="0.100"> , </Word>
+<Word id="60" stime="19.10" dur="0.09" conf="0.990"> I'd </Word>
+<Word id="61" stime="19.22" dur="0.12" conf="0.990"> kill </Word>
+<Word id="62" stime="19.34" dur="0.06" conf="0.990"> a </Word>
+<Word id="63" stime="19.48" dur="0.31" conf="0.990"> hobo </Word>
+<Word id="64" stime="19.82" dur="0.09" conf="0.990"> if </Word>
+<Word id="65" stime="19.94" dur="0.10" conf="0.990"> it'll </Word>
+<Word id="66" stime="20.08" dur="0.10" conf="0.990"> get </Word>
+<Word id="67" stime="20.18" dur="0.12" conf="0.990"> me </Word>
+<Word id="68" stime="20.30" dur="0.27" conf="0.990"> laid </Word>
+<Word id="69" stime="20.57" dur="0.00" conf="0.950"> . </Word>
+<Word id="70" stime="20.61" dur="0.04" conf="0.100"> Now </Word>
+<Word id="71" stime="20.65" dur="0.00" conf="0.100"> , </Word>
+<Word id="72" stime="20.65" dur="0.15" conf="0.320"> can </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="21.07" etime="22.41" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="73" stime="21.37" dur="0.90" conf="0.270"> we </Word>
+<Word id="74" stime="22.27" dur="0.08" conf="0.100"> order </Word>
+<Word id="75" stime="22.35" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="22.41" etime="24.76" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="76" stime="22.44" dur="0.08" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="77" stime="22.52" dur="0.09" conf="0.990"> Oh </Word>
+<Word id="78" stime="22.61" dur="0.00" conf="0.100"> , </Word>
+<Word id="79" stime="22.72" dur="0.21" conf="0.990"> dear </Word>
+<Word id="80" stime="23.03" dur="0.44" conf="0.990"> Lord </Word>
+<Word id="81" stime="23.47" dur="0.00" conf="0.100"> , </Word>
+<Word id="82" stime="23.47" dur="0.17" conf="0.990"> they </Word>
+<Word id="83" stime="23.68" dur="0.36" conf="0.990"> re-did </Word>
+<Word id="84" stime="24.04" dur="0.09" conf="0.990"> the </Word>
+<Word id="85" stime="24.13" dur="0.51" conf="0.990"> menu </Word>
+<Word id="86" stime="24.64" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="24.76" etime="25.60" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="87" stime="24.76" dur="0.54" conf="0.100"> [leonard_hofstadter] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="25.91" etime="33.27" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="88" stime="25.91" dur="0.28" conf="0.990"> So </Word>
+<Word id="89" stime="26.19" dur="0.08" conf="0.100"> what </Word>
+<Word id="90" stime="26.27" dur="0.00" conf="0.950"> ? </Word>
+<Word id="91" stime="26.34" dur="0.12" conf="0.990"> It's </Word>
+<Word id="92" stime="26.46" dur="0.06" conf="0.990"> the </Word>
+<Word id="93" stime="26.52" dur="0.27" conf="0.990"> same </Word>
+<Word id="94" stime="26.79" dur="0.42" conf="0.990"> food </Word>
+<Word id="95" stime="27.21" dur="0.00" conf="0.950"> . </Word>
+<Word id="96" stime="27.41" dur="0.19" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="97" stime="27.60" dur="0.14" conf="0.990"> Oh </Word>
+<Word id="98" stime="27.74" dur="0.00" conf="0.100"> , </Word>
+<Word id="99" stime="27.78" dur="0.21" conf="0.990"> is </Word>
+<Word id="100" stime="27.99" dur="0.27" conf="0.990"> it </Word>
+<Word id="101" stime="28.26" dur="0.00" conf="0.950"> ? </Word>
+<Word id="102" stime="28.53" dur="0.21" conf="0.990"> Look </Word>
+<Word id="103" stime="28.74" dur="0.09" conf="0.990"> at </Word>
+<Word id="104" stime="28.83" dur="0.27" conf="0.990"> this </Word>
+<Word id="105" stime="29.10" dur="0.00" conf="0.950"> . </Word>
+<Word id="106" stime="29.13" dur="0.39" conf="0.990"> General </Word>
+<Word id="107" stime="29.52" dur="0.39" conf="0.990"> Tso's </Word>
+<Word id="108" stime="29.91" dur="0.29" conf="0.990"> Chicken </Word>
+<Word id="109" stime="30.27" dur="0.12" conf="0.990"> is </Word>
+<Word id="110" stime="30.39" dur="0.15" conf="0.990"> no </Word>
+<Word id="111" stime="30.54" dur="0.27" conf="0.990"> longer </Word>
+<Word id="112" stime="30.87" dur="0.24" conf="0.990"> listed </Word>
+<Word id="113" stime="31.15" dur="0.17" conf="0.990"> under </Word>
+<Word id="114" stime="31.32" dur="0.72" conf="0.990"> specialties </Word>
+<Word id="115" stime="32.04" dur="0.00" conf="0.950"> . </Word>
+<Word id="116" stime="32.07" dur="0.12" conf="0.990"> It's </Word>
+<Word id="117" stime="32.22" dur="0.15" conf="0.990"> now </Word>
+<Word id="118" stime="32.41" dur="0.17" conf="0.990"> under </Word>
+<Word id="119" stime="32.58" dur="0.39" conf="0.990"> chicken </Word>
+<Word id="120" stime="32.97" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="33.70" etime="36.78" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="121" stime="33.70" dur="0.73" conf="0.100"> [raj_koothrappali] </Word>
+<Word id="122" stime="34.43" dur="0.46" conf="0.990"> So </Word>
+<Word id="123" stime="34.89" dur="0.00" conf="0.950"> ? </Word>
+<Word id="124" stime="35.25" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="125" stime="35.61" dur="0.24" conf="0.990"> Yes </Word>
+<Word id="126" stime="35.85" dur="0.00" conf="0.100"> , </Word>
+<Word id="127" stime="35.91" dur="0.24" conf="0.990"> General </Word>
+<Word id="128" stime="36.21" dur="0.27" conf="0.990"> Tso </Word>
+<Word id="129" stime="36.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="36.74" etime="38.59" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="130" stime="36.74" dur="0.26" conf="0.100"> [raj_koothrappali] </Word>
+<Word id="131" stime="37.00" dur="1.29" conf="0.100"> Not </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="38.96" etime="43.17" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="132" stime="39.26" dur="0.31" conf="0.640"> Tso </Word>
+<Word id="133" stime="39.60" dur="0.12" conf="0.990"> the </Word>
+<Word id="134" stime="39.72" dur="0.31" conf="0.990"> chicken </Word>
+<Word id="135" stime="40.03" dur="0.00" conf="0.100"> , </Word>
+<Word id="136" stime="40.41" dur="0.26" conf="0.990"> so </Word>
+<Word id="137" stime="40.74" dur="0.15" conf="0.990"> the </Word>
+<Word id="138" stime="41.01" dur="0.63" conf="0.990"> question </Word>
+<Word id="139" stime="41.64" dur="0.00" conf="0.950"> . </Word>
+<Word id="140" stime="42.69" dur="0.18" conf="0.990"> So </Word>
+<Word id="141" stime="42.87" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="43.41" etime="46.11" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="142" stime="43.41" dur="0.54" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="143" stime="43.95" dur="0.67" conf="0.990"> So </Word>
+<Word id="144" stime="44.62" dur="0.00" conf="0.100"> , </Word>
+<Word id="145" stime="44.65" dur="0.27" conf="0.990"> why </Word>
+<Word id="146" stime="44.92" dur="0.09" conf="0.990"> is </Word>
+<Word id="147" stime="45.01" dur="0.09" conf="0.990"> it </Word>
+<Word id="148" stime="45.13" dur="0.12" conf="0.990"> no </Word>
+<Word id="149" stime="45.25" dur="0.33" conf="0.990"> longer </Word>
+<Word id="150" stime="45.58" dur="0.03" conf="0.990"> a </Word>
+<Word id="151" stime="45.61" dur="0.49" conf="0.990"> specialty </Word>
+<Word id="152" stime="46.10" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="47.31" etime="49.46" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="153" stime="47.31" dur="0.13" conf="0.990"> Did </Word>
+<Word id="154" stime="47.47" dur="0.06" conf="0.990"> the </Word>
+<Word id="155" stime="47.53" dur="0.24" conf="0.990"> chef </Word>
+<Word id="156" stime="47.77" dur="0.15" conf="0.990"> lose </Word>
+<Word id="157" stime="48.00" dur="0.34" conf="0.990"> confidence </Word>
+<Word id="158" stime="48.34" dur="0.06" conf="0.990"> in </Word>
+<Word id="159" stime="48.40" dur="0.09" conf="0.990"> the </Word>
+<Word id="160" stime="48.49" dur="0.29" conf="0.990"> dish </Word>
+<Word id="161" stime="48.85" dur="0.12" conf="0.990"> or </Word>
+<Word id="162" stime="49.06" dur="0.39" conf="0.990"> himself </Word>
+<Word id="163" stime="49.45" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="50.77" etime="54.07" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="164" stime="50.81" dur="0.24" conf="0.990"> And </Word>
+<Word id="165" stime="51.10" dur="0.22" conf="0.990"> look </Word>
+<Word id="166" stime="51.32" dur="0.24" conf="0.990"> over </Word>
+<Word id="167" stime="51.56" dur="0.36" conf="0.990"> here </Word>
+<Word id="168" stime="51.92" dur="0.00" conf="0.100"> , </Word>
+<Word id="169" stime="51.98" dur="0.60" conf="0.990"> shrimp </Word>
+<Word id="170" stime="52.61" dur="0.27" conf="0.990"> in </Word>
+<Word id="171" stime="52.88" dur="0.63" conf="0.990"> mobster </Word>
+<Word id="172" stime="53.51" dur="0.53" conf="0.990"> sauce </Word>
+<Word id="173" stime="54.04" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="55.78" etime="57.11" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="174" stime="55.78" dur="0.34" conf="0.990"> What </Word>
+<Word id="175" stime="56.12" dur="0.09" conf="0.990"> is </Word>
+<Word id="176" stime="56.21" dur="0.45" conf="0.990"> mobster </Word>
+<Word id="177" stime="56.66" dur="0.27" conf="0.990"> sauce </Word>
+<Word id="178" stime="56.93" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="57.58" etime="63.70" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="179" stime="57.58" dur="0.64" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="180" stime="58.22" dur="0.18" conf="0.990"> It's </Word>
+<Word id="181" stime="58.43" dur="0.57" conf="0.990"> obviously </Word>
+<Word id="182" stime="59.00" dur="0.09" conf="0.990"> a </Word>
+<Word id="183" stime="59.09" dur="0.48" conf="0.990"> typo </Word>
+<Word id="184" stime="59.57" dur="0.00" conf="0.950"> . </Word>
+<Word id="185" stime="59.78" dur="0.21" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="186" stime="59.99" dur="0.66" conf="0.990"> Perhaps </Word>
+<Word id="187" stime="60.65" dur="0.00" conf="0.950"> . </Word>
+<Word id="188" stime="61.05" dur="0.29" conf="0.990"> Perhaps </Word>
+<Word id="189" stime="61.34" dur="0.12" conf="0.990"> this </Word>
+<Word id="190" stime="61.57" dur="0.40" conf="0.990"> restaurant's </Word>
+<Word id="191" stime="61.97" dur="0.15" conf="0.990"> now </Word>
+<Word id="192" stime="62.12" dur="0.06" conf="0.990"> a </Word>
+<Word id="193" stime="62.26" dur="0.34" conf="0.990"> front </Word>
+<Word id="194" stime="62.62" dur="0.10" conf="0.990"> for </Word>
+<Word id="195" stime="62.82" dur="0.41" conf="0.990"> organized </Word>
+<Word id="196" stime="63.23" dur="0.44" conf="0.990"> crime </Word>
+<Word id="197" stime="63.67" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="64.26" etime="68.22" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="198" stime="64.26" dur="0.59" conf="0.100"> For </Word>
+<Word id="199" stime="64.85" dur="0.12" conf="0.460"> all </Word>
+<Word id="200" stime="65.01" dur="0.15" conf="0.990"> we </Word>
+<Word id="201" stime="65.16" dur="0.09" conf="0.990"> know </Word>
+<Word id="202" stime="65.25" dur="0.00" conf="0.100"> , </Word>
+<Word id="203" stime="65.25" dur="0.09" conf="0.990"> the </Word>
+<Word id="204" stime="65.43" dur="0.39" conf="0.990"> mobster </Word>
+<Word id="205" stime="65.82" dur="0.27" conf="0.990"> sauce </Word>
+<Word id="206" stime="66.15" dur="0.27" conf="0.990"> contains </Word>
+<Word id="207" stime="66.42" dur="0.30" conf="0.990"> actual </Word>
+<Word id="208" stime="66.81" dur="0.36" conf="0.990"> chunks </Word>
+<Word id="209" stime="67.17" dur="0.09" conf="0.990"> of </Word>
+<Word id="210" stime="67.26" dur="0.33" conf="0.990"> deceased </Word>
+<Word id="211" stime="67.70" dur="0.49" conf="0.990"> mobsters </Word>
+<Word id="212" stime="68.19" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="68.71" etime="69.77" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="213" stime="68.71" dur="0.52" conf="0.100"> [raj_koothrappali] </Word>
+<Word id="214" stime="69.23" dur="0.11" conf="0.990"> No </Word>
+<Word id="215" stime="69.34" dur="0.00" conf="0.100"> , </Word>
+<Word id="216" stime="69.38" dur="0.14" conf="0.990"> no </Word>
+<Word id="217" stime="69.52" dur="0.00" conf="0.100"> , </Word>
+<Word id="218" stime="69.55" dur="0.14" conf="0.990"> no </Word>
+<Word id="219" stime="69.69" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="69.77" etime="72.52" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="220" stime="69.85" dur="0.26" conf="0.990"> no </Word>
+<Word id="221" stime="70.11" dur="0.00" conf="0.100"> , </Word>
+<Word id="222" stime="70.13" dur="0.10" conf="0.990"> I </Word>
+<Word id="223" stime="70.23" dur="0.18" conf="0.990"> think </Word>
+<Word id="224" stime="70.41" dur="0.06" conf="0.990"> it </Word>
+<Word id="225" stime="70.51" dur="0.17" conf="0.990"> just </Word>
+<Word id="226" stime="70.68" dur="0.24" conf="0.990"> means </Word>
+<Word id="227" stime="70.92" dur="0.09" conf="0.990"> it's </Word>
+<Word id="228" stime="71.01" dur="0.09" conf="0.990"> the </Word>
+<Word id="229" stime="71.15" dur="0.19" conf="0.990"> kind </Word>
+<Word id="230" stime="71.34" dur="0.09" conf="0.990"> of </Word>
+<Word id="231" stime="71.43" dur="0.27" conf="0.990"> sauce </Word>
+<Word id="232" stime="71.70" dur="0.12" conf="0.990"> that </Word>
+<Word id="233" stime="71.90" dur="0.34" conf="0.990"> mobsters </Word>
+<Word id="234" stime="72.24" dur="0.27" conf="0.990"> like </Word>
+<Word id="235" stime="72.51" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="72.86" etime="78.86" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="236" stime="72.86" dur="0.35" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="237" stime="73.21" dur="0.35" conf="0.100"> It </Word>
+<Word id="238" stime="73.56" dur="0.35" conf="0.100"> doesn't </Word>
+<Word id="239" stime="73.91" dur="0.35" conf="0.100"> mean </Word>
+<Word id="240" stime="74.26" dur="0.35" conf="0.100"> any </Word>
+<Word id="241" stime="74.61" dur="0.35" conf="0.100"> of </Word>
+<Word id="242" stime="74.96" dur="0.20" conf="0.990"> that </Word>
+<Word id="243" stime="75.16" dur="0.00" conf="0.950"> ! </Word>
+<Word id="244" stime="75.20" dur="0.15" conf="0.990"> It's </Word>
+<Word id="245" stime="75.35" dur="0.06" conf="0.990"> a </Word>
+<Word id="246" stime="75.41" dur="0.34" conf="0.990"> typo </Word>
+<Word id="247" stime="75.75" dur="0.00" conf="0.950"> . </Word>
+<Word id="248" stime="75.92" dur="0.17" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="249" stime="76.09" dur="0.07" conf="0.990"> You </Word>
+<Word id="250" stime="76.16" dur="0.09" conf="0.990"> know </Word>
+<Word id="251" stime="76.28" dur="0.06" conf="0.990"> what </Word>
+<Word id="252" stime="76.34" dur="0.00" conf="0.950"> ? </Word>
+<Word id="253" stime="76.34" dur="0.12" conf="0.990"> Let's </Word>
+<Word id="254" stime="76.49" dur="0.18" conf="0.990"> just </Word>
+<Word id="255" stime="76.67" dur="0.12" conf="0.990"> get </Word>
+<Word id="256" stime="76.79" dur="0.06" conf="0.990"> a </Word>
+<Word id="257" stime="76.85" dur="0.32" conf="0.990"> pizza </Word>
+<Word id="258" stime="77.17" dur="0.00" conf="0.950"> . </Word>
+<Word id="259" stime="77.30" dur="0.13" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="260" stime="77.43" dur="0.14" conf="0.990"> Good </Word>
+<Word id="261" stime="77.57" dur="0.24" conf="0.990"> idea </Word>
+<Word id="262" stime="77.81" dur="0.00" conf="0.950"> . </Word>
+<Word id="263" stime="77.81" dur="0.07" conf="0.990"> We'll </Word>
+<Word id="264" stime="77.92" dur="0.07" conf="0.990"> go </Word>
+<Word id="265" stime="77.99" dur="0.06" conf="0.990"> to </Word>
+<Word id="266" stime="78.05" dur="0.51" conf="0.990"> Corleone's </Word>
+<Word id="267" stime="78.56" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="79.56" etime="82.11" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="268" stime="79.56" dur="1.00" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="269" stime="80.56" dur="0.34" conf="0.990"> Sure </Word>
+<Word id="270" stime="80.90" dur="0.00" conf="0.100"> , </Word>
+<Word id="271" stime="80.94" dur="0.10" conf="0.990"> no </Word>
+<Word id="272" stime="81.17" dur="0.56" conf="0.990"> mobsters </Word>
+<Word id="273" stime="81.73" dur="0.37" conf="0.990"> there </Word>
+<Word id="274" stime="82.10" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="84.66" etime="90.00" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="275" stime="84.66" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="276" stime="85.02" dur="0.18" conf="0.990"> You </Word>
+<Word id="277" stime="85.20" dur="0.09" conf="0.990"> know </Word>
+<Word id="278" stime="85.29" dur="0.00" conf="0.100"> , </Word>
+<Word id="279" stime="85.31" dur="0.10" conf="0.990"> the </Word>
+<Word id="280" stime="85.41" dur="0.21" conf="0.990"> more </Word>
+<Word id="281" stime="85.62" dur="0.15" conf="0.990"> I </Word>
+<Word id="282" stime="85.83" dur="0.24" conf="0.990"> think </Word>
+<Word id="283" stime="86.13" dur="0.24" conf="0.990"> about </Word>
+<Word id="284" stime="86.37" dur="0.09" conf="0.990"> it </Word>
+<Word id="285" stime="86.46" dur="0.00" conf="0.100"> , </Word>
+<Word id="286" stime="86.52" dur="0.18" conf="0.990"> the </Word>
+<Word id="287" stime="86.70" dur="0.69" conf="0.990"> mobster </Word>
+<Word id="288" stime="87.39" dur="0.45" conf="0.990"> sauce </Word>
+<Word id="289" stime="87.89" dur="0.22" conf="0.990"> couldn't </Word>
+<Word id="290" stime="88.21" dur="0.44" conf="0.990"> possibly </Word>
+<Word id="291" stime="88.65" dur="0.29" conf="0.990"> contain </Word>
+<Word id="292" stime="89.01" dur="0.27" conf="0.990"> chunks </Word>
+<Word id="293" stime="89.28" dur="0.12" conf="0.990"> of </Word>
+<Word id="294" stime="89.40" dur="0.57" conf="0.990"> mobster </Word>
+<Word id="295" stime="89.97" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="92.20" etime="94.90" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="296" stime="92.20" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="297" stime="92.56" dur="0.14" conf="0.990"> And </Word>
+<Word id="298" stime="92.75" dur="0.16" conf="0.990"> why </Word>
+<Word id="299" stime="92.91" dur="0.10" conf="0.990"> is </Word>
+<Word id="300" stime="93.03" dur="0.30" conf="0.990"> that </Word>
+<Word id="301" stime="93.33" dur="0.00" conf="0.950"> ? </Word>
+<Word id="302" stime="93.40" dur="0.07" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="303" stime="93.47" dur="0.10" conf="0.990"> It </Word>
+<Word id="304" stime="93.57" dur="0.12" conf="0.990"> was </Word>
+<Word id="305" stime="93.69" dur="0.22" conf="0.990"> listed </Word>
+<Word id="306" stime="93.96" dur="0.21" conf="0.990"> under </Word>
+<Word id="307" stime="94.29" dur="0.48" conf="0.990"> seafood </Word>
+<Word id="308" stime="94.77" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="97.07" etime="99.75" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="309" stime="97.07" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="310" stime="97.43" dur="0.22" conf="0.990"> What </Word>
+<Word id="311" stime="97.65" dur="0.12" conf="0.990"> if </Word>
+<Word id="312" stime="97.77" dur="0.12" conf="0.990"> they </Word>
+<Word id="313" stime="97.89" dur="0.12" conf="0.990"> were </Word>
+<Word id="314" stime="98.12" dur="0.43" conf="0.990"> mobsters </Word>
+<Word id="315" stime="98.55" dur="0.12" conf="0.990"> who </Word>
+<Word id="316" stime="98.73" dur="0.24" conf="0.990"> slept </Word>
+<Word id="317" stime="98.97" dur="0.12" conf="0.990"> with </Word>
+<Word id="318" stime="99.09" dur="0.09" conf="0.990"> the </Word>
+<Word id="319" stime="99.28" dur="0.43" conf="0.990"> fishes </Word>
+<Word id="320" stime="99.71" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="104.37" etime="106.89" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="321" stime="104.37" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="322" stime="104.73" dur="0.30" conf="0.990"> Leonard </Word>
+<Word id="323" stime="105.03" dur="0.00" conf="0.100"> , </Word>
+<Word id="324" stime="105.03" dur="0.04" conf="0.990"> are </Word>
+<Word id="325" stime="105.07" dur="0.11" conf="0.990"> we </Word>
+<Word id="326" stime="105.18" dur="0.21" conf="0.990"> having </Word>
+<Word id="327" stime="105.39" dur="0.06" conf="0.990"> a </Word>
+<Word id="328" stime="105.45" dur="0.24" conf="0.990"> serious </Word>
+<Word id="329" stime="105.75" dur="0.66" conf="0.990"> conversation </Word>
+<Word id="330" stime="106.43" dur="0.05" conf="0.990"> or </Word>
+<Word id="331" stime="106.48" dur="0.35" conf="0.990"> not </Word>
+<Word id="332" stime="106.83" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="109.07" etime="109.90" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="333" stime="109.07" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="334" stime="109.43" dur="0.18" conf="0.230"> What </Word>
+<Word id="335" stime="109.61" dur="0.21" conf="0.600"> the </Word>
+<Word id="336" stime="109.82" dur="0.00" conf="0.950"> ... </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="112.94" etime="124.34" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="337" stime="112.94" dur="0.00" conf="0.950"> ? </Word>
+<Word id="338" stime="116.06" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="339" stime="116.42" dur="0.16" conf="0.990"> The </Word>
+<Word id="340" stime="116.58" dur="0.33" conf="0.990"> TV </Word>
+<Word id="341" stime="117.00" dur="0.18" conf="0.990"> is </Word>
+<Word id="342" stime="117.26" dur="0.31" conf="0.990"> gone </Word>
+<Word id="343" stime="117.57" dur="0.00" conf="0.950"> . </Word>
+<Word id="344" stime="117.58" dur="0.01" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="345" stime="117.60" dur="0.15" conf="0.990"> So </Word>
+<Word id="346" stime="117.75" dur="0.09" conf="0.990"> are </Word>
+<Word id="347" stime="117.87" dur="0.06" conf="0.990"> our </Word>
+<Word id="348" stime="117.93" dur="0.75" conf="0.990"> laptops </Word>
+<Word id="349" stime="118.68" dur="0.00" conf="0.950"> . </Word>
+<Word id="350" stime="119.07" dur="0.39" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="351" stime="119.46" dur="0.17" conf="0.990"> Oh </Word>
+<Word id="352" stime="119.79" dur="0.48" conf="0.990"> God </Word>
+<Word id="353" stime="120.27" dur="0.00" conf="0.100"> , </Word>
+<Word id="354" stime="120.96" dur="0.37" conf="0.990"> oh </Word>
+<Word id="355" stime="121.47" dur="0.53" conf="0.990"> God </Word>
+<Word id="356" stime="122.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="357" stime="123.15" dur="0.24" conf="0.990"> oh </Word>
+<Word id="358" stime="123.39" dur="0.00" conf="0.100"> , </Word>
+<Word id="359" stime="123.57" dur="0.47" conf="0.990"> God </Word>
+<Word id="360" stime="124.04" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="127.22" etime="131.09" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="361" stime="127.52" dur="0.21" conf="0.990"> It's </Word>
+<Word id="362" stime="127.73" dur="0.12" conf="0.990"> all </Word>
+<Word id="363" stime="127.88" dur="0.39" conf="0.990"> right </Word>
+<Word id="364" stime="128.27" dur="0.00" conf="0.950"> . </Word>
+<Word id="365" stime="129.95" dur="0.14" conf="0.990"> They </Word>
+<Word id="366" stime="130.16" dur="0.12" conf="0.990"> didn't </Word>
+<Word id="367" stime="130.28" dur="0.12" conf="0.990"> take </Word>
+<Word id="368" stime="130.40" dur="0.15" conf="0.990"> my </Word>
+<Word id="369" stime="130.60" dur="0.19" conf="0.990"> comic </Word>
+<Word id="370" stime="130.85" dur="0.20" conf="0.990"> books </Word>
+<Word id="371" stime="131.05" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="148.37" etime="149.43" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="372" stime="148.67" dur="0.33" conf="0.280"> [sheldon_cooper] </Word>
+<Word id="373" stime="149.09" dur="0.21" conf="0.400"> They </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="156.71" etime="165.62" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="374" stime="156.82" dur="0.14" conf="0.990"> took </Word>
+<Word id="375" stime="156.96" dur="0.09" conf="0.990"> our </Word>
+<Word id="376" stime="157.16" dur="0.40" conf="0.990"> TV </Word>
+<Word id="377" stime="157.56" dur="0.00" conf="0.100"> , </Word>
+<Word id="378" stime="157.59" dur="0.24" conf="0.100"> two </Word>
+<Word id="379" stime="157.83" dur="0.51" conf="0.990"> laptops </Word>
+<Word id="380" stime="158.34" dur="0.00" conf="0.100"> , </Word>
+<Word id="381" stime="158.46" dur="0.17" conf="0.100"> four </Word>
+<Word id="382" stime="158.67" dur="0.33" conf="0.990"> external </Word>
+<Word id="383" stime="159.05" dur="0.48" conf="0.560"> hard-drives </Word>
+<Word id="384" stime="159.53" dur="0.00" conf="0.100"> , </Word>
+<Word id="385" stime="159.60" dur="0.12" conf="0.990"> our </Word>
+<Word id="386" stime="159.72" dur="0.45" conf="0.990"> PS2 </Word>
+<Word id="387" stime="160.17" dur="0.00" conf="0.100"> , </Word>
+<Word id="388" stime="160.29" dur="0.12" conf="0.990"> our </Word>
+<Word id="389" stime="160.53" dur="0.48" conf="0.990"> PS3 </Word>
+<Word id="390" stime="161.01" dur="0.00" conf="0.100"> , </Word>
+<Word id="391" stime="161.04" dur="0.12" conf="0.990"> our </Word>
+<Word id="392" stime="161.25" dur="0.39" conf="0.990"> X-Box </Word>
+<Word id="393" stime="161.64" dur="0.00" conf="0.100"> , </Word>
+<Word id="394" stime="161.64" dur="0.12" conf="0.990"> our </Word>
+<Word id="395" stime="161.82" dur="0.24" conf="0.990"> X-Box </Word>
+<Word id="396" stime="162.06" dur="0.51" conf="0.990"> 360 </Word>
+<Word id="397" stime="162.57" dur="0.00" conf="0.100"> , </Word>
+<Word id="398" stime="162.81" dur="0.09" conf="0.990"> our </Word>
+<Word id="399" stime="162.97" dur="0.32" conf="0.990"> classic </Word>
+<Word id="400" stime="163.37" dur="0.34" conf="0.990"> Nintendo </Word>
+<Word id="401" stime="163.71" dur="0.00" conf="0.100"> , </Word>
+<Word id="402" stime="163.71" dur="0.12" conf="0.990"> our </Word>
+<Word id="403" stime="163.83" dur="0.24" conf="0.990"> Super </Word>
+<Word id="404" stime="164.07" dur="0.45" conf="0.990"> Nintendo </Word>
+<Word id="405" stime="164.52" dur="0.00" conf="0.100"> , </Word>
+<Word id="406" stime="164.54" dur="0.07" conf="0.990"> our </Word>
+<Word id="407" stime="164.61" dur="0.42" conf="0.990"> Nintendo </Word>
+<Word id="408" stime="165.03" dur="0.52" conf="0.990"> 64 </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="165.62" etime="166.58" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="409" stime="165.81" dur="0.21" conf="0.990"> and </Word>
+<Word id="410" stime="166.02" dur="0.12" conf="0.270"> our </Word>
+<Word id="411" stime="166.14" dur="0.14" conf="0.320"> Wii </Word>
+<Word id="412" stime="166.28" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="167.22" etime="169.04" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="413" stime="167.22" dur="0.94" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="414" stime="168.17" dur="0.12" conf="0.990"> We </Word>
+<Word id="415" stime="168.36" dur="0.14" conf="0.990"> like </Word>
+<Word id="416" stime="168.60" dur="0.41" conf="0.990"> games </Word>
+<Word id="417" stime="169.01" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="192.41" etime="193.54" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="418" stime="192.51" dur="0.27" conf="0.230"> [officer_hackett] </Word>
+<Word id="419" stime="192.78" dur="0.07" conf="0.160"> Assorted </Word>
+<Word id="420" stime="192.88" dur="0.32" conf="0.990"> video </Word>
+<Word id="421" stime="193.26" dur="0.27" conf="0.990"> games </Word>
+<Word id="422" stime="193.53" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="194.50" etime="196.97" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="423" stime="194.50" dur="0.97" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="424" stime="195.48" dur="0.20" conf="0.990"> When </Word>
+<Word id="425" stime="195.68" dur="0.15" conf="0.990"> does </Word>
+<Word id="426" stime="195.83" dur="0.09" conf="0.990"> the </Word>
+<Word id="427" stime="195.92" dur="0.48" conf="0.990"> CSI </Word>
+<Word id="428" stime="196.44" dur="0.17" conf="0.990"> team </Word>
+<Word id="429" stime="196.61" dur="0.15" conf="0.990"> get </Word>
+<Word id="430" stime="196.76" dur="0.18" conf="0.990"> here </Word>
+<Word id="431" stime="196.94" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="197.83" etime="199.33" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="432" stime="197.83" dur="0.89" conf="0.100"> [officer_hackett] </Word>
+<Word id="433" stime="198.72" dur="0.31" conf="0.990"> What </Word>
+<Word id="434" stime="199.03" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="199.28" etime="211.95" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="435" stime="199.28" dur="0.25" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="436" stime="199.53" dur="0.17" conf="0.990"> In </Word>
+<Word id="437" stime="199.85" dur="0.60" conf="0.990"> anticipation </Word>
+<Word id="438" stime="200.45" dur="0.09" conf="0.990"> of </Word>
+<Word id="439" stime="200.54" dur="0.15" conf="0.990"> their </Word>
+<Word id="440" stime="200.69" dur="0.48" conf="0.990"> arrival </Word>
+<Word id="441" stime="201.17" dur="0.00" conf="0.100"> , </Word>
+<Word id="442" stime="201.23" dur="0.18" conf="0.990"> I've </Word>
+<Word id="443" stime="201.48" dur="0.31" conf="0.990"> bagged </Word>
+<Word id="444" stime="201.86" dur="0.18" conf="0.990"> some </Word>
+<Word id="445" stime="202.07" dur="0.54" conf="0.990"> evidence </Word>
+<Word id="446" stime="202.61" dur="0.00" conf="0.950"> . </Word>
+<Word id="447" stime="202.88" dur="0.24" conf="0.990"> One </Word>
+<Word id="448" stime="203.12" dur="0.06" conf="0.990"> of </Word>
+<Word id="449" stime="203.18" dur="0.12" conf="0.990"> the </Word>
+<Word id="450" stime="203.40" dur="0.41" conf="0.990"> thieves </Word>
+<Word id="451" stime="203.81" dur="0.18" conf="0.990"> had </Word>
+<Word id="452" stime="203.99" dur="0.10" conf="0.990"> the </Word>
+<Word id="453" stime="204.11" dur="0.69" conf="0.990"> audacity </Word>
+<Word id="454" stime="204.80" dur="0.15" conf="0.990"> to </Word>
+<Word id="455" stime="205.01" dur="0.24" conf="0.990"> quench </Word>
+<Word id="456" stime="205.25" dur="0.18" conf="0.990"> his </Word>
+<Word id="457" stime="205.50" dur="0.29" conf="0.990"> thirst </Word>
+<Word id="458" stime="205.82" dur="0.12" conf="0.990"> while </Word>
+<Word id="459" stime="205.97" dur="0.57" conf="0.990"> ransacking </Word>
+<Word id="460" stime="206.54" dur="0.15" conf="0.990"> our </Word>
+<Word id="461" stime="206.75" dur="0.24" conf="0.990"> home </Word>
+<Word id="462" stime="206.99" dur="0.00" conf="0.950"> . </Word>
+<Word id="463" stime="207.17" dur="0.14" conf="0.990"> You </Word>
+<Word id="464" stime="207.35" dur="0.12" conf="0.990"> should </Word>
+<Word id="465" stime="207.50" dur="0.09" conf="0.990"> be </Word>
+<Word id="466" stime="207.63" dur="0.14" conf="0.990"> able </Word>
+<Word id="467" stime="207.77" dur="0.07" conf="0.990"> to </Word>
+<Word id="468" stime="207.86" dur="0.12" conf="0.990"> pull </Word>
+<Word id="469" stime="207.98" dur="0.15" conf="0.990"> some </Word>
+<Word id="470" stime="208.13" dur="0.14" conf="0.990"> good </Word>
+<Word id="471" stime="208.31" dur="0.27" conf="0.990"> prints </Word>
+<Word id="472" stime="208.58" dur="0.17" conf="0.990"> off </Word>
+<Word id="473" stime="208.79" dur="0.24" conf="0.990"> this </Word>
+<Word id="474" stime="209.03" dur="0.00" conf="0.950"> . </Word>
+<Word id="475" stime="209.03" dur="0.09" conf="0.990"> And </Word>
+<Word id="476" stime="209.12" dur="0.26" conf="0.990"> now </Word>
+<Word id="477" stime="209.38" dur="0.00" conf="0.100"> , </Word>
+<Word id="478" stime="209.48" dur="0.21" conf="0.990"> here </Word>
+<Word id="479" stime="209.69" dur="0.06" conf="0.990"> are </Word>
+<Word id="480" stime="209.80" dur="0.22" conf="0.990"> my </Word>
+<Word id="481" stime="210.02" dur="0.34" conf="0.990"> prints </Word>
+<Word id="482" stime="210.44" dur="0.09" conf="0.990"> so </Word>
+<Word id="483" stime="210.53" dur="0.09" conf="0.990"> you </Word>
+<Word id="484" stime="210.62" dur="0.15" conf="0.990"> can </Word>
+<Word id="485" stime="210.77" dur="0.18" conf="0.990"> rule </Word>
+<Word id="486" stime="210.99" dur="0.14" conf="0.990"> me </Word>
+<Word id="487" stime="211.13" dur="0.15" conf="0.990"> out </Word>
+<Word id="488" stime="211.28" dur="0.09" conf="0.990"> as </Word>
+<Word id="489" stime="211.37" dur="0.06" conf="0.990"> a </Word>
+<Word id="490" stime="211.43" dur="0.51" conf="0.990"> suspect </Word>
+<Word id="491" stime="211.94" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="212.90" etime="218.05" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="492" stime="212.90" dur="0.96" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="493" stime="213.86" dur="0.14" conf="0.990"> What </Word>
+<Word id="494" stime="214.00" dur="0.18" conf="0.990"> about </Word>
+<Word id="495" stime="214.18" dur="0.30" conf="0.990"> me </Word>
+<Word id="496" stime="214.48" dur="0.00" conf="0.950"> ? </Word>
+<Word id="497" stime="214.59" dur="0.10" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="498" stime="214.69" dur="0.14" conf="0.990"> I'm </Word>
+<Word id="499" stime="214.87" dur="0.33" conf="0.990"> sorry </Word>
+<Word id="500" stime="215.20" dur="0.00" conf="0.100"> , </Word>
+<Word id="501" stime="215.26" dur="0.24" conf="0.990"> Leonard </Word>
+<Word id="502" stime="215.50" dur="0.00" conf="0.950"> . </Word>
+<Word id="503" stime="215.50" dur="0.12" conf="0.990"> It's </Word>
+<Word id="504" stime="215.62" dur="0.15" conf="0.990"> too </Word>
+<Word id="505" stime="215.81" dur="0.20" conf="0.990"> early </Word>
+<Word id="506" stime="216.01" dur="0.09" conf="0.990"> to </Word>
+<Word id="507" stime="216.10" dur="0.33" conf="0.990"> discount </Word>
+<Word id="508" stime="216.43" dur="0.06" conf="0.990"> the </Word>
+<Word id="509" stime="216.49" dur="0.51" conf="0.990"> possibility </Word>
+<Word id="510" stime="217.00" dur="0.06" conf="0.990"> of </Word>
+<Word id="511" stime="217.06" dur="0.09" conf="0.990"> this </Word>
+<Word id="512" stime="217.15" dur="0.18" conf="0.990"> being </Word>
+<Word id="513" stime="217.33" dur="0.09" conf="0.990"> an </Word>
+<Word id="514" stime="217.50" dur="0.28" conf="0.990"> inside </Word>
+<Word id="515" stime="217.78" dur="0.27" conf="0.990"> job </Word>
+<Word id="516" stime="218.05" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="218.63" etime="220.06" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="517" stime="218.63" dur="0.59" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="518" stime="219.22" dur="0.58" conf="0.100"> Would </Word>
+<Word id="519" stime="219.80" dur="0.21" conf="0.990"> I </Word>
+<Word id="520" stime="220.01" dur="0.04" conf="0.100"> be </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="220.06" etime="221.86" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="521" stime="220.13" dur="0.45" conf="0.990"> completely </Word>
+<Word id="522" stime="220.58" dur="0.12" conf="0.990"> out </Word>
+<Word id="523" stime="220.70" dur="0.06" conf="0.990"> of </Word>
+<Word id="524" stime="220.80" dur="0.16" conf="0.990"> line </Word>
+<Word id="525" stime="221.00" dur="0.06" conf="0.990"> to </Word>
+<Word id="526" stime="221.06" dur="0.21" conf="0.990"> ask </Word>
+<Word id="527" stime="221.27" dur="0.06" conf="0.990"> you </Word>
+<Word id="528" stime="221.33" dur="0.12" conf="0.990"> to </Word>
+<Word id="529" stime="221.45" dur="0.27" conf="0.990"> shoot </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="221.72" etime="226.45" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="530" stime="221.72" dur="0.57" conf="0.100"> him </Word>
+<Word id="531" stime="222.29" dur="0.00" conf="0.950"> ? </Word>
+<Word id="532" stime="222.86" dur="0.57" conf="0.100"> [officer_hackett] </Word>
+<Word id="533" stime="223.43" dur="0.16" conf="0.990"> I'd </Word>
+<Word id="534" stime="223.61" dur="0.07" conf="0.990"> be </Word>
+<Word id="535" stime="223.68" dur="0.30" conf="0.990"> happy </Word>
+<Word id="536" stime="223.98" dur="0.12" conf="0.990"> to </Word>
+<Word id="537" stime="224.10" dur="0.17" conf="0.990"> put </Word>
+<Word id="538" stime="224.31" dur="0.09" conf="0.990"> him </Word>
+<Word id="539" stime="224.40" dur="0.14" conf="0.990"> under </Word>
+<Word id="540" stime="224.58" dur="0.06" conf="0.990"> a </Word>
+<Word id="541" stime="225.11" dur="0.31" conf="0.820"> 72-hour </Word>
+<Word id="542" stime="225.42" dur="0.51" conf="0.990"> psychiatric </Word>
+<Word id="543" stime="226.09" dur="0.23" conf="0.990"> hold </Word>
+<Word id="544" stime="226.32" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="227.24" etime="230.16" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="545" stime="227.24" dur="0.92" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="546" stime="228.16" dur="0.15" conf="0.990"> I'm </Word>
+<Word id="547" stime="228.35" dur="0.15" conf="0.990"> not </Word>
+<Word id="548" stime="228.59" dur="0.39" conf="0.990"> crazy </Word>
+<Word id="549" stime="228.98" dur="0.00" conf="0.950"> . </Word>
+<Word id="550" stime="229.20" dur="0.14" conf="0.990"> My </Word>
+<Word id="551" stime="229.34" dur="0.18" conf="0.990"> mother </Word>
+<Word id="552" stime="229.52" dur="0.12" conf="0.990"> had </Word>
+<Word id="553" stime="229.64" dur="0.12" conf="0.990"> me </Word>
+<Word id="554" stime="229.76" dur="0.39" conf="0.990"> tested </Word>
+<Word id="555" stime="230.15" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="230.55" etime="243.19" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="556" stime="230.55" dur="0.39" conf="0.100"> [officer_hackett] </Word>
+<Word id="557" stime="230.94" dur="0.40" conf="0.100"> We're </Word>
+<Word id="558" stime="231.34" dur="0.40" conf="0.100"> done </Word>
+<Word id="559" stime="231.74" dur="0.39" conf="0.100"> here </Word>
+<Word id="560" stime="232.13" dur="0.00" conf="0.950"> . </Word>
+<Word id="561" stime="232.53" dur="0.28" conf="0.990"> Call </Word>
+<Word id="562" stime="232.85" dur="0.14" conf="0.990"> this </Word>
+<Word id="563" stime="233.06" dur="0.26" conf="0.990"> number </Word>
+<Word id="564" stime="233.32" dur="0.00" conf="0.100"> , </Word>
+<Word id="565" stime="233.32" dur="0.07" conf="0.990"> and </Word>
+<Word id="566" stime="233.41" dur="0.15" conf="0.990"> we'll </Word>
+<Word id="567" stime="233.62" dur="0.24" conf="0.990"> fax </Word>
+<Word id="568" stime="233.88" dur="0.07" conf="0.990"> you </Word>
+<Word id="569" stime="233.95" dur="0.06" conf="0.990"> a </Word>
+<Word id="570" stime="234.07" dur="0.27" conf="0.990"> copy </Word>
+<Word id="571" stime="234.37" dur="0.09" conf="0.990"> of </Word>
+<Word id="572" stime="234.46" dur="0.06" conf="0.990"> the </Word>
+<Word id="573" stime="234.52" dur="0.39" conf="0.990"> report </Word>
+<Word id="574" stime="234.91" dur="0.09" conf="0.990"> so </Word>
+<Word id="575" stime="235.02" dur="0.07" conf="0.990"> you </Word>
+<Word id="576" stime="235.09" dur="0.15" conf="0.990"> can </Word>
+<Word id="577" stime="235.24" dur="0.29" conf="0.990"> submit </Word>
+<Word id="578" stime="235.53" dur="0.05" conf="0.100"> it </Word>
+<Word id="579" stime="235.57" dur="0.04" conf="0.100"> to </Word>
+<Word id="580" stime="235.62" dur="0.07" conf="0.990"> your </Word>
+<Word id="581" stime="235.69" dur="0.36" conf="0.990"> insurance </Word>
+<Word id="582" stime="236.05" dur="0.30" conf="0.990"> company </Word>
+<Word id="583" stime="236.35" dur="0.00" conf="0.950"> . </Word>
+<Word id="584" stime="236.69" dur="0.34" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="585" stime="237.03" dur="0.22" conf="0.990"> I'm </Word>
+<Word id="586" stime="237.25" dur="0.51" conf="0.990"> sorry </Word>
+<Word id="587" stime="237.76" dur="0.00" conf="0.100"> , </Word>
+<Word id="588" stime="237.88" dur="0.30" conf="0.990"> that's </Word>
+<Word id="589" stime="238.18" dur="0.12" conf="0.990"> the </Word>
+<Word id="590" stime="238.34" dur="0.14" conf="0.990"> end </Word>
+<Word id="591" stime="238.50" dur="0.07" conf="0.990"> of </Word>
+<Word id="592" stime="238.57" dur="0.12" conf="0.990"> your </Word>
+<Word id="593" stime="238.69" dur="0.60" conf="0.990"> inquiry </Word>
+<Word id="594" stime="239.29" dur="0.00" conf="0.950"> ? </Word>
+<Word id="595" stime="239.86" dur="0.57" conf="0.100"> [officer_hackett] </Word>
+<Word id="596" stime="240.43" dur="0.10" conf="0.990"> Do </Word>
+<Word id="597" stime="240.55" dur="0.09" conf="0.990"> you </Word>
+<Word id="598" stime="240.64" dur="0.24" conf="0.990"> have </Word>
+<Word id="599" stime="240.92" dur="0.17" conf="0.990"> any </Word>
+<Word id="600" stime="241.09" dur="0.27" conf="0.990"> more </Word>
+<Word id="601" stime="241.36" dur="0.81" conf="0.990"> information </Word>
+<Word id="602" stime="242.17" dur="0.14" conf="0.990"> that </Word>
+<Word id="603" stime="242.35" dur="0.21" conf="0.990"> might </Word>
+<Word id="604" stime="242.56" dur="0.15" conf="0.990"> be </Word>
+<Word id="605" stime="242.71" dur="0.42" conf="0.990"> relevant </Word>
+<Word id="606" stime="243.13" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="243.24" etime="261.59" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="607" stime="243.34" dur="0.20" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="608" stime="243.54" dur="0.14" conf="0.990"> Oh </Word>
+<Word id="609" stime="243.68" dur="0.00" conf="0.100"> , </Word>
+<Word id="610" stime="243.72" dur="0.17" conf="0.990"> my </Word>
+<Word id="611" stime="243.96" dur="0.29" conf="0.990"> goodness </Word>
+<Word id="612" stime="244.25" dur="0.00" conf="0.950"> . </Word>
+<Word id="613" stime="244.25" dur="0.12" conf="0.990"> Where </Word>
+<Word id="614" stime="244.37" dur="0.09" conf="0.990"> do </Word>
+<Word id="615" stime="244.46" dur="0.09" conf="0.990"> I </Word>
+<Word id="616" stime="244.55" dur="0.26" conf="0.990"> begin </Word>
+<Word id="617" stime="244.81" dur="0.00" conf="0.950"> ? </Word>
+<Word id="618" stime="244.88" dur="0.12" conf="0.990"> For </Word>
+<Word id="619" stime="245.00" dur="0.39" conf="0.990"> instance </Word>
+<Word id="620" stime="245.39" dur="0.00" conf="0.100"> , </Word>
+<Word id="621" stime="245.48" dur="0.21" conf="0.990"> my </Word>
+<Word id="622" stime="245.69" dur="0.41" conf="0.990"> laptop </Word>
+<Word id="623" stime="246.41" dur="0.29" conf="0.990"> contained </Word>
+<Word id="624" stime="246.77" dur="0.21" conf="0.100"> four </Word>
+<Word id="625" stime="246.98" dur="0.15" conf="0.990"> out </Word>
+<Word id="626" stime="247.13" dur="0.06" conf="0.990"> of </Word>
+<Word id="627" stime="247.19" dur="0.09" conf="0.990"> the </Word>
+<Word id="628" stime="247.28" dur="0.33" conf="0.230"> five </Word>
+<Word id="629" stime="247.66" dur="0.31" conf="0.440"> gedanken </Word>
+<Word id="630" stime="247.97" dur="0.36" conf="0.990"> experiments </Word>
+<Word id="631" stime="248.42" dur="0.46" conf="0.990"> necessary </Word>
+<Word id="632" stime="249.08" dur="0.12" conf="0.990"> for </Word>
+<Word id="633" stime="249.20" dur="0.06" conf="0.990"> a </Word>
+<Word id="634" stime="249.26" dur="0.33" conf="0.990"> cogent </Word>
+<Word id="635" stime="249.59" dur="0.48" conf="0.990"> restatement </Word>
+<Word id="636" stime="250.07" dur="0.09" conf="0.990"> of </Word>
+<Word id="637" stime="250.16" dur="0.06" conf="0.990"> the </Word>
+<Word id="638" stime="250.22" dur="0.24" conf="0.990"> quantum </Word>
+<Word id="639" stime="250.52" dur="0.33" conf="0.990"> measurement </Word>
+<Word id="640" stime="250.96" dur="0.43" conf="0.990"> problem </Word>
+<Word id="641" stime="251.39" dur="0.00" conf="0.950"> . </Word>
+<Word id="642" stime="251.54" dur="0.15" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="643" stime="251.70" dur="0.17" conf="0.100"> How </Word>
+<Word id="644" stime="251.87" dur="0.12" conf="0.320"> is </Word>
+<Word id="645" stime="251.99" dur="0.18" conf="0.990"> that </Word>
+<Word id="646" stime="252.21" dur="0.17" conf="0.990"> going </Word>
+<Word id="647" stime="252.38" dur="0.09" conf="0.990"> to </Word>
+<Word id="648" stime="252.47" dur="0.21" conf="0.990"> help </Word>
+<Word id="649" stime="252.68" dur="0.30" conf="0.990"> them </Word>
+<Word id="650" stime="252.98" dur="0.00" conf="0.950"> ? </Word>
+<Word id="651" stime="253.06" dur="0.07" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="652" stime="253.13" dur="0.18" conf="0.990"> Well </Word>
+<Word id="653" stime="253.31" dur="0.00" conf="0.100"> , </Word>
+<Word id="654" stime="253.34" dur="0.12" conf="0.990"> they </Word>
+<Word id="655" stime="253.50" dur="0.14" conf="0.990"> could </Word>
+<Word id="656" stime="253.73" dur="0.36" conf="0.990"> monitor </Word>
+<Word id="657" stime="254.09" dur="0.48" conf="0.990"> scientific </Word>
+<Word id="658" stime="254.57" dur="0.78" conf="0.990"> publications </Word>
+<Word id="659" stime="255.38" dur="0.21" conf="0.990"> and </Word>
+<Word id="660" stime="255.59" dur="0.15" conf="0.990"> see </Word>
+<Word id="661" stime="255.74" dur="0.09" conf="0.990"> if </Word>
+<Word id="662" stime="255.83" dur="0.27" conf="0.990"> anyone </Word>
+<Word id="663" stime="256.16" dur="0.24" conf="0.990"> posts </Word>
+<Word id="664" stime="256.40" dur="0.15" conf="0.990"> such </Word>
+<Word id="665" stime="256.55" dur="0.06" conf="0.990"> a </Word>
+<Word id="666" stime="256.67" dur="0.24" conf="0.990"> cogent </Word>
+<Word id="667" stime="257.02" dur="0.46" conf="0.990"> restatement </Word>
+<Word id="668" stime="257.48" dur="0.06" conf="0.990"> in </Word>
+<Word id="669" stime="257.54" dur="0.06" conf="0.990"> the </Word>
+<Word id="670" stime="257.60" dur="0.18" conf="0.990"> next </Word>
+<Word id="671" stime="257.78" dur="0.24" conf="0.990"> couple </Word>
+<Word id="672" stime="258.02" dur="0.09" conf="0.990"> of </Word>
+<Word id="673" stime="258.21" dur="0.38" conf="0.990"> months </Word>
+<Word id="674" stime="258.59" dur="0.00" conf="0.950"> . </Word>
+<Word id="675" stime="258.68" dur="0.21" conf="0.990"> If </Word>
+<Word id="676" stime="258.93" dur="0.14" conf="0.990"> so </Word>
+<Word id="677" stime="259.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="678" stime="259.07" dur="0.12" conf="0.990"> the </Word>
+<Word id="679" stime="259.19" dur="0.30" conf="0.990"> authors </Word>
+<Word id="680" stime="259.49" dur="0.06" conf="0.990"> are </Word>
+<Word id="681" stime="259.59" dur="0.14" conf="0.990"> most </Word>
+<Word id="682" stime="259.79" dur="0.24" conf="0.990"> likely </Word>
+<Word id="683" stime="260.03" dur="0.06" conf="0.990"> in </Word>
+<Word id="684" stime="260.09" dur="0.33" conf="0.990"> possession </Word>
+<Word id="685" stime="260.42" dur="0.06" conf="0.990"> of </Word>
+<Word id="686" stime="260.48" dur="0.10" conf="0.990"> my </Word>
+<Word id="687" stime="260.71" dur="0.17" conf="0.360"> stolen </Word>
+<Word id="688" stime="261.11" dur="0.36" conf="0.990"> laptop </Word>
+<Word id="689" stime="261.47" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="263.45" etime="264.60" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="690" stime="263.45" dur="0.36" conf="0.100"> [officer_hackett] </Word>
+<Word id="691" stime="263.81" dur="0.12" conf="0.990"> Good </Word>
+<Word id="692" stime="263.93" dur="0.14" conf="0.990"> night </Word>
+<Word id="693" stime="264.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="694" stime="264.11" dur="0.31" conf="0.990"> fellas </Word>
+<Word id="695" stime="264.42" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="266.00" etime="266.80" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="696" stime="266.13" dur="0.08" conf="0.230"> Come </Word>
+<Word id="697" stime="266.21" dur="0.34" conf="0.100"> on </Word>
+<Word id="698" stime="266.55" dur="0.00" conf="0.100"> , </Word>
+<Word id="699" stime="266.55" dur="0.25" conf="0.990"> Bochco </Word>
+<Word id="700" stime="266.80" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="277.46" etime="282.03" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="701" stime="277.46" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="702" stime="277.82" dur="0.10" conf="0.990"> What </Word>
+<Word id="703" stime="277.94" dur="0.03" conf="0.990"> are </Word>
+<Word id="704" stime="278.00" dur="0.09" conf="0.990"> we </Word>
+<Word id="705" stime="278.09" dur="0.45" conf="0.990"> supposed </Word>
+<Word id="706" stime="278.54" dur="0.09" conf="0.990"> to </Word>
+<Word id="707" stime="278.69" dur="0.24" conf="0.990"> do </Word>
+<Word id="708" stime="278.93" dur="0.47" conf="0.990"> now </Word>
+<Word id="709" stime="279.40" dur="0.00" conf="0.950"> ? </Word>
+<Word id="710" stime="280.00" dur="0.60" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="711" stime="280.61" dur="0.21" conf="0.320"> The </Word>
+<Word id="712" stime="280.86" dur="0.14" conf="0.990"> only </Word>
+<Word id="713" stime="281.00" dur="0.15" conf="0.990"> thing </Word>
+<Word id="714" stime="281.15" dur="0.12" conf="0.990"> we </Word>
+<Word id="715" stime="281.27" dur="0.24" conf="0.990"> can </Word>
+<Word id="716" stime="281.51" dur="0.22" conf="0.990"> do </Word>
+<Word id="717" stime="281.73" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="282.65" etime="286.15" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="718" stime="282.69" dur="0.30" conf="0.990"> Watch </Word>
+<Word id="719" stime="283.05" dur="0.27" conf="0.990"> TV </Word>
+<Word id="720" stime="283.32" dur="0.12" conf="0.990"> on </Word>
+<Word id="721" stime="283.44" dur="0.12" conf="0.990"> our </Word>
+<Word id="722" stime="283.56" dur="0.36" conf="0.990"> phones </Word>
+<Word id="723" stime="283.92" dur="0.18" conf="0.990"> until </Word>
+<Word id="724" stime="284.10" dur="0.06" conf="0.990"> the </Word>
+<Word id="725" stime="284.24" dur="0.31" conf="0.990"> criminals </Word>
+<Word id="726" stime="284.55" dur="0.39" conf="0.990"> return </Word>
+<Word id="727" stime="284.94" dur="0.09" conf="0.990"> and </Word>
+<Word id="728" stime="285.11" dur="0.28" conf="0.990"> bludgeon </Word>
+<Word id="729" stime="285.39" dur="0.12" conf="0.990"> us </Word>
+<Word id="730" stime="285.51" dur="0.09" conf="0.990"> to </Word>
+<Word id="731" stime="285.60" dur="0.18" conf="0.990"> death </Word>
+<Word id="732" stime="285.78" dur="0.09" conf="0.990"> in </Word>
+<Word id="733" stime="285.87" dur="0.09" conf="0.990"> our </Word>
+<Word id="734" stime="285.96" dur="0.18" conf="0.990"> sleep </Word>
+<Word id="735" stime="286.14" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="287.08" etime="291.17" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="736" stime="287.08" dur="0.95" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="737" stime="288.03" dur="0.10" conf="0.990"> Does </Word>
+<Word id="738" stime="288.13" dur="0.12" conf="0.990"> that </Word>
+<Word id="739" stime="288.25" dur="0.18" conf="0.990"> mean </Word>
+<Word id="740" stime="288.45" dur="0.10" conf="0.990"> you've </Word>
+<Word id="741" stime="288.55" dur="0.24" conf="0.990"> ruled </Word>
+<Word id="742" stime="288.79" dur="0.15" conf="0.990"> me </Word>
+<Word id="743" stime="288.94" dur="0.18" conf="0.990"> out </Word>
+<Word id="744" stime="289.12" dur="0.09" conf="0.990"> as </Word>
+<Word id="745" stime="289.21" dur="0.06" conf="0.990"> a </Word>
+<Word id="746" stime="289.27" dur="0.63" conf="0.990"> suspect </Word>
+<Word id="747" stime="289.90" dur="0.00" conf="0.950"> ? </Word>
+<Word id="748" stime="289.98" dur="0.08" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="749" stime="290.06" dur="0.15" conf="0.990"> Oh </Word>
+<Word id="750" stime="290.21" dur="0.00" conf="0.100"> , </Word>
+<Word id="751" stime="290.29" dur="0.15" conf="0.990"> how </Word>
+<Word id="752" stime="290.44" dur="0.12" conf="0.990"> I </Word>
+<Word id="753" stime="290.56" dur="0.18" conf="0.990"> wish </Word>
+<Word id="754" stime="290.74" dur="0.12" conf="0.990"> I </Word>
+<Word id="755" stime="290.86" dur="0.31" conf="0.990"> could </Word>
+<Word id="756" stime="291.17" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="342.28" etime="344.22" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="757" stime="342.28" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="758" stime="342.64" dur="0.21" conf="0.990"> I </Word>
+<Word id="759" stime="342.85" dur="0.18" conf="0.990"> do </Word>
+<Word id="760" stime="343.09" dur="0.24" conf="0.990"> not </Word>
+<Word id="761" stime="343.33" dur="0.24" conf="0.990"> have </Word>
+<Word id="762" stime="343.59" dur="0.10" conf="0.990"> to </Word>
+<Word id="763" stime="343.69" dur="0.51" conf="0.990"> urinate </Word>
+<Word id="764" stime="344.20" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="348.31" etime="350.51" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="765" stime="348.35" dur="0.21" conf="0.990"> I </Word>
+<Word id="766" stime="348.56" dur="0.15" conf="0.990"> am </Word>
+<Word id="767" stime="348.71" dur="0.09" conf="0.990"> the </Word>
+<Word id="768" stime="348.80" dur="0.69" conf="0.990"> master </Word>
+<Word id="769" stime="349.49" dur="0.12" conf="0.990"> of </Word>
+<Word id="770" stime="349.64" dur="0.21" conf="0.990"> my </Word>
+<Word id="771" stime="349.85" dur="0.21" conf="0.990"> own </Word>
+<Word id="772" stime="350.14" dur="0.34" conf="0.990"> bladder </Word>
+<Word id="773" stime="350.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="354.19" etime="368.38" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="774" stime="354.19" dur="0.36" conf="0.100"> Drat </Word>
+<Word id="775" stime="354.55" dur="0.00" conf="0.950"> . </Word>
+<Word id="776" stime="358.25" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="777" stime="358.61" dur="0.15" conf="0.990"> I </Word>
+<Word id="778" stime="358.76" dur="0.42" conf="0.990"> can't </Word>
+<Word id="779" stime="359.25" dur="0.41" conf="0.990"> believe </Word>
+<Word id="780" stime="359.66" dur="0.15" conf="0.990"> it </Word>
+<Word id="781" stime="359.81" dur="0.00" conf="0.950"> . </Word>
+<Word id="782" stime="359.84" dur="0.09" conf="0.990"> If </Word>
+<Word id="783" stime="359.93" dur="0.12" conf="0.990"> I </Word>
+<Word id="784" stime="360.05" dur="0.24" conf="0.990"> hadn't </Word>
+<Word id="785" stime="360.29" dur="0.15" conf="0.990"> been </Word>
+<Word id="786" stime="360.44" dur="0.30" conf="0.990"> working </Word>
+<Word id="787" stime="360.74" dur="0.09" conf="0.990"> the </Word>
+<Word id="788" stime="360.83" dur="0.24" conf="0.990"> dinner </Word>
+<Word id="789" stime="361.07" dur="0.29" conf="0.990"> shift </Word>
+<Word id="790" stime="361.36" dur="0.00" conf="0.100"> , </Word>
+<Word id="791" stime="361.43" dur="0.09" conf="0.990"> I </Word>
+<Word id="792" stime="361.52" dur="0.14" conf="0.990"> would've </Word>
+<Word id="793" stime="361.70" dur="0.21" conf="0.990"> run </Word>
+<Word id="794" stime="361.97" dur="0.51" conf="0.200"> [leonard_hofstadter] </Word>
+<Word id="795" stime="362.48" dur="0.09" conf="0.530"> Hey </Word>
+<Word id="796" stime="362.57" dur="0.00" conf="0.100"> , </Word>
+<Word id="797" stime="363.72" dur="0.17" conf="0.990"> there's </Word>
+<Word id="798" stime="363.89" dur="0.27" conf="0.990"> no </Word>
+<Word id="799" stime="364.16" dur="0.33" conf="0.990"> reason </Word>
+<Word id="800" stime="364.51" dur="0.10" conf="0.990"> for </Word>
+<Word id="801" stime="364.64" dur="0.12" conf="0.990"> you </Word>
+<Word id="802" stime="364.76" dur="0.09" conf="0.990"> to </Word>
+<Word id="803" stime="364.87" dur="0.10" conf="0.990"> be </Word>
+<Word id="804" stime="364.97" dur="0.57" conf="0.990"> scared </Word>
+<Word id="805" stime="365.54" dur="0.00" conf="0.950"> . </Word>
+<Word id="806" stime="365.61" dur="0.06" conf="0.100"> [penny] </Word>
+<Word id="807" stime="365.67" dur="0.14" conf="0.990"> I'm </Word>
+<Word id="808" stime="365.81" dur="0.21" conf="0.990"> not </Word>
+<Word id="809" stime="366.02" dur="0.54" conf="0.990"> scared </Word>
+<Word id="810" stime="366.56" dur="0.00" conf="0.950"> . </Word>
+<Word id="811" stime="366.68" dur="0.12" conf="0.990"> I </Word>
+<Word id="812" stime="366.80" dur="0.11" conf="0.990"> would've </Word>
+<Word id="813" stime="366.98" dur="0.21" conf="0.990"> gone </Word>
+<Word id="814" stime="367.19" dur="0.09" conf="0.990"> all </Word>
+<Word id="815" stime="367.28" dur="0.51" conf="0.990"> Nebraska </Word>
+<Word id="816" stime="367.91" dur="0.12" conf="0.990"> on </Word>
+<Word id="817" stime="368.03" dur="0.12" conf="0.990"> their </Word>
+<Word id="818" stime="368.15" dur="0.22" conf="0.460"> asses </Word>
+<Word id="819" stime="368.37" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="370.61" etime="375.12" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="820" stime="370.61" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="821" stime="370.97" dur="0.21" conf="0.990"> Leonard </Word>
+<Word id="822" stime="371.24" dur="0.06" conf="0.990"> and </Word>
+<Word id="823" stime="371.37" dur="0.29" conf="0.990"> Penny </Word>
+<Word id="824" stime="371.66" dur="0.00" conf="0.950"> . </Word>
+<Word id="825" stime="372.17" dur="0.19" conf="0.990"> Leonard </Word>
+<Word id="826" stime="372.41" dur="0.06" conf="0.990"> and </Word>
+<Word id="827" stime="372.54" dur="0.32" conf="0.990"> Penny </Word>
+<Word id="828" stime="372.86" dur="0.00" conf="0.950"> . </Word>
+<Word id="829" stime="373.40" dur="0.30" conf="0.990"> Leonard </Word>
+<Word id="830" stime="373.70" dur="0.06" conf="0.990"> and </Word>
+<Word id="831" stime="373.76" dur="0.36" conf="0.990"> Penny </Word>
+<Word id="832" stime="374.12" dur="0.00" conf="0.950"> . </Word>
+<Word id="833" stime="374.19" dur="0.07" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="834" stime="374.27" dur="0.22" conf="0.990"> Hand </Word>
+<Word id="835" stime="374.54" dur="0.12" conf="0.990"> me </Word>
+<Word id="836" stime="374.66" dur="0.09" conf="0.990"> the </Word>
+<Word id="837" stime="374.75" dur="0.27" conf="0.990"> bat </Word>
+<Word id="838" stime="375.02" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="379.09" etime="383.32" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="839" stime="379.09" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="840" stime="379.45" dur="0.17" conf="0.990"> We </Word>
+<Word id="841" stime="379.66" dur="0.15" conf="0.990"> just </Word>
+<Word id="842" stime="379.81" dur="0.15" conf="0.990"> had </Word>
+<Word id="843" stime="379.96" dur="0.06" conf="0.990"> a </Word>
+<Word id="844" stime="380.02" dur="0.39" conf="0.990"> major </Word>
+<Word id="845" stime="380.49" dur="0.34" conf="0.990"> crime </Word>
+<Word id="846" stime="380.83" dur="0.09" conf="0.990"> in </Word>
+<Word id="847" stime="380.92" dur="0.09" conf="0.990"> the </Word>
+<Word id="848" stime="381.01" dur="0.33" conf="0.990"> building </Word>
+<Word id="849" stime="381.34" dur="0.00" conf="0.100"> , </Word>
+<Word id="850" stime="381.34" dur="0.09" conf="0.990"> and </Word>
+<Word id="851" stime="381.43" dur="0.15" conf="0.990"> you </Word>
+<Word id="852" stime="381.62" dur="0.17" conf="0.990"> open </Word>
+<Word id="853" stime="381.79" dur="0.09" conf="0.990"> the </Word>
+<Word id="854" stime="381.88" dur="0.14" conf="0.990"> door </Word>
+<Word id="855" stime="382.06" dur="0.21" conf="0.990"> without </Word>
+<Word id="856" stime="382.34" dur="0.29" conf="0.990"> asking </Word>
+<Word id="857" stime="382.63" dur="0.15" conf="0.990"> who </Word>
+<Word id="858" stime="382.80" dur="0.10" conf="0.990"> it </Word>
+<Word id="859" stime="382.90" dur="0.38" conf="0.990"> is </Word>
+<Word id="860" stime="383.28" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="384.12" etime="386.16" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="861" stime="384.12" dur="0.83" conf="0.100"> [penny] </Word>
+<Word id="862" stime="384.95" dur="0.12" conf="0.990"> It </Word>
+<Word id="863" stime="385.07" dur="0.21" conf="0.990"> won't </Word>
+<Word id="864" stime="385.28" dur="0.27" conf="0.990"> happen </Word>
+<Word id="865" stime="385.55" dur="0.24" conf="0.990"> again </Word>
+<Word id="866" stime="385.79" dur="0.00" conf="0.100"> , </Word>
+<Word id="867" stime="385.79" dur="0.15" conf="0.990"> what's </Word>
+<Word id="868" stime="385.94" dur="0.20" conf="0.990"> up </Word>
+<Word id="869" stime="386.14" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="386.47" etime="387.64" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="870" stime="386.47" dur="0.33" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="871" stime="386.80" dur="0.54" conf="0.990"> Nothing </Word>
+<Word id="872" stime="387.34" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="388.56" etime="391.63" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="873" stime="388.60" dur="0.12" conf="0.360"> Just </Word>
+<Word id="874" stime="388.72" dur="0.20" conf="0.320"> wanted </Word>
+<Word id="875" stime="388.96" dur="0.06" conf="0.990"> to </Word>
+<Word id="876" stime="389.05" dur="0.12" conf="0.990"> see </Word>
+<Word id="877" stime="389.17" dur="0.06" conf="0.990"> if </Word>
+<Word id="878" stime="389.23" dur="0.07" conf="0.990"> you </Word>
+<Word id="879" stime="389.32" dur="0.06" conf="0.990"> were </Word>
+<Word id="880" stime="389.42" dur="0.17" conf="0.990"> both </Word>
+<Word id="881" stime="389.59" dur="0.31" conf="0.990"> okay </Word>
+<Word id="882" stime="389.90" dur="0.00" conf="0.950"> . </Word>
+<Word id="883" stime="390.27" dur="0.37" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="884" stime="390.64" dur="0.18" conf="0.990"> We're </Word>
+<Word id="885" stime="390.82" dur="0.33" conf="0.990"> fine </Word>
+<Word id="886" stime="391.15" dur="0.00" conf="0.100"> , </Word>
+<Word id="887" stime="391.23" dur="0.34" conf="0.990"> Sheldon </Word>
+<Word id="888" stime="391.57" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="392.15" etime="400.67" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="889" stime="392.15" dur="0.58" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="890" stime="392.73" dur="0.58" conf="0.100"> All </Word>
+<Word id="891" stime="393.31" dur="0.58" conf="0.100"> right </Word>
+<Word id="892" stime="393.89" dur="0.00" conf="0.100"> , </Word>
+<Word id="893" stime="393.89" dur="0.58" conf="0.100"> then </Word>
+<Word id="894" stime="394.47" dur="0.00" conf="0.950"> . </Word>
+<Word id="895" stime="395.06" dur="0.58" conf="0.100"> Good </Word>
+<Word id="896" stime="395.63" dur="0.58" conf="0.100"> night </Word>
+<Word id="897" stime="396.22" dur="0.00" conf="0.950"> . </Word>
+<Word id="898" stime="396.80" dur="0.58" conf="0.100"> [penny] </Word>
+<Word id="899" stime="397.38" dur="0.58" conf="0.100"> Good </Word>
+<Word id="900" stime="397.96" dur="0.58" conf="0.100"> night </Word>
+<Word id="901" stime="398.54" dur="0.00" conf="0.950"> . </Word>
+<Word id="902" stime="399.12" dur="0.11" conf="0.990"> That </Word>
+<Word id="903" stime="399.27" dur="0.15" conf="0.990"> was </Word>
+<Word id="904" stime="399.52" dur="0.44" conf="0.990"> weird </Word>
+<Word id="905" stime="399.96" dur="0.00" conf="0.100"> , </Word>
+<Word id="906" stime="400.11" dur="0.24" conf="0.990"> even </Word>
+<Word id="907" stime="400.38" dur="0.12" conf="0.990"> for </Word>
+<Word id="908" stime="400.50" dur="0.14" conf="0.990"> him </Word>
+<Word id="909" stime="400.64" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="400.95" etime="405.33" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="910" stime="400.95" dur="0.31" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="911" stime="401.26" dur="0.30" conf="0.100"> Mm-hmm </Word>
+<Word id="912" stime="401.56" dur="0.00" conf="0.950"> . </Word>
+<Word id="913" stime="401.87" dur="0.31" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="914" stime="402.18" dur="0.27" conf="0.990"> Leonard </Word>
+<Word id="915" stime="402.45" dur="0.06" conf="0.990"> and </Word>
+<Word id="916" stime="402.51" dur="0.29" conf="0.990"> Penny </Word>
+<Word id="917" stime="402.80" dur="0.00" conf="0.950"> . </Word>
+<Word id="918" stime="403.21" dur="0.41" conf="0.100"> Leonard </Word>
+<Word id="919" stime="403.62" dur="0.09" conf="0.990"> and </Word>
+<Word id="920" stime="403.78" dur="0.29" conf="0.990"> Penny </Word>
+<Word id="921" stime="404.07" dur="0.00" conf="0.950"> . </Word>
+<Word id="922" stime="404.58" dur="0.27" conf="0.490"> Leonard </Word>
+<Word id="923" stime="404.85" dur="0.13" conf="0.100"> and </Word>
+<Word id="924" stime="404.98" dur="0.29" conf="0.990"> Penny </Word>
+<Word id="925" stime="405.27" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="406.07" etime="411.82" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="926" stime="406.07" dur="0.79" conf="0.100"> [penny] </Word>
+<Word id="927" stime="406.86" dur="0.80" conf="0.100"> Who </Word>
+<Word id="928" stime="407.66" dur="0.79" conf="0.100"> is </Word>
+<Word id="929" stime="408.45" dur="0.80" conf="0.100"> it </Word>
+<Word id="930" stime="409.25" dur="0.00" conf="0.950"> ? </Word>
+<Word id="931" stime="410.04" dur="0.80" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="932" stime="410.84" dur="0.09" conf="0.320"> Sheldon </Word>
+<Word id="933" stime="410.93" dur="0.00" conf="0.950"> . </Word>
+<Word id="934" stime="410.99" dur="0.26" conf="0.990"> Sheldon </Word>
+<Word id="935" stime="411.25" dur="0.27" conf="0.990"> Cooper </Word>
+<Word id="936" stime="411.52" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="412.35" etime="415.54" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="937" stime="412.35" dur="0.82" conf="0.100"> [penny] </Word>
+<Word id="938" stime="413.17" dur="0.57" conf="0.990"> Yes </Word>
+<Word id="939" stime="413.74" dur="0.00" conf="0.950"> ? </Word>
+<Word id="940" stime="414.50" dur="0.15" conf="0.170"> [sheldon_cooper] </Word>
+<Word id="941" stime="414.67" dur="0.10" conf="0.990"> May </Word>
+<Word id="942" stime="414.77" dur="0.15" conf="0.990"> I </Word>
+<Word id="943" stime="414.92" dur="0.18" conf="0.990"> come </Word>
+<Word id="944" stime="415.10" dur="0.26" conf="0.990"> in </Word>
+<Word id="945" stime="415.36" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="420.77" etime="428.66" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="946" stime="420.77" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="947" stime="421.13" dur="0.36" conf="0.100"> Yeah </Word>
+<Word id="948" stime="421.49" dur="0.00" conf="0.950"> . </Word>
+<Word id="949" stime="426.90" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="950" stime="427.26" dur="0.12" conf="0.990"> I </Word>
+<Word id="951" stime="427.41" dur="0.12" conf="0.990"> see </Word>
+<Word id="952" stime="427.55" dur="0.10" conf="0.990"> you're </Word>
+<Word id="953" stime="427.65" dur="0.33" conf="0.990"> drinking </Word>
+<Word id="954" stime="428.09" dur="0.46" conf="0.990"> wine </Word>
+<Word id="955" stime="428.55" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="429.50" etime="432.91" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="956" stime="429.50" dur="0.95" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="957" stime="430.45" dur="0.29" conf="0.990"> Yes </Word>
+<Word id="958" stime="430.74" dur="0.00" conf="0.100"> , </Word>
+<Word id="959" stime="430.81" dur="0.18" conf="0.990"> we </Word>
+<Word id="960" stime="431.07" dur="0.31" conf="0.990"> are </Word>
+<Word id="961" stime="431.38" dur="0.00" conf="0.950"> . </Word>
+<Word id="962" stime="431.50" dur="0.18" conf="0.990"> And </Word>
+<Word id="963" stime="431.68" dur="0.12" conf="0.990"> we're </Word>
+<Word id="964" stime="431.83" dur="0.24" conf="0.990"> about </Word>
+<Word id="965" stime="432.07" dur="0.09" conf="0.990"> to </Word>
+<Word id="966" stime="432.16" dur="0.12" conf="0.990"> go </Word>
+<Word id="967" stime="432.28" dur="0.09" conf="0.990"> to </Word>
+<Word id="968" stime="432.37" dur="0.29" conf="0.990"> bed </Word>
+<Word id="969" stime="432.66" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="433.38" etime="437.92" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="970" stime="433.38" dur="0.73" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="971" stime="434.11" dur="0.72" conf="0.100"> Uh-huh </Word>
+<Word id="972" stime="434.83" dur="0.00" conf="0.950"> . </Word>
+<Word id="973" stime="435.56" dur="0.72" conf="0.100"> [penny] </Word>
+<Word id="974" stime="436.28" dur="0.43" conf="0.990"> Sheldon </Word>
+<Word id="975" stime="436.71" dur="0.00" conf="0.100"> , </Word>
+<Word id="976" stime="436.71" dur="0.06" conf="0.990"> do </Word>
+<Word id="977" stime="436.77" dur="0.06" conf="0.990"> you </Word>
+<Word id="978" stime="436.83" dur="0.12" conf="0.990"> want </Word>
+<Word id="979" stime="436.95" dur="0.06" conf="0.990"> to </Word>
+<Word id="980" stime="437.01" dur="0.24" conf="0.990"> sleep </Word>
+<Word id="981" stime="437.25" dur="0.15" conf="0.990"> here </Word>
+<Word id="982" stime="437.40" dur="0.39" conf="0.990"> tonight </Word>
+<Word id="983" stime="437.79" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="437.96" etime="442.14" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="984" stime="438.02" dur="0.23" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="985" stime="438.26" dur="0.39" conf="0.990"> Oh </Word>
+<Word id="986" stime="438.65" dur="0.00" conf="0.100"> , </Word>
+<Word id="987" stime="438.95" dur="0.12" conf="0.990"> as </Word>
+<Word id="988" stime="439.15" dur="0.34" conf="0.990"> small </Word>
+<Word id="989" stime="439.49" dur="0.15" conf="0.990"> as </Word>
+<Word id="990" stime="439.71" dur="0.29" conf="0.990"> Leonard </Word>
+<Word id="991" stime="440.00" dur="0.17" conf="0.990"> is </Word>
+<Word id="992" stime="440.17" dur="0.00" conf="0.100"> , </Word>
+<Word id="993" stime="440.23" dur="0.10" conf="0.990"> I </Word>
+<Word id="994" stime="440.33" dur="0.12" conf="0.990"> don't </Word>
+<Word id="995" stime="440.45" dur="0.18" conf="0.990"> think </Word>
+<Word id="996" stime="440.63" dur="0.09" conf="0.990"> the </Word>
+<Word id="997" stime="440.72" dur="0.12" conf="0.100"> two </Word>
+<Word id="998" stime="440.84" dur="0.09" conf="0.990"> of </Word>
+<Word id="999" stime="440.93" dur="0.12" conf="0.990"> you'd </Word>
+<Word id="1000" stime="441.08" dur="0.06" conf="0.990"> be </Word>
+<Word id="1001" stime="441.22" dur="0.31" conf="0.990"> comfortable </Word>
+<Word id="1002" stime="441.55" dur="0.07" conf="0.990"> on </Word>
+<Word id="1003" stime="441.62" dur="0.09" conf="0.990"> the </Word>
+<Word id="1004" stime="441.71" dur="0.42" conf="0.990"> couch </Word>
+<Word id="1005" stime="442.13" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="444.63" etime="453.19" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1006" stime="444.76" dur="0.14" conf="0.150"> [leonard_hofstadter] </Word>
+<Word id="1007" stime="444.94" dur="0.15" conf="0.990"> What </Word>
+<Word id="1008" stime="445.09" dur="0.14" conf="0.990"> do </Word>
+<Word id="1009" stime="445.29" dur="0.07" conf="0.990"> you </Word>
+<Word id="1010" stime="445.44" dur="0.27" conf="0.990"> want </Word>
+<Word id="1011" stime="445.71" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1012" stime="446.16" dur="0.10" conf="0.160"> [sheldon_cooper] </Word>
+<Word id="1013" stime="446.26" dur="0.09" conf="0.990"> It's </Word>
+<Word id="1014" stime="446.35" dur="0.18" conf="0.990"> not </Word>
+<Word id="1015" stime="446.58" dur="0.19" conf="0.990"> what </Word>
+<Word id="1016" stime="446.82" dur="0.19" conf="0.990"> I </Word>
+<Word id="1017" stime="447.01" dur="0.42" conf="0.990"> want </Word>
+<Word id="1018" stime="447.43" dur="0.00" conf="0.100"> , </Word>
+<Word id="1019" stime="447.43" dur="0.18" conf="0.990"> it's </Word>
+<Word id="1020" stime="447.61" dur="0.18" conf="0.990"> what </Word>
+<Word id="1021" stime="447.90" dur="0.52" conf="0.990"> evolution </Word>
+<Word id="1022" stime="448.48" dur="0.24" conf="0.990"> wants </Word>
+<Word id="1023" stime="448.72" dur="0.00" conf="0.950"> . </Word>
+<Word id="1024" stime="448.72" dur="0.27" conf="0.990"> Human </Word>
+<Word id="1025" stime="448.99" dur="0.27" conf="0.990"> beings </Word>
+<Word id="1026" stime="449.28" dur="0.07" conf="0.990"> are </Word>
+<Word id="1027" stime="449.35" dur="0.54" conf="0.990"> primates </Word>
+<Word id="1028" stime="449.89" dur="0.00" conf="0.950"> . </Word>
+<Word id="1029" stime="449.97" dur="0.34" conf="0.990"> Primates </Word>
+<Word id="1030" stime="450.33" dur="0.07" conf="0.100"> have </Word>
+<Word id="1031" stime="450.50" dur="0.38" conf="0.990"> evolved </Word>
+<Word id="1032" stime="450.88" dur="0.08" conf="0.990"> to </Word>
+<Word id="1033" stime="450.96" dur="0.16" conf="0.990"> live </Word>
+<Word id="1034" stime="451.12" dur="0.07" conf="0.990"> in </Word>
+<Word id="1035" stime="451.21" dur="0.39" conf="0.990"> groups </Word>
+<Word id="1036" stime="451.60" dur="0.00" conf="0.100"> , </Word>
+<Word id="1037" stime="451.60" dur="0.21" conf="0.990"> both </Word>
+<Word id="1038" stime="451.81" dur="0.09" conf="0.990"> for </Word>
+<Word id="1039" stime="451.99" dur="0.36" conf="0.990"> protection </Word>
+<Word id="1040" stime="452.35" dur="0.09" conf="0.990"> and </Word>
+<Word id="1041" stime="452.44" dur="0.45" conf="0.990"> support </Word>
+<Word id="1042" stime="452.89" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="453.75" etime="456.14" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1043" stime="453.75" dur="0.86" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1044" stime="454.61" dur="0.21" conf="0.990"> But </Word>
+<Word id="1045" stime="454.86" dur="0.14" conf="0.990"> you </Word>
+<Word id="1046" stime="455.00" dur="0.14" conf="0.990"> don't </Word>
+<Word id="1047" stime="455.18" dur="0.27" conf="0.990"> like </Word>
+<Word id="1048" stime="455.45" dur="0.21" conf="0.990"> other </Word>
+<Word id="1049" stime="455.66" dur="0.38" conf="0.990"> people </Word>
+<Word id="1050" stime="456.04" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="456.14" etime="458.35" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="1051" stime="456.21" dur="0.93" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1052" stime="457.41" dur="0.18" conf="0.990"> I </Word>
+<Word id="1053" stime="457.59" dur="0.12" conf="0.990"> do </Word>
+<Word id="1054" stime="457.79" dur="0.34" conf="0.990"> tonight </Word>
+<Word id="1055" stime="458.13" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="460.47" etime="461.45" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1056" stime="460.52" dur="0.08" conf="0.230"> It's </Word>
+<Word id="1057" stime="460.60" dur="0.33" conf="0.990"> scary </Word>
+<Word id="1058" stime="460.97" dur="0.14" conf="0.990"> over </Word>
+<Word id="1059" stime="461.11" dur="0.27" conf="0.990"> there </Word>
+<Word id="1060" stime="461.38" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="462.25" etime="464.41" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1061" stime="462.25" dur="0.87" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1062" stime="463.13" dur="0.05" conf="0.990"> It's </Word>
+<Word id="1063" stime="463.20" dur="0.18" conf="0.990"> getting </Word>
+<Word id="1064" stime="463.44" dur="0.45" conf="0.990"> scary </Word>
+<Word id="1065" stime="463.89" dur="0.24" conf="0.990"> here </Word>
+<Word id="1066" stime="464.13" dur="0.00" conf="0.100"> , </Word>
+<Word id="1067" stime="464.18" dur="0.21" conf="0.990"> too </Word>
+<Word id="1068" stime="464.39" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="465.19" etime="501.30" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1069" stime="465.19" dur="0.80" conf="0.100"> [penny] </Word>
+<Word id="1070" stime="465.99" dur="0.79" conf="0.100"> Um </Word>
+<Word id="1071" stime="466.79" dur="0.00" conf="0.950"> ... </Word>
+<Word id="1072" stime="467.58" dur="0.80" conf="0.100"> three </Word>
+<Word id="1073" stime="468.38" dur="0.80" conf="0.100"> little </Word>
+<Word id="1074" stime="469.18" dur="0.80" conf="0.100"> kittens </Word>
+<Word id="1075" stime="469.98" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1076" stime="470.77" dur="0.79" conf="0.100"> Three </Word>
+<Word id="1077" stime="471.57" dur="0.80" conf="0.100"> little </Word>
+<Word id="1078" stime="472.37" dur="0.80" conf="0.100"> pigs </Word>
+<Word id="1079" stime="473.17" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1080" stime="473.97" dur="0.80" conf="0.100"> God </Word>
+<Word id="1081" stime="474.77" dur="0.00" conf="0.100"> , </Word>
+<Word id="1082" stime="474.77" dur="0.79" conf="0.100"> I </Word>
+<Word id="1083" stime="475.56" dur="0.79" conf="0.100"> don't </Word>
+<Word id="1084" stime="476.36" dur="0.80" conf="0.100"> know </Word>
+<Word id="1085" stime="477.16" dur="0.00" conf="0.950"> . </Word>
+<Word id="1086" stime="477.96" dur="0.80" conf="0.100"> Star </Word>
+<Word id="1087" stime="478.76" dur="0.80" conf="0.100"> Wars </Word>
+<Word id="1088" stime="479.56" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1089" stime="480.35" dur="0.80" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1090" stime="481.15" dur="0.80" conf="0.100"> Did </Word>
+<Word id="1091" stime="481.95" dur="0.80" conf="0.100"> we </Word>
+<Word id="1092" stime="482.75" dur="0.80" conf="0.100"> win </Word>
+<Word id="1093" stime="483.55" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1094" stime="484.35" dur="0.79" conf="0.100"> Can </Word>
+<Word id="1095" stime="485.14" dur="0.80" conf="0.100"> we </Word>
+<Word id="1096" stime="485.94" dur="0.80" conf="0.100"> go </Word>
+<Word id="1097" stime="486.74" dur="0.80" conf="0.100"> to </Word>
+<Word id="1098" stime="487.54" dur="0.80" conf="0.100"> bed </Word>
+<Word id="1099" stime="488.33" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1100" stime="489.13" dur="0.80" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1101" stime="489.93" dur="0.80" conf="0.100"> Good </Word>
+<Word id="1102" stime="490.73" dur="0.13" conf="0.990"> Lord </Word>
+<Word id="1103" stime="490.86" dur="0.00" conf="0.100"> , </Word>
+<Word id="1104" stime="490.86" dur="0.06" conf="0.990"> I </Word>
+<Word id="1105" stime="490.94" dur="0.10" conf="0.990"> could </Word>
+<Word id="1106" stime="491.04" dur="0.15" conf="0.230"> not </Word>
+<Word id="1107" stime="491.21" dur="0.05" conf="0.990"> have </Word>
+<Word id="1108" stime="491.28" dur="0.24" conf="0.990"> made </Word>
+<Word id="1109" stime="491.52" dur="0.21" conf="0.990"> this </Word>
+<Word id="1110" stime="491.76" dur="0.34" conf="0.990"> easier </Word>
+<Word id="1111" stime="492.10" dur="0.00" conf="0.950"> . </Word>
+<Word id="1112" stime="492.49" dur="0.62" conf="0.990"> Hydrogen </Word>
+<Word id="1113" stime="493.11" dur="0.36" conf="0.990"> atom </Word>
+<Word id="1114" stime="493.47" dur="0.00" conf="0.100"> , </Word>
+<Word id="1115" stime="493.77" dur="0.66" conf="0.990"> H </Word>
+<Word id="1116" stime="494.43" dur="0.00" conf="0.100"> , </Word>
+<Word id="1117" stime="494.55" dur="0.38" conf="0.990"> plus </Word>
+<Word id="1118" stime="495.01" dur="0.38" conf="0.990"> pigs </Word>
+<Word id="1119" stime="495.39" dur="0.36" conf="0.990"> minus </Word>
+<Word id="1120" stime="495.86" dur="0.37" conf="0.990"> pea </Word>
+<Word id="1121" stime="496.23" dur="0.00" conf="0.100"> , </Word>
+<Word id="1122" stime="496.77" dur="0.68" conf="0.990"> Higgs </Word>
+<Word id="1123" stime="497.45" dur="0.00" conf="0.950"> . </Word>
+<Word id="1124" stime="497.97" dur="0.69" conf="0.990"> Bow </Word>
+<Word id="1125" stime="498.66" dur="0.00" conf="0.100"> , </Word>
+<Word id="1126" stime="498.99" dur="0.42" conf="0.990"> General </Word>
+<Word id="1127" stime="499.47" dur="0.22" conf="0.990"> Zod </Word>
+<Word id="1128" stime="499.74" dur="0.27" conf="0.990"> trapped </Word>
+<Word id="1129" stime="500.01" dur="0.06" conf="0.990"> in </Word>
+<Word id="1130" stime="500.07" dur="0.09" conf="0.990"> the </Word>
+<Word id="1131" stime="500.16" dur="0.39" conf="0.990"> Phantom </Word>
+<Word id="1132" stime="500.68" dur="0.58" conf="0.990"> Zone </Word>
+<Word id="1133" stime="501.26" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="502.99" etime="507.88" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1134" stime="503.22" dur="0.92" conf="0.990"> Bow-zone </Word>
+<Word id="1135" stime="504.14" dur="0.00" conf="0.950"> . </Word>
+<Word id="1136" stime="504.41" dur="0.72" conf="0.990"> Pear </Word>
+<Word id="1137" stime="505.13" dur="0.00" conf="0.950"> . </Word>
+<Word id="1138" stime="505.55" dur="0.69" conf="0.990"> Tickle </Word>
+<Word id="1139" stime="506.24" dur="0.00" conf="0.950"> . </Word>
+<Word id="1140" stime="507.42" dur="0.43" conf="0.560"> Pear-tickle </Word>
+<Word id="1141" stime="507.85" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="510.83" etime="513.24" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1142" stime="510.83" dur="0.46" conf="0.990"> Higgs </Word>
+<Word id="1143" stime="511.29" dur="0.35" conf="0.990"> Boson </Word>
+<Word id="1144" stime="511.83" dur="0.39" conf="0.990"> Particle </Word>
+<Word id="1145" stime="512.22" dur="0.00" conf="0.950"> . </Word>
+<Word id="1146" stime="512.22" dur="0.18" conf="0.990"> How </Word>
+<Word id="1147" stime="512.42" dur="0.10" conf="0.990"> could </Word>
+<Word id="1148" stime="512.52" dur="0.12" conf="0.990"> you </Word>
+<Word id="1149" stime="512.67" dur="0.12" conf="0.990"> not </Word>
+<Word id="1150" stime="512.79" dur="0.15" conf="0.990"> get </Word>
+<Word id="1151" stime="512.94" dur="0.23" conf="0.990"> that </Word>
+<Word id="1152" stime="513.17" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="513.95" etime="516.26" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1153" stime="513.95" dur="0.77" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1154" stime="514.72" dur="0.19" conf="0.990"> He's </Word>
+<Word id="1155" stime="514.91" dur="0.22" conf="0.990"> right </Word>
+<Word id="1156" stime="515.13" dur="0.00" conf="0.100"> , </Word>
+<Word id="1157" stime="515.24" dur="0.24" conf="0.990"> Penny </Word>
+<Word id="1158" stime="515.48" dur="0.00" conf="0.950"> . </Word>
+<Word id="1159" stime="515.48" dur="0.15" conf="0.990"> It's </Word>
+<Word id="1160" stime="515.63" dur="0.21" conf="0.990"> all </Word>
+<Word id="1161" stime="515.84" dur="0.37" conf="0.990"> there </Word>
+<Word id="1162" stime="516.21" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="517.05" etime="522.97" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="1163" stime="517.05" dur="0.83" conf="0.100"> [penny] </Word>
+<Word id="1164" stime="517.88" dur="0.84" conf="0.100"> Look </Word>
+<Word id="1165" stime="518.72" dur="0.00" conf="0.100"> , </Word>
+<Word id="1166" stime="518.72" dur="0.51" conf="0.990"> Sheldon </Word>
+<Word id="1167" stime="519.23" dur="0.00" conf="0.100"> , </Word>
+<Word id="1168" stime="519.34" dur="0.37" conf="0.990"> sweetie </Word>
+<Word id="1169" stime="519.71" dur="0.00" conf="0.100"> , </Word>
+<Word id="1170" stime="519.76" dur="0.22" conf="0.990"> I </Word>
+<Word id="1171" stime="520.01" dur="0.12" conf="0.990"> know </Word>
+<Word id="1172" stime="520.13" dur="0.18" conf="0.990"> you're </Word>
+<Word id="1173" stime="520.37" dur="0.27" conf="0.990"> feeling </Word>
+<Word id="1174" stime="520.64" dur="0.48" conf="0.990"> insecure </Word>
+<Word id="1175" stime="521.12" dur="0.00" conf="0.100"> , </Word>
+<Word id="1176" stime="521.12" dur="0.15" conf="0.990"> but </Word>
+<Word id="1177" stime="521.27" dur="0.24" conf="0.990"> we've </Word>
+<Word id="1178" stime="521.58" dur="0.29" conf="0.990"> really </Word>
+<Word id="1179" stime="521.87" dur="0.15" conf="0.990"> got </Word>
+<Word id="1180" stime="522.02" dur="0.09" conf="0.990"> to </Word>
+<Word id="1181" stime="522.11" dur="0.12" conf="0.990"> go </Word>
+<Word id="1182" stime="522.23" dur="0.09" conf="0.990"> to </Word>
+<Word id="1183" stime="522.32" dur="0.35" conf="0.990"> sleep </Word>
+<Word id="1184" stime="522.67" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="522.98" etime="530.78" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1185" stime="522.98" dur="0.30" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1186" stime="523.28" dur="0.20" conf="0.990"> All </Word>
+<Word id="1187" stime="523.52" dur="0.30" conf="0.990"> right </Word>
+<Word id="1188" stime="523.82" dur="0.00" conf="0.950"> . </Word>
+<Word id="1189" stime="524.48" dur="0.24" conf="0.990"> I'll </Word>
+<Word id="1190" stime="524.77" dur="0.19" conf="0.990"> take </Word>
+<Word id="1191" stime="524.96" dur="0.09" conf="0.990"> the </Word>
+<Word id="1192" stime="525.10" dur="0.22" conf="0.990"> first </Word>
+<Word id="1193" stime="525.32" dur="0.36" conf="0.990"> watch </Word>
+<Word id="1194" stime="525.68" dur="0.09" conf="0.990"> and </Word>
+<Word id="1195" stime="525.77" dur="0.21" conf="0.990"> wake </Word>
+<Word id="1196" stime="525.98" dur="0.09" conf="0.990"> you </Word>
+<Word id="1197" stime="526.10" dur="0.09" conf="0.990"> at </Word>
+<Word id="1198" stime="526.22" dur="0.13" conf="0.300"> 0400 </Word>
+<Word id="1199" stime="526.35" dur="0.00" conf="0.950"> . </Word>
+<Word id="1200" stime="526.35" dur="0.54" conf="0.360"> [leonard_hofstadter] </Word>
+<Word id="1201" stime="527.07" dur="0.29" conf="0.990"> Great </Word>
+<Word id="1202" stime="527.36" dur="0.00" conf="0.950"> . </Word>
+<Word id="1203" stime="527.39" dur="0.14" conf="0.990"> Good </Word>
+<Word id="1204" stime="527.57" dur="0.34" conf="0.990"> night </Word>
+<Word id="1205" stime="527.91" dur="0.00" conf="0.950"> . </Word>
+<Word id="1206" stime="528.17" dur="0.27" conf="0.100"> [penny] </Word>
+<Word id="1207" stime="528.44" dur="0.19" conf="0.180"> Wait </Word>
+<Word id="1208" stime="528.63" dur="0.00" conf="0.100"> , </Word>
+<Word id="1209" stime="528.68" dur="0.10" conf="0.320"> wait </Word>
+<Word id="1210" stime="528.78" dur="0.00" conf="0.100"> , </Word>
+<Word id="1211" stime="529.19" dur="0.15" conf="0.200"> what's </Word>
+<Word id="1212" stime="529.34" dur="0.55" conf="0.780"> 0400 </Word>
+<Word id="1213" stime="529.89" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1214" stime="530.01" dur="0.12" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1215" stime="530.14" dur="0.34" conf="0.990"> 4am </Word>
+<Word id="1216" stime="530.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="536.33" etime="558.32" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1217" stime="536.33" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="1218" stime="536.69" dur="0.36" conf="0.100"> That's </Word>
+<Word id="1219" stime="537.05" dur="0.00" conf="0.100"> , </Word>
+<Word id="1220" stime="537.05" dur="0.36" conf="0.100"> like </Word>
+<Word id="1221" stime="537.41" dur="0.00" conf="0.100"> , </Word>
+<Word id="1222" stime="537.41" dur="0.36" conf="0.100"> in </Word>
+<Word id="1223" stime="537.77" dur="0.36" conf="0.100"> 45 </Word>
+<Word id="1224" stime="538.13" dur="0.36" conf="0.100"> minutes </Word>
+<Word id="1225" stime="538.49" dur="0.00" conf="0.950"> . </Word>
+<Word id="1226" stime="544.35" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1227" stime="544.71" dur="0.36" conf="0.100"> Just </Word>
+<Word id="1228" stime="545.07" dur="0.36" conf="0.100"> keep </Word>
+<Word id="1229" stime="545.43" dur="0.36" conf="0.100"> walking </Word>
+<Word id="1230" stime="545.79" dur="0.00" conf="0.950"> . </Word>
+<Word id="1231" stime="551.64" dur="0.36" conf="0.100"> [woman_on_tv#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="1232" stime="552.00" dur="0.36" conf="0.100"> It's </Word>
+<Word id="1233" stime="552.36" dur="0.34" conf="0.800"> quiet </Word>
+<Word id="1234" stime="552.70" dur="0.24" conf="0.100"> out </Word>
+<Word id="1235" stime="552.93" dur="0.24" conf="0.100"> there </Word>
+<Word id="1236" stime="553.17" dur="0.00" conf="0.950"> . </Word>
+<Word id="1237" stime="553.40" dur="0.23" conf="0.100"> [man_on_tv#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="1238" stime="553.64" dur="0.24" conf="0.100"> Maybe </Word>
+<Word id="1239" stime="553.88" dur="0.23" conf="0.100"> a </Word>
+<Word id="1240" stime="554.11" dur="0.24" conf="0.100"> little </Word>
+<Word id="1241" stime="554.35" dur="0.23" conf="0.100"> too </Word>
+<Word id="1242" stime="554.58" dur="0.39" conf="0.990"> quiet </Word>
+<Word id="1243" stime="554.97" dur="0.00" conf="0.950"> . </Word>
+<Word id="1244" stime="555.30" dur="0.34" conf="0.100"> [woman_on_tv#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="1245" stime="555.64" dur="0.17" conf="0.990"> Where </Word>
+<Word id="1246" stime="555.82" dur="0.05" conf="0.990"> are </Word>
+<Word id="1247" stime="555.89" dur="0.10" conf="0.990"> you </Word>
+<Word id="1248" stime="555.99" dur="0.13" conf="0.320"> going </Word>
+<Word id="1249" stime="556.12" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1250" stime="556.16" dur="0.04" conf="0.100"> [man_on_tv#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="1251" stime="556.21" dur="0.14" conf="0.200"> Just </Word>
+<Word id="1252" stime="556.41" dur="0.08" conf="0.400"> gonna </Word>
+<Word id="1253" stime="557.22" dur="0.15" conf="0.990"> take </Word>
+<Word id="1254" stime="557.37" dur="0.06" conf="0.990"> a </Word>
+<Word id="1255" stime="557.43" dur="0.09" conf="0.990"> look </Word>
+<Word id="1256" stime="557.56" dur="0.19" conf="0.990"> around </Word>
+<Word id="1257" stime="557.79" dur="0.50" conf="0.990"> outside </Word>
+<Word id="1258" stime="558.29" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="558.38" etime="559.59" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="1259" stime="558.49" dur="0.19" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1260" stime="558.68" dur="0.34" conf="0.990"> Bad </Word>
+<Word id="1261" stime="559.11" dur="0.44" conf="0.990"> idea </Word>
+<Word id="1262" stime="559.55" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="563.15" etime="563.95" spkid="MS7" lang="eng-usa" lconf="1.00">
+<Word id="1263" stime="563.15" dur="0.50" conf="0.100"> [woman_on_tv#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="1264" stime="563.65" dur="0.15" conf="0.100"> No </Word>
+<Word id="1265" stime="563.80" dur="0.00" conf="0.100"> , </Word>
+<Word id="1266" stime="563.80" dur="0.15" conf="0.100"> Jim </Word>
+<Word id="1267" stime="563.95" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="563.95" etime="565.91" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1268" stime="563.95" dur="0.15" conf="0.100"> don't </Word>
+<Word id="1269" stime="564.10" dur="0.15" conf="0.100"> open </Word>
+<Word id="1270" stime="564.25" dur="0.15" conf="0.100"> the </Word>
+<Word id="1271" stime="564.40" dur="0.15" conf="0.100"> door </Word>
+<Word id="1272" stime="564.55" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1273" stime="564.70" dur="0.15" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1274" stime="564.85" dur="0.43" conf="0.990"> Listen </Word>
+<Word id="1275" stime="565.28" dur="0.17" conf="0.990"> to </Word>
+<Word id="1276" stime="565.49" dur="0.12" conf="0.990"> her </Word>
+<Word id="1277" stime="565.61" dur="0.00" conf="0.100"> , </Word>
+<Word id="1278" stime="565.61" dur="0.26" conf="0.990"> Jim </Word>
+<Word id="1279" stime="565.87" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="569.65" etime="571.53" spkid="MS7" lang="eng-usa" lconf="1.00">
+<Word id="1280" stime="569.65" dur="0.36" conf="0.100"> [man_on_tv#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="1281" stime="570.01" dur="0.10" conf="0.990"> Don't </Word>
+<Word id="1282" stime="570.18" dur="0.29" conf="0.990"> worry </Word>
+<Word id="1283" stime="570.47" dur="0.00" conf="0.100"> , </Word>
+<Word id="1284" stime="570.65" dur="0.14" conf="0.990"> there's </Word>
+<Word id="1285" stime="570.83" dur="0.10" conf="0.990"> no </Word>
+<Word id="1286" stime="570.95" dur="0.09" conf="0.990"> one </Word>
+<Word id="1287" stime="571.04" dur="0.13" conf="0.990"> out </Word>
+<Word id="1288" stime="571.17" dur="0.36" conf="0.100"> here </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="571.53" etime="593.03" spkid="MS4" lang="eng-usa" lconf="1.00">
+<Word id="1289" stime="571.53" dur="0.00" conf="0.950"> . </Word>
+<Word id="1290" stime="575.59" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1291" stime="575.95" dur="0.36" conf="0.100"> Leonard </Word>
+<Word id="1292" stime="576.31" dur="0.36" conf="0.100"> and </Word>
+<Word id="1293" stime="576.67" dur="0.36" conf="0.100"> Penny </Word>
+<Word id="1294" stime="577.03" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1295" stime="581.09" dur="0.36" conf="0.100"> Leonard </Word>
+<Word id="1296" stime="581.45" dur="0.36" conf="0.100"> and </Word>
+<Word id="1297" stime="581.80" dur="0.37" conf="0.100"> Penny </Word>
+<Word id="1298" stime="582.16" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1299" stime="586.22" dur="0.36" conf="0.100"> Leonard </Word>
+<Word id="1300" stime="586.58" dur="0.36" conf="0.100"> and </Word>
+<Word id="1301" stime="586.94" dur="0.36" conf="0.100"> Penny </Word>
+<Word id="1302" stime="587.30" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1303" stime="591.36" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1304" stime="591.72" dur="1.01" conf="0.230"> Who </Word>
+<Word id="1305" stime="592.73" dur="0.15" conf="0.100"> is </Word>
+<Word id="1306" stime="592.88" dur="0.14" conf="0.100"> it </Word>
+<Word id="1307" stime="593.02" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="593.06" etime="611.02" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1308" stime="593.16" dur="0.14" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="1309" stime="593.31" dur="0.25" conf="0.990"> All </Word>
+<Word id="1310" stime="593.61" dur="0.24" conf="0.990"> right </Word>
+<Word id="1311" stime="593.85" dur="0.00" conf="0.100"> , </Word>
+<Word id="1312" stime="593.88" dur="0.15" conf="0.990"> we've </Word>
+<Word id="1313" stime="594.07" dur="0.14" conf="0.990"> got </Word>
+<Word id="1314" stime="594.21" dur="0.06" conf="0.990"> a </Word>
+<Word id="1315" stime="594.27" dur="0.66" conf="0.990"> titanium </Word>
+<Word id="1316" stime="594.98" dur="0.22" conf="0.990"> dead </Word>
+<Word id="1317" stime="595.25" dur="0.18" conf="0.990"> bolt </Word>
+<Word id="1318" stime="595.47" dur="0.09" conf="0.990"> and </Word>
+<Word id="1319" stime="595.56" dur="0.06" conf="0.990"> a </Word>
+<Word id="1320" stime="595.75" dur="0.53" conf="0.990"> reinforced </Word>
+<Word id="1321" stime="596.35" dur="0.29" conf="0.990"> jamb </Word>
+<Word id="1322" stime="596.64" dur="0.39" conf="0.990"> controlled </Word>
+<Word id="1323" stime="597.03" dur="0.15" conf="0.990"> by </Word>
+<Word id="1324" stime="597.18" dur="0.06" conf="0.990"> a </Word>
+<Word id="1325" stime="597.24" dur="0.24" conf="0.380"> state-of-the-art </Word>
+<Word id="1326" stime="597.84" dur="0.51" conf="0.990"> electronic </Word>
+<Word id="1327" stime="598.35" dur="0.42" conf="0.990"> access </Word>
+<Word id="1328" stime="598.77" dur="0.45" conf="0.990"> system </Word>
+<Word id="1329" stime="599.22" dur="0.00" conf="0.950"> . </Word>
+<Word id="1330" stime="599.33" dur="0.10" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1331" stime="599.43" dur="0.21" conf="0.990"> What </Word>
+<Word id="1332" stime="599.64" dur="0.09" conf="0.990"> if </Word>
+<Word id="1333" stime="599.73" dur="0.09" conf="0.990"> they </Word>
+<Word id="1334" stime="599.82" dur="0.18" conf="0.990"> cut </Word>
+<Word id="1335" stime="600.00" dur="0.09" conf="0.990"> the </Word>
+<Word id="1336" stime="600.09" dur="0.35" conf="0.990"> power </Word>
+<Word id="1337" stime="600.44" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1338" stime="600.50" dur="0.06" conf="0.100"> [raj_koothrappali] </Word>
+<Word id="1339" stime="600.57" dur="0.14" conf="0.990"> There's </Word>
+<Word id="1340" stime="600.75" dur="0.06" conf="0.990"> a </Word>
+<Word id="1341" stime="600.81" dur="0.69" conf="0.670"> 200-watt </Word>
+<Word id="1342" stime="601.56" dur="0.60" conf="0.740"> uninterruptible </Word>
+<Word id="1343" stime="602.31" dur="0.19" conf="0.990"> backup </Word>
+<Word id="1344" stime="602.61" dur="0.27" conf="0.990"> power </Word>
+<Word id="1345" stime="602.88" dur="0.42" conf="0.990"> supply </Word>
+<Word id="1346" stime="603.30" dur="0.00" conf="0.950"> . </Word>
+<Word id="1347" stime="603.40" dur="0.10" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1348" stime="603.51" dur="0.21" conf="0.990"> What </Word>
+<Word id="1349" stime="603.72" dur="0.06" conf="0.990"> if </Word>
+<Word id="1350" stime="603.78" dur="0.17" conf="0.990"> someone </Word>
+<Word id="1351" stime="603.99" dur="0.27" conf="0.990"> steals </Word>
+<Word id="1352" stime="604.26" dur="0.12" conf="0.990"> my </Word>
+<Word id="1353" stime="604.49" dur="0.34" conf="0.990"> keys </Word>
+<Word id="1354" stime="604.83" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1355" stime="604.85" dur="0.01" conf="0.100"> [raj_koothrappali] </Word>
+<Word id="1356" stime="604.86" dur="0.09" conf="0.990"> There </Word>
+<Word id="1357" stime="604.95" dur="0.06" conf="0.990"> are </Word>
+<Word id="1358" stime="605.04" dur="0.57" conf="0.990"> independent </Word>
+<Word id="1359" stime="605.67" dur="0.27" conf="0.990"> voice </Word>
+<Word id="1360" stime="605.97" dur="0.12" conf="0.990"> and </Word>
+<Word id="1361" stime="606.19" dur="0.41" conf="0.990"> fingerprint </Word>
+<Word id="1362" stime="606.72" dur="0.54" conf="0.990"> scanners </Word>
+<Word id="1363" stime="607.26" dur="0.00" conf="0.950"> . </Word>
+<Word id="1364" stime="607.41" dur="0.15" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1365" stime="607.56" dur="0.18" conf="0.990"> What </Word>
+<Word id="1366" stime="607.74" dur="0.06" conf="0.990"> if </Word>
+<Word id="1367" stime="607.80" dur="0.22" conf="0.530"> someone </Word>
+<Word id="1368" stime="608.17" dur="0.41" conf="0.990"> kidnaps </Word>
+<Word id="1369" stime="608.58" dur="0.15" conf="0.990"> me </Word>
+<Word id="1370" stime="608.73" dur="0.00" conf="0.100"> , </Word>
+<Word id="1371" stime="608.73" dur="0.36" conf="0.990"> forces </Word>
+<Word id="1372" stime="609.11" dur="0.10" conf="0.990"> me </Word>
+<Word id="1373" stime="609.21" dur="0.09" conf="0.990"> to </Word>
+<Word id="1374" stime="609.30" dur="0.30" conf="0.990"> record </Word>
+<Word id="1375" stime="609.64" dur="0.14" conf="0.990"> my </Word>
+<Word id="1376" stime="609.83" dur="0.22" conf="0.990"> voice </Word>
+<Word id="1377" stime="610.05" dur="0.00" conf="0.100"> , </Word>
+<Word id="1378" stime="610.07" dur="0.07" conf="0.990"> and </Word>
+<Word id="1379" stime="610.14" dur="0.09" conf="0.990"> then </Word>
+<Word id="1380" stime="610.23" dur="0.18" conf="0.990"> cuts </Word>
+<Word id="1381" stime="610.44" dur="0.12" conf="0.990"> off </Word>
+<Word id="1382" stime="610.56" dur="0.15" conf="0.990"> my </Word>
+<Word id="1383" stime="610.71" dur="0.29" conf="0.990"> thumb </Word>
+<Word id="1384" stime="611.00" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="612.74" etime="614.78" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1385" stime="612.74" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1386" stime="613.10" dur="0.16" conf="0.990"> I'll </Word>
+<Word id="1387" stime="613.31" dur="0.19" conf="0.990"> send </Word>
+<Word id="1388" stime="613.50" dur="0.09" conf="0.990"> them </Word>
+<Word id="1389" stime="613.59" dur="0.06" conf="0.990"> a </Word>
+<Word id="1390" stime="613.65" dur="0.39" conf="0.990"> basket </Word>
+<Word id="1391" stime="614.04" dur="0.09" conf="0.990"> of </Word>
+<Word id="1392" stime="614.25" dur="0.50" conf="0.990"> muffins </Word>
+<Word id="1393" stime="614.75" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="616.43" etime="624.78" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1394" stime="616.43" dur="0.36" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="1395" stime="616.79" dur="0.30" conf="0.990"> Now </Word>
+<Word id="1396" stime="617.09" dur="0.00" conf="0.100"> , </Word>
+<Word id="1397" stime="617.22" dur="0.84" conf="0.990"> inside </Word>
+<Word id="1398" stime="618.06" dur="0.00" conf="0.100"> , </Word>
+<Word id="1399" stime="618.10" dur="0.20" conf="0.990"> we've </Word>
+<Word id="1400" stime="618.35" dur="0.19" conf="0.990"> got </Word>
+<Word id="1401" stime="618.63" dur="0.39" conf="0.990"> motion </Word>
+<Word id="1402" stime="619.02" dur="0.63" conf="0.990"> detectors </Word>
+<Word id="1403" stime="619.65" dur="0.00" conf="0.100"> , </Word>
+<Word id="1404" stime="619.80" dur="0.63" conf="0.990"> infrared </Word>
+<Word id="1405" stime="620.56" dur="0.53" conf="0.990"> sensors </Word>
+<Word id="1406" stime="621.09" dur="0.00" conf="0.100"> , </Word>
+<Word id="1407" stime="621.13" dur="0.17" conf="0.990"> and </Word>
+<Word id="1408" stime="621.30" dur="0.64" conf="0.990"> cameras </Word>
+<Word id="1409" stime="622.23" dur="0.48" conf="0.990"> connected </Word>
+<Word id="1410" stime="622.75" dur="0.17" conf="0.990"> to </Word>
+<Word id="1411" stime="622.95" dur="0.15" conf="0.990"> a </Word>
+<Word id="1412" stime="623.10" dur="0.57" conf="0.990"> server </Word>
+<Word id="1413" stime="623.82" dur="0.36" conf="0.990"> running </Word>
+<Word id="1414" stime="624.18" dur="0.30" conf="0.380"> state-of-the-art </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="624.87" etime="634.36" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1415" stime="624.87" dur="0.37" conf="0.990"> facial </Word>
+<Word id="1416" stime="625.36" dur="0.48" conf="0.990"> recognition </Word>
+<Word id="1417" stime="625.84" dur="0.57" conf="0.990"> software </Word>
+<Word id="1418" stime="626.41" dur="0.00" conf="0.950"> . </Word>
+<Word id="1419" stime="626.62" dur="0.21" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1420" stime="626.83" dur="0.21" conf="0.990"> Where </Word>
+<Word id="1421" stime="627.04" dur="0.12" conf="0.990"> did </Word>
+<Word id="1422" stime="627.16" dur="0.12" conf="0.990"> you </Word>
+<Word id="1423" stime="627.32" dur="0.17" conf="0.990"> get </Word>
+<Word id="1424" stime="627.49" dur="0.15" conf="0.990"> all </Word>
+<Word id="1425" stime="627.68" dur="0.17" conf="0.990"> this </Word>
+<Word id="1426" stime="627.85" dur="0.37" conf="0.990"> stuff </Word>
+<Word id="1427" stime="628.22" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1428" stime="628.41" dur="0.18" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="1429" stime="628.59" dur="0.19" conf="0.100"> I </Word>
+<Word id="1430" stime="628.78" dur="0.24" conf="0.990"> got </Word>
+<Word id="1431" stime="629.05" dur="0.12" conf="0.990"> a </Word>
+<Word id="1432" stime="629.22" dur="0.30" conf="0.990"> buddy </Word>
+<Word id="1433" stime="629.59" dur="0.21" conf="0.990"> over </Word>
+<Word id="1434" stime="629.80" dur="0.09" conf="0.990"> at </Word>
+<Word id="1435" stime="629.89" dur="0.06" conf="0.990"> the </Word>
+<Word id="1436" stime="629.95" dur="0.48" conf="0.990"> Department </Word>
+<Word id="1437" stime="630.43" dur="0.06" conf="0.990"> of </Word>
+<Word id="1438" stime="630.49" dur="0.49" conf="0.990"> Defence </Word>
+<Word id="1439" stime="630.98" dur="0.00" conf="0.950"> . </Word>
+<Word id="1440" stime="631.07" dur="0.08" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1441" stime="631.15" dur="0.12" conf="0.990"> He </Word>
+<Word id="1442" stime="631.27" dur="0.21" conf="0.990"> just </Word>
+<Word id="1443" stime="631.48" dur="0.24" conf="0.990"> gave </Word>
+<Word id="1444" stime="631.72" dur="0.09" conf="0.990"> it </Word>
+<Word id="1445" stime="631.83" dur="0.07" conf="0.990"> to </Word>
+<Word id="1446" stime="631.90" dur="0.19" conf="0.990"> you </Word>
+<Word id="1447" stime="632.09" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1448" stime="632.34" dur="0.24" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="1449" stime="632.58" dur="0.25" conf="0.100"> I'm </Word>
+<Word id="1450" stime="632.83" dur="0.23" conf="0.460"> sure </Word>
+<Word id="1451" stime="633.16" dur="0.15" conf="0.270"> he </Word>
+<Word id="1452" stime="633.31" dur="0.11" conf="0.100"> would </Word>
+<Word id="1453" stime="633.42" dur="0.07" conf="0.100"> have </Word>
+<Word id="1454" stime="633.51" dur="0.10" conf="0.990"> if </Word>
+<Word id="1455" stime="633.61" dur="0.06" conf="0.990"> I </Word>
+<Word id="1456" stime="633.67" dur="0.09" conf="0.990"> had </Word>
+<Word id="1457" stime="633.87" dur="0.46" conf="0.990"> asked </Word>
+<Word id="1458" stime="634.33" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="635.67" etime="637.46" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1459" stime="635.67" dur="0.40" conf="0.990"> Ironically </Word>
+<Word id="1460" stime="636.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="1461" stime="636.07" dur="0.12" conf="0.990"> their </Word>
+<Word id="1462" stime="636.19" dur="0.51" conf="0.990"> security </Word>
+<Word id="1463" stime="636.70" dur="0.14" conf="0.990"> isn't </Word>
+<Word id="1464" stime="636.88" dur="0.12" conf="0.990"> all </Word>
+<Word id="1465" stime="637.00" dur="0.14" conf="0.990"> that </Word>
+<Word id="1466" stime="637.18" dur="0.28" conf="0.990"> good </Word>
+<Word id="1467" stime="637.46" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="637.94" etime="650.71" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1468" stime="637.94" dur="0.47" conf="0.100"> [penny] </Word>
+<Word id="1469" stime="638.41" dur="0.48" conf="0.100"> Raj </Word>
+<Word id="1470" stime="638.89" dur="0.00" conf="0.100"> , </Word>
+<Word id="1471" stime="638.89" dur="0.48" conf="0.100"> your </Word>
+<Word id="1472" stime="639.37" dur="0.47" conf="0.100"> car </Word>
+<Word id="1473" stime="639.84" dur="0.48" conf="0.100"> is </Word>
+<Word id="1474" stime="640.32" dur="0.47" conf="0.100"> blocking </Word>
+<Word id="1475" stime="640.79" dur="0.48" conf="0.100"> me </Word>
+<Word id="1476" stime="641.27" dur="0.00" conf="0.950"> ... </Word>
+<Word id="1477" stime="641.75" dur="0.47" conf="0.100"> What </Word>
+<Word id="1478" stime="642.22" dur="0.48" conf="0.100"> the </Word>
+<Word id="1479" stime="642.70" dur="0.47" conf="0.100"> hell </Word>
+<Word id="1480" stime="643.17" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1481" stime="643.65" dur="0.48" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1482" stime="644.13" dur="0.47" conf="0.100"> Sorry </Word>
+<Word id="1483" stime="644.60" dur="0.00" conf="0.100"> , </Word>
+<Word id="1484" stime="644.60" dur="0.48" conf="0.100"> let </Word>
+<Word id="1485" stime="645.08" dur="0.48" conf="0.100"> me </Word>
+<Word id="1486" stime="645.55" dur="0.48" conf="0.100"> help </Word>
+<Word id="1487" stime="646.03" dur="0.48" conf="0.100"> you </Word>
+<Word id="1488" stime="646.51" dur="0.00" conf="0.950"> . </Word>
+<Word id="1489" stime="646.98" dur="0.48" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1490" stime="647.46" dur="0.39" conf="0.990"> Wonderful </Word>
+<Word id="1491" stime="647.85" dur="0.60" conf="0.990"> security </Word>
+<Word id="1492" stime="648.45" dur="0.45" conf="0.990"> system </Word>
+<Word id="1493" stime="648.92" dur="0.10" conf="0.990"> if </Word>
+<Word id="1494" stime="649.02" dur="0.12" conf="0.990"> we're </Word>
+<Word id="1495" stime="649.14" dur="0.36" conf="0.990"> attacked </Word>
+<Word id="1496" stime="649.50" dur="0.12" conf="0.990"> by </Word>
+<Word id="1497" stime="649.65" dur="0.06" conf="0.990"> a </Word>
+<Word id="1498" stime="649.71" dur="0.33" conf="0.990"> school </Word>
+<Word id="1499" stime="650.04" dur="0.09" conf="0.990"> of </Word>
+<Word id="1500" stime="650.13" dur="0.35" conf="0.990"> tuna </Word>
+<Word id="1501" stime="650.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="651.02" etime="657.04" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1502" stime="651.02" dur="0.53" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="1503" stime="651.55" dur="0.54" conf="0.100"> Don't </Word>
+<Word id="1504" stime="652.09" dur="0.25" conf="0.990"> worry </Word>
+<Word id="1505" stime="652.34" dur="0.00" conf="0.100"> , </Word>
+<Word id="1506" stime="652.34" dur="0.13" conf="0.990"> the </Word>
+<Word id="1507" stime="652.50" dur="0.23" conf="0.990"> net's </Word>
+<Word id="1508" stime="652.73" dur="0.12" conf="0.990"> going </Word>
+<Word id="1509" stime="652.85" dur="0.06" conf="0.990"> to </Word>
+<Word id="1510" stime="652.93" dur="0.10" conf="0.990"> be </Word>
+<Word id="1511" stime="653.03" dur="0.84" conf="0.990"> electrified </Word>
+<Word id="1512" stime="653.87" dur="0.00" conf="0.950"> . </Word>
+<Word id="1513" stime="653.99" dur="0.27" conf="0.990"> Picture </Word>
+<Word id="1514" stime="654.38" dur="0.12" conf="0.990"> her </Word>
+<Word id="1515" stime="654.55" dur="0.19" conf="0.990"> on </Word>
+<Word id="1516" stime="654.74" dur="0.12" conf="0.990"> the </Word>
+<Word id="1517" stime="654.95" dur="0.36" conf="0.990"> floor </Word>
+<Word id="1518" stime="655.31" dur="0.00" conf="0.100"> , </Word>
+<Word id="1519" stime="655.45" dur="0.61" conf="0.990"> spasming </Word>
+<Word id="1520" stime="656.25" dur="0.78" conf="0.990"> uncontrollably </Word>
+<Word id="1521" stime="657.03" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="659.37" etime="671.59" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="1522" stime="659.37" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1523" stime="659.73" dur="0.36" conf="0.100"> Better </Word>
+<Word id="1524" stime="660.09" dur="0.00" conf="0.950"> . </Word>
+<Word id="1525" stime="662.42" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1526" stime="662.78" dur="0.60" conf="0.990"> Sheldon's </Word>
+<Word id="1527" stime="663.46" dur="0.37" conf="0.990"> journal </Word>
+<Word id="1528" stime="663.83" dur="0.00" conf="0.950"> . </Word>
+<Word id="1529" stime="664.73" dur="0.57" conf="0.990"> Security </Word>
+<Word id="1530" stime="665.30" dur="0.39" conf="0.990"> system </Word>
+<Word id="1531" stime="665.69" dur="0.12" conf="0.990"> in </Word>
+<Word id="1532" stime="665.81" dur="0.54" conf="0.990"> place </Word>
+<Word id="1533" stime="666.35" dur="0.00" conf="0.950"> . </Word>
+<Word id="1534" stime="666.65" dur="0.39" conf="0.990"> However </Word>
+<Word id="1535" stime="667.04" dur="0.00" conf="0.100"> , </Word>
+<Word id="1536" stime="667.04" dur="0.36" conf="0.990"> sleep </Word>
+<Word id="1537" stime="667.46" dur="0.54" conf="0.990"> continues </Word>
+<Word id="1538" stime="668.00" dur="0.15" conf="0.990"> to </Word>
+<Word id="1539" stime="668.15" dur="0.30" conf="0.990"> elude </Word>
+<Word id="1540" stime="668.45" dur="0.27" conf="0.990"> me </Word>
+<Word id="1541" stime="668.72" dur="0.00" conf="0.950"> . </Word>
+<Word id="1542" stime="669.45" dur="0.21" conf="0.990"> I've </Word>
+<Word id="1543" stime="669.71" dur="0.21" conf="0.990"> seen </Word>
+<Word id="1544" stime="669.92" dur="0.15" conf="0.990"> the </Word>
+<Word id="1545" stime="670.07" dur="0.60" conf="0.990"> underbelly </Word>
+<Word id="1546" stime="670.69" dur="0.10" conf="0.990"> of </Word>
+<Word id="1547" stime="670.79" dur="0.55" conf="0.990"> Pasadena </Word>
+<Word id="1548" stime="671.34" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="673.37" etime="675.59" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1549" stime="673.37" dur="0.25" conf="0.990"> this </Word>
+<Word id="1550" stime="673.83" dur="0.36" conf="0.990"> so-called </Word>
+<Word id="1551" stime="674.27" dur="0.34" conf="0.990"> City </Word>
+<Word id="1552" stime="674.61" dur="0.12" conf="0.990"> of </Word>
+<Word id="1553" stime="674.73" dur="0.63" conf="0.990"> Roses </Word>
+<Word id="1554" stime="675.36" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="676.70" etime="679.71" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="1555" stime="676.75" dur="0.08" conf="0.100"> and </Word>
+<Word id="1556" stime="676.83" dur="0.15" conf="0.320"> it </Word>
+<Word id="1557" stime="676.98" dur="0.30" conf="0.990"> haunts </Word>
+<Word id="1558" stime="677.28" dur="0.24" conf="0.990"> me </Word>
+<Word id="1559" stime="677.52" dur="0.00" conf="0.950"> . </Word>
+<Word id="1560" stime="678.51" dur="0.09" conf="0.100"> Ah </Word>
+<Word id="1561" stime="678.60" dur="0.00" conf="0.100"> , </Word>
+<Word id="1562" stime="678.72" dur="0.15" conf="0.400"> the </Word>
+<Word id="1563" stime="678.87" dur="0.64" conf="0.990"> injustice </Word>
+<Word id="1564" stime="679.51" dur="0.00" conf="0.100"> , </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="681.18" etime="689.13" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1565" stime="681.18" dur="0.22" conf="0.990"> I </Word>
+<Word id="1566" stime="681.45" dur="0.19" conf="0.990"> lie </Word>
+<Word id="1567" stime="681.64" dur="0.27" conf="0.990"> here </Word>
+<Word id="1568" stime="681.91" dur="0.51" conf="0.990"> awake </Word>
+<Word id="1569" stime="682.42" dur="0.00" conf="0.100"> , </Word>
+<Word id="1570" stime="682.60" dur="0.78" conf="0.990"> tormented </Word>
+<Word id="1571" stime="683.38" dur="0.00" conf="0.100"> , </Word>
+<Word id="1572" stime="683.83" dur="0.33" conf="0.990"> while </Word>
+<Word id="1573" stime="684.16" dur="0.21" conf="0.990"> out </Word>
+<Word id="1574" stime="684.37" dur="0.18" conf="0.990"> there </Word>
+<Word id="1575" stime="684.58" dur="0.39" conf="0.990"> evil </Word>
+<Word id="1576" stime="685.06" dur="0.60" conf="0.990"> lurks </Word>
+<Word id="1577" stime="685.66" dur="0.00" conf="0.100"> , </Word>
+<Word id="1578" stime="686.56" dur="0.30" conf="0.990"> probably </Word>
+<Word id="1579" stime="686.91" dur="0.19" conf="0.990"> playing </Word>
+<Word id="1580" stime="687.10" dur="0.39" conf="0.990"> Donkey </Word>
+<Word id="1581" stime="687.56" dur="0.26" conf="0.990"> Kong </Word>
+<Word id="1582" stime="687.82" dur="0.09" conf="0.320"> on </Word>
+<Word id="1583" stime="687.91" dur="0.18" conf="0.990"> my </Word>
+<Word id="1584" stime="688.09" dur="0.39" conf="0.990"> classic </Word>
+<Word id="1585" stime="688.48" dur="0.61" conf="0.990"> Nintendo </Word>
+<Word id="1586" stime="689.09" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="720.60" etime="721.70" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1587" stime="720.82" dur="0.30" conf="0.990"> Oh </Word>
+<Word id="1588" stime="721.12" dur="0.00" conf="0.100"> , </Word>
+<Word id="1589" stime="721.27" dur="0.41" conf="0.990"> dear </Word>
+<Word id="1590" stime="721.68" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="724.56" etime="727.09" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1591" stime="724.61" dur="0.29" conf="0.990"> I </Word>
+<Word id="1592" stime="725.04" dur="0.31" conf="0.990"> am </Word>
+<Word id="1593" stime="725.38" dur="0.12" conf="0.990"> the </Word>
+<Word id="1594" stime="725.50" dur="0.46" conf="0.990"> master </Word>
+<Word id="1595" stime="726.07" dur="0.15" conf="0.990"> of </Word>
+<Word id="1596" stime="726.22" dur="0.18" conf="0.990"> my </Word>
+<Word id="1597" stime="726.45" dur="0.16" conf="0.990"> own </Word>
+<Word id="1598" stime="726.70" dur="0.39" conf="0.990"> bladder </Word>
+<Word id="1599" stime="727.09" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="730.50" etime="755.24" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1600" stime="730.50" dur="0.36" conf="0.100"> Leonard </Word>
+<Word id="1601" stime="730.86" dur="0.36" conf="0.100"> and </Word>
+<Word id="1602" stime="731.22" dur="0.36" conf="0.100"> Penny </Word>
+<Word id="1603" stime="731.58" dur="0.00" conf="0.950"> . </Word>
+<Word id="1604" stime="734.98" dur="0.36" conf="0.100"> Leonard </Word>
+<Word id="1605" stime="735.34" dur="0.36" conf="0.100"> and </Word>
+<Word id="1606" stime="735.70" dur="0.36" conf="0.100"> Penny </Word>
+<Word id="1607" stime="736.06" dur="0.00" conf="0.950"> . </Word>
+<Word id="1608" stime="739.47" dur="0.36" conf="0.100"> Leonard </Word>
+<Word id="1609" stime="739.83" dur="0.36" conf="0.100"> and </Word>
+<Word id="1610" stime="740.19" dur="0.36" conf="0.100"> Penny </Word>
+<Word id="1611" stime="740.55" dur="0.00" conf="0.950"> . </Word>
+<Word id="1612" stime="743.96" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="1613" stime="744.32" dur="0.36" conf="0.100"> Oh </Word>
+<Word id="1614" stime="744.68" dur="0.00" conf="0.100"> , </Word>
+<Word id="1615" stime="744.68" dur="0.36" conf="0.100"> my </Word>
+<Word id="1616" stime="745.04" dur="0.00" conf="0.950"> ... </Word>
+<Word id="1617" stime="748.44" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1618" stime="748.80" dur="0.36" conf="0.100"> God </Word>
+<Word id="1619" stime="749.16" dur="0.00" conf="0.100"> , </Word>
+<Word id="1620" stime="749.16" dur="0.36" conf="0.100"> Sheldon </Word>
+<Word id="1621" stime="749.52" dur="0.00" conf="0.950"> . </Word>
+<Word id="1622" stime="752.93" dur="0.36" conf="0.100"> What </Word>
+<Word id="1623" stime="753.29" dur="0.19" conf="0.990"> the </Word>
+<Word id="1624" stime="753.48" dur="0.33" conf="0.990"> hell </Word>
+<Word id="1625" stime="753.81" dur="0.09" conf="0.990"> are </Word>
+<Word id="1626" stime="753.90" dur="0.15" conf="0.990"> you </Word>
+<Word id="1627" stime="754.12" dur="0.35" conf="0.990"> doing </Word>
+<Word id="1628" stime="754.51" dur="0.17" conf="0.990"> out </Word>
+<Word id="1629" stime="754.68" dur="0.54" conf="0.990"> there </Word>
+<Word id="1630" stime="755.22" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="757.85" etime="759.20" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1631" stime="757.85" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1632" stime="758.21" dur="0.18" conf="0.990"> I </Word>
+<Word id="1633" stime="758.39" dur="0.18" conf="0.990"> heard </Word>
+<Word id="1634" stime="758.57" dur="0.06" conf="0.990"> a </Word>
+<Word id="1635" stime="758.73" dur="0.41" conf="0.990"> noise </Word>
+<Word id="1636" stime="759.14" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="761.37" etime="766.12" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1637" stime="761.37" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1638" stime="761.73" dur="0.14" conf="0.990"> It </Word>
+<Word id="1639" stime="761.87" dur="0.21" conf="0.990"> was </Word>
+<Word id="1640" stime="762.11" dur="0.39" conf="0.990"> us </Word>
+<Word id="1641" stime="762.50" dur="0.00" conf="0.950"> . </Word>
+<Word id="1642" stime="762.56" dur="0.12" conf="0.990"> We </Word>
+<Word id="1643" stime="762.71" dur="0.27" conf="0.990"> knocked </Word>
+<Word id="1644" stime="762.98" dur="0.24" conf="0.990"> over </Word>
+<Word id="1645" stime="763.22" dur="0.09" conf="0.990"> a </Word>
+<Word id="1646" stime="763.41" dur="0.47" conf="0.990"> lamp </Word>
+<Word id="1647" stime="763.88" dur="0.00" conf="0.950"> . </Word>
+<Word id="1648" stime="764.32" dur="0.43" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1649" stime="764.75" dur="0.24" conf="0.990"> Why </Word>
+<Word id="1650" stime="765.01" dur="0.10" conf="0.990"> would </Word>
+<Word id="1651" stime="765.11" dur="0.09" conf="0.990"> you </Word>
+<Word id="1652" stime="765.20" dur="0.21" conf="0.990"> knock </Word>
+<Word id="1653" stime="765.41" dur="0.21" conf="0.990"> over </Word>
+<Word id="1654" stime="765.62" dur="0.06" conf="0.990"> a </Word>
+<Word id="1655" stime="765.76" dur="0.33" conf="0.990"> lamp </Word>
+<Word id="1656" stime="766.09" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="766.43" etime="775.51" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1657" stime="766.43" dur="0.35" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1658" stime="766.78" dur="0.34" conf="0.100"> We </Word>
+<Word id="1659" stime="767.12" dur="0.35" conf="0.100"> were </Word>
+<Word id="1660" stime="767.47" dur="0.34" conf="0.100"> going </Word>
+<Word id="1661" stime="767.81" dur="0.35" conf="0.100"> to </Word>
+<Word id="1662" stime="768.16" dur="0.34" conf="0.100"> have </Word>
+<Word id="1663" stime="768.50" dur="0.00" conf="0.950"> ... </Word>
+<Word id="1664" stime="768.85" dur="0.34" conf="0.100"> [penny] </Word>
+<Word id="1665" stime="769.19" dur="0.34" conf="0.100"> He </Word>
+<Word id="1666" stime="769.53" dur="0.35" conf="0.100"> doesn't </Word>
+<Word id="1667" stime="769.88" dur="0.34" conf="0.100"> need </Word>
+<Word id="1668" stime="770.22" dur="0.35" conf="0.100"> to </Word>
+<Word id="1669" stime="770.57" dur="0.34" conf="0.100"> know </Word>
+<Word id="1670" stime="770.91" dur="0.35" conf="0.100"> what </Word>
+<Word id="1671" stime="771.25" dur="0.34" conf="0.100"> we </Word>
+<Word id="1672" stime="771.60" dur="0.34" conf="0.100"> were </Word>
+<Word id="1673" stime="771.94" dur="0.35" conf="0.100"> doing </Word>
+<Word id="1674" stime="772.29" dur="0.00" conf="0.100"> , </Word>
+<Word id="1675" stime="772.29" dur="0.34" conf="0.100"> Leonard </Word>
+<Word id="1676" stime="772.63" dur="0.00" conf="0.950"> . </Word>
+<Word id="1677" stime="772.98" dur="0.34" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1678" stime="773.32" dur="0.35" conf="0.100"> Oh </Word>
+<Word id="1679" stime="773.67" dur="0.00" conf="0.950"> ! </Word>
+<Word id="1680" stime="774.01" dur="0.11" conf="0.990"> No </Word>
+<Word id="1681" stime="774.12" dur="0.00" conf="0.100"> , </Word>
+<Word id="1682" stime="774.15" dur="0.18" conf="0.990"> she's </Word>
+<Word id="1683" stime="774.33" dur="0.15" conf="0.990"> right </Word>
+<Word id="1684" stime="774.48" dur="0.00" conf="0.100"> , </Word>
+<Word id="1685" stime="774.48" dur="0.09" conf="0.990"> I </Word>
+<Word id="1686" stime="774.57" dur="0.15" conf="0.990"> don't </Word>
+<Word id="1687" stime="774.72" dur="0.12" conf="0.990"> need </Word>
+<Word id="1688" stime="774.84" dur="0.06" conf="0.990"> to </Word>
+<Word id="1689" stime="774.90" dur="0.12" conf="0.990"> know </Word>
+<Word id="1690" stime="775.02" dur="0.09" conf="0.990"> what </Word>
+<Word id="1691" stime="775.13" dur="0.07" conf="0.990"> you </Word>
+<Word id="1692" stime="775.20" dur="0.09" conf="0.990"> were </Word>
+<Word id="1693" stime="775.29" dur="0.19" conf="0.990"> doing </Word>
+<Word id="1694" stime="775.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="777.22" etime="780.59" spkid="MS6" lang="eng-usa" lconf="1.00">
+<Word id="1695" stime="777.47" dur="0.33" conf="0.990"> Carry </Word>
+<Word id="1696" stime="777.80" dur="0.22" conf="0.990"> on </Word>
+<Word id="1697" stime="778.02" dur="0.00" conf="0.950"> . </Word>
+<Word id="1698" stime="778.39" dur="0.37" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1699" stime="778.77" dur="0.14" conf="0.990"> What </Word>
+<Word id="1700" stime="778.91" dur="0.06" conf="0.100"> are </Word>
+<Word id="1701" stime="779.00" dur="0.09" conf="0.990"> you </Word>
+<Word id="1702" stime="779.13" dur="0.12" conf="0.460"> doing </Word>
+<Word id="1703" stime="779.25" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1704" stime="779.47" dur="0.31" conf="0.690"> Use </Word>
+<Word id="1705" stime="779.78" dur="0.07" conf="0.320"> the </Word>
+<Word id="1706" stime="780.00" dur="0.59" conf="0.990"> door </Word>
+<Word id="1707" stime="780.59" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="781.32" etime="783.04" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1708" stime="781.32" dur="0.72" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1709" stime="782.04" dur="0.30" conf="0.990"> Good </Word>
+<Word id="1710" stime="782.34" dur="0.40" conf="0.990"> thinking </Word>
+<Word id="1711" stime="782.74" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="784.29" etime="792.13" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1712" stime="784.48" dur="0.30" conf="0.990"> Perhaps </Word>
+<Word id="1713" stime="784.78" dur="0.12" conf="0.100"> I'll </Word>
+<Word id="1714" stime="785.29" dur="0.24" conf="0.990"> check </Word>
+<Word id="1715" stime="785.53" dur="0.09" conf="0.990"> the </Word>
+<Word id="1716" stime="785.62" dur="0.48" conf="0.990"> perimeter </Word>
+<Word id="1717" stime="786.12" dur="0.10" conf="0.990"> and </Word>
+<Word id="1718" stime="786.22" dur="0.18" conf="0.990"> make </Word>
+<Word id="1719" stime="786.40" dur="0.18" conf="0.990"> some </Word>
+<Word id="1720" stime="786.64" dur="0.27" conf="0.990"> warm </Word>
+<Word id="1721" stime="786.91" dur="0.36" conf="0.990"> milk </Word>
+<Word id="1722" stime="787.27" dur="0.00" conf="0.950"> . </Word>
+<Word id="1723" stime="787.50" dur="0.22" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1724" stime="787.72" dur="0.53" conf="0.990"> Great </Word>
+<Word id="1725" stime="788.25" dur="0.00" conf="0.100"> , </Word>
+<Word id="1726" stime="788.66" dur="0.17" conf="0.990"> you </Word>
+<Word id="1727" stime="788.83" dur="0.21" conf="0.990"> do </Word>
+<Word id="1728" stime="789.04" dur="0.35" conf="0.990"> that </Word>
+<Word id="1729" stime="789.39" dur="0.00" conf="0.950"> . </Word>
+<Word id="1730" stime="789.67" dur="0.28" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1731" stime="789.96" dur="0.19" conf="0.990"> Would </Word>
+<Word id="1732" stime="790.18" dur="0.12" conf="0.990"> you </Word>
+<Word id="1733" stime="790.30" dur="0.21" conf="0.990"> like </Word>
+<Word id="1734" stime="790.51" dur="0.12" conf="0.990"> me </Word>
+<Word id="1735" stime="790.63" dur="0.09" conf="0.990"> to </Word>
+<Word id="1736" stime="790.72" dur="0.21" conf="0.990"> bring </Word>
+<Word id="1737" stime="790.97" dur="0.17" conf="0.990"> you </Word>
+<Word id="1738" stime="791.14" dur="0.24" conf="0.990"> some </Word>
+<Word id="1739" stime="791.38" dur="0.22" conf="0.990"> warm </Word>
+<Word id="1740" stime="791.65" dur="0.38" conf="0.990"> milk </Word>
+<Word id="1741" stime="792.03" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="792.56" etime="797.77" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1742" stime="792.56" dur="0.53" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1743" stime="793.09" dur="0.14" conf="0.990"> I'm </Word>
+<Word id="1744" stime="793.23" dur="0.48" conf="0.990"> lactose </Word>
+<Word id="1745" stime="793.71" dur="0.84" conf="0.990"> intolerant </Word>
+<Word id="1746" stime="794.55" dur="0.00" conf="0.950"> . </Word>
+<Word id="1747" stime="794.67" dur="0.12" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1748" stime="794.79" dur="0.24" conf="0.990"> And </Word>
+<Word id="1749" stime="795.06" dur="0.12" conf="0.990"> you </Word>
+<Word id="1750" stime="795.18" dur="0.15" conf="0.990"> don't </Word>
+<Word id="1751" stime="795.36" dur="0.18" conf="0.990"> wish </Word>
+<Word id="1752" stime="795.54" dur="0.15" conf="0.990"> to </Word>
+<Word id="1753" stime="795.69" dur="0.24" conf="0.990"> alarm </Word>
+<Word id="1754" stime="795.99" dur="0.09" conf="0.990"> me </Word>
+<Word id="1755" stime="796.08" dur="0.12" conf="0.990"> with </Word>
+<Word id="1756" stime="796.20" dur="0.15" conf="0.990"> any </Word>
+<Word id="1757" stime="796.35" dur="0.18" conf="0.990"> more </Word>
+<Word id="1758" stime="796.53" dur="0.24" conf="0.990"> loud </Word>
+<Word id="1759" stime="796.77" dur="0.31" conf="0.990"> noises </Word>
+<Word id="1760" stime="797.08" dur="0.00" conf="0.100"> , </Word>
+<Word id="1761" stime="797.20" dur="0.17" conf="0.990"> very </Word>
+<Word id="1762" stime="797.37" dur="0.40" conf="0.990"> thoughtful </Word>
+<Word id="1763" stime="797.77" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="799.46" etime="801.78" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="1764" stime="799.53" dur="0.29" conf="0.990"> Warm </Word>
+<Word id="1765" stime="799.89" dur="0.27" conf="0.990"> milk </Word>
+<Word id="1766" stime="800.16" dur="0.00" conf="0.100"> , </Word>
+<Word id="1767" stime="800.24" dur="0.34" conf="0.990"> Penny </Word>
+<Word id="1768" stime="800.58" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1769" stime="800.73" dur="0.15" conf="0.100"> [penny] </Word>
+<Word id="1770" stime="800.88" dur="0.26" conf="0.640"> No </Word>
+<Word id="1771" stime="801.14" dur="0.00" conf="0.100"> , </Word>
+<Word id="1772" stime="801.21" dur="0.27" conf="0.530"> thanks </Word>
+<Word id="1773" stime="801.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="802.10" etime="806.25" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1774" stime="802.10" dur="0.61" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1775" stime="802.71" dur="0.62" conf="0.100"> Fine </Word>
+<Word id="1776" stime="803.33" dur="0.00" conf="0.950"> . </Word>
+<Word id="1777" stime="803.94" dur="0.30" conf="0.990"> Good </Word>
+<Word id="1778" stime="804.24" dur="0.19" conf="0.990"> night </Word>
+<Word id="1779" stime="804.48" dur="0.12" conf="0.990"> to </Word>
+<Word id="1780" stime="804.60" dur="0.12" conf="0.990"> you </Word>
+<Word id="1781" stime="804.72" dur="0.00" conf="0.100"> , </Word>
+<Word id="1782" stime="804.72" dur="0.39" conf="0.990"> sir </Word>
+<Word id="1783" stime="805.11" dur="0.00" conf="0.950"> . </Word>
+<Word id="1784" stime="805.57" dur="0.38" conf="0.990"> Miss </Word>
+<Word id="1785" stime="805.95" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="808.98" etime="812.03" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="1786" stime="808.98" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1787" stime="809.34" dur="0.54" conf="0.990"> Sorry </Word>
+<Word id="1788" stime="809.88" dur="0.27" conf="0.990"> about </Word>
+<Word id="1789" stime="810.15" dur="0.24" conf="0.990"> that </Word>
+<Word id="1790" stime="810.39" dur="0.00" conf="0.950"> . </Word>
+<Word id="1791" stime="810.57" dur="0.18" conf="0.100"> [penny] </Word>
+<Word id="1792" stime="810.75" dur="0.18" conf="0.100"> Ugh </Word>
+<Word id="1793" stime="810.93" dur="0.00" conf="0.100"> , </Word>
+<Word id="1794" stime="810.93" dur="0.22" conf="0.990"> what </Word>
+<Word id="1795" stime="811.20" dur="0.18" conf="0.990"> can </Word>
+<Word id="1796" stime="811.40" dur="0.10" conf="0.990"> you </Word>
+<Word id="1797" stime="811.50" dur="0.34" conf="0.990"> do </Word>
+<Word id="1798" stime="811.84" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="820.32" etime="831.51" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1799" stime="820.32" dur="0.36" conf="0.100"> Here </Word>
+<Word id="1800" stime="820.68" dur="0.00" conf="0.950"> . </Word>
+<Word id="1801" stime="829.16" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1802" stime="829.52" dur="0.17" conf="0.990"> Looks </Word>
+<Word id="1803" stime="829.69" dur="0.14" conf="0.990"> like </Word>
+<Word id="1804" stime="829.87" dur="0.45" conf="0.990"> Wolowitz </Word>
+<Word id="1805" stime="830.36" dur="0.14" conf="0.990"> got </Word>
+<Word id="1806" stime="830.50" dur="0.09" conf="0.990"> the </Word>
+<Word id="1807" stime="830.59" dur="0.18" conf="0.990"> net </Word>
+<Word id="1808" stime="830.77" dur="0.71" conf="0.990"> electrified </Word>
+<Word id="1809" stime="831.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="836.68" etime="838.87" spkid="FS7" lang="eng-usa" lconf="1.00">
+<Word id="1810" stime="836.90" dur="0.09" conf="0.100"> [penny] </Word>
+<Word id="1811" stime="836.99" dur="0.09" conf="0.400"> Sheldon </Word>
+<Word id="1812" stime="837.08" dur="0.00" conf="0.100"> , </Word>
+<Word id="1813" stime="837.08" dur="0.01" conf="0.100"> are </Word>
+<Word id="1814" stime="837.09" dur="0.01" conf="0.100"> you </Word>
+<Word id="1815" stime="837.10" dur="0.01" conf="0.100"> okay </Word>
+<Word id="1816" stime="837.11" dur="0.00" conf="0.950"> ? </Word>
+<Word id="1817" stime="837.12" dur="0.01" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1818" stime="837.13" dur="0.01" conf="0.100"> I'm </Word>
+<Word id="1819" stime="837.14" dur="0.17" conf="0.400"> fine </Word>
+<Word id="1820" stime="837.31" dur="0.00" conf="0.950"> . </Word>
+<Word id="1821" stime="837.35" dur="0.06" conf="0.320"> Although </Word>
+<Word id="1822" stime="837.41" dur="0.01" conf="0.100"> I'm </Word>
+<Word id="1823" stime="837.42" dur="0.00" conf="0.100"> no </Word>
+<Word id="1824" stime="837.42" dur="0.01" conf="0.100"> longer </Word>
+<Word id="1825" stime="837.43" dur="0.07" conf="0.990"> the </Word>
+<Word id="1826" stime="837.50" dur="0.34" conf="0.990"> master </Word>
+<Word id="1827" stime="837.92" dur="0.06" conf="0.990"> of </Word>
+<Word id="1828" stime="837.98" dur="0.18" conf="0.990"> my </Word>
+<Word id="1829" stime="838.16" dur="0.16" conf="0.990"> own </Word>
+<Word id="1830" stime="838.37" dur="0.42" conf="0.990"> bladder </Word>
+<Word id="1831" stime="838.79" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="843.79" etime="846.37" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1832" stime="843.79" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1833" stime="844.15" dur="0.25" conf="0.990"> My </Word>
+<Word id="1834" stime="844.44" dur="0.14" conf="0.990"> new </Word>
+<Word id="1835" stime="844.67" dur="0.39" conf="0.990"> computer </Word>
+<Word id="1836" stime="845.10" dur="0.14" conf="0.990"> came </Word>
+<Word id="1837" stime="845.24" dur="0.12" conf="0.990"> with </Word>
+<Word id="1838" stime="845.36" dur="0.32" conf="0.990"> Windows </Word>
+<Word id="1839" stime="845.68" dur="0.39" conf="0.990"> 7 </Word>
+<Word id="1840" stime="846.07" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="848.65" etime="851.39" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1841" stime="848.65" dur="0.30" conf="0.990"> Windows </Word>
+<Word id="1842" stime="849.02" dur="0.30" conf="0.990"> 7 </Word>
+<Word id="1843" stime="849.32" dur="0.06" conf="0.990"> is </Word>
+<Word id="1844" stime="849.41" dur="0.12" conf="0.990"> much </Word>
+<Word id="1845" stime="849.53" dur="0.15" conf="0.990"> more </Word>
+<Word id="1846" stime="849.68" dur="0.57" conf="0.610"> user-friendly </Word>
+<Word id="1847" stime="850.25" dur="0.12" conf="0.990"> than </Word>
+<Word id="1848" stime="850.37" dur="0.30" conf="0.990"> Windows </Word>
+<Word id="1849" stime="850.76" dur="0.33" conf="0.990"> Vista </Word>
+<Word id="1850" stime="851.09" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="852.80" etime="853.64" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1851" stime="852.80" dur="0.16" conf="0.990"> I </Word>
+<Word id="1852" stime="852.96" dur="0.12" conf="0.990"> don't </Word>
+<Word id="1853" stime="853.11" dur="0.21" conf="0.990"> like </Word>
+<Word id="1854" stime="853.32" dur="0.22" conf="0.990"> that </Word>
+<Word id="1855" stime="853.54" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="857.89" etime="861.78" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="1856" stime="857.89" dur="0.36" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="1857" stime="858.25" dur="0.06" conf="0.460"> Don't </Word>
+<Word id="1858" stime="858.31" dur="0.06" conf="0.990"> you </Word>
+<Word id="1859" stime="858.41" dur="0.17" conf="0.990"> think </Word>
+<Word id="1860" stime="858.58" dur="0.24" conf="0.990"> looking </Word>
+<Word id="1861" stime="858.82" dur="0.12" conf="0.990"> for </Word>
+<Word id="1862" stime="858.94" dur="0.09" conf="0.990"> a </Word>
+<Word id="1863" stime="859.03" dur="0.18" conf="0.990"> new </Word>
+<Word id="1864" stime="859.28" dur="0.26" conf="0.990"> city </Word>
+<Word id="1865" stime="859.54" dur="0.09" conf="0.990"> to </Word>
+<Word id="1866" stime="859.63" dur="0.21" conf="0.990"> live </Word>
+<Word id="1867" stime="859.84" dur="0.15" conf="0.990"> in </Word>
+<Word id="1868" stime="860.01" dur="0.10" conf="0.990"> is </Word>
+<Word id="1869" stime="860.11" dur="0.09" conf="0.990"> a </Word>
+<Word id="1870" stime="860.27" dur="0.26" conf="0.990"> bit </Word>
+<Word id="1871" stime="860.53" dur="0.12" conf="0.990"> of </Word>
+<Word id="1872" stime="860.65" dur="0.06" conf="0.990"> an </Word>
+<Word id="1873" stime="860.71" dur="0.77" conf="0.990"> overreaction </Word>
+<Word id="1874" stime="861.48" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="861.83" etime="870.11" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1875" stime="861.83" dur="0.34" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="1876" stime="862.17" dur="0.27" conf="0.990"> Our </Word>
+<Word id="1877" stime="862.44" dur="0.54" conf="0.990"> apartment </Word>
+<Word id="1878" stime="862.98" dur="0.15" conf="0.990"> was </Word>
+<Word id="1879" stime="863.13" dur="0.39" conf="0.990"> broken </Word>
+<Word id="1880" stime="863.52" dur="0.35" conf="0.990"> into </Word>
+<Word id="1881" stime="863.87" dur="0.00" conf="0.100"> , </Word>
+<Word id="1882" stime="864.00" dur="0.25" conf="0.990"> our </Word>
+<Word id="1883" stime="864.25" dur="0.56" conf="0.990"> security </Word>
+<Word id="1884" stime="864.81" dur="0.33" conf="0.990"> system </Word>
+<Word id="1885" stime="865.14" dur="0.30" conf="0.990"> tried </Word>
+<Word id="1886" stime="865.44" dur="0.12" conf="0.990"> to </Word>
+<Word id="1887" stime="865.56" dur="0.30" conf="0.990"> kill </Word>
+<Word id="1888" stime="865.86" dur="0.30" conf="0.990"> me </Word>
+<Word id="1889" stime="866.16" dur="0.00" conf="0.100"> , </Word>
+<Word id="1890" stime="866.20" dur="0.14" conf="0.990"> and </Word>
+<Word id="1891" stime="866.34" dur="0.12" conf="0.990"> as </Word>
+<Word id="1892" stime="866.46" dur="0.09" conf="0.990"> a </Word>
+<Word id="1893" stime="866.55" dur="0.41" conf="0.990"> result </Word>
+<Word id="1894" stime="866.96" dur="0.00" conf="0.100"> , </Word>
+<Word id="1895" stime="867.15" dur="0.21" conf="0.990"> I'm </Word>
+<Word id="1896" stime="867.36" dur="0.24" conf="0.990"> leaving </Word>
+<Word id="1897" stime="867.60" dur="0.54" conf="0.990"> Pasadena </Word>
+<Word id="1898" stime="868.22" dur="0.34" conf="0.990"> forever </Word>
+<Word id="1899" stime="868.56" dur="0.00" conf="0.950"> . </Word>
+<Word id="1900" stime="868.59" dur="0.30" conf="0.990"> Tell </Word>
+<Word id="1901" stime="868.89" dur="0.12" conf="0.990"> me </Word>
+<Word id="1902" stime="869.04" dur="0.12" conf="0.990"> how </Word>
+<Word id="1903" stime="869.16" dur="0.18" conf="0.990"> that's </Word>
+<Word id="1904" stime="869.34" dur="0.53" conf="0.990"> overreacting </Word>
+<Word id="1905" stime="869.87" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="870.08" etime="871.03" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="1906" stime="870.08" dur="0.21" conf="0.100"> [penny] </Word>
+<Word id="1907" stime="870.29" dur="0.44" conf="0.100"> Come </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="871.44" etime="876.77" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="1908" stime="871.65" dur="0.16" conf="0.270"> on </Word>
+<Word id="1909" stime="871.81" dur="0.00" conf="0.100"> , </Word>
+<Word id="1910" stime="871.88" dur="0.32" conf="0.990"> Sheldon </Word>
+<Word id="1911" stime="872.20" dur="0.00" conf="0.100"> , </Word>
+<Word id="1912" stime="872.20" dur="0.09" conf="0.990"> you </Word>
+<Word id="1913" stime="872.29" dur="0.33" conf="0.990"> can't </Word>
+<Word id="1914" stime="872.62" dur="0.49" conf="0.990"> move </Word>
+<Word id="1915" stime="873.11" dur="0.00" conf="0.950"> . </Word>
+<Word id="1916" stime="873.31" dur="0.19" conf="0.990"> Don't </Word>
+<Word id="1917" stime="873.55" dur="0.06" conf="0.990"> you </Word>
+<Word id="1918" stime="873.61" dur="0.12" conf="0.990"> need </Word>
+<Word id="1919" stime="873.73" dur="0.06" conf="0.990"> to </Word>
+<Word id="1920" stime="873.79" dur="0.24" conf="0.990"> stay </Word>
+<Word id="1921" stime="874.03" dur="0.09" conf="0.990"> in </Word>
+<Word id="1922" stime="874.12" dur="0.21" conf="0.990"> one </Word>
+<Word id="1923" stime="874.33" dur="0.31" conf="0.990"> place </Word>
+<Word id="1924" stime="874.72" dur="0.09" conf="0.990"> so </Word>
+<Word id="1925" stime="874.81" dur="0.09" conf="0.990"> the </Word>
+<Word id="1926" stime="874.90" dur="0.24" conf="0.990"> mother </Word>
+<Word id="1927" stime="875.14" dur="0.19" conf="0.990"> ship </Word>
+<Word id="1928" stime="875.38" dur="0.15" conf="0.990"> can </Word>
+<Word id="1929" stime="875.53" dur="0.30" conf="0.990"> find </Word>
+<Word id="1930" stime="875.83" dur="0.12" conf="0.990"> you </Word>
+<Word id="1931" stime="875.95" dur="0.12" conf="0.990"> when </Word>
+<Word id="1932" stime="876.07" dur="0.09" conf="0.990"> it </Word>
+<Word id="1933" stime="876.16" dur="0.46" conf="0.990"> returns </Word>
+<Word id="1934" stime="876.62" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="878.26" etime="879.05" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="1935" stime="878.56" dur="0.43" conf="0.100"> [sheldon_cooper] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="879.05" etime="880.69" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1936" stime="879.11" dur="0.13" conf="0.990"> Oh </Word>
+<Word id="1937" stime="879.24" dur="0.00" conf="0.100"> , </Word>
+<Word id="1938" stime="879.27" dur="0.12" conf="0.990"> if </Word>
+<Word id="1939" stime="879.39" dur="0.15" conf="0.990"> that </Word>
+<Word id="1940" stime="879.54" dur="0.18" conf="0.990"> were </Word>
+<Word id="1941" stime="879.72" dur="0.39" conf="0.990"> only </Word>
+<Word id="1942" stime="880.11" dur="0.40" conf="0.990"> true </Word>
+<Word id="1943" stime="880.51" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="881.54" etime="898.47" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="1944" stime="881.69" dur="0.58" conf="0.990"> Unfortunately </Word>
+<Word id="1945" stime="882.27" dur="0.00" conf="0.100"> , </Word>
+<Word id="1946" stime="882.27" dur="0.12" conf="0.990"> as </Word>
+<Word id="1947" stime="882.39" dur="0.21" conf="0.990"> I'm </Word>
+<Word id="1948" stime="882.63" dur="0.69" conf="0.990"> earthbound </Word>
+<Word id="1949" stime="883.32" dur="0.15" conf="0.990"> for </Word>
+<Word id="1950" stime="883.47" dur="0.09" conf="0.990"> the </Word>
+<Word id="1951" stime="883.56" dur="0.45" conf="0.990"> foreseeable </Word>
+<Word id="1952" stime="884.01" dur="0.46" conf="0.990"> future </Word>
+<Word id="1953" stime="884.47" dur="0.00" conf="0.100"> , </Word>
+<Word id="1954" stime="884.58" dur="0.12" conf="0.990"> I </Word>
+<Word id="1955" stime="884.70" dur="0.15" conf="0.990"> need </Word>
+<Word id="1956" stime="884.85" dur="0.09" conf="0.990"> to </Word>
+<Word id="1957" stime="884.94" dur="0.33" conf="0.990"> find </Word>
+<Word id="1958" stime="885.27" dur="0.03" conf="0.990"> a </Word>
+<Word id="1959" stime="885.30" dur="0.69" conf="0.990"> location </Word>
+<Word id="1960" stime="885.99" dur="0.12" conf="0.990"> that's </Word>
+<Word id="1961" stime="886.11" dur="0.18" conf="0.990"> more </Word>
+<Word id="1962" stime="886.29" dur="0.69" conf="0.990"> hospitable </Word>
+<Word id="1963" stime="886.98" dur="0.12" conf="0.990"> than </Word>
+<Word id="1964" stime="887.10" dur="0.09" conf="0.990"> the </Word>
+<Word id="1965" stime="887.19" dur="0.24" conf="0.990"> mean </Word>
+<Word id="1966" stime="887.43" dur="0.36" conf="0.990"> streets </Word>
+<Word id="1967" stime="887.79" dur="0.09" conf="0.990"> of </Word>
+<Word id="1968" stime="887.88" dur="0.60" conf="0.990"> Pasadena </Word>
+<Word id="1969" stime="888.48" dur="0.00" conf="0.950"> . </Word>
+<Word id="1970" stime="888.84" dur="0.88" conf="0.990"> Like </Word>
+<Word id="1971" stime="890.22" dur="0.45" conf="0.990"> Enid </Word>
+<Word id="1972" stime="890.67" dur="0.00" conf="0.100"> , </Word>
+<Word id="1973" stime="890.67" dur="0.73" conf="0.990"> Oklahoma </Word>
+<Word id="1974" stime="891.40" dur="0.00" conf="0.950"> . </Word>
+<Word id="1975" stime="892.47" dur="0.21" conf="0.990"> Low </Word>
+<Word id="1976" stime="892.77" dur="0.36" conf="0.990"> crime </Word>
+<Word id="1977" stime="893.13" dur="0.39" conf="0.990"> rate </Word>
+<Word id="1978" stime="893.55" dur="0.12" conf="0.990"> and </Word>
+<Word id="1979" stime="893.80" dur="0.50" conf="0.990"> high-speed </Word>
+<Word id="1980" stime="894.33" dur="0.39" conf="0.990"> Internet </Word>
+<Word id="1981" stime="894.91" dur="0.77" conf="0.990"> connectivity </Word>
+<Word id="1982" stime="895.68" dur="0.00" conf="0.100"> , </Word>
+<Word id="1983" stime="896.34" dur="0.24" conf="0.990"> but </Word>
+<Word id="1984" stime="896.58" dur="0.30" conf="0.990"> no </Word>
+<Word id="1985" stime="896.88" dur="0.33" conf="0.990"> model </Word>
+<Word id="1986" stime="897.21" dur="0.33" conf="0.990"> train </Word>
+<Word id="1987" stime="897.66" dur="0.51" conf="0.990"> shops </Word>
+<Word id="1988" stime="898.17" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="900.49" etime="901.97" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="1989" stime="900.53" dur="0.54" conf="0.990"> Sorry </Word>
+<Word id="1990" stime="901.07" dur="0.00" conf="0.100"> , </Word>
+<Word id="1991" stime="901.15" dur="0.52" conf="0.990"> Enid </Word>
+<Word id="1992" stime="901.67" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="904.99" etime="910.97" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="1993" stime="904.99" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="1994" stime="905.35" dur="0.36" conf="0.100"> Is </Word>
+<Word id="1995" stime="905.71" dur="0.11" conf="0.990"> he </Word>
+<Word id="1996" stime="905.88" dur="0.27" conf="0.990"> quitting </Word>
+<Word id="1997" stime="906.15" dur="0.09" conf="0.990"> his </Word>
+<Word id="1998" stime="906.29" dur="0.19" conf="0.990"> job </Word>
+<Word id="1999" stime="906.48" dur="0.09" conf="0.990"> at </Word>
+<Word id="2000" stime="906.57" dur="0.09" conf="0.990"> the </Word>
+<Word id="2001" stime="906.66" dur="0.49" conf="0.990"> university </Word>
+<Word id="2002" stime="907.15" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2003" stime="907.30" dur="0.15" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="2004" stime="907.45" dur="0.11" conf="0.990"> Oh </Word>
+<Word id="2005" stime="907.56" dur="0.00" conf="0.100"> , </Word>
+<Word id="2006" stime="907.56" dur="0.12" conf="0.990"> no </Word>
+<Word id="2007" stime="907.68" dur="0.00" conf="0.100"> , </Word>
+<Word id="2008" stime="907.72" dur="0.14" conf="0.990"> he's </Word>
+<Word id="2009" stime="907.89" dur="0.12" conf="0.990"> going </Word>
+<Word id="2010" stime="908.01" dur="0.06" conf="0.990"> to </Word>
+<Word id="2011" stime="908.07" dur="0.50" conf="0.990"> telecommute </Word>
+<Word id="2012" stime="908.57" dur="0.00" conf="0.950"> . </Word>
+<Word id="2013" stime="909.45" dur="0.45" conf="0.990"> Everybody's </Word>
+<Word id="2014" stime="909.94" dur="0.17" conf="0.990"> really </Word>
+<Word id="2015" stime="910.11" dur="0.42" conf="0.990"> excited </Word>
+<Word id="2016" stime="910.53" dur="0.24" conf="0.990"> about </Word>
+<Word id="2017" stime="910.77" dur="0.09" conf="0.990"> it </Word>
+<Word id="2018" stime="910.86" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="912.18" etime="913.09" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="2019" stime="912.48" dur="0.32" conf="0.170"> [sheldon_cooper] </Word>
+<Word id="2020" stime="912.80" dur="0.29" conf="0.100"> All </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="912.95" etime="928.55" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2021" stime="913.09" dur="0.36" conf="0.990"> right </Word>
+<Word id="2022" stime="913.45" dur="0.00" conf="0.950"> . </Word>
+<Word id="2023" stime="913.80" dur="0.58" conf="0.990"> Boone </Word>
+<Word id="2024" stime="914.38" dur="0.00" conf="0.100"> , </Word>
+<Word id="2025" stime="914.58" dur="0.45" conf="0.990"> North </Word>
+<Word id="2026" stime="915.03" dur="0.69" conf="0.990"> Carolina </Word>
+<Word id="2027" stime="915.72" dur="0.00" conf="0.950"> . </Word>
+<Word id="2028" stime="916.29" dur="0.30" conf="0.990"> Every </Word>
+<Word id="2029" stime="916.59" dur="0.30" conf="0.990"> summer </Word>
+<Word id="2030" stime="916.89" dur="0.17" conf="0.990"> since </Word>
+<Word id="2031" stime="917.06" dur="0.87" conf="0.990"> 1952 </Word>
+<Word id="2032" stime="917.93" dur="0.00" conf="0.100"> , </Word>
+<Word id="2033" stime="918.12" dur="0.63" conf="0.990"> Boone </Word>
+<Word id="2034" stime="918.79" dur="0.17" conf="0.990"> has </Word>
+<Word id="2035" stime="918.96" dur="0.36" conf="0.990"> hosted </Word>
+<Word id="2036" stime="919.32" dur="0.09" conf="0.990"> an </Word>
+<Word id="2037" stime="919.48" dur="0.32" conf="0.990"> outdoor </Word>
+<Word id="2038" stime="919.83" dur="0.66" conf="0.990"> amphitheater </Word>
+<Word id="2039" stime="920.49" dur="0.51" conf="0.990"> portrayal </Word>
+<Word id="2040" stime="921.21" dur="0.15" conf="0.990"> of </Word>
+<Word id="2041" stime="921.36" dur="0.09" conf="0.990"> the </Word>
+<Word id="2042" stime="921.45" dur="0.30" conf="0.990"> life </Word>
+<Word id="2043" stime="921.75" dur="0.12" conf="0.990"> and </Word>
+<Word id="2044" stime="921.87" dur="0.33" conf="0.990"> times </Word>
+<Word id="2045" stime="922.20" dur="0.09" conf="0.990"> of </Word>
+<Word id="2046" stime="922.29" dur="0.15" conf="0.990"> its </Word>
+<Word id="2047" stime="922.61" dur="0.73" conf="0.990"> namesake </Word>
+<Word id="2048" stime="923.34" dur="0.00" conf="0.100"> , </Word>
+<Word id="2049" stime="923.58" dur="0.58" conf="0.990"> Dan'l </Word>
+<Word id="2050" stime="924.30" dur="0.57" conf="0.990"> Boone </Word>
+<Word id="2051" stime="924.87" dur="0.00" conf="0.950"> . </Word>
+<Word id="2052" stime="926.54" dur="0.22" conf="0.990"> Sounds </Word>
+<Word id="2053" stime="926.76" dur="0.12" conf="0.990"> like </Word>
+<Word id="2054" stime="926.88" dur="0.21" conf="0.990"> something </Word>
+<Word id="2055" stime="927.09" dur="0.09" conf="0.990"> that </Word>
+<Word id="2056" stime="927.18" dur="0.10" conf="0.990"> would </Word>
+<Word id="2057" stime="927.30" dur="0.30" conf="0.990"> attract </Word>
+<Word id="2058" stime="927.60" dur="0.06" conf="0.990"> the </Word>
+<Word id="2059" stime="927.66" dur="0.24" conf="0.990"> wrong </Word>
+<Word id="2060" stime="928.01" dur="0.43" conf="0.990"> crowd </Word>
+<Word id="2061" stime="928.44" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="931.69" etime="933.99" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="2062" stime="931.82" dur="0.21" conf="0.990"> Penny </Word>
+<Word id="2063" stime="932.03" dur="0.00" conf="0.100"> , </Word>
+<Word id="2064" stime="932.06" dur="0.12" conf="0.990"> you're </Word>
+<Word id="2065" stime="932.18" dur="0.15" conf="0.990"> from </Word>
+<Word id="2066" stime="932.33" dur="0.60" conf="0.990"> Nebraska </Word>
+<Word id="2067" stime="932.93" dur="0.00" conf="0.100"> , </Word>
+<Word id="2068" stime="933.03" dur="0.41" conf="0.990"> correct </Word>
+<Word id="2069" stime="933.44" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2070" stime="933.50" dur="0.06" conf="0.100"> [penny] </Word>
+<Word id="2071" stime="933.56" dur="0.33" conf="0.990"> Born </Word>
+<Word id="2072" stime="933.89" dur="0.09" conf="0.990"> and </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="933.98" etime="952.16" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2073" stime="933.98" dur="0.36" conf="0.100"> raised </Word>
+<Word id="2074" stime="934.34" dur="0.00" conf="0.950"> . </Word>
+<Word id="2075" stime="940.50" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2076" stime="940.86" dur="0.15" conf="0.990"> It </Word>
+<Word id="2077" stime="941.01" dur="0.15" conf="0.990"> will </Word>
+<Word id="2078" stime="941.16" dur="0.19" conf="0.990"> take </Word>
+<Word id="2079" stime="941.40" dur="0.15" conf="0.990"> me </Word>
+<Word id="2080" stime="941.55" dur="0.09" conf="0.990"> a </Word>
+<Word id="2081" stime="941.69" dur="0.19" conf="0.990"> few </Word>
+<Word id="2082" stime="941.88" dur="0.31" conf="0.990"> days </Word>
+<Word id="2083" stime="942.27" dur="0.12" conf="0.990"> to </Word>
+<Word id="2084" stime="942.39" dur="0.15" conf="0.990"> get </Word>
+<Word id="2085" stime="942.54" dur="0.45" conf="0.990"> settled </Word>
+<Word id="2086" stime="942.99" dur="0.00" conf="0.950"> . </Word>
+<Word id="2087" stime="943.20" dur="0.33" conf="0.990"> After </Word>
+<Word id="2088" stime="943.53" dur="0.15" conf="0.990"> I </Word>
+<Word id="2089" stime="943.73" dur="0.16" conf="0.990"> do </Word>
+<Word id="2090" stime="943.89" dur="0.00" conf="0.100"> , </Word>
+<Word id="2091" stime="943.89" dur="0.12" conf="0.990"> I </Word>
+<Word id="2092" stime="944.04" dur="0.18" conf="0.990"> will </Word>
+<Word id="2093" stime="944.25" dur="0.45" conf="0.990"> e-mail </Word>
+<Word id="2094" stime="944.70" dur="0.15" conf="0.990"> you </Word>
+<Word id="2095" stime="944.97" dur="0.51" conf="0.990"> detailed </Word>
+<Word id="2096" stime="945.61" dur="0.56" conf="0.990"> PDFs </Word>
+<Word id="2097" stime="946.17" dur="0.45" conf="0.990"> containing </Word>
+<Word id="2098" stime="946.73" dur="0.55" conf="0.990"> diagrams </Word>
+<Word id="2099" stime="947.28" dur="0.06" conf="0.990"> and </Word>
+<Word id="2100" stime="947.37" dur="0.63" conf="0.990"> instructions </Word>
+<Word id="2101" stime="948.24" dur="0.15" conf="0.990"> that </Word>
+<Word id="2102" stime="948.39" dur="0.09" conf="0.990"> will </Word>
+<Word id="2103" stime="948.53" dur="0.22" conf="0.990"> guide </Word>
+<Word id="2104" stime="948.75" dur="0.09" conf="0.990"> you </Word>
+<Word id="2105" stime="948.84" dur="0.21" conf="0.990"> through </Word>
+<Word id="2106" stime="949.13" dur="0.31" conf="0.990"> packing </Word>
+<Word id="2107" stime="949.44" dur="0.12" conf="0.990"> and </Word>
+<Word id="2108" stime="949.64" dur="0.31" conf="0.990"> shipping </Word>
+<Word id="2109" stime="949.95" dur="0.09" conf="0.990"> the </Word>
+<Word id="2110" stime="950.04" dur="0.21" conf="0.990"> rest </Word>
+<Word id="2111" stime="950.25" dur="0.06" conf="0.990"> of </Word>
+<Word id="2112" stime="950.31" dur="0.12" conf="0.990"> my </Word>
+<Word id="2113" stime="950.43" dur="0.54" conf="0.990"> possessions </Word>
+<Word id="2114" stime="950.97" dur="0.09" conf="0.990"> to </Word>
+<Word id="2115" stime="951.06" dur="0.34" conf="0.990"> Bozeman </Word>
+<Word id="2116" stime="951.40" dur="0.00" conf="0.100"> , </Word>
+<Word id="2117" stime="951.48" dur="0.38" conf="0.990"> Montana </Word>
+<Word id="2118" stime="951.86" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="953.39" etime="955.38" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2119" stime="953.44" dur="0.14" conf="0.990"> In </Word>
+<Word id="2120" stime="953.58" dur="0.06" conf="0.990"> the </Word>
+<Word id="2121" stime="953.64" dur="0.42" conf="0.990"> meantime </Word>
+<Word id="2122" stime="954.06" dur="0.00" conf="0.100"> , </Word>
+<Word id="2123" stime="954.06" dur="0.21" conf="0.990"> please </Word>
+<Word id="2124" stime="954.33" dur="0.27" conf="0.990"> forward </Word>
+<Word id="2125" stime="954.60" dur="0.15" conf="0.990"> my </Word>
+<Word id="2126" stime="954.75" dur="0.33" conf="0.990"> mail </Word>
+<Word id="2127" stime="955.08" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="955.77" etime="959.79" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="2128" stime="955.77" dur="0.69" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="2129" stime="956.46" dur="0.09" conf="0.990"> Any </Word>
+<Word id="2130" stime="956.60" dur="0.19" conf="0.990"> place </Word>
+<Word id="2131" stime="956.91" dur="0.51" conf="0.990"> specific </Word>
+<Word id="2132" stime="957.42" dur="0.15" conf="0.990"> or </Word>
+<Word id="2133" stime="957.63" dur="0.21" conf="0.990"> just </Word>
+<Word id="2134" stime="957.84" dur="0.24" conf="0.990"> the </Word>
+<Word id="2135" stime="958.17" dur="0.36" conf="0.990"> Bozeman </Word>
+<Word id="2136" stime="958.53" dur="0.00" conf="0.100"> , </Word>
+<Word id="2137" stime="958.62" dur="0.39" conf="0.990"> Montana </Word>
+<Word id="2138" stime="959.01" dur="0.30" conf="0.990"> Loony </Word>
+<Word id="2139" stime="959.37" dur="0.27" conf="0.990"> Bin </Word>
+<Word id="2140" stime="959.64" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="960.54" etime="967.33" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2141" stime="960.54" dur="0.90" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2142" stime="961.45" dur="0.22" conf="0.990"> I </Word>
+<Word id="2143" stime="961.73" dur="0.27" conf="0.990"> sense </Word>
+<Word id="2144" stime="962.00" dur="0.15" conf="0.990"> you're </Word>
+<Word id="2145" stime="962.15" dur="0.39" conf="0.990"> making </Word>
+<Word id="2146" stime="962.54" dur="0.09" conf="0.990"> a </Word>
+<Word id="2147" stime="962.63" dur="0.47" conf="0.990"> joke </Word>
+<Word id="2148" stime="963.10" dur="0.00" conf="0.100"> , </Word>
+<Word id="2149" stime="963.17" dur="0.24" conf="0.990"> but </Word>
+<Word id="2150" stime="963.52" dur="0.46" conf="0.990"> Bozeman </Word>
+<Word id="2151" stime="963.98" dur="0.21" conf="0.990"> does </Word>
+<Word id="2152" stime="964.19" dur="0.15" conf="0.990"> have </Word>
+<Word id="2153" stime="964.34" dur="0.06" conf="0.990"> a </Word>
+<Word id="2154" stime="964.40" dur="0.42" conf="0.990"> comedy </Word>
+<Word id="2155" stime="964.82" dur="0.27" conf="0.990"> club </Word>
+<Word id="2156" stime="965.14" dur="0.19" conf="0.990"> called </Word>
+<Word id="2157" stime="965.33" dur="0.09" conf="0.990"> The </Word>
+<Word id="2158" stime="965.42" dur="0.30" conf="0.990"> Loony </Word>
+<Word id="2159" stime="965.77" dur="0.22" conf="0.990"> Bin </Word>
+<Word id="2160" stime="965.99" dur="0.00" conf="0.100"> , </Word>
+<Word id="2161" stime="966.02" dur="0.12" conf="0.990"> so </Word>
+<Word id="2162" stime="966.14" dur="0.10" conf="0.990"> do </Word>
+<Word id="2163" stime="966.26" dur="0.15" conf="0.990"> not </Word>
+<Word id="2164" stime="966.41" dur="0.27" conf="0.990"> forward </Word>
+<Word id="2165" stime="966.68" dur="0.12" conf="0.990"> my </Word>
+<Word id="2166" stime="966.80" dur="0.21" conf="0.990"> mail </Word>
+<Word id="2167" stime="967.01" dur="0.29" conf="0.990"> there </Word>
+<Word id="2168" stime="967.30" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="967.33" etime="968.83" spkid="FS5" lang="eng-usa" lconf="1.00">
+<Word id="2169" stime="967.33" dur="1.12" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="2170" stime="968.45" dur="0.38" conf="0.100"> Oh </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="968.83" etime="982.20" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2171" stime="968.83" dur="0.00" conf="0.100"> , </Word>
+<Word id="2172" stime="968.83" dur="0.37" conf="0.990"> come </Word>
+<Word id="2173" stime="969.82" dur="0.07" conf="0.320"> on </Word>
+<Word id="2174" stime="969.89" dur="0.00" conf="0.950"> . </Word>
+<Word id="2175" stime="969.92" dur="0.12" conf="0.990"> So </Word>
+<Word id="2176" stime="970.09" dur="0.10" conf="0.990"> you </Word>
+<Word id="2177" stime="970.19" dur="0.12" conf="0.990"> were </Word>
+<Word id="2178" stime="970.31" dur="0.12" conf="0.990"> the </Word>
+<Word id="2179" stime="970.51" dur="0.37" conf="0.990"> victim </Word>
+<Word id="2180" stime="970.88" dur="0.15" conf="0.990"> of </Word>
+<Word id="2181" stime="971.03" dur="0.06" conf="0.990"> a </Word>
+<Word id="2182" stime="971.20" dur="0.49" conf="0.990"> crime </Word>
+<Word id="2183" stime="971.69" dur="0.00" conf="0.950"> . </Word>
+<Word id="2184" stime="971.73" dur="0.17" conf="0.990"> That's </Word>
+<Word id="2185" stime="971.95" dur="0.19" conf="0.990"> part </Word>
+<Word id="2186" stime="972.14" dur="0.09" conf="0.990"> of </Word>
+<Word id="2187" stime="972.23" dur="0.60" conf="0.990"> life </Word>
+<Word id="2188" stime="972.83" dur="0.00" conf="0.950"> . </Word>
+<Word id="2189" stime="973.37" dur="0.15" conf="0.990"> When </Word>
+<Word id="2190" stime="973.52" dur="0.15" conf="0.990"> my </Word>
+<Word id="2191" stime="973.67" dur="0.69" conf="0.630"> great-grandfather </Word>
+<Word id="2192" stime="974.41" dur="0.19" conf="0.990"> first </Word>
+<Word id="2193" stime="974.60" dur="0.18" conf="0.990"> came </Word>
+<Word id="2194" stime="974.78" dur="0.09" conf="0.990"> to </Word>
+<Word id="2195" stime="974.87" dur="0.15" conf="0.990"> this </Word>
+<Word id="2196" stime="975.11" dur="0.36" conf="0.990"> country </Word>
+<Word id="2197" stime="975.47" dur="0.00" conf="0.100"> , </Word>
+<Word id="2198" stime="975.65" dur="0.18" conf="0.990"> he </Word>
+<Word id="2199" stime="975.83" dur="0.27" conf="0.990"> put </Word>
+<Word id="2200" stime="976.13" dur="0.39" conf="0.990"> all </Word>
+<Word id="2201" stime="976.57" dur="0.19" conf="0.990"> his </Word>
+<Word id="2202" stime="976.79" dur="0.54" conf="0.990"> hopes </Word>
+<Word id="2203" stime="977.36" dur="0.27" conf="0.990"> and </Word>
+<Word id="2204" stime="977.74" dur="0.46" conf="0.990"> dreams </Word>
+<Word id="2205" stime="978.24" dur="0.14" conf="0.990"> into </Word>
+<Word id="2206" stime="978.38" dur="0.15" conf="0.990"> this </Word>
+<Word id="2207" stime="978.53" dur="0.24" conf="0.990"> little </Word>
+<Word id="2208" stime="978.77" dur="0.36" conf="0.990"> butcher </Word>
+<Word id="2209" stime="979.18" dur="0.22" conf="0.990"> shop </Word>
+<Word id="2210" stime="979.40" dur="0.09" conf="0.990"> he </Word>
+<Word id="2211" stime="979.49" dur="0.18" conf="0.990"> ran </Word>
+<Word id="2212" stime="979.67" dur="0.06" conf="0.990"> on </Word>
+<Word id="2213" stime="979.73" dur="0.09" conf="0.990"> the </Word>
+<Word id="2214" stime="979.82" dur="0.27" conf="0.990"> Lower </Word>
+<Word id="2215" stime="980.09" dur="0.17" conf="0.990"> East </Word>
+<Word id="2216" stime="980.30" dur="0.30" conf="0.990"> Side </Word>
+<Word id="2217" stime="980.60" dur="0.09" conf="0.990"> of </Word>
+<Word id="2218" stime="980.69" dur="0.12" conf="0.990"> New </Word>
+<Word id="2219" stime="980.81" dur="0.45" conf="0.990"> York </Word>
+<Word id="2220" stime="981.26" dur="0.00" conf="0.950"> . </Word>
+<Word id="2221" stime="981.41" dur="0.15" conf="0.990"> You </Word>
+<Word id="2222" stime="981.56" dur="0.09" conf="0.990"> know </Word>
+<Word id="2223" stime="981.65" dur="0.10" conf="0.990"> what </Word>
+<Word id="2224" stime="981.77" dur="0.33" conf="0.990"> happened </Word>
+<Word id="2225" stime="982.10" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="982.51" etime="988.66" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="2226" stime="982.81" dur="0.51" conf="0.990"> Every </Word>
+<Word id="2227" stime="983.35" dur="0.66" conf="0.990"> customer </Word>
+<Word id="2228" stime="984.04" dur="0.12" conf="0.990"> who </Word>
+<Word id="2229" stime="984.16" dur="0.33" conf="0.990"> walked </Word>
+<Word id="2230" stime="984.49" dur="0.18" conf="0.990"> into </Word>
+<Word id="2231" stime="984.67" dur="0.18" conf="0.990"> that </Word>
+<Word id="2232" stime="984.85" dur="0.30" conf="0.990"> butcher </Word>
+<Word id="2233" stime="985.21" dur="0.24" conf="0.990"> shop </Word>
+<Word id="2234" stime="985.45" dur="0.06" conf="0.990"> and </Word>
+<Word id="2235" stime="985.51" dur="0.24" conf="0.990"> asked </Word>
+<Word id="2236" stime="985.75" dur="0.12" conf="0.990"> for </Word>
+<Word id="2237" stime="985.87" dur="0.09" conf="0.990"> a </Word>
+<Word id="2238" stime="985.96" dur="0.30" conf="0.990"> pound </Word>
+<Word id="2239" stime="986.26" dur="0.07" conf="0.990"> of </Word>
+<Word id="2240" stime="986.35" dur="0.33" conf="0.990"> liver </Word>
+<Word id="2241" stime="986.68" dur="0.00" conf="0.100"> , </Word>
+<Word id="2242" stime="987.73" dur="0.21" conf="0.990"> got </Word>
+<Word id="2243" stime="987.99" dur="0.19" conf="0.990"> ripped </Word>
+<Word id="2244" stime="988.18" dur="0.26" conf="0.990"> off </Word>
+<Word id="2245" stime="988.44" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="991.33" etime="994.23" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2246" stime="991.33" dur="0.36" conf="0.100"> But </Word>
+<Word id="2247" stime="991.69" dur="0.00" conf="0.100"> , </Word>
+<Word id="2248" stime="991.69" dur="0.42" conf="0.990"> those </Word>
+<Word id="2249" stime="992.19" dur="0.37" conf="0.990"> people </Word>
+<Word id="2250" stime="992.64" dur="0.34" conf="0.990"> moved </Word>
+<Word id="2251" stime="992.98" dur="0.27" conf="0.990"> on </Word>
+<Word id="2252" stime="993.25" dur="0.00" conf="0.100"> , </Word>
+<Word id="2253" stime="993.31" dur="0.10" conf="0.990"> and </Word>
+<Word id="2254" stime="993.43" dur="0.18" conf="0.990"> so </Word>
+<Word id="2255" stime="993.61" dur="0.24" conf="0.990"> should </Word>
+<Word id="2256" stime="993.97" dur="0.25" conf="0.990"> you </Word>
+<Word id="2257" stime="994.22" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="994.76" etime="1003.41" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="2258" stime="994.76" dur="0.54" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2259" stime="995.30" dur="0.08" conf="0.990"> I </Word>
+<Word id="2260" stime="995.43" dur="0.14" conf="0.990"> am </Word>
+<Word id="2261" stime="995.60" dur="0.36" conf="0.990"> moving </Word>
+<Word id="2262" stime="995.96" dur="0.44" conf="0.990"> on </Word>
+<Word id="2263" stime="996.40" dur="0.00" conf="0.950"> . </Word>
+<Word id="2264" stime="996.65" dur="0.14" conf="0.990"> I'm </Word>
+<Word id="2265" stime="996.87" dur="0.17" conf="0.990"> going </Word>
+<Word id="2266" stime="997.04" dur="0.06" conf="0.990"> to </Word>
+<Word id="2267" stime="997.12" dur="0.10" conf="0.990"> be </Word>
+<Word id="2268" stime="997.22" dur="0.03" conf="0.990"> a </Word>
+<Word id="2269" stime="997.25" dur="0.66" conf="0.990"> Bozite </Word>
+<Word id="2270" stime="997.91" dur="0.00" conf="0.950"> . </Word>
+<Word id="2271" stime="998.45" dur="0.54" conf="0.100"> [leonard_hofstadter] </Word>
+<Word id="2272" stime="998.99" dur="0.18" conf="0.990"> They </Word>
+<Word id="2273" stime="999.17" dur="0.14" conf="0.990"> call </Word>
+<Word id="2274" stime="999.35" dur="0.34" conf="0.990"> themselves </Word>
+<Word id="2275" stime="999.77" dur="0.54" conf="0.430"> Bozites </Word>
+<Word id="2276" stime="1000.31" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2277" stime="1000.76" dur="0.12" conf="0.160"> [sheldon_cooper] </Word>
+<Word id="2278" stime="1000.88" dur="0.15" conf="0.990"> They </Word>
+<Word id="2279" stime="1001.09" dur="0.24" conf="0.990"> should </Word>
+<Word id="2280" stime="1001.33" dur="0.00" conf="0.950"> . </Word>
+<Word id="2281" stime="1001.33" dur="0.09" conf="0.990"> It's </Word>
+<Word id="2282" stime="1001.42" dur="0.12" conf="0.990"> one </Word>
+<Word id="2283" stime="1001.54" dur="0.06" conf="0.990"> of </Word>
+<Word id="2284" stime="1001.60" dur="0.06" conf="0.990"> the </Word>
+<Word id="2285" stime="1001.70" dur="0.14" conf="0.990"> first </Word>
+<Word id="2286" stime="1001.84" dur="0.15" conf="0.990"> things </Word>
+<Word id="2287" stime="1001.99" dur="0.09" conf="0.990"> I </Word>
+<Word id="2288" stime="1002.13" dur="0.19" conf="0.990"> plan </Word>
+<Word id="2289" stime="1002.32" dur="0.06" conf="0.990"> to </Word>
+<Word id="2290" stime="1002.41" dur="0.12" conf="0.990"> bring </Word>
+<Word id="2291" stime="1002.53" dur="0.14" conf="0.990"> up </Word>
+<Word id="2292" stime="1002.71" dur="0.21" conf="0.990"> upon </Word>
+<Word id="2293" stime="1002.92" dur="0.34" conf="0.990"> arrival </Word>
+<Word id="2294" stime="1003.26" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1004.91" etime="1008.34" spkid="FS6" lang="eng-usa" lconf="1.00">
+<Word id="2295" stime="1004.91" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="2296" stime="1005.27" dur="0.57" conf="0.990"> Sheldon </Word>
+<Word id="2297" stime="1005.84" dur="0.00" conf="0.100"> , </Word>
+<Word id="2298" stime="1006.00" dur="0.09" conf="0.990"> I </Word>
+<Word id="2299" stime="1006.31" dur="0.16" conf="0.100"> can't </Word>
+<Word id="2300" stime="1006.53" dur="0.07" conf="0.100"> believe </Word>
+<Word id="2301" stime="1006.65" dur="0.10" conf="0.990"> I'm </Word>
+<Word id="2302" stime="1006.75" dur="0.24" conf="0.990"> saying </Word>
+<Word id="2303" stime="1007.05" dur="0.18" conf="0.990"> this </Word>
+<Word id="2304" stime="1007.23" dur="0.00" conf="0.100"> , </Word>
+<Word id="2305" stime="1007.23" dur="0.15" conf="0.990"> but </Word>
+<Word id="2306" stime="1007.47" dur="0.10" conf="0.990"> I'm </Word>
+<Word id="2307" stime="1007.59" dur="0.12" conf="0.990"> going </Word>
+<Word id="2308" stime="1007.71" dur="0.06" conf="0.990"> to </Word>
+<Word id="2309" stime="1007.77" dur="0.27" conf="0.990"> miss </Word>
+<Word id="2310" stime="1008.04" dur="0.30" conf="0.990"> you </Word>
+<Word id="2311" stime="1008.34" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1008.34" etime="1016.30" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2312" stime="1008.43" dur="0.09" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2313" stime="1008.53" dur="0.51" conf="0.990"> Please </Word>
+<Word id="2314" stime="1009.04" dur="0.00" conf="0.100"> , </Word>
+<Word id="2315" stime="1009.07" dur="0.31" conf="0.990"> Penny </Word>
+<Word id="2316" stime="1009.38" dur="0.00" conf="0.100"> , </Word>
+<Word id="2317" stime="1009.92" dur="0.14" conf="0.990"> as </Word>
+<Word id="2318" stime="1010.06" dur="0.10" conf="0.990"> you </Word>
+<Word id="2319" stime="1010.18" dur="0.18" conf="0.990"> know </Word>
+<Word id="2320" stime="1010.36" dur="0.00" conf="0.100"> , </Word>
+<Word id="2321" stime="1010.36" dur="0.18" conf="0.990"> I'm </Word>
+<Word id="2322" stime="1010.54" dur="0.21" conf="0.990"> not </Word>
+<Word id="2323" stime="1010.87" dur="0.51" conf="0.990"> comfortable </Word>
+<Word id="2324" stime="1011.38" dur="0.18" conf="0.990"> with </Word>
+<Word id="2325" stime="1011.56" dur="0.38" conf="0.990"> prolonged </Word>
+<Word id="2326" stime="1012.07" dur="0.56" conf="0.990"> good-byes </Word>
+<Word id="2327" stime="1012.76" dur="0.15" conf="0.990"> and </Word>
+<Word id="2328" stime="1012.91" dur="0.45" conf="0.990"> maudlin </Word>
+<Word id="2329" stime="1013.46" dur="0.41" conf="0.990"> displays </Word>
+<Word id="2330" stime="1013.87" dur="0.09" conf="0.990"> of </Word>
+<Word id="2331" stime="1013.96" dur="0.60" conf="0.990"> emotion </Word>
+<Word id="2332" stime="1014.56" dur="0.00" conf="0.100"> , </Word>
+<Word id="2333" stime="1014.74" dur="0.33" conf="0.990"> so </Word>
+<Word id="2334" stime="1015.07" dur="0.09" conf="0.990"> I </Word>
+<Word id="2335" stime="1015.24" dur="0.31" conf="0.990"> prepared </Word>
+<Word id="2336" stime="1015.55" dur="0.03" conf="0.990"> a </Word>
+<Word id="2337" stime="1015.58" dur="0.19" conf="0.990"> short </Word>
+<Word id="2338" stime="1015.82" dur="0.45" conf="0.990"> video </Word>
+<Word id="2339" stime="1016.27" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1019.79" etime="1033.29" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="2340" stime="1019.79" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2341" stime="1020.15" dur="0.69" conf="0.990"> Greetings </Word>
+<Word id="2342" stime="1020.84" dur="0.00" conf="0.950"> . </Word>
+<Word id="2343" stime="1021.20" dur="0.30" conf="0.990"> As </Word>
+<Word id="2344" stime="1021.50" dur="0.12" conf="0.990"> you </Word>
+<Word id="2345" stime="1021.70" dur="0.34" conf="0.990"> know </Word>
+<Word id="2346" stime="1022.04" dur="0.00" conf="0.100"> , </Word>
+<Word id="2347" stime="1022.07" dur="0.24" conf="0.990"> I'm </Word>
+<Word id="2348" stime="1022.31" dur="0.19" conf="0.990"> not </Word>
+<Word id="2349" stime="1022.55" dur="0.57" conf="0.990"> comfortable </Word>
+<Word id="2350" stime="1023.12" dur="0.18" conf="0.990"> with </Word>
+<Word id="2351" stime="1023.30" dur="0.39" conf="0.990"> prolonged </Word>
+<Word id="2352" stime="1023.84" dur="0.57" conf="0.990"> good-byes </Word>
+<Word id="2353" stime="1024.71" dur="0.06" conf="0.100"> and </Word>
+<Word id="2354" stime="1024.77" dur="0.20" conf="0.990"> maudlin </Word>
+<Word id="2355" stime="1025.19" dur="0.51" conf="0.990"> displays </Word>
+<Word id="2356" stime="1025.72" dur="0.07" conf="0.990"> of </Word>
+<Word id="2357" stime="1025.79" dur="0.57" conf="0.990"> emotion </Word>
+<Word id="2358" stime="1026.36" dur="0.00" conf="0.100"> , </Word>
+<Word id="2359" stime="1026.72" dur="0.21" conf="0.990"> so </Word>
+<Word id="2360" stime="1026.93" dur="0.12" conf="0.990"> I </Word>
+<Word id="2361" stime="1027.05" dur="0.29" conf="0.990"> prepared </Word>
+<Word id="2362" stime="1027.44" dur="0.15" conf="0.990"> this </Word>
+<Word id="2363" stime="1027.59" dur="0.25" conf="0.990"> short </Word>
+<Word id="2364" stime="1028.01" dur="0.11" conf="0.990"> video </Word>
+<Word id="2365" stime="1028.12" dur="0.00" conf="0.950"> . </Word>
+<Word id="2366" stime="1029.09" dur="0.18" conf="0.990"> The </Word>
+<Word id="2367" stime="1029.34" dur="0.29" conf="0.100"> four </Word>
+<Word id="2368" stime="1029.63" dur="0.09" conf="0.990"> of </Word>
+<Word id="2369" stime="1029.79" dur="0.26" conf="0.990"> you </Word>
+<Word id="2370" stime="1030.09" dur="0.17" conf="0.990"> are </Word>
+<Word id="2371" stime="1030.32" dur="0.24" conf="0.100"> three </Word>
+<Word id="2372" stime="1030.56" dur="0.09" conf="0.990"> of </Word>
+<Word id="2373" stime="1030.65" dur="0.18" conf="0.990"> my </Word>
+<Word id="2374" stime="1030.95" dur="0.48" conf="0.990"> closest </Word>
+<Word id="2375" stime="1031.55" dur="0.48" conf="0.990"> friends </Word>
+<Word id="2376" stime="1032.07" dur="0.17" conf="0.990"> and </Word>
+<Word id="2377" stime="1032.24" dur="0.24" conf="0.990"> one </Word>
+<Word id="2378" stime="1032.58" dur="0.41" conf="0.990"> treasured </Word>
+<Word id="2379" stime="1033.05" dur="0.23" conf="0.640"> acquaintance </Word>
+<Word id="2380" stime="1033.28" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1037.86" etime="1045.24" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="2381" stime="1037.86" dur="0.13" conf="0.200"> Though </Word>
+<Word id="2382" stime="1038.02" dur="0.12" conf="0.990"> I </Word>
+<Word id="2383" stime="1038.14" dur="0.27" conf="0.990"> cannot </Word>
+<Word id="2384" stime="1038.47" dur="0.27" conf="0.990"> state </Word>
+<Word id="2385" stime="1038.90" dur="0.68" conf="0.990"> categorically </Word>
+<Word id="2386" stime="1039.63" dur="0.16" conf="0.990"> that </Word>
+<Word id="2387" stime="1039.82" dur="0.24" conf="0.990"> my </Word>
+<Word id="2388" stime="1040.06" dur="0.27" conf="0.990"> life </Word>
+<Word id="2389" stime="1040.33" dur="0.12" conf="0.990"> will </Word>
+<Word id="2390" stime="1040.45" dur="0.12" conf="0.990"> be </Word>
+<Word id="2391" stime="1040.57" dur="0.51" conf="0.990"> diminished </Word>
+<Word id="2392" stime="1041.08" dur="0.15" conf="0.990"> by </Word>
+<Word id="2393" stime="1041.23" dur="0.18" conf="0.990"> not </Word>
+<Word id="2394" stime="1041.41" dur="0.30" conf="0.990"> having </Word>
+<Word id="2395" stime="1041.74" dur="0.12" conf="0.990"> you </Word>
+<Word id="2396" stime="1041.90" dur="0.14" conf="0.990"> in </Word>
+<Word id="2397" stime="1042.04" dur="0.18" conf="0.990"> it </Word>
+<Word id="2398" stime="1042.22" dur="0.00" conf="0.100"> , </Word>
+<Word id="2399" stime="1043.21" dur="0.18" conf="0.990"> I </Word>
+<Word id="2400" stime="1043.39" dur="0.12" conf="0.990"> am </Word>
+<Word id="2401" stime="1043.51" dur="0.48" conf="0.990"> comfortable </Word>
+<Word id="2402" stime="1043.99" dur="0.12" conf="0.990"> if </Word>
+<Word id="2403" stime="1044.11" dur="0.09" conf="0.990"> you </Word>
+<Word id="2404" stime="1044.20" dur="0.30" conf="0.990"> choose </Word>
+<Word id="2405" stime="1044.50" dur="0.09" conf="0.990"> to </Word>
+<Word id="2406" stime="1044.65" dur="0.27" conf="0.990"> believe </Word>
+<Word id="2407" stime="1044.92" dur="0.29" conf="0.990"> that </Word>
+<Word id="2408" stime="1045.21" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1047.12" etime="1057.38" spkid="MS8" lang="eng-usa" lconf="1.00">
+<Word id="2409" stime="1047.20" dur="0.26" conf="0.990"> Since </Word>
+<Word id="2410" stime="1047.46" dur="0.12" conf="0.990"> you </Word>
+<Word id="2411" stime="1047.58" dur="0.39" conf="0.990"> intend </Word>
+<Word id="2412" stime="1047.97" dur="0.12" conf="0.990"> to </Word>
+<Word id="2413" stime="1048.09" dur="0.60" conf="0.990"> remain </Word>
+<Word id="2414" stime="1048.69" dur="0.15" conf="0.990"> in </Word>
+<Word id="2415" stime="1048.84" dur="0.36" conf="0.990"> this </Word>
+<Word id="2416" stime="1049.23" dur="0.61" conf="0.990"> lawless </Word>
+<Word id="2417" stime="1049.98" dur="0.75" conf="0.990"> metropolitan </Word>
+<Word id="2418" stime="1050.83" dur="0.41" conf="0.990"> area </Word>
+<Word id="2419" stime="1051.24" dur="0.00" conf="0.100"> , </Word>
+<Word id="2420" stime="1051.54" dur="0.69" conf="0.990"> statistics </Word>
+<Word id="2421" stime="1052.23" dur="0.39" conf="0.990"> suggest </Word>
+<Word id="2422" stime="1052.71" dur="0.12" conf="0.990"> that </Word>
+<Word id="2423" stime="1052.85" dur="0.10" conf="0.990"> you </Word>
+<Word id="2424" stime="1052.95" dur="0.12" conf="0.990"> will </Word>
+<Word id="2425" stime="1053.07" dur="0.30" conf="0.990"> succumb </Word>
+<Word id="2426" stime="1053.37" dur="0.09" conf="0.990"> to </Word>
+<Word id="2427" stime="1053.56" dur="0.44" conf="0.990"> tragic </Word>
+<Word id="2428" stime="1054.00" dur="0.09" conf="0.990"> and </Word>
+<Word id="2429" stime="1054.18" dur="0.39" conf="0.990"> gruesome </Word>
+<Word id="2430" stime="1054.57" dur="0.39" conf="0.990"> ends </Word>
+<Word id="2431" stime="1055.03" dur="0.26" conf="0.990"> before </Word>
+<Word id="2432" stime="1055.32" dur="0.12" conf="0.990"> we </Word>
+<Word id="2433" stime="1055.44" dur="0.21" conf="0.990"> meet </Word>
+<Word id="2434" stime="1055.65" dur="0.42" conf="0.990"> again </Word>
+<Word id="2435" stime="1056.07" dur="0.00" conf="0.950"> . </Word>
+<Word id="2436" stime="1056.34" dur="0.21" conf="0.990"> Live </Word>
+<Word id="2437" stime="1056.55" dur="0.21" conf="0.990"> long </Word>
+<Word id="2438" stime="1056.76" dur="0.09" conf="0.990"> and </Word>
+<Word id="2439" stime="1056.85" dur="0.51" conf="0.990"> prosper </Word>
+<Word id="2440" stime="1057.36" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1060.52" etime="1067.12" spkid="FS2" lang="eng-usa" lconf="1.00">
+<Word id="2441" stime="1060.52" dur="0.36" conf="0.100"> [penny] </Word>
+<Word id="2442" stime="1060.88" dur="0.36" conf="0.100"> Sheldon </Word>
+<Word id="2443" stime="1061.24" dur="0.00" conf="0.100"> , </Word>
+<Word id="2444" stime="1061.24" dur="0.36" conf="0.100"> that's </Word>
+<Word id="2445" stime="1061.60" dur="0.36" conf="0.100"> so </Word>
+<Word id="2446" stime="1061.96" dur="0.00" conf="0.950"> ... </Word>
+<Word id="2447" stime="1065.12" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2448" stime="1065.48" dur="0.15" conf="0.990"> You </Word>
+<Word id="2449" stime="1065.63" dur="0.15" conf="0.990"> might </Word>
+<Word id="2450" stime="1065.78" dur="0.12" conf="0.990"> want </Word>
+<Word id="2451" stime="1065.90" dur="0.06" conf="0.990"> to </Word>
+<Word id="2452" stime="1065.96" dur="0.15" conf="0.990"> lock </Word>
+<Word id="2453" stime="1066.11" dur="0.09" conf="0.990"> the </Word>
+<Word id="2454" stime="1066.20" dur="0.18" conf="0.990"> door </Word>
+<Word id="2455" stime="1066.38" dur="0.30" conf="0.990"> behind </Word>
+<Word id="2456" stime="1066.68" dur="0.27" conf="0.990"> me </Word>
+<Word id="2457" stime="1066.95" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1068.33" etime="1069.32" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2458" stime="1068.37" dur="0.12" conf="0.990"> This </Word>
+<Word id="2459" stime="1068.49" dur="0.16" conf="0.990"> isn't </Word>
+<Word id="2460" stime="1068.73" dur="0.57" conf="0.990"> Bozeman </Word>
+<Word id="2461" stime="1069.30" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1070.24" etime="1076.41" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="2462" stime="1070.24" dur="0.95" conf="0.100"> [howard_wolowitz] </Word>
+<Word id="2463" stime="1071.19" dur="0.94" conf="0.100"> How </Word>
+<Word id="2464" stime="1072.13" dur="0.95" conf="0.100"> the </Word>
+<Word id="2465" stime="1073.08" dur="0.94" conf="0.100"> hell </Word>
+<Word id="2466" stime="1074.02" dur="0.12" conf="0.990"> do </Word>
+<Word id="2467" stime="1074.17" dur="0.12" conf="0.990"> I </Word>
+<Word id="2468" stime="1074.29" dur="0.21" conf="0.990"> know </Word>
+<Word id="2469" stime="1074.54" dur="0.17" conf="0.990"> who's </Word>
+<Word id="2470" stime="1074.71" dur="0.15" conf="0.990"> the </Word>
+<Word id="2471" stime="1074.95" dur="0.36" conf="0.990"> friend </Word>
+<Word id="2472" stime="1075.31" dur="0.10" conf="0.990"> and </Word>
+<Word id="2473" stime="1075.43" dur="0.21" conf="0.990"> who's </Word>
+<Word id="2474" stime="1075.64" dur="0.15" conf="0.990"> the </Word>
+<Word id="2475" stime="1075.79" dur="0.46" conf="0.990"> acquaintance </Word>
+<Word id="2476" stime="1076.25" dur="0.00" conf="0.950"> ? </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1082.53" etime="1087.68" spkid="FS1" lang="eng-usa" lconf="1.00">
+<Word id="2477" stime="1082.53" dur="0.36" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2478" stime="1082.89" dur="0.08" conf="0.460"> That </Word>
+<Word id="2479" stime="1082.97" dur="0.11" conf="0.100"> is </Word>
+<Word id="2480" stime="1083.08" dur="0.10" conf="0.100"> a </Word>
+<Word id="2481" stime="1083.18" dur="0.39" conf="0.990"> bracing </Word>
+<Word id="2482" stime="1083.65" dur="0.34" conf="0.990"> cold </Word>
+<Word id="2483" stime="1083.99" dur="0.00" conf="0.100"> , </Word>
+<Word id="2484" stime="1083.99" dur="0.93" conf="0.100"> an </Word>
+<Word id="2485" stime="1084.92" dur="0.60" conf="0.990"> invigorating </Word>
+<Word id="2486" stime="1085.52" dur="0.31" conf="0.990"> cold </Word>
+<Word id="2487" stime="1085.83" dur="0.00" conf="0.950"> . </Word>
+<Word id="2488" stime="1086.45" dur="0.45" conf="0.990"> Lord </Word>
+<Word id="2489" stime="1086.90" dur="0.00" conf="0.100"> , </Word>
+<Word id="2490" stime="1086.90" dur="0.12" conf="0.990"> is </Word>
+<Word id="2491" stime="1087.02" dur="0.09" conf="0.990"> it </Word>
+<Word id="2492" stime="1087.20" dur="0.31" conf="0.990"> cold </Word>
+<Word id="2493" stime="1087.51" dur="0.00" conf="0.950"> ! </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1089.75" etime="1092.42" spkid="MS1" lang="eng-usa" lconf="1.00">
+<Word id="2494" stime="1089.75" dur="0.36" conf="0.100"> [man#unknown#TheBigBangTheory.Season03.Episode13] </Word>
+<Word id="2495" stime="1090.11" dur="0.25" conf="0.990"> Help </Word>
+<Word id="2496" stime="1090.36" dur="0.06" conf="0.990"> you </Word>
+<Word id="2497" stime="1090.42" dur="0.09" conf="0.990"> with </Word>
+<Word id="2498" stime="1090.51" dur="0.09" conf="0.990"> your </Word>
+<Word id="2499" stime="1090.63" dur="0.24" conf="0.990"> bags </Word>
+<Word id="2500" stime="1090.87" dur="0.00" conf="0.100"> , </Word>
+<Word id="2501" stime="1090.93" dur="0.18" conf="0.990"> sir </Word>
+<Word id="2502" stime="1091.11" dur="0.00" conf="0.950"> ? </Word>
+<Word id="2503" stime="1092.04" dur="0.13" conf="0.180"> [sheldon_cooper] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1092.42" etime="1100.49" spkid="MS3" lang="eng-usa" lconf="1.00">
+<Word id="2504" stime="1092.42" dur="0.31" conf="0.990"> Thank </Word>
+<Word id="2505" stime="1092.73" dur="0.27" conf="0.990"> you </Word>
+<Word id="2506" stime="1093.00" dur="0.00" conf="0.100"> , </Word>
+<Word id="2507" stime="1093.09" dur="0.36" conf="0.990"> fellow </Word>
+<Word id="2508" stime="1093.54" dur="0.42" conf="0.460"> Bozite </Word>
+<Word id="2509" stime="1093.96" dur="0.00" conf="0.950"> . </Word>
+<Word id="2510" stime="1094.83" dur="0.08" conf="0.990"> And </Word>
+<Word id="2511" stime="1094.95" dur="0.15" conf="0.990"> may </Word>
+<Word id="2512" stime="1095.10" dur="0.15" conf="0.990"> I </Word>
+<Word id="2513" stime="1095.28" dur="0.12" conf="0.990"> say </Word>
+<Word id="2514" stime="1095.40" dur="0.00" conf="0.100"> , </Word>
+<Word id="2515" stime="1095.43" dur="0.18" conf="0.990"> you </Word>
+<Word id="2516" stime="1095.61" dur="0.12" conf="0.990"> are </Word>
+<Word id="2517" stime="1095.73" dur="0.12" conf="0.990"> the </Word>
+<Word id="2518" stime="1095.85" dur="0.48" conf="0.990"> living </Word>
+<Word id="2519" stime="1096.33" dur="0.75" conf="0.990"> embodiment </Word>
+<Word id="2520" stime="1097.08" dur="0.09" conf="0.990"> of </Word>
+<Word id="2521" stime="1097.17" dur="0.24" conf="0.990"> all </Word>
+<Word id="2522" stime="1097.41" dur="0.09" conf="0.990"> the </Word>
+<Word id="2523" stime="1097.61" dur="0.46" conf="0.990"> promises </Word>
+<Word id="2524" stime="1098.07" dur="0.30" conf="0.990"> made </Word>
+<Word id="2525" stime="1098.37" dur="0.15" conf="0.990"> by </Word>
+<Word id="2526" stime="1098.52" dur="0.14" conf="0.990"> our </Word>
+<Word id="2527" stime="1098.72" dur="0.37" conf="0.990"> lovely </Word>
+<Word id="2528" stime="1099.09" dur="0.27" conf="0.990"> town's </Word>
+<Word id="2529" stime="1099.43" dur="0.29" conf="0.990"> Chamber </Word>
+<Word id="2530" stime="1099.72" dur="0.12" conf="0.990"> of </Word>
+<Word id="2531" stime="1099.96" dur="0.52" conf="0.990"> Commerce </Word>
+<Word id="2532" stime="1100.48" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1105.32" etime="1122.59" spkid="FS3" lang="eng-usa" lconf="1.00">
+<Word id="2533" stime="1105.32" dur="0.36" conf="0.100"> Wait </Word>
+<Word id="2534" stime="1105.67" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2535" stime="1110.51" dur="0.36" conf="0.100"> Wait </Word>
+<Word id="2536" stime="1110.87" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2537" stime="1115.70" dur="0.36" conf="0.100"> Excuse </Word>
+<Word id="2538" stime="1116.07" dur="0.36" conf="0.100"> me </Word>
+<Word id="2539" stime="1116.42" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2540" stime="1121.26" dur="0.19" conf="0.990"> One </Word>
+<Word id="2541" stime="1121.50" dur="0.21" conf="0.990"> ticket </Word>
+<Word id="2542" stime="1121.73" dur="0.07" conf="0.990"> to </Word>
+<Word id="2543" stime="1121.80" dur="0.45" conf="0.990"> Pasadena </Word>
+<Word id="2544" stime="1122.25" dur="0.00" conf="0.100"> , </Word>
+<Word id="2545" stime="1122.29" dur="0.16" conf="0.230"> California </Word>
+<Word id="2546" stime="1122.45" dur="0.00" conf="0.100"> , </Word>
+<Word id="2547" stime="1122.45" dur="0.02" conf="0.100"> please </Word>
+<Word id="2548" stime="1122.47" dur="0.00" conf="0.950"> . </Word>
+<Word id="2549" stime="1122.49" dur="0.09" conf="0.100"> [howard_wolowitz] </Word>
+</SpeechSegment>
+<SpeechSegment ch="1" sconf="1.00" stime="1127.70" etime="1138.32" spkid="MS2" lang="eng-usa" lconf="1.00">
+<Word id="2550" stime="1127.70" dur="0.36" conf="0.100"> Hey </Word>
+<Word id="2551" stime="1128.06" dur="0.00" conf="0.100"> , </Word>
+<Word id="2552" stime="1133.18" dur="0.18" conf="0.990"> look </Word>
+<Word id="2553" stime="1133.39" dur="0.12" conf="0.990"> who's </Word>
+<Word id="2554" stime="1133.51" dur="0.51" conf="0.990"> back </Word>
+<Word id="2555" stime="1134.02" dur="0.00" conf="0.950"> ! </Word>
+<Word id="2556" stime="1134.63" dur="0.61" conf="0.100"> [sheldon_cooper] </Word>
+<Word id="2557" stime="1135.25" dur="0.78" conf="0.990"> Interesting </Word>
+<Word id="2558" stime="1136.03" dur="0.00" conf="0.950"> . </Word>
+<Word id="2559" stime="1136.49" dur="0.11" conf="0.990"> The </Word>
+<Word id="2560" stime="1136.75" dur="0.48" conf="0.990"> acquaintance </Word>
+<Word id="2561" stime="1137.23" dur="0.12" conf="0.990"> is </Word>
+<Word id="2562" stime="1137.35" dur="0.12" conf="0.990"> the </Word>
+<Word id="2563" stime="1137.52" dur="0.22" conf="0.990"> first </Word>
+<Word id="2564" stime="1137.74" dur="0.09" conf="0.990"> to </Word>
+<Word id="2565" stime="1137.83" dur="0.21" conf="0.990"> greet </Word>
+<Word id="2566" stime="1138.04" dur="0.19" conf="0.990"> me </Word>
+<Word id="2567" stime="1138.23" dur="0.00" conf="0.950"> . </Word>
+</SpeechSegment>
+</SegmentList>
+</AudioDoc>
