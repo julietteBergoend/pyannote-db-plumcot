@@ -13,16 +13,16 @@ pyannote.db.plumcot.egg-info/
 
 #stuff necessary for forced-alignment
 #see https://github.com/PaulLerner/Forced-Alignment
-*.anonymous
-*.brackets
+Plumcot/data/*/transcripts/*.anonymous
+Plumcot/data/*/transcripts/*.brackets
 
 #vrbs forced-alignment output
 #see https://github.com/PaulLerner/Forced-Alignment
-*.xml
+Plumcot/data/*/forced-alignment/*.xml
 
 #gecko compliant json file of forced-alignment
 #see https://github.com/PaulLerner/Forced-Alignment
-*.json
+Plumcot/data/*/forced-alignment/*.json
 
 #NFS
 .nfs*
