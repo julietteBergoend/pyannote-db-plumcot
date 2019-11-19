@@ -89,7 +89,7 @@ def scrapPage(pageIMDB):
             else:
                 charName = charNorm.previous_sibling.strip()\
                     .split('\n')[0].strip()
-
+            charName=charName.replace(",","")
             normActorName = normalizeName(actorName)
             normCharName = normalizeName(charName)
             if normCharName and normActorName:
@@ -141,7 +141,7 @@ def writeData(series, data):
         Data to write.
     """
 
-    with codecs.open("data/"+series+"/characters.txt", "w", "utf-8") as chars:
+    with codecs.open("Plumcot/data/"+series+"/characters.txt", "w", "utf-8") as chars:
         chars.write(data)
 
 
@@ -158,7 +158,7 @@ def verifNorm(idSeries, fileName, data):
         Data to write.
     """
 
-    file = "data/" + idSeries + "/" + fileName
+    file = "Plumcot/data/" + idSeries + "/" + fileName
     with open(file, mode="w", encoding="utf-8") as f:
         for char in data:
             charSp = char.split(',')
@@ -191,7 +191,7 @@ def main(args):
 
                 else:
                     sagaChars = []
-                    with open("data/"+idSeries+"/episodes.txt", 'r') as fMovie:
+                    with open("Plumcot/data/"+idSeries+"/episodes.txt", 'r') as fMovie:
                         for lineMovie in fMovie:
                             link = lineMovie.split(',')[2]
                             movieChars = getData(link + "fullcredits/")

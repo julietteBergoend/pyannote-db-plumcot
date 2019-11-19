@@ -47,7 +47,7 @@ karl_martin,blake_bashoff,Karl Martin,Blake Bashoff,https://www.imdb.com/title/t
 steve_jenkins,christian_bowman,Steve Jenkins,Christian Bowman,
 phil,patrick_fischler,Phil,Patrick Fischler,https://www.imdb.com/title/tt0411008/characters/nm0279209
 dr_leslie_arzt,daniel_roebuck,Dr. Leslie Arzt,Daniel Roebuck,https://www.imdb.com/title/tt0411008/characters/nm0736263
-mikhail_bakunin,andrew_divoff,Mikhail Bakunin,Andrew Divoff,
+mikhail_bakunin,andrew_divoff,Mikhail Bakunin,Andrew Divoff,https://www.imdb.com/title/tt0411008/characters/nm0228678
 zach,mickey_graue,Zach,Mickey Graue,https://www.imdb.com/title/tt0411008/characters/nm2070947
 emma,kiersten_havelock,Emma,Kiersten Havelock,https://www.imdb.com/title/tt0411008/characters/nm2062384
 omar_idris,anthony_azizi,Omar Idris,Anthony Azizi,
@@ -334,7 +334,7 @@ magician,glen_bailey,Magician,Glen Bailey,
 kid,john_jamal_bradley,Kid,John Jamal Bradley,
 doctor,chris_jaymes,Doctor,Chris Jaymes,
 dr_evelyn_ariza,stephanie_niznik,Dr. Evelyn Ariza,Stephanie Niznik,
-howard_gray,dean_norris,Howard Gray,Dean Norris,
+howard_gray,dean_norris,Howard Gray,Dean Norris,https://www.imdb.com/title/tt0411008/characters/nm0606487
 burditt,christopher_amitrano,Burditt,Christopher Amitrano,
 father_suarez,juan_carlos_cantu,Father Suarez,Juan Carlos Cantu,
 ticket_agent,meilinda_cecilia_soerjoko,Ticket Agent,Meilinda Cecilia Soerjoko,
@@ -494,7 +494,7 @@ admitting_nurse,christina_m_kim,Admitting Nurse,Christina M. Kim,
 billy,darren_keefe_reiher,Billy,Darren Keefe Reiher,
 ms_berenberg,carla_von,Ms. Berenberg,Carla Von,
 young_ethan,devon_gearhart,Young Ethan,Devon Gearhart,
-young_rachel,savannah_brooke_lathem,Young Rachel,Savannah Brooke Lathem,
+young_rachel,savannah_lathem,Young Rachel,Savannah Lathem,
 iraqi_boy,xavier_raabemanupule,Iraqi Boy,Xavier Raabe-Manupule,
 doctor,kayren_butler,Doctor,Kayren Butler,
 screaming_other,david_p_griffith,Screaming Other,David P. Griffith,
@@ -579,7 +579,6 @@ restaurant_patron,shiromi_arserio,Restaurant Patron,Shiromi Arserio,
 hospital_patient,larry_wegger,Hospital Patient,Larry Wegger,
 gas_station_clerk,brian_sherwin,Gas Station Clerk,Brian Sherwin,
 redfurn,ej_snyder,Redfurn,E.J. Snyder,
-kid,claudio_fabbri,Kid,Claudio Fabbri,
 lacombe,chris_marvin,Lacombe,Chris Marvin,
 nadine,alexandra_tabas,Nadine,Alexandra Tabas,https://www.imdb.com/title/tt0411008/characters/nm3364080
 temple_other,john_a_weaver,Temple Other,John A Weaver,

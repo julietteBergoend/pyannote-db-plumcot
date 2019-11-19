@@ -3,7 +3,7 @@ skyler_white,anna_gunn,Skyler White,Anna Gunn,https://www.imdb.com/title/tt09037
 jesse_pinkman,aaron_paul,Jesse Pinkman,Aaron Paul,https://www.imdb.com/title/tt0903747/characters/nm0666739
 hank_schrader,dean_norris,Hank Schrader,Dean Norris,https://www.imdb.com/title/tt0903747/characters/nm0606487
 marie_schrader,betsy_brandt,Marie Schrader,Betsy Brandt,https://www.imdb.com/title/tt0903747/characters/nm1336827
-walter_white_jr,rj_mitte,Walter White, Jr.,RJ Mitte,https://www.imdb.com/title/tt0903747/characters/nm2666409
+walter_white_jr,rj_mitte,Walter White Jr.,RJ Mitte,https://www.imdb.com/title/tt0903747/characters/nm2666409
 saul_goodman,bob_odenkirk,Saul Goodman,Bob Odenkirk,https://www.imdb.com/title/tt0903747/characters/nm0644022
 steven_gomez,steven_michael_quezada,Steven Gomez,Steven Michael Quezada,https://www.imdb.com/title/tt0903747/characters/nm2366374
 mike_ehrmantraut,jonathan_banks,Mike Ehrmantraut,Jonathan Banks,https://www.imdb.com/title/tt0903747/characters/nm0052186
@@ -40,7 +40,7 @@ lester,tait_fletcher,Lester,Tait Fletcher,https://www.imdb.com/title/tt0903747/c
 matt,matthew_t_metzler,Matt,Matthew T. Metzler,
 tuco_salamanca,raymond_cruz,Tuco Salamanca,Raymond Cruz,https://www.imdb.com/title/tt0903747/characters/nm0190441
 mrs_pinkman,tess_harper,Mrs. Pinkman,Tess Harper,
-donald_margolis,john_de_lancie,Donald Margolis,John de Lancie,
+donald_margolis,john_de_lancie,Donald Margolis,John de Lancie,https://www.imdb.com/title/tt0903747/characters/nm0209496
 group_leader,jere_burns,Group Leader,Jere Burns,
 apd_detective_tim_roberts,nigel_gibbs,APD Detective Tim Roberts,Nigel Gibbs,
 clovis,tom_kiesche,Clovis,Tom Kiesche,
@@ -129,7 +129,7 @@ sara_tyree,shauna_mclean,Sara Tyree,Shauna McLean,
 bob,carl_savering,Bob,Carl Savering,
 tattooed_woman,cyd_schulte,Tattooed Woman,Cyd Schulte,
 mrs_ortega,carole_gutierrez,Mrs. Ortega,Carole Gutierrez,
-realtor,louis_herthum,Realtor,Louis Herthum,
+realtor,louis_herthum,Realtor,Louis Herthum,https://www.imdb.com/title/tt0903747/characters/nm0381043
 tucker,blake_berris,Tucker,Blake Berris,
 cid_special_agent,rob_brownstein,CID Special Agent,Rob Brownstein,
 benicio_fuentes,carlo_rota,Benicio Fuentes,Carlo Rota,https://www.imdb.com/title/tt0903747/characters/nm0744690
@@ -346,6 +346,7 @@ charlie_rose,charlie_rose,Charlie Rose,Charlie Rose,
 look_out,jon_reigle,Look out,Jon Reigle,
 carwash_patron,martin_palmer,CarWash Patron,Martin Palmer,
 senior_dea_agent,bill_peterson,Senior DEA Agent,Bill Peterson,
+holly_white,moira_bryg_macdonald,Holly White,Moira Bryg MacDonald,
 laundry_worker,andrea_good,Laundry Worker,Andrea Good,
 office_worker,karen_m_hudson,Office Worker,Karen M. Hudson,
 dea_agent,jamie_haqqani,DEA Agent,Jamie Haqqani,
@@ -393,7 +394,6 @@ restaurant_patron,michael_r_tafoya,Restaurant Patron,Michael R. Tafoya,
 female_employee,tenaya_torres,Female Employee,Tenaya Torres,
 carwash_customer,viola_valdez,Carwash Customer,Viola Valdez,
 gang_member,alexander_aleynikov,Gang member,Alexander Aleynikov,
-warehouse_worker,harona_ceesay,Warehouse Worker,Harona Ceesay,
 woman_in_dennys,breanna_perera,Woman in Denny's,Breanna Perera,
 dea_agent,frank_sandoval,DEA Agent,Frank Sandoval,
 madrigal_suit,ryan_schaefer,Madrigal Suit,Ryan Schaefer,
