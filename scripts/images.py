@@ -126,13 +126,14 @@ def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
             for character in label:
                 dir_path=os.path.join(IMAGE_PATH,character)
                 path=f"{os.path.join(dir_path,SEPARATOR.join(label))}.{characters[character]}.jpg"
-                #write_image(request,dir_path,path)
+                write_image(request,dir_path,path)
                 characters[character]+=1
                 print((
                         f"image {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
-                        f"Succesfully wrote {path}."
+                        f"Starring {label}."
                     ),end="\r")# from url {image_json['src']}
                 image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path']=path
+                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['label']=label
     print()
     print(key_error_messages)
     image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters']=characters
