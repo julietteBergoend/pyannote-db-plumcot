@@ -269,7 +269,9 @@ Therefore, we'll focus here only on the sub-json `image_jsons['mediaviewer']['ga
 - the `src` field contains the url of the image
 - the `altText` field contains the caption used to infer the image label (and not the actual `caption` field as it contains links)
 
-I added the `path` field which contains the path under which the image was saved (e.g. `Plumcot/data/TheBigBangTheory/images/leonard_hofstadter/leonard_hofstadter.0.jpg`).
+I added :
+- the `path` field which contains the path under which the image was saved (e.g. `Plumcot/data/TheBigBangTheory/images/leonard_hofstadter/leonard_hofstadter.0.jpg`).
+- the `label` field which is a list of all normalized characters detected in the picture (e.g. `[leonard_hofstadter, sheldon_cooper]`)
 
 I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character.
 
