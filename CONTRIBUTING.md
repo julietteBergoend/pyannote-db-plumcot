@@ -47,6 +47,16 @@ We also download all the webpages where we extract the informations into the `ht
 TheBigBangTheory/
   characters.txt
   credits.txt
+  images/
+    images.json
+    leonard_hofstadter/
+      leonard_hofstadter.0.jpg
+      leonard_hofstadter,sheldon_cooper.1.jpg
+      leonard_hofstadter.2.jpg
+  forced-alignment/
+    TheBigBangTheory_0.15collar.rttm
+    TheBigBangTheory_0.5confidence.uem
+    <file_uri>.aligned
   transcripts/
 	TheBigBangTheory.Season01.Episode01.temp
 	TheBigBangTheory.Season01.Episode01.txt
@@ -62,7 +72,7 @@ TheBigBangTheory/
     alignment/
     entities/
 ```
-
+## text
 ### `characters.txt`
 
 This file provides the list of characters (gathered from TV.com or IMDB.com). It contains one line per character with the following information: underscore-separated identifier, actor's normalized name, character's full name, actor's full name, IMDB.com character page.
@@ -238,7 +248,32 @@ word_id file_id channel_id speaker_id start_time end_time <> word named_entity_t
 
 Note: Leo has a script to do that, though the (automatic) output will need a manual correction pass.
 
+## images
 
-### scene / narrative stuff
+The script is `images.py`. It scraps all images of a given serie and infers the label from the IMDB caption. Note that, since the IMDB caption only contains info about the characters, it does a 1-1 mapping between actor and character. Thus it's not functional if one actor plays several character, as the `characters.py` script which only extracts the main character that an actor plays.
+
+Images are stored in the `images/` folder, each character gets its own directory, e.g. `images/leonard_hofstadter`.
+Thus images are duplicated if there are several characters on the same picture.
+Images are enumerated per character, e.g. :
+```images/
+  images.json
+  leonard_hofstadter/
+    leonard_hofstadter.0.jpg
+    leonard_hofstadter,sheldon_cooper.1.jpg
+    leonard_hofstadter.2.jpg
+```
+
+In addition, we save a json file under `images.json`. The format follows the one from imdb (that gets scraped by the `get_image_jsons_from_url` function), which, to the best of my knowledge, isn't described anywhere.
+
+Therefore, we'll focus here only on the sub-json `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['allImages']`. It contains a list of objects which describe an image :
+- the `src` field contains the url of the image
+- the `altText` field contains the caption used to infer the image label (and not the actual `caption` field as it contains links)
+
+I added the `path` field which contains the path under which the image was saved (e.g. `Plumcot/data/TheBigBangTheory/images/leonard_hofstadter/leonard_hofstadter.0.jpg`).
+
+I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character.
+
+
+## scene / narrative stuff
 
 Aman will come up with a file format and data.
