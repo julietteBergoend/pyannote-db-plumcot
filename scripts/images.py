@@ -21,17 +21,18 @@ N_COL=5#the CHARACTERS file should have 5 columns, separated by SEPARATOR
 SEPARATOR=","
 
 IMDB_URL="https://www.imdb.com"
-DATA_PATH=os.path.join("..","Plumcot","data")
+DATA_PATH=os.path.join("Plumcot","data")
 THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"
 IMAGE_CLASS="pswp__img"
-with open(DATA_PATH+"/series.txt") as file:
+with open(os.path.join(DATA_PATH,"series.txt")) as file:
     series=file.readlines()
 SERIE_URI,_,SERIE_IMDB_URL,_,_=series[5].split(",")
 CHARACTERS_PATH=os.path.join(DATA_PATH,SERIE_URI,'characters.txt')
+IMAGE_PATH=os.path.join(DATA_PATH,SERIE_URI,'images')
 
 SERIE_IMDB_ID=SERIE_IMDB_URL.split("/")[-2]
 
-def get_url_from_character_page(url_IDMB=characters[0,-1],THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"):
+def get_url_from_character_page(url_IDMB,THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"):
     """
     Gets url of image viewer of a serie pictures on IMDB (e.g. https://www.imdb.com/title/tt0108778/mediaviewer/rm3406852864)
     Given the url of a character of that serie (e.g. 'https://www.imdb.com/title/tt0108778/characters/nm0000098')
@@ -39,7 +40,6 @@ def get_url_from_character_page(url_IDMB=characters[0,-1],THUMBNAIL_CLASS="title
     Parameters:
     -----------
     url_IDMB: url of a character of the serie we're interested in.
-        Defaults to the url of the first character of that serie, i.e. characters[0,-1]
     THUMBNAIL_CLASS: IMDB html class which containes the link to the series images url.
 
     Returns:
@@ -77,28 +77,36 @@ def get_image_jsons_from_url(media_viewer_url,IMDB_URL="https://www.imdb.com"):
     str_script=str_script[json_begins_at:-1]#the last character is ";" for some reason so we discard it
     return json.loads(str_script)
 
-def write_image(request,path):
+def write_image(request,dir_path,path):
+    try:
+        os.mkdir(dir_path)
+    except FileExistsError:
+        pass
     with open(path,'wb') as file:
         file.write(request.content)
 
-def read_characters(CHARACTERS_PATH,SEPARATOR=","):
+def read_characters(CHARACTERS_PATH,N_COL,SEPARATOR=","):
     with open(CHARACTERS_PATH,'r') as file:
         raw=file.read()
     print("\n")
     for i,line in enumerate(raw.split("\n")):
         len_line=len(line.split(SEPARATOR))
         if len_line > N_COL:
+            print("\nthis line has too many columns")
             print(i,len_line,line.split(SEPARATOR))
         elif len_line < N_COL:
+            print("\nthis line does not have enough columns")
             print(i,len_line,line.split(SEPARATOR))
     characters=[line.split(SEPARATOR) for i,line in enumerate(raw.split("\n")) if line !='']
     characters=np.array(characters,dtype=str)
 
     return characters
 
-def query_image_from_json(image_jsons):
-    for image_json in image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']:
-        label=""
+def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
+    characters={character:0 for character in actor2character.values()}#counts the number of pictures per character
+    key_error_messages=""#print at the end for a better console usage
+    for i,image_json in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']):
+        label=[]
         caption=image_json['altText']
         if "at an event" in caption:
             #discard "at an event pictures" such as https://www.imdb.com/title/tt0108778/mediaviewer/rm110304000
@@ -107,25 +115,45 @@ def query_image_from_json(image_jsons):
         caption=re.sub(" in .*"," ",caption)
         for actor in re.split(",| and",caption):
             try:
-                label+=f"{actor2character[actor.strip()]}{SEPARATOR}"
+                label.append(actor2character[actor.strip()])
+                #label+=f"{actor2character[actor.strip()]}{SEPARATOR}"
             except KeyError:
-                print(f"{actor.strip()} is not in actor2character. (Original caption: {image_json['altText']})")
-        if label=="":
+                key_error_messages+=f"{actor.strip()} is not in actor2character. (Original caption: {image_json['altText']})\n"
+        if label==[]:
             pass
         else:
             request=requests.get(image_json['src'])
-            write_image(request,f"{label}.jpg")
+            for character in label:
+                dir_path=os.path.join(IMAGE_PATH,character)
+                path=f"{os.path.join(dir_path,SEPARATOR.join(label))}.{characters[character]}.jpg"
+                #write_image(request,dir_path,path)
+                characters[character]+=1
+                print((
+                        f"image {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
+                        f"Succesfully wrote {path}."
+                    ),end="\r")# from url {image_json['src']}
+                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path']=path
+    print()
+    print(key_error_messages)
+    image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters']=characters
+    with open(os.path.join(IMAGE_PATH,"images.json"),"w") as file:
+        json.dump(image_jsons,file)
+    print("\ndone ;)")
 
-def main(SERIE_URI,SERIE_IMDB_URL):
+def main(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,N_COL,SEPARATOR):
     print(SERIE_URI,SERIE_IMDB_URL)
-    characters=read_characters(CHARACTERS_PATH,SEPARATOR)
+    try:
+        os.mkdir(IMAGE_PATH)
+    except FileExistsError as e:
+        print(e)
+    characters=read_characters(CHARACTERS_PATH,N_COL,SEPARATOR)
     actor2character={actor:character for character,_,_,actor,_ in characters}
     warnings.warn("one to one mapping actor:character, not efficient if several actors play the same character")
-    media_viewer_url=get_url_from_character_page()
+    media_viewer_url=get_url_from_character_page(characters[0,-1])
     image_jsons=get_image_jsons_from_url(media_viewer_url)
-    query_image_from_json(image_jsons)
+    query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR)
 if __name__ == '__main__':
-    main(SERIE_URI,SERIE_IMDB_URL)
+    main(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,N_COL,SEPARATOR)
 
 # # Keep for ref
 
