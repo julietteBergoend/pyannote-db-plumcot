@@ -78,10 +78,8 @@ def get_image_jsons_from_url(media_viewer_url,IMDB_URL="https://www.imdb.com"):
     return json.loads(str_script)
 
 def write_image(request,dir_path,path):
-    try:
+    if not os.path.exists(dir_path):
         os.mkdir(dir_path)
-    except FileExistsError:
-        pass
     with open(path,'wb') as file:
         file.write(request.content)
 
@@ -114,10 +112,10 @@ def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
         caption=caption.replace(", and",", ").replace("Still of ","")
         caption=re.sub(" in .*"," ",caption)
         for actor in re.split(",| and",caption):
-            try:
-                label.append(actor2character[actor.strip()])
-                #label+=f"{actor2character[actor.strip()]}{SEPARATOR}"
-            except KeyError:
+            character=actor2character.get(actor.strip())
+            if character is not None:
+                label.append(character)
+            else:
                 key_error_messages+=f"{actor.strip()} is not in actor2character. (Original caption: {image_json['altText']})\n"
         if label==[]:
             pass
