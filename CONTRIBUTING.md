@@ -265,13 +265,14 @@ Images are enumerated per character, e.g. :
 
 In addition, we save a json file under `images.json`. The format follows the one from imdb (that gets scraped by the `get_image_jsons_from_url` function), which, to the best of my knowledge, isn't described anywhere.
 
-Therefore, we'll focus here only on the sub-json `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['allImages']`. It contains a list of objects which describe an image :
+Therefore, we'll focus here only on the sub-json `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['allImages']`, with `<SERIE_IMDB_ID>` being the IMDB identifier for the serie which comes after the IMDB url (available in `data/series.txt`). It contains a list of objects which describe an image :
 - the `src` field contains the url of the image
 - the `altText` field contains the caption used to infer the image label (and not the actual `caption` field as it contains links)
 
 I added :
-- the `path` field which contains the path under which the image was saved (e.g. `Plumcot/data/TheBigBangTheory/images/leonard_hofstadter/leonard_hofstadter.0.jpg`).
+- the `path` field which contains a list of paths under which the image was saved (e.g. `[Plumcot/data/TheBigBangTheory/images/leonard_hofstadter/leonard_hofstadter,sheldon_cooper.1.jpg, Plumcot/data/TheBigBangTheory/images/sheldon_cooper/leonard_hofstadter,sheldon_cooper.42.jpg]`).
 - the `label` field which is a list of all normalized characters detected in the picture (e.g. `[leonard_hofstadter, sheldon_cooper]`)
+- the `features` field which contains the path to a numpy array, described in `pyannote.video`. The file should be named like `<model_name>.<file_uri>.npy`.
 
 I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character.
 
