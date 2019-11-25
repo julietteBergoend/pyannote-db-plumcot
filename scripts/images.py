@@ -103,6 +103,7 @@ def read_characters(CHARACTERS_PATH,N_COL,SEPARATOR=","):
 def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
     characters={character:0 for character in actor2character.values()}#counts the number of pictures per character
     key_error_messages=""#print at the end for a better console usage
+    request_went_wrong=[]
     for i,image_json in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']):
         label=[]
         caption=image_json['altText']
@@ -121,19 +122,26 @@ def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
             pass
         else:
             request=requests.get(image_json['src'])
-            for character in label:
-                dir_path=os.path.join(IMAGE_PATH,character)
-                path=f"{os.path.join(dir_path,SEPARATOR.join(label))}.{characters[character]}.jpg"
-                write_image(request,dir_path,path)
-                characters[character]+=1
-                print((
-                        f"image {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
-                        f"Starring {label}."
-                    ),end="\r")# from url {image_json['src']}
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path']=path
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['label']=label
+            if request.status_code != requests.codes.ok:
+                image_json["request_status_code"]=request.status_code
+                request_went_wrong.append(image_json)
+            else:
+                for character in label:
+                    dir_path=os.path.join(IMAGE_PATH,character)
+                    path=f"{os.path.join(dir_path,SEPARATOR.join(label))}.{characters[character]}.{IMAGE_FORMAT}"
+                    write_image(request,dir_path,path)
+                    characters[character]+=1
+                    print((
+                            f"image {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
+                            f"Starring {label}."
+                        ),end="\r")# from url {image_json['src']}
+                    image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path']=path
+                    image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['label']=label
     print()
-    print(key_error_messages)
+    print(key_error_messages,"\n")
+    print(f"Something went wrong with {len(request_went_wrong)} requests:")
+    print(request_went_wrong)
+
     image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters']=characters
     with open(os.path.join(IMAGE_PATH,"images.json"),"w") as file:
         json.dump(image_jsons,file)
