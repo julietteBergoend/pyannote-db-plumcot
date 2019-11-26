@@ -274,7 +274,7 @@ I added :
 - the `label` field which is a list of all normalized characters detected in the picture (e.g. `[leonard_hofstadter, sheldon_cooper]`)
 - the `features` field which, in the same way, contains a list of paths to numpy arrays, described in `pyannote.video`. There should be one feature file per image, located in the same directory, it should be named like `<model_name>.<file_uri>.npy`.
 
-I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character.
+I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character and keeps track of the paths where each individual image was stored. Also keeps track of the features computed for each character.
 
 
 ## scene / narrative stuff
