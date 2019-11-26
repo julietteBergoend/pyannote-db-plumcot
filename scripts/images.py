@@ -101,7 +101,7 @@ def read_characters(CHARACTERS_PATH,N_COL,SEPARATOR=","):
     return characters
 
 def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
-    characters={character:0 for character in actor2character.values()}#counts the number of pictures per character
+    characters={character:{"count":0,"paths":[]} for character in actor2character.values()}#counts the number of pictures per character
     key_error_messages=""#print at the end for a better console usage
     request_went_wrong=[]
     for i,image_json in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']):
@@ -118,24 +118,24 @@ def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
                 label.append(character)
             else:
                 key_error_messages+=f"{actor.strip()} is not in actor2character. (Original caption: {image_json['altText']})\n"
-        if label==[]:
-            pass
-        else:
+        if label != []:
             request=requests.get(image_json['src'])
             if request.status_code != requests.codes.ok:
                 image_json["request_status_code"]=request.status_code
                 request_went_wrong.append(image_json)
             else:
+                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path']=[]
                 for character in label:
                     dir_path=os.path.join(IMAGE_PATH,character)
-                    path=f"{os.path.join(dir_path,SEPARATOR.join(label))}.{characters[character]}.{IMAGE_FORMAT}"
+                    path=f"{os.path.join(dir_path,SEPARATOR.join(label))}.{characters[character]['count']}.{IMAGE_FORMAT}"
                     write_image(request,dir_path,path)
-                    characters[character]+=1
+                    characters[character]["count"]+=1
+                    characters[character]["paths"].append(path)
                     print((
-                            f"image {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
-                            f"Starring {label}."
-                        ),end="\r")# from url {image_json['src']}
-                    image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path']=path
+                        f"\rimage {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
+                        f"Starring {label}."
+                    ),end="")# from url {image_json['src']}
+                    image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path'].append(path)
                     image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['label']=label
     print()
     print(key_error_messages,"\n")
