@@ -268,13 +268,28 @@ In addition, we save a json file under `images.json`. The format follows the one
 Therefore, we'll focus here only on the sub-json `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['allImages']`, with `<SERIE_IMDB_ID>` being the IMDB identifier for the serie which comes after the IMDB url (available in `data/series.txt`). It contains a list of objects which describe an image :
 - the `src` field contains the url of the image
 - the `altText` field contains the caption used to infer the image label (and not the actual `caption` field as it contains links)
+- the `imageType` field which categorizes images in 7 types (that I know of):
+  * production_art
+  * still_frame
+  * product
+  * publicity
+  * behind_the_scenes
+  * poster
+  * event
 
 I added :
 - the `path` field which contains a list of paths under which the image was saved (e.g. `[Plumcot/data/TheBigBangTheory/images/leonard_hofstadter/leonard_hofstadter,sheldon_cooper.1.jpg, Plumcot/data/TheBigBangTheory/images/sheldon_cooper/leonard_hofstadter,sheldon_cooper.42.jpg]`).
 - the `label` field which is a list of all normalized characters detected in the picture (e.g. `[leonard_hofstadter, sheldon_cooper]`)
 - the `features` field which, in the same way, contains a list of paths to numpy arrays, described in `pyannote.video`. There should be one feature file per image, located in the same directory, it should be named like `<model_name>.<file_uri>.npy`.
 
-I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character and keeps track of the paths where each individual image was stored. Also keeps track of the features computed for each character.
+I also added a `characters` object (i.e. python `dict`) in `image_jsons['mediaviewer']['galleries'][<SERIE_IMDB_ID>]['characters']`. It counts the number of images which was scraped for each character and keeps track of the paths where each individual image was stored. Also keeps track of the features computed for each character : a json object which looks like :
+```json
+{
+  "path":"<model_name>.<file_uri>.npy",
+  "model_name":"<model_name>",
+  "imageType":"<imageType>"
+}
+```
 
 
 ## scene / narrative stuff
