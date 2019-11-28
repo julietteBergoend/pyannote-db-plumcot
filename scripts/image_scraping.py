@@ -88,11 +88,9 @@ def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
     for i,image_json in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']):
         label=[]
         caption=image_json['altText']
-        if "at an event" in caption:
-            #discard "at an event pictures" such as https://www.imdb.com/title/tt0108778/mediaviewer/rm110304000
-            continue
         caption=caption.replace(", and",", ").replace("Still of ","")
         caption=re.sub(" in .*"," ",caption)
+        caption=re.sub(" at an event .*"," ",caption)
         for actor in re.split(",| and",caption):
             character=actor2character.get(actor.strip())
             if character is not None:
@@ -115,7 +113,7 @@ def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=","):
                     print((
                         f"\rimage {i}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}. "
                         f"Starring {label}."
-                    ),end="")# from url {image_json['src']}
+                    ),end="                               ")# from url {image_json['src']}
                     image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['path'].append(path)
                     image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]['label']=label
     print()
