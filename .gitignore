@@ -26,3 +26,9 @@ Plumcot/data/*/forced-alignment/*.json
 
 #NFS
 .nfs*
+
+#images (jpg)
+images/
+
+#video (features)
+video/
