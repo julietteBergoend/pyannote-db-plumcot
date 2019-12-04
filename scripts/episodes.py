@@ -19,7 +19,13 @@ from bs4 import BeautifulSoup
 from collections import OrderedDict
 import unidecode
 import re
+import numpy as np
 
+def read_credits(path,separator=","):
+    """loads credits in a dict with one key per episode"""
+    credits=np.loadtxt(path,delimiter=separator,dtype=str)
+    credits={episode[0]:np.array(episode[1:],dtype=int) for episode in credits}
+    return credits
 
 def normalizeName(fullName):
     """Normalizes characters and actors names.
