@@ -20,9 +20,9 @@ echo ${DLIB_MODELS}
 echo ${DLIB_EMBEDDING}
 echo ${DLIB_LANDMARKS}
 export VIDEOS_PATH=/vol/work3/maurice/dvd_extracted
-export DATA_PATH=/vol/work/lerner/pyannote-db-plumcot/Plumcot/data
+export DATA_PATH=/vol/work/lerner/pyannote-db-plumcot
 export SERIE_URI=$2
-export SERIE_PATH=${DATA_PATH}/${SERIE_URI}
+export SERIE_PATH=${DATA_PATH}/Plumcot/data/${SERIE_URI}
 export video_path=${VIDEOS_PATH}/${SERIE_URI}/$file_uri.mkv
 export shots_path=${SERIE_PATH}/video/${file_uri}.shots.json
 export features_path=${SERIE_PATH}/video/${file_uri}.npy
@@ -39,3 +39,6 @@ echo ${features_path}
                                                               ${DLIB_LANDMARKS} \
                                                               ${DLIB_EMBEDDING} \
                                                               ${features_path}
+`which pyannote-face.py` identify --data_path=${DATA_PATH} --credits=${SERIE_PATH}/credits.txt --characters=${SERIE_PATH}/characters.txt --file_uri=${file_uri} ${SERIE_PATH}/images/images.json \
+                                                                                                                                                           ${features_path} \
+                                                                                                                                                           ${features_path}
