@@ -76,13 +76,13 @@ def image_to_output_path(image_path,MODEL_NAME):
     output_path=os.path.join(dir_path,f"{MODEL_NAME}.{file_uri}.npy")
     return output_path
 
-def compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_IMDB_ID):
+def compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING):
     grayscale=0
     no_image=0
     not_exists=0
-    for i,image_json in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']):
+    for i,image_json in enumerate(image_jsons['allImages']):
         print((
-            f"\rimage {i+1}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}."
+            f"\rimage {i+1}/{image_jsons['totalImageCount']}."
         ),end="                    ")
         image_path=image_json.get("path")
         if image_path is not None:
@@ -103,11 +103,11 @@ def compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_
                      return_landmarks=False,return_embedding=True)
 
         #update features path per image
-        image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]["features"]=[output_path]
+        image_jsons['allImages'][i]["features"]=[output_path]
         for image_path in image_json['path'][1:]:
             other_output_path=image_to_output_path(image_path,MODEL_NAME)
             copyfile(output_path,other_output_path)
-            image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages'][i]["features"].append(other_output_path)
+            image_jsons['allImages'][i]["features"].append(other_output_path)
 
         #update features path per character
         feature_object={
@@ -117,13 +117,13 @@ def compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_
         }
         characters=image_json['label']
         for character in characters:
-            if "features" in image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][character]:
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][character]["features"].append(feature_object)
+            if "features" in image_jsons['characters'][character]:
+                image_jsons['characters'][character]["features"].append(feature_object)
             else:
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][character]["features"]=[feature_object]
+                image_jsons['characters'][character]["features"]=[feature_object]
     print((
-        f"\nThere are {grayscale} grayscale images over {image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']-no_image-not_exists}.\n"
-        f"Over {image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']} images, {not_exists} do not exist "
+        f"\nThere are {grayscale} grayscale images over {image_jsons['totalImageCount']-no_image-not_exists}.\n"
+        f"Over {image_jsons['totalImageCount']} images, {not_exists} do not exist "
         f"and {no_image} were never scraped because of a lack of labelling."
     ))
     return image_jsons
@@ -221,6 +221,7 @@ def compute_references(image_jsons,t=0.6,method='complete',KEEP_IMAGE_TYPES=None
     keep_faces: bool, optional
         keep track of rgb image of faces (cropped with the bounding box)
         for debugging and visualization.
+        Heavy in memory.
         Defaults to False.
     Returns:
     --------
@@ -230,12 +231,13 @@ def compute_references(image_jsons,t=0.6,method='complete',KEEP_IMAGE_TYPES=None
     features=[]
     save_labels=[]
     if keep_faces:
+        import matplotlib.pyplot as plt
         faces=[]
 
     #Clusters over every image in image_jsons
-    for i,image in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['allImages']):
+    for i,image in enumerate(image_jsons['allImages']):
         print((
-                f"\rimage {i+1}/{image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['totalImageCount']}."
+                f"\rimage {i+1}/{image_jsons['totalImageCount']}."
             ),end="                    ")
         if 'features' not in image:
             continue
@@ -285,10 +287,10 @@ def compute_references(image_jsons,t=0.6,method='complete',KEEP_IMAGE_TYPES=None
             str_KEEP_IMAGE_TYPES = ".".join(KEEP_IMAGE_TYPES) if KEEP_IMAGE_TYPES is not None else str(KEEP_IMAGE_TYPES)
             output_path=os.path.join(IMAGE_PATH,cluster_label,f'{str_KEEP_IMAGE_TYPES}.{MODEL_NAME}.{cluster_label}.{method}.{t}.references.npy')
             np.save(output_path,features[cluster_i])
-            if "references" in image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][cluster_label]:
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][cluster_label]["references"].append(output_path)
+            if "references" in image_jsons['characters'][cluster_label]:
+                image_jsons['characters'][cluster_label]["references"].append(output_path)
             else:
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][cluster_label]["references"]=[output_path]
+                image_jsons['characters'][cluster_label]["references"]=[output_path]
             assigned_labels.append(cluster_label)
             if keep_faces:
                 distance_from_cluster=np.mean(squareform(pdist(features[cluster_i],metric='euclidean')),axis=0)
@@ -297,6 +299,14 @@ def compute_references(image_jsons,t=0.6,method='complete',KEEP_IMAGE_TYPES=None
     print(f"assigned {len(assigned_labels)} labels over {len(unique)} clusters")
     print(f"those cluster were not assigned any label :\n{unassigned_clusters}")
     if keep_faces:
+        plt.figure(figsize=(16,16))
+        for i,label in enumerate(assigned_labels[:81]):
+            plt.subplot(9,9,i+1)
+            plt.title(label[:12]+str(image_jsons['characters'][label]['count']))
+            plt.imshow(keep_centroid[i])
+            #plt.imshow(first_faces[i])
+            plt.axis('off')
+        plt.show()
         return image_jsons, faces
     return image_jsons
 
@@ -333,8 +343,8 @@ def compute_references_per_character(image_jsons,t=0.6,method='complete',MIN_IMA
         updated database with the path towards the reference embedding
     """
     warnings.warn("This function has been deprecated in favor of compute_references")
-    n_characters=len(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'])
-    for i,(name,character) in enumerate(image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'].items()):
+    n_characters=len(image_jsons['characters'])
+    for i,(name,character) in enumerate(image_jsons['characters'].items()):
         print(f"\rprocessing {name} ({i}/{n_characters})",end="                           ")
         #using len(character['features']) instead of characer['count']
         #  as some images do not contain frontal face or are grayscale
@@ -344,23 +354,22 @@ def compute_references_per_character(image_jsons,t=0.6,method='complete',MIN_IMA
             output_path=os.path.join(IMAGE_PATH,name,f'{str_KEEP_IMAGE_TYPES}.{MODEL_NAME}.{name}.{method}.references.npy')
             np.save(output_path,references)
             if "references" in character:
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][name]["references"].append(output_path)
+                image_jsons['characters'][name]["references"].append(output_path)
             else:
-                image_jsons['mediaviewer']['galleries'][SERIE_IMDB_ID]['characters'][name]["references"]=[output_path]
+                image_jsons['characters'][name]["references"]=[output_path]
     return image_jsons
 
-def main(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_IMDB_ID,IMAGE_PATH,
+def main(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,IMAGE_PATH,
     CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES):
-    image_jsons=compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_IMDB_ID)
-    image_jsons=compute_references(image_jsons,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES)
+    image_jsons=compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING)
+    image_jsons=compute_references(image_jsons,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES,keep_faces=False)
     with open(os.path.join(IMAGE_PATH,"images.json"),"w") as file:
         json.dump(image_jsons,file)
     print("\ndone computing features and references ;)")
 
 if __name__ == '__main__':
-    #raise NotImplementedError()
-    from images import MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_IMDB_ID,IMAGE_PATH,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES
+    from images import MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,IMAGE_PATH,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES
     with open(os.path.join(IMAGE_PATH,"images.json"),"r") as file:
         image_jsons=json.load(file)
-    main(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,SERIE_IMDB_ID,IMAGE_PATH,
+    main(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,IMAGE_PATH,
         CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES)
