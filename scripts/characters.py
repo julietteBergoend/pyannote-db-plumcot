@@ -19,7 +19,13 @@ import unidecode
 import re
 from docopt import docopt
 
-
+def read_characters(CHARACTERS_PATH,SEPARATOR=","):
+    with open(CHARACTERS_PATH,'r') as file:
+        raw=file.read()
+    characters=[line.split(SEPARATOR) for line in raw.split("\n") if line !='']
+    characters=np.array(characters,dtype=str)
+    return characters
+    
 def normalizeName(fullName):
     """Normalizes characters and actors names.
 

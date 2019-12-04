@@ -12,14 +12,17 @@ import os
 import json
 import warnings
 import json
+from characters import read_characters
 
 ## web
 import requests
 from bs4 import BeautifulSoup
 import re
 
+# Hyperparameters
 MAX_FILE_NAME_LENGTH=255
 PHOTOS_CLASS='mediastrip'
+
 def get_url_from_character_page(url_IDMB,THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"):
     """
     Gets url of image viewer of a serie pictures on IMDB (e.g. https://www.imdb.com/title/tt0108778/mediaviewer/rm3406852864)
@@ -100,22 +103,6 @@ def write_image(request,dir_path,path):
     with open(path,'wb') as file:
         file.write(request.content)
 
-def read_characters(CHARACTERS_PATH,N_COL,SEPARATOR=","):
-    with open(CHARACTERS_PATH,'r') as file:
-        raw=file.read()
-    print("\n")
-    for i,line in enumerate(raw.split("\n")):
-        len_line=len(line.split(SEPARATOR))
-        if len_line > N_COL:
-            print("\nthis line has too many columns")
-            print(i,len_line,line.split(SEPARATOR))
-        elif len_line < N_COL:
-            print("\nthis line does not have enough columns")
-            print(i,len_line,line.split(SEPARATOR))
-    characters=[line.split(SEPARATOR) for i,line in enumerate(raw.split("\n")) if line !='']
-    characters=np.array(characters,dtype=str)
-    return characters
-
 def query_image_from_json(image_jsons,IMAGE_PATH,actor2character,SEPARATOR=",",IMAGE_FORMAT="jpg"):
     characters={character:{"count":0,"paths":[]} for character in actor2character.values()}#counts the number of pictures per character
     key_error_messages=""#print at the end for a better console usage
@@ -172,7 +159,7 @@ def main(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,CHARACTERS_PATH,N_COL,SEPARATOR,IMA
     print(SERIE_URI,SERIE_IMDB_URL)
     if not os.path.exists(IMAGE_PATH):
         os.mkdir(IMAGE_PATH)
-    characters=read_characters(CHARACTERS_PATH,N_COL,SEPARATOR)
+    characters=read_characters(CHARACTERS_PATH,SEPARATOR)
     actor2character={actor:character for character,_,_,actor,_ in characters}
     warnings.warn("one to one mapping actor:character, not efficient if several actors play the same character")
     image_jsons=None
