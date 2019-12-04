@@ -1,0 +1,8 @@
+md5: 1a1f1345897195fea5ff9a011ae27a99
+wdir: ../../..
+outs:
+- md5: 699e7adae017f43bdf0ec72a6f86a4bd.dir
+  path: Plumcot/data/Friends/video
+  cache: true
+  metric: false
+  persist: false
