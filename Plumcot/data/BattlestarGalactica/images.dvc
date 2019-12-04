@@ -1,0 +1,7 @@
+md5: 60ff353055f92833637623eb17a3e2b2
+outs:
+- md5: 236f7ab6f34a4a9d5f15a93dc73cd5a1.dir
+  path: images
+  cache: true
+  metric: false
+  persist: false
