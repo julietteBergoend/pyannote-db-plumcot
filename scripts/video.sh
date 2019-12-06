@@ -29,16 +29,16 @@ export features_path=${SERIE_PATH}/video/${file_uri}.npy
 echo video_path: ${video_path}
 echo shots_path: ${shots_path}
 echo features_path: ${features_path}
-`which pyannote-structure.py` shot --verbose --ffmpeg=${ffmpeg} ${video_path} \
-                                                                ${shots_path}
-`which pyannote-face.py` track --verbose --every=0.0 --ffmpeg=${ffmpeg} ${video_path} \
-                                                                        ${shots_path} \
-                                                                        ${features_path}
-`which pyannote-face.py` extract --verbose --ffmpeg=${ffmpeg} ${video_path} \
-                                                              ${features_path} \
-                                                              ${DLIB_LANDMARKS} \
-                                                              ${DLIB_EMBEDDING} \
+`which pyannote-structure.py` shot --ffmpeg=${ffmpeg} ${video_path} \
+                                                      ${shots_path}
+`which pyannote-face.py` track --every=0.0 --ffmpeg=${ffmpeg} ${video_path} \
+                                                              ${shots_path} \
                                                               ${features_path}
+`which pyannote-face.py` extract --ffmpeg=${ffmpeg} ${video_path} \
+                                                    ${features_path} \
+                                                    ${DLIB_LANDMARKS} \
+                                                    ${DLIB_EMBEDDING} \
+                                                    ${features_path}
 `which pyannote-face.py` identify --data_path=${DATA_PATH} --credits=${SERIE_PATH}/credits.txt --characters=${SERIE_PATH}/characters.txt --file_uri=${file_uri} ${SERIE_PATH}/images/images.json \
                                                                                                                                                            ${features_path} \
                                                                                                                                                            ${features_path}

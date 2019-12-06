@@ -22,16 +22,16 @@ for video_path in ${VIDEOS_PATH}/${SERIE_URI}/${SERIE_URI}.Season${SEASON_NUMBER
   echo video_path: ${video_path}
   echo shots_path: ${shots_path}
   echo features_path: ${features_path}
-  # pyannote-structure.py shot --verbose ${video_path} \
+  # pyannote-structure.py shot ${video_path} \
   #                                      ${shots_path}
-  # pyannote-face.py track --verbose --every=0.0 ${video_path} \
-  #                                              ${shots_path} \
-  #                                              ${features_path}
-  pyannote-face.py extract --verbose ${video_path} \
-                                     ${features_path} \
-                                     ${DLIB_LANDMARKS} \
-                                     ${DLIB_EMBEDDING} \
-                                     ${features_path}
+  # pyannote-face.py track --every=0.0 ${video_path} \
+  #                                      ${shots_path} \
+  #                                      ${features_path}
+  pyannote-face.py extract ${video_path} \
+                           ${features_path} \
+                           ${DLIB_LANDMARKS} \
+                           ${DLIB_EMBEDDING} \
+                           ${features_path}
   pyannote-face.py identify --data_path=${DATA_PATH} --credits=${SERIE_PATH}/credits.txt --characters=${SERIE_PATH}/characters.txt --file_uri=${file_uri} ${SERIE_PATH}/images/images.json \
                                                                                                                                                           ${features_path} \
                                                                                                                                                           ${features_path}
