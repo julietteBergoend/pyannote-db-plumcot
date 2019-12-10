@@ -1,0 +1,8 @@
+md5: a4dd75915a8316d1ba41001f043fdd3c
+wdir: ../../..
+outs:
+- md5: eec56bfdc5b33d2e715fbe020e7b102d.dir
+  path: Plumcot/data/Friends/multimodal
+  cache: true
+  metric: false
+  persist: false
