@@ -10,6 +10,7 @@ import os
 from pyannote.database.util import load_rttm
 from pyannote.video.face.clustering import FaceClustering
 from pyannote.metrics.diarization import DiarizationErrorRate
+from images import CLUSTERING_THRESHOLD
 
 #hyper parameters
 
@@ -41,7 +42,7 @@ def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
 
     clustering = FaceClustering()
     #TODO : move the preprocess (i.e. npy to pyannote) to some other place ?
-    face_id, _ = clustering.model.preprocess(video_features_path)
+    face_id, _ = clustering.model.preprocess(video_features_path,CLUSTERING_THRESHOLD)
 
     optimal_mapping=DiarizationErrorRate().optimal_mapping(face_id, audio_hypothesis)
     audio_hypothesis=audio_hypothesis.rename_labels(mapping=optimal_mapping)
