@@ -63,7 +63,7 @@ def main(audio_hypothesis_path,video_features,output_path,
         print(f"Fusing {uri}",end='\r')
         video_features_path=os.path.join(video_features,f"{uri}.npy")
         fusion=fuse(video_features_path,audio_hypothesis,uri)
-        with open(os.path.join(output_path,f'{DATABASE}.{TASK}.{PROTOCOL}.{SET}.rttm'),'a') as file:
+        with open(os.path.join(output_path,f'{DATABASE}.{TASK}.{PROTOCOL}.{SET}.{CLUSTERING_THRESHOLD}.rttm'),'a') as file:
             fusion.write_rttm(file)
 
 if __name__=="__main__":
