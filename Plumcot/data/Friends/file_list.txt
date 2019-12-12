@@ -94,6 +94,7 @@ Friends.Season04.Episode20
 Friends.Season04.Episode21
 Friends.Season04.Episode22
 Friends.Season04.Episode23
+Friends.Season04.Episode24
 Friends.Season05.Episode01
 Friends.Season05.Episode02
 Friends.Season05.Episode03
@@ -141,6 +142,7 @@ Friends.Season06.Episode21
 Friends.Season06.Episode22
 Friends.Season06.Episode23
 Friends.Season06.Episode24
+Friends.Season06.Episode25
 Friends.Season07.Episode01
 Friends.Season07.Episode02
 Friends.Season07.Episode03
@@ -188,6 +190,7 @@ Friends.Season08.Episode20
 Friends.Season08.Episode21
 Friends.Season08.Episode22
 Friends.Season08.Episode23
+Friends.Season08.Episode24
 Friends.Season09.Episode01
 Friends.Season09.Episode02
 Friends.Season09.Episode03
