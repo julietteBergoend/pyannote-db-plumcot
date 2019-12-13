@@ -76,7 +76,9 @@ if __name__=="__main__":
     DATA_PATH=os.path.join("Plumcot","data")
     OUTPUT_PATH=os.path.join(DATA_PATH,serie_uri,"multimodal")
     VIDEO_FEATURES=os.path.join(DATA_PATH,serie_uri,"video")
-    AUDIO_HYPOTHESIS_PATH=f"/vol/work/lerner/baseline/dia/Plumcot-Friends-Adversarial/der_uem/train/Plumcot-Friends.SpeakerDiarization.UEM.development/{DATABASE}.{TASK}.{PROTOCOL}.{set}.rttm"
+    AUDIO_HYPOTHESIS_PATH=("/vol/work/lerner/baseline/dia/Plumcot-Friends-Adversarial/"
+                           "der_uem/train/Plumcot-Friends.SpeakerDiarization.UEM.development/"
+                           f"/apply/latest/{DATABASE}.{TASK}.{PROTOCOL}.{set}.rttm")
 
     main(AUDIO_HYPOTHESIS_PATH,VIDEO_FEATURES,OUTPUT_PATH,
         DATABASE,TASK,PROTOCOL,set)
