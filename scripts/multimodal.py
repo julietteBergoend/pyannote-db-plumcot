@@ -2,27 +2,26 @@
 # coding: utf-8
 """
 Fuses outputs of pyannote.audio and pyannote.video models
+
+Usage:
+    multimodal.py <serie_uri> [options]
+
+Arguments:
+    <serie_uri>     One of the series normalized name defined in Plumcot/data/series.txt
+
+Options:
+    --set=<set>     one of 'train', 'development', 'test', as defined in pyannote.database
+                    Defaults to 'test'.
 """
 # Dependencies
 
 import os
+from docopt import docopt
 
 from pyannote.database.util import load_rttm
 from pyannote.video.face.clustering import FaceClustering
 from pyannote.metrics.diarization import DiarizationErrorRate
 from images import CLUSTERING_THRESHOLD
-
-#hyper parameters
-
-SERIE_URI="Friends"
-DATABASE=f"Plumcot-{SERIE_URI}"
-TASK="SpeakerDiarization"
-PROTOCOL="UEM"
-SET="test"
-DATA_PATH=os.path.join("Plumcot","data")
-OUTPUT_PATH=os.path.join(DATA_PATH,SERIE_URI,"multimodal")
-VIDEO_FEATURES=os.path.join(DATA_PATH,SERIE_URI,"video")
-AUDIO_HYPOTHESIS_PATH=f"/vol/work/lerner/baseline/dia/Plumcot-Friends-Adversarial/der_uem/train/Plumcot-Friends.SpeakerDiarization.UEM.development/{DATABASE}.{TASK}.{PROTOCOL}.{SET}.rttm"
 
 def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
     """
@@ -51,7 +50,7 @@ def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
     return fusion
 
 def main(audio_hypothesis_path,video_features,output_path,
-    DATABASE,TASK,PROTOCOL,SET):
+    DATABASE,TASK,PROTOCOL,set):
     """
     audio_hypothesis_path: str
         Path to the diarization output (.rttm) file as defined in pyannote.audio
@@ -63,9 +62,20 @@ def main(audio_hypothesis_path,video_features,output_path,
         print(f"Fusing {uri}",end='\r')
         video_features_path=os.path.join(video_features,f"{uri}.npy")
         fusion=fuse(video_features_path,audio_hypothesis,uri)
-        with open(os.path.join(output_path,f'{DATABASE}.{TASK}.{PROTOCOL}.{SET}.{CLUSTERING_THRESHOLD}.rttm'),'a') as file:
+        with open(os.path.join(output_path,f'{DATABASE}.{TASK}.{PROTOCOL}.{set}.{CLUSTERING_THRESHOLD}.rttm'),'a') as file:
             fusion.write_rttm(file)
 
 if __name__=="__main__":
+    args = docopt(__doc__)
+    serie_uri=args['<serie_uri>']
+    DATABASE=f"Plumcot-{serie_uri}"
+    TASK="SpeakerDiarization"
+    PROTOCOL="UEM"
+    set=args['--set'] if args['--set'] else "test"
+    DATA_PATH=os.path.join("Plumcot","data")
+    OUTPUT_PATH=os.path.join(DATA_PATH,serie_uri,"multimodal")
+    VIDEO_FEATURES=os.path.join(DATA_PATH,serie_uri,"video")
+    AUDIO_HYPOTHESIS_PATH=f"/vol/work/lerner/baseline/dia/Plumcot-Friends-Adversarial/der_uem/train/Plumcot-Friends.SpeakerDiarization.UEM.development/{DATABASE}.{TASK}.{PROTOCOL}.{set}.rttm"
+
     main(AUDIO_HYPOTHESIS_PATH,VIDEO_FEATURES,OUTPUT_PATH,
-        DATABASE,TASK,PROTOCOL,SET)
+        DATABASE,TASK,PROTOCOL,set)
