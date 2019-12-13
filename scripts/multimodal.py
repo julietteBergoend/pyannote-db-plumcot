@@ -4,7 +4,7 @@
 Fuses outputs of pyannote.audio and pyannote.video models
 
 Usage:
-    multimodal.py <serie_uri> [options]
+    multimodal.py <serie_uri> [--set] [-h | --help]
 
 Arguments:
     <serie_uri>     One of the series normalized name defined in Plumcot/data/series.txt
@@ -12,6 +12,7 @@ Arguments:
 Options:
     --set=<set>     one of 'train', 'development', 'test', as defined in pyannote.database
                     Defaults to 'test'.
+    -h --help       Show this screen.
 """
 # Dependencies
 
