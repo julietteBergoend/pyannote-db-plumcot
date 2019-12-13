@@ -1,0 +1,53 @@
+# ~/.pyannote/database.yml
+Protocols:
+  Plumcot-Friends:
+    SpeakerDiarization:
+      Baseline:
+        train:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/train_list.lst
+        development:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
+      UEM:
+        train:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/train_list.lst
+        development:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
+      FewShots:
+        train:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/few_shots.lst
+        development:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
+      Collar:
+        train:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/train_list.lst
+        development:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
+          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
+Databases:
+  Plumcot-Friends: /vol/work3/maurice/dvd_extracted/Friends/{uri}.en16kHz.wav
+  MUSAN: /vol/work/lerner/musan/{uri}.wav
