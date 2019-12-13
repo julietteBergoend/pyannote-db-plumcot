@@ -2,6 +2,13 @@
 Protocols:
   Friends:
     SpeakerDiarization:
+      Multimodal:
+        train:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.train.0.6.rttm
+        development:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.development.0.6.rttm
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.test.0.6.rttm
       FA-raw:
         train:
           annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
