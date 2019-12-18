@@ -28,19 +28,19 @@ lord_varys But influence is largely a matter of patience, I have found. Once I h
 tyrion_lannister The sorcerer.
 lord_varys Hello, my old friend. It's been a long time. I have no doubt the revenge you want will be yours in time if you have the stomach for it.
 grenn When people talk about the Night's Watch, they never mention the shoveling.
-dolorous_edd Or the shit.
+eddison_tollett Or the shit.
 grenn They tell you about honor, pardoning crimes, and protecting the realm, but shoveling really is most of it.
-dolorous_edd And getting attacked or killed or worse. And that.
+eddison_tollett And getting attacked or killed or worse. And that.
 grenn But when you're not getting attacked or killed, usually you're shoveling.
-dolorous_edd Oh, look. More shit. I was starting to wonder what to do with the rest of my day.
+eddison_tollett Oh, look. More shit. I was starting to wonder what to do with the rest of my day.
 rast We need to get out of here.
 grenn When the Lord Commander says we go, we go.
 rast The Lord Commander told us to go to the Fist of the First Men. How'd that turn out for us?
-dolorous_edd He had no way of knowing.
+eddison_tollett He had no way of knowing.
 rast We do now. We know what's out there.
 grenn Craster's been out here surviving.
 rast So he's your new protector now? Our good friend Craster?
-dolorous_edd We're like the sons he never had.
+eddison_tollett We're like the sons he never had.
 rast Mormont isn't gonna save you. This lummox here isn't gonna save you. When the walkers come calling, Craster will serve us up like so many pigs. If we want to live we'll have to look out for ourselves.
 gilly Shh, shh, shh.
 gilly You woke him.
@@ -254,7 +254,7 @@ margaery_tyrell You must see Highgarden. You'd love it there. I know you would. 
 sansa_stark I- I don't think the queen would let me leave King's Landing.
 margaery_tyrell The Queen Regent, you mean. Once I marry joffrey_baratheon, I'll be queen. And if you were to marry Loras... Oh, your place would be at Highgarden, wouldn't it? We would be sisters, you and I. Would you like that?
 jeor_mormont His name was Bannen. He was a good man, a good ranger. He came to us from- where did he come from?
-dolorous_edd Down White Harbor way.
+eddison_tollett Down White Harbor way.
 jeor_mormont He came to us from White Harbor. Never failed in his duty. He kept his vows the best he could. He rode far, fought fiercely. We shall never see his like again.
 all And now his watch has ended.
 jeor_mormont And now his watch has ended.

@@ -68,12 +68,12 @@ arya_stark What am I?
 thoros Our guest. No one's put any chains on you.
 arya_stark So I can walk away, then?
 thoros These woods aren't safe for Ned Stark's daughter. You're lucky we found you.
-the_hound You think you're good with that bow, you little twat?
+sandor_clegane You think you're good with that bow, you little twat?
 anguy Better than anyone you've ever met.
-the_hound A coward's weapon. I like to fight up close. I like to see a man's face when I put the steel in him.
+sandor_clegane A coward's weapon. I like to fight up close. I like to see a man's face when I put the steel in him.
 anguy Why? So you can kiss him?
 arya_stark You remember the last time you were here?
-the_hound Looks like every other shit inn on the road.
+sandor_clegane Looks like every other shit inn on the road.
 anguy Now, apologies, but you're one ugly fucker and I'd rather not see you no more.
 anguy Watch your head. Off we go.
 driver Walk up!
@@ -125,9 +125,9 @@ mance And you know what those men are now?
 mance We're all the same to them - meat for their army.
 jon_snow Do you think anyone got away?
 mance It's not impossible. You don't go far betting against Mormont. But dead or alive, he took a big gamble coming north. And he lost. His best fighting men are dead. And whether he's Lord Commander of the Night's Watch or a blue-eyed corpse, he's a long way from home. Tormund. Climb the Wall. Take Orell and twenty good men. And take this one. He knows Castle Black's defenses better than any of us. And if he's useful, good. If not throw him off the Wall. See if crows can fly.
-tormund We're finally going to war, old friend?
+tormund_giantsbane We're finally going to war, old friend?
 mance Hide near Castle Black. When I give the signal, hit them in the night. They've got a big old wall to hide behind, but it only guards one side.
-tormund We'll meet again.
+tormund_giantsbane We'll meet again.
 mance Aye. If you do your job. Ah.
 orell How will we see your signal?
 mance Send your eagle above the Wall every night. When it's time, I'm going to light the biggest fire the North has ever seen.

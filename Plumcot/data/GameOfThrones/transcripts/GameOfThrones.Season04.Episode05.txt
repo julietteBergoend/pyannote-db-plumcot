@@ -305,7 +305,7 @@ jojen_reed This... this isn't the end. Not for you. Not yet.
 meera_reed How... will we know the end?
 jojen_reed You'll know.
 locke Brothers.
-dolorous_edd You do move quiet.
+eddison_tollett You do move quiet.
 jon_snow How many?
 locke 11 men. Most of them already drunk. No guards posted. They don't seem to have a care in the world. We'll carve them up like walnut pie.
 grenn Karl was a top paid cutthroat in Flea Bottom. I've seen what he can do with a knife.
@@ -383,7 +383,7 @@ karl_tanner You know what's wrong with honor?
 karl_tanner You.
 jon_snow Are you all right? Come with me. Come on.
 jon_snow We lost four brothers?
-dolorous_edd Five.
+eddison_tollett Five.
 grenn What the seven hells could do that to a man?
 jon_snow I count 10 dead mutineers.
 grenn Locke said there were 11 of them.
@@ -392,7 +392,7 @@ man#unknown#GameOfThrones.Season04.Episode05 Here's another.
 grenn Jon.
 jon_snow Where in seven hells? Come here.
 jon_snow I missed you, boy.
-dolorous_edd What should we do with this lot?
+eddison_tollett What should we do with this lot?
 jon_snow It's not safe for you here on your own. Mance Rayder has an army heading this way and there's worse out there than Mance. Come with us to Castle Black. We can find you work. Keep you safe.
 morag Meaning all respect, Ser Crow, Craster beat us and worse. Your brother crows beat us and worse. We'll find our own way.
 jon_snow You want to stay here in Craster's Keep?

@@ -19,7 +19,7 @@ sansa_stark You can't!
 joffrey_baratheon What did you say? Did you say I can't?
 sansa_stark I only meant… it would be bad luck to kill a man on your name day.
 joffrey_baratheon What kind of stupid peasant's superstition...
-the_hound The girl is right. What a man sows on his name day, he reaps all year.
+sandor_clegane The girl is right. What a man sows on his name day, he reaps all year.
 joffrey_baratheon . Take him away. I'll have him killed tomorrow, the fool.
 sansa_stark He is. A fool - you're so clever to see it. He'll make a much better fool than a knight. He doesn't deserve the mercy of a quick death.
 joffrey_baratheon Did you hear My Lady, Ser Dontos? . From this day, , you'll be my new fool.
@@ -129,17 +129,17 @@ samwell_tarly Nothing's killed me yet.
 grenn Your ass killed the sledge.
 samwell_tarly You offered me a ride!
 grenn I just wanted you to shut up about your damn blisters.
-dolorous_edd I was born in a place like this. Later, I fell on hard times.
+eddison_tollett I was born in a place like this. Later, I fell on hard times.
 samwell_tarly Are those girls?
-dolorous_edd Craster's daughters.
+eddison_tollett Craster's daughters.
 samwell_tarly I haven't seen a girl in six months.
-dolorous_edd I'd keep on not seeing them if I were you.
+eddison_tollett I'd keep on not seeing them if I were you.
 grenn What, he don't like people messing with his daughters?
-dolorous_edd He don't like people messing with his wives.
-dolorous_edd He marries his daughters, and they give him more daughters, and on, and on it goes.
+eddison_tollett He don't like people messing with his wives.
+eddison_tollett He marries his daughters, and they give him more daughters, and on, and on it goes.
 samwell_tarly That's foul.
 grenn It's beyond foul.
-dolorous_edd All the other wildlings for a hundred leagues have disappeared. Craster's still here. He must be doing something right.
+eddison_tollett All the other wildlings for a hundred leagues have disappeared. Craster's still here. He must be doing something right.
 jon_snow What happens to the boys?
 samwell_tarly Hmm?
 jon_snow He marries his daughters. What does he do with his sons?

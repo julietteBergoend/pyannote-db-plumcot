@@ -13,28 +13,28 @@ arya_stark No! Let go of me! Let me go!
 sandor_clegane Looks like their god likes me more than your butcher's boy.
 arya_stark Burn in hell!
 beric_dondarrion He will. But not today.
-tormund Orell says there are crows patrolling on the Wall. Tell me what you know.
+tormund_giantsbane Orell says there are crows patrolling on the Wall. Tell me what you know.
 jon_snow There are four to a patrol- two builders to check for structural damage, two rangers to watch for enemies.
 orell How often do these patrols go out?
 jon_snow It varies. If I knew where on the Wall we were heading, I could tell you.
 orell You'd like to know that.
-tormund There are nineteen castles guarding the Wall. How many are manned?
+tormund_giantsbane There are nineteen castles guarding the Wall. How many are manned?
 jon_snow Three.
 orell You sure of that?
 orell Which three?
 jon_snow Castle Black.
 orell Aye, Castle Black. Everyone knows Castle Black. Which others?
 jon_snow Eastwatch-by-the-Sea and the Shadow Tower.
-tormund How many men remain in Castle Black?
+tormund_giantsbane How many men remain in Castle Black?
 jon_snow A thousand.
 orell Liar.
 jon_snow What happens to your eagle after I kill you? Does he drift away like a kite with his strings cut or does he just flop dead to the ground?
 ygritte He's no crow.
 orell Just 'cause you want him inside you don't make him one of us.
 ygritte I'm not afraid of you.
-tormund I like you, boy. But if you lie to me, I'll pull your guts out through your throat.
+tormund_giantsbane I like you, boy. But if you lie to me, I'll pull your guts out through your throat.
 jon_snow A thousand men.
-tormund We'll find out soon enough.
+tormund_giantsbane We'll find out soon enough.
 jon_snow I don't need you to protect me.
 ygritte Of course you do. Who stopped Rattleshirt when he was about to cut your throat? Who vouched for you with Mance? It seems you owe me a debt.
 jon_snow Give it back.

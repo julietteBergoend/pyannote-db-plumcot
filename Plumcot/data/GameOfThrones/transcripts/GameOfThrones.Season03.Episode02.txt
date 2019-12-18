@@ -202,7 +202,7 @@ jon_snow You want to protect your people.
 mance Do you know what it takes to unite 90 clans, half of whom want to massacre the other half for one insult or another? They speak seven different languages in my army. The Thenns hate the Hornfoots. The Hornfoots hate the ice-river clans. Everyone hates the cave people. So you know how I got moon worshippers and cannibals and giants to march together in the same army?
 jon_snow No.
 mance I told them we were all going to die if we don't get south. Because that's the truth.
-tormund Shouldn't be long now.
+tormund_giantsbane Shouldn't be long now.
 jon_snow What's wrong with him?
 mance He's a warg. He can enter the mind of animals, see through their eyes. He's scouting for us.
 ygritte What, you've never met a warg?
@@ -217,11 +217,11 @@ samwell_tarly No.
 grenn Get up.
 samwell_tarly I can't.
 grenn If you stop, you'll die.
-dolorous_edd 'Course if you don't stop, you'll probably die, too.
+eddison_tollett 'Course if you don't stop, you'll probably die, too.
 samwell_tarly You don't care.
-dolorous_edd 'Course we care.
+eddison_tollett 'Course we care.
 samwell_tarly You left me. When the white walkers came, you left me.
-dolorous_edd Aye, we left you. You're fat and you're slow. We didn't want to die.
+eddison_tollett Aye, we left you. You're fat and you're slow. We didn't want to die.
 grenn Help me get him up.
 rast Looks like that piggy is done for.
 grenn Help us get him up.
@@ -450,12 +450,12 @@ anguy One waits for him to drink until he passes out.
 thoros Poor man. You have my sympathy.
 thoros Aha, not a man at all. A Hound!
 thoros So good to see you again, Clegane.
-the_hound Thoros? The fuck you doing here?
+sandor_clegane Thoros? The fuck you doing here?
 thoros Drinking and talking too much. Same as ever.
 thoros A pretty prize, lads.
 men Yeah!
-the_hound Girl.
-the_hound What in seven hells are you doing with the Stark bitch?
+sandor_clegane Girl.
+sandor_clegane What in seven hells are you doing with the Stark bitch?
 jaime_lannister   It's a tough decision - take the bridge and risk being seen or cross the great water.
 brienne_of_tarth   Silence, Kingslayer.
 jaime_lannister   Anyone can see us on the bridge, but cross by water and the current could take us or I could escape down the river.

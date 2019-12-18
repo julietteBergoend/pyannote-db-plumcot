@@ -56,7 +56,7 @@ bran_stark  He's having one now?
 jojen_reed I saw jon Snow.
 bran_stark  You saw him? At Castle Black?
 jojen_reed He was on the wrong side of the Wall surrounded by enemies.
-tormund Used to be you couldn't find a tree within a mile of the Wall. Crows would come out every morning with axes.
+tormund_giantsbane Used to be you couldn't find a tree within a mile of the Wall. Crows would come out every morning with axes.
 orell Your flock gets smaller every year.
 jon_snow  You ever climbed it before?
 ygritte No. But Tormund's done it half a hundred times. You're afraid.
@@ -78,7 +78,7 @@ ygritte But I'm your woman now, jon  Snow. You're going to be loyal to your woma
 ygritte It's you and me that matters to me and you. Don't ever betray me.
 jon_snow  I won't.
 ygritte 'Cause I'll cut your pretty cock right off and wear it 'round my neck.
-tormund Sink your metal deep and make sure it holds before taking your next step. And if you fall, don't scream. You don't want that to be the last thing she remembers.
+tormund_giantsbane Sink your metal deep and make sure it holds before taking your next step. And if you fall, don't scream. You don't want that to be the last thing she remembers.
 arya_stark Joffrey. cersei_lannister. Ilyn Payne.
 anguy You're good. You're not as good as you think you are.
 arya_stark Face, tits, balls- I hit 'em right where I wanted to.
@@ -133,9 +133,9 @@ melisandre You are more than they can ever be. They're just foot soldiers in the
 arya_stark You're a witch. You're going to hurt him.
 melisandre I see a darkness in you. And in that darkness, eyes staring back at me- brown eyes, blue eyes, green eyes. Eyes you'll shut forever. We will meet again.
 ygritte You staring at my ass, jon_snow  Snow?
-tormund Look out!
+tormund_giantsbane Look out!
 ygritte You all right?
-tormund Just seeing if you can take a hit, lad.
+tormund_giantsbane Just seeing if you can take a hit, lad.
 ramsay_bolton Sorry. Were you sleeping?
 theon_greyjoy Wa-
 ramsay_bolton Wa-? Wa-? Water? You want some water. I wish I had some for you.
@@ -265,7 +265,7 @@ tywin_lannister I would have my grandson protected by a skilled warrior who take
 olenna_tyrell It's a rare enough thing- a man who lives up to his reputation.
 orell No!
 orell We've gotta cut them loose!
-tormund No!
+tormund_giantsbane No!
 jon_snow  Take my hand!
 sansa_stark That's a wonderful pin.
 loras_tyrell Oh, it's more of a brooch, really. Though I suppose a brooch is a sort of pin, so

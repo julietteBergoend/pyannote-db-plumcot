@@ -144,7 +144,7 @@ jon_snow Archers! Knock your arrows! Draw! Loose!
 jon_snow They won't summit before dawn.
 grenn How do you know that?
 jon_snow Because I've made that claim.
-dolorous_edd I think they're in a bigger hurry than you were.
+eddison_tollett I think they're in a bigger hurry than you were.
 jon_snow Knock! Draw! Loose!
 pypar I got one. Right through the heart, he's dead.
 samwell_tarly Oh, is it over?
@@ -152,13 +152,13 @@ pypar Huh?
 samwell_tarly Well then. 
 samwell_tarly You're alright. You're alright. I'll get help. Shh, shh. Maester Aemon is coming, he's gonna make it alright.
 jon_snow Now!
-dolorous_edd Now!
+eddison_tollett Now!
 jon_snow  The outer gate won't hold. Take five men, hold the inner gate.
 grenn Alright.
 jon_snow  Hold the gate. If they make it through...
 grenn They won't. Come on Hill! And you Cooper! You three, on me! Come on you lazy bastards!
 jon_snow Oil!
-dolorous_edd Oil on the ramp!
+eddison_tollett Oil on the ramp!
 alliser_thorne Protect the gate!
 alliser_thorne Hold the fucking gate! Hold it!
 samwell_tarly  We need more men down here.
@@ -172,7 +172,7 @@ jon_snow What are you doing up here?
 samwell_tarly The Wildlings are over the walls. Ser Alliser has fallen. The castle walls can't stand much longer.
 jon_snow Ed. You have The Wall. If they try the mammoths again, drop fire on them. If the climbers get too high, drop the scythe on them.
 jon_snow Two brothers now fight with me.
-dolorous_edd Might as well enjoy our last night, right boys? Light the fuckers up. Knock! Draw! Loose!
+eddison_tollett Might as well enjoy our last night, right boys? Light the fuckers up. Knock! Draw! Loose!
 donnel_hill How are we gonna stop that?
 cooper We shot twenty-eight arrows in him already.
 grenn You heard Jon, we hold the gate.
@@ -193,10 +193,10 @@ ygritte Do you remember that cave?
 ygritte We should've stayed in that cave.
 jon_snow We'll go back there.
 ygritte You know nothing, Jon Snow.
-dolorous_edd Drop the scythe, boys!
-dolorous_edd Hoister up!
-dolorous_edd They've had enough for one night.
-dolorous_edd Don't cheer too loud. They still outnumber us a thousand to one.
+eddison_tollett Drop the scythe, boys!
+eddison_tollett Hoister up!
+eddison_tollett They've had enough for one night.
+eddison_tollett Don't cheer too loud. They still outnumber us a thousand to one.
 jon_snow Tormund. It's over, let it end.
 tormund_giantsbane This is how a man ends.
 jon_snow Put him in chains. We'll question him later.

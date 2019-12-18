@@ -58,24 +58,24 @@ gilly You know all that from staring at marks on paper?
 samwell_tarly Yes.
 gilly You're like a wizard.
 gilly Our father used to tell us that no wildling ever looked upon the Wall and lived. Here we are. Alive.
-the_hound Remember what happens to children who run. I'm your father and I'll do the talking.
+sandor_clegane Remember what happens to children who run. I'm your father and I'll do the talking.
 hog_farmer The roads have gone right to hell, haven't they? Cracked three spokes this morning.
-the_hound Need a hand?
+sandor_clegane Need a hand?
 hog_farmer Need about eight hands.
 hog_farmer Got to get this salt pork to The Twins in time for the wedding.
 hog_farmer Many thanks.
 arya_stark Don't! Don't kill him.
-the_hound Dead rats don't squeak.
+sandor_clegane Dead rats don't squeak.
 arya_stark You're so dangerous, aren't you? Saying scary things to little girls. Killing little boys and old people. A real hard man you are.
-the_hound More than anyone you know.
+sandor_clegane More than anyone you know.
 arya_stark You're wrong. I know a killer. A real killer.
-the_hound That so?
+sandor_clegane That so?
 arya_stark You'd be like a kitten to him. He'd kill you with his little finger.
-the_hound That him?
+sandor_clegane That him?
 arya_stark No.
-the_hound Good.
+sandor_clegane Good.
 arya_stark Don't kill him! Please. Please don't.
-the_hound You're very kind. Someday it'll get you killed.
+sandor_clegane You're very kind. Someday it'll get you killed.
 osha Where are we?
 bran_stark The Gift, I think. Brandon The Builder gave all this land south of the Wall to the Night’s Watch for their sustenance and support. Maester Luwin taught me that.
 jojen_reed Doesn’t seem to be supporting anyone at the moment.
@@ -105,18 +105,18 @@ tormund_giantsbane Spread out. Surround the hut and move in.
 jon_snow Ygritte!
 tormund_giantsbane Clear the barn!
 arya_stark No one’s going to believe you’re a hog farmer if you eat them all.
-the_hound Best part of the animal.
-the_hound Don’t worry, they’re still there.
+sandor_clegane Best part of the animal.
+sandor_clegane Don’t worry, they’re still there.
 arya_stark I know they’re still there.
-the_hound You check every five minutes like you’re afraid they’re gonna move.
+sandor_clegane You check every five minutes like you’re afraid they’re gonna move.
 arya_stark I’m not afraid.
-the_hound Of course you are. You’re almost there and you’re afraid you won’t make it. The closer you get, the worse the fear gets. No point in trying to hide behind that face. I know fear when I see it. Seen it a lot.
+sandor_clegane Of course you are. You’re almost there and you’re afraid you won’t make it. The closer you get, the worse the fear gets. No point in trying to hide behind that face. I know fear when I see it. Seen it a lot.
 arya_stark I knew fear when I saw it in you. You’re afraid of fire.
 arya_stark When Beric’s sword went up in flames, you looked like a scared little girl.
 arya_stark And I know why, too. I heard what your brother did to you. Pressed your face to the fire like you’re a nice juicy mutton chop.
-the_hound That give you some ideas?
+sandor_clegane That give you some ideas?
 arya_stark Might do.
-the_hound Go ahead then. You might get away. Might even make it there on your own. They’re just over the river. The closest you’ve been to family since Ilyn Payne snipped your daddy’s neck.
+sandor_clegane Go ahead then. You might get away. Might even make it there on your own. They’re just over the river. The closest you’ve been to family since Ilyn Payne snipped your daddy’s neck.
 arya_stark Someday I’m gonna put a sword through your eye and out the back of your skull.
 bran_stark How are we going to get past the Wall? My uncle said it’s 700 feet high.
 bran_stark How did you get past it?
@@ -156,8 +156,8 @@ meera_reed What did you do?
 bran_stark Nothing. I don’t know.
 rickon_stark What’s That?
 osha That’s a horse dying.
-wildling_1#unknwon#GameOfThrones.Season03.Episode09 Bring them over here.
-wildling_2#unknwon#GameOfThrones.Season03.Episode09 That was the last of them. The rest are dead.
+wildling_1#unknown#GameOfThrones.Season03.Episode09 Bring them over here.
+wildling_2#unknown#GameOfThrones.Season03.Episode09 That was the last of them. The rest are dead.
 orell I heard shouting up there.
 tormund_giantsbane Thunder.
 orell I know the difference between shouting and thunder.
@@ -260,11 +260,11 @@ robb_stark Striking your king is an act of treason.
 talisa_stark No, don’t. Don’t insult them.
 walder_frey Your Grace.
 walder_frey The Septon has prayed his prayers, some words were said and Lord Edmure has wrapped my daughter in a cloak. But they are not yet man and wife. A sword needs a sheath . What does my sire say?
-everybody#unknwon#GameOfThrones.Season03.Episode09 To bed! To bed! To bed!
+everybody#unknown#GameOfThrones.Season03.Episode09 To bed! To bed! To bed!
 robb_stark If you think the time is right, Lord Walder, by all means, let us bed them.
-everybody#unknwon#GameOfThrones.Season03.Episode09 To bed! To bed! To bed!
+everybody#unknown#GameOfThrones.Season03.Episode09 To bed! To bed! To bed!
 edmure_tully Ho-ho! Careful now, ladies. Once you set that monster free, there’s no caging him again .
-everybody#unknwon#GameOfThrones.Season03.Episode09 To bed! To bed! To bed!
+everybody#unknown#GameOfThrones.Season03.Episode09 To bed! To bed! To bed!
 catelyn_stark Poor girl.
 roose_bolton Every bride suffers the same. I’m sure you endured yours with grace.
 catelyn_stark Oh, Ned forbade it. He said it wouldn’t be right if he broke a man’s jaw on our wedding night.
@@ -278,21 +278,21 @@ talisa_stark I don’t know. But if it’s a boy, I know what we should name him
 robb_stark Oh, do you? It seems to me the father should have some say in his son’s naming.
 talisa_stark Eddard. Don’t you want to teach little Ned Stark how to ride horses?
 robb_stark I do.
-the_hound Whoa, whoa, whoa, whoa.
+sandor_clegane Whoa, whoa, whoa, whoa.
 frey_guard Where are you going?
-the_hound Got salt pork for the feast.
+sandor_clegane Got salt pork for the feast.
 frey_guard The feast is over.
-the_hound It doesn’t sound like it’s over.
+sandor_clegane It doesn’t sound like it’s over.
 frey_guard If I tell you it’s over, it’s over. Turn this cart around and get the hell out of here.
-the_hound Got pig’s feet, too .
+sandor_clegane Got pig’s feet, too .
 frey_guard Are you soft in the head? Turn this cart around!
 walder_frey Your Grace.
 walder_frey I feel I’ve been remiss in my duties.
 walder_frey I’ve given you meat and wine and music but I haven’t shown you the hospitality you deserve. My king has married and I owe my new queen a wedding gift.
 catelyn_stark Robb!
-man_1#unknwon#GameOfThrones.Season03.Episode09man_2#unknwon#GameOfThrones.Season03.Episode09 Feast over yet, is it?
-frey_man#unknwon#GameOfThrones.Season03.Episode09 Aye, it’s over!
-the_hound It’s too late.
+man_1#unknown#GameOfThrones.Season03.Episode09man_2#unknown#GameOfThrones.Season03.Episode09 Feast over yet, is it?
+frey_man#unknown#GameOfThrones.Season03.Episode09 Aye, it’s over!
+sandor_clegane It’s too late.
 walder_frey The King in the North arises, heh heh.
 catelyn_stark Lord Walder! Lord Walder, enough! Let it end! Please! He is my son! My first son! Let him go and I swear that we will forget this! I swear it by the Old Gods and New! We will take no vengeance.
 walder_frey You already swore me one oath right here in my castle. You swore by all the Gods, your son would marry my daughter!
