@@ -1,0 +1,440 @@
+thoros Lord, cast your light upon us.
+men Lord of Light, defend us.
+thoros Show us the truth. Strike this man down if he is guilty. Give strength to his sword if he is true. Lord of Light, give us wisdom. For the night is dark and full of terrors.
+men For the night is dark and full of terrors.
+thoros Get back.
+men Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty.
+arya_stark Kill him!
+thoros Lord, cast your light upon this man, your servant. Bring him back from death and darkness. His flame has been extinguished. Restore it.
+thoros For the night is dark and full of terrors. Lord, cast-
+gendry arya, don't!
+thoros Bring him back from death and darkness
+arya_stark No! Let go of me! Let me go!
+sandor_clegane Looks like their god likes me more than your butcher's boy.
+arya_stark Burn in hell!
+beric_dondarrion He will. But not today.
+tormund Orell says there are crows patrolling on the Wall. Tell me what you know.
+jon_snow There are four to a patrol- two builders to check for structural damage, two rangers to watch for enemies.
+orell How often do these patrols go out?
+jon_snow It varies. If I knew where on the Wall we were heading, I could tell you.
+orell You'd like to know that.
+tormund There are nineteen castles guarding the Wall. How many are manned?
+jon_snow Three.
+orell You sure of that?
+orell Which three?
+jon_snow Castle Black.
+orell Aye, Castle Black. Everyone knows Castle Black. Which others?
+jon_snow Eastwatch-by-the-Sea and the Shadow Tower.
+tormund How many men remain in Castle Black?
+jon_snow A thousand.
+orell Liar.
+jon_snow What happens to your eagle after I kill you? Does he drift away like a kite with his strings cut or does he just flop dead to the ground?
+ygritte He's no crow.
+orell Just 'cause you want him inside you don't make him one of us.
+ygritte I'm not afraid of you.
+tormund I like you, boy. But if you lie to me, I'll pull your guts out through your throat.
+jon_snow A thousand men.
+tormund We'll find out soon enough.
+jon_snow I don't need you to protect me.
+ygritte Of course you do. Who stopped Rattleshirt when he was about to cut your throat? Who vouched for you with Mance? It seems you owe me a debt.
+jon_snow Give it back.
+ygritte Well, I stole it. It's mine. If you want it, come steal it back.
+jon_snow Ygritte! Ygritte!
+jon_snow Ygritte! Seven hells. Ygritte!
+ygritte Is Orell right? Are you still a crow? It's time you proved yourself.
+jon_snow Ygritte.
+ygritte You swore some vows. I want you to break 'em. I want you to see me.
+ygritte All of me.
+jon_snow We shouldn't.
+ygritte We should.
+ygritte Why are you still dressed? You know nothing, jon_snow Sno-
+ygritte That thing you did with your mouth- is that what lords do to their ladies in the South?
+jon_snow I don't know. I just wanted to kiss you there is all.
+ygritte Hmm.
+jon_snow You seemed to like it.
+ygritte Aye, I liked it some. Who taught you that?
+jon_snow There's been no one else. Only you.
+ygritte A maid. You were a maid.
+jon_snow I was a man of the Night's Watch. How about you? Were you a maid?
+ygritte What do you think?
+jon_snow Who was he?
+ygritte Just a boy. He came trading with his brothers. He had red hair like me. Kissed by fire. But he was weak. Not like you. That was the first one. Then there was this Thenn boy. Spoke no Common, but gods, he was built like a mammoth.
+jon_snow Yeah, thanks. I think I've heard enough. We'd best get back. Tormund-
+ygritte I'm not done with you yet.
+ygritte How long's it been since you had a bath?
+ygritte Let's not go back. Let's stay here a while longer. I don't ever want to leave this cave, jon Snow. Not ever.
+sandor_clegane I want my gold.
+thoros It says it clearly right there on that note you'll be repaid in full when the war is over.
+sandor_clegane Piss on that! You're nothing but thieves.
+anguy We're outlaws. Outlaws steal. You're lucky we didn't kill you.
+sandor_clegane Come try it, archer. I'll shove those arrows up your ass.
+arya_stark You can't let him go. He's a murderer. He's guilty.
+beric_dondarrion Not in the eyes of god.
+arya_stark You can't!
+beric_dondarrion Enough! The judgment isn't ours to make.
+beric_dondarrion Go in peace, Sandor Clegane. The Lord of Light isn't done with you yet.
+man Riders coming through!
+man The Kingslayer.
+man_#2 Down!
+locke On your knees. Lord Bolton, I give you the Kingslayer.
+roose_bolton Pick him up, Locke.
+roose_bolton You've lost a hand.
+locke No, my lord, he has it here.
+roose_bolton Take this away.
+locke Send it to his father?
+roose_bolton You'll hold your tongue unless you want to lose it.
+roose_bolton Cut her free. Apologies, my lady. You're under my protection now.
+brienne_of_tarth Thank you, my lord.
+roose_bolton Find suitable rooms for our guests. We'll speak later.
+jaime_lannister Lord Bolton.
+jaime_lannister Is there word from the capital?
+roose_bolton You haven't heard? stannis_baratheon Baratheon laid siege to King's Landing. Sailed into Blackwater Bay. Stormed the gates with thousands of men. And your sister How can I put this? Your sister is alive and well. Your father's forces prevailed.
+roose_bolton Ser jaime isn't well. Take him to Qyburn.
+jaime_lannister Will I die?
+qyburn No. The corruption has spread. I fear it must be cut away. The safest course would be to take the whole arm off.
+jaime_lannister Then you'll die. You're no maester. Where's your chain?
+qyburn The Citadel stripped me of it. They found some of my experiments too bold. I can leave your upper arm, make the cut at your elbow.
+jaime_lannister I don't need my right hand to kill you.
+qyburn I can take away the rotting flesh and try and burn out the corruption - with boiling wine.
+jaime_lannister Mmm.
+qyburn With any luck, that will suffice. You'll need milk of the poppy.
+jaime_lannister No milk of the poppy.
+qyburn There will be pain.
+jaime_lannister I'll scream.
+qyburn Quite a bit of pain.
+jaime_lannister I'll scream loudly.
+cersei_lannister Lord Baelish.
+petyr_baelish Your Grace.
+cersei_lannister I wonder if I might ask you for a favor.
+petyr_baelish Of course, Your Grace.
+cersei_lannister I have reason to believe that House Tyrell do not hold the crown's best interests at heart.
+petyr_baelish I see. And have you shared these suspicions with Lord tywin_lannister?
+cersei_lannister My father's a practical man. He appreciates facts.
+petyr_baelish Myself, I often find them a hindrance.
+cersei_lannister And he appreciates those who aid his family, as you well know. He's almost as generous to those who help us as he is unpleasant towards those who don't. You have a good working relationship with the Tyrells. I thought you might look into it before you leave the capital.
+petyr_baelish I shall do my best.
+cersei_lannister Thank you. And your best will prove better than when I asked you to locate arya Stark?
+petyr_baelish I assure you that it will.
+olenna_tyrell Gods, boy, that's enough. We're not in a tavern.
+podrick_payne Pardon, my lady.
+olenna_tyrell No need to speak. Are there any figs? Fetch some. I always take figs midafternoon. They help move the bowels. To what do I owe this summons?
+tyrion_lannister Thank you for seeing me, my lady. I had hoped we might discuss a few financial matters.
+olenna_tyrell I climbed all those steps to discuss financial matters?
+tyrion_lannister It's the royal wedding. I'm told you had a hand in planning it.
+olenna_tyrell Naturally.
+tyrion_lannister It's shaping up to be a very involved affair. The word extravagant has been used.
+olenna_tyrell What good is the word extravagant if it can't be used to describe a royal wedding?
+tyrion_lannister I understand that.
+olenna_tyrell Good.
+tyrion_lannister But, as Master of Coin, it falls upon me to calculate the cost for the crown. As of now, it's a huge expense.
+olenna_tyrell And?
+tyrion_lannister And we're at war, Lady olenna_tyrell.
+olenna_tyrell Oh, I'd nearly forgotten.
+tyrion_lannister Yes, and maintaining supply lines-
+olenna_tyrell I can't think how it slipped my mind. What is it, twelve thousand infantrymen the Tyrell family has supplied? Two thousand in support. Provisions so this city might survive the winter. A million bushels of wheat. Half a million bushels each of barley, oats, and rye. Twenty thousand head of cattle. Fifty thousand sheep. You don't have to lecture me about wartime expenses. I'm quite familiar with them.
+tyrion_lannister And we are so grateful for your contributions which are necessary for the preservation of the realm.
+olenna_tyrell As is a royal wedding. The people are hungry for more than just food. They crave distractions. And if we don't provide them, they'll create their own. And their distractions are likely to end with us being torn to pieces. A royal wedding is much safer. Wouldn't you say?
+tyrion_lannister I would.
+olenna_tyrell And traditionally paid for by the royal family.
+olenna_tyrell I was told you were drunk, impertinent, and thoroughly debauched. You can imagine my disappointment at finding nothing but a browbeaten bookkeeper. Where did you go for them, Volantis?
+tyrion_lannister My lady-
+olenna_tyrell Oh, very well. I won't have it said that House Tyrell refuses to play its part. We'll pay for half the expenses and the celebrations will go on as planned. Is that sufficient?
+tyrion_lannister Quite sufficient. Thank you.
+olenna_tyrell Very good, then. That's settled. Good day.
+tyrion_lannister Give me that.
+arya_stark What are you doing?
+gendry Just mending Lord beric_dondarrion's armor.
+arya_stark Why?
+gendry I'm going to stay on and smith for the Brotherhood.
+arya_stark Have you lost your mind? When the Lannisters find this place, you think they'll spare the smiths? They'll cave your head in with your own helmet.
+gendry The Lannisters wanted to kill me long before I joined the Brotherhood.
+arya_stark You don't have to do this.
+gendry I want to. They need good men.
+arya_stark robb needs good men, too. We're leaving tomorrow. And then you-
+gendry What? Serve him? I've served men my entire life. I served Master Mott at King's Landing and he sold me to the Watch. I served Lord tywin_lannister at Harrenhal, wondering every day if I'd get tortured or killed. I'm done serving.
+arya_stark You just said you were serving Lord beric_dondarrion.
+gendry He may be their leader, but they chose him. These men are brothers. They're a family. I've never had a family.
+arya_stark I can be your family.
+gendry You wouldn't be my family. You'd be 'my lady'.
+martyn Willem. Willem!
+willem Is this a rescue?
+rickard_karstark Lannister filth! Take him!
+martyn Please, I didn't do anything. I'm just a squire. Please-
+robb_stark Bring them in.
+robb_stark Is that all of them? It took five of you to murder two unarmed squires?
+rickard_karstark Not murder, Your Grace. Vengeance.
+robb_stark Vengeance? Those boys didn't kill your sons. I saw Harrion die on the battlefield and Torrhen-
+rickard_karstark Was strangled by the Kingslayer. They were his kin.
+robb_stark They were boys! Look at them.
+rickard_karstark Tell your mother to look at them. She killed them as much as I.
+robb_stark My mother had nothing to do with this. This was your treason.
+rickard_karstark It's treason to free your enemies. In war, you kill your enemies. Did your father not teach you that, boy?
+robb_stark Leave him.
+rickard_karstark Aye. Leave me to the king. He wants to give me a scolding before he sets me free. That's how he deals with treason. Our King in the North. Or should I call him the King Who Lost the North?
+robb_stark Escort Lord Karstark to the dungeon. Hang the rest.
+man Mercy, sire! I didn't kill anyone. I only watched for the guards.
+robb_stark This one was only the watcher. Hang him last so he can watch the others die.
+man Please! Please, no. They made me do it! They made me! They made me!
+edmure_tully Word of this can't leave Riverrun. They were tywin_lannister Lannister's nephews. The Lannisters pay their debts. They never stop talking about it.
+robb_stark Would you make me a liar as well as a murderer?
+edmure_tully It wouldn't be lying. We will bury them and remain silent until the war is done.
+robb_stark I'm not fighting for justice if I don't serve justice to murderers in my ranks, no matter how highborn. He has to die.
+catelyn_stark The Karstarks are Northmen. They won't forgive the killing of their lord.
+talisa_stark Your mother's right. If you do this, the Karstarks will abandon you.
+robb_stark You tended to their wounds. You brought them supper. Now they're dead.
+talisa_stark And more boys will keep dying until this war is over. You need Karstark men to end it.
+catelyn_stark Spare his life. Keep him as a hostage.
+edmure_tully A hostage. Tell the Karstarks that as long as they remain loyal, he will not be harmed.
+rickard_karstark The blood of the First Men flows through my veins as much as yours, boy. I fought the Mad King for your father. I fought Joffrey for you. We are kin- Stark and Karstark.
+robb_stark That didn't stop you from betraying me. And it won't save you now.
+rickard_karstark I don't want it to save me. I want it to haunt you to the end of your days.
+robb_stark Kneel, my lord.
+robb_stark Rickard Karstark, Lord of Karhold, here in sight of gods and men, I sentence you to die. Would you speak a final word?
+rickard_karstark Kill me and be cursed. You are no king of mine.
+arya_stark Joffrey. cersei_lannister. Ilyn Payne. Ser Meryn. The Hound. What are you going to do with me?
+thoros At first light we'll ride for Riverrun. Your brother's there now. He'll make a contribution to our cause and you can go home.
+arya_stark I'm a hostage and you're selling me.
+thoros Don't think of it that way.
+arya_stark But it is that way.
+thoros It is. And it isn't.
+arya_stark More is than isn't.
+thoros beric_dondarrion admired your father a great deal, you know. He wanted to refuse your ransom altogether.
+arya_stark So why don't you?
+thoros We need the gold.
+beric_dondarrion Do I frighten you, child?
+arya_stark No.
+beric_dondarrion You're angry with me. And I don't blame you. But letting him go was the right thing. I have more reason than most to want him hanged.
+arya_stark I thought he killed you.
+beric_dondarrion He did.
+arya_stark But how?
+beric_dondarrion Thoros how many times have you brought me back?
+thoros It's the Lord of Light brings you back. I'm just the lucky drunk who says the words.
+beric_dondarrion How many times?
+thoros Five, I think. No, this makes six.
+beric_dondarrion Six.
+thoros There was the first time- the Mountain. Show her. Lance right through the chest.
+beric_dondarrion Then I was stabbed in the belly.
+thoros Then it was an arrow in the back. And that axe in the side.
+beric_dondarrion Then the Lannisters caught me and executed me for treason. Was it a hanging or a dagger in the eye?
+thoros Both. Fuckers couldn't decide.
+thoros And the Hound makes six.
+beric_dondarrion Second time I've been killed by a Clegane.
+thoros You'd think you'd learn. It's not getting any easier, you know.
+beric_dondarrion I know. Every time I come back, I'm a bit less. Pieces of you get chipped away.
+arya_stark Could you bring back a man without a head? Not six times. Just once.
+thoros I don't think it works that way, child.
+beric_dondarrion He was a good man, Ned Stark. He's at rest now, somewhere. I would never wish my life upon him.
+arya_stark I would. You're alive.
+selyse_baratheon Lord, cast your light upon me. Protect me in the darkness. Burn away my sins. Help me serve you. Use me as you will. For the night is dark and full of terrors.
+selyse_baratheon I have prayed day and night for you to come to me.
+stannis_baratheon My lady.
+stannis_baratheon I meant to come sooner. The battle-
+selyse_baratheon I know of your troubles, My king. The Lady Melisandre has told me everything.
+stannis_baratheon Yes, of course.
+selyse_baratheon You mustn't despair. Your claim is true. You will be victorious.
+stannis_baratheon I believed that once.
+selyse_baratheon You are the one god's champion and the finest man I've ever known.
+stannis_baratheon selyse_baratheon. I've broken a sacred vow. I've sinned.
+selyse_baratheon No.
+stannis_baratheon I've wronged you. I have shamed you.
+selyse_baratheon You're doing god's work.
+stannis_baratheon You don't understand. The Red Woman- the Lady Melisandre-
+selyse_baratheon I know, stannis. The Lady Melisandre has told me everything. No act done in service of the Lord of Light can ever be a sin. When she told me, I wept with joy.
+selyse_baratheon Oh, my sweet boys. Petyr, Tommard, Edric. I thank god every day for bringing Melisandre to us. She gave you a son. I gave you - nothing.
+stannis_baratheon That's not true.
+selyse_baratheon So you've come to see her as well? There is no need. You must keep away from such distractions.
+stannis_baratheon She's my daughter. I want to see her.
+selyse_baratheon You are a king. You don't need my permission.
+shireen_baratheon Under the sea I know, I know/ Oh, oh, oh
+shireen_baratheon The birds have scales  / And the fish take wing / I know, I know / Oh, oh, oh
+stannis_baratheon shireen.
+shireen_baratheon Father!
+stannis_baratheon You've grown since I last saw you.
+shireen_baratheon Mother said you fought in a battle. Did you win?
+stannis_baratheon No.
+shireen_baratheon Did the Onion Knight come back with you?
+stannis_baratheon He did. He fought bravely.
+shireen_baratheon He hasn't come to visit me. He said he'd bring me back a present from the capital.
+stannis_baratheon He won't be visiting, child.
+shireen_baratheon Why not? He's my friend. Look.
+shireen_baratheon He made this for me. But don't tell Mother I have it. It's a secret. Mother doesn't like the Onion Knight.
+stannis_baratheon Ser davos_seaworth is a traitor. He's rotting in a dungeon cell for his crime. Best forget him.
+jaime_lannister Not so hard. You'll scrub the skin off.
+brienne_of_tarth What are you doing here?
+jaime_lannister I need a bath. Help me out of these rags.
+jaime_lannister Now get out.
+brienne_of_tarth There's another tub.
+jaime_lannister This one suits me fine. Don't worry. I'm not interested. If I faint, pull me out. I don't intend to be the first Lannister to die in a bathtub.
+brienne_of_tarth Why should I care how you die?
+jaime_lannister You swore a solemn vow, remember? You're supposed to get me to King's Landing in one piece. Not going so well, is it? No wonder Renly died with you guarding him.
+jaime_lannister That was unworthy. Forgive me. You protected me better than most-
+brienne_of_tarth Don't you mock me.
+jaime_lannister I'm apologizing. I'm sick of fighting. Let's call a truce.
+brienne_of_tarth You need trust to have a truce.
+jaime_lannister I trust you.
+jaime_lannister There it is. There's the look. I've seen it for seventeen years on face after face. You all despise me. Kingslayer. Oathbreaker. A man without honor. You've heard of wildfire?
+brienne_of_tarth Of course.
+jaime_lannister The Mad King was obsessed with it. He loved to watch people burn, the way their skin blackened and blistered and melted off their bones. He burned lords he didn't like. He burned Hands who disobeyed him. He burned anyone who was against him. Before long, half the country was against him. Aerys saw traitors everywhere. So he had his pyromancer place caches of wildfire all over the city- beneath the Sept of Baelor and the slums of Flea Bottom. Under houses, stables, taverns. Even beneath the Red Keep itself. Finally, the day of reckoning came. Robert Baratheon marched on the capital after his victory at the Trident. But my father arrived first with the whole Lannister army at his back, promising to defend the city against the rebels. I knew my father better than that. He's never been one to pick the losing side. I told the Mad King as much. I urged him to surrender peacefully. But the king didn't listen to me. He didn't listen to Varys who tried to warn him. But he did listen to Grand Maester Pycelle, that grey, sunken cunt. 'You can trust the Lannisters,' he said. 'The Lannisters have always been true friends of the crown.' So we opened the gates and my father sacked the city. Once again, I came to the king, begging him to surrender. He told me to bring him my father's head. Then he turned to his pyromancer. 'Burn them all,' he said. 'Burn them in their homes. Burn them in their beds.' Tell me, if your precious Renly commanded you to kill your own father and stand by while thousands of men, women, and children burned alive, would you have done it? Would you have kept your oath then?
+jaime_lannister First, I killed the pyromancer. And then when the king turned to flee, I drove my sword into his back. 'Burn them all,' he kept saying. 'Burn them all.' I don't think he expected to die. He- he meant to burn with the rest of us and rise again, reborn as a dragon to turn his enemies to ash. I slit his throat to make sure that didn't happen. That's where Ned Stark found me.
+brienne_of_tarth If this is true why didn't you tell anyone? Why didn't you tell Lord Stark?
+jaime_lannister Stark? You think the honorable Ned Stark wanted to hear my side? He judged me guilty the moment he set eyes on me. By what right does the wolf judge the lion? By what right?
+brienne_of_tarth Help! Help! The Kingslayer!
+jaime_lannister jaime_lannister. My name is jaime_lannister.
+shireen_baratheon Onion Knight. Ser Onion Knight.
+davos_seaworth Princess? Gods, what are you doing here?
+shireen_baratheon Shh, you'll wake Bert.
+davos_seaworth Bert?
+shireen_baratheon He's the fat one. He's on guard duty tonight. He likes to drink wine and sleep a lot.
+davos_seaworth Go back to your room. You're not supposed to be here. If your father knew-
+shireen_baratheon he said you Were a traitor. Are you?
+davos_seaworth I am, child. I disobeyed my king, your father, and now I'm paying the price.
+shireen_baratheon I don't care. You're my friend. You must get bored down here. I brought you something to read. It's about Aegon and his dragons. Aegon used to live here. Did you know that? And the Targaryens built this castle.
+davos_seaworth Aye. So they did.
+shireen_baratheon You can hide the book under your cloak. It's a good one. I'll bring you more.
+davos_seaworth Thank you, my lady. I'm sure it's a fine book, but it's wasted on me.
+shireen_baratheon Take it. I have more.
+davos_seaworth My lady, I can't read the words.
+shireen_baratheon You can't?
+shireen_baratheon I'll teach you. I'll come when Bert's on duty and teach you.
+davos_seaworth No. No. No.
+shireen_baratheon It's easy. It'll be fun.
+davos_seaworth Go. We can't.
+shireen_baratheon Why not? What will they do, lock us in cells?
+davos_seaworth I wouldn't know where to start.
+shireen_baratheon At the beginning. This word is Aegon. When you see A, E, and G together like that, it sounds like egg. And the title of the whole book is 'An History of Aegon the Conqueror and His Conquest of Westeros.'
+jorah_mormont It was a bitch of a siege.
+barristan_selmy Mm, you were first through the breach at Pyke?
+jorah_mormont The second. Thoros of Myr went in alone, waving that flaming sword of his.
+barristan_selmy Thoros of Myr. Bloody madman. Robert knighted you after the battle?
+jorah_mormont Proudest moment of my life. One knee in the dust, the king's sword on my shoulder, listening to the words. 'In the name of the Warrior, I charge you to be brave.' All I could think of was how badly I had to piss.
+jorah_mormont In full plate metal for sixteen hours. Never occurred to me till the fighting was over. I was very nearly the first man knighted to piss on the king's boots.
+barristan_selmy Robert would have laughed. He was a good man, a great warrior. And a terrible king. I burned away my years fighting for terrible kings.
+jorah_mormont You swore an oath.
+barristan_selmy Yes. And a man of honor keeps his vows, even if he's serving a drunk or a lunatic. Just once in my life before it's over, I want to know what it's like to serve with pride, to fight for someone I believe in. Do you believe in her?
+jorah_mormont With all my heart.
+daenerys_targaryen These are the ones?
+missandei Yes, khaleesi. The officers.
+daenerys_targaryen You did not choose this life. But you are free men now. And free men make their own choices. Have you selected your own leader from amongst your ranks?
+daenerys_targaryen Remove your helmet
+grey_worm This one has the honor.
+daenerys_targaryen What is your name?
+grey_worm Grey Worm.
+daenerys_targaryen Grey Worm.
+missandei All Unsullied boys are given new names when they are cut- Grey Worm, Red Flea, Black Rat. Names that remind them what they are- vermin.
+daenerys_targaryen From this day forward you will choose your own names. You will tell your fellow soldiers to do the same. Throw away your slave name. Choose the name your parents gave you, or any other. A name that gives you pride.
+grey_worm "Grey Worm" gives me pride. It is a very lucky name. The name this one was born with was cursed. That was the name he had when he was taken as a slave. But Grey Worm is the name this one had the day daenerys Stormborn set him free.
+jorah_mormont King Robert wanted her dead.
+barristan_selmy Of course he wanted her dead. She's a Targaryen. The last Targaryen.
+jorah_mormont I suppose no one on the small council could speak sense to him.
+barristan_selmy I didn't sit on the small council.
+jorah_mormont No? Doesn't the Lord of the Kingsguard traditionally-
+barristan_selmy Traditionally, yes, but I killed a dozen of Robert's friends during his rebellion.
+barristan_selmy He didn't want advice on how to govern from a man who had fought for the Mad King. Can't say I minded much. I always hated the politics.
+jorah_mormont Yeah, I imagine I would, too. Hours spent jabbering about backstabbings - and betrayals the world over.
+barristan_selmy Mm-hmm.
+jorah_mormont Still, she'll have to wade through that muck if she wants to rule the Seven Kingdoms.
+barristan_selmy She'll have good men around her to advise her, men with experience.
+jorah_mormont Which men do you have in mind?
+barristan_selmy Forgive me, Ser jorah_mormont, for what I'm about to say, but your reputation in Westeros has suffered over the years.
+jorah_mormont It suffered for a reason. I sold men into slavery.
+barristan_selmy I don't know if your presence by her side will help our cause when we go home.
+jorah_mormont Our cause? Forgive me, Ser barristan_selmy, but I was busy defending the khaleesi against King Robert's assassins while you were still bowing to the man.
+barristan_selmy We both want her to rule. Am I wrong?
+jorah_mormont You only joined us a few days ago. I can't speak to your intentions.
+barristan_selmy If we're truly her loyal servants, we will do whatever needs to be done, no matter the cost, no matter our pride.
+jorah_mormont You're not Lord here. You're just another exile. And I take my orders from the queen.
+talisa_stark Come to bed.
+robb_stark You were right.
+robb_stark The Karstarks are gone. Almost half our forces. tywin_lannister Lannister knows what he needs to do to make us unravel. Nothing. Only wait.
+talisa_stark Don't let him.
+robb_stark What can I do? Attack King's Landing? There's nothing he'd like better. He'd crush us in a day.
+talisa_stark We could ride north. Take your land back from the Greyjoys. Wait out the winter.
+robb_stark Winter could last five years. Once my bannermen are home again, sitting by the fire, surrounded by their families, warm and safe, they'll never ride south again. When I gathered my lords together, we had a purpose, a mission. Now we're like a band of bickering children.
+talisa_stark Give them a new purpose.
+robb_stark What?
+talisa_stark Oh, I don't know. I don't even know where Winterfell is.
+robb_stark Here. And we're here. King's Landing-
+talisa_stark What is it?
+robb_stark I can't force them to meet us in the field and I can't attack them where they're strongest, but I can attack them where they're not.
+robb_stark And Casterly Rock can't run away. I'm going to take their home away from them.
+talisa_stark Can you do it?
+robb_stark I need men to replace the Karstarks who marched home. There is only one person in this kingdom with that kind of army who hasn't already sided with the Lannisters. The man whose daughter I was supposed to marry- Walder Frey.
+sansa_stark He's such a splendid fighter. Do you have any idea when we might
+margaery_tyrel I'll plant the seed as soon as Joffrey and I are married. It should grow quickly.
+sansa_stark Joffrey won't let me leave. He's got too many reasons to keep me here.
+margaery_tyrel And only one to let you go. Because it will please me.
+loras_tyrell Squire!
+olyvar Well fought, ser.
+loras_tyrell That was no fight. I don't know you.
+olyvar Olyver, if it please you.
+olyvar I should like to see you spar with a proper partner, ser.
+loras_tyrell How did you know?
+olyvar Know what?
+loras_tyrell That I wanted to.
+loras_tyrell My lord, I'll have you know I'm to be married soon and even my intended hasn't the slightest notion.
+olyvar They rarely do, in my experience.
+loras_tyrell You have a good deal of experience, do you?
+olyvar With the husbands.
+petyr_baelish That didn't take long.
+olyvar Well, it took long enough. It seems our Knight of Flowers is engaged to be wed.
+petyr_baelish Is he? And who's the lucky girl?
+petyr_baelish She may not be the grandest ship in the world or the fastest, but she's mine. I've always wanted a ship. Now I want a dozen. Strange, isn't it?
+sansa_stark What is?
+petyr_baelish It doesn't matter what we want, once we get it, then we want something else. Your hair is different.
+sansa_stark Is it?
+petyr_baelish Lady margaery_tyrel wears it that way.
+sansa_stark Many ladies wear it this way.
+petyr_baelish I have good news. I'll be leaving the city soon.
+sansa_stark You still want me to come with you?
+petyr_baelish It's not a question of what I want. It's what you want. You want to go home, don't you?
+sansa_stark Of course. More than anything. But maybe it would be better to wait. I've been thinking how dangerous it would be. Not just for me, but for you. You've been so kind. I'd feel terrible if anything happened to you. I can't tell you how touched I am by your concern for my welfare.
+petyr_baelish I hope you know that I'm your friend, sansa_stark. Your true friend.
+sansa_stark I do, Lord Baelish.
+petyr_baelish Petyr.
+sansa_stark Petyr.
+petyr_baelish If you wish to stay, then of course you will stay.
+petyr_baelish We'll speak again when I return.
+tywin_lannister You're late.
+tyrion_lannister What's she doing here?
+tywin_lannister Our business concerns her, too. Sit.
+tyrion_lannister You'll be pleased to learn that after one conversation with olenna_tyrell Tyrell, I've saved the crown hundreds of thousands on this wedding.
+tywin_lannister Never mind that now. We have something important to discuss.
+tyrion_lannister I'm Master of Coin. Saving money is important.
+tyrion_lannister Stop that. You're making me uncomfortable.
+tywin_lannister Your sister has learned that your new friends the Tyrells are plotting to marry sansa_stark Stark to Ser loras_tyrell.
+tyrion_lannister Very well. She's a lovely girl. Missing some of loras_tyrell' favorite bits, but I'm sure they'll make do.
+tywin_lannister Your jokes are not appreciated.
+tyrion_lannister It wasn't my best, but-
+tywin_lannister I bring them into the royal fold and this is how they repay me, by trying to steal the key to the North out from under me.
+tyrion_lannister sansa_stark is the key to the North? I seem to remember she has an older brother.
+tywin_lannister The Karstarks have marched home. The young wolf has lost half his army. His days are numbered. Theon Greyjoy murdered both his brothers. That makes sansa_stark Stark the heir to Winterfell. And I am not about to hand her over to the Tyrells.
+tyrion_lannister The Tyrell army is helping us to win this war. Do you really think it's wise to refuse them?
+tywin_lannister There's nothing to refuse. This is a plot. Plots are not public knowledge. And the Tyrells won't carry this one out until after Joffrey's wedding. We need to act first and kill this union in its crib.
+tyrion_lannister And how do we do that?
+tywin_lannister We find sansa_stark Stark a different husband.
+tyrion_lannister Wonderful.
+cersei_lannister Yes, it is.
+tyrion_lannister You can't mean it.
+tywin_lannister I can and I do.
+tyrion_lannister Joffrey has made this poor girl's life miserable since the day he took her father's head. Now she's finally free of him and you give her to me? That's cruel even for you.
+tywin_lannister Do you intend on mistreating her? The girl's happiness is not my concern, nor should it be yours.
+tyrion_lannister She's a child!
+cersei_lannister She's flowered, I assure you. She and I have discussed it at length.
+tywin_lannister There, you see? You will wed her, bed her, and put a child in her. Surely you're capable of that.
+tyrion_lannister And if I refuse?
+tywin_lannister You wanted to be rewarded for your valor in battle. sansa_stark Stark is a finer reward than you could ever dare hope for. And it is past time you were wed.
+tyrion_lannister I was wed. Or don't you remember?
+tywin_lannister Only too well.
+cersei_lannister You should be thanking the gods for this. This is more than you deserve.
+tywin_lannister tyrion_lannister will do as he's bid. As will you.
+cersei_lannister What do you mean?
+tywin_lannister You'll marry Ser loras_tyrell.
+cersei_lannister I will not.
+tywin_lannister The boy is heir to Highgarden. tyrion_lannister will secure the North, you will secure the Reach.
+cersei_lannister No, I won't do it.
+tywin_lannister Yes, you will. You're still fertile. You need to marry again and breed.
+cersei_lannister I am Queen Regent, not some broodmare.
+tywin_lannister You're my daughter! You will do as I command and you will marry loras Tyrell and put an end to the disgusting rumors about you once and for all.
+cersei_lannister Father, don't make me do it again, please.
+tywin_lannister Not another word. My children. You've disgraced the Lannister name for far too long.
+shireen_baratheon It's always summer / Under the sea / I know I know / Oh, oh, oh. / The birds have scales / And the fish take wing / I know I know / Oh, oh, oh. / The rain is dry / and snow falls up / I know, I know / Oh, oh, oh. / The stones crack open / The water burns / The shadows come to dance / My lord / The shadows come to play / The shadows come to dance / My lord / The shadows come to stay.
