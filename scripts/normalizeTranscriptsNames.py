@@ -185,7 +185,8 @@ def normalize_names(id_series, season_number, episode_number):
 
 def unknown_char(char_name, id_ep):
     """Transforms character name into unknown version."""
-
+    if "#unknown#" in char_name:#trick when re-processing already processed files
+        return char_name
     return f"{char_name}#unknown#{id_ep}"
 
 
