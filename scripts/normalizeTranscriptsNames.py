@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE]
+"""Usage: normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE] [--quiet]
 
 Arguments:
     id_series    Id of the series
@@ -9,7 +9,7 @@ Arguments:
 Options:
     -s SEASON    Season number to iterate on (all seasons if not specified)
     -e EPISODE   Episode number (all episodes of the season if not specified)
-
+    --quiet      Display only the names that have changed.
 """
 
 import pyannote.database
@@ -93,7 +93,7 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     return names_dict
 
 
-def normalize_names(id_series, season_number, episode_number):
+def normalize_names(id_series, season_number, episode_number, verbose = True):
     """Manual normalization.
 
     Parameters
@@ -104,6 +104,8 @@ def normalize_names(id_series, season_number, episode_number):
         The desired season number. If None, all seasons are processed.
     episode_number : `str`
         The desired episode_number. If None, all episodes are processed.
+    verbose : bool
+        Display names even if they did not change (Default).
 
     Returns
     -------
@@ -113,10 +115,10 @@ def normalize_names(id_series, season_number, episode_number):
 
     # Plumcot database object
     db = Plumcot()
-
     # Retrieve IMDB normalized character names
     imdb_chars_series = db.get_characters(id_series, season_number,
                                           episode_number)
+
     # Retrieve transcripts normalized character names
     trans_chars_series = db.get_transcript_characters(id_series, season_number,
                                                       episode_number)
@@ -154,7 +156,8 @@ def normalize_names(id_series, season_number, episode_number):
             for name, norm_name in dic_names.items():
                 # Get number of speech turns of the character for this episode
                 appearence = trans_chars[name]
-                print(f"{name} ({appearence})  ->  {norm_name}")
+                if name != norm_name or verbose:
+                    print(f"{name} ({appearence})  ->  {norm_name}")
 
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
@@ -223,8 +226,8 @@ def main(args):
     episode_number = args['-e']
     if episode_number:
         episode_number = f"{int(episode_number):02d}"
-
-    normalize_names(id_series, season_number, episode_number)
+    verbose = not args["--quiet"]
+    normalize_names(id_series, season_number, episode_number, verbose)
 
 
 if __name__ == '__main__':
