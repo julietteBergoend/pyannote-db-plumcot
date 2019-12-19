@@ -1,8 +1,8 @@
 night’s_watchman#unknown#GameOfThrones.Season06.Episode01 It’s the Lord Commander!
 davos_seaworth Help me get him inside.
-dolorous_edd Thorne did this.
+eddison_tollett Thorne did this.
 davos_seaworth How many of your brothers do you think you can trust?
-dolorous_edd Trust? The men in this room.
+eddison_tollett Trust? The men in this room.
 davos_seaworth Does the wolf know you?
 davos_seaworth We need all the help we can get.
 melisandre Ser Davos.
@@ -19,15 +19,15 @@ nights_watchman_2#unknown#GameOfThrones.Season06.Episode01 Traitors!
 alliser_thorne You’re right!
 alliser_thorne We’ve committed treason, all of us. Jon Snow was my Lord Commander. I had no love for him. That was no secret. But I never once disobeyed an order. Loyalty is the foundation on which the Night’s Watch is built, and the Watch means everything to me. I have given my life, we have all given our lives to the Night’s Watch. Jon Snow was going to destroy the Night’s Watch. He let the wildlings through our gates, as no Lord Commander has ever done before. He gave them the very land on which they reaved and raped and murdered. Lord Commander Snow did what he thought was right, I’ve no doubt about that. And what he thought was right would have been the end of us. He thrust a terrible choice upon us, and we made it.
 davos_seaworth He’ll have seen we didn’t come. Thorne will have made it official by now. Castle Black is his.
-dolorous_edd I don’t care who’s sitting at the high table. Jon was my friend, and those fuckers butchered him. Now we return the favor.
+eddison_tollett I don’t care who’s sitting at the high table. Jon was my friend, and those fuckers butchered him. Now we return the favor.
 davos_seaworth We don’t have the numbers.
-dolorous_edd We have a direwolf.
+eddison_tollett We have a direwolf.
 davos_seaworth It’s not enough. I didn’t know Lord Commander Snow for long, but I have to believe he wouldn’t have wanted his friends to die for nothing.
-dolorous_edd If you were planning to see tomorrow, you picked the wrong room. We all die today. I say we do our best to take Thorne with us when we go.
+eddison_tollett If you were planning to see tomorrow, you picked the wrong room. We all die today. I say we do our best to take Thorne with us when we go.
 davos_seaworth We need to fight, but we don’t need to die. Not if we have help.
 night’s_watchman#unknown#GameOfThrones.Season06.Episode01 Who’s gonna help us?
 davos_seaworth You’re not the only ones who owe your lives to Jon Snow.
-dolorous_edd Bolt the door. Don’t let anyone in. I’ll be back as soon as I can.
+eddison_tollett Bolt the door. Don’t let anyone in. I’ll be back as soon as I can.
 ramsay_bolton She was 11 the first time I saw her.
 ramsay_bolton The kennelmaster’s daughter. She smelled of dog. I wasn’t much older, but everybody was already afraid of me. You certainly were.
 ramsay_bolton Myranda wasn’t, though. What could I do to her that those hounds couldn’t? She was fearless. There was nothing she wouldn’t do.
