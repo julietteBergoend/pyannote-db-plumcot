@@ -33,8 +33,8 @@ maester_luwin What about all the dreams you had that didn't come true? Hmm? Righ
 maester_luwin This link is made of Valyrian steel. Only one maester in 100 wears it on his chain. It signifies that I have studied the higher mysteries. And all who study these mysteries try their hand at spells. I was no different. I was young. And what boy doesn't secretly wish for hidden powers to lift him out of his dull life into a special one? But in the end, for all my efforts, I got no more out of it than a thousand boys before me. Come on.
 maester_luwin All right. Maybe magic once was a mighty force in the world. But not anymore. The dragons are gone. The giants are dead. And the Children of the Forest forgotten.
 margaery_tyrell_mummer Loras! Highgarden!
-man#unknown#GameOfThrones#Season02.Episode03 Get him!
-crowd#unknown#GameOfThrones#Season02.Episode03 Oh!
+man#unknown#GameOfThrones.Season02.Episode03 Get him!
+crowd#unknown#GameOfThrones.Season02.Episode03 Oh!
 loras_tyrell Yield! I yield.
 renly_baratheon Well fought. Approach.
 renly_baratheon Rise. Remove your helm.
@@ -306,11 +306,11 @@ yoren Keep out of sight, both of you.
 arya_stark No, I'm not afraid.
 gendry I can fight.
 yoren Keep out of sight. If things go wrong, you run. Do you hear me? You run along north and don't look back. Hey, there's men out there who want to fuck your corpses. Outside, now!
-man#unknown#GameOfThrones#Season02.Episode03 Come on, move, move!
-man#unknown#GameOfThrones#Season02.Episode03 Gold cloaks!
-man#unknown#GameOfThrones#Season02.Episode03 Everyone out!
-man#unknown#GameOfThrones#Season02.Episode03 Hey, you!
-man#unknown#GameOfThrones#Season02.Episode03 Open the damn cage!
+man#unknown#GameOfThrones.Season02.Episode03 Come on, move, move!
+man#unknown#GameOfThrones.Season02.Episode03 Gold cloaks!
+man#unknown#GameOfThrones.Season02.Episode03 Everyone out!
+man#unknown#GameOfThrones.Season02.Episode03 Hey, you!
+man#unknown#GameOfThrones.Season02.Episode03 Open the damn cage!
 amory_lorch Where's the bastard, crow?
 yoren Got more than a few bastards here. Who's asking?
 amory_lorch Ser Amory Lorch, sworn bannerman to Lord Tywin Lannister. These men from the capital requested our assistance. Drop your weapons in the name of the King.
@@ -323,8 +323,8 @@ jaqen_hghar Boy, come here. Boy! - Sweet boy
 jaqen_hghar Come back here! Help us, boy
 jaqen_hghar Quick, give it to me. Give me the ax. Give me that.
 goldcloak Put them on the wagon!
-gold_cloak#unknown#GameOfThrones#Season02.Episode03 There's more here.
-gold_cloak#unknown#GameOfThrones#Season02.Episode03 Come on.
+gold_cloak#unknown#GameOfThrones.Season02.Episode03 There's more here.
+gold_cloak#unknown#GameOfThrones.Season02.Episode03 Come on.
 polliver What do we have here?
 arya_stark No!
 polliver That's a fine little blade. Maybe I'll pick my teeth with it.
