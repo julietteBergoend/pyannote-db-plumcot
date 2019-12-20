@@ -200,7 +200,7 @@ roslin_frey Lord Edmure, I hope I’m not a disappointment to you.
 edmure_tully You’re a delight to me, my lady.
 septon You may now cloak the bride and bring her under your protection.
 septon In the sight of the Seven, I hereby seal these two souls, binding them as one for eternity. Look upon each other and say the words.
-edmure_tully_&_roslin_frey#together Father, Smith, Warrior, Mother, Maiden, Crone, Stranger. I am hers from this day until the end of my days.
+edmure_tully@roslin_frey Father, Smith, Warrior, Mother, Maiden, Crone, Stranger. I am hers from this day until the end of my days.
 meera_reed Is that safe?
 osha They’re long gone.
 bran_stark You were right. I can get inside Summer’s mind whenever I want.
