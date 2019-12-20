@@ -126,12 +126,12 @@ jon_snow Your grace…
 stannis_baratheon ...or he burns.
 jon_snow How much time do I have?
 stannis_baratheon Nightfall. The sun drops fast this time of year. Hurry, Jon Snow.
-master_of_arms##unknown#GameOfThrones.Season05.Episode01 Sword up! Attack, my lord! Attack! Don’t cross your feet!
+master_of_arms#unknown#GameOfThrones.Season05.Episode01 Sword up! Attack, my lord! Attack! Don’t cross your feet!
 yohn_royce My sons have had swords in their hands from the time they could walk. This one…
 petyr_baelish Lord Arryn will never be a great warrior.
 yohn_royce Great warrior? He sings a sword like a girl with palsy.
 squire#unknown#GameOfThrones.Season05.Episode01 My lord.
-master_of_arms##unknown#GameOfThrones.Season05.Episode01 Sword up, my lord!
+master_of_arms#unknown#GameOfThrones.Season05.Episode01 Sword up, my lord!
 petyr_baelish Some boys develop more slowly. He’s still young.
 yohn_royce He’s 13. Boys go to war at 13.
 petyr_baelish He has other gifts.

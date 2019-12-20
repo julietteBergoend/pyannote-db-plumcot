@@ -357,7 +357,7 @@ matthos_seaworth . But I was. Every night that you were at sea, I lit a candle a
 davos_seaworth You want me to have a god, fine. King Stannis is my god. He raised me up and blessed me with his trust. He gave you a future I could never have imagined. You know how to read, you'll be a knight someday. You think your fire god commanded all that? It was Stannis. Only Stannis.
 matthos_seaworth . Stannis is my king, but he's only a man.
 davos_seaworth Don't tell him that.
-servant##unknown#GameOfThrones.Season02.Episode02 More, my Lord?
+servant#unknown#GameOfThrones.Season02.Episode02 More, my Lord?
 ashter#unknown#GameOfThrones.Season02.Episode02 Yes.
 howland#NONEXT So your mother went to see King Renly?
 ashter#unknown#GameOfThrones.Season02.Episode02 So it would seem. Soon enough, there will be more Kings then Kingdoms.

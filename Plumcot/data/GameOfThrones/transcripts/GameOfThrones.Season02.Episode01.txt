@@ -382,7 +382,7 @@ mhaegen No, you can't!
 mhaegen No! Please! No! Not my Barra! Please. Please.
 janos_slynt Enough. Get it done. Kill the bastard.
 janos_slynt Give it here.
-gold_cloak##unknown#GameOfThrones.Season02.Episode1 Spread out! Search every house, every room. Look in every room.
+gold_cloak#unknown#GameOfThrones.Season02.Episode1 Spread out! Search every house, every room. Look in every room.
 blacksmith#unknown#GameOfThrones.Season02.Episode1 Gendry! His name is Gendry.
 janos_slynt Where is the bastard?
 blacksmith#unknown#GameOfThrones.Season02.Episode1 The Night's Watch! Please, stop!
