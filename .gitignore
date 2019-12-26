@@ -32,3 +32,5 @@ images/
 
 #video (features)
 video/
+
+!*.manual.json
