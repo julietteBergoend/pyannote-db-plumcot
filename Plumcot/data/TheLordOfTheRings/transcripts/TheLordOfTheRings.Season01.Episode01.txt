@@ -207,7 +207,7 @@ spearthrowing_rohan_soldier Shire! Baggins!
 gondorian_ranger 'The Year thirty-four thirty-four of the Second Age. Here follows the account of Isildur, High King of Gondor and the finding of the Ring of Power.'
 gondorian_ranger 'It has come to me, the One Ring. It shall be an heirloom of my kingdom. All those who follow in my bloodline shall be bound to its fate for I will risk no hurt to the Ring. It is precious to me, though I buy it with great pain.' [The Ring in Isildur's fingers seems to shrink] 'The markings upon the band begin to fade. The writing, which at first was as clear as red flame, has all but disappeared. A secret now that only fire can tell.'
 black_rider#unknown#TheLordOfTheRings.Season01.Episode01 Shire. Baggins.
-merry_and_pippin#together Hey ho, to the bottle I go! To heal my heart and drown my woe. Rain may fall and wind may blow. But there still be - many miles to go!
+merry@pippin Hey ho, to the bottle I go! To heal my heart and drown my woe. Rain may fall and wind may blow. But there still be - many miles to go!
 first_hobbit#unknown#TheLordOfTheRings.Season01.Episode01 Sweet is the sound of the pouring rain, and the stream that falls from hill to plain. Better than rain or rippling brook — (Pippin finishes off solo) is a mug of beer inside this Took!
 bounder There's been some strange folk crossing the Shire. Dwarves, and others of a less than savoury nature.
 second_hobbit#unknown#TheLordOfTheRings.Season01.Episode01 War is brewing. The mountains are fair teeming with goblins.
@@ -453,7 +453,7 @@ stable_hand Can I have some bacon?
 easterling Okay. Want some tomatoes Sam?
 wildman What are you doing?!
 pippin Tomatoes, sausages, nice crispy bacon.
-all#together We saved some for you, Mister Frodo.
+all@ We saved some for you, Mister Frodo.
 wildman Put it out, you fools! Put it out!
 easterling Oh, that's nice! Ash on my tomatoes!
 wildman Uh?!
@@ -627,7 +627,7 @@ party_hobbit Ash Nazg Durbatulûk! Ash Nazg Gimbatul! Ash Nazg Gimbatul! Ash Naz
 denethor I will take it!
 easterling I will take it!
 elrond I will take the Ring to Mordor. Though — I do not know the way.
-pippin_and_merry#together [rises] If by my life or death, I can protect you, I will.
+pippin@merry [rises] If by my life or death, I can protect you, I will.
 stable_hand You have my sword.
 pippin [walks over to them] You carry the fate of us all little one. If this is indeed the will of the Council, then Gondor will see it done.
 stable_hand Heh! [jumps from behind the bushes and joins them] Mister Frodo is not goin' anywhere without me!
@@ -746,7 +746,7 @@ irolas It's a riddle.
 ringwraith Speak 'friend' and enter. What's the Elvish word for friend?
 denethor Mellon…
 denethor Soon, Master Elf, you will enjoy the fabled hospitality of the Dwarves! Roaring fires, malt beer, ripe meat off the bone. This, my friend, is the home of my cousin, Balin.
-pippin_and_merry_and_sam#together And they call it a mine. A mine!
+pippin@merry@sam And they call it a mine. A mine!
 easterling This is no mine, it's a tomb!
 wildman Oh! No! Noooo!
 easterling Goblins!
@@ -824,7 +824,7 @@ wildman Get back! You stay close to Gandalf!
 party_hobbit They have a cave troll.
 party_hobbit Yah!
 wildman Argh! Let them come! There is one dwarf yet in Moria who still draws breath!
-pippin_and_merry#together [hits an Orc with skillet] I think I'm getting the hang of this.
+pippin@merry [hits an Orc with skillet] I think I'm getting the hang of this.
 easterling [seeing the eminent danger] Frodo!
 easterling Aragorn? Aragorn!
 party_hobbit Frodo!
@@ -1053,7 +1053,7 @@ stable_hand The Fellowship of the Ring
 ringwraith Mister Frodo!
 party_hobbit Find the Halflings! Yaggh! Find the Halflings!
 boromir_ Elendil!
-pippin_and_merry#together Aragorn! Go!
+pippin@merry Aragorn! Go!
 party_hobbit Frodo!
 denethor Hide here! Quick! Come on!
 party_hobbit What's he doin'?
