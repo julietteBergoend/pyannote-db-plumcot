@@ -42,12 +42,12 @@ bilbo And yes, no doubt, to others our ways seem quaint.
 bilbo But today, of all days, it is brought home to me, it is no bad thing to celebrate a simple life.
 king_of_the_dead Frodo! The door!
 king_of_the_dead Sticklebacks! Where is that boy? Frodo!
-gondorian_ranger [humming] Down from the door where it began. And I must follow if I can.
+gondorian_ranger  Down from the door where it began. And I must follow if I can.
 gandalf The road goes ever on and on, Down from the door where it began. Now far ahead the road has gone, And I must follow if I can…
-wildman [folding his arms] You're late!
+wildman  You're late!
 gondorian_ranger A wizard is never late, Frodo Baggins. Nor is he early. He arrives precisely when he means to.
-wildman [leaps onto cart and hugs the old man] It's wonderful to see you Gandalf!
-gondorian_ranger [laughs] Ooh! You didn't think I'd miss your Uncle Bilbo's birthday?
+wildman  It's wonderful to see you Gandalf!
+gondorian_ranger  Ooh! You didn't think I'd miss your Uncle Bilbo's birthday?
 gondorian_ranger So, how is the old rascal? I hear it's going to be a party of special magnificence.
 wildman You know Bilbo. He's got the whole place in an uproar.
 gondorian_ranger Well, that should please him! (chuckles)
@@ -85,9 +85,9 @@ king_of_the_dead It was laid down by my father. What say we open one, eh?
 gondorian_ranger Just tea, thank you.
 king_of_the_dead I was expecting you sometime last week! Not that it matters, you come and go as you please. Always have done and always will. You caught me a bit unprepared, I'm afraid. We've only got cold chicken and a bit of pickle… Oh, there's some cheese here — oh no, that won't do. Err, we got raspberry jam and an apple tart… Not much for afters, I'm afraid. Oh, no — we're all right! I've found some sponge-cake. I could make you some eggs if you like — oh. Gandalf?
 gondorian_ranger Just tea, thank you.
-king_of_the_dead Oh, right! [with mouthful of sponge-cake] You don't mind if I eat, do you?
+king_of_the_dead Oh, right!  You don't mind if I eat, do you?
 gondorian_ranger Oh no, not at all.
-king_of_the_dead [whispers] I'm not at home!
+king_of_the_dead  I'm not at home!
 king_of_the_dead It's the Sackville-Bagginses!
 sackville_baggins#unknown#TheLordOfTheRings.Season01.Episode01 I know you're in there!
 king_of_the_dead They're after the house. They've never forgiven me for living this long!
@@ -108,11 +108,11 @@ king_of_the_dead I need a holiday — a very long holiday — and I don't expect
 king_of_the_dead Old Toby. The finest weed in the Southfarthing.
 king_of_the_dead Ahh! Gandalf, my old friend. This will be a night to remember!
 voice_of_the_ring The Fellowship of the Ring
-king_of_the_dead [greeting his guests inside the marquee] Hello, hello, Fatty Bolger, lovely to see you! Welcome, welcome!
+king_of_the_dead  Hello, hello, Fatty Bolger, lovely to see you! Welcome, welcome!
 wildman Go on Sam! Ask Rosie for a dance!
 easterling I think I'll just have another ale.
 wildman Oh no you don't! Go on!
-gondorian_ranger [setting off a firework] Whoa!
+gondorian_ranger  Whoa!
 king_of_the_dead There I was, at the mercy of three monstrous trolls! And they were all arguing amongst themselves about how they were going to cook us, whether it be turned on a spit or whether they should sit on us one by one and squash us into jelly.
 king_of_the_dead They spent so much time arguing the wither-tos and why-fors, that the sun's first light cracked over the top of the trees — poof!
 king_of_the_dead And turned them all to stone!
@@ -148,9 +148,9 @@ proudfoot Proudfeet!
 king_of_the_dead Today is my one hundred and eleventh birthday!
 frodo Happy birthday!
 frodo Happy birthday!
-king_of_the_dead Alas, eleventy-one years is far too short a time to live among such excellent and admirable hobbits. [cheers abound.] I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve.
-king_of_the_dead I, uh, I h-have things to do. [fidgets with the Ring behind his back. Whispers to himself] I've put this off for far too long.
-king_of_the_dead [to the crowd] I regret to announce — this is The End. I am going now. I bid you all a very fond farewell. [whispers to Frodo] Goodbye.
+king_of_the_dead Alas, eleventy-one years is far too short a time to live among such excellent and admirable hobbits.  I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve.
+king_of_the_dead I, uh, I h-have things to do.  I've put this off for far too long.
+king_of_the_dead  I regret to announce — this is The End. I am going now. I bid you all a very fond farewell.  Goodbye.
 frodo Ooh!
 gandalf I suppose you think that was terribly clever.
 king_of_the_dead Come on Gandalf! Did you see their faces?
@@ -166,7 +166,7 @@ gondorian_ranger I think you should leave the ring behind, Bilbo. Is that so har
 king_of_the_dead Well no… and yes!
 king_of_the_dead Now it comes to it, I don't feel like parting with it, its mine, I found it, it came to me!
 gondorian_ranger There's no need to get angry.
-king_of_the_dead Well, if I'm angry, it's your fault! [caresses the ring] It's mine! My own, my precious.
+king_of_the_dead Well, if I'm angry, it's your fault!  It's mine! My own, my precious.
 gondorian_ranger Precious? Its been called that before, but not by you.
 king_of_the_dead Argh! What business is it of yours what I do with my own things!
 gondorian_ranger I think you've had that Ring quite long enough.
@@ -180,7 +180,7 @@ gondorian_ranger Bilbo…
 king_of_the_dead Hmm?
 gondorian_ranger The Ring is still in your pocket.
 bilbo Oh, yes…
-king_of_the_dead I've thought up an ending for my book. [turns to Gandalf at the door] 'And he lived happily ever after, to the end of his days.'
+king_of_the_dead I've thought up an ending for my book.  'And he lived happily ever after, to the end of his days.'
 gondorian_ranger And I'm sure you will my dear friend.
 king_of_the_dead Good bye, Gandalf.
 gondorian_ranger Good bye, dear Bilbo.
@@ -193,7 +193,7 @@ gondorian_ranger My precious.
 gondorian_ranger Precious…
 wildman He's gone hasn't he? He talked for so long about leaving. I didn't think he'd really do it.
 wildman Gandalf?
-gondorian_ranger Hmm? [smiles at Frodo, noticing the Ring in Frodo's hand.] Bilbo's ring. He's gone to stay with the Elves. He's left you Bag End…
+gondorian_ranger Hmm?  Bilbo's ring. He's gone to stay with the Elves. He's left you Bag End…
 gondorian_ranger …along with all his possessions. The ring is yours now. Put it somewhere out of sight.
 wildman Where are you going?
 gondorian_ranger There are some things that I must see to.
@@ -205,7 +205,7 @@ gondorian_ranger Keep it secret. Keep it safe.
 voice_of_the_ring The Fellowship of the Ring
 spearthrowing_rohan_soldier Shire! Baggins!
 gondorian_ranger 'The Year thirty-four thirty-four of the Second Age. Here follows the account of Isildur, High King of Gondor and the finding of the Ring of Power.'
-gondorian_ranger 'It has come to me, the One Ring. It shall be an heirloom of my kingdom. All those who follow in my bloodline shall be bound to its fate for I will risk no hurt to the Ring. It is precious to me, though I buy it with great pain.' [The Ring in Isildur's fingers seems to shrink] 'The markings upon the band begin to fade. The writing, which at first was as clear as red flame, has all but disappeared. A secret now that only fire can tell.'
+gondorian_ranger 'It has come to me, the One Ring. It shall be an heirloom of my kingdom. All those who follow in my bloodline shall be bound to its fate for I will risk no hurt to the Ring. It is precious to me, though I buy it with great pain.'  'The markings upon the band begin to fade. The writing, which at first was as clear as red flame, has all but disappeared. A secret now that only fire can tell.'
 black_rider#unknown#TheLordOfTheRings.Season01.Episode01 Shire. Baggins.
 merry@pippin Hey ho, to the bottle I go! To heal my heart and drown my woe. Rain may fall and wind may blow. But there still be - many miles to go!
 first_hobbit#unknown#TheLordOfTheRings.Season01.Episode01 Sweet is the sound of the pouring rain, and the stream that falls from hill to plain. Better than rain or rippling brook — (Pippin finishes off solo) is a mug of beer inside this Took!
@@ -227,7 +227,7 @@ wildman Is it secret?! Is it safe?!
 gondorian_ranger What are you doing?!
 gondorian_ranger Hold out your hand Frodo, it's quite cool.
 wildman What can you see? Can you see anything?
-wildman [turning the Ring over and over between his fingers] Nothing. There's nothing…
+wildman  Nothing. There's nothing…
 wildman Wait. There are markings.
 gondorian_ranger It's some form of Elvish. I can't read it.
 wildman There are few who can. The language is that of Mordor, which I will not utter here.
@@ -266,14 +266,14 @@ gondorian_ranger You'll have to leave the name of Baggins behind you, for that n
 wildman Travel only by day. And stay off the road.
 gondorian_ranger I can cut across country easily enough.
 gondorian_ranger My dear Frodo. Hobbits really are amazing creatures! You can learn all that there is to know about their ways in a month, and yet after a hundred years, they can still surprise you.
-gondorian_ranger [hears rustling of the leaves] Get down!
+gondorian_ranger  Get down!
 easterling Confound it all Samwise Gamgee! Have you been eavesdropping?!
 gondorian_ranger I haven't dropped no eaves sir, honest. I was just cutting the grass under the window there, if you follow me.
 easterling A little late for trimming the verge, don't you think?
 gondorian_ranger I heard raised voices.
 easterling What did you hear? Speak!
 gondorian_ranger N-n-n-nothing important. That is I heard a good deal about a Ring and a Dark Lord and something about the end of the world but… Please, Mister Gandalf sir, don't hurt me. Don't turn me into anythin' — unnatural.
-voice_of_the_ring Noooo? [He turns a conspiratorial gaze upon Frodo.] Perhaps not. I have thought of a better use for you…
+voice_of_the_ring Noooo?  Perhaps not. I have thought of a better use for you…
 gondorian_ranger The Fellowship of the Ring
 gondorian_ranger Come along Samwise, keep up!
 gondorian_ranger Be careful both of you. The enemy has many spies in his service
@@ -312,7 +312,7 @@ boromir_ I have seen it.
 gondorian_ranger A Palantír is a dangerous tool, Saruman.
 boromir_ Why? Why should we fear to use it?
 gondorian_ranger They are not all accounted for, the lost Seeing Stones. We do not know who else may be watching!
-boromir_ [seats himself upon his throne] The hour is later than you think. Sauron's forces are already moving. The Nine have left Minas Morgul.
+boromir_  The hour is later than you think. Sauron's forces are already moving. The Nine have left Minas Morgul.
 gondorian_ranger The Nine!
 boromir_ They crossed the River Isen on Midsummer's Eve, disguised as riders in black.
 gondorian_ranger They've reached the Shire?!
@@ -332,10 +332,10 @@ pippin 'Don't you lose him, Samwise Gamgee!' And I don't mean to.
 stable_hand Sam, we're still in the Shire! What could possibly happen?
 easterling Frodo? Merry! It's Frodo Baggins.
 wildman Hello Frodo!
-easterling Get off him! [hauls Pippin off Frodo] Frodo? Are you all right?
+easterling Get off him!  Frodo? Are you all right?
 farmer_maggot What's the meaning of this?
 stable_hand You've been into Farmer Maggot's crop!
-pippin [brandishing a scythe] Hoi! You get back here! Wait till I get this through you! Get out of my fields! You'll know the devil if I catch up with you!
+pippin  Hoi! You get back here! Wait till I get this through you! Get out of my fields! You'll know the devil if I catch up with you!
 stable_hand 'Dunno why he is so upset. It's only a couple of carrots!
 pippin And some cabbages. And those few bags of potatoes that we lifted last week and, and the mushrooms the week before!
 easterling Yes Pippin! My point is, he is clearly overreactin'. Run!
@@ -371,7 +371,7 @@ gatekeeper#unknown#TheLordOfTheRings.Season01.Episode01 The Fellowship of the Ri
 wildman Come on.
 gatekeeper#unknown#TheLordOfTheRings.Season01.Episode01 What do you want?
 wildman We're heading for the Prancing Pony.
-gatekeeper#unknown#TheLordOfTheRings.Season01.Episode01 [opening the gate] Hobbits! Four hobbits! What business brings you to Bree?
+gatekeeper#unknown#TheLordOfTheRings.Season01.Episode01  Hobbits! Four hobbits! What business brings you to Bree?
 galadriel#unknown#TheLordOfTheRings.Season01.Episode01 We wish to stay at the inn. Our business is our own.
 wildman All right young sir, I meant no offence. 'Tis my job to ask question after nightfall. There's talk of strange folk abroad. Can't be too careful.
 barliman_butterbur Out of the way! Watch where you're walking, young masters!
@@ -383,19 +383,19 @@ easterling We're friends of Gandalf the Grey. Can you tell him we've arrived?
 wildman Gandalf? Gandalf? Oh yes! I remember
 legolas What do we do now?
 pippin Sam. He'll be here. He'll come.
-stable_hand [to Merry coming from the bar] Get, get out of my way.
+stable_hand  Get, get out of my way.
 pippin What's that?
 easterling This my friend, is a pint.
 easterling It comes in pints? I'm getting one.
 wildman You had a whole half already!
 goblin That fellow's done nothin' but stare at you since we arrived.
-wildman [takes Butterbur aside] Excuse me, that man in the corner, who is he?
+wildman  Excuse me, that man in the corner, who is he?
 voice_of_the_ring He's one of them rangers. Dangerous folk they are — wandering the wilds. What his right name is I've never heard, but around here, he's known as Strider.
 pippin Strider.
 pippin Baggins. Baggins. Baggins. Baggins! Baggins!…
 pippin Baggins!
-pippin [at the bar] Sure I know a Baggins. He's over there, Frodo Baggins.
-eowyn He's my second cousin, once removed on his mother's side [listeners laugh, It works for him! yells one] and my third cousin twice removed on his father's side, if you follow me.
+pippin  Sure I know a Baggins. He's over there, Frodo Baggins.
+eowyn He's my second cousin, once removed on his mother's side  and my third cousin twice removed on his father's side, if you follow me.
 wildman Steady on, Frodo!
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 You cannot hide! I see you! There is no life in the void, only death!
 wildman Ah!
@@ -438,7 +438,7 @@ wildman (Tinúviel the elven-fair, Immortal maiden elven-wise, About him cast he
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 Who is she? This woman you sing of?
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 'Tis the Lay of Lúthien. The Elf-maiden who gave her love to Beren, a mortal.
 boromir_ What happened to her?
-eowyn [looks away] She died.
+eowyn  She died.
 first_orc#unknown#TheLordOfTheRings.Season01.Episode01 Get some sleep, Frodo.
 boromir_ The power of Isengard is at your command, Sauron, Lord of the Earth.
 baby_gamgee Build me an army worthy of Mordor!
@@ -458,7 +458,7 @@ wildman Put it out, you fools! Put it out!
 easterling Oh, that's nice! Ash on my tomatoes!
 wildman Uh?!
 wildman Go!
-easterling [brandishing his sword] Back you devils!
+easterling  Back you devils!
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 Ah!
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 Oh Sam!
 easterling Strider! Help him, Strider!
@@ -469,9 +469,9 @@ voice_of_the_ring Gandalf…
 gondorian_ranger Hold on, Frodo.
 easterling Gandalf!
 easterling The Fellowship of the Ring
-pippin [whispering a final command] Gwaihir. Go, Gwaihir.
+pippin  Gwaihir. Go, Gwaihir.
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 Look, Mister Frodo! It's Mister Bilbo's trolls!
-stable_hand Mister Frodo? [to Strider] He's going cold!
+stable_hand Mister Frodo?  He's going cold!
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 Is he going to die?
 easterling He's passing into the shadow world. He will soon become a wraith like them.
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 They're close.
@@ -484,12 +484,12 @@ stable_hand What's this? A ranger caught off his guard?
 saruman Frodo…. Im Arwen. Telin le thaed (I am Arwen. I have come to help you.)
 easterling Lasto beth nîn. Tolo dan na ngalad (Hear my voice. Come back to the light.)
 saruman Who is she?
-saruman [kneels] Frodo!
+saruman  Frodo!
 stable_hand She's an Elf.
 saruman He's fading!
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 He's not going to last. We must get him to my father. I've been looking for you for two days.
 saruman Where are you taking him?
-striderr#unknown#TheLordOfTheRings.Season01.Episode01 [gets up as Strider lifts Frodo up in his arms] There are five wraiths behind you. Where the other four are, I do not know.
+striderr#unknown#TheLordOfTheRings.Season01.Episode01  There are five wraiths behind you. Where the other four are, I do not know.
 pippin Dartho guin perian. Rych le ad tolthathon. (Stay with the Hobbits. I will send horses back for you.)
 saruman Hon mabathon. Rochon ellint im. (I'm the faster rider. I'll take him.)
 saruman Andelu i ven. (The road is too dangerous.)
@@ -502,7 +502,7 @@ saruman Arwen, ride hard. Don't look back!
 saruman What are you doing?! Those wraiths are still out there!
 saruman Noro lim, Asfaloth! (Ride faster, Asfaloth!)
 saruman Give up the halfling, she-Elf!
-arwen [draws her sword in challenge] If you want him, come and claim him!
+arwen  If you want him, come and claim him!
 voice_of_the_ring Nin o Chithaeglir, lasto beth daer, Rimmo nin Bruinen, dan in Ulair! Nin o Chithaeglir, lasto beth daer, Rimmo nin Bruinen, dan in Ulair!
 goblin_ (Waters of the Misty Mountains, listen to the great word, flow waters of Loudwater, against the Ringwraiths!)
 wildman No! Frodo… No! Frodo, don't give in! Not now!
@@ -516,7 +516,7 @@ gondorian_ranger Yes… I'm here. And you're lucky to be here, too. A few more h
 boromir_ What happened, Gandalf? Why didn't you meet us?
 wildman Oh I'm sorry Frodo… I was delayed.
 gondorian_ranger Friendship with Saruman is not lightly thrown aside. One ill turn deserves another. It is over! Embrace the power of the Ring… or embrace your own destruction!
-easterling [slowly raises himself as the shadowy form of an eagle appears in the background] There is only one Lord of the Ring! Only one who can bend it to his will. And he… does… not… share… power!
+easterling  There is only one Lord of the Ring! Only one who can bend it to his will. And he… does… not… share… power!
 wildman So you have chosen… death.
 easterling Gandalf? What is it?
 gondorian_ranger Nothing, Frodo.
@@ -526,14 +526,14 @@ goblin_ Bless you, you're awake!
 wildman Sam has hardly left your side.
 king_of_the_dead We were that worried about you, weren't we Mister Gandalf?
 king_of_the_dead By the skills of Lord Elrond, you're beginning to mend.
-wildman [entering the room and smiles down at Frodo] Welcome to Rivendell, Frodo Baggins.
+wildman  Welcome to Rivendell, Frodo Baggins.
 king_of_the_dead Bilbo!
 wildman Hello, Frodo my lad!
 king_of_the_dead Oh!
 sam 'There and Back Again
 wildman I meant to go back… wander the paths of Mirkwood… visit Laketown… see the Lonely Mountain again. But age it seems, has finally caught up with me.
 easterling I miss the Shire. I spent all my childhood pretending I was off somewhere else… off with you on one of your adventures! My own adventure turned out to be quite different. I'm not like you, Bilbo.
-wildman [pats Frodo's cheek] My dear boy.
+wildman  My dear boy.
 easterling Now what have I forgotten?
 wildman Packed already?
 easterling No harm in being prepared.
@@ -541,7 +541,7 @@ wildman I thought you wanted to see the Elves, Sam.
 voice_of_the_ring I do!
 goblin_ More than anything.
 gondorian_ranger I did! It's just… we did what Gandalf wanted didn't we? We got the Ring this far to Rivendell and then I thought, seein' as how you're on the mend, we'd be off soon. Off home.
-goblin_ You're right Sam. We did what we set out to do. [shows the Ring on his palm] The Ring will be safe in Rivendell. I am ready to go home.
+goblin_ You're right Sam. We did what we set out to do.  The Ring will be safe in Rivendell. I am ready to go home.
 gondorian_ranger The Fellowship of the Ring
 goblin_ His strength returns.
 gondorian_ranger That wound will never fully heal. He will carry it the rest of his life.
@@ -581,19 +581,19 @@ saruman Your time will come. You will face the same evil, and you will defeat it
 saruman Ely siriar, êl síla. Ai! Aníron Undómiel. Tiro! Êl eria e môr. I 'lîr en êl luitha 'úren. Ai! Aníron…
 party_hobbit Renech i lu i erui govannen? (Do you remember when we first met?)
 saruman Nauthannem i ned ol reniannen. (I thought I had strayed into a dream.)
-party_hobbit [tenderly touches Aragorn's cheek] Gwenwin in enninath… U-arnech in naeth i si celich. (Long years have passed… You did not have the cares you carry now.)
+party_hobbit  Gwenwin in enninath… U-arnech in naeth i si celich. (Long years have passed… You did not have the cares you carry now.)
 saruman Renech i beth i pennen? (Do you remember what I told you?)
-voice_of_the_ring [his fingers run across the pendant on her breast] You said you'd bind yourself to me. Forsaking the immortal life of your people.
+voice_of_the_ring  You said you'd bind yourself to me. Forsaking the immortal life of your people.
 goblin_ I choose a mortal life.
 goblin_ You cannot give me this!
 goblin_ It is mine to give to whom I will… like my heart.
 denethor The Fellowship of the Ring
 man#unknown#TheLordOfTheRings.Season01.Episode01 Strangers from distant lands, friends of old. You have been summoned here to answer the threat of Mordor.
 denethor Middle-Earth stands upon the brink of destruction. None can escape it. You will unite or you will fall.
-legolas Each race is bound to this fate — this one doom. [gestures to the pedestal] Bring forth the Ring, Frodo.
+legolas Each race is bound to this fate — this one doom.  Bring forth the Ring, Frodo.
 goblin_ So it is true…
 gondorian_ranger The Doom of Men.
-goblin_ [rises to address the Council] In a dream, I saw the eastern sky grow dark. But in the West a pale light lingered. A voice was crying
+goblin_  In a dream, I saw the eastern sky grow dark. But in the West a pale light lingered. A voice was crying
 gondorian_ranger Isildur's Bane.
 gondorian_ranger Boromir!
 denethor Ash nazg durbatulûk, ash nazg gimbatul, ash nazg thrakatulûk agh burzum-ishi krimpatul.
@@ -602,7 +602,7 @@ party_hobbit Never before has any voice uttered the words of that tongue here in
 denethor (voice raspy from the force of the words and the language)
 ringwraith The Ring is altogether evil!
 denethor It is a gift. A gift to the foes of Mordor.
-ringwraith Why not use this Ring? [paces] Long has my father, the Steward of Gondor, kept the forces of Mordor at bay. By the blood of our people are your lands kept safe! Give Gondor the weapon of the enemy. Let us use it against him!
+ringwraith Why not use this Ring?  Long has my father, the Steward of Gondor, kept the forces of Mordor at bay. By the blood of our people are your lands kept safe! Give Gondor the weapon of the enemy. Let us use it against him!
 party_hobbit You cannot wield it! None of us can. The One Ring answers to Sauron alone. It has no other master.
 gondorian_ranger And what would a ranger know of this matter?
 goblin_ This is no mere ranger. He is Aragorn, son of Arathorn. You owe him your allegiance.
@@ -617,9 +617,9 @@ irolas The Ring cannot be destroyed, Gimli, son of Glóin, by any craft that we 
 denethor Ash Nazg.
 irolas One of you must do this.
 irolas One does not simply walk into Mordor. Its black gates are guarded by more than just Orcs. There is evil there that does not sleep. And the great Eye is ever watchful. It is a barren wasteland. Riddled with fire and ash and dust. The very air you breathe is a poisonous fume. Not with ten thousand men could you do this. It is folly!
-gondorian_ranger [stands indignantly] Have you heard nothing Lord Elrond has said? The Ring must be destroyed!
-mordor_orc [leaps to his feet] And I suppose you think you're the one to do it?!
-wildman [rises] And if we fail, what then?! What happens when Sauron takes back what is his?!
+gondorian_ranger  Have you heard nothing Lord Elrond has said? The Ring must be destroyed!
+mordor_orc  And I suppose you think you're the one to do it?!
+wildman  And if we fail, what then?! What happens when Sauron takes back what is his?!
 wildman I will be dead before I see the Ring in the hands of an Elf!
 wildman Never trust an Elf!
 party_hobbit Do you not understand that while we bicker amongst ourselves, Sauron's power grows?! None can escape it! You'll all be destroyed!
@@ -627,12 +627,12 @@ party_hobbit Ash Nazg Durbatulûk! Ash Nazg Gimbatul! Ash Nazg Gimbatul! Ash Naz
 denethor I will take it!
 easterling I will take it!
 elrond I will take the Ring to Mordor. Though — I do not know the way.
-pippin@merry [rises] If by my life or death, I can protect you, I will.
+pippin@merry  If by my life or death, I can protect you, I will.
 stable_hand You have my sword.
-pippin [walks over to them] You carry the fate of us all little one. If this is indeed the will of the Council, then Gondor will see it done.
-stable_hand Heh! [jumps from behind the bushes and joins them] Mister Frodo is not goin' anywhere without me!
+pippin  You carry the fate of us all little one. If this is indeed the will of the Council, then Gondor will see it done.
+stable_hand Heh!  Mister Frodo is not goin' anywhere without me!
 goblin_ No indeed, it is hardly possible to separate you even when he is summoned to a secret council and you are not.
-pippin [emerges from behind the pillars to join them] Wait! We are coming too!
+pippin  Wait! We are coming too!
 voice_of_the_ring You'd have to send us home tied up in a sack to stop us!
 goblin_ Anyway you need people of intelligence on this sort of mission, quest… thing.
 goblin_ Well that rules you out Pip.
@@ -672,10 +672,10 @@ easterling Ahh!
 irolas Get Him!
 denethor For the Shire! Hold him! Hold him down! Merry!
 ringwraith Gentlemen, that's enough.
-party_hobbit [off screen, still in a mock battle] You've got my arm… you've got my arm!
+party_hobbit  You've got my arm… you've got my arm!
 denethor What is that?
 party_hobbit Nothing, it's just a whiff of cloud.
-gondorian_ranger [getting up from the ground, a hand on either Hobbit's shoulder] It's moving fast… against the wind.
+gondorian_ranger  It's moving fast… against the wind.
 gondorian_ranger Crebain from Dunland!
 voice_of_the_ring Hide!
 wildman Hurry!
@@ -688,7 +688,7 @@ boromir_ Boromir.
 saruman_ It is a strange fate we should suffer so much fear and doubt… over so small a thing. Such a little thing.
 boromir_ Boromir!
 ringwraith Give the Ring to Frodo.
-gondorian_ranger [holds out the Ring] As you wish…
+gondorian_ranger  As you wish…
 party_hobbit … I care not.
 gondorian_ranger So, Gandalf, you try to lead them over Caradhras. And if that fails, where then will you go?
 gondorian_ranger If the mountain defeats you, will you risk a more dangerous road?
@@ -737,7 +737,7 @@ party_hobbit I once knew every spell in all the tongues of Elves… Men… and O
 party_hobbit What are you going to do, then?
 gondorian_ranger Knock your head against these doors, Peregrin Took! And if that does not shatter them, and I am allowed a little peace from foolish questions, I will try to find the opening words.
 wildman Ando Eldarinwa… a lasta quettanya, Fenda Casarinwa… (Gate of Elves… listen to my word, Threshold of Dwarves…)
-wildman [unhitching the pony's bridle] The Mines are no place for a pony, even one so brave as Bill.
+wildman  The Mines are no place for a pony, even one so brave as Bill.
 gondorian_ranger Buh-bye Bill.
 irolas Go on, Bill, go on. Don't worry Sam, he knows the way home.
 irolas Do not disturb the water.
@@ -755,7 +755,7 @@ stable_hand Now get out of here, get out!
 wildman Frodo!
 striderr#unknown#TheLordOfTheRings.Season01.Episode01 Strider!
 gondorian_ranger Help!
-denethor [hacks at tentacle] Get off him! Strider!
+denethor  Get off him! Strider!
 party_hobbit Aragorn!
 party_hobbit Frodo!
 voice_of_the_ring Strider!
@@ -792,14 +792,14 @@ spearthrowing_rohan_soldier Escaped? Or was set loose?
 gondorian_ranger And now the Ring had drawn him here. He will never be rid of his need for it. He hates and loves the Ring, as he hates and loves himself.
 gondorian_ranger Sméagol's life is a sad story. Yes, Sméagol he was once called. Before the Ring found him… before it drove him mad.
 wildman It's a pity Bilbo didn't kill him when he had the chance!
-gondorian_ranger [glancing sharply at Frodo] Pity? It was pity that stayed Bilbo's hand. Many that live deserve death, and some that die deserve life. Can you give it to them, Frodo?
+gondorian_ranger  Pity? It was pity that stayed Bilbo's hand. Many that live deserve death, and some that die deserve life. Can you give it to them, Frodo?
 gondorian_ranger Do not be too eager to deal out death in judgment. Even the very wise can not see all ends. My heart tells me that Gollum has some part to play yet, for good or ill…
 stable_hand Gollum.
 gondorian_ranger …before this is over.
 gondorian_ranger The pity of Bilbo may rule the fate of many.
 gondorian_ranger I wish the Ring had never come to me. I wish none of this had happened.
 gondorian_ranger So do all who live to see such times, but that is not for them to decide. All we have to decide is what to do with the time that is given to us. There are other forces at work in this world, Frodo, besides the will of evil. Bilbo was meant to find the Ring, in which case you also were meant to have it. And that is an encouraging thought.
-easterling [looks towards one of the doorways] Oh! It's that way.
+easterling  Oh! It's that way.
 irolas He's remembered!
 gondorian_ranger No, but the air doesn't smell so foul down here.
 gondorian_ranger If in doubt, Meriadoc, always follow your nose.
@@ -808,30 +808,30 @@ irolas Behold
 ringwraith Now there's an eye opener and no mistake.
 gondorian_ranger Haugh!
 gondorian_ranger Gimli!
-gondorian_ranger [translating the runes on the tomb] 'Here lies Balin, son of Fundin, Lord of Moria.' He is dead then. It's as I feared.
+gondorian_ranger  'Here lies Balin, son of Fundin, Lord of Moria.' He is dead then. It's as I feared.
 gondorian_ranger The Fellowship of the Ring
-gondorian_ranger [chanting softly, sobbing] Kilmin malur ni zaram kalil ra narag. Kheled-zâram… Balin tazlifi.
-gondorian_ranger [to Aragorn] We must move on, we cannot linger!
-easterling [reading] 'They have taken the bridge… and the second hall.'
+gondorian_ranger  Kilmin malur ni zaram kalil ra narag. Kheled-zâram… Balin tazlifi.
+gondorian_ranger  We must move on, we cannot linger!
+easterling  'They have taken the bridge… and the second hall.'
 ringwraith 'We have barred the gates… but cannot hold them for long. The ground shakes.'
 aragorn 'Drums… drums… in the deep.'
 boromir_ 'We cannot get out. A shadow moves in the dark.'
-gondorian_ranger 'We cannot get out…' [He glances at the last, single line, a scrawl fading out at the bottom of the page. Gandalf looks up in the uncomfortable silence.] 'They are coming!'
-irolas [slams the book shut] Fool of a Took! Throw yourself in next time and rid us of your stupidity!
+gondorian_ranger 'We cannot get out…'  'They are coming!'
+irolas  Fool of a Took! Throw yourself in next time and rid us of your stupidity!
 easterling Frodo!
 party_hobbit Orcs!
 wildman Get back! You stay close to Gandalf!
 party_hobbit They have a cave troll.
 party_hobbit Yah!
 wildman Argh! Let them come! There is one dwarf yet in Moria who still draws breath!
-pippin@merry [hits an Orc with skillet] I think I'm getting the hang of this.
-easterling [seeing the eminent danger] Frodo!
+pippin@merry  I think I'm getting the hang of this.
+easterling  Frodo!
 easterling Aragorn? Aragorn!
 party_hobbit Frodo!
 easterling Yah!
 wildman Ugh… uh!
 party_hobbit Yaaahh!
-gondorian_ranger [from a distance away] Frodo?
+gondorian_ranger  Frodo?
 irolas Frodo!
 gondorian_ranger Oh no!
 voice_of_the_ring He's alive!
@@ -852,7 +852,7 @@ party_hobbit Swords are no more use here!
 party_hobbit Gandalf.
 ringwraith Merry! Pippin! Hoo-aah!
 gondorian_ranger Sam.
-gondorian_ranger [holds up his hand] Nobody tosses a dwarf.
+gondorian_ranger  Nobody tosses a dwarf.
 wildman Not the beard!
 gondorian_ranger Steady. Hold on!
 gondorian_ranger Hang on! Lean forward!
@@ -862,7 +862,7 @@ denethor You cannot pass!
 wildman Gandalf!
 gondorian_ranger I am the servant of the Secret Fire, wielder of the Flame of Anor…
 wildman The dark fire will not avail you! Flame of Udûn!
-denethor [clenching his teeth] Go back to the Shadow!
+denethor  Go back to the Shadow!
 wildman You — shall not — pass!
 voice_of_the_ring No, no!
 party_hobbit Gandalf!
@@ -891,8 +891,8 @@ party_hobbit Haldir.
 party_hobbit So much for the legendary courtesy of the Elves! Speak words we can also understand!
 party_hobbit We have not had dealings with the Dwarves since the Dark Days.
 party_hobbit And you know what this Dwarf says to that? Ishkhaqwi ai durugnul! (I spit upon your grave!)
-denethor [grabs Gimli] That was not so courteous.
-denethor You bring great evil with you. [looking at Aragorn] You can go no further.
+denethor  That was not so courteous.
+denethor You bring great evil with you.  You can go no further.
 gollum Boe ammen veriad lîn. Andelu i ven! (We need your protection. The road is fell!)
 gollum Merin le telim. (I wish we may come with you.)
 voice_of_the_ring Henio, aníron boe ammen i dulu lîn! (Please, understand, we need your support!)
@@ -942,9 +942,9 @@ wildman One day, our paths will lead us there. And the tower guard shall take up
 galadriel The Fellowship of the Ring
 galadriel Will you look into the mirror?
 wildman What will I see?
-galadriel [stepping up to the basin] Even the wisest cannot tell. For the mirror… shows many things…
-voice_of_the_ring …things that were… things that are… and some things… [She empties the ewer and steps back] that have not yet come to pass.
-boromir_ I know what it is you saw, for it is also in my mind. [Her voice echoes in Frodo's head] It is what will come to pass if you should fail. The Fellowship is breaking
+galadriel  Even the wisest cannot tell. For the mirror… shows many things…
+voice_of_the_ring …things that were… things that are… and some things…  that have not yet come to pass.
+boromir_ I know what it is you saw, for it is also in my mind.  It is what will come to pass if you should fail. The Fellowship is breaking
 boromir_ If you ask it of me, I will give you the One Ring.
 saruman You offer it to me freely. I do not deny that my heart has greatly desired this.
 shagrat In place of a Dark Lord, you would have a queen!
@@ -977,9 +977,9 @@ galadriel My gift for you, Legolas, is a bow of the Galadhrim, worthy of the ski
 irolas These are the daggers of the Noldorin. They have already seen service in war.
 ringwraith Do not fear, young Peregrin Took. You will find your courage.
 irolas And for you, Samwise Gamgee
-voice_of_the_ring Thank you, my lady. [He looks sidelong at the blades held by Merry and Pippin, then looks up hopefully.] Have you run out of those nice, shiny daggers?
+voice_of_the_ring Thank you, my lady.  Have you run out of those nice, shiny daggers?
 party_hobbit And what gift would a Dwarf ask of the Elves?
-spearthrowing_rohan_soldier Nothing. [a change comes over him; he looks up] Except to look upon the Lady of the Galadhrim one last time, for she is more fair than all the jewels beneath the earth.
+spearthrowing_rohan_soldier Nothing.  Except to look upon the Lady of the Galadhrim one last time, for she is more fair than all the jewels beneath the earth.
 party_hobbit Actually, there was one thing — ah, agh, that's quite impossible. Stupid to ask.
 denethor I have nothing greater to give, than the gift you already bear. Am meleth dîn. I ant e-guil Arwen Undómiel…pelitha. (For her love, I fear the grace of Arwen Evenstar… will diminish.)
 easterling Aníron i e broniatha ar periatham amar hen. Aníron e ciratha a Valannor. (I would have her leave these shores, and be with her people. I would have her take the ship to Valinor.)
@@ -1005,8 +1005,8 @@ ringwraith You can't help me, Sam… Not this time… Get some sleep.
 party_hobbit Minas Tirith is the safer road. You know it. From there we can regroup… strike out for Mordor from a place of strength.
 ringwraith There is no strength in Gondor that can avail us.
 irolas You were quick enough to trust the Elves. Have you so little faith in your own people?
-stable_hand Yes, there is weakness. There is frailty. But there is courage also, and honor to be found in Men. But you will not see that. [Aragorn turns away, but Boromir grabs his arm and turns him.] You are afraid! All your life, you have hidden in the shadows!
-denethor [turns back suddenly] I will not lead the Ring within a hundred leagues of your city!
+stable_hand Yes, there is weakness. There is frailty. But there is courage also, and honor to be found in Men. But you will not see that.  You are afraid! All your life, you have hidden in the shadows!
+denethor  I will not lead the Ring within a hundred leagues of your city!
 denethor Frodo, the Argonath! Long have I desired to look upon the kings of old. My kin.
 wildman Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn' Ambar-metta!' (Out of the Great Sea to Middle-Earth I am come. In this place I will abide, and my heirs, unto the ending of the world!)
 denethor The Fellowship of the Ring
@@ -1025,22 +1025,22 @@ denethor I know why you seek solitude. You suffer. I see it day by day. You sure
 denethor I know what you would say. And it would seem like wisdom but for the warning in my heart.
 denethor Warning? Against what? We're all afraid, Frodo. But to let that fear drive us to destroy what hope we have… don't you see, that is madness?
 party_hobbit There is no other way!
-wildman I ask only for the strength to defend my people! [throws the wood to the ground] If you would but lend me the Ring…
+wildman I ask only for the strength to defend my people!  If you would but lend me the Ring…
 party_hobbit Why do you recoil? I am no thief.
 party_hobbit You are not yourself!
 party_hobbit What chance do you think you have? They will find you! They will take the Ring and you will beg for death before the end!
 wildman You Fool!
-wildman It is not yours, save by unhappy chance. It could have been mine! [tackles Frodo] It should be mine! Give it to me!
+wildman It is not yours, save by unhappy chance. It could have been mine!  It should be mine! Give it to me!
 voice_of_the_ring Give it to me!
 party_hobbit No!
 wildman Give me… Give me the Ring!
 party_hobbit Nurgh… ugh!
-voice_of_the_ring [looks around desperately] I see your mind. You will take the Ring to Sauron! You will betray us! You'll go to your death and the death of us all! Curse you! Curse you! And all the halflings!
+voice_of_the_ring  I see your mind. You will take the Ring to Sauron! You will betray us! You'll go to your death and the death of us all! Curse you! Curse you! And all the halflings!
 easterling Frodo?… Frodo?… what have I done?… please… Frodo!
-twilight_ringwraith [far away] Frodo, I'm sorry! Frodo!
+twilight_ringwraith  Frodo, I'm sorry! Frodo!
 party_hobbit Frodo?
-ringwraith [startled] Huh?! It has taken Boromir.
-stable_hand [intensely] Where is the Ring?
+ringwraith  Huh?! It has taken Boromir.
+stable_hand  Where is the Ring?
 pippin Frodo!
 pippin I swore to protect you!
 stable_hand Can you protect me from yourself?!
@@ -1062,7 +1062,7 @@ party_hobbit Run, Frodo! Go!
 denethor Hey! Hey you! Over here!
 party_hobbit Hey!
 denethor Over here!
-denethor [waving his arms] This way!
+denethor  This way!
 party_hobbit It's working!
 denethor I know its working! Run!
 denethor The Horn of Gondor!

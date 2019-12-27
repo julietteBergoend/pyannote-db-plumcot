@@ -59,7 +59,7 @@ saruman But you know this don't you, Gandalf.
 saruman You cannot think that this Ranger will ever sit upon the throne of Gondor. This exile, crept from the shadows, will never be crowned king.
 saruman Gandlaf does not hesistate to sacrifice those closest to him, those he professes to love. Tell me… what words of confort did you give the halfling before you sent him to his doom?
 saruman The path that you have set him on can only lead to death.
-gimli I've heard enough. [to Legolas] Shoot him. Stick an arrow in his gob.
+gimli I've heard enough.  Shoot him. Stick an arrow in his gob.
 gandalf No.
 gandalf Come down Saruman, and your live will be spared.
 saruman Save your pity and your mercy; I have no use for it!
@@ -84,7 +84,7 @@ crowd#unknown#TheLordOfTheRing.Season01.Episode03 Hail!
 eomer No pauses, no spills.
 gimli And no regurgitation.
 legolas So it's a drinking game?
-gimli Aye, Last one standing wins. [laughs]
+gimli Aye, Last one standing wins. 
 rohan_men#unknown#TheLordOfTheRing.Season01.Episode03 What'll we drink to? Let's drink to victory! To victory!
 eowyn Westu, Aragorn, hál. (Be-thou Aragorn well.)
 theoden I am happy for you. He is an honorable man.
@@ -861,7 +861,7 @@ easterling Hit me!
 easterling What?
 orc_captain#unknown#TheLordOfTheRing.Season01.Episode03 Hit me Sam! Start fighting!
 no_nose#unknown#TheLordOfTheRing.Season01.Episode03 Get off of me!
-frodo [Sam hits Frodo.]
+frodo 
 no_nose#unknown#TheLordOfTheRing.Season01.Episode03 Nobody pushes me, you filthy maggot!
 orc_captain#unknown#TheLordOfTheRing.Season01.Episode03 Get off of me!
 orc_captain#unknown#TheLordOfTheRing.Season01.Episode03 Break it up! Break it up.
