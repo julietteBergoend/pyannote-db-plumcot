@@ -56,5 +56,5 @@ Protocols:
           annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
           uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
 Databases:
-  Friends: /vol/work3/maurice/dvd_extracted/Friends/{uri}.en16kHz.wav
+  Friends: /vol/work3/lefevre/dvd_extracted/Friends/{uri}.en16kHz.wav
   MUSAN: /vol/work/lerner/musan/{uri}.wav
