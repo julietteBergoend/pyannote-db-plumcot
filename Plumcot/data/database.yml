@@ -56,5 +56,21 @@ Protocols:
           annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
           uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
 Databases:
+  24: /vol/work3/lefevre/dvd_extracted/24/{uri}.en16kHz.wav
+  BattlestarGalactica: /vol/work3/lefevre/dvd_extracted/BattlestarGalactica/{uri}.en16kHz.wav
+  Caprica: /vol/work3/lefevre/dvd_extracted/Caprica/{uri}.en16kHz.wav
+  BreakingBad: /vol/work3/lefevre/dvd_extracted/BreakingBad/{uri}.en16kHz.wav
+  BuffyTheVampireSlayer: /vol/work3/lefevre/dvd_extracted/BuffyTheVampireSlayer/{uri}.en16kHz.wav
   Friends: /vol/work3/lefevre/dvd_extracted/Friends/{uri}.en16kHz.wav
+  GameOfThrones: /vol/work3/lefevre/dvd_extracted/GameOfThrones/{uri}.en16kHz.wav
+  Homeland: /vol/work3/lefevre/dvd_extracted/Homeland/{uri}.en16kHz.wav
+  Lost: /vol/work3/lefevre/dvd_extracted/Lost/{uri}.en16kHz.wav
+  SixFeetUnder: /vol/work3/lefevre/dvd_extracted/SixFeetUnder/{uri}.en16kHz.wav
+  TheBigBangTheory: /vol/work3/lefevre/dvd_extracted/TheBigBangTheory/{uri}.en16kHz.wav
+  TheOffice: /vol/work3/lefevre/dvd_extracted/TheOffice/{uri}.en16kHz.wav
+  TheWalkingDead: /vol/work3/lefevre/dvd_extracted/TheWalkingDead/{uri}.en16kHz.wav
+  ER: /vol/work3/lefevre/dvd_extracted/ER/{uri}.en16kHz.wav
+  HarryPotter: /vol/work3/lefevre/dvd_extracted/HarryPotter/{uri}.en16kHz.wav
+  StarWars: /vol/work3/lefevre/dvd_extracted/StarWars/{uri}.en16kHz.wav
+  TheLordOfTheRings: /vol/work3/lefevre/dvd_extracted/TheLordOfTheRings/{uri}.en16kHz.wav
   MUSAN: /vol/work/lerner/musan/{uri}.wav
