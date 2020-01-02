@@ -1,57 +1,57 @@
 catelyn_stark Are you sure about this?
 robb_stark No.
 catelyn_stark It's dangerous.
-robb_stark If we take Tywin's castle from him, the lords of Westeros will realize he's not invincible. Take his home, take his gold, take his power.
+robb_stark If we take Tywin's castle from him, the lords of Westeros will realize he's not invincible.  Take his home, take his gold, take his power.
 catelyn_stark Why are you telling me?
 robb_stark You begged me not to send Theon to negotiate with his father and I ignored your advice.
-robb_stark Now Winterfell is burned to the ground. The North is overrun with Ironborn and Bran and Rickon are gone.
-robb_stark So, Casterly Rock? I'm asking your advice.
+robb_stark Now Winterfell is burned to the ground.  The North is overrun with Ironborn and bran_stark and rickon_stark are gone.
+robb_stark So, Casterly Rock?  I'm asking your advice.
 catelyn_stark We have enough men?
-robb_stark If Walder Frey cooperates.
-catelyn_stark If Walder Frey cooperates.
+robb_stark If walder Frey cooperates.
+catelyn_stark If walder Frey cooperates.
 catelyn_stark If reinforcements arrive from King's Landing, before we take the castle, we'll be caught between Tywin's army and the sea.
 robb_stark We'll lose the war and die the way father died. Or worse.
 catelyn_stark Show them how it feels to lose what they love.
-walder_frey My honored guests, be welcome within my walls and at my table. I extend to you my hospitality and protection in the light of the Seven.
+walder_frey My honored guests, be welcome within my walls and at my table.  I extend to you my hospitality and protection in the light of the Seven.
 robb_stark We thank you for your hospitality, my lord.
 robb_stark I have come to make my apologies, my lord, and to beg your forgiveness.
-walder_frey Don't beg my forgiveness, your Grace. It wasn't me you spurned, it was my girls.
+walder_frey Don't beg my forgiveness, your Grace.  It wasn't me you spurned, it was my girls.
 walder_frey One of them was supposed to be queen, now none of them are.
-walder_frey This is Arwyn, my daughter. My daughter Walda, my daughter Derwa, my daughter Waldra.
+walder_frey This is Arwyn, my daughter.  My daughter Walda, my daughter Derwa, my daughter Waldra.
 walder_frey My eldest granddaughters Ginia and Neila.
-walder_frey Serra and Sarra, granddaughters, twins. You could have had either. Could have had both for all I care.
-walder_frey My granddaughter Marianne. My granddaughter Freya. My granddaughter...W-W-Wertha? Waldra? Waldina?
-merry_frey I'm Merry.
-walder_frey Fine. And here's my youngest daughter Shirei, though she hasn't bled yet. Clearly you don't have the patience for all that.
-robb_stark My ladies. All men should keep their word, kings most of all. I was pledged to marry one of you and I broke that vow. The fault is not with you. Any man would be lucky to have any one of you. I did what I did not to slight you, but because I loved another. I know these words cannot set right the wrong I have done to you and your house. I beg your forgiveness and pledge to do all I can to make amends so the Freys of the Crossing and the Starks of Winterfell may once again be friends.
+walder_frey Serra and Sarra, granddaughters, twins.  You could have had either.  Could have had both for all I care.
+walder_frey My granddaughter Marianne.  My granddaughter Freya.  My granddaughter...W-W-Wertha? Waldra? Waldina?
+merry_frey I'm merry.
+walder_frey Fine.  And here's my youngest daughter Shirei, though she hasn't bled yet.  Clearly you don't have the patience for all that.
+robb_stark My ladies.  All men should keep their word, kings most of all.  I was pledged to marry one of you and I broke that vow.  The fault is not with you.  Any man would be lucky to have any one of you.  I did what I did not to slight you, but because I loved another.  I know these words cannot set right the wrong I have done to you and your house.  I beg your forgiveness and pledge to do all I can to make amends so the Freys of the Crossing and the Starks of Winterfell may once again be friends.
 walder_frey Very good.
-walder_frey There she is. Come closer, let me have a look at you.
-walder_frey Still can't see you. Old eyes.
-walder_frey Love. That's what the Starks of Winterfell call it, eh? Heh. Very honorable, I call it a pretty face. Mmmm, very pretty. Prettier than this lot, that's for sure. Very shapely as well. Oh, you try to hide her under that dress. If you wanted to hide her, you shouldn't have brought her here in the first place.
-walder_frey I can always see what's going on beneath a dress. Been at this a long time. I bet when you take that dress off, everything stays right where it is. Doesn't drop an inch.
-walder_frey Your king says he betrayed me for love. I say he betrayed me for firm tits and a tight fit.
-walder_frey And I can respect that. When I was your age, I'd have broken fifty oaths to get into that without a second thought. Well, I've enough room in the hall for you lot. We'll set up tents outside with food and ale for the rest of your men.
+walder_frey There she is.  Come closer, let me have a look at you.
+walder_frey Still can't see you.  Old eyes.
+walder_frey Love.  That's what the Starks of Winterfell call it, eh?  Heh. Very honorable, I call it a pretty face.  Mmmm, very pretty.  Prettier than this lot, that's for sure.  Very shapely as well.  Oh, you try to hide her under that dress.  If you wanted to hide her, you shouldn't have brought her here in the first place.
+walder_frey I can always see what's going on beneath a dress.  Been at this a long time.  I bet when you take that dress off, everything stays right where it is.  Doesn't drop an inch.
+walder_frey Your king says he betrayed me for love.  I say he betrayed me for firm tits and a tight fit.
+walder_frey And I can respect that.  When I was your age, I'd have broken fifty oaths to get into that without a second thought.  Well, I've enough room in the hall for you lot.  We'll set up tents outside with food and ale for the rest of your men.
 robb_stark Thank you, my lord.
-walder_frey Well, let's get ready. The wine will flow red and the music will play loud and we'll put this mess behind us.
-sceneCH#NONEXTdaenerys_targaryen Where?
+walder_frey Well, let's get ready.  The wine will flow red and the music will play loud and we'll put this mess behind us.
+daenerys_targaryen Where?
 daario_naharis There.
-daario_naharis There, it's a back gate. My men use it when they visit Yunkai's bed slaves.
+daario_naharis There, it's a back gate.  My men use it when they visit Yunkai's bed slaves.
 jorah_mormont Your men but not you?
-daario_naharis I have no interest in slaves. A man cannot make love to property.
-daario_naharis This is where we enter the city. Very few guards, they know me. They let me inside.
+daario_naharis I have no interest in slaves.  A man cannot make love to property.
+daario_naharis This is where we enter the city.  Very few guards, they know me.  They let me inside.
 barristan_selmy We're not gonna sneak an army through a back gate.
-daario_naharis I kill the guards. I take your two best men and lead them through the back streets, which I know well, and open the front gates.
-daario_naharis Then comes the army. Once the walls are breached, the city will fall in hours.
-jorah_mormont Or perhaps you'll lead Grey Worm and me to the slaughter, cutting the head off our army. The masters of Yunkai will pay you your fee and you won't have to split it three ways cause you've already slaughtered your partners.
-daario_naharis You have a very suspicious mind. In my experience, only dishonest people think this way.
-jorah_mormont You command the Unsullied. What do you think?
+daario_naharis I kill the guards.  I take your two best men and lead them through the back streets, which I know well, and open the front gates.
+daario_naharis Then comes the army.  Once the walls are breached, the city will fall in hours.
+jorah_mormont Or perhaps you'll lead Grey Worm and me to the slaughter, cutting the head off our army.  The masters of Yunkai will pay you your fee and you won't have to split it three ways cause you've already slaughtered your partners.
+daario_naharis You have a very suspicious mind.  In my experience, only dishonest people think this way.
+jorah_mormont You command the Unsullied.  What do you think?
 daenerys_targaryen Lo jention mirre nūmāzme ēza, iderenna qopsa verdagon issa.
 grey_worm I trust him.
-daenerys_targaryen You leave tonight.
-jorah_mormont Very good. We'll prepare.
-barristan_selmy Ser Jorah. You can use an extra sword.
-jorah_mormont You're the Queensguard, Ser Barristan. Your place is by the Queen. If we are truly her loyal servants, we'll do whatever needs to be done. No matter the cost, no matter our pride.
-samwell_tarly We're west of Castle Black, but the Nightfort's closest to us. It was the first castle on the Wall. The Watch abandoned it during the reign of King Jaehaerys I. Too big, impossible to maintain. Other than Castle Black itself, the Nightfort's the perfect castle for us. It's got a secret sally port, the Black Gate, as old as the Wall itself. No one's used it for centuries, most likely. It leads through the Wall right down into the Nightfort, if no one knows how to find it, which, it just so happens I do.
+daenerys_targaryen again] You leave tonight.
+jorah_mormont Very good.  We'll prepare.
+barristan_selmy Ser jorah_mormont.  You can use an extra sword.
+jorah_mormont You're the Queensguard, Ser barristan_selmy.  Your place is by the Queen.  If we are truly her loyal servants, we'll do whatever needs to be done.  No matter the cost, no matter our pride.
+samwell_tarly We're west of Castle Black, but the Nightfort's closest to us.  It was the first castle on the Wall. The Watch abandoned it during the reign of King Jaehaerys I.  Too big, impossible to maintain.  Other than Castle Black itself, the Nightfort's the perfect castle for us.  It's got a secret sally port, the Black Gate, as old as the Wall itself.  No one's used it for centuries, most likely.  It leads through the Wall right down into the Nightfort, if no one knows how to find it, which, it just so happens I do.
 gilly How do you know all that?
 samwell_tarly I read about it in a very old book.
 gilly You know all that from staring at marks on paper?

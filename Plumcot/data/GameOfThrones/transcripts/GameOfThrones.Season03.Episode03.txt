@@ -137,17 +137,17 @@ jeor_mormontWe've come a long way.
 craster Smaller flock than you went north with.
 jeor_mormontWe can talk inside.
 craster Oh, can we?
-woman They need some water.
-woman_#2 Tether it and I'll be inside.
+woman#unknown#GameOfThrones.Season03.Episode03 They need some water.
+woman2#unknown#GameOfThrones.Season03.Episode03 Tether it and I'll be inside.
 craster Keep your eyes where they belong. They're not for you.
 karl_tanner Bet you feed that pig better than you feed us.
 craster Aye, pig's got value to me. You should all be kissing my feet for letting you in. I'd have turned you all away if I wasn't a godly man.
 jeor_mormontYou are a godly man?
 craster I am. I got no fear of what's out there. When the white cold comes, your swords and cloaks and bloody fires won't help you. The only ones left will be those who are right with the gods. The real gods.
 craster Go tell her she can bite down on a rag or she can bite down on my fist. Women. That sow right there gave birth to a litter of eight. Barely a grunt.  And she's almost as fat as this one here.  Now why don't you dine on him? Carve off what you need as you go. Well, look at him. He's a walking feast.
-woman Here we are.
-woman_#2 Sharpen these for me, would ya?
-woman_#3 I see the head. Push.
+woman#unknown#GameOfThrones.Season03.Episode03 Here we are.
+woman2#unknown#GameOfThrones.Season03.Episode03 Sharpen these for me, would ya?
+woman3#unknown#GameOfThrones.Season03.Episode03 I see the head. Push.
 woman That's it. You're nearly there. One more push should do it.
 gilly What is it? What is it?
 ramsay_bolton  Keep quiet.
@@ -336,14 +336,14 @@ tyrion_lannister  Is that what you're telling us?
 tyrion_lannister  Sit down, Podrick.
 tyrion_lannister  We're going to need details. Copious details.
 theon Come on! Come on! Come on! Come on.
-soldier Ha! Ha!
-soldier_#1 You know how we deal with runaways here, do you?
-soldier_#2 Take off his pants.
+soldier#unknown#GameOfThrones.Season03.Episode03 Ha! Ha!
+soldier#unknown#GameOfThrones.Season03.Episode03 You know how we deal with runaways here, do you?
+soldier#unknown#GameOfThrones.Season03.Episode03 Take off his pants.
 theon No! No! No, no, no!
-soldier_#3 I'm gonna fuck you into the dirt.
+soldier#unknown#GameOfThrones.Season03.Episode03 I'm gonna fuck you into the dirt.
 theon No, please! No, no, no! No, don't!
 theon No, please! No! No!
-soldier_#2 You little bastard.
+soldier#unknown#GameOfThrones.Season03.Episode03 You little bastard.
 ramsay_bolton  Come, my lord.
 ramsay_bolton  You're a long way from home and winter is coming.
 locke I'll take the big bitch first. When she's good and wet, you lot can finish her off.
@@ -360,9 +360,9 @@ jaime_lannister They call it the Sapphire Isle. Do you know why? Every sapphire 
 locke I know what they are.
 jaime_lannister Lord Selwyn would pay his daughter's weight in sapphires if she's returned to him. But only if she's alive, her honor unbesmirched.
 locke Bring her back here.
-man Yes, my lord. Get up.
-man_#2 Come on.
-man_#3 Come on, on your feet.
+man#unknown#GameOfThrones.Season03.Episode03 Yes, my lord. Get up.
+man2#unknown#GameOfThrones.Season03.Episode03 Come on.
+man3#unknown#GameOfThrones.Season03.Episode03 Come on, on your feet.
 locke Unbesmirched.
 jaime_lannister Not defiled.
 locke Fancy word for a fancy man.

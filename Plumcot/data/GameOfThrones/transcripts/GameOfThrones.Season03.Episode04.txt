@@ -123,18 +123,18 @@ joffrey_baratheon_greyjoy I couldn't agree more.
 margaery_tyrell Shall we go and see them? If you give them your love, they will return it a thousandfold. I've spoken with them. I know how they feel about you. You led the defense of King's Landing. They adore you.
 joffrey_baratheon_greyjoy Open the doors.
 cersei_lannister joffrey. Wait.
-woman Lady margaery_tyrell!
-woman_#2 Lady margaery_tyrell!
-woman_#3 Bless you, Lady margaery_tyrell!
-woman_#4 Lady margaery_tyrell!
-woman_#5 Lady margaery_tyrell!
-woman_#6 margaery_tyrell!
-woman_#7 Long live Lady margaery_tyrell!
-man King joffrey!
-woman_#8 King joffrey!
-woman_#9 King joffrey!
-man_#2 King joffrey!
-man_#3 Gods bless King joffrey!
+woman#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
+woman2#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
+woman3#unknown#GameOfThrones.Season03.Episode04 Bless you, Lady margaery_tyrell!
+woman4#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
+woman5#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
+woman6#unknown#GameOfThrones.Season03.Episode04 margaery_tyrell!
+woman7#unknown#GameOfThrones.Season03.Episode04 Long live Lady margaery_tyrell!
+man#unknown#GameOfThrones.Season03.Episode04 King joffrey!
+woman8#unknown#GameOfThrones.Season03.Episode04 King joffrey!
+woman9#unknown#GameOfThrones.Season03.Episode04 King joffrey!
+man2#unknown#GameOfThrones.Season03.Episode04 King joffrey!
+man3#unknown#GameOfThrones.Season03.Episode04 Gods bless King joffrey!
 theon_greyjoy How far is it to Deepwood Motte?
 ramsay_bolton Not far, my lord. Your sister is waiting for you there.
 theon_greyjoy She sent you to save me?

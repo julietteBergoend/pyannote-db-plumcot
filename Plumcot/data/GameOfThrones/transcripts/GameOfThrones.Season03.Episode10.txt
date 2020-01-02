@@ -1,11 +1,11 @@
-man It's too late.
-man_#2 Yah! Yah!
-man Go, move out!
-frey_men The King in the North! The King in the North! The King in the North! The King in the North!
-frey_men The King in the North! The King in the North!
-frey_man Here comes the King in the North! Here comes the King in the North!
-frey_men The King in the North! The King in the North!
-frey_man Here comes
+man#unknown#GameOfThrones.Season03.Episode10 It's too late.
+man2#unknown#GameOfThrones.Season03.Episode10 Yah! Yah!
+man#unknown#GameOfThrones.Season03.Episode10 Go, move out!
+frey_men#unknown#GameOfThrones.Season03.Episode10 The King in the North! The King in the North! The King in the North! The King in the North!
+frey_men#unknown#GameOfThrones.Season03.Episode10 The King in the North! The King in the North!
+frey_man#unknown#GameOfThrones.Season03.Episode10 Here comes the King in the North! Here comes the King in the North!
+frey_men#unknown#GameOfThrones.Season03.Episode10 The King in the North! The King in the North!
+frey_man#unknown#GameOfThrones.Season03.Episode10 Here comes
 tyrion_lannister Hmm. Ser Eldrick Sarsfield and Lord Desmond Crakehall. Ser Eldrick Sarsfield and Lord Desmond Crakehall.
 sansa_stark What are you doing?
 tyrion_lannister I have a list.
@@ -259,31 +259,31 @@ cersei_lannister So she can have some happiness in her life.
 tyrion_lannister You have children. How happy would you say you are?
 cersei_lannister Not very. But if it weren't for my children, I'd have thrown myself from the highest window in the Red Keep. They're the reason I'm alive.
 tyrion_lannister Even joffrey_baratheon_greyjoy?
-cersei_lannister Even joffrey_baratheon_greyjoy. He was all I had once. Before Myrcella was born. I used to spend hours looking at him. His wisps of hair. His tiny little hands and feet. He was such a jolly little fellow. You always hear the terrible ones were terrible babies. 'We should have known. Even then we should have known.' It's nonsense. Whenever he was with me, he was happy. And no one can take that away from me, not even 
+cersei_lannister Even joffrey_baratheon_greyjoy. He was all I had once. Before Myrcella was born. I used to spend hours looking at him. His wisps of hair. His tiny little hands and feet. He was such a jolly little fellow. You always hear the terrible ones were terrible babies. 'We should have known. Even then we should have known.' It's nonsense. Whenever he was with me, he was happy. And no one can take that away from me, not even
 joffrey_baratheon how it feels to have someone. Someone of your own.
 tyrion_lannister How long does it go on?
 cersei_lannister Until we've dealt with all our enemies.
 tyrion_lannister Every time we deal with an enemy, we create two more.
 cersei_lannister Then I suppose it will go on for quite a long time.
-frey_soldier I'm telling you, that's what she did. Sounded like a cow in heat.
-frey_soldier_#2 Aye, not for long.
-frey_soldier_#3 That's right. Black Walder shut her up right quick. None of the Starks had much to say about the end of that meal.
-frey_soldier I'll tell you what, though. The hardest thing was getting that wolf's head to stay on the body.
-frey_soldier_#2 You sewed it on?
-frey_soldier I did.
-frey_soldier_#2 I bet there were a thousand men claiming they were the one.
-frey_soldier It was me. And Malcolm and Talbott. Well, the thing was so heavy, it fell off the first time. Took the skin right with it. What we ended up having to do was hook the needle right under the collarbone. Give it a nice firm mooring and-
-frey_soldier What do you want?
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 I'm telling you, that's what she did. Sounded like a cow in heat.
+frey_soldier2#unknown#GameOfThrones.Season03.Episode10 Aye, not for long.
+frey_soldier3#unknown#GameOfThrones.Season03.Episode10 That's right. Black Walder shut her up right quick. None of the Starks had much to say about the end of that meal.
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 I'll tell you what, though. The hardest thing was getting that wolf's head to stay on the body.
+frey_soldier2#unknown#GameOfThrones.Season03.Episode10 You sewed it on?
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 I did.
+frey_soldier2#unknown#GameOfThrones.Season03.Episode10 I bet there were a thousand men claiming they were the one.
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 It was me. And Malcolm and Talbott. Well, the thing was so heavy, it fell off the first time. Took the skin right with it. What we ended up having to do was hook the needle right under the collarbone. Give it a nice firm mooring and-
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 What do you want?
 arya_stark Mind if I keep warm?
-frey_soldier_#2 Fuck off.
+frey_soldier2#unknown#GameOfThrones.Season03.Episode10 Fuck off.
 arya_stark But I'm hungry.
-frey_soldier Does fuck off mean something different where you're from?
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 Does fuck off mean something different where you're from?
 arya_stark I've got money.
-frey_soldier What kind of coin is that?
+frey_soldier#unknown#GameOfThrones.Season03.Episode10 What kind of coin is that?
 arya_stark It's worth a lot.
 arya_stark Sorry.
-frey_soldier Little shit.
-frey_soldier_#2 Fool!
+frey_soldier#unknown#GameOfThrones.Season03.Episode10r Little shit.
+frey_soldier2#unknown#GameOfThrones.Season03.Episode10 Fool!
 sandor_clegane Where did you get the knife?
 arya_stark From you.
 sandor_clegane Is that the first man you've killed?

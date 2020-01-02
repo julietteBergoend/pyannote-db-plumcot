@@ -1,9 +1,9 @@
 thoros Lord, cast your light upon us.
-men Lord of Light, defend us.
+men#unknown#GameOfThrones.Season03.Episode05 Lord of Light, defend us.
 thoros Show us the truth. Strike this man down if he is guilty. Give strength to his sword if he is true. Lord of Light, give us wisdom. For the night is dark and full of terrors.
-men For the night is dark and full of terrors.
+men#unknown#GameOfThrones.Season03.Episode05 For the night is dark and full of terrors.
 thoros Get back.
-men Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty.
+men#unknown#GameOfThrones.Season03.Episode05 Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty. Guilty.
 arya_stark Kill him!
 thoros Lord, cast your light upon this man, your servant. Bring him back from death and darkness. His flame has been extinguished. Restore it.
 thoros For the night is dark and full of terrors. Lord, cast-
@@ -73,9 +73,9 @@ beric_dondarrion Not in the eyes of god.
 arya_stark You can't!
 beric_dondarrion Enough! The judgment isn't ours to make.
 beric_dondarrion Go in peace, Sandor Clegane. The Lord of Light isn't done with you yet.
-man Riders coming through!
-man The Kingslayer.
-man_#2 Down!
+man#unknown#GameOfThrones.Season03.Episode05 Riders coming through!
+man#unknown#GameOfThrones.Season03.Episode05 The Kingslayer.
+man2#unknown#GameOfThrones.Season03.Episode05 Down!
 locke On your knees. Lord Bolton, I give you the Kingslayer.
 roose_bolton Pick him up, Locke.
 roose_bolton You've lost a hand.

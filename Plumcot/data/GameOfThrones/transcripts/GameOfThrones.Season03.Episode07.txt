@@ -228,7 +228,7 @@ anguy No more than twenty.
 beric_dondarrion How far?
 anguy Less than a day's ride south.
 thoros What do you say, boys? Time for a lion hunt?
-men Yeah!
+men#unknown#GameOfThrones.Season03.Episode07 Yeah!
 arya_stark But what about Riverrun? It's not south. It's west of here.
 thoros It will still be west of here two days from now.
 arya_stark You swore.
@@ -238,7 +238,7 @@ beric_dondarrion I swear to you, this isn't-
 arya_stark I don't care what you swear because you're a liar. You lied to Gendry, you lied to me. You'll lie to anyone. I hope the Lannisters kill you all.
 beric_dondarrion One day you'll understand, but now-
 beric_dondarrion Anguy, bring her back.
-man Come back, girl!
+man#unknown#GameOfThrones.Season03.Episode07 Come back, girl!
 sandor_clegane Kick all you like, wolf girl. Won't do you no good.
 brienne_of_tarth I thought you were gone.
 jaime_lannister Tomorrow.
@@ -402,8 +402,8 @@ jaime_lannister Or I could tell him this man saved my life. We return to Harrenh
 jaime_lannister Whoa.
 steelshanks_walton Eyes open, lads.
 jaime_lannister Be quiet.
-men The bear, the bear and the maiden fair / From there to here, from here to there / All black and brown and covered in hair / He smelled that girl in the summer air / The bear, the bear, and the maiden fair!
-man Don't spare her. Don't spare her!
+men#unknown#GameOfThrones.Season03.Episode07 The bear, the bear and the maiden fair / From there to here, from here to there / All black and brown and covered in hair / He smelled that girl in the summer air / The bear, the bear, and the maiden fair!
+man#unknown#GameOfThrones.Season03.Episode07 Don't spare her. Don't spare her!
 locke Well, this is one shameful fucking performance. Stop running and fight.
 jaime_lannister A wooden sword?
 locke I thought you'd gone.
