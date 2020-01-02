@@ -184,9 +184,9 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             / 'transcripts' / f'{id_ep}.txt'
         # If episode has already been processed
         if os.path.isfile(link):
-            exists = f"{id_ep} already processed. [y] to processe, n to skip: "
+            exists = f"{id_ep} already processed. y to processe, [n] to skip: "
             co = input(exists)
-            if co == 'n':
+            if co != 'y':
                 continue
 
         # Get automatic alignment as a dictionnary
