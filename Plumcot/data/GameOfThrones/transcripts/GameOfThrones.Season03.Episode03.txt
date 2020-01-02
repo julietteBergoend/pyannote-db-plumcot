@@ -1,389 +1,392 @@
-qhono If I may, nephew, I encountered a situation with one of my lieutenants at the Stone Mill which may have some bearing--
-vayon_poole Why don't you shut your mouth about that damned mill And don't call him "nephew" He is your king
-qhono Robb knows I meant him no disr--
-vayon_poole You're lucky I'm not your king I wouldn't let you wave your blunders around like a victory flag
-qhono My blunder sent Tywin's mad scurrying back to Casterly Rock with his tail between his legs I think King Robb understands we're not gonna win this war if he's the only one winning any battles No, there's glory enough to go around
-brothel_child_1 It's not about glory Your instructions were to wait for him to come to you
-qhono I seized an opportunity
-brothel_child_1 What value was the mill
-qhono The Mountain was garrisoned across the river from it
-brothel_child_1 Is he there now Of course not
-qhono We took the fight to him He could not withstand us
-brothel_child_1 I wanted to draw the Mountain into the west, into our country where we could surround him and kill him I wanted him to chase us, which he would have done because he is a mad without a strategic thought in his head I could have that head on a spike by now Instead, I have a mill
-qhono We took hostages Willem Lannister Martyn Lannister
-brothel_child_1 Willem and Martyn Lannister are 14 years old
-vayon_poole Martyn is 15, I believe
-brothel_child_1 Tywin Lannister has my sisters Have I sued for peace
-qhono No
-brothel_child_1 Do you think he'll sue for peace because we have his father's brother's great-grandsons
-qhono No
-brothel_child_1 How many men did you lose
-qhono But for every man we lost, the Lannisters--
-brothel_child_1 We need our men more than Tywin needs his!
-qhono I'm sorry I didn't know
-brothel_child_1 You would have Right here today at this gathering if you had been patient
-vayon_poole We seem to be running short of patience here
-brothel_child_1 You know who isn't Tywin Lannister
-rickard_stark Intimate Lovely table Better chairs than the old small council chamber Conveniently close to your own quarters I like it
-eddard_stark What news of Jaime
-eddard_stark 20,000 unwashed northerns have known about his escape for weeks Collectively, you control more spies and informants than the rest of the world combined Do you mean to tell me that none of you has any notion of where he is
-black_lorren We are trying, my lord
-eddard_stark Try harder What do we have, then
-black_lorren Robb Stark and most of his bannermen are in Riverrun for the funeral of his grandfather Lord Hoster Tully In Stark's absence, Roose Bolton holds Harrenhal, which would seem to make him Lord of Harrenhal, in practice if not in name
-eddard_stark Well, let him have it The name suits our purposes far more than that useless pile of rubble The Lord of Harrenhal will make a worthy suitor for the widow Arryn
-petyr_baelish For which I am extremely grateful to you, my lord  Lady Arryn and I have known each other since we were children She has always been positively predisposed toward me
-woodcutter A successful courtship would make Lord Baelish acting Lord of the Vale
-petyr_baelish Titles do seem to breed titles
-eddard_stark You'll leave for the Eyrie as soon as possible and bring Lysa Arryn into the fold Then the young wolf can add his own aunt to the list of people who have taken up arms against him
-rickard_stark Far be it from me to hinder true love, but Lord Baelish's absence would present certain problems The royal wedding may end up being the most expensive event in living memory Summer has ended, hard days lie ahead Not a good time to leave the crown's finances unattended
-eddard_stark Fully agreed Which is why I'm naming you new Master of Coin
-rickard_stark Master of Coin
-eddard_stark It would appear to be a position that best suits your talents
-rickard_stark I'm quite good at spending money, but a lifetime of outrageous wealth hasn't taught me much about managing it
-illyrio_mopatis I have no doubt you will prove equal to this challenge
-woodcutter Hear, hear
-tortured_slave He lifted her high in the air He sniffed and roared and smelled her there She kicked and wailed, a maid so fair But he licked the honey from her hair From there to here, from here to there All black and brown and covered with hair He smelled that girl in the summer air The bear, the bear and the maiden fair
-eyrie_guard I hope you're pleased If you had armed me, they never would have taken us
-prendahl_na_ghezn You were armed when we were taken
-eyrie_guard I was in chains if you recall Our little match would have ended quite quick if my hands weren't bound
-prendahl_na_ghezn All my life I've been hearing, 'Jaime Lannister, what a brilliant swordsman' You were slower than I expected And more predictable
-eyrie_guard I've been sitting in a muddy pen wrapped in chains for the past year
-prendahl_na_ghezn And I'm a woman I was still beating you
-eyrie_guard You were not beating me
-prendahl_na_ghezn Maybe you were as good as people said once Or maybe people just love to overpraise a famous name
-eyrie_guard When we make camp tonight, you'll be raped More than once None of these fellows have ever been with a noblewoman You'd be wise not to resist
-prendahl_na_ghezn Would I
-eyrie_guard They'll knock your teeth out
-prendahl_na_ghezn You think I care about my teeth
-eyrie_guard No, I don't think you care about your teeth If you fight them, they will kill you Do you understand I'm the prisoner of value, not you Let them have what they want What does it matter
-prendahl_na_ghezn What does it matter
-eyrie_guard Close your eyes Pretend they're Renly
-prendahl_na_ghezn If you were a woman, you wouldn't resist You'd let them do what they wanted
-eyrie_guard If I was a woman, I'd make them kill me But I'm not, thank the gods
-simpson If I had a proper forge, I could make it good as new
-septa_mordane Doesn't have to look pretty It just has to keep the arrows out of my heart
-ollys_mother Why are you helping him He takes us prisoner and now he's our friend
-septa_mordane You're not our prisoner, little lady
-ollys_mother What am I
-septa_mordane Our guest No one's put any chains on you
-ollys_mother So I can walk away, then
-septa_mordane These woods aren't safe for Ned Stark's daughter ou're lucky we found you
-imry_florent You think you're good with that bow, you little twat
-lannister_spearman Better than anyone you've ever met
-imry_florent A coward's weapon I like to fight up close I like to see a man's face when I put the steel in him
-lannister_spearman Why So you can kiss him
-ollys_mother You remember the last time you were here
-imry_florent Looks like every other shit inn on the road
-lannister_spearman Now, apologies, but you're one ugly fucker and I'd rather not see you no more
-lannister_spearman Watch your head Off we go
-driver#unknown#GameOfThrones.Season03.Episode03 Walk up!
-ollys_mother What are you doing We're about to leave  Hot PIE I'm staying
-simpson You're what
-hot_pie I baked some brown bread for the innkeep and she said she never had better Told Thoros she's keeping me as a payment for all the free meals she's given him Anyway, it's not me the Brotherhood wants My brother ain't no king I'm not a Stark of Winterhell
-ollys_mother Winterfell
-hot_pie You sure
-ollys_mother I'm sure  Hot PIE Well, I made you something
-ollys_mother What is it
-hot_pie It's a wolf
-simpson Yes, it is
-ollys_mother That's the tail
-hot_pie Yeah
-simpson Well, be safe
-hot_pie Yeah, you, too Don't get stabbed
-simpson You don't burn your fingers
-ollys_mother Good-bye, Hot Pie
-hot_pie Good-bye, Arry
-tortured_slave Up you go, little lady
-ollys_mother Hey, Hot Pie It's really good
-maester_caleotte A person could almost be forgiven for forgetting we're at war
-vayon_poole It often comforts me to think that even in war's darkest days, in most places in the world absolutely nothing is happening
-maester_caleotte I've missed you, Uncle Father missed you, too, from the day you left Maybe he never said it in so many words--
-vayon_poole Maybe Your father was a stubborn old ox I was surprised when he died Didn't think death had the patience
-maester_caleotte I'm glad you were with him I wish to the gods I had been Did you make peace in the end
-vayon_poole After 30 years of fighting, I don't think he remembered what started it He asked me to stop calling myself Blackfish He said it was an old joke and it was never funny to begin with I told him people had been calling me Blackfish for so long, they don't remember my real name
-maester_caleotte Every time he would leave for the capital or fight in a campaign, I'd see him off 'Wait for me, little Cat,' he'd say 'Wait for me and I'll come back to you' And I would sit at this window every day when the sun came up, waiting I wonder how many times did Bran or Rickon stare across the moors of Winterfell waiting for me to return I will never see them again
-vayon_poole You mustn't think it We don't know the truth They could be in hiding Robb believes they're alive And he must go on believing He's got to remain strong if he's to prevail And you must remain strong for him
-martyn_lannister You're Robb Stark's wife
-ironborn_2 Hold still
-martyn_lannister Is it true what they say about him
-ironborn_2 I don't know What do they say about him
-martyn_lannister That he can turn into a wolf at night
-ironborn_2 True
-martyn_lannister And he eats the flesh of his enemies
-ironborn_2 True You're a Lannister, aren't you
-martyn_lannister Martyn Lannister
-ironborn_2 Martyn Lannister You've nothing to fear My husband doesn't eat children Unless it's a full moon It's not a full moon tonight, is it See Nothing to fear
-northman_rider Always the artists
-pit_announcer It's only horses No men
-wedding_band You said there was dead crows
-grand_maester_pycelle There was
-northman_rider How many men were here
-pit_announcer About 300
-northman_rider And you know what those men are now
-northman_rider We're all the same to them-- meat for their army
-pit_announcer Do you think anyone got away
-northman_rider It's not impossible You don't go far betting against Mormont But dead or alive, he took a big gamble coming north And he lost His best fighting men are dead And whether he's Lord Commander of the Night's Watch or a blue-eyed corpse, he's a long way from home Tormund Climb the Wall Take Orell and 20 good men And take this one He knows Castle Black's defenses better than any of us And if he's useful, good If not throw him off the Wall See if crows can fly
-hot_pie We're finally going to war, old friend
-northman_rider Hide near Castle Black When I give the signal, hit them in the night They've got a big old wall to hide behind, but it only guards one side
-hot_pie We'll meet again
-northman_rider Aye  If you do your job  Ah
-grand_maester_pycelle How will we see your signal
-northman_rider Send your eagle above the Wall every night When it's time, I'm going to light the biggest fire the North has ever seen
-braavosi_theatre_server Ghost
-khal_forzho What have we here Frozen crows
-orphan_kid We've come a long way
-khal_forzho Smaller flock than you went north with
-orphan_kid We can talk inside
-khal_forzho Oh, can we
-second_son They need some water
-woman_2##unknown#GameOfThrones.Season01.Episode03 Tether it and I'll be inside
-khal_forzho Keep your eyes where they belong They're not for you  Karl TANNER Bet you feed that pig better than you feed us
-khal_forzho Aye, pig's got value to me You should all be kissing my feet for letting you in I'd have turned you all away if I wasn't a godly man
-orphan_kid You are a godly man
-khal_forzho I am I got no fear of what's out there When the white cold comes, your swords and cloaks and bloody fires won't help you The only ones left will be those who are right with the gods The real gods
-khal_forzho Go tell her she can bite down on a rag or she can bite down on my fist Women That sow right there gave birth to a litter of eight Barely a grunt  And she's almost as fat as this one here  Now why don't you dine on him Carve off what you need as you go Well, look at him He's a walking feast
-second_son Here we are
-woman_2##unknown#GameOfThrones.Season01.Episode03 Sharpen these for me, would ya
-woman#unknown#GameOfThrones.Season01.Episode03 I see the head Push
-second_son That's it You're nearly there One more push should do it
-tycho_nestoris What is it What is it
-drunk_patron Keep quiet
-drunk_patron If you can't ride, we don't stand a chance
-theon_greyjoy I can ride
-drunk_patron You're sure
-drunk_patron Ride east Follow the rising sun Your sister's waiting for you
-theon_greyjoy I'll make you a Lord of the Iron Islands for this
-drunk_patron We're not in the Iron Islands Go
-theon_greyjoy Come on Come on Come on Come on Come on
-tortured_slave Come on back
-ash You refuse to tell me where you're going
-braavosi_captain I don't know yet The fires will show me
-ash How long will you be gone
-braavosi_captain I don't know
-ash You're abandoning me
-braavosi_captain I will never abandon you You are the Son of Fire  I am sworn to serve you
-ash Then serve me
-braavosi_captain When I return, you will understand
-ash My enemies think they've destroyed me They're laughing at me the way Renly laughed at me I want Joffrey dead I want Robb Stark dead Make me another son
-braavosi_captain I cannot
-ash Why
-braavosi_captain You don't have the strength It would kill you
-ash I'm not so easily killed Men have been trying for years
-ash I want you
-braavosi_captain Your fires burn low, my king
-braavosi_captain There is another way A better way
-ash You told me your magic requires a king's blood
-braavosi_captain Yes
-ash I'm the one true king
-braavosi_captain You are But there are others with your blood in their veins You will sit on the Iron Throne, but first there must be sacrifices The Lord of Light demands it
-bear_island_maester The Walk of Punishment is a warning, Your Grace
-ghita To whom
-bear_island_maester To any slave who contemplates doing whatever these slaves did
-ghita Give me your water
-rast Khaleesi, this man has been sentenced to death
-ghita Here, drink
-bear_island_maester Leave this place, Your Grace Leave tonight, I beg you
-rast And what is she to do for soldiers
-bear_island_maester We can find sellswords in Pentos and Myr
-rast Is it 'we' already, Ser Barristan If you want to sit on the throne your ancestors built, you must win it That will mean blood on your hands before the thing is done
-ghita The blood of my enemies, not the blood of innocents
-rast How many wars have you fought in, Ser Barristan
-bear_island_maester Three
-rast Have you ever seen a war where innocents didn't die by the thousands
-rast I was in King's Landing after the sack, khaleesi You know what I saw Butchery Babies, children, old men More women raped than you can count There's a beast in every man and it stirs when you put a sword in his hand But the Unsullied are not men They do not rape They do not put cities to the sword unless they're ordered to do so If you buy them, the only men they'll kill are those you want dead
-ghita Do you disagree, Ser Barristan
-bear_island_maester When your brother Rhaegar led his army into battle at the Trident, men died for him because they believed in him, because they loved him, not because they'd been bought at a slaver's auction I fought beside the last dragon on that day, Your Grace I bled beside him
-rast Rhaegar fought valiantly, Rhaegar fought nobly, and Rhaegar died
-ghita Did you know him well, Ser Barristan
-bear_island_maester I did, Your Grace Finest man I ever met
-ghita I wish I had known him But he was not the last dragon
-great_master_4 All Did this one's ears mishear, Your Grace
-ghita They did not I want to buy them all
-great_master_4 She wants to buy them all
-shae She can't afford them The slut thinks that she can flash her tits, and make us give her whatever she wants
-great_master_4 There are 8,000 Unsullied in Astapor Is this what you mean by all
-ghita Yes 8,000 And the ones still in training as well
-meereenese_homeless_mother If they fail on the battlefield, they will shape Astapor
-great_master_4 Master Greizhen says they cannot sell half-trained boys If they fail on the battlefield, they will bring shame upon all of Astapor
-ghita I will have them all or take none Many will fall in battle I'll need the boys to pick up the swords they drop
-shae The slut cannot pay for all of this
-great_master_4 Master Kraznys says you cannot afford this
-shae Her ship will buy her 100 Unsullied, no more
-great_master_4 Your ship will buy you Because Master Kraznys is generous
-shae And this is because I like the curve of her ass
-great_master_4 The gold you have left is worth 10
-shae What is left will buy her 10 I will give her 20 if it stops her ignorant whimpering
-great_master_4 But good Master Kraznys will give you 20
-shae Her Dothraki smell of shit but will be useful as pig feed
-great_master_4 The Dothraki you have with you--
-shae I will give her 3 for those
-great_master_4 The Dothraki you have are not worth what they cost to feed, but Master Kraznys will give you three Unsullied for all of them
-shae So, ask this beggar queen how will she pay for the remaining 7,877
-great_master_4 Master Kraznys asks how you propose to pay for the remaining 7,877 unsullied
-ghita I have dragons I'll give you one
-bear_island_maester You will win the throne with dragons, not slaves, Your Grace
-rast Khaleesi, please
-shae Three dragons
-ghita One
-shae Two
-ghita One
-great_master_4 They want the biggest one
-ghita Done
-shae Done
-ghita I'll take you as well, now You'll be Master Kraznys' gift to me A token of a bargain well struck
-great_master_4 She asks that you give me to her, as a present She asks that you do this now
-rast Khaleesi, a dragon is worth more than any army
-bear_island_maester Aegon Targaryen proved that
-ghita You're both here to advise me I value your advice, but if you ever question me in front of strangers again, you'll be advising someone else Is that understood
-ghita Do you have a name
-great_master_4 This one's name is Missandei, Your Grace
-ghita Do you have a family A mother and a father you'd return to if you had the choice
-great_master_4 No, Your Grace No family living
-ghita You belong to me now It is your duty to tell me the truth
-great_master_4 Yes, Your Grace Lying is a great offense Many of those on the Walk of Punishment were taken there for less
-ghita I offered water to one of the slaves dying on the Walk of Punishment Do you know what he said to me 'Let me die'
-great_master_4 There are no masters in the grave, Your Grace
-ghita Is it true what Master Kraznys told me about the Unsullied About their obedience
-great_master_4 All questions have been taken from them They obey, that is all Once they are yours, they are yours They will fall on their swords if you command it
-ghita And what about you You know that I'm taking you to war You may go hungry You may fall sick You may be killed
-great_master_4 Valar morghulis
-ghita Yes, all men must die But we are not men
-rickard_stark A surprising place to keep the royal ledgers
-petyr_baelish I'm surprised you're surprised This is the safest place in the city
-rickard_stark Not for bastards
-the_night_king That's all of them, my lord
-petyr_baelish Thank you, my dear
-rickard_stark Pod Pod Take them outside I'll be there in a moment
-gerold_hightower Yes, my lord
-petyr_baelish I hear you owe that boy a significant debt
-rickard_stark Only my life Not all that significant, I'm afraid
-petyr_baelish You should have him knighted
-rickard_stark If only the Master of Coin had such power
-petyr_baelish If only I owe you a significant debt Our redheaded friend You secured her release when the queen detained her
-rickard_stark Oh, that Of course A simple misunderstanding
-petyr_baelish Apparently, Her Grace believed that you two had some sort of special relationship
-rickard_stark We don't I did fuck her once
-petyr_baelish I know
-rickard_stark But we don't
-petyr_baelish I know But how would the queen get that idea
-rickard_stark Why don't you ask her Any advice for me on my new position
-petyr_baelish Keep a low profile
-rickard_stark If I had a gold dragon for every time I heard that joke, I'd be richer than you are
-petyr_baelish Well, you are richer than I am
-rickard_stark Good point
-petyr_baelish They're only numbers Numbers on paper Once you understand that, it's easy to make them behave Trivial even You want a real challenge Try whores
-rickard_stark I've tried quite a few Well, lots of work to do Enjoy the Eyrie
-irri Come on, I'm here later Come on
-irri Tonight, then Looks like dull reading
-rickard_stark You think all reading is dull reading
-irri It's an opinion I share with some of the finest men I know
-rickard_stark The secret history of the Seven Kingdoms is written in these pages
-irri Unless Lord Twatbeard made up a bunch of numbers to hide what he's really up to
-rickard_stark Unless he made it all up, yes  Podrick, do keep up
-gerold_hightower Yes, my lord
-rickard_stark Podrick
-gerold_hightower Yes, my lord
-rickard_stark After a long consultation with my colleague Ser Bronn, I finally found a suitable reward for the services you've provided over and above what might be considered reasonable Tell me, Pod, have you ever been with a woman
-gerold_hightower No, my lord
-rickard_stark Wonderful Genna specializes in first-timers
-irri She's not bad with second-timers, either
-gerold_hightower Uh, my lord
-rickard_stark A fair enough repayment for putting your spear through my would-be killer's face, wouldn't you say
-rickard_stark Now, as it happens, Marei is quite the spear handler herself She's here to thank you for staying by my side as the battle raged all around me
-jaqens_disguise He's handsome You didn't tell me he was handsome
-rickard_stark Kayla is famous from here to Volantis in certain circles One of four women in the world who can perform a proper Meereenese Knot
-gerold_hightower My lord, I don't even
-rickard_stark She's here to thank you for being a thoroughly respectful fellow who's never once failed to address me as 'my lord
-rickard_stark Be back in time for my supper
-irri Pace yourself, lad
-rickard_stark For years I've heard that Littlefinger is a magician Whenever the crown needs money, he rubs his hands together and, poof, mountains of gold
-irri Let me guess He's not a magician
-rickard_stark No
-irri He's stealing it
-rickard_stark Worse, he's borrowing it
-irri What's wrong with that
-rickard_stark We can't afford to pay it back, that's what's wrong with it The crown owes millions to my father
-irri Seeing as it's his grandson's ass on the throne, I imagine he'll forgive that debt
-rickard_stark Forgive a debt, my father For a man of the world, you're strangely naive
-irri I've never borrowed money before I'm not clear on the rules
-rickard_stark Well Ahem! The basic principle is I lend you money, and after an agreed upon period of time, you return it with interest
-irri And what if I don't
-rickard_stark Well, you have to
-irri But what if I don't
-rickard_stark This is why I don't lend you money Anyway, it's not my father I'm worried about It's the Iron Bank of Braavos We owe them tens of millions If we fail to repay these loans, the bank will fund our enemies One way or another, they always get their gold back
-rickard_stark Ah, the return of the conquering hero Does he have a little jaunt in his step
-irri The lad's practically skipping
-rickard_stark You were gone a long time I trust you got your money's worth Or should I say my money's worth
-rickard_stark Oh, it was a gift, Podrick This is more than I give you in a year
-irri He's a squire You don't pay him
-rickard_stark Oh, then it's much more than I give you in a year
-gerold_hightower They wouldn't take it, my lord
-irri Maybe they're trying to curry some favor with the new Master of Coin
-rickard_stark Have you ever known a whore to turn down gold They were happy enough to take it when I gave it to them
-irri What did you tell them
-gerold_hightower I didn't tell them anything
-rickard_stark What did you do to them
-gerold_hightower Lots of things
-rickard_stark And they seemed to like these things
-gerold_hightower Yes, my lord
-irri Of course they seemed to like it They're paid to seem to like it
-rickard_stark Only they weren't paid
-irri What are you saying These ladies enjoyed him so much, they gave him the time for free
-rickard_stark Is that what you're telling us  {PODRICK doesn't deny it
-rickard_stark Sit down, Podrick
-rickard_stark We're going to need details Copious details
-theon_greyjoy Come on! Come on! Come on! Come on
-waitress Ha! Ha!
-soldier#unknown#GameOfThrones.Season01.Episode03 You know how we deal with runaways here, do you
-soldier_2#unknown#GameOfThrones.Season03.Episode03 Take off his pants
-theon_greyjoy No! No! No, no, no!
-soldier#unknown#GameOfThrones.Season03.Episode03 I'm gonna fuck you into the dirt
-theon_greyjoy No, please! No, no, no! No, don't!
-theon_greyjoy No, please! No! No!
-soldier_2#unknown#GameOfThrones.Season03.Episode03 You little bastard
-drunk_patron Come, my lord
-drunk_patron You're a long way from home and winter is coming
-knight I'll take the big bitch first When she's good and wet, you lot can finish her off
-prendahl_na_ghezn My lord, I am Brienne of Tarth Lady Catelyn Stark commanded me to deliver Ser Jaime to King's Landing
-knight Catelyn Stark's a treasonous cunt Orders were to take the Kingslayer alive Nobody said shit about you
-tortured_slave You're only making it worse
-knight Take her over there where it's dark I'd like a little privacy
-tortured_slave Come on!
-eyrie_guard You know who she is, don't you
-knight A big dumb bitch from who cares where Never been with a woman that big
-eyrie_guard She's Brienne of Tarth Her father is Lord Selwyn Tarth Heard of Tarth
-tortured_slave I'm gonna cut your throat!
-eyrie_guard They call it the Sapphire Isle Do you know why Every sapphire in Westeros was mined on Tarth Sapphires are gemstones The blue ones
-knight I know what they are
-eyrie_guard Lord Selwyn would pay his daughter's weight in sapphires if she's returned to him But only if she's alive, her honor unbesmirched
-knight Bring her back here
-tortured_slave Yes, my lord Get up
-man_2#unknown#GameOfThrones.Season03.Episode03 Come on
-man#unknown#GameOfThrones.Season03.Episode03 Come on, on your feet
-knight Unbesmirched
-eyrie_guard Not defiled
-knight Fancy word for a fancy man
-eyrie_guard I hated to read as a child, but my father forced me to study the books every morning before I could practice with sword or horse Two hours every day holed up in the maester's chambers I learned a lot of fancy words
-knight I bet you did
-knight Your father, he'd pay your weight in gold to get you back
-eyrie_guard You'll be a rich man till the end of your days And your sons will be rich men and their sons after them Lands, titles-- you'll have them all The North can't win this war You're a smart man You understand that We have the numbers We have the gold
-knight Aye, you have both
-eyrie_guard Fighting bravely for a losing cause is admirable Fighting for a winning cause is far more rewarding
-knight Hard to argue with that
-eyrie_guard Now that we're speaking together man to man, I wonder if you need to keep me chained to this tree I'm not asking to be freed from my constraints, but if I could sleep lying down, my back would thank you for it I'm not as young and resilient as I was once
-knight None of us are Unchain Ser Jaime from the tree
-tortured_slave Come on, men
-knight Suppose you'll be wanting something to eat
-eyrie_guard I'm famished, actually
-knight I think we've got a spare partridge on the fire
-eyrie_guard Well, I do like partridge
-knight Bring the bird over here and the carving knife Will this work as a table, my lord
-eyrie_guard Oh, yes Yes, this will do nic-- ah!
-knight On the stump
-knight You think you're the smartest man there is That everyone alive has to bow and scrape and lick your boots
-eyrie_guard My father--
-knight And if you get in any trouble, all you've got to do is say 'my father' and that's it, all your troubles are gone
-eyrie_guard Don't
-knight Have you got something to say
-knight Careful You don't want to say the wrong thing You're nothing without your daddy, and your daddy ain't here Never forget that
-knight Here, this should help you remember
+edmure_tully If I may, nephew, I encountered a situation with one of my lieutenants at the Stone Mill which may have some bearing-
+brynden_tully Why don't you shut your mouth about that damned mill? And don't call him "nephew." He is your king.
+edmure_tully robb_stark knows I meant him no disr-
+brynden_tully You're lucky I'm not your king. I wouldn't let you wave your blunders around like a victory flag.
+edmure_tully My blunder sent Tywin's mad scurrying back to Casterly Rock with his tail between his legs. I think King robb_stark understands we're not gonna win this war if he's the only one winning any battles. No, there's glory enough to go around.
+robb_stark It's not about glory. Your instructions were to wait for him to come to you.
+edmure_tully I seized an opportunity.
+robb_stark What value was the mill?
+edmure_tully The Mountain was garrisoned across the river from it.
+robb_stark Is he there now? Of course not.
+edmure_tully We took the fight to him. He could not withstand us.
+robb_stark I wanted to draw the Mountain into the west, into our country where we could surround him and kill him. I wanted him to chase us, which he would have done because he is a mad without a strategic thought in his head. I could have that head on a spike by now. Instead, I have a mill.
+edmure_tully We took hostages. Willem Lannister. Martyn Lannister.
+robb_stark Willem and Martyn Lannister are fourteen years old.
+brynden_tully Martyn is fifteen, I believe.
+robb_stark tywin_lannister  Lannister has my sisters. Have I sued for peace?
+edmure_tully No.
+robb_stark Do you think he'll sue for peace because we have his father's brother's great-grandsons?
+edmure_tully No.
+robb_stark How many men did you lose?
+edmure_tully But for every man we lost, the Lannisters-
+robb_stark We need our men more than tywin_lannister  needs his!
+edmure_tully I'm sorry. I didn't know.
+robb_stark You would have. Right here today at this gathering if you had been patient.
+brynden_tully We seem to be running short of patience here.
+robb_stark You know who isn't? tywin_lannister  Lannister.
+tyrion_lannister  Intimate. Lovely table. Better chairs than the old small council chamber. Conveniently close to your own quarters. I like it.
+tywin_lannister  What news of jaime_lannister?
+tywin_lannister  Twenty thousand unwashed Northerns have known about his escape for weeks. Collectively, you control more spies and informants than the rest of the world combined. Do you mean to tell me that none of you has any notion of where he is?
+lord_varys We are trying, my lord.
+tywin_lannister  Try harder. What do we have, then?
+lord_varys robb Stark and most of his bannermen are in Riverrun for the funeral of his grandfather Lord Hoster Tully. In Stark's absence, Roose Bolton holds Harrenhal, which would seem to make him Lord of Harrenhal, in practice if not in name.
+tywin_lannister  Well, let him have it. The name suits our purposes far more than that useless pile of rubble. The Lord of Harrenhal will make a worthy suitor for the widow Arryn.
+petyr_baelish For which I am extremely grateful to you, my lord.  Lady Arryn and I have known each other since we were children. She has always been positively predisposed toward me.
+grand_maester_pycelle A successful courtship would make Lord Baelish acting Lord of the Vale.
+petyr_baelish Titles do seem to breed titles.
+tywin_lannister  You'll leave for the Eyrie as soon as possible and bring Lysa Arryn into the fold. Then the young wolf can add his own aunt to the list of people who have taken up arms against him.
+tyrion_lannister  Far be it from me to hinder true love, but Lord Baelish's absence would present certain problems. The royal wedding may end up being the most expensive event in living memory. Summer has ended, hard days lie ahead. Not a good time to leave the crown's finances unattended.
+tywin_lannister  Fully agreed. Which is why I'm naming you new Master of Coin.
+tyrion_lannister  Master of Coin?
+tywin_lannister  It would appear to be a position that best suits your talents.
+tyrion_lannister  I'm quite good at spending money, but a lifetime of outrageous wealth hasn't taught me much about managing it.
+cersei I have no doubt you will prove equal to this challenge.
+grand_maester_pycelle Hear, hear.
+men He lifted her high in the air. He sniffed and roared and smelled her there. She kicked and wailed, a maid so fair. But he licked the honey from her hair. From there to here, from here to there. All black and brown and covered with hair. He smelled that girl in the summer air. The bear, the bear and the maiden fair.
+jaime_lannister I hope you're pleased. If you had armed me, they never would have taken us.
+brienne_of_tarth You were armed when we were taken.
+jaime_lannister I was in chains if you recall. Our little match would have ended quite quick if my hands weren't bound.
+brienne_of_tarth All my life I've been hearing, 'jaime Lannister, what a brilliant swordsman.' You were slower than I expected. And more predictable.
+jaime_lannister I've been sitting in a muddy pen wrapped in chains for the past year.
+brienne_of_tarth And I'm a woman. I was still beating you.
+jaime_lannister You were not beating me.
+brienne_of_tarth Maybe you were as good as people said once. Or maybe people just love to overpraise a famous name.
+jaime_lannister When we make camp tonight, you'll be raped. More than once. None of these fellows have ever been with a noblewoman. You'd be wise not to resist.
+brienne_of_tarth Would I?
+jaime_lannister They'll knock your teeth out.
+brienne_of_tarth You think I care about my teeth?
+jaime_lannister No, I don't think you care about your teeth. If you fight them, they will kill you. Do you understand? I'm the prisoner of value, not you. Let them have what they want. What does it matter?
+brienne_of_tarth What does it matter?
+jaime_lannister Close your eyes. Pretend they're Renly.
+brienne_of_tarth If you were a woman, you wouldn't resist? You'd let them do what they wanted?
+jaime_lannister If I was a woman, I'd make them kill me. But I'm not, thank the gods.
+gendry If I had a proper forge, I could make it good as new.
+thoros Doesn't have to look pretty. It just has to keep the arrows out of my heart.
+arya_stark Why are you helping him? He takes us prisoner and now he's our friend?
+thoros You're not our prisoner, little lady.
+arya_stark What am I?
+thoros Our guest. No one's put any chains on you.
+arya_stark So I can walk away, then?
+thoros These woods aren't safe for Ned Stark's daughter. You're lucky we found you.
+sandor_clegane You think you're good with that bow, you little twat?
+anguy Better than anyone you've ever met.
+sandor_clegane A coward's weapon. I like to fight up close. I like to see a man's face when I put the steel in him.
+anguy Why? So you can kiss him?
+arya_stark You remember the last time you were here?
+sandor_clegane Looks like every other shit inn on the road.
+anguy Now, apologies, but you're one ugly fucker and I'd rather not see you no more.
+anguy Watch your head. Off we go.
+driver Walk up!
+arya_stark What are you doing? We're about to leave.
+hot_pie I'm staying.
+gendry You're what?
+hot_pie I baked some brown bread for the innkeep and she said she never had better. Told Thoros she's keeping me as a payment for all the free meals she's given him. Anyway, it's not me the Brotherhood wants. My brother ain't no king. I'm not a Stark of "Winterhell".
+arya_stark Winterfell.
+hot_pie You sure?
+arya_stark I'm sure.
+hot_pie Well, I made you something.
+arya_stark What is it?
+hot_pie It's a wolf.
+gendry Yes, it is.
+arya_stark That's the tail?
+hot_pie Yeah.
+gendry Well, be safe.
+hot_pie Yeah, you, too. Don't get stabbed.
+gendry You don't burn your fingers.
+arya_stark Good-bye, Hot Pie.
+hot_pie Good-bye, Arry.
+man Up you go, little lady.
+arya_stark Hey, Hot Pie. It's really good.
+catelyn_stark A person could almost be forgiven for forgetting we're at war.
+brynden_tully It often comforts me to think that even in war's darkest days, in most places in the world absolutely nothing is happening.
+catelyn_stark I've missed you, Uncle. Father missed you, too, from the day you left. Maybe he never said it in so many words-
+brynden_tully Maybe? Your father was a stubborn old ox. I was surprised when he died. Didn't think death had the patience.
+catelyn_stark I'm glad you were with him. I wish to the gods I had been. Did you make peace in the end?
+brynden_tully After thirty years of fighting, I don't think he remembered what started it. He asked me to stop calling myself Blackfish. He said it was an old joke and it was never funny to begin with. I told him people had been calling me Blackfish for so long, they don't remember my real name.
+catelyn_stark Every time he would leave for the capital or fight in a campaign, I'd see him off. 'Wait for me, little Cat,' he'd say. 'Wait for me and I'll come back to you.' And I would sit at this window every day when the sun came up, waiting. I wonder how many times did Bran or Rickon stare across the moors of Winterfell waiting for me to return. I will never see them again.
+brynden_tully You mustn't think it. We don't know the truth. They could be in hiding. robb_stark believes they're alive. And he must go on believing. He's got to remain strong if he's to prevail. And you must remain strong for him.
+martyn You're robb Stark's wife.
+talisa_stark Hold still.
+martyn Is it true what they say about him?
+talisa_stark I don't know. What do they say about him?
+martyn That he can turn into a wolf at night.
+talisa_stark True.
+martyn And he eats the flesh of his enemies.
+talisa_stark True. You're a Lannister, aren't you?
+martyn Martyn Lannister.
+talisa_stark Martyn Lannister. You've nothing to fear. My husband doesn't eat children. Unless it's a full moon. It's not a full moon tonight, is it? See? Nothing to fear.
+mance Always the artists.
+jon_snow It's only horses. No men.
+ygritte You said there was dead crows.
+orell There was.
+mance How many men were here?
+jon_snow About three hundred.
+mance And you know what those men are now?
+mance We're all the same to them - meat for their army.
+jon_snow Do you think anyone got away?
+mance It's not impossible. You don't go far betting against Mormont. But dead or alive, he took a big gamble coming north. And he lost. His best fighting men are dead. And whether he's Lord Commander of the Night's Watch or a blue-eyed corpse, he's a long way from home. Tormund. Climb the Wall. Take Orell and twenty good men. And take this one. He knows Castle Black's defenses better than any of us. And if he's useful, good. If not throw him off the Wall. See if crows can fly.
+tormund We're finally going to war, old friend?
+mance Hide near Castle Black. When I give the signal, hit them in the night. They've got a big old wall to hide behind, but it only guards one side.
+tormund We'll meet again.
+mance Aye. If you do your job. Ah.
+orell How will we see your signal?
+mance Send your eagle above the Wall every night. When it's time, I'm going to light the biggest fire the North has ever seen.
+samwell_tarly Ghost?
+craster What have we here? Frozen crows?
+jeor_mormontWe've come a long way.
+craster Smaller flock than you went north with.
+jeor_mormontWe can talk inside.
+craster Oh, can we?
+woman#unknown#GameOfThrones.Season03.Episode03 They need some water.
+woman#unknown#GameOfThrones.Season03.Episode03 Tether it and I'll be inside.
+craster Keep your eyes where they belong. They're not for you.
+karl_tanner Bet you feed that pig better than you feed us.
+craster Aye, pig's got value to me. You should all be kissing my feet for letting you in. I'd have turned you all away if I wasn't a godly man.
+jeor_mormontYou are a godly man?
+craster I am. I got no fear of what's out there. When the white cold comes, your swords and cloaks and bloody fires won't help you. The only ones left will be those who are right with the gods. The real gods.
+craster Go tell her she can bite down on a rag or she can bite down on my fist. Women. That sow right there gave birth to a litter of eight. Barely a grunt.  And she's almost as fat as this one here.  Now why don't you dine on him? Carve off what you need as you go. Well, look at him. He's a walking feast.
+woman#unknown#GameOfThrones.Season03.Episode03 Here we are.
+woman#unknown#GameOfThrones.Season03.Episode03 Sharpen these for me, would ya?
+woman#unknown#GameOfThrones.Season03.Episode03 I see the head. Push.
+woman That's it. You're nearly there. One more push should do it.
+gilly What is it? What is it?
+ramsay_bolton  Keep quiet.
+ramsay_bolton  If you can't ride, we don't stand a chance.
+theon I can ride.
+ramsay_bolton  You're sure?
+ramsay_bolton  Ride east. Follow the rising sun. Your sister's waiting for you.
+theon I'll make you a Lord of the Iron Islands for this.
+ramsay_bolton  We're not in the Iron Islands. Go.
+theon Come on. Come on. Come on. Come on. Come on.
+man Come on back.
+stannis_baratheon You refuse to tell me where you're going?
+melisandre I don't know yet. The fires will show me.
+stannis_baratheon How long will you be gone?
+melisandre I don't know.
+stannis_baratheon You're abandoning me.
+melisandre I will never abandon you. You are the Son of Fire.  I am sworn to serve you.
+stannis_baratheon Then serve me.
+melisandre When I return, you will understand.
+stannis_baratheon My enemies think they've destroyed me. They're laughing at me the way Renly laughed at me. I want Joffrey dead. I want robb_stark Stark dead. Make me another son.
+melisandre I cannot.
+stannis_baratheon Why?
+melisandre You don't have the strength. It would kill you.
+stannis_baratheon I'm not so easily killed. Men have been trying for years.
+stannis_baratheon I want you.
+melisandre Your fires burn low, my king.
+melisandre There is another way. A better way.
+stannis_baratheon You told me your magic requires a king's blood.
+melisandre Yes.
+stannis_baratheon I'm the one true king.
+melisandre You are. But there are others with your blood in their veins. You will sit on the Iron Throne, but first there must be sacrifices. The Lord of Light demands it.
+barristan_selmy The Walk of Punishment is a warning, Your Grace.
+daenerys_targaryen To whom?
+barristan_selmy To any slave who contemplates doing whatever these slaves did.
+daenerys_targaryen Give me your water.
+jorah_mormont Khaleesi, this man has been sentenced to death.
+daenerys_targaryen Here, drink.
+barristan_selmy Leave this place, Your Grace. Leave tonight, I beg you.
+jorah_mormont And what is she to do for soldiers?
+barristan_selmy We can find sellswords in Pentos and Myr.
+jorah_mormont Is it 'we' already, Ser barristan? If you want to sit on the throne your ancestors built, you must win it. That will mean blood on your hands before the thing is done.
+daenerys_targaryen The blood of my enemies, not the blood of innocents.
+jorah_mormont How many wars have you fought in, Ser barristan?
+barristan_selmy Three.
+jorah_mormont Have you ever seen a war where innocents didn't die by the thousands?
+jorah_mormont I was in King's Landing after the sack, khaleesi. You know what I saw? Butchery. Babies, children, old men. More women raped than you can count. There's a beast in every man and it stirs when you put a sword in his hand. But the Unsullied are not men. They do not rape. They do not put cities to the sword unless they're ordered to do so. If you buy them, the only men they'll kill are those you want dead.
+daenerys_targaryen Do you disagree, Ser barristan?
+barristan_selmy When your brother Rhaegar led his army into battle at the Trident, men died for him because they believed in him, because they loved him, not because they'd been bought at a slaver's auction. I fought beside the last dragon on that day, Your Grace. I bled beside him.
+jorah_mormont Rhaegar fought valiantly, Rhaegar fought nobly, and Rhaegar died.
+daenerys_targaryen Did you know him well, Ser barristan?
+barristan_selmy I did, Your Grace. Finest man I ever met.
+daenerys_targaryen I wish I had known him. But he was not the last dragon.
+missandei All? Did this one's ears mishear, Your Grace?
+daenerys_targaryen They did not. I want to buy them all.
+missandei She wants to buy them all.
+kraznys_mo_nakloz She can't afford them. The slut thinks that she can flash her tits, and make us give her whatever she wants.
+missandei There are eight thousand Unsullied in Astapor. Is this what you mean by all?
+daenerys_targaryen Yes. eight thousand. And the ones still in training as well.
+greizhen If they fail on the battlefield, they will shame Astapor.
+missandei Master Greizhen says they cannot sell half-trained boys. If they fail on the battlefield, they will bring shame upon all of Astapor.
+daenerys_targaryen I will have them all or take none. Many will fall in battle. I'll need the boys to pick up the swords they drop.
+kraznys_mo_nakloz The slut cannot pay for all of this.
+missandei Master kraznys says you cannot afford this.
+kraznys_mo_nakloz Her ship will buy her a hundred Unsullied, no more.
+missandei Your ship will buy you Because Master kraznys is generous.
+kraznys_mo_nakloz And this is because I like the curve of her ass.
+missandei The gold you have left is worth ten.
+kraznys_mo_nakloz What is left will buy her ten. I will give her twenty if it stops her ignorant whimpering.
+missandei But good Master kraznys will give you twenty.
+kraznys_mo_nakloz Her Dothraki smell of shit but will be useful as pig feed.
+missandei The Dothraki you have with you-
+kraznys_mo_nakloz I will give her three for those.
+missandei The Dothraki you have are not worth what they cost to feed, but Master kraznys will give you three Unsullied for all of them.
+kraznys_mo_nakloz So, ask this beggar queen how will she pay for the remaining 7,877?
+missandei Master kraznys asks how you propose to pay for the remaining 7,877 unsullied.
+daenerys_targaryen I have dragons. I'll give you one.
+barristan_selmy You will win the throne with dragons, not slaves, Your Grace.
+jorah_mormont Khaleesi, please.
+kraznys_mo_nakloz Three dragons.
+daenerys_targaryen One.
+kraznys_mo_nakloz Two.
+daenerys_targaryen One.
+missandei They want the biggest one.
+daenerys_targaryen Done.
+kraznys_mo_nakloz Done.
+daenerys_targaryen I'll take you as well, now. You'll be Master kraznys' gift to me. A token of a bargain well struck.
+missandei She asks that you give me to her, as a present. She asks that you do this now.
+jorah_mormont Khaleesi, a dragon is worth more than any army.
+barristan_selmy Aegon Targaryen proved that.
+daenerys_targaryen You're both here to advise me. I value your advice, but if you ever question me in front of strangers again, you'll be advising someone else. Is that understood?
+daenerys_targaryen Do you have a name?
+missandei This one's name is Missandei, Your Grace.
+daenerys_targaryen Do you have a family? A mother and a father you'd return to if you had the choice?
+missandei No, Your Grace. No family living.
+daenerys_targaryen You belong to me now. It is your duty to tell me the truth.
+missandei Yes, Your Grace. Lying is a great offense. Many of those on the Walk of Punishment were taken there for less.
+daenerys_targaryen I offered water to one of the slaves dying on the Walk of Punishment. Do you know what he said to me? 'Let me die.'
+missandei There are no masters in the grave, Your Grace.
+daenerys_targaryen Is it true what Master kraznys_mo_nakloz told me about the Unsullied? About their obedience?
+missandei All questions have been taken from them. They obey, that is all. Once they are yours, they are yours. They will fall on their swords if you command it.
+daenerys_targaryen And what about you? You know that I'm taking you to war. You may go hungry. You may fall sick. You may be killed.
+missandei Valar morghulis.
+daenerys_targaryen Yes, all men must die. But we are not men.
+tyrion_lannister  A surprising place to keep the royal ledgers.
+petyr_baelish I'm surprised you're surprised. This is the safest place in the city.
+tyrion_lannister  Not for bastards.
+ros That's all of them, my lord.
+petyr_baelish Thank you, my dear.
+tyrion_lannister  Pod. Pod. Take them outside. I'll be there in a moment.
+podrick Yes, my lord.
+petyr_baelish I hear you owe that boy a significant debt.
+tyrion_lannister  Only my life. Not all that significant, I'm afraid.
+petyr_baelish You should have him knighted.
+tyrion_lannister  If only the Master of Coin had such power.
+petyr_baelish If only. I owe you a significant debt. Our redheaded friend. You secured her release when the queen detained her.
+tyrion_lannister  Oh, that. Of course. A simple misunderstanding.
+petyr_baelish Apparently, Her Grace believed that you two had some sort of special relationship.
+tyrion_lannister  We don't. I did fuck her once.
+petyr_baelish I know.
+tyrion_lannister  But we don't.
+petyr_baelish I know. But how would the queen get that idea?
+tyrion_lannister  Why don't you ask her? Any advice for me on my new position?
+petyr_baelish Keep a low profile.
+tyrion_lannister  If I had a gold dragon for every time I heard that joke, I'd be richer than you are.
+petyr_baelish Well, you are richer than I am.
+tyrion_lannister  Good point.
+petyr_baelish They're only numbers. Numbers on paper. Once you understand that, it's easy to make them behave. Trivial even. You want a real challenge? Try whores.
+tyrion_lannister  I've tried quite a few. Well, lots of work to do. Enjoy the Eyrie.
+bronn Come on, I'm here later. Come on.
+bronn Tonight, then. Looks like dull reading.
+tyrion_lannister  You think all reading is dull reading.
+bronn It's an opinion I share with some of the finest men I know.
+tyrion_lannister  The secret history of the Seven Kingdoms is written in these pages.
+bronn Unless Lord Twatbeard made up a bunch of numbers to hide what he's really up to.
+tyrion_lannister  Unless he made it all up, yes. Podrick, do keep up.
+podrick Yes, my lord.
+tyrion_lannister  Podrick.
+podrick Yes, my lord?
+tyrion_lannister  After a long consultation with my colleague Ser Bronn, I finally found a suitable reward for the services you've provided over and above what might be considered reasonable. Tell me, Pod, have you ever been with a woman?
+podrick No, my lord.
+tyrion_lannister  Wonderful. Genna specializes in first-timers.
+bronn She's not bad with second-timers, either.
+podrick Uh, my lord
+tyrion_lannister  A fair enough repayment for putting your spear through my would-be killer's face, wouldn't you say?
+tyrion_lannister  Now, as it happens, Marei is quite the spear handler herself. She's here to thank you for staying by my side as the battle raged all around me.
+marei He's handsome. You didn't tell me he was handsome.
+tyrion_lannister  Kayla is famous from here to Volantis in certain circles. One of four women in the world who can perform a proper Meereenese Knot.
+podrick My lord, I don't even
+tyrion_lannister  She's here to thank you for being a thoroughly respectful fellow who's never once failed to address me as 'my lord.
+tyrion_lannister  Be back in time for my supper.
+bronn Pace yourself, lad.
+tyrion_lannister  For years I've heard that petyr_baelish is a magician. Whenever the crown needs money, he rubs his hands together and, poof, mountains of gold.
+bronn Let me guess. He's not a magician.
+tyrion_lannister  No.
+bronn He's stealing it?
+tyrion_lannister  Worse, he's borrowing it.
+bronn What's wrong with that?
+tyrion_lannister  We can't afford to pay it back, that's what's wrong with it. The crown owes millions to my father.
+bronn Seeing as it's his grandson's ass on the throne, I imagine he'll forgive that debt.
+tyrion_lannister  Forgive a debt, my father? For a man of the world, you're strangely naive.
+bronn I've never borrowed money before. I'm not clear on the rules.
+tyrion_lannister  Well, ahem, the basic principle is I lend you money, and after an agreed upon period of time, you return it with interest.
+bronn And what if I don't?
+tyrion_lannister  Well, you have to.
+bronn But what if I don't?
+tyrion_lannister  This is why I don't lend you money. Anyway, it's not my father I'm worried about. It's the Iron Bank of Braavos. We owe them tens of millions. If we fail to repay these loans, the bank will fund our enemies. One way or another, they always get their gold back.
+tyrion_lannister  Ah, the return of the conquering hero. Does he have a little jaunt in his step?
+bronn The lad's practically skipping.
+tyrion_lannister  You were gone a long time. I trust you got your money's worth. Or should I say my money's worth?
+tyrion_lannister  Oh, it was a gift, Podrick. This is more than I give you in a year.
+bronn He's a squire. You don't pay him.
+tyrion_lannister  Oh, then it's much more than I give you in a year.
+podrick They wouldn't take it, my lord.
+bronn Maybe they're trying to curry some favor with the new Master of Coin.
+tyrion_lannister  Have you ever known a whore to turn down gold? They were happy enough to take it when I gave it to them.
+bronn What did you tell them?
+podrick I didn't tell them anything.
+tyrion_lannister  What did you do to them?
+podrick Lots of things.
+tyrion_lannister  And they seemed to like these things?
+podrick Yes, my lord.
+bronn Of course they seemed to like it. They're paid to seem to like it.
+tyrion_lannister  Only they weren't paid.
+bronn What are you saying? These ladies enjoyed him so much, they gave him the time for free?
+tyrion_lannister  Is that what you're telling us?
+tyrion_lannister  Sit down, Podrick.
+tyrion_lannister  We're going to need details. Copious details.
+theon Come on! Come on! Come on! Come on.
+soldier#unknown#GameOfThrones.Season03.Episode03 Ha! Ha!
+soldier#unknown#GameOfThrones.Season03.Episode03 You know how we deal with runaways here, do you?
+soldier#unknown#GameOfThrones.Season03.Episode03 Take off his pants.
+theon No! No! No, no, no!
+soldier#unknown#GameOfThrones.Season03.Episode03 I'm gonna fuck you into the dirt.
+theon No, please! No, no, no! No, don't!
+theon No, please! No! No!
+soldier#unknown#GameOfThrones.Season03.Episode03 You little bastard.
+ramsay_bolton  Come, my lord.
+ramsay_bolton  You're a long way from home and winter is coming.
+locke I'll take the big bitch first. When she's good and wet, you lot can finish her off.
+brienne_of_tarth My lord, I am brienne_of_tarth of Tarth. Lady catelyn_stark Stark commanded me to deliver Ser jaime_lannister to King's Landing.
+locke catelyn Stark's a treasonous cunt. Orders were to take the Kingslayer alive. Nobody said shit about you.
+man You're only making it worse.
+locke Take her over there where it's dark. I'd like a little privacy.
+man Come on!
+jaime_lannister You know who she is, don't you?
+locke A big dumb bitch from who cares where. Never been with a woman that big.
+jaime_lannister She's brienne_of_tarth of Tarth. Her father is Lord Selwyn Tarth. Heard of Tarth?
+man I'm gonna cut your throat!
+jaime_lannister They call it the Sapphire Isle. Do you know why? Every sapphire in Westeros was mined on Tarth. Sapphires are gemstones. The blue ones.
+locke I know what they are.
+jaime_lannister Lord Selwyn would pay his daughter's weight in sapphires if she's returned to him. But only if she's alive, her honor unbesmirched.
+locke Bring her back here.
+man#unknown#GameOfThrones.Season03.Episode03 Yes, my lord. Get up.
+man#unknown#GameOfThrones.Season03.Episode03 Come on.
+man#unknown#GameOfThrones.Season03.Episode03 Come on, on your feet.
+locke Unbesmirched.
+jaime_lannister Not defiled.
+locke Fancy word for a fancy man.
+jaime_lannister I hated to read as a child, but my father forced me to study the books every morning before I could practice with sword or horse. Two hours every day holed up in the maester's chambers. I learned a lot of fancy words.
+locke I bet you did.
+locke Your father, he'd pay your weight in gold to get you back?
+jaime_lannister You'll be a rich man till the end of your days. And your sons will be rich men and their sons after them. Lands, titles- you'll have them all. The North can't win this war. You're a smart man. You understand that. We have the numbers. We have the gold.
+locke Aye, you have both.
+jaime_lannister Fighting bravely for a losing cause is admirable. Fighting for a winning cause is far more rewarding.
+locke Hard to argue with that.
+jaime_lannister Now that we're speaking together man to man, I wonder if you need to keep me chained to this tree. I'm not asking to be freed from my constraints, but if I could sleep lying down, my back would thank you for it. I'm not as young and resilient as I was once.
+locke None of us are. Unchain Ser jaime_lannister from the tree.
+man Come on, men.
+locke Suppose you'll be wanting something to eat.
+jaime_lannister I'm famished, actually.
+locke I think we've got a spare partridge on the fire.
+jaime_lannister Well, I do like partridge.
+locke Bring the bird over here and the carving knife. Will this work as a table, my lord?
+jaime_lannister Oh, yes. Yes, this will do nic- ah!
+locke On the stump.
+locke You think you're the smartest man there is. That everyone alive has to bow and scrape and lick your boots.
+jaime_lannister My father-
+locke And if you get in any trouble, all you've got to do is say 'my father' and that's it, all your troubles are gone.
+jaime_lannister Don't.
+locke Have you got something to say?
+locke Careful. You don't want to say the wrong thing. You're nothing without your daddy, and your daddy ain't here. Never forget that.
+locke Here, this should help you remember.
