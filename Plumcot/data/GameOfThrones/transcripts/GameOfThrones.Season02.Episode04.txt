@@ -120,7 +120,6 @@ ros Your Grace, if your uncle finds out
 joffrey_baratheon Oh, I want him to find out. You will bring her to his chambers when you're finished and show him what you've done, or the same thing will happen to you.
 joffrey_baratheon Begin.
 joffrey_baratheon Harder!
-ext#NONEXT The Shadowlands
 renly_baratheon Well, if it isn't my favorite whoremonger. Pray I haven't kept you waiting long.
 petyr_baelish Your Grace.
 renly_baratheon Now you do the Lannisters' bidding, is that it? Tell me, was my brother's body even cold before you secured your newest patron?
@@ -171,7 +170,6 @@ old_woman_prisoner He's dead. He was my son. My sister was three days ago. My hu
 gendry They take someone every day?
 old_woman_prisoner (nods)
 arya_stark Does anyone live?
-ext#NONEXT PRISONER ENCAMPMENT AT NIGHT
 arya_stark Joffrey. Cersei. llyn Payne. The Hound. Joffrey. Cersei. llyn Payne. The Hound. Joffrey. Cersei. llyn Payne. The Hound.
 catelyn_stark How dare you?
 petyr_baelish You may have heard false reports.
@@ -196,7 +194,6 @@ catelyn_stark Good faith?
 catelyn_stark What's this?
 petyr_baelish Your husband was an honorable man. He should rest beside his family in the crypts beneath Winterfell. You may not believe
 catelyn_stark Get out.
-ext#NONEXT RIVERLANDS PRISONER ENCAMPMENT
 man#unknown#GameOfThrones.Season02.Episode04 Get up, you dogs!
 hot_pie That's him, the one who picks.
 arya_stark The Mountain. What are you doing?
@@ -229,7 +226,6 @@ old_woman_prisoner No! No! I told you everything! No! No!
 arya_stark Joffrey. Cersei. llyn Payne. The Hound.
 old_woman_prisoner Please, Polliver. Some food. Just a crust of bread.
 arya_stark Polliver. The Mountain.
-renly's#NONEXT RENLY, CATELYN, LORAS and BRIENNE facing STANNIS, DAVOS and MELISANDRE
 stannis_baratheon Lady Stark, I had not thought to find you in the Stormlands.
 catelyn_stark I had not thought to be here, Lord Stannis.
 renly_baratheon Can that truly be you?

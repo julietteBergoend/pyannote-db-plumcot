@@ -264,8 +264,8 @@ melisandre You've chosen the darkness, Ser Davos.
 davos_seaworth She will destroy us all!
 melisandre I will pray for you.
 davos_seaworth Your Grace!
-guard#unknown#GameOfThrones.Season03.Episode01 Guard Halt. Down.
-gurad_2#unknown#GameOfThrones.Season03.Episode01 Guard #2 Halt. Down.
+guard#unknown#GameOfThrones.Season03.Episode01 Halt. Down.
+guard_2#unknown#GameOfThrones.Season03.Episode01 Halt. Down.
 joffrey_baratheon Why have we stopped?
 guard#unknown#GameOfThrones.Season03.Episode01 It's Lady Margaery, Your Grace.
 joffrey_baratheon Joffrey What is she doing? Who gave her permission?

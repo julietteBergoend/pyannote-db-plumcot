@@ -287,7 +287,6 @@ alton_lannister An honorable request, Your Grace.
 robb_stark Third... Joffrey and the Queen Regent must renounce all claim to dominion of the North. From this time, till the end of time, we are a free and independent kingdom.
 rodrik_cassel The King in the North.
 the_others_at_the_table#unknown#GameOfThrones.Season02.Episode1 King in the North.
-asther#NONEXT King in the North.
 robb_stark Neither Joffrey nor any of his men shall set foot in our lands again. If he disregards this command, he shall suffer the same fate as my father, only I don't need a servant to do my beheading for me.
 alton_lannister These are... Your Grace, these are...
 robb_stark These are my terms. If the Queen Regent and her son meet them, I'll give them peace. If not, I will litter the south with Lannister dead.
@@ -325,28 +324,13 @@ robb_stark We will all be together again soon, I promise.
 catelyn_stark You've done so well. Your father would be proud.
 robb_stark Give Lord Renly my regards.
 catelyn_stark King Renly. There's a king in every corner now.
-asther#NONEXT This technique was invented by yours truly. Royland, stand here.
-asther#NONEXT Attack me.
-roylan#NONEXT W-what, my Lord?
-asther#NONEXT Swing your sword!
-asther#NONEXT For fuck's sake, Royland, you're not going to hurt anyone swinging it like that. Do it like a man. Hit me. That's an order.
-asther#NONEXT Easy. When someone is about to hit you, you drop down, and you've gotta be quick about it -- get behind them, strike them in the back of the head. As you can see, it's pretty effective.
-asther#NONEXT That's one hell of a bruise, see if you can get that checked out.
-asther#NONEXT I'd rather not hurt anymore of you, so I think we'd better call it a day. Good work, Royland. You took that hit like a man.
 theon_greyjoy Impressive.
-asther#NONEXT Aye, you'd do well to learn that as well. It may save your life one day on the battlefield.
 theon_greyjoy You know I'm leaving?
-asther#NONEXT So I've heard. You're to meet with your Father. Or your family. Tell me, are you gonna help them with their next rebellion?
 theon_greyjoy I know you hate me, but this is the right move.
-asther#NONEXT I don't hate you, Theon. I just don't trust you. You're an idiot.
 theon_greyjoy You're quite blunt, you know that?
-asther#NONEXT Are you so sure you'll come back after spending time with your beloved family? When's the last time you saw them?
 theon_greyjoy I know what I'm doing. I can convince--
-asther#NONEXT I'll refer you to my previous question. When is the last time you saw them? It's been quite a while, hasn't it? How can you be so sure that you can convince your father to give us ships? You see, you're not giving a strong argument.
 theon_greyjoy I'm not asking you to trust me.
-asther#NONEXT I don't want to trust you, even if you were asking. I'm just informing you that I know that you won't be coming back after you speak to your father. You can stay there, I don't care about that. But if you betray my family, I will personal end your life in a way that you would never imagine. When you look at me do you see an honorable man? Everyone thinks of Starks as one, but do you see me as one?
 theon_greyjoy I know your true colors, Stark. You're a savage.
-asther#NONEXT Perhaps you should mind your tongue then. And be careful what you do next.
 cersei_lannister What is all this?
 joffrey_baratheon Returning this room to its proper appearance. Say what you will about the Targaryens, they were conquerors. That is a seat for a conqueror. It needs a room to match it, not vines and flowers.
 cersei_lannister We can't find Arya Stark.

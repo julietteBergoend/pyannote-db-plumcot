@@ -77,7 +77,8 @@ man_2#unknown#GameOfThrones.Season02.Episode10  Well, fuck me!
 brienne_of_tarth  If you've quite finished up
 brienne_of_tarth  All right, we'll be going.
 man#unknown#GameOfThrones.Season02.Episode10  Whoa. Whoa! Who do you fight for?
-brienne_of_tarth  The Starks. MAN #2 What did he do?
+brienne_of_tarth  The Starks.
+man2#unknown#GameOfThrones.Season02.Episode10 What did he do?
 jaime_lannister  Apparently eating is now a crime. Who knew?
 brienne_of_tarth  No, stealing is a crime.
 jaime_lannister  But it's not a crime to starve. That's justice for you.
