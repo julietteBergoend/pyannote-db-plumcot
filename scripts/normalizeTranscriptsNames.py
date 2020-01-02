@@ -167,6 +167,12 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
     trans_chars_series = db.get_transcript_characters(id_series, season_number,
                                                       episode_number)
 
+    # Loading user previous matching names
+    savePath = Path(__file__).parent / f"{id_series}.json"
+    if os.path.isfile(savePath):
+        with open(savePath, 'r') as f:
+            old_matches = json.load(f)
+
     # Iterate over episode IMDB character names
     for id_ep, imdb_chars in imdb_chars_series.items():
         if id_ep not in trans_chars_series:
@@ -197,7 +203,12 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             for name, norm_name in dic_names.items():
                 # Get number of speech turns of the character for this episode
                 appearence = trans_chars[name]
-                if name != norm_name or verbose:
+                previously_matched = old_matches.get(name)
+                if previously_matched :
+                   previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
+                if (previously_matched or name == norm_name) and not verbose:
+                    pass
+                else:
                     print(f"{name} ({appearence})  ->  {norm_name}")
 
             request = input("\nType the name of the character which you want "
