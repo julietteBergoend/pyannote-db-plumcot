@@ -207,7 +207,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                             "to change normalized name (end to save, stop "
                             "to skip): ")
             # Stop and save
-            if request == "end":
+            if request == "end" or not request:
                 break
             # Stop without saving
             if request == "stop" or request == "skip":
@@ -272,7 +272,7 @@ def main(args):
         episode_number = f"{int(episode_number):02d}"
     if args["check"]:
         check_normalized_names(id_series, season_number, episode_number)
-    else:        
+    else:
         verbose = not args["--quiet"]
         normalize_names(id_series, season_number, episode_number, verbose)
 
