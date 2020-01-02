@@ -154,6 +154,8 @@ class Plumcot(Database):
                 characters = {}
                 for line in ep_file:
                     charac = line.split()[0]
+                    if charac[-2:]=="'s":
+                        charac += line.split()[1]
                     if charac not in characters:
                         characters[charac] = 1
                     else:
@@ -186,6 +188,9 @@ class Plumcot(Database):
                   encoding="utf8") as ep_file:
             for line in ep_file:
                 line_split = line.split()
+                if line_split[0][-2:]=="'s":
+                    line_split[0]+=line_split[1]
+                    line_split.pop(1)
                 line_split[0] = dic_names[line_split[0]]
                 file_text += " ".join(line_split) + '\n'
 
