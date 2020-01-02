@@ -55,7 +55,8 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     refs = refsT.copy()
 
     # Loading user previous matching names
-    savePath = Path(__file__).parent / f"{id_series}.json"
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+        / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             save_dict = json.load(f)
@@ -168,7 +169,8 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                                                       episode_number)
 
     # Loading user previous matching names
-    savePath = Path(__file__).parent / f"{id_series}.json"
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+        / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             old_matches = json.load(f)
@@ -257,7 +259,8 @@ def save_matching(id_series, dic_names):
     """
 
     save_dict = {}
-    savePath = Path(__file__).parent / f"{id_series}.json"
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+        / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             save_dict = json.load(f)
@@ -266,7 +269,7 @@ def save_matching(id_series, dic_names):
         if "#unknown" not in name_norm:
             save_dict[name_trans] = name_norm
 
-    with open(Path(__file__).parent / f"{id_series}.json", 'w') as f:
+    with open(savePath, 'w') as f:
         json.dump(save_dict, f)
 
 
