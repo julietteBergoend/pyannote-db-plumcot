@@ -191,10 +191,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         while True:
             print(f"----------------------------\n{id_ep}. Here is the list "
                   "of normalized names from IMDB: ")
-            names = ""
-            for name in imdb_chars:
-                names += name + ', '
-            print(names[:-2], '\n')
+            print(", ".join(sorted(imdb_chars[:-2])), '\n')
 
             print("Automatic alignment:")
             for name, norm_name in dic_names.items():
