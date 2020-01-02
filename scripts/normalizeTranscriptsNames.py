@@ -177,7 +177,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
     # Iterate over episode IMDB character names
     for id_ep, imdb_chars in imdb_chars_series.items():
         if id_ep not in trans_chars_series:
-            continue
+            warnings.warn(f"{id_ep} is not transcripts, jumping to next episode")
         trans_chars = trans_chars_series[id_ep]
 
         link = Path(PC.__file__).parent / 'data' / f'{id_series}'\
