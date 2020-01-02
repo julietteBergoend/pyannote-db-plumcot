@@ -193,7 +193,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         dic_names = automatic_alignment(id_series, id_ep, trans_chars,
                                         imdb_chars)
         save = True
-
+        names_matched={}
         # User input loop
         while True:
             print(f"----------------------------\n{id_ep}. Here is the list "
@@ -207,6 +207,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 previously_matched = old_matches.get(name)
                 if previously_matched :
                    previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
+                   names_matched[name]=previously_matched
                 if (previously_matched or name == norm_name) and not verbose:
                     pass
                 else:
@@ -214,7 +215,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
 
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
-                            "to skip): ")
+                            "to skip, unk to unknownize every character that didn't match): ")
             # Stop and save
             if request == "end" or not request:
                 break
@@ -222,6 +223,12 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             if request == "stop" or request == "skip":
                 save = False
                 break
+            #all un-assigned -> unknown
+            if request == "unk":
+                for name in dic_names:
+                    if not names_matched.get(name):
+                        new_name = unknown_char(name, id_ep)
+                        dic_names[name]=new_name
             # Wrong name
             if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
@@ -236,6 +243,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 if new_name == "unk" or not new_name:
                     new_name = unknown_char(request, id_ep)
                 dic_names[request] = new_name
+                names_matched[request]=True
 
         # Save changes and create .txt file
         if save:
