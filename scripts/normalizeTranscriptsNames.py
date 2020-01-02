@@ -86,7 +86,6 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     # We use Hungarian algorithm which solves the "assignment problem" in a
     # polynomial time.
     row_ind, col_ind = linear_sum_assignment(dists)
-
     # Add names ignored by Hungarian algorithm when sizes are not equal
     for i, ref in enumerate(refs):
         if col_ind[i] < min_size:
@@ -227,6 +226,10 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
             else:
+                print("\nSuggestions :")
+                for suggestion in imdb_chars:
+                    if request.lower() in suggestion:
+                        print(suggestion)
                 new_name = input("\nType the new character's name "
                                  "(unk for unknown character): ")
                 # Unknown character
