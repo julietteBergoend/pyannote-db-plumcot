@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE] [--quiet]
+"""Usage:
+normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE] [--quiet]
+normalizeTranscriptsNames.py check <id_series> [-s SEASON] [-e EPISODE]
+normalizeTranscriptsNames.py -h|--help
 
 Arguments:
     id_series    Id of the series
@@ -22,7 +25,7 @@ import os.path
 from pathlib import Path
 import Plumcot as PC
 import json
-
+import warnings
 
 def automatic_alignment(id_series, id_ep, refsT, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
@@ -92,6 +95,47 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
 
     return names_dict
 
+def check_normalized_names(id_series, season_number, episode_number):
+    """Check normalized names. Print the difference between IMDb and transcripts
+
+    Parameters
+    ----------
+    id_series : `str`
+        Id of the series.
+    season_number : `str`
+        The desired season number. If None, all seasons are processed.
+    episode_number : `str`
+        The desired episode_number. If None, all episodes are processed.
+    """
+
+    # Plumcot database object
+    db = Plumcot()
+    # Retrieve IMDB normalized character names
+    imdb_chars_series = db.get_characters(id_series, season_number,
+                                          episode_number)
+
+    # Retrieve transcripts normalized character names
+    trans_chars_series = db.get_transcript_characters(id_series, season_number,
+                                                      episode_number,extension=".txt")
+
+    for episode_uri in imdb_chars_series:
+        print("\n"+episode_uri)
+        imdb=imdb_chars_series.get(episode_uri)
+        if imdb is None:
+            warnings.warn(f"{episode_uri} is not IMDB, jumping to next episode")
+            continue
+        else:
+            imdb=set(imdb)
+        transcripts=trans_chars_series.get(episode_uri)
+        if transcripts is None:
+            warnings.warn(f"{episode_uri} is not transcripts, jumping to next episode")
+            continue
+        else:
+            transcripts=set([char for char in transcripts if "#unknown#" not in char and "@" not in char])
+        print("In imdb but not in transcripts:")
+        print(imdb-transcripts)
+        print("In transcripts but not imdb (not counting #unknown# and alice@bob):")
+        print(transcripts-imdb)
 
 def normalize_names(id_series, season_number, episode_number, verbose = True):
     """Manual normalization.
@@ -226,8 +270,11 @@ def main(args):
     episode_number = args['-e']
     if episode_number:
         episode_number = f"{int(episode_number):02d}"
-    verbose = not args["--quiet"]
-    normalize_names(id_series, season_number, episode_number, verbose)
+    if args["check"]:
+        check_normalized_names(id_series, season_number, episode_number)
+    else:        
+        verbose = not args["--quiet"]
+        normalize_names(id_series, season_number, episode_number, verbose)
 
 
 if __name__ == '__main__':
