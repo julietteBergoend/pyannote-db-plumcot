@@ -1,25 +1,25 @@
-man#unknwon#GameOfThrones.Season03.Episode01 Fall back!
+man#unknown#GameOfThrones.Season03.Episode01 Fall back!
 samwell_tarlysamwell_tarly Brother?
 jeor_mormont Did you send the ravens?
 jeor_mormont Tarly, look at me. Did you send the ravens?
 samwell_tarlyjeor_mormont That was your job. Your only job. We need to get back to the Wall. It's a long march. We know what's out there, but we have to make it, have to warn them or before winter's done, everyone you've ever known will be dead.
 ygritte First time you've seen a giant, JON SNOW?
 jon_snowygritte Well, don't stare too long. They're shy. When they stop being shy, they get angry. And when they're angry, I've seen them pound a man straight into the ground like a hammer on a nail.
-man#unknwon#GameOfThrones.Season03.Episode01 Crow!
-boy#unknwon#GameOfThrones.Season03.Episode01 Crow!
-girl#unknwon#GameOfThrones.Season03.Episode01 Look over there!
-man_2#unknwon#GameOfThrones.Season03.Episode01 Crow!
-girl#unknwon#GameOfThrones.Season03.Episode01 Crow! Look over here! Look!
-woman#unknwon#GameOfThrones.Season03.Episode01 Ah, look, crow coming!
-boy#unknwon#GameOfThrones.Season03.Episode01 Crow!
+man#unknown#GameOfThrones.Season03.Episode01 Crow!
+boy#unknown#GameOfThrones.Season03.Episode01 Crow!
+girl#unknown#GameOfThrones.Season03.Episode01 Look over there!
+man_2#unknown#GameOfThrones.Season03.Episode01 Crow!
+girl#unknown#GameOfThrones.Season03.Episode01 Crow! Look over here! Look!
+woman#unknown#GameOfThrones.Season03.Episode01 Ah, look, crow coming!
+boy#unknown#GameOfThrones.Season03.Episode01 Crow!
 ygritte You're wearing the wrong color.
 jon_snow Mance was a ranger.
 ygritte In your hearts, all you crows want to fly free.
 jon_snow When I'm free, will I be free to go?
-boy#unknwon#GameOfThrones.Season03.Episode01 Crow!
-boy#unknwon#GameOfThrones.Season03.Episode01 Crow!
+boy#unknown#GameOfThrones.Season03.Episode01 Crow!
+boy#unknown#GameOfThrones.Season03.Episode01 Crow!
 ygritte Sure, you will.
-boy#unknwon#GameOfThrones.Season03.Episode01 Oh!
+boy#unknown#GameOfThrones.Season03.Episode01 Oh!
 ygritte And I'll be free to kill you. Got no respect, this lot. Got no fathers to slap 'em when they're foul.
 jon_snow What happened to their fathers?
 ygritte Some of them were killed by crows like you. Don't look so grim, Jon Snow. If Mance Rayder likes you, you'll live another day. And if he don't...
@@ -264,24 +264,24 @@ melisandre You've chosen the darkness, Ser Davos.
 davos_seaworth She will destroy us all!
 melisandre I will pray for you.
 davos_seaworth Your Grace!
-guard#unknwon#GameOfThrones.Season03.Episode01 Guard Halt. Down.
-gurad_2#unknwon#GameOfThrones.Season03.Episode01 Guard #2 Halt. Down.
+guard#unknown#GameOfThrones.Season03.Episode01 Guard Halt. Down.
+gurad_2#unknown#GameOfThrones.Season03.Episode01 Guard #2 Halt. Down.
 joffrey_baratheon Why have we stopped?
-guard#unknwon#GameOfThrones.Season03.Episode01 It's Lady Margaery, Your Grace.
+guard#unknown#GameOfThrones.Season03.Episode01 It's Lady Margaery, Your Grace.
 joffrey_baratheon Joffrey What is she doing? Who gave her permission?
-maid#unknwon#GameOfThrones.Season03.Episode01 My lady. We should have guards, my lady.
+maid#unknown#GameOfThrones.Season03.Episode01 My lady. We should have guards, my lady.
 margaery_tyrell Why?
 margaery_tyrell Pardon me.
-maid#unknwon#GameOfThrones.Season03.Episode01 Stop, my lady. You'll ruin your dress.
+maid#unknown#GameOfThrones.Season03.Episode01 Stop, my lady. You'll ruin your dress.
 margaery_tyrell I have others.
-guard#unknwon#GameOfThrones.Season03.Episode01 Would you like to speak with her, Your Grace?
+guard#unknown#GameOfThrones.Season03.Episode01 Would you like to speak with her, Your Grace?
 joffrey_baratheon No.
-child#unknwon#GameOfThrones.Season03.Episode01 He was a soldier. He went to fight on the walls when the ships came into Blackwater Bay. He never came back.
+child#unknown#GameOfThrones.Season03.Episode01 He was a soldier. He went to fight on the walls when the ships came into Blackwater Bay. He never came back.
 margaery_tyrell And your mother?
-child#unknwon#GameOfThrones.Season03.Episode01 She died when she had me.
+child#unknown#GameOfThrones.Season03.Episode01 She died when she had me.
 margaery_tyrell Bad men wanted to come into this city and do terrible things, but your father stopped them.
 margaery_tyrell Whenever you look at this knight, I want you to remember your father.
-child#unknwon#GameOfThrones.Season03.Episode01 He wasn't a knight. He was just a soldier.
+child#unknown#GameOfThrones.Season03.Episode01 He wasn't a knight. He was just a soldier.
 margaery_tyrell And what do knights swear to do? Protect the weak and uphold the good. Your father did that. Be proud of him.
 margaery_tyrell Was your father a soldier, too?
 margaery_tyrell You should be proud, too. Under King Joffrey's leadership, your fathers saved the city. They saved us all. From now on, we're going to take care of you. All of you.
