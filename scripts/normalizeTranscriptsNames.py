@@ -88,7 +88,7 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     row_ind, col_ind = linear_sum_assignment(dists)
     # Add names ignored by Hungarian algorithm when sizes are not equal
     for i, ref in enumerate(refs):
-        if col_ind[i] < min_size:
+        if col_ind[i] < len(hyps):
             names_dict[ref] = hyps[col_ind[i]]
         else:
             names_dict[ref] = unknown_char(ref, id_ep)
