@@ -27,6 +27,8 @@ import Plumcot as PC
 import json
 import warnings
 import readline
+from termcolor import colored
+
 def input_with_prefill(prompt, text):
     def hook():
         readline.insert_text(text)
@@ -217,11 +219,14 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 if previously_matched :
                    previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
                    names_matched[name]=previously_matched
+                if (previously_matched or name == norm_name or names_matched.get(name)):
+                    color='green'
+                else:
+                    color='red'
                 if (previously_matched or name == norm_name) and not verbose:
                     pass
                 else:
-                    print(f"{name} ({appearence})  ->  {norm_name}")
-
+                    print(colored(f"{name} ({appearence})  ->  {norm_name}",color))
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
                             "to skip, unk to unknownize every character that didn't match): ")
