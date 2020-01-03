@@ -3,16 +3,18 @@
 
 """Usage:
 normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE] [--quiet]
-normalizeTranscriptsNames.py check <id_series> [-s SEASON] [-e EPISODE]
+normalizeTranscriptsNames.py check_names <id_series> [-s SEASON] [-e EPISODE]
+normalizeTranscriptsNames.py check_files <id_series> [-s SEASON] [-e EPISODE] [--extension=<extension>]
 normalizeTranscriptsNames.py -h|--help
 
 Arguments:
     id_series    Id of the series
 
 Options:
-    -s SEASON    Season number to iterate on (all seasons if not specified)
-    -e EPISODE   Episode number (all episodes of the season if not specified)
-    --quiet      Display only the names that have changed.
+    -s SEASON               Season number to iterate on (all seasons if not specified)
+    -e EPISODE              Episode number (all episodes of the season if not specified)
+    --quiet                 Display only the names that have changed.
+    --extension=<extension> Transcript file extension. Defaults to '.txt'
 """
 
 import pyannote.database
@@ -105,6 +107,42 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
             names_dict[ref] = unknown_char(ref, id_ep)
 
     return names_dict
+
+def check_files(id_series, season_number, episode_number, extension=".txt"):
+    """Check the difference in file names between IMDb and transcripts
+
+    Parameters
+    ----------
+    id_series : `str`
+        Id of the series.
+    season_number : `str`
+        The desired season number. If None, all seasons are processed.
+    episode_number : `str`
+        The desired episode_number. If None, all episodes are processed.
+    extension : `str`
+        Transcript file extension. Defaults to '.txt'
+    """
+
+    # Plumcot database object
+    db = Plumcot()
+    # Retrieve IMDB normalized character names
+    imdb_chars_series = db.get_characters(id_series, season_number,
+                                          episode_number)
+
+    # Retrieve transcripts normalized character names
+    trans_chars_series = db.get_transcript_characters(id_series, season_number,
+                                                      episode_number,extension=extension)
+
+    for episode_uri in imdb_chars_series:
+        imdb=imdb_chars_series.get(episode_uri)
+        if imdb is None:
+            warnings.warn(f"{episode_uri} is not IMDB")
+            continue
+        transcripts=trans_chars_series.get(episode_uri)
+        if transcripts is None:
+            warnings.warn(f"{episode_uri} is not transcripts")
+            continue
+    print("Done. (no warnings means everything went okay)")
 
 def check_normalized_names(id_series, season_number, episode_number):
     """Check normalized names. Print the difference between IMDb and transcripts
@@ -308,8 +346,11 @@ def main(args):
     episode_number = args['-e']
     if episode_number:
         episode_number = f"{int(episode_number):02d}"
-    if args["check"]:
+    if args["check_names"]:
         check_normalized_names(id_series, season_number, episode_number)
+    elif args["check_files"]:
+        extension=args["--extension"] if args["--extension"] else ".txt"
+        check_files(id_series, season_number, episode_number, extension)
     else:
         verbose = not args["--quiet"]
         normalize_names(id_series, season_number, episode_number, verbose)
