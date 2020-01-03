@@ -297,7 +297,7 @@ def save_matching(id_series, dic_names):
             save_dict[name_trans] = name_norm
 
     with open(savePath, 'w') as f:
-        json.dump(save_dict, f)
+        json.dump(save_dict, f, indent=4)
 
 
 def main(args):
