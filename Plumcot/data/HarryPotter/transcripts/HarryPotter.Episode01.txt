@@ -1,0 +1,845 @@
+albus_dumbledore I should have known that you would be here...Professor mcgonagall.
+professor_mcgonagall Good evening, Professor dumbledore. Are the rumours true, albus?
+albus_dumbledore I'm afraid so, Professor. The good, and the bad.
+professor_mcgonagall And the boy?
+albus_dumbledore hagrid is bringing him.
+professor_mcgonagall Do you think it wise to trust hagrid with something as important as this?
+albus_dumbledore Ah, Professor, I would trust hagrid with my life.
+hagrid Professor dumbledore, Sir. Professor mcgonagall.
+albus_dumbledore No problems, I trust, hagrid?
+hagrid No, sir. Little tyke fell asleep just as we were flying over Bristol. Heh. Try not to wake him. There you go.
+professor_mcgonagall albus, do you really think its safe, leaving him with these people? I've been watching them all day. They're the worst sort of Muggles imaginable. They really are
+albus_dumbledore The only family he has.
+professor_mcgonagall This boy will be famous. There wont be a child in our world who doesn't know his name.
+albus_dumbledore Exactly. He's better off growing up away from all that. Until he is ready.
+albus_dumbledore There, there, hagrid. It's not really good-bye, after all.
+albus_dumbledore Good luck...harry Potter.
+aunt_petunia_dursley Up. Get up.
+dudley_dursley Wake up, cousin! We're going to the zoo!
+aunt_petunia_dursley Oh, here he comes, the birthday boy!
+uncle_vernon_dursley Happy birthday, son.
+aunt_petunia_dursley Why don't you just cook the breakfast, and try not to burn anything.
+harry_potter Yes, Aunt petunia.
+aunt_petunia_dursley I want everything to be perfect for my dudley's special day.
+uncle_vernon_dursley Hurry up! Bring my coffee, boy!
+harry_potter Yes, Uncle vernon.
+dudley_dursley How many are there?
+uncle_vernon_dursley Thirty-six. Counted 'em myself.
+dudley_dursley Thirty-six?! But last year last year I got thirty-seven!!
+uncle_vernon_dursley Yes, well, some of them are quite a bit bigger than last year!
+dudley_dursley I don't care how big they are!
+aunt_petunia_dursley Oh, now, now, now. This is what we're going to do, is that when we go out we're going to buy you two new presents! How's that, Pumpkin?
+aunt_petunia_dursley This will be a lovely day at the zoo. I'm really looking forward to it.
+uncle_vernon_dursley I'm warning you now, boy. Any funny business, any at all, and you won't have any meals for a week. Get in.
+dudley_dursley Make it move.
+uncle_vernon_dursley Move!
+dudley_dursley MOVE!
+harry_potter He's asleep!
+dudley_dursley He's boring.
+harry_potter Sorry about him. He doesn't understand what it's like, lying there day after day, having people press their ugly faces in on you.
+harry_potter Can you...hear me? I see. That's me as well. I never knew my parents, either.
+dudley_dursley Mummy, dad, come here! You won't believe what this snake is doing!!
+dudley_dursley Whoa! Ahh! Ahh!!
+snake Thankssssssss.
+harry_potter Anytime.
+man#unknown#HarryPotter.Episode01 SNAKE!
+dudley_dursley Mum, mummy!
+aunt_petunia_dursley AHH!
+dudley_dursley Mum, help! Help me!
+aunt_petunia_dursley My darling boy! How did you get in there?!
+harry_potter
+aunt_petunia_dursley It's all right. It's all right.
+harry_potter Ow!
+uncle_vernon_dursley What happened?
+harry_potter I swear I don't know! One minute the glass was there and then it was gone! It was like magic!
+uncle_vernon_dursley There's no such thing as magic!
+uncle_vernon_dursley Ah, Marge is ill. Ate a funny whelk.
+dudley_dursley Dad, look! harry's got a letter!!
+harry_potter Hey, give it back! It's mine!
+uncle_vernon_dursley Yours? Who'd be writing to you?
+uncle_vernon_dursley No more mail through this letterbox.
+aunt_petunia_dursley Have a lovely day at the office, dear.
+uncle_vernon_dursley Shoo! Go on!
+uncle_vernon_dursley Fine day Sunday. In my opinion, best day of the week. Why is that, dudley?
+harry_potter No sir, not one blasted, miserable---
+dudley_dursley AHH! Make it stop! Please make it stop!
+aunt_petunia_dursley and vernon
+uncle_vernon_dursley Go away, ahh!
+dudley_dursley What is it? Please tell me what's happening!
+uncle_vernon_dursley Give me that! Give me that letter!
+harry_potter Get off! Ahh!
+uncle_vernon_dursley Ahh!
+harry_potter They're my letters! Let go of me!
+uncle_vernon_dursley That's it! We're going away! Far away! Where they can't find us!
+dudley_dursley Daddy's gone mad, hasnt he?!
+harry_potter Make a wish, harry.
+uncle_vernon_dursley Who's there? Ahh!
+hagrid Sorry 'bout that.
+uncle_vernon_dursley I demand that you leave at once, Sir! You are breaking and entering!
+aunt_petunia_dursley Ooh.
+hagrid Dry up, Dursley, you great prune.
+all Ahh!
+hagrid Mind, I haven't seen you since you was a baby, harry, but you're a bit more along than I would have expected. Particularly 'round the middle!
+dudley_dursley I-I-I'm not harry.
+harry_potter appears I-I am.
+hagrid Oh, well, of course you are! Got something for ya. 'Fraid I might have sat on it at some point! I imagine that it'll taste fine just the same. Ahh. Baked it myself. Words and all. Heh.
+harry_potter Thank you!
+hagrid It's not every day that your young man turns eleven, now is it?
+harry_potter Excuse me, who are you?
+hagrid Rubeus hagrid. Keeper of keys and grounds at Hogwarts. Course, you'll know all about Hogwarts.
+harry_potter Sorry, no.
+hagrid No? Blimey, harry, didn't you ever wonder where your mum and dad learned it all?
+harry_potter Learnt what?
+hagrid You're a wizard, harry.
+harry_potter I-I'm a what?
+harry_potter A wizard. And a thumping good one at that, I'd wager. Once you train up a little.
+harry_potter No, you've made a mistake. I can't be...a-a wizard. I mean, I'm just... harry. Just harry.
+hagrid Well, Just harry, did you ever make anything happen? Anything you couldn't explain when you were angry or scared? Ah.
+dudley_dursley
+harry_potter Dear, Mr. Potter. We are pleased to inform you that you have been accepted at Hogwarts' School of witchcraft and Wizardry!
+uncle_vernon_dursley Hell not be going! We swore when we took him in wed put an end to this rubbish!
+harry_potter You knew?? You knew all along and you never told me?
+aunt_petunia_dursley Of course we knew. How could you not be? My perfect sister being who she was. Oh, my mother and father were so proud the day she got her letter. We have a witch in the family. Isn't it wonderful? I was the only one to see her for what she was. A freak! And then she met that Potter, and then she had you, and I knew you'd be just the same, just as strange, just as ... abnormal. And then, if you please, she went and got herself blown up! And we got landed with you.
+harry_potter Blown up? You told me my parents died in a car crash!
+hagrid A car crash? A car crash kill James and Lily Potter?
+aunt_petunia_dursley We had to tell him something.
+hagrid It's an outrage! It's a scandal!
+uncle_vernon_dursley He'll not be going!
+hagrid Oh, and I suppose a great Muggle like yourself's going to stop him, are you?
+harry_potter Muggle?
+hagrid Non magic folk. This boy's had his name down ever since he was born! He's going to the finest school of witchcraft and wizardry in the world, and he'll be under the greatest headmaster Hogwarts' has ever seen albus dumbledore.
+uncle_vernon_dursley I will not pay for some crackpot old fool to teach him magic tricks!
+hagrid Never insult albus dumbledore in front of me.
+dudley_dursley Ahh!
+all Ahh!
+harry_potter
+hagrid Oh, um, I'd appreciate if you didn't tell anyone at Hogwarts about that. Strictly speaking, I'm not allowed to do magic.
+harry_potter Okay.
+hagrid
+harry_potter all students must be equipped with...one standard size two pewter cauldron and may bring if they desire either an owl, a cat or a toad. Can we find all this in London?
+hagrid If you know where to go.
+bartender_in_leaky_cauldron tom Ah, hagrid! The usual, I presume?
+hagrid No thanks, tom. I'm on official Hogwarts business today. Just helping young harry here buy his school supplies.
+tom#unknown#HarryPotter.Episode01 Bless my soul. It's harry Potter.
+man#unknown#HarryPotter.Episode01 Welcome back, Mr. Potter, welcome back.
+witch#unknown#HarryPotter.Episode01 Doris Crockford, Mr. Potter. I can't believe I'm meeting you at last.
+professor_quirrell harry P-potter. C-can't tell you how pleased I am to meet you.
+hagrid Hello, Professor. I didn't see you there. harry, this is Professor quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts.
+harry_potter Oh, nice to meet you.
+professor_quirrell F-fearfully fascinating subject. N-not that you need it, e-eh, Potter? Heheh.
+hagrid Yes, well, must be going now. Lots to buy. Heh.
+harry_potter Good-bye.
+hagrid See, harry, you're famous!
+harry_potter But why am I famous, hagrid? all those people back there, how is it they know who I am?
+hagrid I'm not exactly sure I'm the right person to tell you that, harry.
+hagrid Here's where you'll get your quills and ink, and over there all your bits and bobs for doing your wizardry.
+boy#unknown#HarryPotter.Episode01 It's a world class racing broom. Look at it, its the new Nimbus 2000! It's the fastest model yet.
+harry_potter But, hagrid, how am I to pay for all this? I haven't any money.
+hagrid Well there's your money, harry. Gringotts, the Wizard Bank. T'aint no place safer, 'cept perhaps Hogwarts.
+harry_potter Uh, hagrid, what exactly are those things?
+hagrid They're goblins, harry. Clever as they come goblins but not the most friendly of beasts. Best stick close to me. Mr. harry Potter wishes to make a withdrawal.
+goblin_bank_teller And does Mr. harry Potter have his key?
+hagrid Oh. Wait a minute. Got it here somewhere. Hah. Here's the little devil. Oh, and there's something else as well. Professor dumbledore gave me this. It's about you-know-what in vault you-know-which.
+goblin_bank_teller Very well.
+griphook Vault 687. Lamp, please.
+hagrid Didn't think your mum and dad would leave you with nothing, now didja?
+griphook Vault 713.
+harry_potter What's in there, hagrid?
+hagrid Can't tell you, harry. It's Hogwarts business. Very secret.
+griphook Stand back.
+hagrid Best not mention this to anyone, harry.
+harry_potter I still need...a wand.
+hagrid A wand? Well, you'll want ollivanders. No place better. Run along there, but wait. I just got one more thing I got to do. Won't be long.
+harry_potter Hello? Hello?
+mr_ollivander I wondered when I'd be seeing you, Mr. Potter. It seems only yesterday that your mother and father were in here buying their first wands. Well, give it a wave.
+harry_potter Oh!
+mr_ollivander Apparently not. Curious, very curious.
+harry_potter Sorry, but what's curious?
+mr_ollivander I remember every wand I've ever sold, Mr. Potter. It just so happens that the phoenix, whose tail feather resides in your wand gave one other feather, just one. It is curious that you should be destined for this wand when its brother gave you that scar.
+harry_potter And...who owned that wand?
+mr_ollivander Oh, we do not speak his name. The wand chooses the wizard, Mr. Potter. It's not always clear why, but I think it is clear that we can expect great things from you. After all, He-Who-Must-Not-Be-Named did great things...terrible, yes, but great.
+hagrid harry! harry! Happy birthday!
+harry_potter Wow.
+hagrid You all right, harry? You seem very quiet.
+harry_potter He killed my parents, didn't he? The one who gave me this. You know, hagrid, I know you do.
+hagrid First, and understand this, harry, 'cause it's very important. Not all wizards are good. Some of them go bad. A few years ago there was one wizard who went as bad as you can go. And his name was V-...his name was V-...
+harry_potter Maybe if you wrote it down?
+hagrid No, I can't spell it. all right. His name was voldemort.
+harry_potter voldemort?
+hagrid Shh!!
+hagrid It was dark times, harry, dark times. voldemort started to gather some followers, brought 'em over to the dark side. Anyone that stood up to him ended up dead. Your parents fought against him, but nobody lived once he decided to kill 'em.
+harry_potter Me? voldemort tried to kill...me?
+hagrid Yes. That ain't no ordinary cut on your forehead, harry. A mark like that only comes from being touched by a curse...and an evil curse at that.
+harry_potter What happened to Vo-...to You-Know-Who?
+hagrid Some say he died. Codswallop in my opinion. Nope, I reckon he's out there, still, too tired to go on. But one thing's absolutely certain. Something about you stumped him that night. That's why you're famous, harry. That's why everbody knows your name. You're the boy who lived.
+hagrid What're you looking at? Blimey, is that the time?? Sorry, harry, I'm gonna have to leave you. dumbledore'll be wanting his...well, he'll be wanting to see me. Now, uh, your train leaves in 10 minutes. Here's your ticket. Stick to it, harry that's very important. Stick to your ticket.
+harry_potter Platform 9 ¾? But hagrid, there must be a mistake. This says Platform 9 ¾. There's no such thing...is there?
+man#unknown#HarryPotter.Episode01 Sorry.
+harry_potter Excuse me, excuse me.
+trainmaster#unknown#HarryPotter.Episode01 Right on your left, ma'am.
+harry_potter Excuse me, Sir. Can you tell me where I might find Platform 9 ¾?
+trainmaster#unknown#HarryPotter.Episode01 9 ¾? Think youre being funny, do ya?
+mrs_weasley It's the same year after year. Always packed with Muggles, of course.
+harry_potter Muggles?
+mrs_weasley Come on. Platform 9 ¾ this way! all right, percy, you first.
+mrs_weasley fred, you next.
+george_weasley He's not fred, I am!
+fred_weasley Honestly, woman, you call yourself our mother!
+mrs_weasley Oh, I'm sorry, george.
+fred_weasley I'm only joking. I am fred.
+harry_potter Excuse me! C-could you tell me how to
+mrs_weasley How to get on the platform? Yes, not to worry, dear. It's ron's first time to Hogwarts as well. Now, all you've got to do is walk straight at the wall between platforms 9 and 10. Best do it at a bit of a run if youre nervous.
+ginny_weasley Good luck.
+ron_weasley Excuse me, do you mind? Everywhere else is full.
+harry_potter No, not at all.
+ron_weasley I'm ron, by the way. ron Weasley.
+harry_potter I'm harry. harry Potter.
+ron_weasley So-so it's true?! I mean, do you really have the...the...
+harry_potter The what?
+ron_weasley Scar...?
+harry_potter Oh, yeah.
+ron_weasley Wicked.
+dimpled_woman_on_train Anything off the trolley, dears?
+ron_weasley
+harry_potter We'll take the lot!
+ron_weasley Whoa!
+harry_potter Bertie Bott's Every Flavour Beans?
+ron_weasley They mean every flavour! There's chocolate and peppermint, and there's also spinach, liver and tripe. george sweared he got a bogey-flavoured one once!
+harry_potter These aren't real chocolate frogs, are they?
+ron_weasley It's only a spell. Besides, it's the cards you want. Each pack's got a famous witch or wizard. I got about 500 meself.
+frog Ribbit.
+ron_weasley Oh, that's rotten luck. They've only got one good jump in them to begin with.
+harry_potter Hey, I got dumbledore!
+ron_weasley I got about 6 of him.
+harry_potter Hey, he's gone!
+ron_weasley Well, you can't expect him to hang around all day, can you? This is Scabbers, by the way, pitiful, isn't he?
+harry_potter Just a little bit.
+ron_weasley fred gave me a spell as to turn him yellow. Want to see?
+harry_potter Yeah!
+ron_weasley Ahem. Sun-
+hermione_granger Has anyone seen a toad? A boy named neville's lost one.
+ron_weasley No.
+hermione_granger Oh, are you doing magic? Let's see then.
+ron_weasley Aghhhemm. Sunshine, daises, butter mellow, turn this stupid fat rat yellow!
+hermione_granger Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example... That's better, isn't it? Holy Cricket, you're harry Potter. I'm hermione Granger...and you are...?
+ron_weasley I'm...ron Weasley.
+hermione_granger Pleasure. You two better change into your robes. I expect we'll be arriving soon.
+hagrid Right, then! First years! This way, please! Come on, now, don't be shy! Come on now, hurry up!
+hagrid Hello, harry.
+harry_potter Hey, hagrid.
+ron_weasley Whoaa!
+hagrid Right then. This way to the boats! Come on, now, follow me.
+ron_weasley Wicked.
+professor_mcgonagall Welcome to Hogwarts. Now, in a few moments, you will pass through these doors and join your classmates. But before you can take your seats you must be sorted into your houses. They are Gryffindor, Ravenclaw, Hufflepuff, and Slytherin. Now, while you are here, your house will be like your family. Your triumphs will earn you house points. Any rule breaking, and you will lose points. At the end of the year, the house with the most points is awarded the house cup
+neville_longbottom Trevor!
+professor_mcgonagall The sorting ceremony will begin momentarily.
+draco_malfoy It's true then, what they're saying on the train. harry Potter has come to Hogwarts.
+harry_potter I think I can tell who the wrong sort are for myself, thanks.
+professor_mcgonagall We're ready for you now.
+hermione_granger It's not real, the ceiling. It's just bewitched to look like the night sky. I read about it in Hogwarts A History.
+professor_mcgonagall all right, will you wait along here, please? Now, before we begin, Professor Dumbldedore would like to say a few words.
+albus_dumbledore I have a few start of term notices I wish to announce. The first years please note that the dark forest is strictly forbidden to all students. Also, our caretaker, Mr. filch has asked me to remind you that the 3rd floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death. Thank you.
+professor_mcgonagall When I call your name, you will come forth, I shall place the sorting hat on your head, and you will be sorted into your houses. hermione Granger.
+hermione_granger Oh, no. Okay, relax.
+ron_weasley Mental that one, I'm telling you.
+the_sorting_hat Ah, right then...hmm...right. Okay...Gryffindor!!
+professor_mcgonagall draco Malfoy.
+the_sorting_hat SLYTHERIN!
+ron_weasley There isn't a witch or wizard who went bad who wasnt in Slytherin.
+professor_mcgonagall Susan Bones.
+harry_potter Ahh!
+ron_weasley harry, what is it?
+harry_potter Nothing...it's nothing, I'm fine.
+the_sorting_hat Let's see...I know...Hufflepuff!
+professor_mcgonagall ronald Weasley.
+the_sorting_hat hat Ah! Another Weasley. I know just where to put you...Gryffindor!!
+ron_weasley
+professor_mcgonagall harry Potter.
+the_sorting_hat Hmm...difficult, very difficult. Plenty of courage I see, not a bad mind, either. There's talent, oh yes, and a thirst to prove yourself. But where to put you?
+harry_potter Not Slytherin. Not Slytherin.
+the_sorting_hat Not Slytherin, eh? Are you sure? You could be great, you know. Its all here in your head. And Slytherin will help you on your way to greatness! There's no doubt about that! No? Well, if youre sure...better be...GRYFFINDOR!!
+professor_mcgonagall Your attention, please.
+albus_dumbledore Let the feast...begin.
+harry_potter Wow.
+seamus_finnigan I'm half and half. Me dad's a Muggle. Mam's a witch. Bit of a nasty shock for him when he found out.
+harry_potter Say, percy, who's that teacher talking to Professor quirrell?
+percy_weasley Oh, that's Professor snape, head of Slytherin house.
+harry_potter What's he teach?
+percy_weasley Potions. But everyone knows it's the Dark Arts he fancies. He's been after quirrells job for years.
+ron_weasley Ahh!
+nearly_headless_nick Hello! How are you? Welcome to Gryffindor.
+hufflepuff#unknown#HarryPotter.Episode01 ghost Whoo-hoo-hoo!
+girl#unknown#HarryPotter.Episode01 Look, its the Bloody Baron!
+percy_weasley Hello, Sir Nicholas. Have a nice summer?
+nearly_headless_nick Dismal. Once again, my request to join the headless hunt has been denied.
+ron_weasley Hey, I know you! You're Nearly Headless nick!
+nearly_headless_nick I prefer Sir Nicholas if you don't mind.
+hermione_granger Nearly headless? How can you be nearly headless?
+nearly_headless_nick Like this.
+ron_weasley Ahh!
+hermione_granger Eugh.
+percy_weasley gryffindors, follow me please. Keep up. Thank you.
+boy#unknown#HarryPotter.Episode01 Ravenclaw, follow me. This way.
+percy_weasley This is the most direct path to the dormitories. Oh, and keep an eye on the staircases...they like to change.
+percy_weasley Keep up, please, and follow me. Quickly now, come on. Come on.
+neville_longbottom seamus, that picture's moving!
+ron_weasley Look at that one, harry!
+harry_potter I think she fancies you.
+girl#unknown#HarryPotter.Episode01 Oh, look! Look! Who's that girl?
+man#unknown#HarryPotter.Episode01 in painting Welcome to Hogwarts.
+girl#unknown#HarryPotter.Episode01 Who's that?
+dimpled_woman_on_train Password?
+percy_weasley Caput draconis. Follow me, everyone. Keep up, quickly, come on.
+girl#unknown#HarryPotter.Episode01 Oh, wow.
+percy_weasley Gather 'round here. Welcome to the Gryffindor Common Room. boys' dormitories, upstairs and down to your left. girls, the same on your right. You'll find that your belongings have already been brought up.
+ron_weasley Whew, amazing, can you imagine the look on old mcgonagall's face if we were late?
+ron_weasley That was bloody brilliant.
+professor_mcgonagall Thank you for that assessment, Mr. Weasley. Maybe if I were to transfigure Mr. Potter and yourself into a pocketwatch, maybe one of you would be on time.
+harry_potter We got lost.
+professor_mcgonagall Then perhaps a map? I trust you don't need one to find your seats.
+professor_snape There will be no foolish wand waving or silly incantations in this class. As such, I don't expect many of you to enjoy the subtle science and exact art that is potion making. However, for those select few Then again, maybe some of you have come to Hogwarts in possession of abilities so formidable that you feel confidant enough to not...pay...attention.
+professor_snape Mr. Potter. Our...new...celebrity. Tell me, what would I get if I added powdered root of asphodel to an infusion of wormwood?
+harry_potter I don't know, Sir.
+professor_snape And what is the difference between Monkshood and Wolfbane?
+harry_potter I don't know, Sir.
+professor_snape Pity. Clearly, fame isn't everything, is it, Mr. Potter?
+seamus_finnigan Eye of rabbit, harp string hum. Turn this water, into rum. Eye of rabbit, harp string hum...
+harry_potter What's seamus trying to do to that glass of water?
+ron_weasley Turn it into rum. Actually managed a weak tea yesterday, before...
+ron_weasley Ah. Mail's here!
+harry_potter Can I borrow this? Thanks.
+seamus_finnigan Hey, look! neville's got a Remembrall!
+hermione_granger I've read about those. When the smoke turns red , it means you've forgotten something.
+neville_longbottom The only problem is, I can't remember what I've forgotten.
+harry_potter Hey, ron, somebody broke into Gringotts. Listen, Believed to be the work of dark witches or wizards unknown, Gringotts goblins, while acknowledging the breach, insist that nothing was taken. The vault in question, number 713, had in fact been emptied earlier that same day. That's odd. That's the vault hagrid and I went to.
+madame_hooch Good afternoon, class.
+class Good afternoon, Madam hooch.
+madame_hooch Good afternoon, Amanda, good afternoon. Welcome to your first flying lesson. Well, what are you waiting for? Everyone step up to the left side of their broomstick. Come on now, hurry up. Stick your right hand over the broom and say, Up!
+class Up!
+harry_potter Whoa.
+draco_malfoy Up!
+madame_hooch With feeling!
+hermione_granger Up. Up. Up. Up.
+ron_weasley Up!!
+madame_hooch Now, once you've got hold of your broom, I want you to mount it. And grip it tight, you don't want to be sliding off the end.
+neville_longbottom Oh...
+madame_hooch Mr. Longbottom.
+girl#unknown#HarryPotter.Episode01 neville, what are you doing?
+students#unknown#HarryPotter.Episode01 neville...neville...
+boy#unknown#HarryPotter.Episode01 We're not supposed to take off, yet.
+madame_hooch M-M-Mr. Longbottom Mr. Longbottom!
+neville_longbottom AHH!
+madame_hooch Mr. Longbottom!
+neville_longbottom Down! Down! Ahhhh!
+harry_potter neville!
+neville_longbottom Help!!!
+madame_hooch Come back down this instant!
+neville_longbottom AHH!
+neville_longbottom Help!
+madame_hooch Mr. Longbottom!
+neville_longbottom Ahhhh! Whoa! Ahhh! Ahh!
+madame_hooch Everyone out of the way! Come on, get up.
+girl#unknown#HarryPotter.Episode01 Is he alright?
+neville_longbottom Owowowow.
+madame_hooch Oh, oh, oh, oh dear. It's a broken wrist. Tch, tch, tch. Good boy, come on now, up you get.
+draco_malfoy
+harry_potter Give it here, Malfoy.
+draco_malfoy No. I think I'll leave it somewhere for Longbottom to find. What's the matter, Potter? Bit beyond your reach?
+hermione_granger harry, no! You heard what Madam hooch said! Besides, you don't even know how to fly. What an idiot.
+harry_potter Give it here, Malfoy, or I'll knock you off your broom!
+draco_malfoy Is that so?
+boy#unknown#HarryPotter.Episode01 Good job, harry!
+boy#unknown#HarryPotter.Episode01 2 Oh, that was wicked, harry.
+professor_mcgonagall
+professor_quirrell An iguana s-such as this is an essential in-gredient
+professor_mcgonagall Excuse me, excuse me, Professor quirrell. Could I borrow Wood for a moment?
+professor_quirrell Oh. Y-yes, of course.
+professor_mcgonagall Potter, this is oliver Wood. Wood, I have found you a Seeker!
+nearly_headless_nick Have you heard? harry Potter's the new Gryffindor Seeker. I always knew hed do well.
+ron_weasley Seeker? But first years never make their house teams! You must be the youngest Quidditch player in
+harry_potter A century, according to mcgonagall.
+fred_weasley Hey, well done, harry, Wood's just told us!
+ron_weasley fred and george are on the team, too. Beaters.
+george_weasley Our job is to make sure that you don't get bloodied up too bad. Can't make any promises, of course. Rough game, Quidditch.
+fred_weasley Brutal. But no one's died in years. Someone will vanish occasionally... {They break off from harry and ron, who walk across a courtyard.
+george_weasley But they'll turn up in a month or two!!
+ron_weasley Oh, go on, harry, Quidditch is great. Best game there is! And you'll be great, too!
+harry_potter But I've never even played Quidditch. What if I make a fool of myself?
+hermione_granger You won't make a fool of yourself. It's in your blood.
+ron_weasley Whoa. harry, you never told me your father was a Seeker, too.
+harry_potter I-I didn't know.
+ron_weasley I'm telling you, it's spooky. She knows more about you than you do.
+harry_potter Who doesn't?
+ron_weasley Ahh!
+hermione_granger
+harry_potter What's happening?
+hermione_granger The staircases change, remember?
+harry_potter Let's go this way.
+ron_weasley Before the staircase moves again.
+harry_potter Does anyone feel like...we shouldn't be here?
+hermione_granger We're not supposed to be here. This is the 3rd floor. It's forbidden.
+harry_potter Let's go.
+ron_weasley It's filch's cat!
+harry_potter Run!
+harry_potter It's locked!
+ron_weasley That's it, we're done for!
+hermione_granger Oh, move over!
+ron_weasley Alohomora?
+hermione_granger Standard book of spells, Chapter 7.
+mr_filch Anyone here, my sweet?
+hermione_granger filch is gone.
+ron_weasley Probably thinks this door's locked.
+hermione_granger It was locked.
+harry_potter And for good reason.
+all AHHHHHHH!
+ron_weasley What do they think they're doing?? Keeping a thing like that locked up in a school.
+hermione_granger You don't use your eyes, do you? Didn't you see what it was standing on?
+ron_weasley I wasn't looking at its feet! I was a bit preoccupied with its heads. Or maybe you didn't notice, there were three!
+hermione_granger It was standing on a trap door. Which means it wasn't there by accident. It's guarding something.
+harry_potter Guarding something?
+hermione_granger That's right. Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed...or worse, expelled!
+ron_weasley She needs to sort out her priorities!
+oliver_wood Quidditch is easy enough to understand. Each time has seven players, 3 chasers, 2 beaters, 1 keeper and a seeker that's you. There are three kinds of balls. With me so far?
+harry_potter
+oliver_wood ...You better take this.
+harry_potter I like this ball.
+oliver_wood Ah, you like it now. Just wait. It's wicked fast and damn near impossible to see.
+harry_potter What do I do with it?
+oliver_wood You catch it...before the other team's seeker. You catch this, the game is over. You catch this, Potter, and we win.
+harry_potter Whoa.
+flitwick#unknown#HarryPotter.Episode01 One of a wizard's most rudimentary skills is levitation the ability to make objects fly. Uh, do you all have your feathers? The swish and flick. Good. And enunciate. Wingardium Leviosa. Off you go then.
+draco_malfoy Wingardium Levio-saaa.
+ron_weasley Wingardrium Leviosar.
+hermione_granger Stop, stop, stop. You're going to take someone's eye out. Besides, youre saying it wrong. It's Leviosa, not Leviosar.
+ron_weasley You do it then if you're so clever. Go on, go on.
+hermione_granger
+flitwick#unknown#HarryPotter.Episode01 Oh, well done! See here, everyone! Ms. Granger's done it! Oh, splendid!
+seamus_finnigan Wingard Levosa. Wingard Levosa.
+flitwick#unknown#HarryPotter.Episode01 Whooaaa! Ooh.
+harry_potter I think we're going to need another feather over here, Professor.
+ron_weasley It's Leviosa, not Leviosar. Honestly, she's a nightmare. No wonder she hasn't got any friends!
+harry_potter I think she heard you.
+harry_potter Where's hermione?
+neville_longbottom Parvati Patil said that she wouldn't come out of the girl's bathroom. She said that she'd been in there all afternoon...crying.
+professor_quirrell TROLL! IN THE DUNGEON! T-TROOLLL IN THE DUNGEON!!
+albus_dumbledore SILLLLLEEENNNNCEEEEE! Everyone will please, not panic. Now, Prefects will lead their houses back to the dormitories. Teachers will follow me to the dungeons.
+girl#unknown#HarryPotter.Episode01 Hufflepuff, this way!
+boy#unknown#HarryPotter.Episode01 Stay together!
+percy_weasley gryffindors...keep up please. And stay alert!
+harry_potter How could a troll get in?
+ron_weasley Not by itself. Trolls are really stupid. Probably people playing jokes. What?
+harry_potter hermione! She doesn't know!
+harry_potter He's going into the girl's Bathroom!
+harry_potter hermione, move!
+hermione_granger Help! Help!
+ron_weasley Hey, pea brain!
+hermione_granger Ahhh! Help!
+harry_potter Whooa! Whoa, whoa!
+ron_weasley Ew.
+harry_potter Whoa, whoa whoa!
+harry_potter Do something!
+ron_weasley What?
+harry_potter Anything! Hurry up!
+hermione_granger Swish and flick!
+ron_weasley Wingardium Leviosa! {flick. The club is lifted out of the troll's hand and hovers above its head. The troll looks up, confused, just as the club comes crashing back down. It hits the troll's head and the troll wavers, then drops harry, who crawls away, and comes crashing down, hard.
+hermione_granger Is it...dead?
+harry_potter I don't think so. Just knocked out. Ew. Troll bogies.
+professor_mcgonagall Oh! Oh, my goodness! E-Explain yourselves, both of you!
+ron_weasley and harry Well, what it is...
+hermione_granger It's my fault, Professor mcgonagall.
+professor_mcgonagall Ms. Granger?
+hermione_granger I went looking for the troll. I'd read about them and thought I could handle it. But I was wrong. If harry and ron hadn't come and found me...I'd probably be dead.
+professor_mcgonagall Be that as it may...it was an extremely foolish thing to do.
+professor_quirrell Perhaps you ought to go...M-might wake up...heh. Ahh! Hehe....
+ron_weasley Take a bit of toast, mate, go on.
+hermione_granger ron's right, harry. You're gonna need your strength today.
+harry_potter I'm not hungry.
+professor_snape Good luck today, Potter. Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you...even if it is against Slytherin.
+harry_potter That explains the blood.
+hermione_granger Blood?
+harry_potter Listen, last night, I'm guessing snape let the troll in as a diversion so he could try and get past that 3 headed dog. But, he got himself bitten, that's why he's limping.
+hermione_granger But why would anyone go near that dog?
+harry_potter The day I was at Gringotts, hagrid took something out of one of the vaults. He said it was Hogwarts' business, very secret.
+hermione_granger So you're saying...
+harry_potter That's what the dog's guarding. That's what snape wants.
+hermione_granger Bit early for mail, isn't it?
+harry_potter But I-I never get mail.
+ron_weasley Let's open it.
+harry_potter It's a broomstick!
+ron_weasley Thats not just any broomstick, harry. It's a Nimbus 2000!
+harry_potter But who...?
+oliver_wood Scared, harry?
+harry_potter A little bit.
+oliver_wood That's all right. I felt the same way before my first game.
+harry_potter What happened?
+oliver_wood Er, I don't really remember. I took a bludger to the head 2 minutes in. Woke up in the hospital a week later.
+lee_jordan Hello, and welcome to Hogwarts' first Quidditch game of the season! Today's game Slytherin versus Gryffindor!!!
+lee_jordan The players take their positions as Madam hooch steps out onto the field to begin the game.
+madame_hooch Now, I want a nice clean game...from all of you.
+lee_jordan The bludgers are up...followed by the Golden Snitch. Remember, the snitch is worth 150 points. The seeker who catches the Snitch ends the game.
+lee_jordan The Quaffle is released...and the game begins!
+lee_jordan Angelina Johnson scores! 10 points for Gryffindor!
+harry_potter Yes! Whoa!
+hagrid Well done!
+lee_jordan Slytherin takes possession of the Quaffle. Bletchley passes to Captain Marcus flint.
+ron_weasley and seamus Yay!
+harry_potter Yes!
+lee_jordan Another 10 points to Gryffindor!
+gryffindors#unknown#HarryPotter.Episode01 Yay!
+marcus_flint Give me that!
+crowd
+marcus_flint Take that side!
+harry_potter Whoa! Whooa!
+hagrid What's going on with harry's broomstick?
+hermione_granger It's snape! He's jinxing the broom!
+ron_weasley Jinxing the broom? What do we do?
+hermione_granger Leave it to me.
+ron_weasley Come on, hermione!
+hermione_granger Lacarnum Inflamarae.
+man#unknown#HarryPotter.Episode01 Fire! You're on fire!
+professor_snape What? Oh!
+ron_weasley Go!
+hagrid Go go go!
+hagrid Looks like he's gonna be sick!
+lee_jordan He's got the Snitch! harry Potter receives 150 points for catching the Snitch!
+madame_hooch Gryffindor win!
+all YAY!
+draco_malfoy No!
+hagrid Yes!
+hermione_granger Whoo-hoo!
+professor_mcgonagall
+crowd Go go Gryffindor! Go go Gryffindor! Go go Gryffindor! Go go Gryffindor!
+hagrid Nonsense. Why would snape put a curse on harry's broom?
+harry_potter Who knows. Why was he trying to get past that 3 headed dog on Halloween?
+hagrid Who told you 'bout Fluffy?
+ron_weasley Fluffy?
+hermione_granger That thing has a name?
+hagrid Well, of course he's got a name. He's mine. I bought him off an Irish feller I met down at the pub last year. Then I lent him to dumbledore to guard the
+harry_potter Yes?
+hagrid Shouldn'ta said that. Don't ask any more questions. That's top secret, that is.
+harry_potter But hagrid, whatever Fluffy's guarding, snape's trying to steal it!
+hagrid Codswallop. Professor snape is a Hogwarts teacher.
+hermione_granger Hogwarts teacher or not, I know a curse when I see one. I've read all about them. You have to keep eye contact. And snape wasn't blinking.
+harry_potter Exactly.
+hagrid Now, you listen to me, all three of you. You're meddlin' in things that ought not to be meddled in. It's dangerous. What that dog is guarding is strictly between Professor dumbledore and Nicholas Flamel.
+harry_potter Nicholas Flamel?
+hagrid I shouldn't have said that. I should not have said that. I should not have said that.
+harry_potter Nicholas Flamel...Who's Nicholas Flamel?
+hermione_granger I don't know.
+harry_potter Knight to E-5.
+ron_weasley Queen to E-5.
+hermione_granger That's totally barbaric!
+ron_weasley That's wizard's chess. I see you've packed.
+hermione_granger See you haven't.
+ron_weasley Change of plans. My parents decided to go to Romania to visit my brother, Charlie. He's studying dragons there!
+hermione_granger Good. You can help harry, then. He's going to go the library for information on Nicholas Flamel.
+ron_weasley We've looked a hundred times!
+hermione_granger Not in the restricted section...Happy Christmas.
+ron_weasley I think we've had a bad influence on her.
+ron_weasley harry, wake up! Come on harry, wake up!
+ron_weasley Happy Christmas, harry.
+harry_potter Happy Christmas, ron. What are you wearing?
+ron_weasley Oh, Mum made it for me. Looks like you've got one too!
+harry_potter I've got presents?
+ron_weasley Yeah!
+harry_potter Oh!
+ron_weasley There they are.
+harry_potter "Your father left this in my possession before he died. It is time it was returned to you. Use it well."
+ron_weasley What is it?
+harry_potter Some kind of...cloak.
+ron_weasley Well, let's see then. Put it on.
+ron_weasley Whoa!
+harry_potter My body's gone!
+ron_weasley I know what that is! That's an invisibility cloak!
+harry_potter I'm invisible??
+ron_weasley They're really rare. I wonder who gave it to you.
+harry_potter There was no name. It just said, "Use it well."
+harry_potter Famous fire eaters...15th Century Fiends...Flamel...Nicholas Flamel...where are you?
+man#unknown#HarryPotter.Episode01 AHHHHHHHHHHHHHHHH!!!!!!!!
+mr_filch voice Who's there?! Who is it? Show yourself!
+professor_quirrell Severus...I-I thought...
+professor_snape You don't want me as your enemy, quirrell.
+professor_quirrell W-what do you m-mean?
+professor_snape You know perfectly well what I mean. We'll have another chat soon...when you've had time to decide where your loyalties lie.
+mr_filch Oh, Professors. I found this, in the Restricted Section. It's still hot. That means there's a student out of bed.
+harry_potter Mum? Dad? {nods and smiles. harry reaches out to touch them, but only gets the mirror. Then, his mother puts her hand on his shoulder. He puts his own hand on his own shoulders, as if trying to feel her there.
+harry_potter ron! You've really got to see this! ron! You've got to see this! ron, ron, come on. Get out of bed!
+ron_weasley Why?
+harry_potter There's something you've got to see. Now, come on!
+harry_potter Come on. Come. Come look, it's my parents!
+ron_weasley I only see me.
+harry_potter Look in properly. Go on. Stand there. There. You see them, don't you? Thats my dad
+ron_weasley That's me! Only, I'm head boy...and I'm holding the Quidditch cup! And bloody hell, I'm Quidditch Captain too! I look good. harry, do you think this mirror shows the future?
+harry_potter How can it? Both my parents are dead.
+albus_dumbledore Back again, harry? I see that you, like so many before you, have discovered the delights of the Mirror of Erised. I trust by now you realize what it does. Let me give you a clue. The happiest man on earth would look into the mirror and see only himself, exactly as he is.
+harry_potter So, then it shows us what we want? Whatever we want?
+albus_dumbledore Yes...and no. It shows us nothing more or less than the deepest, most desperate desires of our hearts. Now you, who have never known your family, you see them standing beside you. But remember this, harry. This mirror gives us neither knowledge or truth. Men have wasted away in front of it, even gone mad. That is why tomorrow it will be moved to a new home, and I must ask you not to go looking for it again. It does not do to dwell on dreams, harry, and forget to live.
+hermione_granger I had you looking in the wrong section! How could I be so stupid? I checked this out a few weeks ago for a bit of light reading.
+ron_weasley This is light?
+hermione_granger Of course! Here it is! "Nicholas Flamel is the only known maker of the Philosopher's Stone!"
+ron_weasley and harry The what?
+hermione_granger Honestly, don't you two read? "The Philosopher's Stone is a legendary substance with astonishing powers. It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal."
+ron_weasley Immortal?
+hermione_granger It means you'll never die.
+ron_weasley I know what it means!
+harry_potter Shh!
+hermione_granger "The only stone currently in existence belongs to Mr. Nicholas Flamel, the noted alchemist, who last year celebrated his 665th birthday!" That's what Fluffy's guarding on the 3rd floor. That's what's under the trapdoor...the Philosopher's Stone!
+harry_potter hagrid!
+hagrid
+all 3 We know about the Philosopher's Stone!
+hagrid Oh.
+harry_potter We think snape's trying to steal it.
+hagrid snape? Blimey, harry, you're not still on about him, are you?
+harry_potter hagrid, we know he's after the Stone. We just don't know why.
+hagrid snape is one of the teachers protecting the Stone! He's not about to steal it!
+harry_potter What?
+hagrid You heard. Right. Come on, now, I'm a bit preoccupied today.
+harry_potter Wait a minute. One of the teachers?
+hermione_granger Of course! There are other things defending the Stone, aren't there? Spells, enchantments.
+hagrid That's right. Waste of bloody time, if you ask me.
+harry_potter Uh, hagrid, what exactly is that?
+hagrid That? It's a ... its um...
+ron_weasley I know what that is! But hagrid, how did you get one?
+hagrid I won it. Off a stranger I met down at a pub. Seemed quite glad to be rid off it, as a matter of fact.
+hermione_granger Is that...a dragon?
+ron_weasley That's not just a dragon. That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.
+hagrid Isn't he beautiful? Oh. Bless him, look. He knows his mummy. Hehe. Hallo, Norbert.
+harry_potter Norbert?
+hagrid Yeah, well, he's got to have a name, doesn't he?
+ron_weasley
+hagrid Don't you, Norbert? Dededede.
+hagrid Ohh! Oooh, ooh, ooh, well...he'll have to be trained up a bit, of course.
+harry_potter Malfoy.
+hagrid Oh, dear.
+harry_potter hagrid always wanted a dragon. He told me so the first time I met him.
+ron_weasley It's crazy. And worse, Malfoy knows.
+harry_potter I don't understand. Is that bad?
+ron_weasley It's bad.
+professor_mcgonagall Good evening.
+professor_mcgonagall Nothing, I repeat, nothing gives a student the right to walk about the school at night. Therefore, as punishment for your actions, 50 points will be taken.
+harry_potter 50?!
+professor_mcgonagall Each. And to ensure it doesn't happen again, all four of you will receive detention.
+draco_malfoy Excuse me, Professor. Perhaps I heard you wrong. I thought you said..."the four of us."
+professor_mcgonagall No, you heard me correctly, Mr. Malfoy. You see, as honorable as your intentions were, you too were out of bed after hours. You will serve detention with your classmates.
+mr_filch A pity they let the old punishments die. There was a time detention would find you hanging by your thumbs in the dungeons. God, I miss the screaming. A sorry lot this, hagrid. Oh, good God, man, you're not still on about that bloody dragon, are you?
+hagrid Norbert's gone. dumbledore sent him off to Romania to live in a colony.
+hermione_granger Well, that's good, isn't it? He'll be with his own kind.
+hagrid Yeah, but what if he don't like Romania? What if the other dragons are mean to him? He's only a baby, after all.
+mr_filch Oh, for Gods sake, pull yourself together, man. You're going into the forest, after all. Got to have your wits about you.
+draco_malfoy The forest? I thought that was a joke! We can't go in there. students aren't allowed. And there are......werewolves!
+mr_filch There's more than werewolves in those trees, lad. You can be sure of that.
+hagrid Right. Let's go.
+harry_potter hagrid, what's that?
+hagrid What we're here for. See that? That's unicorn's blood, that is. I found one dead a few weeks ago. Now, this one's been injured bad by something. So, it's our job to find the poor beast. ron, hermione, you'll come with me.
+ron_weasley Okay.
+hagrid And harry, you'll go with Malfoy.
+draco_malfoy Okay. Then I get Fang!
+hagrid Fine. Just so you know, he's a bloody coward.
+draco_malfoy You wait till my father hears about this. This is servant's stuff.
+harry_potter If I didn't know better, draco, I'd say you were scared.
+draco_malfoy Scared, Potter?! Did you hear that? Come on, Fang. Scared.
+harry_potter What is it, Fang?
+draco_malfoy HELP!!!!!
+firenze harry Potter, you must leave. You are known to many creatures here. The forest is not safe at this time. Especially for you.
+harry_potter But what was that thing you saved me from?
+firenze A monstrous creature. It is a terrible crime to slay a unicorn. Drinking the blood of a unicorn will keep you alive even if you are an inch from death. But at a terrible price. You have slain something so pure that the moment the blood touches your lips, you will have a half-life. A cursed life.
+harry_potter But who would choose such a life?
+firenze Can you think of no one?
+harry_potter Do you mean to say...that that thing that killed the unicorn...that was drinking its blood...that was voldemort?
+firenze Do you know what is hidden in the school at this very moment?
+harry_potter The Philosopher's Stone.
+hermione_granger harry!
+hagrid Hello there, firenze. I see you've met our young Mr. Potter. You all right there, harry?
+firenze harry Potter, this is where I leave you. You're safe now. Good luck.
+hermione_granger You mean, You-Know-Who's out there, right now, in the forest?
+harry_potter But he's weak. He's living off the unicorns. Don't you see? We had it wrong. snape doesn't want the stone for himself, he wants the stone for voldemort. With the Elixir of Life, voldemort will be strong again. He'll He'll come back.
+ron_weasley But if he comes back, you don't think he'll try to kill you, do you?
+harry_potter I think if he'd had the chance, he might have tried to kill me tonight.
+ron_weasley And to think, I've been worrying about my Potions final!
+hermione_granger Hang on a minute. We're forgetting one thing. Who's the one wizard voldemort always feared?
+hermione_granger I've always heard Hogwarts' end of the year exams were frightful, but I found that rather enjoyable.
+ron_weasley Speak for yourself. all right there, harry?
+harry_potter My scar. It keeps burning.
+hermione_granger It's happened before.
+harry_potter Not like this.
+ron_weasley Perhaps you should see the nurse.
+harry_potter I think it's a warning. It means dangers coming. Uhh!
+hermione_granger What is it?
+harry_potter Don't you think it's a bit odd that what hagrid wants more than anything is a dragon, and a stranger shows up and just happens to have one? What did he look like?
+hagrid I don't know. I never saw his face. He kept his hood up.
+harry_potter The stranger, though, you and he must have talked.
+hagrid Well, he wanted to know what sort of creatures I looked after. I told him. I said, "After Fluffy, a dragon's gonna be no problem."
+harry_potter And did he seem interested in Fluffy?
+hagrid Well, of course he was interested in Fluffy! How often do you come across a three headed dog, even if you're in the trade? But I told him. I said, "The trick with any beast is to know how to calm him. Take Fluffy, for example, just play him a bit of music and he falls straight to sleep."
+hagrid I shouldn't have told you that. Where you going?! Wait!
+harry_potter We have to see Professor dumbledore, immediately!
+professor_mcgonagall I'm afraid Professor dumbledore is not here. He received an urgent owl from the Ministry of Magic and left immediately for London.
+harry_potter He's gone?! Now? But this is important! It's about...the Philosopher's Stone.
+professor_mcgonagall How do you know
+harry_potter Someone's going to try and steal it.
+professor_mcgonagall I don't know how you three found out about the stone, but I can assure you it is perfectly well-protected. Now would you go back to your dormitories? Quietly.
+harry_potter That was no stranger hagrid met in the village. It was snape, which means he knows how to get past Fluffy.
+hermione_granger And with dumbledore gone
+professor_snape Good afternoon. Now, what would three young gryffindors such as yourselves be doing inside on a day like this?
+hermione_granger Uh...we were just...
+professor_snape You want to be careful. People will think you're
+hermione_granger Now what do we do?
+harry_potter We go down the trapdoor. Tonight.
+harry_potter Trevor.
+ron_weasley Trevor shh! Go, you shouldn't be here!
+neville_longbottom Neither should you. You're sneaking out again, arent you?
+harry_potter Now, neville, listen. We were
+neville_longbottom No! I won't let you!
+hermione_granger neville, I'm really, really sorry about this... Petrificus Totalus.
+ron_weasley You're a little scary sometimes...you know that? Brilliant, but scary.
+harry_potter Let's go. Sorry.
+hermione_granger Sorry.
+ron_weasley It's for your own good, you know.
+hermione_granger Ow! You stood on my foot!
+ron_weasley Sorry.
+hermione_granger Alohomora.
+ron_weasley Wait a minute...he's.... Sleeping.
+harry_potter snape's already been here. He's put a spell on the harp.
+ron_weasley Uh. It's got horrible breath!
+harry_potter We have to move its paw.
+ron_weasley What?!
+harry_potter Come on! If something bad happens, get yourselves out...Does it seem a bit...quiet?
+hermione_granger The harp. It stopped playing.
+ron_weasley Ew! Yuck! Ugh.
+harry_potter Jump! Go!
+ron_weasley Ahh! Whoa. Lucky this plant-thing is here, really.
+harry_potter Whoa!
+hermione_granger Stop moving, both of you. This is Devil's Snare. You have to relax. If you don't, it will only kill you faster.
+ron_weasley Kill us faster?! Oh, now I can relax!
+ron_weasley and harry hermione!!
+ron_weasley Now what are we gonna do?!
+hermione_granger voice Just relax!
+harry_potter hermione! Where are you?!
+hermione_granger Do what I say. Trust me.
+ron_weasley Ahh! harry!
+ron_weasley harry!
+hermione_granger Are you okay?
+harry_potter Yeah, yeah, I'm fine.
+ron_weasley Help!
+hermione_granger He's not relaxing, is he?
+harry_potter Apparently not.
+ron_weasley Help! Help me!
+hermione_granger We've got to do something!
+harry_potter What?
+hermione_granger Uh! I remember reading something in Herbology.
+ron_weasley Ahhh!
+harry_potter ron, are you okay?
+ron_weasley Yeah.
+harry_potter Okay.
+ron_weasley Whew. Lucky we didn't panic!
+harry_potter Lucky hermione pays attention in Herbology.
+hermione_granger What is that?
+harry_potter I don't know. Sounds like wings.
+hermione_granger Curious. I've never seen birds like these.
+harry_potter They're not birds, they're keys. And I'll bet one of them fits that door.
+hermione_granger What's this all about?
+harry_potter I don't know. Strange.
+ron_weasley Well, it was worth a try.
+hermione_granger Ugh! What're we going to do? There must be 1000 keys up there!
+ron_weasley We're looking for a big old fashioned one. Probably rusty like the handle.
+harry_potter There! I see it!
+hermione_granger What's wrong, harry?
+harry_potter It's too simple.
+ron_weasley Oh, go on, harry! If snape can catch it on that old broomstick, you can! You're the youngest seeker in a century!
+ron_weasley This complicates things a bit!
+harry_potter Catch the key!
+ron_weasley Hurry up!
+hermione_granger I don't like this. I don't like this at all.
+harry_potter Where are we? A graveyard.
+ron_weasley This is no graveyard.
+harry_potter There's the door.
+hermione_granger Now what do we do?
+ron_weasley It's obvious, isn't it? We've got to play our way across the room. all right. harry, you take the Bishop's square. hermione, you'll be the Queen's side castle. As for me, I'll be a knight.
+hermione_granger What happens now?
+ron_weasley
+hermione_granger ron, you don't suppose this is going to be like...real wizard's chess, do you?
+ron_weasley You there! D-5! Yes, hermione, I think this is going to be exactly like wizard's chess!
+ron_weasley Castle to E-4! Smash! ron Pawn to C-3! Smash! Boom! The Queen turns, and smashes a piece! harry, ron and hermione wince. The Queen turns again. Both ron and harry study the game.
+harry_potter Wait a minute.
+ron_weasley You understand right, harry. Once I make my move, the Queen will take me...then you'll be free to check the King.
+harry_potter No, ron! No!
+hermione_granger What is it?
+harry_potter He's going to sacrifice himself!
+hermione_granger No, ron, you can't! There must be another way!
+ron_weasley Knight...to H-3.
+ron_weasley Check.
+ron_weasley Ahhhh!
+harry_potter RON! Take care of ron. Then, go to the owlery. Send a message to dumbledore. ron's right...I have to go on.
+hermione_granger You'll be okay, harry. You're a great wizard, you really are.
+harry_potter Not as good as you.
+hermione_granger Me? Books and cleverness? There are more important things. Friendship, and bravery. And harry, just be careful.
+harry_potter You? No. It can't be...snape. He was the one
+professor_quirrell Yes. He does seem the type, doesn't he? Next to me, who would suspect, "p-p-poor s-stuttering Professor quirrell?"
+harry_potter B-but, that day, during the Quidditch Match, snape tried to kill me.
+professor_quirrell No, dear boy. I tried to kill you! And trust me, if snape's cloak hadn't caught fire and broken my eye contact, I would have succeeded. Even with snape muttering his little counter-curse.
+harry_potter snape was trying to...save me?
+professor_quirrell I knew you were a danger right from the off. Especially after Halloween.
+harry_potter Th-then you let the troll in.
+professor_quirrell Very good Potter, yes. snape, unfortunately, wasn't fooled. While everyone else was running to the dungeon, he went to the 3rd floor to head me off. He, of course, never trusted me again. He rarely left me alone. But he doesn't understand. I'm never alone. Never. Now...what does this mirror do? I see what I desire. I see myself holding the stone. But how do I get it?
+professor_quirrell Come here, Potter, now!
+professor_quirrell Tell me. What do you see?
+professor_quirrell What is it?! What do you see?!
+harry_potter I-I'm shaking hands with dumbledore. I've won the house cup.
+he_who_must_not_be_named voice He lies.
+professor_quirrell Tell the truth! What do you see?!
+he_who_must_not_be_named voice Let me speak to him.
+professor_quirrell Master, you are not strong enough.
+he_who_must_not_be_named voice I have strength enough for this. harry Potter. We meet again.
+harry_potter voldemort.
+he_who_must_not_be_named Yes. You see what I have become? See what I must do to survive? Live off another. A mere parasite. Unicorn blood can sustain me, but it cannot give me a body of my own. But there is something that can. Something, that conveniently enough, lies in your pocket!
+he_who_must_not_be_named Stop him! Don't be a fool! Why suffer a horrific death when you can join me and live?!
+harry_potter Never!
+he_who_must_not_be_named Haha. Bravery. Your parents had it too. Tell me, harry, would you like to see your mother and father again? Together, we can bring them back.
+harry_potter You liar!
+he_who_must_not_be_named Kill him!
+professor_quirrell Ahh! Ahh!
+he_who_must_not_be_named Fool! Get the stone!
+professor_quirrell Ahhhhhhhhhh!
+he_who_must_not_be_named Arrrhhhhhh!
+harry_potter Ahhhhhhhhh!
+albus_dumbledore Good afternoon, harry. Ah. Tokens from your admirers?
+harry_potter Admirers?
+albus_dumbledore What happened down in the dungeons between you and Professor quirrell is a complete secret, so, naturally, the whole school knows. Ah, I see your friend ronald has saved you the trouble of opening your Chocolate frogs.
+harry_potter ron was here? Is he all right? What about hermione?
+albus_dumbledore Fine. They're both just fine.
+harry_potter But, what happened to the Stone?
+albus_dumbledore Relax, dear boy. The stone has been destroyed. My friend Nicholas and I had a little chat and agreed it was best all around.
+harry_potter But Flamel, he'll die, won't he?
+albus_dumbledore He has enough Elixir to set his affairs in order. But yes, he will die.
+harry_potter How is it I got the Stone, sir? One minute I was staring in the mirror, and the next...
+albus_dumbledore Ah. You see, only a person who wanted to find the Stone, find it, but not use it, would be able to get it. That is one of my more brilliant ideas. And between you and me thats saying something.
+harry_potter Does that mean, with the Stone gone, I mean, that voldemort can never come back?
+albus_dumbledore Ah, I'm afraid there are ways in which he can return. harry, do you know why Professor quirrell couldn't bear to have you touch him? No, no, this kind of mark cannot be seen. It lives in your very skin.
+harry_potter What is it?
+albus_dumbledore Love, harry, love. Mm. Alas. Earwax.
+harry_potter all right there, ron?
+ron_weasley all right? You?
+harry_potter all right. hermione?
+hermione_granger Never better.
+albus_dumbledore Another year gone. And now, as I understand it, the house cup needs awarding, and the points stand thus. In fourth place, Gryffindor with 312 points. And in first place, with 472 points, Slytherin House.
+students#unknown#HarryPotter.Episode01 Whoo! Yeah!
+draco_malfoy Nice one, Mate!
+albus_dumbledore Yes, yes, well done Slytherin, well done Slytherin. However, recent events must be taken into account. And I have a few last minute points to award.
+harry_potter Good job.
+albus_dumbledore Second, to Mr. ronald Weasley, for the best played game of chess
+hermione_granger We're tied with Slytherin!
+albus_dumbledore And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. I award 10 points to neville Longbottom.
+albus_dumbledore Assuming that my calculations are correct, I believe that a change of direction is in order. Gryffindor wins the House Cup!
+hagrid Yes!
+seamus_finnigan neville!
+lee_jordan Yeah! We won!!
+hagrid Come on now, hurry up. You'll be late. Train's leaving. Go on. Go on. Come on. Hurry up.
+hermione_granger Come on, harry.
+harry_potter One minute.
+hagrid Thought you were leaving without saying good-bye, didja? This is for you.
+harry_potter Thanks, hagrid.
+hagrid Oh. Go on...on with you. Oh, listen, harry, if that dolt of a cousin of yours, dudley, gives you any grief, you could always, um, threaten him with a nice pair of ears to go with that tail of his.
+harry_potter But hagrid, we're not allowed to do magic away from Hogwarts. You know that.
+hagrid I do. But your cousin don't, do he? Eh? Off you go.
+hermione_granger Feels strange to be going home, doesn't it?
+harry_potter I'm not going home. Not really.

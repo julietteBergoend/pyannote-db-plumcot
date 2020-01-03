@@ -1,0 +1,669 @@
+
+not_available The Americans know our location.
+not_available We need to launch the drone before they close in.
+not_available We'll find a way to deliver the other two bombs.
+not_available Launch the drone.
+not_available I can't find the drone.
+not_available Use projected vectors.
+not_available I am.
+not_available It's not where it's supposed to be.
+not_available Until you find it, I'll have my F
+not_available 16s stay in a holding pattern.
+not_available We figured out how the drone can stay hidden.
+not_available Whoever is piloting it can anticipate our directives.
+not_available Our data is being relayed to the drone pilot through a work station here.
+not_available We have a leak.
+not_available Find who's subverting our system.
+not_available It is Nadia.
+not_available The signature trace matches her computer.
+not_available Surrender your station.
+not_available Who are you streaming data to? 
+not_available What? I will do what's necessary to get the answers I need.
+not_available Let her go.
+not_available What the hell are you doing? We got the drone pilot's location.
+not_available We're not through with her, Milo.
+not_available What's your status? The drone pilot is down.
+not_available I'm at his controls.
+not_available The target is San Francisco.
+not_available I can't deactivate the bomb.
+not_available I'm fighting a stall.
+not_available I'm losing control.
+not_available I need to find a place to land it.
+not_available None of the first responders are reporting a detonation.
+not_available The bomb did not go off.
+not_available Move out! There's radioactive material in this area.
+not_available We took control of the aircraft, crash
+not_available landing it at the edge of the city.
+not_available But the bomb's core was compromised and radioactive material was released.
+not_available So what we're dealing with is a dirty bomb? 
+not_available Sir, it was a radiological spill.
+not_available It was an attack on our nation.
+not_available I warned the ambassador, Tom.
+not_available We were led to believe this warning shot would be fired only in response to the detonation of a nuclear device.
+not_available They need to see with their own eyes that I will answer this threat with an in
+not_available kind military response.
+not_available The order's given.
+not_available Launch the missile as soon as they're in range.
+not_available Prep two units of plasma.
+not_available You need to keep him alive.
+not_available Gredenko's got two more bombs.
+not_available This man's our only link.
+not_available Jack, I talked to CTU.
+not_available There's a situation where the drone went down.
+not_available The bomb casing cracked.
+not_available It dispersed in the air.
+not_available How bad is the fallout? 
+not_available Casualties should be minimal.
+not_available They're starting to evacuate.
+not_available Go through the pilot's databases.
+not_available See if you can find any link to Gredenko.
+not_available Agent Bauer, he didn't make it.
+not_available Dammit.
+not_available Buchanan.
+not_available Bill, it's Jack.
+not_available What did you get from the pilot? 
+not_available Nothing, he's dead.
+not_available We're running down leads.
+not_available Nothing's come up on Gredenko.
+not_available Doyle told me the fallout was containable? It's not that simple.
+not_available The incident has created serious policy complications in Washington.
+not_available Daniels has ordered a nuclear strike against Fayed's country.
+not_available What's he trying to do? Start World War III? It'll be seen as an act of aggression.
+not_available We have to find Fayed and Gredenko fast.
+not_available When is it happening? 
+not_available Within the hour.
+not_available That doesn't give us enough time.
+not_available I'll get back to you.
+not_available how an explosive device could have been secreted into the White House bunker.
+not_available Victor is still not answering.
+not_available Because the Americans found him.
+not_available The bomb was supposed to hit San Francisco ten minutes ago.
+not_available But there's nothing on the news.
+not_available Even if you're right, we are safe here.
+not_available Victor doesn't know our location.
+not_available So we can continue our operation safely.
+not_available What operation? There is no operation.
+not_available It's over because of you and your people.
+not_available No, Fayed, it isn't over.
+not_available We have two more bombs.
+not_available I have the bombs! But you need me to deliver them.
+not_available I'm the only one who can give you the targets you want.
+not_available So come on, shoot me now! Or put down that gun.
+not_available Yeah.
+not_available Mark Hauser? Who's this? 
+not_available You know who it is.
+not_available I already gave you what you asked for.
+not_available But your employer has tightened security.
+not_available So the access I paid for is no good.
+not_available That's not my problem.
+not_available It is.
+not_available It became your problem the moment you took my money.
+not_available It'll take some time to download the new security protocols.
+not_available How much time? 
+not_available Half an hour, maybe longer.
+not_available I can call you.
+not_available I'll be there in 40 minutes.
+not_available Gredenko.
+not_available I'm hungry.
+not_available Knock yourself out.
+not_available There's peppers in here.
+not_available You like peppers.
+not_available Not red ones.
+not_available I don't eat red food, Mark.
+not_available Since when? 
+not_available I don't like red food.
+not_available I'll take the peppers out, OK? You take care of me, Mark.
+not_available You always take care of me.
+not_available I do my best, Brady.
+not_available While I'm doing this, I need you to do something for me.
+not_available OK.
+not_available I need you to access some files from the mainframe in my office.
+not_available Can you do that? 
+not_available Yeah.
+not_available Let's go.
+not_available Nadia's being processed as an enemy combatant.
+not_available She's being transferred to a holding station in Temecula.
+not_available Sir, I don't know if I can accept that she betrayed us, that she spied for Fayed.
+not_available I think we're wrong.
+not_available This is not easy for any of us.
+not_available But the facts at hand indicate she was streaming intel from her station.
+not_available Mr Buchanan.
+not_available What is it? We may have caught a break.
+not_available What do you have? I've monitored everyone who's communicated with Gredenko, through phone or emails.
+not_available The filter flagged a call that happened a few minutes ago.
+not_available Mark Hauser.
+not_available He does security consulting for energy companies.
+not_available His company has contracts with chemical facilities.
+not_available Oil fields, pipelines and nuclear power plants.
+not_available The call was scrambled, but we do have Hauser's address.
+not_available Get that address to Jack.
+not_available You wanted to see me? 
+not_available Yeah.
+not_available Excuse us, guys.
+not_available While I was stripping data from the drone pilot's hard drive, 
+not_available I found this.
+not_available What is it? A remote access module.
+not_available It's how the pilot breached CTU's satellite grid.
+not_available No.
+not_available The pilot got into our system cos Nadia Yassir let him in.
+not_available No.
+not_available This guy got in through one of the radical websites Nadia's been monitoring.
+not_available Access module proves it.
+not_available Nadia's system was compromised and she didn't know it? That's right.
+not_available You're in a tough position you led the witch
+not_available hunt against her.
+not_available I followed standard protocols based on information that was available.
+not_available Nadia might not see it that way when she takes it up with the Justice Department.
+not_available Once the dust settles today, they might wanna make you an example.
+not_available Relax, Mike, you took care of me in Denver and I still owe you for that.
+not_available We're even now.
+not_available Copy that.
+not_available I'll call when we're there.
+not_available We got a lead on Gredenko.
+not_available How good? We'll know soon.
+not_available It's a few miles from here.
+not_available Put together a TAC team.
+not_available I need to stay behind.
+not_available We're still processing.
+not_available Fine.
+not_available Ryan.
+not_available Yes, sir.
+not_available Get your men together, come with me.
+not_available Give us a minute, please.
+not_available Yes, ma'am.
+not_available Sandra, how are you holding up? I can't believe this is happening.
+not_available It doesn't feel real.
+not_available I'm so sorry.
+not_available Sandra, unfortunately I need to ask you for your help.
+not_available There's an extremely volatile situation developing at the White House.
+not_available Vice President Daniels is about to launch a nuclear strike against the Middle East.
+not_available A nuclear strike? 
+not_available Yes, and the cabinet is behind him.
+not_available I've tried arguing, but no one's listening.
+not_available Are they insane? 
+not_available No.
+not_available They're just scared.
+not_available Before the attempted assassination, Wayne reached out to the Middle East governments to solicit their help in stopping Fayed, and it was working.
+not_available This strike is a complete reversal of everything that he was working for.
+not_available You want Dr Welton to bring him out of the coma? Yes.
+not_available And I need your consent.
+not_available But the doctor said he needs to be sedated for a few days before the swelling subsides.
+not_available But we don't have a few days.
+not_available Even if Wayne regains consciousness, we don't know what state he'll be in.
+not_available But we won't know unless we try.
+not_available I wouldn't dare to ask you to risk this if I did not think it was absolutely necessary for the sake of our country.
+not_available I'm sorry.
+not_available I can't do it.
+not_available Sandra, please.
+not_available I've already lost one brother.
+not_available I can't lose another one.
+not_available I know you did not ask for this responsibility, but like it or not, it is yours.
+not_available Wayne Palmer is still the president of our country.
+not_available He's the only one who can stop this, and you are the only one who can give him the chance to do what he believes in.
+not_available Give him that chance.
+not_available Ask yourself what Wayne would want you to do.
+not_available I'll talk to Dr Welton.
+not_available God forgive me if I'm wrong.
+not_available USS Vickery has been detached from carrier group Falcon, which is on patrol in the region.
+not_available The Vickery will reach launch position in 40 minutes.
+not_available So in less than an hour we'll have made our point to the enemy? Yes, Mr Vice President.
+not_available The B611 short
+not_available range tactical warhead has a blast yield of 300 kilotons.
+not_available The message will be loud and clear.
+not_available Very good, Admiral.
+not_available Exemplary.
+not_available Tom, give us the damage and casualty estimates you got from COMPLAN.
+not_available Tom? 
+not_available I'm sorry, sir.
+not_available Is there a problem? 
+not_available No, no, no.
+not_available This projection is, of course, based on theoretical models generated at our nuclear facility in Alamogordo.
+not_available COMPLAN estimates a high range of general damage by zone, as well as multiple casualty numbers based on various climate models.
+not_available Now, should the 
+not_available I'm sorry, Tom.
+not_available I need to step out for a minute.
+not_available Carry on with the briefing.
+not_available Right.
+not_available Should the enemy mount a response, the potential does exist for the US to be drawn into a conflict in which What does this mean? They're taking him out of the coma? Apparently Sandra Palmer gave her consent a few minutes ago.
+not_available This is Karen Hayes.
+not_available I don't know, sir.
+not_available I only found out about this because I have a source inside the medical bay.
+not_available Put me through to Dr Welton.
+not_available Right away.
+not_available I've cut the pentobarbital drip, his metabolic rate's up.
+not_available He's breathing on his own.
+not_available What about the swelling in his brain? 
+not_available No sign of intracranial hypertension, but it's still too early to know when or even if he'll regain consciousness.
+not_available Dr Welton, Vice President Daniels on line one.
+not_available It's urgent.
+not_available Dr Welton, what are you going to tell him? The truth.
+not_available Mr Vice President, this is Dr Welton.
+not_available I'm told you're trying to rouse the president out of his coma? 
+not_available That's correct, sir.
+not_available I thought you induced it to save his life.
+not_available Treating patients with head trauma is a fluid process.
+not_available It sounds to me like you're risking the life of the president.
+not_available With care, we can minimize that risk.
+not_available Let's cut the crap, Doctor.
+not_available Sir? We know why Sandra Palmer wants her brother conscious.
+not_available She's trying to subvert my policy.
+not_available Policy's not my concern.
+not_available I think you're concerned and that you agree with what she's doing, and you're willing to risk the life of the president to get it done! So if you don't stop now, I will compel you to stop! With all due respect, the president's treatment is not 
+not_available You'll do what I tell you.
+not_available No, sir.
+not_available I'm sorry, I will not.
+not_available I am required to follow the wishes of Sandra Palmer.
+not_available You're free to take up your concerns with her.
+not_available If the president dies or suffers any damage from your actions, I will nail your ass to the wall.
+not_available Do you understand me? Perfectly, sir.
+not_available Chloe, I need that photo.
+not_available I need it now.
+not_available Sending now, Jack.
+not_available Team B, advise when you're in position.
+not_available Copy, sir.
+not_available Team B in position.
+not_available Copy that.
+not_available I've got a positive ID.
+not_available Move in on the house now.
+not_available All teams go.
+not_available Move in.
+not_available Federal agent.
+not_available Down on the floor! Mark! Don't move! 
+not_available Put him in the chair.
+not_available Mark.
+not_available Mark.
+not_available Mark.
+not_available Mark.
+not_available Mark! 
+not_available It's clear.
+not_available Take him to the living room.
+not_available He doesn't know anything! Shut up! 
+not_available Mark.
+not_available Mark.
+not_available He's bleeding.
+not_available He needs to go to hospital.
+not_available We don't have time.
+not_available Stabilize him.
+not_available Mark! Mark! Mark! 
+not_available Let me have the room.
+not_available I know you're scared right now, but everything's gonna be OK.
+not_available I wanna see my brother.
+not_available I'll let you see him, but I need to ask you some questions.
+not_available I'm not allowed.
+not_available You're not allowed? Why? 
+not_available Mark says don't talk to strangers.
+not_available I'm not a stranger.
+not_available I'm a police officer.
+not_available You can talk to me.
+not_available It's all right.
+not_available My name is Jack Bauer.
+not_available What's yours? 
+not_available Brady.
+not_available Brady.
+not_available When we came in, you were working on your computer.
+not_available What were you working on? 
+not_available Getting files.
+not_available What kind of files? I don't know.
+not_available Mark asked me to get through the IBC firewall to set up a proxy server port.
+not_available Oh.
+not_available Can I see him now? Soon.
+not_available I'm gonna talk to him first, and then you can see him, OK? You're doing great, Brady.
+not_available Stay with him.
+not_available Yes, sir.
+not_available You were paid to give Gredenko information.
+not_available You used your brother to get it, now he's in trouble.
+not_available My brother's got nothing to do with this.
+not_available That's not what he told me.
+not_available He doesn't know what he's doing.
+not_available That's not how the Justice Department will see it.
+not_available They'll prosecute him for treason.
+not_available I'll help your brother, cos we both know he didn't understand what he was doing, but you're gonna have to give me Gredenko.
+not_available What kind of information were you selling him? 
+not_available Security specs.
+not_available What security specs? The Edgemont nuclear power plant.
+not_available Bill, this is Connell Johnson.
+not_available He's on loan from District.
+not_available We swept the drone pilot's system.
+not_available Most of the files are encrypted.
+not_available Our digital forensics people are waiting.
+not_available We'll see what we can find.
+not_available Got anything more from Nadia? 
+not_available She still claims she was set up.
+not_available Is she in the building? 
+not_available Yes, she's being transferred.
+not_available Why? 
+not_available Just curious.
+not_available Sir, Jack's on line two.
+not_available He's got Hauser.
+not_available Jack? 
+not_available Bill.
+not_available Hauser sold Gredenko security specs for Edgemont nuclear power facility.
+not_available Does Gredenko have them? 
+not_available He picks them up in 20 minutes.
+not_available Can your team handle the grab? 
+not_available We have a situation.
+not_available Hauser was wounded, but he's got a brother.
+not_available We're gonna use him for the transaction.
+not_available It's the best shot we've got to get Gredenko alive.
+not_available I'll get back to you soon.
+not_available Brady, we need to talk.
+not_available Are you really a policeman? Yeah.
+not_available Then my brother did something wrong.
+not_available He's made some mistakes, but he's helping us fix them.
+not_available Everyone makes mistakes.
+not_available I make mistakes all the time.
+not_available And you try and fix them, right? 
+not_available Yeah.
+not_available That's what your brother's trying to do, but he needs your help.
+not_available Why don't we go talk to him? 
+not_available OK.
+not_available Come on, let's go.
+not_available Mark.
+not_available Mark.
+not_available It's OK, Brady.
+not_available It's OK.
+not_available It's not as bad as it looks.
+not_available They're taking me to the hospital.
+not_available I wanna go with you.
+not_available You need to stay with them.
+not_available Don't leave me alone.
+not_available Listen to me, Brady! Listen.
+not_available You need to do whatever this man tells you to do.
+not_available You'll be fine.
+not_available Who takes care of you, Brady? 
+not_available You do, Mark.
+not_available That's right.
+not_available So you need to trust me when I tell you you'll be fine.
+not_available He'll take care of you.
+not_available OK? OK.
+not_available Let's make the call.
+not_available Yes? 
+not_available It's Hauser.
+not_available I have the protocols, but there's a problem.
+not_available A problem? My supervisor wants me to come in.
+not_available I'll be there in 20 minutes.
+not_available He wants me at the office now.
+not_available If I'm not there in ten minutes, the protocols will default and need downloading again.
+not_available I need those protocols.
+not_available I can leave them with my brother.
+not_available Brady? Unless you wanna wait for me to get back from the office.
+not_available I don't have time.
+not_available Have your brother meet me in the parking lot across the street.
+not_available He'll be there.
+not_available Goodbye.
+not_available The parking lot across the street, 20 minutes.
+not_available He needs to get to a hospital now.
+not_available Take him.
+not_available Mark.
+not_available Mark.
+not_available Brady.
+not_available It's all right, it's all right.
+not_available We're gonna take care of him.
+not_available I promise.
+not_available Right now I need you to listen to me very carefully, just like your brother told you to, OK? OK.
+not_available Milo Pressman? Connell Johnson.
+not_available I'm on loan from District.
+not_available Data forensics.
+not_available Yeah, we crossed paths in Denver.
+not_available That's right, we did.
+not_available What can I do for you? 
+not_available I hear you and Nadia Yassir are friends.
+not_available Yeah.
+not_available Why do you ask? 
+not_available I came across evidence that proves Nadia's innocent.
+not_available Explain.
+not_available She wasn't streaming intel.
+not_available Her system was breached.
+not_available Where is this evidence? 
+not_available Ask Doyle.
+not_available Doyle? 
+not_available I hate to rat, but I didn't know where to go.
+not_available I gave him the evidence at the crime scene and he still hasn't logged it in.
+not_available What did you do?! Are you crazy? Milo, that's enough! Tell him! He's got evidence that Nadia's innocent! Is this true? 
+not_available Yeah.
+not_available And he buried it to save his own ass.
+not_available He didn't bury it.
+not_available Milo, he didn't.
+not_available It's a remote access module that breached Nadia's computer.
+not_available He gave it to me ten minutes ago.
+not_available Why didn't you tell us about this? I got it from an unreliable source.
+not_available I wanted to make sure it was real before I submitted it.
+not_available I ran a verification scan.
+not_available It's definitely real and Nadia is definitely innocent.
+not_available I'll review the evidence.
+not_available If it's true, I'll release Nadia.
+not_available In the meantime, go back to work.
+not_available Come with me, Morris.
+not_available Doyle I owe you an apology.
+not_available It's not your fault.
+not_available Still.
+not_available Milo, forget about it.
+not_available Johnson.
+not_available You've screwed with the wrong guy for the last time, pal.
+not_available Uncuff her.
+not_available Excuse us, please.
+not_available We found evidence at the switching station.
+not_available It proves your computer was breached from an outside source.
+not_available You're cleared, Nadia.
+not_available I'm sorry this happened.
+not_available So am I.
+not_available Your first impulse will be to quit.
+not_available Take legal action.
+not_available I don't blame you.
+not_available That's what I'd do.
+not_available But I'm asking you to stay.
+not_available This crisis is far from over.
+not_available We can't afford to lose our best people.
+not_available We need you, Nadia.
+not_available I'll stay.
+not_available Milo's setting up your work station now.
+not_available I sent the assault vectors.
+not_available Nadia is good to go.
+not_available Thank you.
+not_available We all thought she was guilty.
+not_available This is gonna be awkward.
+not_available Yeah.
+not_available Especially for you.
+not_available Why especially for me? Your feelings for Nadia aren't exactly a big secret.
+not_available Thank you for pointing that out.
+not_available Your station's all set.
+not_available Comm's up.
+not_available You have full security access to the subnet.
+not_available Thanks.
+not_available Listen, Nadia I don't have time for a heartto
+not_available heart.
+not_available I've got a lot of catching up to do.
+not_available Excuse me.
+not_available I understand that.
+not_available Nadia, wait.
+not_available Dammit, you're not gonna make this easy for me, are you? You know what? I am.
+not_available Whatever you thought might happen between us, you can forget it.
+not_available That's not fair.
+not_available I don't blame you for suspecting me.
+not_available But you have to admit, this is not the best place to start a relationship.
+not_available You're probably right.
+not_available But I still wanted to say I'm sorry.
+not_available You said it.
+not_available I should get to work.
+not_available Here.
+not_available Thanks.
+not_available We haven't heard from Dr Welton.
+not_available He's been giving us regular updates.
+not_available I'm sure if there was something to report, we would've heard from him.
+not_available Gosh, I've never been good at waiting for anything.
+not_available David had the patience of Job, but not me.
+not_available Wayne is always somewhere in between.
+not_available We have a decision to make.
+not_available What is it? 
+not_available There's an increase in intracranial swelling.
+not_available How serious is it? It's not life
+not_available threatening yet, but if it continues, it could cause permanent brain damage.
+not_available I suggest we re
+not_available induce the coma.
+not_available No.
+not_available You understand the danger? 
+not_available But there's a chance he'd be OK? Yes, there is a chance.
+not_available Well, even if it's a small chance for Wayne to stop Daniels, then it's worth the risk.
+not_available I know Wayne would wanna see this through.
+not_available Dr Welton, you need to come quickly.
+not_available He's crashing.
+not_available Get a code team in here right away.
+not_available Wait outside.
+not_available Code team to one.
+not_available Code team to one, stat.
+not_available Let's get a crash cart in here.
+not_available The teams are in position.
+not_available You sure he can do this? He just needs to get Gredenko out of his car.
+not_available We don't have another option.
+not_available Just tell Charlie team they've got one shot at this.
+not_available Dammit.
+not_available Brady, I need you to wear one of these.
+not_available So we can talk to each other.
+not_available This way you'll be able to hear me and I can hear you.
+not_available I need to put it in your ear.
+not_available Will it hurt? No.
+not_available No, I promise.
+not_available See? Now I'm gonna talk you through this.
+not_available But we don't want Mr Gredenko to know that you can hear me, so we have to pretend that you can't, you understand? Yeah.
+not_available Good.
+not_available You're gonna give him this.
+not_available He's gonna meet you in the parking lot.
+not_available I want you to stand on the sidewalk.
+not_available That's your position.
+not_available OK.
+not_available We're set.
+not_available We should go now.
+not_available You don't need to be scared, Brady.
+not_available I'm gonna watch you the whole time and I'm gonna hear everything that you say.
+not_available Go to your position.
+not_available Remember your position? 
+not_available Yeah, I'll go to my position.
+not_available OK.
+not_available Teams, report in.
+not_available Alpha team in position.
+not_available Bravo team in position.
+not_available Charlie team in position.
+not_available Charlie team, you are responsible for taking out Gredenko with the tranquillizer dart.
+not_available Teams A and B, acquire remaining targets.
+not_available Do whatever you have to to protect this kid.
+not_available Brady, it's Jack.
+not_available Can you hear me? 
+not_available I hear you.
+not_available You're doing great.
+not_available When can I see my brother? As soon as this is over.
+not_available I promise.
+not_available OK, OK.
+not_available Good.
+not_available I have a visual on Gredenko's SUV.
+not_available Windows are tinted.
+not_available I can't see who's inside.
+not_available Brady, do you see the car coming towards you? 
+not_available Yeah.
+not_available It's time to get ready.
+not_available I've got a visual on Gredenko.
+not_available Charlie team, take your shot as soon as you've got one.
+not_available Do you have it? 
+not_available Yeah.
+not_available Give it to me.
+not_available I have a negative line of sight.
+not_available Hauser's in the way.
+not_available You look nervous, Brady.
+not_available Why are you so nervous? Gredenko just gave the order to shoot the kid.
+not_available Do you have your shot yet? 
+not_available Negative.
+not_available Hauser's in the way.
+not_available Can you move position? 
+not_available Negative.
+not_available Brady, don't forget to pretend like you can't hear me.
+not_available You're doing great.
+not_available Listen to me carefully.
+not_available When I tell you, I want you to go down to the ground and stay there.
+not_available Wait till I tell you.
+not_available Brady, get down on the ground.
+not_available Brady, get down on the ground.
+not_available All teams, take out your targets.
+not_available All teams, there is a third hostile inside the vehicle.
+not_available All teams hold fire.
+not_available Move in, move in! Brady, are you OK? It's over.
+not_available It's over.
+not_available You did great.
+not_available I want to see my brother? 
+not_available You can see your brother, like I promised.
+not_available Get Gredenko in the house.
+not_available Prep him.
+not_available Advise Buchanan we've got Gredenko and we're prepping him for interrogation.
+not_available Yes, sir.
+not_available Watch your head.
+not_available Brady, this man's gonna look after you.
+not_available He's gonna take you to see your brother.
+not_available I wanna see my brother.
+not_available Yeah.
+not_available You did great.
+not_available Thank you.
+not_available OK.
+not_available We searched Gredenko's vehicle.
+not_available No sign of the bombs.
+not_available Is he conscious yet? 
+not_available Yes.
+not_available You want help with him? No.
+not_available You know who I am.
+not_available I know all about you, Agent Bauer.
+not_available Then you know what I'm gonna do to you, unless you tell me where the bombs are.
+not_available And when I'm finished, I'm gonna put you on the fastest plane we've got back to Russia.
+not_available I don't think President Suvarov's gonna be too happy to see you.
+not_available Fayed has the bombs.
+not_available Where is he? I don't know, but I can help you find him.
+not_available I'm listening.
+not_available I came here to get security specs for the Edgemont nuclear power plant.
+not_available That's your next target? 
+not_available Yes.
+not_available Fayed's waiting for my call.
+not_available Make the call.
+not_available No.
+not_available First, my terms.
+not_available Amnesty from your government and a guarantee I won't be returned to Russia.
+not_available What? I'm offering you Fayed.
+not_available What's the problem? I'm not a martyr, I'm a soldier and realist.
+not_available If I don't call him soon, Fayed will get suspicious.
+not_available Admiral, is the Vickery ready to launch? 
+not_available It's seconds from optimal launch position.
+not_available Good.
+not_available Mr Vice President, I just spoke to Bill Buchanan at CTU.
+not_available They've taken Gredenko into custody.
+not_available Jack Bauer is questioning him now.
+not_available Does Bill think it could lead to something? 
+not_available He's confident Bauer's the man for it.
+not_available And he's hoping they get the answers they need.
+not_available I hope his confidence is justified.
+not_available Sir, the Vickery's in position.
+not_available They're standing by.
+not_available Proceed with the strike.
+not_available Mr Vice President, if I may, in light of the developments at CTU, do we not wanna delay this launch and see what Bauer gets out of Gredenko? I'm not gonna delay our response based on what Gredenko may or may not reveal.
+not_available If Gredenko gives up the bombs, that is the desired result.
+not_available Then we can consider this strike as retaliation for American lives already lost! A reminder to the world there are consequences to attacking our country.
+not_available Admiral Smith, proceed with the launch.
+not_available Yes, Mr Vice President.
+not_available Sir, the Vickeryjust received a message over the COMPLAN subnet.
+not_available They've been ordered to stand down.
+not_available What the hell are you talking about? Who gave this order? President Palmer, sir.
+not_available President Palmer? 
+not_available Conference Room, Lisa Miller.
+not_available Urgent call for the vice president.
+not_available One moment.
+not_available It's for you, sir.
+not_available Yes? Noah, it's Wayne.
+not_available Mr President, it is an incredible relief to hear your voice.
+not_available To be frank, it's a surprise.
+not_available I've called off the strike, Noah.
+not_available We just received word.
+not_available Sir, this action is a product of careful deliberation between myself and the Joint Chiefs.
+not_available Yeah, well, be that as it may, the decision is mine and mine alone.
+not_available I'm resuming my duties as commander in chief.
+not_available Inform Admiral Smith and the others there's to be no action without my authorisation.
+not_available Is that understood? 
+not_available Understood, Mr President.
+not_available Good.
+not_available It's apparent to me that the president is still suffering the effects from the attack on his life.
+not_available He's not thinking clearly and, in my judgment, he's not capable of discharging his duties.
+not_available I can't let him remain in power.
+not_available Get me the attorney general.
