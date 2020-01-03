@@ -1,0 +1,642 @@
+
+not_available Five power plants are ready to melt down.
+not_available AII I care about is making sure that doesn't happen.
+not_available Your name is on a lease on a building in Chatsworth that was used to plan the attack.
+not_available That makes you a prime suspect.
+not_available I don't know about that building.
+not_available I don't believe you.
+not_available Jack, please don't.
+not_available I don't know the specific building you're talking about.
+not_available I can find out.
+not_available How? My corporate records are stored on my laptop.
+not_available Here it is.
+not_available It's Harris Barnes.
+not_available Interpol traced the name and listed foreign nationals who have used it.
+not_available Who used it most recently? 
+not_available A man named Habib Marwan.
+not_available We need to find him.
+not_available I think we have.
+not_available You OK? 
+not_available Yeah.
+not_available I overheard a phone conversation.
+not_available We have less than 15 minutes.
+not_available Have your men secure the floor.
+not_available Curtis and I are going after the override.
+not_available Stay down! Stay down.
+not_available Marwan is impersonating a CTU officer.
+not_available I repeat, the suspect is impersonating a CTU officer.
+not_available Edgar! Line one.
+not_available Curtis has the override.
+not_available The override logged in? 
+not_available Yes.
+not_available Good.
+not_available Send it to channel 11.
+not_available Hurry up.
+not_available They're starting to respond.
+not_available It's working, Edgar.
+not_available Yes! Yes! The temperature is dropping in all remaining power plants.
+not_available Congratulations, Edgar.
+not_available Ms Driscoll? It's about Maya.
+not_available You'd better go down to the clinic right away.
+not_available Maya? Oh! Oh! Oh, baby! No! 
+not_available I got new intel.
+not_available What? The man you're looking for, Habib Marwan, works for McLennan
+not_available Forster.
+not_available But they made the override.
+not_available He's working under the alias Harris Barnes.
+not_available They had no reason to suspect.
+not_available He positioned himself inside the company so he could use their technology.
+not_available Tell 'em to freeze Marwan's personal files.
+not_available I did.
+not_available You want me to send a comm team over? 
+not_available No, we're closer.
+not_available Jack or I'll go.
+not_available Sure.
+not_available Marwan was in the building within the last 15 minutes.
+not_available I want perimeters here, roadblocks in every direction.
+not_available Done.
+not_available Jack.
+not_available I just got off with CTU.
+not_available Marwan worked for McLennan
+not_available Forster under an alias, Harris Barnes.
+not_available I told CTU we'd check it out.
+not_available OK.
+not_available Take Paul and Audrey back to CTU.
+not_available I'll be on my cell.
+not_available Castle'll stay in charge here.
+not_available If he's in the area, our teams will pick him up.
+not_available Curtis will take you back to CTU.
+not_available What about you? I have to go to McLennan
+not_available Forster.
+not_available Why there? Turns out the man we're looking for works there.
+not_available Need to get into their computer system? 
+not_available Yeah.
+not_available OK.
+not_available I'll go with you.
+not_available Why? 
+not_available My company sold them their IT system.
+not_available I designed the database.
+not_available It's encoded with military security.
+not_available McLennan
+not_available Forster has personnel that can get into his files.
+not_available Yeah, well, I can get you in back doors those people don't even know about.
+not_available Fine.
+not_available You go with me.
+not_available Audrey, I want you to stay with Curtis.
+not_available I'll be on my cell.
+not_available Let's go.
+not_available Stop.
+not_available Goodbye, baby girl.
+not_available OK.
+not_available I'II let everyone here know.
+not_available Yeah, thanks, Nat.
+not_available Let everyone know what? Driscoll's daughter committed suicide in our clinic.
+not_available How did she do that? 
+not_available She slit her wrists.
+not_available Doesn't make sense.
+not_available She was watched.
+not_available I don't know, Edgar.
+not_available I wasn't there.
+not_available I was just thinking out loud.
+not_available You don't have to be so hostile.
+not_available Excuse me, Mr.
+not_available Secretary.
+not_available Where's Driscoll? The president's about to come on.
+not_available Something terrible just happened, sir.
+not_available What's that? Ms Driscoll's daughter Maya committed suicide in our clinic 15 minutes ago.
+not_available Apparently the doctor walked in and she Erin.
+not_available Sarah just told me.
+not_available I am so sorry.
+not_available Thank you, sir.
+not_available Go back to the floor, Sarah.
+not_available Yes, ma'am.
+not_available Erin, you do not need to be here.
+not_available Where should I be, sir? We're still in crisis mode.
+not_available Habib Marwan is still out there, and we've no idea how many other cells he might activate.
+not_available For God's sake, Erin 
+not_available Our systems are in a transition state that require my constant attention.
+not_available I'm not in denial about my daughter's death, nor am I in shock.
+not_available I can perform my duties until you find a suitable replacement for me.
+not_available Ms Driscoll? The president's coming on now.
+not_available Thank you, William.
+not_available Jim? Erin? First, I want to express my deep gratitude for what you've accomplished so far today.
+not_available Wresting back control of the override has saved thousands of American lives.
+not_available And the latest NRC report is that the San Gabriel Island meltdown is under control.
+not_available That's great news.
+not_available But has your staff informed you that we still have a few problems to deal with? Yes, and that's why I'm calling you.
+not_available The man responsible for today's attack is still at large.
+not_available Yes, sir, he is.
+not_available His name is Habib Marwan.
+not_available He's been a long
+not_available term employee of a major defense contractor.
+not_available Yes, I heard.
+not_available McLennan
+not_available Forster.
+not_available This Habib Marwan Do you believe melting down the reactors was his endgame, or something else? As long as he's out there, we have to assume it's not over.
+not_available Erin, exactly where are we on apprehending this man? All our resources are being deployed to that end right now.
+not_available I'll have more information&lt; once I've been briefed by my staff.
+not_available But we know Marwan's in Los Angeles, and we will find him.
+not_available As Harris Barnes, Marwan worked at McLennan
+not_available Forster for two years as engineer.
+not_available His most recent project was design and development of the override.
+not_available Before that? 
+not_available Here's the timeline we pieced together.
+not_available He went to graduate school in England, worked for a company outside London.
+not_available It's not clear whether he was radicalized there or before.
+not_available The one thing we know is that from the day he arrived in the US, everything he did was about today.
+not_available What were his other duties? We don't know yet.
+not_available We're taking a first pass at his records.
+not_available I'm looking into the possibility that he used McLennan
+not_available Forster to recruit sleeper cells.
+not_available That brings up another issue.
+not_available We have over I'm just wondering if we shouldn't divert part of that to try to root out these other cells.
+not_available Erin? 
+not_available I'm sorry.
+not_available What was the question? Do you think we should reduce the field load on Marwan? How about we take some people off Marwan, but still keep a floor of 60% looking for him? Would that work? Yes.
+not_available That would work.
+not_available OK.
+not_available I want you to relocate personnel.
+not_available Based on what? People who've come in the last six hours work on Marwan.
+not_available I want alert people on him.
+not_available Are we gonna ignore what just happened? What do you mean? 
+not_available Erin.
+not_available She shouldn't be running this place.
+not_available Her daughter died a few minutes ago.
+not_available Give her time.
+not_available Time? Edgar, since when did we have the luxury of time? 
+not_available She knows what's at stake here.
+not_available You're right.
+not_available We don't have time.
+not_available We have work to do.
+not_available It does not include deciding Erin's fate.
+not_available I think we have to tell Secretary Heller.
+not_available No, we don't.
+not_available Not yet.
+not_available Let's get back on it.
+not_available Hey.
+not_available Where are you? 
+not_available Curtis and I just arrived at CTU.
+not_available Listen, get a security detail, go back to the hotel and get some rest.
+not_available Jack, I can't leave.
+not_available My father needs my help.
+not_available Are you at McLennanForster yet? 
+not_available Almost.
+not_available Jack, can you make me a promise? What? 
+not_available Take care of Paul.
+not_available He's not like you.
+not_available Please, Jack, promise me that you will look after him.
+not_available Yeah, I will.
+not_available Thank you.
+not_available Yeah, OK.
+not_available I'll talk to you later.
+not_available All right.
+not_available Bye.
+not_available Look, uh I don't resent you.
+not_available Well, I wouldn't blame you if you did.
+not_available No, uh You didn't steal my wife.
+not_available We were separated.
+not_available That's fair.
+not_available But I'm not gonna let you take her from me.
+not_available I don't think that's really up to you.
+not_available Or me.
+not_available No, maybe it isn't.
+not_available But she still has feelings for me, I can hear it in her voice.
+not_available I'll fight to keep those feelings alive.
+not_available Well, Paul, you're gonna have to do what you gotta do.
+not_available None of our field agents at the Rockland building have picked up a thread on Marwan.
+not_available It looks like he might have escaped.
+not_available So I think we have to assume he's going to activate these sleeper cells.
+not_available I agree.
+not_available He'll most likely launch a strike right away, create fear that we're still vulnerable.
+not_available You'll have to excuse me, I'm not feeling very well.
+not_available Erin! Sit down.
+not_available You all right? 
+not_available Clinic.
+not_available Get me medical.
+not_available Erin needs assistance.
+not_available No, I'm fine.
+not_available I don't need anybody.
+not_available I just got a little light
+not_available headed for a second there.
+not_available Ms Driscoll 
+not_available I don't need you here.
+not_available I was dizzy, but I feel better.
+not_available Take a break.
+not_available Get something to eat.
+not_available Take Ms Driscoll and get her some food.
+not_available I can handle the situation here while you rest.
+not_available Come on.
+not_available All right.
+not_available It's probably a good idea.
+not_available She's gonna need to be relieved of duty.
+not_available Contact Division.
+not_available Alert them to the situation and tell them to send someone.
+not_available I ran this office for two years.
+not_available I could take over for Erin on a provisional basis.
+not_available Forget for the moment that you technically don't even work here.
+not_available You've been away a while.
+not_available You're not fluent with the new systems.
+not_available With all due respect, sir, you don't need a programmer.
+not_available You need a decision maker who can stack up protocols.
+not_available And you can do that? Yes, sir.
+not_available I can.
+not_available Fine.
+not_available Effective immediately, you're the interim director of CTU Los Angeles under my authority.
+not_available I still want to contact District, have them send someone on a more permanent basis.
+not_available I understand, sir.
+not_available Do you have the abstract on McLennan
+not_available Forster? One second.
+not_available I'm finishing it now.
+not_available All right.
+not_available McLennan
+not_available Forster was a principal contractor in the design of the override.
+not_available And Marwan, under the alias of Harris Barnes, had full security access on that project.
+not_available You ran FBI checks on the others involved? Yes.
+not_available They came up clean.
+not_available We're dealing with a terrorist who had inside access to a defense contractor.
+not_available Actually, more than that.
+not_available McLennan
+not_available Forster, in addition to weapons manufacture, trains their clients to use those weapons.
+not_available International clients? 
+not_available Yes.
+not_available Several countries in the Balkans, Asia, and the Middle East.
+not_available This is a messy situation.
+not_available When Jack gets to McLennan
+not_available Forster, he has to get into company records and find out who Marwan dealt with.
+not_available It's not gonna be that easy.
+not_available This reflects on them.
+not_available They'll be reluctant to give incriminating information.
+not_available Even if Marwan were the only guilty party.
+not_available Mr.
+not_available McLennan, we need to talk before CTU gets here.
+not_available What's the problem? 
+not_available It was more than a coincidence that one of our products, the override, was stolen and used in today's terrorist attack.
+not_available What do you mean, "more than a coincidence"? The entire operation, from Secretary Heller's kidnapping to the meltdown of San Gabriel Island, was organized by one of our own employees.
+not_available What are you talking about? One of our engineers, who we now know is a terrorist named Habib Marwan, was running a covert organization 
+not_available from within our company.
+not_available When did you find this out? Couple of minutes ago they called.
+not_available One of our employees, Harris Barnes, was actually Habib Marwan.
+not_available Who else knows about this? 
+not_available Just the two of us.
+not_available And Conlon.
+not_available Gentlemen.
+not_available I'm David Conlon, VP of internal security.
+not_available Jack Bauer, with CTU.
+not_available This is Paul Raines.
+not_available Jack, Paul.
+not_available How can I help you? I need to speak with Gene McLennan.
+not_available Gene's in a meeting right now, and he asked me to assist you.
+not_available I have access to everything.
+not_available My office didn't make itself clear.
+not_available This is a matter of national security.
+not_available I need to speak with Mr.
+not_available McLennan now.
+not_available I understand.
+not_available Let me see what I can do.
+not_available What's the matter? 
+not_available Something's not right.
+not_available John, I'm not gonna keep this a secret.
+not_available We have to let the government know right away.
+not_available Sir! if you do this, it will, with 100% certainty, be the end of this company.
+not_available Now, you built McLennan
+not_available Forster.
+not_available Everything you have is tied up in it.
+not_available If this comes out, you'll be synonymous with what happened.
+not_available Terrorism.
+not_available Treason.
+not_available What do you want me to do? Lie to the government? If I knew 24 hours ago what I know now, I'd have done whatever it took to stop the attack.
+not_available But there's nothing we can do now.
+not_available Except protect ourselves.
+not_available And keep this company from going under, as it will if CTU find out the truth about Marwan.
+not_available John, CTU will subpoena the file.
+not_available They will find out the truth.
+not_available No, they won't, Gene.
+not_available I promise you.
+not_available Conlon and I can deal with this.
+not_available If you let us.
+not_available I don't like the sound of this.
+not_available Mr.
+not_available McLennan, we implicitly violated national security procedure.
+not_available This could mean prison time.
+not_available We've got to protect ourselves.
+not_available Did you get the latest casualty figures? 
+not_available No, not yet.
+not_available Which version of the Datalink security system are you running? Excuse me? My company produces firmware for Datalink.
+not_available We installed your system.
+not_available Are you at 3.4 or 3.5? Uh, 3.5.
+not_available Does that work for you? Yeah.
+not_available Thanks.
+not_available Dave.
+not_available Come on in.
+not_available John Reiss, chief technology officer.
+not_available You helped us identify the override.
+not_available Jack Bauer.
+not_available It's good to meet you.
+not_available I'm Gene McLennan.
+not_available I'm, uh, sorry I was delayed.
+not_available Well, thank you for your time, sir.
+not_available So how can I help CTU? One of your employees, Harris Barnes, is actually Habib Marwan, a terrorist responsible for today's attack and theft of the override.
+not_available We need you to take your IT systems offline so Paul can look into his directory.
+not_available We can do that.
+not_available Can't we, John? Absolutely.
+not_available Uh, follow me.
+not_available Thank you, sir.
+not_available Certainly.
+not_available Maybe you should go home.
+not_available I'm afraid to.
+not_available When my wife, Susan, died, I didn't deal with it at all.
+not_available Actually, I went to work the next day.
+not_available I remember thinking to myself, "That's life.
+not_available " "Quit feeling sorry for yourself, get over it and get on with it.
+not_available " A few weeks later I answered a call from an old friend of Susan's who did not know she had died.
+not_available And when I heard myself saying: "Susan has passed away", when I actually said those words, it hit me.
+not_available All the pain I was trying to shut out just overwhelmed me.
+not_available Erin, you can't keep it inside.
+not_available You cry, you blame God, you blame yourself, and then you cry some more.
+not_available And all the while you let your friends help you.
+not_available It's pretty simple.
+not_available But very painful.
+not_available And I am so, so sorry for you.
+not_available Dad, I just wanted Oh.
+not_available Um Uh, I'm sorry.
+not_available I I just wanted to let you know that I was back.
+not_available I will go home.
+not_available You should go and make sure your daughter's OK.
+not_available If you need me, I'll be on the floor.
+not_available Excuse me, sir.
+not_available Tony just told me you put him in charge of CTU? That's correct.
+not_available That doesn't make sense.
+not_available He just got reinstated, I'm second in command.
+not_available Tony had Erin's job.
+not_available He has experience running CTU.
+not_available You don't.
+not_available With all due respect Relax, Curtis.
+not_available It's provisional, till District finds someone.
+not_available For the record, I don't like it.
+not_available What do you hear from Bauer? He just arrived at McLennan
+not_available Forster.
+not_available He'll call if he picks up any threads.
+not_available OK, that was Marwan's work station in the corner.
+not_available His computer is tied into the engineering subnet.
+not_available What about the rest of the network? Can we get into it from his account? Yeah, I think there's a way to do that.
+not_available One window shows you his system files, the other gets you outside the subnet.
+not_available Thanks.
+not_available Let me know if you need anything.
+not_available Thanks for your help.
+not_available This guy looks like he knows his way around our system.
+not_available Don't worry.
+not_available I'll be able to control things from here.
+not_available He won't find a thing.
+not_available Marwan purged a lot of files.
+not_available When? 
+not_available Deletion dates aren't coming up.
+not_available That means they could have been deleted today.
+not_available Marwan wasn't here today.
+not_available He was at Rockland, with the override.
+not_available Maybe someone else deleted the files.
+not_available There.
+not_available All right.
+not_available Let me see what I can find.
+not_available Yeah? 
+not_available I had to open up a socket for him.
+not_available I can see it.
+not_available Are they gonna be able to find anything? As long as I can stay ahead of him, I should be able to delete the incriminating files.
+not_available All right.
+not_available I'm coming up.
+not_available What if you can't stay ahead of him? What happens then? 
+not_available There are other options.
+not_available What options? We'll set off an EMP.
+not_available A pulse bomb? Are you out of your mind? It'll destroy every piece of hardware we have.
+not_available It'll cripple us electronically.
+not_available That's the point.
+not_available This is the handover sequence for comm.
+not_available I left the default password in place.
+not_available You can reset it as soon as we're done here.
+not_available All right.
+not_available Here are all the access codes to CTU and Division.
+not_available Thanks.
+not_available If any of my personal stuff gets in your way, have someone box them and put them into storage.
+not_available All right.
+not_available If you need anything, ask Curtis.
+not_available And if he can't help you, you can always call me at home.
+not_available Thanks.
+not_available Could I have everybody's attention, please? By now, you know that I've taken over Erin Driscoll's command, on a purely provisional basis.
+not_available All protocols remain the same.
+not_available But I want updates from all department heads every 15 minutes.
+not_available Other than that, I'm just here to support you.
+not_available So let's get back to work.
+not_available Hear from Jack? 
+not_available They're looking through Marwan's files.
+not_available Any promising leads? 
+not_available Nothing yet.
+not_available Right.
+not_available Look, Edgar, before Erin left she told me the one person I should rely on is you.
+not_available She said that? 
+not_available Yes, she did.
+not_available So anything you think is important, I want you to bring it to me directly.
+not_available Right? 
+not_available You got it.
+not_available All right.
+not_available Thanks.
+not_available Have you scanned satellite imagery around the Rockland building? 
+not_available Everything since the override takedown.
+not_available All right.
+not_available I want you to try different frequency channels.
+not_available Manually? 
+not_available Yeah.
+not_available Only way we can be sure to see it all.
+not_available I'll have to talk to Tony.
+not_available I'm supposed to be backing up Jack and Paul.
+not_available Put somebody else on that.
+not_available This is more important.
+not_available What's more important? We've got 75% of our people on McLennan
+not_available Forster.
+not_available I need Edgar to find a thread on Marwan.
+not_available No, we don't have much chance by satellite.
+not_available Our best chance is through those files.
+not_available Stay on that.
+not_available We can't afford one securitygrade analyst? 
+not_available One, but not Edgar.
+not_available Put somebody else on it.
+not_available Tony.
+not_available Are we trying to accomplish the same thing? Or is this you establishing position? I don't have to establish position.
+not_available I've already got it.
+not_available Now, what do you say we stop wasting time arm
+not_available wrestling here? I respect your opinion.
+not_available But we'll disagree, and when we do, we're gonna do it my way.
+not_available Fine.
+not_available But I suggest you put manpower into a data search for Marwan.
+not_available All right.
+not_available Grab a couple people from image processing.
+not_available Work the satellites with them.
+not_available Curtis.
+not_available Don't worry.
+not_available I'm gonna be out of here when this crisis is over.
+not_available In the meantime, I want the same thing you do.
+not_available I want to find Habib Marwan.
+not_available All right? Is everything all right? I heard you had a problem.
+not_available CTU got to the override before the other nuclear plants melted down.
+not_available Well, at least you're safe.
+not_available For now.
+not_available But they know who I am.
+not_available They'll be tracking me with everything they've got.
+not_available How does that affect our scheduling? 
+not_available It doesn't.
+not_available Stay on task.
+not_available Make sure everything at the Air Force base is ready.
+not_available I checked in with everyone as of ten minutes ago.
+not_available We're gonna make this thing happen, Habib.
+not_available Now, remember.
+not_available When you're done, get in touch with Prado.
+not_available He'll get you out of the country.
+not_available And you? Go.
+not_available Good.
+not_available What? I can rebuild the files from these empty directories.
+not_available Dammit! 
+not_available What's he doing? He's trying to rebuild the files I deleted.
+not_available How can he do that? 
+not_available I don't know.
+not_available It's not a documented function.
+not_available Must be some hook left in by the designer.
+not_available He's gonna find evidence we sold arms to terrorists.
+not_available Not necessarily.
+not_available The pulse bomb.
+not_available We have to use it now.
+not_available Research.
+not_available Set it off.
+not_available We weren't scheduled for a test.
+not_available This isn't a test.
+not_available Open up the safety chamber and set it off now.
+not_available CTU will know we're trying to hide something.
+not_available Marwan's the suspect.
+not_available They'll assume he was behind it.
+not_available And the damage to the infrastructure? 
+not_available Better than destroying the company.
+not_available It'll take some time, but we can rebuild.
+not_available Yeah? 
+not_available EMP's been activated.
+not_available Shield's open.
+not_available OK.
+not_available Good.
+not_available It's been activated.
+not_available It'll take ten minutes to charge up before its release.
+not_available Edgar? The phone taps you asked for at McLennan
+not_available Forster aren't holding.
+not_available What do you mean? 
+not_available Connection keeps drifting.
+not_available Is there a problem on our end? 
+not_available Check power supply.
+not_available Could be their PBX.
+not_available My God, look at this thing.
+not_available The amplitude is fluctuating like crazy.
+not_available I thought you checked that before? 
+not_available I did.
+not_available It was fine then.
+not_available Let me call Jack.
+not_available The cellular customer is out of range.
+not_available That's weird.
+not_available Customer out of range? McLennan
+not_available Forster.
+not_available I need Jack Bauer.
+not_available He's a CTU agent in Harris Barnes' office.
+not_available I'll transfer you Hello? Hello? What's going on? Cell and land lines around McLennan
+not_available Forster are out.
+not_available Can we use the network to message him? 
+not_available Yeah, the computers haven't been affected.
+not_available Open up a window for me, would you? What the hell's this? I don't know.
+not_available Something's wrong.
+not_available I gotta respond.
+not_available Can you pipe that window over to this computer? Yeah, just give me an Ethernet address.
+not_available I've almost got these files rebuilt.
+not_available Do we have any data points outside? 
+not_available I'm online with the phone company.
+not_available They're getting complaints as far as eight blocks away from the building.
+not_available Have you still got a connection? 
+not_available Yeah, I've got it.
+not_available Look at this.
+not_available Son of a bitch, it's encrypted.
+not_available That's it.
+not_available Print it out, now.
+not_available Now! 
+not_available Dammit! They've got something.
+not_available What? I can't read it.
+not_available How long till it goes off? 
+not_available Any second.
+not_available We're fine.
+not_available He's printing it.
+not_available What are you going to do now? 
+not_available Take care of it.
+not_available I don't believe this.
+not_available We're dealing with an EMP.
+not_available McLennan
+not_available Forster were developing a nonlethal weapon for the military.
+not_available What is it? 
+not_available An electromagnetic pulse bomb.
+not_available Once it goes off, everything within its radius that's electrical gets fried.
+not_available Lights, cars, computers.
+not_available Every piece of electronic data just vanishes forever.
+not_available How long have we got? 
+not_available I don't know.
+not_available Its capacitors are still charging.
+not_available Come on.
+not_available All right, the printer's warming up.
+not_available Sarah, do we have any choppers in that area? Yeah, one.
+not_available If it's in the air when the EMP goes off, that chopper's going down.
+not_available Get 'em out of the area now.
+not_available Edgar, where's this coming from? McLennan
+not_available Forster.
+not_available CTU 3, do you hear me? CTU 3, do you copy? All right.
+not_available This is coming through.
+not_available OK, I'm gonna try and stop it.
+not_available If I don't, take the hard copy, meet me in front of the building.
+not_available Dave, Bauer ran out.
+not_available He must have found out about the EMP.
+not_available CTU agent's heading down towards you.
+not_available Don't let him near it.
+not_available Mr.
+not_available Conlon.
+not_available Is everything all right? As you can see, we're having some problems with the electricity.
+not_available Jack just went to check it out.
+not_available I saw you were printing.
+not_available How'd you know? Well, we were searching the system same time you were.
+not_available Trying to help you guys out.
+not_available Mind if I take a look? 
+not_available Sure.
+not_available It's, uh, just in the printer.
+not_available Conlon, this is Barnet.
+not_available Do you copy? 
+not_available Yeah.
+not_available Two's clear.
+not_available Moving to three.
+not_available All right.
+not_available Oh, my God.
+not_available It's not gonna stop.
+not_available You got nowhere to go, man.
+not_available The doors are locked.
+not_available Where's the printout? Where is it? Come on.
+not_available One of our choppers is down.
+not_available Send medical in now.
+not_available Call all field teams outside the perimeter of the blast.
+not_available We have to find Jack and Paul.
+not_available I'll get back to you.
+not_available OK.
+not_available All right.
+not_available Someone set off an EMP blast in the McLennan
+not_available Forster building.
+not_available We believe Jack and Paul are inside.
+not_available I assume that's a response to us.
+not_available Someone doesn't want us to get Marwan's files.
+not_available Jack was able to pull some info before the blast.
+not_available But we don't know who set it off.
+not_available Excuse me, sir.
+not_available Ms Driscoll's replacement arrived.
+not_available Thank you.
+not_available That was fast.
+not_available We got lucky.
+not_available Division had someone available with the qualifications and CTU experience.
+not_available I understand.
+not_available Tony, thank you for filling in.
+not_available And I'd like you to stick around and assist Ms.
+not_available Dessler.
+not_available I'm sorry, who? Michelle Dessler.
+not_available Do you know her? I used to be married to her.

@@ -1,0 +1,684 @@
+
+not_available The Americans have been able to shut down most of the reactors.
+not_available I'll have to manage the override personally.
+not_available Make sure those six melt down on schedule.
+not_available Is there anything I can do? Take care of your mess.
+not_available I give you my word.
+not_available My wife and son will be dead by the end of this day.
+not_available I'm not afraid of Father.
+not_available You should be.
+not_available He tried to kill me, and then he did this to you.
+not_available You're going to need to set things up on your end.
+not_available All right.
+not_available What do I do? <ix>Divert suspicion.</ix> Someone inside CTU is leaking information to someone on the outside.
+not_available <ix>Ms Driscoll, what's going on?</ix> 
+not_available You're under arrest, Gavin.
+not_available For what? You've been passing classified information.
+not_available Thousands of lives are at stake.
+not_available Where are the people who control the override? I swear I don't know anything.
+not_available Yeah? 
+not_available <ix>We've got a match, Jack.</ix> His name is Henry Powell.
+not_available <ix>He was a computer consultant for McLennan
+not_available Forster.</ix> They designed the device controlling the power plants.
+not_available You're going to fly me out of here.
+not_available Drop the weapon now! Now! Put him in the back.
+not_available He's dead, Jack.
+not_available Dammit! You got the wrong one.
+not_available Sarah's not guilty.
+not_available It's Marianne Taylor.
+not_available You're under arrest.
+not_available Excuse me, Curtis.
+not_available Not now.
+not_available All right.
+not_available Coordinate that with NRC.
+not_available Copy me on sixzero
+not_available Baker.
+not_available Fine.
+not_available I warned you about her.
+not_available What are you talking about? Marianne Taylor.
+not_available I said she was trouble and it was a mistake to let her work here.
+not_available You said you weren't comfortable working with her.
+not_available You didn't say you were having a relationship with a spy.
+not_available How could I have known? Don't play that card with me.
+not_available Fine.
+not_available Then don't have an "I told you so" attitude.
+not_available Now we both have to deal with this.
+not_available Division? That's right.
+not_available They're gonna want a timeline from how Marianne got in here, down to the high
+not_available security files that she was able to access in a very short period of time.
+not_available Can we have a conversation offbook? 
+not_available Go ahead.
+not_available Neither of us should compromise our authority with Division.
+not_available Agree or disagree? 
+not_available Agreed.
+not_available Marianne did an excellent job in establishing her credentials.
+not_available All we need to do is leave out some of the details in how she managed to get in here.
+not_available I don't like anyone holding something over me.
+not_available Neither do I.
+not_available How long will it take you to adjust the files? Two minutes.
+not_available I'll call Division in five.
+not_available Explain to me how this mole, Marianne Taylor, was able to infiltrate CTU.
+not_available We're still investigating.
+not_available Who does she work for? 
+not_available We don't know.
+not_available Find out.
+not_available We will, as soon as she's conscious.
+not_available She's being treated here.
+not_available <ix>Treated for what?</ix> 
+not_available An attempt on her life.
+not_available Who tried to kill her? 
+not_available We don't know that either.
+not_available But whoever it was, they're more than likely connected with the theft of the override.
+not_available Jim, we need to find that override now.
+not_available What's the latest from the NRC? They reported the San Gabriel Island reactor's about to go critical.
+not_available What's the time frame? Meltdown within the hour.
+not_available <ix>We're evacuating the San Gabriel zone.</ix> <ix>The population affected is less than 100,000.
+not_available Hopefully, most are already on the move.</ix> All right.
+not_available Expedite the process as much as you can.
+not_available Yes, sir.
+not_available <ix>Jack?</ix> Erin, Powell's dead.
+not_available He was hit by a sniper when we arrested him.
+not_available <ix>Get anything from him before he was killed?</ix> 
+not_available No.
+not_available But I got his last ten cell phone calls.
+not_available He called two numbers repeatedly.
+not_available We traced one of them to Marianne Taylor.
+not_available Powell was working with Marianne? 
+not_available Apparently.
+not_available What about this other number? 
+not_available Hold on.
+not_available I'm gonna need you to trace it through CTU.
+not_available OK.
+not_available Go ahead.
+not_available I'll get back to you as soon as I've got an ID.
+not_available I'll be standing by.
+not_available Edgar? I need you to run a locate on this number.
+not_available It's a cellular account.
+not_available Location? 
+not_available I need to ping the number.
+not_available How? It has to ring at least four times for triangulation.
+not_available Jameson can have me set up in a couple of minutes.
+not_available Who is it? 
+not_available Navi.
+not_available Navi? What are you doing here? 
+not_available Looking for Dina.
+not_available Why would Dina be here? 
+not_available She hasn't called in the last hour? No.
+not_available What's going on, Navi? Why are you blocking the door? 
+not_available I'm not.
+not_available Let me in.
+not_available She's not here.
+not_available You're lying.
+not_available You're hiding her.
+not_available No, I'm not.
+not_available Navi, no! You have no right to come in here like this.
+not_available She is not here.
+not_available Look.
+not_available That is my bedroom.
+not_available You can't go in there! What's going on here? 
+not_available Nothing.
+not_available It's OK.
+not_available Navi, please.
+not_available Please go.
+not_available This is none of your business.
+not_available Why don't you hike it on out? Please, don't interfere.
+not_available You can either walk out of here or I'm gonna throw you out.
+not_available I said go! 
+not_available No, Navi.
+not_available Please, no! Navi, don't, please.
+not_available Get back inside.
+not_available Navi.
+not_available Don't tell my husband, I beg of you.
+not_available You disgust me.
+not_available Navi Dina's not here.
+not_available What about the hospitals? <ix>Nothing so far.</ix> 
+not_available Keep looking.
+not_available Is it your father? 
+not_available I can't tell.
+not_available Don't answer it.
+not_available We got it.
+not_available Where? 
+not_available A hotel in Chatsworth.
+not_available Download the coordinates to Jack.
+not_available Here's the backup.
+not_available Yeah.
+not_available <ix>We've traced the call.</ix> Hold on a second.
+not_available I got it.
+not_available We're less than ten minutes out.
+not_available <ix>I'll have a tactical team in place.</ix> Thank you.
+not_available The body's by my car.
+not_available He was taken out by a sniper from the roof.
+not_available I want you to take your photographs, get the body back to CTU as fast as possible.
+not_available Come on, Tony.
+not_available We gotta go.
+not_available Wait, Jack.
+not_available Look, I think I'm done here today.
+not_available What are you talking about? CTU backup's here.
+not_available You don't need me any more.
+not_available I need you to see this through with me.
+not_available I appreciate that, but you don't have to prop up my ego.
+not_available This isn't about you.
+not_available If we don't find the override device in an hour, we'll have six nuclear disasters.
+not_available So please, get in the car.
+not_available Let's go.
+not_available Mom, we've got to get you some help.
+not_available I'm OK.
+not_available I'm sorry.
+not_available This is my fault.
+not_available Your father shot me, not you.
+not_available Because you were trying to stop him from killing me.
+not_available Everything that's happening today, what we've all been fighting to achieve, it's more important to him than anything, or anyone.
+not_available But not to you.
+not_available Mom? 
+not_available I need to get you something for the pain.
+not_available I'll be fine.
+not_available I just need to rest.
+not_available I can get it from Naseem.
+not_available No.
+not_available The hospital he works at is near here.
+not_available I'll be right back.
+not_available Naseem doesn't know why we were really living here.
+not_available Mom, he's your brother.
+not_available I'll tell him you need it, and nothing else.
+not_available I promise.
+not_available I'll be right back.
+not_available Just hurry.
+not_available I will.
+not_available Mr.
+not_available Secretary.
+not_available We have a meltdown.
+not_available San Gabriel Island reactor's just gone critical.
+not_available Core material is now airborne.
+not_available I thought we had more time.
+not_available Ms Driscoll, Derek Rosner, the engineer at San Gabriel Island, is on with the NRC.
+not_available One of their generators exploded, cooked their comm lines.
+not_available We may only have a few seconds.
+not_available Patch us in.
+not_available What's going on? 
+not_available We've had a meltdown in San Gabriel Island.
+not_available <ix>All attempts to contain the core failed.</ix> <ix>We're trying to bypass the reactor trip, but that's not working.</ix> Mr.
+not_available Rosner, this is Erin Driscoll from CTU.
+not_available Can you hear me? <ix>Yes, ma'am.</ix> Secretary of Defense James Heller is here.
+not_available What are your radiation levels? <ix>We're at 500 REM right now.</ix> <ix>That's ten thousand times the dose of an x
+not_available ray.</ix> <ix>At this REM rate the radiation will get stronger</ix> <ix>and will spill into the atmosphere until the core is exhausted.</ix> Son, you've done everything you can, now get out of there.
+not_available <ix>Evacuating won't make any difference, sir.</ix> <ix>We've already been exposed.</ix> We've lost them.
+not_available Can we re
+not_available establish the link? Have we analyzed the cloud's movement? We're waiting for NGS to get a satellite refresh.
+not_available Get on the phone, have them expedite.
+not_available I will.
+not_available After rerouting evacuation instructions.
+not_available Can't someone else do that? 
+not_available No.
+not_available We're short of manpower.
+not_available <ix>A government spokesman has confirmed that the nuclear reactor at San Gabriel Island</ix> <ix>is in full meltdown.
+not_available Emergency personnel are on site,</ix> <ix>attempting to rescue workers exposed to radiation.</ix> You're not listening.
+not_available I've been trying to get through to the evacuation zone for ten minutes.
+not_available I need you to link me in to access the emergency bandwidth.
+not_available I need it now.
+not_available <ix>All right.
+not_available Stand by.</ix> 
+not_available Thank you.
+not_available <ix>If you are on the road or awaiting</ix> <ix>..
+not_available here are some items you and your family might need.</ix> Hello? 
+not_available <ix>Mom.</ix> Hello, Edgar.
+not_available Have you seen the news? 
+not_available I'm watching it now.
+not_available Why aren't you evacuated by now? 
+not_available You know I don't have a car.
+not_available Where's Margaret? I tried to get her but the lines are busy.
+not_available I'm surprised you got through.
+not_available What about one of your neighbors? 
+not_available By the time I got outside they were all gone.
+not_available Listen to me.
+not_available I'm gonna make some calls.
+not_available I'm gonna get someone there to help you.
+not_available I want you to sit and wait for my call.
+not_available Can you do that? Yes.
+not_available I don't really have a choice.
+not_available I'll call you back.
+not_available OK? 
+not_available OK, honey.
+not_available Bye.
+not_available <ix>We've delegated that to Murphy's group.</ix> I'm not interested in that.
+not_available We don't have the luxury of miscommunications.
+not_available Someone from my office will coordinate between state police and the National Guard.
+not_available Set up the conference call in ten minutes.
+not_available Thank you all.
+not_available Are you OK? 
+not_available Yeah.
+not_available How are you holding up? Considering the situation we're in I'm doing fine.
+not_available The truth of the matter is we do not have the manpower to handle this mess.
+not_available Tell me what I can do.
+not_available I've prioritized evacuation protocol, but I need someone to keep the state police and the National Guard from interacting.
+not_available All right.
+not_available I'll stop the guard at the 75th
+not_available mile marker and let the police take over from there.
+not_available We'll maximize room for civilian traffic.
+not_available I wish we had some other way to get those people out of there.
+not_available There's nowhere else to route them.
+not_available Jack has got to find the override before the rest of these reactors go critical.
+not_available Hey, Jack.
+not_available Good to have you in the field again.
+not_available Thanks, Lee.
+not_available You remember Tony Almeida? 
+not_available Yeah.
+not_available I don't know what he's doing here.
+not_available I want him here.
+not_available He's not authorized to be in the field.
+not_available I'm going through that door first.
+not_available I want him there to back me up.
+not_available Fine.
+not_available Get another vest.
+not_available You got a visual on the suspect? 
+not_available We got a fiberoptic camera inside.
+not_available The manager says there's a midforties female and a teenage male.
+not_available Possibly mother and son.
+not_available Both Middle Eastern.
+not_available We need them alive.
+not_available They're no good to us dead.
+not_available I've been briefed.
+not_available Let's go.
+not_available We got a visual on the woman.
+not_available What about the kid? I haven't seen him yet.
+not_available We gotta go, now.
+not_available You ready? 
+not_available Go.
+not_available Don't move.
+not_available Drop your weapon! Where is the override? Tell me who's got it! Tell me.
+not_available Now! Agent Castle! Stand down! Lee, stand down! 
+not_available I'm gonna get her to talk.
+not_available She'll go into shock before she does.
+not_available Agent Castle, step outside.
+not_available Now! I want her prints and photograph send over to CTU immediately.
+not_available He has no right to give me orders.
+not_available Hey, come here.
+not_available He did the right thing.
+not_available She was willing to kill herself.
+not_available She'd die before she gave in to force.
+not_available We need to get her to talk now.
+not_available And we will.
+not_available What do you have in mind? We need to find some leverage.
+not_available <ix>CTU, Hudson.</ix> 
+not_available It's Jack.
+not_available Put me through to Erin.
+not_available Come here.
+not_available Come here.
+not_available Let me see your arm.
+not_available Driscoll.
+not_available <ix>We have a suspect.</ix> I'm sending fingerprints and photographs.
+not_available Run a profile.
+not_available Send me all databases and electronic communications.
+not_available Got it.
+not_available Thank you.
+not_available Hey, I understand your concerns about Almeida, but for me, please, just give him a break.
+not_available OK, Jack.
+not_available Jack? 
+not_available Thanks.
+not_available Yeah.
+not_available This is a bullet wound.
+not_available Probably a couple of hours old.
+not_available <ix>The evacuation appears to be in full swing, with delays on all routes.</ix> Excuse me.
+not_available <ix>The nuclear emergency team has just emerged from the plant.</ix> <ix>We can see them here on our sky cam.</ix> <ix>They seem to be going through some kind of decontamination process here.</ix> <ix>Their mission under these circumstances is probably just to try and limit</ix> 
+not_available Behrooz.
+not_available Uncle Naseem.
+not_available You all right? Yeah, I think so.
+not_available It's a disaster.
+not_available Everyone's panicked about radiation poisoning.
+not_available They all want iodide pills.
+not_available Is that why you're here? No.
+not_available I need pain medication.
+not_available It's for my mother.
+not_available She couldn't reach her doctor, so she wanted me to get it from you.
+not_available What's wrong with her? 
+not_available It's her back.
+not_available She needs a prescription.
+not_available I told you, she couldn't reach her doctor.
+not_available I'll see what I can do, OK? Just have a seat.
+not_available Yes? <ix>Navi, it's Naseem.</ix> 
+not_available Hello.
+not_available How are you? 
+not_available <ix>Well.
+not_available But Behrooz showed up at the hospital.</ix> <ix>He seems disturbed.</ix> 
+not_available Is Dina there too? No.
+not_available He says he needs pain medication for her, but he's acting very strange.
+not_available I'm sorry you have to be involved in this.
+not_available <ix>Involved in what? What's going on?</ix> 
+not_available Behrooz may be taking drugs.
+not_available <ix>It's been getting worse.</ix> 
+not_available I'm sorry.
+not_available Me too.
+not_available What do you want me to do? 
+not_available Keep Behrooz there until I can come for him.
+not_available How long will you be? 
+not_available Fifteen minutes.
+not_available <ix>I'll do my best.</ix> Please, Naseem, don't let him leave until I get there.
+not_available <ix>..
+not_available congestion.
+not_available The government is asking people to remain calm and exit</ix> Excuse me, Ms Raines.
+not_available I'm Edgar Stiles.
+not_available Sorry.
+not_available We have a noncompliance problem.
+not_available aren't going where they should, and another 25% don't know they're in the evac zone.
+not_available However you need to do it, make sure it gets done.
+not_available What is it? 
+not_available It's my mother.
+not_available She lives near San Gabriel Island.
+not_available She's in a wheelchair and missed her call to evacuate.
+not_available Maybe the National Guard can get her.
+not_available The area commander said he couldn't spare anyone.
+not_available I'm sorry, I'm not sure what I can do.
+not_available Here's his number.
+not_available I thought that maybe if you called him Look, I hate asking for special treatment, I wouldn't normally ask, but she's my mother.
+not_available I can't make any promises.
+not_available Just promise me you'll try, OK? All right.
+not_available I want you to give her something for the pain but make sure she stays lucid.
+not_available Understand? Have you found out who she is yet? 
+not_available Yeah.
+not_available She is Dina Araz.
+not_available She emigrated to the US five years ago.
+not_available Became a citizen two years ago.
+not_available Married to Navi Araz, also a naturalized citizen.
+not_available Owns an electronics store in Carson.
+not_available They have one son, Behrooz, 17.
+not_available Junior at the local high.
+not_available No criminal records.
+not_available Not on any watch lists? 
+not_available Must have slipped under the radar.
+not_available Send teams to the house and the store, see what we can find.
+not_available Yeah? 
+not_available Jack, it's Driscoll.
+not_available <ix>Homeland Security</ix> 
+not_available Hold on, Erin.
+not_available I can barely hear you.
+not_available Go ahead.
+not_available After the attack this morning, Homeland Security has been archiving communications in the LA area.
+not_available They pulled up a call that may explain how Dina got shot.
+not_available Erin, I'm gonna put you on speaker phone.
+not_available Hold on a second.
+not_available You're on.
+not_available This conversation happened two hours ago, between the mother and the son.
+not_available <ix>He wants me dead because I messed up with Debbie.</ix> <ix>Behrooz, that's not possible.
+not_available Your father would never want to hurt you.</ix> <ix>It's true.
+not_available Tariq told me everything.</ix> <ix>He was lying.</ix> 
+not_available <ix>No, he wasn't.</ix> <ix>Mom, I don't know what to do.
+not_available You have to help me.</ix> <ix>Where are you now?</ix> <ix>I'm near the Metro link station on Lassen in Chatsworth.</ix> <ix>Are you using Tariq's car?</ix> <ix>Yes.</ix> 
+not_available <ix>Hide it.
+not_available I'll pick you up there in a halfhour.</ix> 
+not_available <ix>Hurry.</ix> That's it.
+not_available Let me know the minute you get something from her.
+not_available Yeah.
+not_available We got our leverage.
+not_available Lee.
+not_available How long have you been planning this operation? Two years? Five years? Ten? All this planning for one day.
+not_available You do realize, if all the reactors melt down hundreds of thousands of people will die.
+not_available Every war has casualties.
+not_available These people don't know about your war.
+not_available These people are innocent.
+not_available No one is innocent.
+not_available You really believe that? As strongly as you believe in what you believe.
+not_available So I won't waste your time or mine trying to explain something you can never understand.
+not_available Maybe I understand more than you think.
+not_available I doubt it.
+not_available I know that something happened today to challenge your commitment to your war.
+not_available You weren't willing to let your son become a casualty.
+not_available That's why you were shot.
+not_available Protecting him from his father.
+not_available I understand that.
+not_available I know what it's like to watch your child be threatened and feel helpless to do anything about it.
+not_available Right now Behrooz is out there alone.
+not_available And you and I know he's not going to last very long.
+not_available His father will find him then kill him.
+not_available There is another option.
+not_available If you were to help us find the override device, we <ix>will</ix> protect your son.
+not_available So he can spend the rest of his life in prison? No.
+not_available So he can walk away from this immune from prosecution.
+not_available How? 
+not_available Mrs.
+not_available Araz, your son is a minor.
+not_available He's 17 years old.
+not_available I can get him a legal and binding pardon signed by the President of the United States.
+not_available You don't have the authority to do this.
+not_available I can reach the president.
+not_available If you provide us with the information that allows us to find the override device in time, I am confident that the president will sign that pardon.
+not_available This offer expires the second another reactor melts down.
+not_available Do you understand me? You don't have a lot of time.
+not_available I would think about this.
+not_available Show me this document, and I'll help you find what you want.
+not_available Can we rule out this boy's involvement with the terrorists? No.
+not_available It's likely he knew of his parents' plans and that he helped them.
+not_available You're asking me to grant clemency to a terrorist.
+not_available Mr.
+not_available President, I don't think we have a choice.
+not_available In all of my experience, I believe that we have to give in to her demands.
+not_available Have you tried negotiating? 
+not_available We don't have time.
+not_available In two hours, five reactors will go critical unless we find the override device.
+not_available <ix>She is our only link.</ix> I'm uncomfortable with this, but I trust your judgment.
+not_available <ix>I'll release the letter.</ix> Thank you, Mr.
+not_available President.
+not_available Make sure that document is nonbinding.
+not_available Yes, I understand.
+not_available I'll get back to you on the redeployment figures.
+not_available Ms Raines? Did you talk to them? 
+not_available Yes.
+not_available I'm sorry, they can't get your mother.
+not_available Why not? They're five miles off the highway.
+not_available They know where she is.
+not_available What's the problem? Thousands of people are stuck.
+not_available It's taking the police and the National Guard to move them.
+not_available So, who cares about one old woman? 
+not_available They have to save the most number of lives.
+not_available If my mother were rich or a politician, they'd find a way to save her.
+not_available <ix>Communications.</ix> I need another switching station to that number.
+not_available Do you need it? 
+not_available <ix>No, I've got it logged.
+not_available Hold the line.</ix> 
+not_available Thank you.
+not_available <ix>Go ahead, please.</ix> 
+not_available Mom.
+not_available Hello, honey.
+not_available I can't get anyone out there to help you.
+not_available <ix>I've done everything I could.
+not_available I did.</ix> 
+not_available I'm sure you did.
+not_available <ix>It's OK.</ix> 
+not_available It's not OK.
+not_available The fallout's coming towards you.
+not_available It's 15 miles away.
+not_available I know.
+not_available I'm watching it on the news.
+not_available And I know what to do.
+not_available There's nothing you can do.
+not_available You can't stuff towels under the door.
+not_available That's not what I'm talking about doing.
+not_available What do you mean? They talked about radiation poisoning.
+not_available That's not something I want to go through.
+not_available Especially since there's only one way it can end.
+not_available Honey, I want to end things on my terms, as opposed to all that pain and suffering.
+not_available Mom It's the right thing to do.
+not_available It's the only thing, you know that.
+not_available No, I don't.
+not_available You have been a wonderful son, Edgar.
+not_available <ix>You've been a gift to me and your father.</ix> <ix>It's OK.
+not_available I'm going to a better place, and</ix> I'll see you there.
+not_available But not for a long time.
+not_available You've got a lot ahead of you, great things.
+not_available Maybe I can get someone to you.
+not_available <ix>You've got a very important job to do there.</ix> A lot of people are counting on you.
+not_available So I'm gonna hang up now.
+not_available And I want you to know how very, very much I love you.
+not_available Mom Ma? Edgar, where are you going? Edgar? 
+not_available I have to get out of here.
+not_available What? My mother lives next to the San Gabriel Island plant.
+not_available She wasn't able to evacuate in time.
+not_available We have five other reactors that are on the verge of melting down.
+not_available I need you at your station.
+not_available I don't care.
+not_available You better start caring.
+not_available You have a choice 
+not_available obey orders or end up in a jail cell.
+not_available You'll arrest me for saving my mother's life? If what you're saying is true, there's nothing you can do for your mother.
+not_available But there are thousands of others who you can save.
+not_available If your mother were here, what would make her proud? What would she want you do to? 
+not_available She'd want me to help.
+not_available Then don't you think you should? We're ready to go.
+not_available We're just setting up a comm line.
+not_available This is a pardon for your son signed by the president.
+not_available This is acceptable.
+not_available Where is he? He is at Lindauer Memorial Hospital.
+not_available It's not far.
+not_available Set up a perimeter around Lindauer Memorial.
+not_available I want you to call him, tell him we're coming to pick him up.
+not_available Give her the phone.
+not_available We have to record the call.
+not_available Hello? 
+not_available It's me.
+not_available Where are you? Waiting for Naseem.
+not_available I don't know why he's taking so long.
+not_available Don't worry about that now.
+not_available Things have changed.
+not_available What do you mean? 
+not_available Listen carefully, Behrooz.
+not_available Government agents found me.
+not_available I'm with them now.
+not_available Behrooz, they know everything.
+not_available Behrooz, just a few more minutes, OK? But it's all right.
+not_available Everything is going to be all right.
+not_available I made a deal.
+not_available What are you talking about? You're going to be OK.
+not_available You won't be arrested, or even named in any of this.
+not_available I don't understand.
+not_available I'm going to help them stop your father.
+not_available You are? Yes.
+not_available You said that I would be OK.
+not_available But what about you? We'll talk about that later.
+not_available Right now these men are coming to pick you up.
+not_available I want you to go with them.
+not_available Are they making you say this? 
+not_available No.
+not_available I don't know who these people are.
+not_available I want to be sure they're not forcing you to say this.
+not_available I'll come with them.
+not_available You'll know when you see me.
+not_available OK? 
+not_available I'll meet you outside.
+not_available No.
+not_available Tell him to go to the emergency room, where it's crowded.
+not_available Did you hear that? 
+not_available Yes.
+not_available I'll see you in a few minutes, Behrooz.
+not_available OK.
+not_available We're transferring the suspect.
+not_available I want to set up a protective cordon now.
+not_available Let's go.
+not_available Uncle Naseem, I have to go.
+not_available What about the pain medication? My mom's gonna get it from somewhere else, but thanks for trying.
+not_available Behrooz.
+not_available I can't let you go.
+not_available Why not? 
+not_available I spoke to your father.
+not_available What? 
+not_available He told me you need help.
+not_available You don't know what you're talking about.
+not_available I gave your father my word.
+not_available My father is a terrorist.
+not_available Stop talking crazy.
+not_available I swear.
+not_available You're talking nonsense.
+not_available I'm not.
+not_available He's behind the kidnapping and the reactors melting down.
+not_available We're all involved, my mother and me.
+not_available We've killed people.
+not_available Your father will be furious when he hears this.
+not_available My father's coming here? No! Behrooz! I tried to stop him.
+not_available You broke my heart, Behrooz.
+not_available You broke my heart.
+not_available If you kill me, Mother will tell them everything.
+not_available Tell who? 
+not_available The police.
+not_available She's with them.
+not_available I don't believe you.
+not_available It's true.
+not_available She wants me to be safe.
+not_available If you kill me, she will ruin everything you're doing.
+not_available If you don't believe me look outside.
+not_available They're coming to pick me up.
+not_available Help! 
+not_available Shut up.
+not_available Tony, did you notify Security? 
+not_available No.
+not_available Something is wrong.
+not_available Set up a level
+not_available three cordon around the hospital.
+not_available I'm going with you.
+not_available No, you're not.
+not_available What's going on? 
+not_available A pharmacist has been shot.
+not_available Who are you? Jack Bauer.
+not_available I work with CTU.
+not_available We've been tracking the shooter.
+not_available Where is he? Someone radioed in from C Wing.
+not_available A Middle Eastern man has a hostage.
+not_available A 17yearold boy? 
+not_available I think so.
+not_available What are the possible exits? He'll end up in the east parking garage.
+not_available We got men heading there.
+not_available Tell your supervisor to tell his men to back off.
+not_available No one makes contact.
+not_available Understand me? Hang on a sec.
+not_available Yeah? 
+not_available <ix>It's Jack.</ix> Navi is here.
+not_available He's killed his wife's brother.
+not_available What about the boy? 
+not_available I don't know.
+not_available Lock down exits.
+not_available He's headed for the parking garage.
+not_available Meet me on the east of the building with backup.
+not_available Copy.
+not_available We're going to the east of the building.
+not_available Backup teams there now.
+not_available What happened? 
+not_available We're still looking for your son.
+not_available There's more, tell me.
+not_available Mrs.
+not_available Araz, we're gonna find your son.
+not_available I hate you.
+not_available I've always hated you, and the only reason I never said so was because I was afraid of you.
+not_available But I'm not afraid of you any more.
+not_available Get in.
+not_available Go to hell.
+not_available Get in! We're in the garage.
+not_available We've secured the exit.
+not_available I'm almost there.
+not_available Can you get an ID? 
+not_available Nothing yet.
+not_available Let me see your hands! Put your hands where I can see them, now! Careful! Drop the gun! 
+not_available You'll hit the boy.
+not_available Let the boy go! We can work this out.
+not_available I will put my gun down if you give me the boy.
+not_available AII I want is the boy.
+not_available Stay back! Put the gun down! Put the gun Tony, stop the car! Behrooz! 
+not_available Mom! Keep her in the car.
+not_available That stairwell leads to the basement.
+not_available He's got to go down.
+not_available Set up a link with CTU now! Copy that.
+not_available Call CTU, we need backup.
+not_available Mrs.
+not_available Araz, calm down.
+not_available We'll get your son.
+not_available We've uploaded the plans to you.
+not_available There are only three exits from the basement.
+not_available We've got all entrances and exits covered.
+not_available He's trapped.
+not_available Let's try to open up a negotiation.
+not_available My husband won't negotiate.
+not_available Why's that? 
+not_available He doesn't need to.
+not_available He has to assume I have agreed to help you in return for my son's safety.
+not_available He can't stay down there forever.
+not_available He won't.
+not_available In two hours, all the reactors will have gone critical.
+not_available After that, it won't matter what I tell you, and he can kill my son.
+not_available I am only helping you to save his life.
+not_available I believe in our cause, and if you can't save my son, I am happy to see the reactors melt down.
+not_available Did you get that? 
