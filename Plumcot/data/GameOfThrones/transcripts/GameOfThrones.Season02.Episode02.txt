@@ -73,11 +73,11 @@ tyrion_lannister Apparently you burn him.
 cersei_lannister One trip to The Wall and you come back believing in grumpkins and snarks. .
 tyrion_lannister I don't know what I believe, but here's a fact for you. The Night's Watch is the only thing that separates us from what lies beyond the Wall.
 cersei_lannister I have every confidence the brave men of the Night's Watch will protect us all.
-dolorous_edd Then I said, if the gods wanted us to have dignity, wouldn't make us fart when we died.
+eddison_tollett Then I said, if the gods wanted us to have dignity, wouldn't make us fart when we died.
 grenn We fart when we die?
-dolorous_edd My blessed mother was holding her own when she left this world. She farted so hard, the whole bed shook.
+eddison_tollett My blessed mother was holding her own when she left this world. She farted so hard, the whole bed shook.
 samwell_tarly Seems a bit greedy for one man to have so many wives. Wouldn't two, or three, be enough for him?
-dolorous_edd We were having a serious discussion.
+eddison_tollett We were having a serious discussion.
 grenn Would you look at that.
 samwell_tarly Nothing like the sight of a woman walking away.
 grenn I prefer watching them come towards me.
@@ -86,7 +86,7 @@ grenn Well, there was a milkmaid named Violet on the next farm over from where I
 samwell_tarly You were with her? How many times?
 grenn Well, as many times as I could.
 samwell_tarly Wish I'd grew up on a farm.
-dolorous_edd We need more potatoes. And get another sack for the sludge. . Get the turnips too.
+eddison_tollett We need more potatoes. And get another sack for the sludge. . Get the turnips too.
 samwell_tarly No. Ghost, no. No. Ghost, away. Shoo. Shoo! . You all right? Did he frighten you?
 gilly You shouldn't touch me.
 samwell_tarly Oh, oh. Right. I'm sorry. I just wanted to make sure you weren't hurt. .
@@ -357,31 +357,19 @@ matthos_seaworth . But I was. Every night that you were at sea, I lit a candle a
 davos_seaworth You want me to have a god, fine. King Stannis is my god. He raised me up and blessed me with his trust. He gave you a future I could never have imagined. You know how to read, you'll be a knight someday. You think your fire god commanded all that? It was Stannis. Only Stannis.
 matthos_seaworth . Stannis is my king, but he's only a man.
 davos_seaworth Don't tell him that.
-servant##unknown#GameOfThrones.Season02.Episode02 More, my Lord?
+servant#unknown#GameOfThrones.Season02.Episode02 More, my Lord?
 ashter#unknown#GameOfThrones.Season02.Episode02 Yes.
-howland#NONEXT So your mother went to see King Renly?
 ashter#unknown#GameOfThrones.Season02.Episode02 So it would seem. Soon enough, there will be more Kings then Kingdoms.
-howland#NONEXT If your brother allied with Renly Baratheon with the Reach allied with him, we would be unstoppable.
 ashter#unknown#GameOfThrones.Season02.Episode02 Somehow I doubt Renly Baratheon will be okay with The North being a free and independent Kingdom.
-howland#NONEXT Worst case scenario, we can declare for Renly. Renly is better than Joffrey. Even if the man is... queer.
 ashter#unknown#GameOfThrones.Season02.Episode02 We've made something for ourselves that night. The Kingdom of the North. We will not give it up for Renly Baratheon.
-howland#NONEXT You've heard of him, haven't you? What he does?
 ashter#unknown#GameOfThrones.Season02.Episode02 I've heard rumors. If Renly favors the company of boys, so be it. If he doesn't have an heir, Stannis will inherit the Throne.
-howland#NONEXT Perhaps Stannis has a chance at the Throne.
 ashter#unknown#GameOfThrones.Season02.Episode02 He'll try to fight for the Throne. But he won't win. Renly has the Reach at his side, and if my Mother does well, he'll have us. What does Stannis have? A red woman whispering in his hear?
-howland#NONEXT A red woman? What?
 ashter#unknown#GameOfThrones.Season02.Episode02 I've heard he has a red priestess giving him counsel. I've never met a red priestess. But I've heard the one that's in Stannis' company is quite beautiful.
-howland#NONEXT You have a thing for fanatics?
 ashter#unknown#GameOfThrones.Season02.Episode02 I have a thing for any woman who has a great body and a pretty face. What they involve themselves in does not concern me... unless it is extremely foul.
-howland#NONEXT Listen, I wanted to ask you something...
 ashter#unknown#GameOfThrones.Season02.Episode02 What is it?
-howland#NONEXT I've heard men talk about you... some men around here hate you.
 ashter#unknown#GameOfThrones.Season02.Episode02 Story of my life.
-howland#NONEXT What the fuck they hate you for? What have you done? The word about you has always been strange.
 ashter#unknown#GameOfThrones.Season02.Episode02 The same reason my father didn't want me inheriting his titles if I ever came to be the Lord of Winterfell.
-howland#NONEXT You going to tell me or are you gonna be fucking mysterious?
 ashter#unknown#GameOfThrones.Season02.Episode02 A story for another time.
-howland#NONEXT Why?
 ashter#unknown#GameOfThrones.Season02.Episode02 It's not your fucking concern, that's why.
 cersei_lannister Lord Janos Slynt was Commander of the City Watch. You had no right to exile him.
 tyrion_lannister I have every right. I am the King's Hand.

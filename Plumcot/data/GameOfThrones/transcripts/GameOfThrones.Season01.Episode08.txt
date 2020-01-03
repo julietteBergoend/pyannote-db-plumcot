@@ -135,7 +135,6 @@ bronn You don't think I'd do it, do you?
 tyrion_lannister What do you want, Bronn? Gold? Women? Golden women?
 bronn Fair enough.
 tyrion_lannister Though I would treasure your friendship.
-remember_this#NonEXT Whatever their price, I'll beat it.
 bronn Tyrion. Tyrion. Tyrion.
 tyrion_lannister Come, share our fire.
 shagga When you meet your Gods, you tell them Shagga Son of Dolf of the Stone Crows sent you.
@@ -352,10 +351,8 @@ lord_varys We have nothing but gratitude for your long service, good Ser.
 barristan_selmy A hall to die in and men to bury me.
 petyr_baelish A naked Knight, apparently.
 barristan_selmy Even now I could cut through the five of you like carving a cake!
-king's_landingpage#NONEXT If any man in this hall has other matters to set before His Grace, let him speak now or go forth and hold his silence.
 sansa_stark Your Grace.
 joffrey_baratheon Come forward, My Lady.
-king's_landingpage#NONEXT The Lady Sansa of House Stark.
 cersei_lannister Do you have some business for the King and the Council, Sansa?
 sansa_stark I do.
 sansa_stark As it please Your Grace, I ask mercy for my father, Lord Eddard Stark, who was Hand of the King.

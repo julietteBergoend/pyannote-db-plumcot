@@ -15,9 +15,9 @@ tormund_giantsbane They think you’re some kind of god. The man who returned fr
 jon_snow I’m not a god.
 tormund_giantsbane I know that.
 tormund_giantsbane I saw your pecker. What kind of god would have a pecker that small?
-dolorous_edd Your eyes are still brown. Is that still you in there?
+eddison_tollett Your eyes are still brown. Is that still you in there?
 jon_snow I think so. Hold off on burning my body for now.
-dolorous_edd That’s funny. You sure that’s still you in there?
+eddison_tollett That’s funny. You sure that’s still you in there?
 gilly You all right?
 samwell_tarly Yes. Yes, I’m fine.
 gilly Did I ever tell you I used to think the sea was called the see because it was nothing but water as far as the eye could see?
@@ -268,7 +268,7 @@ ramsay_bolton Who’s this?
 smalljon_umber Rickon Stark.
 ramsay_bolton How do I know that’s Rickon Stark?
 ramsay_bolton Welcome home, Lord Stark.
-dolorous_edd It’s time.
+eddison_tollett It’s time.
 jon_snow If you have any last words, now is the time.
 bowen_marsh You shouldn’t be alive. It’s not right.
 jon_snow Neither was killing me.
@@ -276,8 +276,8 @@ othell_yarwyck My mother's still living at White Harbor. Could you write her? Te
 alliser_thorne I had a choice, Lord Commander. Betray you or betray the Night’s Watch. You brought an army of wildlings into our lands. An army of muderers and raiders. If I had to do it all over knowing where I’d end up, I pray I’d make the right choice again.
 jon_snow I’m sure you would, Ser Alliser.
 alliser_thorne I fought, I lost. Now I rest. But you, Lord Snow, you’ll be fighting their battles forever.
-dolorous_edd We should burn the bodies.
+eddison_tollett We should burn the bodies.
 jon_snow You should.
-dolorous_edd What do you want me to do with this?
+eddison_tollett What do you want me to do with this?
 jon_snow Wear it. Burn it. Whatever you want. You have Castle Black.
 jon_snow My watch is ended.

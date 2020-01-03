@@ -52,7 +52,7 @@ def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
     return fusion
 
 def main(audio_hypothesis_path,video_features,output_path,
-    DATABASE,TASK,PROTOCOL,set):
+    serie_uri,TASK,PROTOCOL,set):
     """
     audio_hypothesis_path: str
         Path to the diarization output (.rttm) file as defined in pyannote.audio
@@ -64,22 +64,21 @@ def main(audio_hypothesis_path,video_features,output_path,
         print(f"Fusing {uri}",end='\r')
         video_features_path=os.path.join(video_features,f"{uri}.npy")
         fusion=fuse(video_features_path,audio_hypothesis,uri)
-        with open(os.path.join(output_path,f'{DATABASE}.{TASK}.{PROTOCOL}.{set}.{CLUSTERING_THRESHOLD}.rttm'),'a') as file:
+        with open(os.path.join(output_path,f'{serie_uri}.{TASK}.{PROTOCOL}.{set}.{CLUSTERING_THRESHOLD}.rttm'),'a') as file:
             fusion.write_rttm(file)
 
 if __name__=="__main__":
     args = docopt(__doc__)
     serie_uri=args['<serie_uri>']
-    DATABASE=f"Plumcot-{serie_uri}"
     TASK="SpeakerDiarization"
-    PROTOCOL="UEM"
+    PROTOCOL="FA-UEM"
     set=args['--set'] if args['--set'] else "test"
     DATA_PATH=os.path.join("Plumcot","data")
     OUTPUT_PATH=os.path.join(DATA_PATH,serie_uri,"multimodal")
     VIDEO_FEATURES=os.path.join(DATA_PATH,serie_uri,"video")
     AUDIO_HYPOTHESIS_PATH=("/vol/work/lerner/baseline/dia/Plumcot-Friends-Adversarial/"
                            "der_uem/train/Plumcot-Friends.SpeakerDiarization.UEM.development/"
-                           f"/apply/latest/{DATABASE}.{TASK}.{PROTOCOL}.{set}.rttm")
+                           f"/apply/latest/{serie_uri}.{TASK}.{PROTOCOL}.{set}.rttm")
 
     main(AUDIO_HYPOTHESIS_PATH,VIDEO_FEATURES,OUTPUT_PATH,
-        DATABASE,TASK,PROTOCOL,set)
+        serie_uri,TASK,PROTOCOL,set)

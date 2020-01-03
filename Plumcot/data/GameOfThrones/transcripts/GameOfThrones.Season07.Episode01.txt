@@ -9,11 +9,11 @@ walder_frey Yes, yes. Cheer. Brave men, all of you. Butchered a woman pregnant w
 walder_frey No, no, that was your mistake. You should have ripped them all out, root and stem.
 walder_frey Leave one wolf alive and the sheep are never safe.
 arya_stark When people ask you what happened here, tell them the North remembers. Tell them winter came for House Frey.
-dolorous_edd You wildlings?
+eddison_tollett You wildlings?
 meera_reed I'm Meera Reed, daughter of Howland Reed. This is Brandon Stark, son of Ned Stark.
-dolorous_edd How do I know that's true?
+eddison_tollett How do I know that's true?
 bran_stark You were at the Fist of the First Men. You were at Hardhome. You've seen the Army of the Dead. You've seen the Night King. He's coming for us. For all of us.
-dolorous_edd Okay, come on. Let's get them inside.
+eddison_tollett Okay, come on. Let's get them inside.
 jon_snow I want every northern maester to scour their records for any mention of dragonglass. Dragonglass kills white walkers. It's more valuable to us now than gold. We need to find it, we need to mine it, we need to make weapons from it. Everyone aged 10 to 60 will drill daily with spears, pikes, bow and arrow.
 robett_glover It's about time we taught these boys of summer how to fight.
 jon_snow Not just the boys.
@@ -44,7 +44,7 @@ jon_snow Alys Karstark.
 jon_snow For centuries, our families fought side by side on the battlefield. I ask you to pledge your loyalty once again to House Stark, to serve as our bannermen and come to our air whenever called upon.
 jon_snow Stand.
 jon_snow Yesterday's wars don't matter anymore. The North needs to band together, all the living north. Will you stand beside me, Ned and Alys, now and always?
-eddard_stark_&_alys_karstark Now and always!
+eddard_stark@alys_karstark Now and always!
 jon_snow You are my sister, but I am king now.
 sansa_stark Will you start wearing a crown?
 jon_snow When you question my decisions in front of the other lords and ladies, you undermine me.

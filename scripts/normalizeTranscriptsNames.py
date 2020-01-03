@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE]
+"""Usage:
+normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE] [--quiet]
+normalizeTranscriptsNames.py check <id_series> [-s SEASON] [-e EPISODE]
+normalizeTranscriptsNames.py -h|--help
 
 Arguments:
     id_series    Id of the series
@@ -9,7 +12,7 @@ Arguments:
 Options:
     -s SEASON    Season number to iterate on (all seasons if not specified)
     -e EPISODE   Episode number (all episodes of the season if not specified)
-
+    --quiet      Display only the names that have changed.
 """
 
 import pyannote.database
@@ -22,7 +25,7 @@ import os.path
 from pathlib import Path
 import Plumcot as PC
 import json
-
+import warnings
 
 def automatic_alignment(id_series, id_ep, refsT, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
@@ -52,7 +55,8 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     refs = refsT.copy()
 
     # Loading user previous matching names
-    savePath = Path(__file__).parent / f"{id_series}.json"
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+        / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             save_dict = json.load(f)
@@ -82,18 +86,58 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     # We use Hungarian algorithm which solves the "assignment problem" in a
     # polynomial time.
     row_ind, col_ind = linear_sum_assignment(dists)
-
     # Add names ignored by Hungarian algorithm when sizes are not equal
     for i, ref in enumerate(refs):
-        if col_ind[i] < min_size:
+        if col_ind[i] < len(hyps):
             names_dict[ref] = hyps[col_ind[i]]
         else:
             names_dict[ref] = unknown_char(ref, id_ep)
 
     return names_dict
 
+def check_normalized_names(id_series, season_number, episode_number):
+    """Check normalized names. Print the difference between IMDb and transcripts
 
-def normalize_names(id_series, season_number, episode_number):
+    Parameters
+    ----------
+    id_series : `str`
+        Id of the series.
+    season_number : `str`
+        The desired season number. If None, all seasons are processed.
+    episode_number : `str`
+        The desired episode_number. If None, all episodes are processed.
+    """
+
+    # Plumcot database object
+    db = Plumcot()
+    # Retrieve IMDB normalized character names
+    imdb_chars_series = db.get_characters(id_series, season_number,
+                                          episode_number)
+
+    # Retrieve transcripts normalized character names
+    trans_chars_series = db.get_transcript_characters(id_series, season_number,
+                                                      episode_number,extension=".txt")
+
+    for episode_uri in imdb_chars_series:
+        print("\n"+episode_uri)
+        imdb=imdb_chars_series.get(episode_uri)
+        if imdb is None:
+            warnings.warn(f"{episode_uri} is not IMDB, jumping to next episode")
+            continue
+        else:
+            imdb=set(imdb)
+        transcripts=trans_chars_series.get(episode_uri)
+        if transcripts is None:
+            warnings.warn(f"{episode_uri} is not transcripts, jumping to next episode")
+            continue
+        else:
+            transcripts=set([char for char in transcripts if "#unknown#" not in char and "@" not in char])
+        print("In imdb but not in transcripts:")
+        print(imdb-transcripts)
+        print("In transcripts but not imdb (not counting #unknown# and alice@bob):")
+        print(transcripts-imdb)
+
+def normalize_names(id_series, season_number, episode_number, verbose = True):
     """Manual normalization.
 
     Parameters
@@ -104,6 +148,8 @@ def normalize_names(id_series, season_number, episode_number):
         The desired season number. If None, all seasons are processed.
     episode_number : `str`
         The desired episode_number. If None, all episodes are processed.
+    verbose : bool
+        Display names even if they did not change (Default).
 
     Returns
     -------
@@ -113,69 +159,91 @@ def normalize_names(id_series, season_number, episode_number):
 
     # Plumcot database object
     db = Plumcot()
-
     # Retrieve IMDB normalized character names
     imdb_chars_series = db.get_characters(id_series, season_number,
                                           episode_number)
+
     # Retrieve transcripts normalized character names
     trans_chars_series = db.get_transcript_characters(id_series, season_number,
                                                       episode_number)
 
+    # Loading user previous matching names
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+        / 'transcripts' / 'names_dict.json'
+    if os.path.isfile(savePath):
+        with open(savePath, 'r') as f:
+            old_matches = json.load(f)
+
     # Iterate over episode IMDB character names
     for id_ep, imdb_chars in imdb_chars_series.items():
         if id_ep not in trans_chars_series:
-            continue
+            warnings.warn(f"{id_ep} is not transcripts, jumping to next episode")
         trans_chars = trans_chars_series[id_ep]
 
         link = Path(PC.__file__).parent / 'data' / f'{id_series}'\
             / 'transcripts' / f'{id_ep}.txt'
         # If episode has already been processed
         if os.path.isfile(link):
-            exists = f"{id_ep} already processed. [y] to processe, n to skip: "
+            exists = f"{id_ep} already processed. y to processe, [n] to skip: "
             co = input(exists)
-            if co == 'n':
+            if co != 'y':
                 continue
 
         # Get automatic alignment as a dictionnary
         dic_names = automatic_alignment(id_series, id_ep, trans_chars,
                                         imdb_chars)
         save = True
-
+        names_matched={}
         # User input loop
         while True:
             print(f"----------------------------\n{id_ep}. Here is the list "
                   "of normalized names from IMDB: ")
-            names = ""
-            for name in imdb_chars:
-                names += name + ', '
-            print(names[:-2], '\n')
+            print(", ".join(sorted(imdb_chars[:-2])), '\n')
 
             print("Automatic alignment:")
             for name, norm_name in dic_names.items():
                 # Get number of speech turns of the character for this episode
                 appearence = trans_chars[name]
-                print(f"{name} ({appearence})  ->  {norm_name}")
+                previously_matched = old_matches.get(name)
+                if previously_matched :
+                   previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
+                   names_matched[name]=previously_matched
+                if (previously_matched or name == norm_name) and not verbose:
+                    pass
+                else:
+                    print(f"{name} ({appearence})  ->  {norm_name}")
 
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
-                            "to skip): ")
+                            "to skip, unk to unknownize every character that didn't match): ")
             # Stop and save
-            if request == "end":
+            if request == "end" or not request:
                 break
             # Stop without saving
             if request == "stop" or request == "skip":
                 save = False
                 break
+            #all un-assigned -> unknown
+            if request == "unk":
+                for name in dic_names:
+                    if not names_matched.get(name):
+                        new_name = unknown_char(name, id_ep)
+                        dic_names[name]=new_name
             # Wrong name
             if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
             else:
+                print("\nSuggestions :")
+                for suggestion in imdb_chars:
+                    if request.lower() in suggestion:
+                        print(suggestion)
                 new_name = input("\nType the new character's name "
                                  "(unk for unknown character): ")
                 # Unknown character
                 if new_name == "unk" or not new_name:
                     new_name = unknown_char(request, id_ep)
                 dic_names[request] = new_name
+                names_matched[request]=True
 
         # Save changes and create .txt file
         if save:
@@ -185,7 +253,8 @@ def normalize_names(id_series, season_number, episode_number):
 
 def unknown_char(char_name, id_ep):
     """Transforms character name into unknown version."""
-
+    if "#unknown#" in char_name:#trick when re-processing already processed files
+        return char_name
     return f"{char_name}#unknown#{id_ep}"
 
 
@@ -201,7 +270,8 @@ def save_matching(id_series, dic_names):
     """
 
     save_dict = {}
-    savePath = Path(__file__).parent / f"{id_series}.json"
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
+        / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             save_dict = json.load(f)
@@ -210,7 +280,7 @@ def save_matching(id_series, dic_names):
         if "#unknown" not in name_norm:
             save_dict[name_trans] = name_norm
 
-    with open(Path(__file__).parent / f"{id_series}.json", 'w') as f:
+    with open(savePath, 'w') as f:
         json.dump(save_dict, f)
 
 
@@ -222,8 +292,11 @@ def main(args):
     episode_number = args['-e']
     if episode_number:
         episode_number = f"{int(episode_number):02d}"
-
-    normalize_names(id_series, season_number, episode_number)
+    if args["check"]:
+        check_normalized_names(id_series, season_number, episode_number)
+    else:
+        verbose = not args["--quiet"]
+        normalize_names(id_series, season_number, episode_number, verbose)
 
 
 if __name__ == '__main__':

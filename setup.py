@@ -48,6 +48,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'pyannote.database >= 1.5.4',
+        'affinegap'
     ],
     classifiers=[
         "Development Status :: 4 - Beta",

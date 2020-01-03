@@ -211,7 +211,7 @@ kissing_hobbit We piled the carcasses and burned them. (Points to smoke in the d
 gimli Dead?
 kissing_hobbit (Nods.) I am sorry.
 kissing_hobbit Hasufel! Arod!
-kissing_hobbit May these horses bear you to better fortune than the former masters. [nods] Farewell.
+kissing_hobbit May these horses bear you to better fortune than the former masters.  Farewell.
 kissing_hobbit Look for your friends, but do not trust the hope. It has forsaken these lands. We ride north!
 voice_of_the_ring The Two Towers
 gimli It's one of their little belts.

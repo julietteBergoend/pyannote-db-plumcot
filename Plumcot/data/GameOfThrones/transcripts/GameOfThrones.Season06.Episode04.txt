@@ -1,12 +1,12 @@
-dolorous_edd Where you gonna go?
+eddison_tollett Where you gonna go?
 jon_snow South.
-dolorous_edd What are you gonna do?
+eddison_tollett What are you gonna do?
 jon_snow Get warm.
-dolorous_edd I was with you at Hardhome. We saw what’s out there. We know it’s coming here. How can you leave us now?
+eddison_tollett I was with you at Hardhome. We saw what’s out there. We know it’s coming here. How can you leave us now?
 jon_snow I did everything I could. You know that.
-dolorous_edd You swore a vow.
+eddison_tollett You swore a vow.
 jon_snow Aye, I pledged my life to the Night’s Watch. I gave my life.
-dolorous_edd For all nights to come.
+eddison_tollett For all nights to come.
 jon_snow They killed me, Edd! My own brothers. You want me to stay here after that?
 dothraki_man_having_sex Riders approaching!
 man_2#unknown#GameOfThrones.Season06.Episode04 Open the gate!
@@ -328,7 +328,7 @@ osha That so?
 ramsay_bolton I had to work hard to get him talking. But he talked. They all do.
 ramsay_bolton He told me everything. All about the Stark boys. Who helped them escape, and how she did it.
 dothraki_man_having_sex Open the gate!
-dolorous_edd Sorry about the food. It’s not what we’re known for.
+eddison_tollett Sorry about the food. It’s not what we’re known for.
 sansa_stark That’s all right. There are more important things.
 dothraki_man_having_sex A letter for you, Lord Commander.
 jon_snow I’m not Lord Commander anymore.

@@ -36,7 +36,7 @@ from pyannote.database.protocol import CollectionProtocol
 from pathlib import Path
 import pandas as pd
 import glob
-
+import os
 
 class BaseEpisodes(CollectionProtocol):
     """Base class of collection protocols"""
@@ -116,8 +116,8 @@ class Plumcot(Database):
         return characters_dict
 
     def get_transcript_characters(self, id_series, season_number=None,
-                                  episode_number=None):
-        """Get transcripts character's names list from .temp transcripts files.
+                                  episode_number=None, extension=".temp"):
+        """Get transcripts character's names list from transcripts files.
 
         Parameters
         ----------
@@ -127,6 +127,8 @@ class Plumcot(Database):
             The desired season number. If None, all seasons are processed.
         episode_number : `str`
             The desired episodeNumber. If None, all episodes are processed.
+        extension : `str`, optional
+            extension of the transcripts files, defaults to '.temp'
 
         Returns
         -------
@@ -134,7 +136,6 @@ class Plumcot(Database):
             Dictionnary with episodeId as key and dictionnary as value with
             transcripts as key and number of speech turns as value
         """
-
         # Template for processed episodes
         ep_template = id_series
         if season_number:
@@ -143,22 +144,24 @@ class Plumcot(Database):
                 ep_template += f".Episode{episode_number}"
 
         parent = Path(__file__).parent
-        temp_transcripts = glob.glob(f"{parent}/data/{id_series}/transcripts/"
-                                     f"{ep_template}*.temp")
+        transcripts = glob.glob(f"{parent}/data/{id_series}/transcripts/"
+                                     f"{ep_template}*{extension}")
 
         # Get transcript character names list by episode
         characters_dict = {}
-        for file in temp_transcripts:
+        for file in transcripts:
             with open(file, mode='r', encoding="utf8") as ep_file:
                 characters = {}
                 for line in ep_file:
                     charac = line.split()[0]
+                    if charac[-2:]=="'s":
+                        charac += line.split()[1]
                     if charac not in characters:
                         characters[charac] = 1
                     else:
                         characters[charac] += 1
             # Get episode name
-            ep_name = file.split("/")[-1].replace('.temp', '')
+            ep_name,_ = os.path.splitext(os.path.split(file)[1])
             characters_dict[ep_name] = characters
 
         return characters_dict
@@ -185,6 +188,9 @@ class Plumcot(Database):
                   encoding="utf8") as ep_file:
             for line in ep_file:
                 line_split = line.split()
+                if line_split[0][-2:]=="'s":
+                    line_split[0]+=line_split[1]
+                    line_split.pop(1)
                 line_split[0] = dic_names[line_split[0]]
                 file_text += " ".join(line_split) + '\n'
 
