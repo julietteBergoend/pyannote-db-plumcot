@@ -26,6 +26,15 @@ from pathlib import Path
 import Plumcot as PC
 import json
 import warnings
+import readline
+def input_with_prefill(prompt, text):
+    def hook():
+        readline.insert_text(text)
+        readline.redisplay()
+    readline.set_pre_input_hook(hook)
+    result = input(prompt)
+    readline.set_pre_input_hook()
+    return result
 
 def automatic_alignment(id_series, id_ep, refsT, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
@@ -233,12 +242,14 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
             else:
-                print("\nSuggestions :")
+                prefill=""
+                prompt=("\nType the new character's name "
+                        "(unk for unknown character): ")
                 for suggestion in imdb_chars:
                     if request.lower() in suggestion:
-                        print(suggestion)
-                new_name = input("\nType the new character's name "
-                                 "(unk for unknown character): ")
+                        prefill=suggestion
+                        break
+                new_name = input_with_prefill(prompt, prefill)
                 # Unknown character
                 if new_name == "unk" or not new_name:
                     new_name = unknown_char(request, id_ep)
