@@ -1,8 +1,8 @@
 edmure_tully If I may, nephew, I encountered a situation with one of my lieutenants at the Stone Mill which may have some bearing-
 brynden_tully Why don't you shut your mouth about that damned mill? And don't call him "nephew." He is your king.
-edmure_tully robb_stark knows I meant him no disr-
+edmure_tully Robb Stark knows I meant him no disr-
 brynden_tully You're lucky I'm not your king. I wouldn't let you wave your blunders around like a victory flag.
-edmure_tully My blunder sent Tywin's mad scurrying back to Casterly Rock with his tail between his legs. I think King robb_stark understands we're not gonna win this war if he's the only one winning any battles. No, there's glory enough to go around.
+edmure_tully My blunder sent Tywin's mad scurrying back to Casterly Rock with his tail between his legs. I think King Robb Stark understands we're not gonna win this war if he's the only one winning any battles. No, there's glory enough to go around.
 robb_stark It's not about glory. Your instructions were to wait for him to come to you.
 edmure_tully I seized an opportunity.
 robb_stark What value was the mill?
@@ -19,13 +19,13 @@ robb_stark Do you think he'll sue for peace because we have his father's brother
 edmure_tully No.
 robb_stark How many men did you lose?
 edmure_tully But for every man we lost, the Lannisters-
-robb_stark We need our men more than tywin_lannister  needs his!
+robb_stark We need our men more than Tywin Lannister  needs his!
 edmure_tully I'm sorry. I didn't know.
 robb_stark You would have. Right here today at this gathering if you had been patient.
 brynden_tully We seem to be running short of patience here.
-robb_stark You know who isn't? tywin_lannister  Lannister.
+robb_stark You know who isn't? Tywin Lannister.
 tyrion_lannister  Intimate. Lovely table. Better chairs than the old small council chamber. Conveniently close to your own quarters. I like it.
-tywin_lannister  What news of jaime_lannister?
+tywin_lannister  What news of Jaime?
 tywin_lannister  Twenty thousand unwashed Northerns have known about his escape for weeks. Collectively, you control more spies and informants than the rest of the world combined. Do you mean to tell me that none of you has any notion of where he is?
 lord_varys We are trying, my lord.
 tywin_lannister  Try harder. What do we have, then?
@@ -46,9 +46,9 @@ men#unknown#GameOfThrones.Season03.Episode03 He lifted her high in the air. He s
 jaime_lannister I hope you're pleased. If you had armed me, they never would have taken us.
 brienne_of_tarth You were armed when we were taken.
 jaime_lannister I was in chains if you recall. Our little match would have ended quite quick if my hands weren't bound.
-brienne_of_tarth All my life I've been hearing, 'jaime Lannister, what a brilliant swordsman.' You were slower than I expected. And more predictable.
+brienne_of_tarth All my life I've been hearing, 'Jaime Lannister, what a brilliant swordsman.' You were slower than I expected. And more predictable.
 jaime_lannister I've been sitting in a muddy pen wrapped in chains for the past year.
-brienne_of_tarth And I'm a woman. I was still beating you.
+brienne_of_tarth And I'm a woman. I was still beaing you.
 jaime_lannister You were not beating me.
 brienne_of_tarth Maybe you were as good as people said once. Or maybe people just love to overpraise a famous name.
 jaime_lannister When we make camp tonight, you'll be raped. More than once. None of these fellows have ever been with a noblewoman. You'd be wise not to resist.
@@ -104,8 +104,8 @@ brynden_tully Maybe? Your father was a stubborn old ox. I was surprised when he 
 catelyn_stark I'm glad you were with him. I wish to the gods I had been. Did you make peace in the end?
 brynden_tully After thirty years of fighting, I don't think he remembered what started it. He asked me to stop calling myself Blackfish. He said it was an old joke and it was never funny to begin with. I told him people had been calling me Blackfish for so long, they don't remember my real name.
 catelyn_stark Every time he would leave for the capital or fight in a campaign, I'd see him off. 'Wait for me, little Cat,' he'd say. 'Wait for me and I'll come back to you.' And I would sit at this window every day when the sun came up, waiting. I wonder how many times did Bran or Rickon stare across the moors of Winterfell waiting for me to return. I will never see them again.
-brynden_tully You mustn't think it. We don't know the truth. They could be in hiding. robb_stark believes they're alive. And he must go on believing. He's got to remain strong if he's to prevail. And you must remain strong for him.
-martyn You're robb Stark's wife.
+brynden_tully You mustn't think it. We don't know the truth. They could be in hiding. Robb believes they're alive. And he must go on believing. He's got to remain strong if he's to prevail. And you must remain strong for him.
+martyn You're Robb Stark's wife.
 talisa_stark Hold still.
 martyn Is it true what they say about him?
 talisa_stark I don't know. What do they say about him?
@@ -167,7 +167,7 @@ stannis_baratheon You're abandoning me.
 melisandre I will never abandon you. You are the Son of Fire.  I am sworn to serve you.
 stannis_baratheon Then serve me.
 melisandre When I return, you will understand.
-stannis_baratheon My enemies think they've destroyed me. They're laughing at me the way Renly laughed at me. I want Joffrey dead. I want robb_stark Stark dead. Make me another son.
+stannis_baratheon My enemies think they've destroyed me. They're laughing at me the way Renly laughed at me. I want Joffrey dead. I want Robb Stark dead. Make me another son.
 melisandre I cannot.
 stannis_baratheon Why?
 melisandre You don't have the strength. It would kill you.
@@ -246,7 +246,7 @@ daenerys_targaryen You belong to me now. It is your duty to tell me the truth.
 missandei Yes, Your Grace. Lying is a great offense. Many of those on the Walk of Punishment were taken there for less.
 daenerys_targaryen I offered water to one of the slaves dying on the Walk of Punishment. Do you know what he said to me? 'Let me die.'
 missandei There are no masters in the grave, Your Grace.
-daenerys_targaryen Is it true what Master kraznys_mo_nakloz told me about the Unsullied? About their obedience?
+daenerys_targaryen Is it true what Master kraznys told me about the Unsullied? About their obedience?
 missandei All questions have been taken from them. They obey, that is all. Once they are yours, they are yours. They will fall on their swords if you command it.
 daenerys_targaryen And what about you? You know that I'm taking you to war. You may go hungry. You may fall sick. You may be killed.
 missandei Valar morghulis.
@@ -299,7 +299,7 @@ podrick My lord, I don't even
 tyrion_lannister  She's here to thank you for being a thoroughly respectful fellow who's never once failed to address me as 'my lord.
 tyrion_lannister  Be back in time for my supper.
 bronn Pace yourself, lad.
-tyrion_lannister  For years I've heard that petyr_baelish is a magician. Whenever the crown needs money, he rubs his hands together and, poof, mountains of gold.
+tyrion_lannister  For years I've heard that Littlefinger is a magician. Whenever the crown needs money, he rubs his hands together and, poof, mountains of gold.
 bronn Let me guess. He's not a magician.
 tyrion_lannister  No.
 bronn He's stealing it?
@@ -347,14 +347,14 @@ soldier#unknown#GameOfThrones.Season03.Episode03 You little bastard.
 ramsay_bolton  Come, my lord.
 ramsay_bolton  You're a long way from home and winter is coming.
 locke I'll take the big bitch first. When she's good and wet, you lot can finish her off.
-brienne_of_tarth My lord, I am brienne_of_tarth of Tarth. Lady catelyn_stark Stark commanded me to deliver Ser jaime_lannister to King's Landing.
+brienne_of_tarth My lord, I am Brienne of Tarth. Lady Catelyn Stark commanded me to deliver Ser Jaime Lannister to King's Landing.
 locke catelyn Stark's a treasonous cunt. Orders were to take the Kingslayer alive. Nobody said shit about you.
 man You're only making it worse.
 locke Take her over there where it's dark. I'd like a little privacy.
 man Come on!
 jaime_lannister You know who she is, don't you?
 locke A big dumb bitch from who cares where. Never been with a woman that big.
-jaime_lannister She's brienne_of_tarth of Tarth. Her father is Lord Selwyn Tarth. Heard of Tarth?
+jaime_lannister She's Brienne of Tarth. Her father is Lord Selwyn Tarth. Heard of Tarth?
 man I'm gonna cut your throat!
 jaime_lannister They call it the Sapphire Isle. Do you know why? Every sapphire in Westeros was mined on Tarth. Sapphires are gemstones. The blue ones.
 locke I know what they are.

@@ -71,14 +71,14 @@ lord_varys Is he very large?
 ros No larger than usual, apparently. And yet they said that he was-
 lord_varys Extraordinary.
 ros The most extraordinary man they've ever had. And they've had a lot of men.
-lord_varys We're talking about the same Podrick? The quiet boy in Lord tyrion_lannister's service? Seems a bit simple?
+lord_varys We're talking about the same Podrick? The quiet boy in Lord Tyrion Lannister's service? Seems a bit simple?
 lord_varys What did he do to them?
 ros I don't know, my lord. The girls are usually quite descriptive.
 lord_varys So what did they say?
 ros They said it was hard to describe.
 lord_varys Huh. Prodigies appear in the oddest of places. And what did Littlefinger say about this loss of income?
 ros He was too preoccupied to notice. He's leaving for the Eyrie soon. I'm helping him prepare for his journey.
-lord_varys Ah, yes, to pursue his enduring love of the Lady Arryn and the title that comes with her. Sad, really. Is that all it takes to make our friend lose interest in poor sansa_stark Stark?
+lord_varys Ah, yes, to pursue his enduring love of the Lady Arryn and the title that comes with her. Sad, really. Is that all it takes to make our friend lose interest in poor Sansa Stark?
 ros He hasn't spoken to her since the last time, as far as I know. But I don't think he's lost interest.
 lord_varys What makes you say so?
 ros His shipboard inventory.
@@ -91,16 +91,16 @@ ros He's not interested in them, my lord.
 lord_varys How do you know?
 ros Because I'm one of his girls.
 lord_varys Prodigies in odd places indeed.
-joffrey_baratheon_greyjoy Rhaenyra Targaryen was murdered by her brother, or rather his dragon. It ate her while her son watched. What's left of her is buried in the crypts right down there.
+joffrey_baratheon Rhaenyra Targaryen was murdered by her brother, or rather his dragon. It ate her while her son watched. What's left of her is buried in the crypts right down there.
 cersei_lannister The ceremony is traditionally held in the main sanctum, which seats seven hundred comfortably.
 olenna_tyrell There appears to be a good deal of room elsewhere on the premises for everyone else.
 cersei_lannister There aren't more than seven hundred people of any importance.
 olenna_tyrell No, the rest are there to look adoringly upon the seven hundred to remind them how superior they must be to have the best seats.
-joffrey_baratheon_greyjoy Over there in that urn, the ashes of Aerion Targaryen. Aerion Brightflame, they called him. He thought drinking wildfire would turn him into a dragon.
-joffrey_baratheon_greyjoy He was wrong. And, of course, there's the Mad King, killed by my uncle. Would you like to see where the last Targaryens are buried?
+joffrey_baratheon Over there in that urn, the ashes of Aerion Targaryen. Aerion Brightflame, they called him. He thought drinking wildfire would turn him into a dragon.
+joffrey_baratheon He was wrong. And, of course, there's the Mad King, killed by my uncle. Would you like to see where the last Targaryens are buried?
 cersei_lannister Are you sure Lady margaery doesn't find all this a bit macabre?
 margaery_tyrell Oh, no, it's quite all right, Your Grace. I'd love to see their tombs, really. It's like taking a walk through history.
-joffrey_baratheon_greyjoy The tomb's just up here.
+joffrey_baratheon The tomb's just up here.
 margaery_tyrell This is so exciting.
 olenna_tyrell You were married here, Your Grace?
 cersei_lannister Yes.
@@ -117,19 +117,19 @@ olenna_tyrell I told him to stay out of Robert's Rebellion. He had no business f
 cersei_lannister And yet the world belongs to them.
 olenna_tyrell A ridiculous arrangement, to my mind.
 cersei_lannister The gods have seen fit to make it so.
-joffrey_baratheon_greyjoy My father didn't want them here. He was going to have their bodies burned and thrown in the Blackwater, but the High Septon convinced him otherwise.
+joffrey_baratheon My father didn't want them here. He was going to have their bodies burned and thrown in the Blackwater, but the High Septon convinced him otherwise.
 margaery_tyrell I'm glad he did. I'm sorry, Your Grace. I know they did terrible things at the end, but their ancestors built this. Sometimes severity is the price we pay for greatness.
-joffrey_baratheon_greyjoy I couldn't agree more.
+joffrey_baratheon I couldn't agree more.
 margaery_tyrell Shall we go and see them? If you give them your love, they will return it a thousandfold. I've spoken with them. I know how they feel about you. You led the defense of King's Landing. They adore you.
-joffrey_baratheon_greyjoy Open the doors.
+joffrey_baratheon Open the doors.
 cersei_lannister joffrey. Wait.
-woman#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
-woman#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
-woman#unknown#GameOfThrones.Season03.Episode04 Bless you, Lady margaery_tyrell!
-woman#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
-woman#unknown#GameOfThrones.Season03.Episode04 Lady margaery_tyrell!
-woman#unknown#GameOfThrones.Season03.Episode04 margaery_tyrell!
-woman#unknown#GameOfThrones.Season03.Episode04 Long live Lady margaery_tyrell!
+woman#unknown#GameOfThrones.Season03.Episode04 Lady Margaery!
+woman#unknown#GameOfThrones.Season03.Episode04 Lady Margaery!
+woman#unknown#GameOfThrones.Season03.Episode04 Bless you, Lady Margaery!
+woman#unknown#GameOfThrones.Season03.Episode04 Lady Margaery!
+woman#unknown#GameOfThrones.Season03.Episode04 Lady margaery!
+woman#unknown#GameOfThrones.Season03.Episode04 Margaery!
+woman#unknown#GameOfThrones.Season03.Episode04 Long live Lady Margaery!
 man#unknown#GameOfThrones.Season03.Episode04 King joffrey!
 woman#unknown#GameOfThrones.Season03.Episode04 King joffrey!
 woman#unknown#GameOfThrones.Season03.Episode04 King joffrey!
@@ -177,7 +177,7 @@ tywin_lannister You wanted to speak to me?
 cersei_lannister Yes, about jaime_lannister.
 tywin_lannister What about him?
 cersei_lannister I wanted to make sure we're doing everything we can to get him back.
-tywin_lannister When catelyn_stark  Stark took tyrion_lannister prisoner, what did I do in response?
+tywin_lannister When Catelyn Stark took tyrion_lannister prisoner, what did I do in response?
 cersei_lannister You started a war.
 tywin_lannister And if I would start a war for that lecherous little stump, what do you think I am doing for my oldest son and heir?
 cersei_lannister Whatever you can.
@@ -185,11 +185,11 @@ tywin_lannister Whatever I can.
 tywin_lannister You're still here.
 cersei_lannister Yes.
 tywin_lannister Why?
-cersei_lannister Did it ever occur to you that I might be the one who deserves your confidence and your trust, not your sons? Not jaime_lannister or tyrion_lannister, but me. Years and years of lectures on family and legacy- the same lecture, really, just with tiny, tedious variations- did it ever occur to you that your daughter might be the only one listening to them? Living by them? That she might have the most to contribute to your legacy that you love so much more than your actual children?
+cersei_lannister Did it ever occur to you that I might be the one who deserves your confidence and your trust, not your sons? Not Jaime or Tyrion, but me. Years and years of lectures on family and legacy- the same lecture, really, just with tiny, tedious variations- did it ever occur to you that your daughter might be the only one listening to them? Living by them? That she might have the most to contribute to your legacy that you love so much more than your actual children?
 tywin_lannister All right. Contribute.
 cersei_lannister The Tyrells are a problem.
 tywin_lannister The Tyrells helped us defeat Stannis Baratheon. The Tyrells saved your life, your children's lives.
-cersei_lannister margaery_tyrell has her claws in joffrey_baratheon. She knows how to manipulate him.
+cersei_lannister Margaery has her claws in Joffrey. She knows how to manipulate him.
 tywin_lannister Good. I wish you knew how to manipulate him. I don't distrust you because you're a woman. I distrust you because you're not as smart as you think you are. You've allowed that boy to ride roughshod over you and everyone else in this city.
 cersei_lannister Perhaps you should try stopping him from doing what he likes.
 tywin_lannister I will.
@@ -197,19 +197,19 @@ maid Do you like it, Nana?
 olenna_tyrell Another golden rose. How original. I eat from plates stamped with roses. I sleep in sheets embroidered with roses. I have a golden rose painted on my chamber pot, as if that makes it smell any better. Roses are boring, dear. 'Growing strong.' Ha! The dullest words of any house. 'Winter is coming!' Now that's memorable. 'We do not sow.' Strong. Strong. Those are houses you watch out for. Direwolves and krakens, fierce beasts. But a golden rose growing strong- ha, that strikes fear in the heart.
 olenna_tyrell Look, little loves. A spider in the garden. Run along now. Grow strong.
 lord_varys My lady. I wanted to personally welcome you to King's Landing. The city has been made brighter by your presence.
-olenna_tyrell The city is made brighter by my presence? Is that your usual line, Lord lord_varys? Are you here to seduce me?
+olenna_tyrell The city is made brighter by my presence? Is that your usual line, Lord varys? Are you here to seduce me?
 lord_varys A little obvious, perhaps.
 olenna_tyrell Oh, no, please. Seduce away. It's been so long. Though I rather think it's all for naught. What happens when the nonexistent bumps against the decrepit? A question for the philosophers. But you've come mincing all this way for something. So?
 lord_varys Might I sit?
 olenna_tyrell No. Come, I've heard you're such a clever man. I'm curious why you've sought me out.
-lord_varys You've taken an interest in sansa_stark Stark.
+lord_varys You've taken an interest in Sansa Stark.
 olenna_tyrell Have I? Because I spoke to her once in this garden and one of your little spies came running to tell you? Why shouldn't I take an interest? She's an interesting girl.
 lord_varys Is she?
 olenna_tyrell No, not particularly. But she's had an interesting childhood.
 lord_varys She has, sadly. Well, forgive me for wasting your time, then. I thought we shared certain hopes for her well-being.
 olenna_tyrell Come, come. You surrender rather easily. Walk with me. I know the walls have ears, but apparently the shrubbery does, too.
 lord_varys I choose my allies carefully and my enemies more carefully still.
-olenna_tyrell Which is sansa_stark Stark?
+olenna_tyrell Which is Sansa Stark?
 lord_varys Neither. A babe in the woods. I admired her father.
 olenna_tyrell Yes. Ned Stark had many admirers, and how many stepped forward when the executioner came for his head?
 lord_varys I could not help Lord Stark. Perhaps I can help his daughter.
@@ -218,15 +218,15 @@ lord_varys You're not the only one who has taken an interest in her.
 olenna_tyrell That's hardly surprising. She's a beautiful girl with a famous name.
 lord_varys Indeed. She'd make a lovely match for the right suitor.
 olenna_tyrell It almost feels as if you're about to arrive at the point.
-lord_varys Littlefinger is not long for the capital. A confidant of mine has told me that when he goes, sansa_stark Stark goes with him.
+lord_varys Littlefinger is not long for the capital. A confidant of mine has told me that when he goes, Sansa Stark goes with him.
 olenna_tyrell And why have you come to me with this matter?
 lord_varys Littlefinger was born with no lands, no wealth, no armies. He has acquired the first two. How long before he has the army?
-lord_varys Perhaps you'll laugh, but I know him better than most and this is the truth. Littlefinger is one of the most dangerous men in Westeros. If Robb Stark falls, sansa_stark Stark is the key to the North.
+lord_varys Perhaps you'll laugh, but I know him better than most and this is the truth. Littlefinger is one of the most dangerous men in Westeros. If Robb Stark falls, Sansa Stark is the key to the North.
 olenna_tyrell And if Littlefinger marries her, he'll have the key in his pocket.
 lord_varys Which seems such a shame. Why should a man with such a low reputation steal away such a lovely bride?
 olenna_tyrell You must despise him. You're working so hard to undermine him.
 lord_varys Actually, I rather enjoy him. But he would see this country burn if he could be king of the ashes.
-olenna_tyrell You are a clever man, Lord lord_varys.
+olenna_tyrell You are a clever man, Lord Varys.
 lord_varys You are too kind. I believe I have a possible solution.
 olenna_tyrell One doesn't need to be clever for that. It's all rather obvious, isn't it?
 margaery_tyrell Ahem. I didn't mean to disturb you.
@@ -252,7 +252,7 @@ margaery_tyrell I want us to be friends, good friends.
 sansa_stark That would make me very happy.
 margaery_tyrell You must see Highgarden. You'd love it there. I know you would. We have a great masquerade the night of the harvest moon. You should see the costumes. People work on them for months.
 sansa_stark I- I don't think the queen would let me leave King's Landing.
-margaery_tyrell The Queen Regent, you mean. Once I marry joffrey_baratheon, I'll be queen. And if you were to marry Loras... Oh, your place would be at Highgarden, wouldn't it? We would be sisters, you and I. Would you like that?
+margaery_tyrell The Queen Regent, you mean. Once I marry Joffrey, I'll be queen. And if you were to marry Loras... Oh, your place would be at Highgarden, wouldn't it? We would be sisters, you and I. Would you like that?
 jeor_mormont His name was Bannen. He was a good man, a good ranger. He came to us from- where did he come from?
 eddison_tollett Down White Harbor way.
 jeor_mormont He came to us from White Harbor. Never failed in his duty. He kept his vows the best he could. He rode far, fought fiercely. We shall never see his like again.
@@ -334,8 +334,8 @@ sandor_clegane I never touched the Targaryen babes. I never saw them, never smel
 arya_stark You murdered Mycah. The butchers boy. My friend. He was twelve years old. He was unarmed. And you rode him down. You slung him over your horse like he was some deer.
 sandor_clegane Aye, he was a bleeder.
 beric_dondarrion You don't deny killing this boy?
-sandor_clegane I was joffrey_baratheon's sworn shield. The boy attacked the prince.
-arya_stark That's a lie! I hit joffrey_baratheon. Mycah just ran away.
+sandor_clegane I was Joffrey Baratheon's sworn shield. The boy attacked the prince.
+arya_stark That's a lie! I hit Joffrey Baratheon. Mycah just ran away.
 sandor_clegane Then I should have killed you. Not my place to question princes.
 beric_dondarrion You stand accused of murder. But no one here knows the truth of the charge, so it is not for us to judge you. Only the Lord of Light may do that now. I sentence you to trial by combat.
 sandor_clegane So, who will it be? Should we find out if your fire god really loves you, priest? Or you, archer? What are you worth with a sword in your hand? Or is the little girl the bravest one here?
@@ -343,20 +343,20 @@ beric_dondarrion Aye. She might be. But it's me you'll fight.
 missandei The master says they are untested. He says you would be wise to blood them early. There are many small cities between here and there, cities ripe for sacking. Should you take captives, the masters will buy the healthy ones and for a good price.
 missandei And who knows? In ten years, some of the boys you send them may be Unsullied in their turn. Thus all shall prosper.
 daenerys_targaryen Is it done, then? They belong to me?
-kraznys_mo_nakloz,d It is done.
+kraznys_mo_nakloz It is done.
 missandei It is done.
-kraznys_mo_nakloz,d She holds the whip.
+kraznys_mo_nakloz She holds the whip.
 missandei You hold the whip.
-kraznys_mo_nakloz,d The bitch has her army.
+kraznys_mo_nakloz The bitch has her army.
 daenerys_targaryen Unsullied!
 daenerys_targaryen Forward march!
 daenerys_targaryen Halt!
-kraznys_mo_nakloz,d Tell the bitch her beast won't come.
+kraznys_mo_nakloz Tell the bitch her beast won't come.
 daenerys_targaryen A dragon is not a slave.
-kraznys_mo_nakloz,d You speak Valyrian?
-daenerys_targaryen I am daenerys_targaryen Stormborn of the House Targaryen, of the blood of Old Valyria. Valyrian is my mother tongue.
+kraznys_mo_nakloz You speak Valyrian?
+daenerys_targaryen I am Daenerys Targaryen Stormborn of the House Targaryen, of the blood of Old Valyria. Valyrian is my mother tongue.
 daenerys_targaryen Unsullied! Slay the masters, slay the soldiers, slay every man who holds a whip, but harm no child. Strike the chains off every slave you see!
-kraznys_mo_nakloz,d I am your master.
-kraznys_mo_nakloz,d Kill her! Kill her! Kill her!
+kraznys_mo_nakloz I am your master.
+kraznys_mo_nakloz Kill her! Kill her! Kill her!
 daenerys_targaryen Dracarys.
 daenerys_targaryen Unsullied! You have been slaves all your life. Today you are free. Any man who wishes to leave may leave, and no one will harm him. I give you my word. Will you fight for me? As free men?

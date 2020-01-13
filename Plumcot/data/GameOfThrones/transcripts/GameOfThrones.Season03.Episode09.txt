@@ -4,7 +4,7 @@ catelyn_stark It's dangerous.
 robb_stark If we take Tywin's castle from him, the lords of Westeros will realize he's not invincible.  Take his home, take his gold, take his power.
 catelyn_stark Why are you telling me?
 robb_stark You begged me not to send Theon to negotiate with his father and I ignored your advice.
-robb_stark Now Winterfell is burned to the ground.  The North is overrun with Ironborn and bran_stark and rickon_stark are gone.
+robb_stark Now Winterfell is burned to the ground.  The North is overrun with Ironborn and Bran  and Rickon  are gone.
 robb_stark So, Casterly Rock?  I'm asking your advice.
 catelyn_stark We have enough men?
 robb_stark If walder Frey cooperates.
@@ -49,8 +49,8 @@ daenerys_targaryen Lo jention mirre nūmāzme ēza, iderenna qopsa verdagon issa
 grey_worm I trust him.
 daenerys_targaryen again] You leave tonight.
 jorah_mormont Very good.  We'll prepare.
-barristan_selmy Ser jorah_mormont.  You can use an extra sword.
-jorah_mormont You're the Queensguard, Ser barristan_selmy.  Your place is by the Queen.  If we are truly her loyal servants, we'll do whatever needs to be done.  No matter the cost, no matter our pride.
+barristan_selmy Ser Jorah .  You can use an extra sword.
+jorah_mormont You're the Queensguard, Ser Barristan.  Your place is by the Queen.  If we are truly her loyal servants, we'll do whatever needs to be done.  No matter the cost, no matter our pride.
 samwell_tarly We're west of Castle Black, but the Nightfort's closest to us.  It was the first castle on the Wall. The Watch abandoned it during the reign of King Jaehaerys I.  Too big, impossible to maintain.  Other than Castle Black itself, the Nightfort's the perfect castle for us.  It's got a secret sally port, the Black Gate, as old as the Wall itself.  No one's used it for centuries, most likely.  It leads through the Wall right down into the Nightfort, if no one knows how to find it, which, it just so happens I do.
 gilly How do you know all that?
 samwell_tarly I read about it in a very old book.
@@ -77,7 +77,7 @@ sandor_clegane Good.
 arya_stark Don't kill him!  Please.  Please don't.
 sandor_clegane You're very kind.  Someday it'll get you killed.
 osha Where are we?
-bran_stark The Gift, I think.  bran_starkdon The Builder gave all this land south of the Wall to the Night’s Watch for their sustenance and support.  Maester Luwin taught me that.
+bran_stark The Gift, I think.  Brandon The Builder gave all this land south of the Wall to the Night’s Watch for their sustenance and support.  Maester Luwin taught me that.
 jojen_reed Doesn’t seem to be supporting anyone at the moment.
 meera_reed It’s good land and there’s no war up here.  Why leave?
 bran_stark Wildlings.
@@ -173,7 +173,7 @@ old_man#unknown#GameOfThrones.Season03.Episode09 Let me go with a bit of dignity
 orell Make the crow kill him.   You’re one of us now.  Prove it.
 jojen_reed The wolves are out there.
 bran_stark I can’t do it by choice.  I don’t know how.  It happens in my dreams.
-jojen_reed You’re a warg, bran_stark.  It’s in your blood.
+jojen_reed You’re a warg, Bran.  It’s in your blood.
 bran_stark I can’t.
 jojen_reed You just did, with him.
 jojen_reed A wolf is nothing compared to that.
@@ -191,12 +191,12 @@ tormund You’re not gonna die for one of them.
 jojen_reed Do it.  They’ll find us if you don’t.
 jon_snow You were right the whole time.
 daario_naharis When you hear a songbird’s whistle, you come.  I’m a great whistler, the greatest in the land.
-daario_naharis daario_naharis Naharis.
+daario_naharis Daario Naharis.
 daario_naharis That one was quick.
 jorah_mormont There may be others.
 daario_naharis I doubt it.  The Yunkish prefer to let their slaves do their fighting for them.
 jorah_mormont That’s what you call a few guards?
-roslin_frey Lord edmure_tully, I hope I’m not a disappointment to you.
+roslin_frey Lord Edmure, I hope I’m not a disappointment to you.
 edmure_tully You’re a delight to me, my lady.
 septon You may now cloak the bride and bring her under your protection.
 septon In the sight of the Seven, I hereby seal these two souls, binding them as one for eternity.  Look upon each other and say the words.
@@ -207,20 +207,20 @@ bran_stark You were right.  I can get inside Summer’s mind whenever I want.
 jojen_reed Of course you can.  North of the Wall there are wildlings who can control all sorts of animals.  But you did a lot more than that.  You got inside Hodor’s mind.
 bran_stark They can’t do that north of the Wall?
 jojen_reed No one can do that.  Anywhere.
-bran_stark When I was looking through Summer’s eyes, I saw jon_snow.
+bran_stark When I was looking through Summer’s eyes, I saw jon.
 rickon_stark Where?
 bran_stark He was with the wildlings.  They tried to kill him but he got away.
 osha He’ll be heading back to Castle Black then.  That’s where we should go.
 bran_stark For all we know, Castle Black’s already under attack.  If this many wildlings got through-
 osha I already told you.  I’m not going north of the Wall.
-bran_stark Everything jojen_reed told me is true.  You saw what I did to Hodor.  I have to find the three-eyed raven.
+bran_stark Everything Jojen told me is true.  You saw what I did to Hodor.  I have to find the three-eyed raven.
 osha Listen to me, little lord.
-bran_stark Don’t worry, I’m not asking you to come with me.  It won’t be safe for rickon_stark.
+bran_stark Don’t worry, I’m not asking you to come with me.  It won’t be safe for Rickon.
 rickon_stark Me? I’m coming with you.
 bran_stark No.  You and Osha and Shaggydog head for the Last Hearth.  The Umbers are our bannermen.  They’ll protect you.
 rickon_stark I’m coming with you.  I’m your brother.  I have to protect you.
 bran_stark Right now, I have to protect you.
-bran_stark robb_stark’s at war and I’m going beyond the Wall.  If something happens to us, you’re the heir to Winterfell.
+bran_stark Robb’s at war and I’m going beyond the Wall.  If something happens to us, you’re the heir to Winterfell.
 bran_stark Will you know how to find the last Hearth?
 osha You Southerners build your big castles and you never move.  You’re easy to find.
 rickon_stark We’re not Southerners.
@@ -235,7 +235,7 @@ osha Say your good-byes, little man.
 osha Keep this one safe.    He means the world to me.
 daenerys_targaryen We’ve been waiting a long time.   Haven’t we?    Well I don’t know, you tell me.  How long does it take to sack a city?
 jorah_mormont It was just as you said.  They did not believe until it was too late.  Their slave soldiers threw down their spears and surrendered.
-daenerys_targaryen And daario_naharis Naharis?
+daenerys_targaryen And Daario Naharis?
 daario_naharis The city is yours, my queen.
 talisa_stark They’re good, aren’t they?
 lothar_frey They ought to be because they cost enough.
@@ -247,21 +247,21 @@ blackfish What? He’s my nephew, I love him.  And he’s a damned fool.
 catelyn_stark Don’t you drink, Lord Bolton?
 roose_bolton Never do, my lady.  Dulls the senses.
 blackfish That’s the point.  Didn’t you marry one of these Frey girls?
-roose_bolton Aye.  Lord walder_frey let me choose any of his granddaughters and promised me the girl’s weight in silver as a dowry.  So I have a fat, young bride.
+roose_bolton Aye.  Lord Walder let me choose any of his granddaughters and promised me the girl’s weight in silver as a dowry.  So I have a fat, young bride.
 catelyn_stark I hope she makes you very happy.
 roose_bolton Well, she’s made me very rich.
 blackfish Pardon, my lord, my lady.  I need to find a tree to piss on.
 robb_stark My mother’s alone with roose Bolton.  I should rescue her.
 talisa_stark Your mother is less in need of rescue than any woman I’ve ever met.
 robb_stark Be kind.  She’s finally starting to like you.
-talisa_stark And I like her.  But if she had her way, I would be back in Volantis, playing my harp and you would be sitting over there , eating blackberries out of roslin_frey Frey’s hand.
+talisa_stark And I like her.  But if she had her way, I would be back in Volantis, playing my harp and you would be sitting over there , eating blackberries out of Roslin Frey’s hand.
 robb_stark Perhaps I’ve made a terrible mistake.
 robb_stark Striking your king is an act of treason.
 talisa_stark No, don’t.  Don’t insult them.
 walder_frey Your Grace.
-walder_frey The Septon has prayed his prayers, some words were said and Lord edmure_tully has wrapped my daughter in a cloak.  But they are not yet man and wife.  A sword needs a sheath . And a wedding needs a bedding .  What does my sire say?
+walder_frey The Septon has prayed his prayers, some words were said and Lord Edmure has wrapped my daughter in a cloak.  But they are not yet man and wife.  A sword needs a sheath . And a wedding needs a bedding .  What does my sire say?
 everybody To bed! To bed! To bed!
-robb_stark If you think the time is right, Lord walder_frey, by all means, let us bed them.
+robb_stark If you think the time is right, Lord Walder, by all means, let us bed them.
 everybody To bed! To bed! To bed!
 edmure_tully Ho-ho!  Careful now, ladies.  Once you set that monster free, there’s no caging him again .
 everybody To bed! To bed! To bed!
@@ -289,15 +289,15 @@ frey_guard Are you soft in the head?  Turn this cart around!
 walder_frey Your Grace.
 walder_frey I feel I’ve been remiss in my duties.
 walder_frey I’ve given you meat and wine and music but I haven’t shown you the hospitality you deserve.  My king has married and I owe my new queen a wedding gift.
-catelyn_stark robb_stark!
+catelyn_stark Robb!
 man#unknown#GameOfThrones.Season03.Episode09 You ready to head home to Winterfell, eh?
 man#unknown#GameOfThrones.Season03.Episode09 Feast over yet, is it?
 frey_man#unknown#GameOfThrones.Season03.Episode09 Aye, it’s over!
 sandor_clegane It’s too late.
 walder_frey The King in the North arises, heh heh.
-catelyn_stark Lord walder_frey!  Lord walder_frey, enough!  Let it end!  Please!  He is my son!   My first son!  Let him go and I swear that we will forget this!  I swear it by the Old Gods and New!  We will take no vengeance.
+catelyn_stark Lord Walder!  Lord Walder, enough!  Let it end!  Please!  He is my son!   My first son!  Let him go and I swear that we will forget this!  I swear it by the Old Gods and New!  We will take no vengeance.
 walder_frey You already swore me one oath right here in my castle.  You swore by all the Gods, your son would marry my daughter!
-catelyn_stark Take me for a hostage but let robb_stark go!  robb_stark, get up! Get up and walk out!  Please!  Please!
+catelyn_stark Take me for a hostage but let Robb go!  Robb, get up! Get up and walk out!  Please!  Please!
 walder_frey And why I would let him do that?
 catelyn_stark On my honor as a Tully, on my honor as a Stark, let him go or I will cut your wife’s throat!
 walder_frey I’ll find another.

@@ -79,7 +79,7 @@ ygritte It's you and me that matters to me and you. Don't ever betray me.
 jon_snow  I won't.
 ygritte 'Cause I'll cut your pretty cock right off and wear it 'round my neck.
 tormund Sink your metal deep and make sure it holds before taking your next step. And if you fall, don't scream. You don't want that to be the last thing she remembers.
-arya_stark Joffrey. cersei_lannister. Ilyn Payne.
+arya_stark Joffrey. Cersei. Ilyn Payne.
 anguy You're good. You're not as good as you think you are.
 arya_stark Face, tits, balls- I hit 'em right where I wanted to.
 anguy Aye, but you took your sweet time of it. You won't be fighting straw men, little lady. Show me your position.
@@ -186,7 +186,7 @@ robb_stark We will do whatever we can to give Lord Frey what he needs.
 black_walder Not what, whom.
 edmure_tully What?
 edmure_tully No.
-lothar_frey Our father requires Lord edmure_tully to wed one of his daughters- Roslin.
+lothar_frey Our father requires Lord Edmure to wed one of his daughters- Roslin.
 edmure_tully How old is she?
 lothar_frey Nineteen.
 edmure_tully Could I see her first?
@@ -211,15 +211,15 @@ robb_stark I've won every battle, but I'm losing this war. If we don't do this a
 edmure_tully I'll marry her.
 robb_stark You're paying for my sins, Uncle. It's not fair or right. I'll remember it.
 roose_bolton I see my men have finally found you something appropriate to wear.
-brienne_of_tarth Yes. Most kind of them. You're a Stark bannerman, Lord Bolton. I am acting on Lady Stark's orders to return jaime Lannister to King's Landing.
-roose_bolton When King robb_stark left Harrenhal, his mother was his prisoner. If she wasn't his mother, he'd have hanged her for treason.
-roose_bolton I should send you back to robb_stark Stark.
+brienne_of_tarth Yes. Most kind of them. You're a Stark bannerman, Lord Bolton. I am acting on Lady Stark's orders to return Jaime Lannister to King's Landing.
+roose_bolton When King Robb Stark left Harrenhal, his mother was his prisoner. If she wasn't his mother, he'd have hanged her for treason.
+roose_bolton I should send you back to Robb Stark.
 jaime_lannister You should. But instead, you're sitting here watching me fail at dinner. Why might that be?
 roose_bolton Wars cost money. Many people would pay a great deal for you.
 jaime_lannister We both know who would pay the most. Or make you pay the most if he found out you had captured me and sent me back up north for a summary execution.
 roose_bolton You're right. Perhaps the safest thing to do is to kill you both and burn your bodies.
 jaime_lannister It would be, if you honestly believed my father would never find out about it.
-roose_bolton King robb_stark is keeping your father quite busy. He doesn't have time for anything else.
+roose_bolton King Robb is keeping your father quite busy. He doesn't have time for anything else.
 jaime_lannister He'll make time for you.
 roose_bolton As soon as you're well enough to travel, I will allow you to go to King's Landing as restitution for the mistakes my soldiers made. And you will swear to tell your father the truth, that I had nothing to do with your maiming.
 jaime_lannister Shall we drink on it?
@@ -255,9 +255,9 @@ olenna_tyrell Lie or not, you must admit many people find it quite convincing. C
 tywin_lannister I don't care what people believe. And neither do you.
 olenna_tyrell As an authority on myself, I must disagree.
 tywin_lannister Now, if the rumors about my children were true, then Joffrey is no king at all and House Tyrell is throwing its prized flower into the dirt.
-olenna_tyrell And if cersei_lannister is too old to give loras_tyrell children, we're throwing another prized flower into the dirt. It is a chance we simply cannot take.
+olenna_tyrell And if Cersei is too old to give Loras children, we're throwing another prized flower into the dirt. It is a chance we simply cannot take.
 tywin_lannister The uncertainty makes you uncomfortable. All right. I'll remove it for you.
-tywin_lannister If you refuse to marry loras_tyrell to cersei_lannister, I will name him to the Kingsguard. I'm sure you're familiar with the Kingsguard vows. He will never marry. He will never have children.
+tywin_lannister If you refuse to marry Loras to Cersei, I will name him to the Kingsguard. I'm sure you're familiar with the Kingsguard vows. He will never marry. He will never have children.
 olenna_tyrell Oh
 tywin_lannister The Tyrell name will fade. And Highgarden will go to the children of Joffrey and Margaery.
 olenna_tyrell You would have your grandson protected by someone who disgusts you?
@@ -288,7 +288,7 @@ tyrion_lannister The impulse I understand. He hates me because I'm the only one 
 cersei_lannister What do you want me to say?
 tyrion_lannister I want you to tell me if my life is still in danger.
 cersei_lannister Probably. But not from Joffrey. He won't do anything now Father's here.
-tyrion_lannister Seven kingdoms united in fear of tywin_lannister Lannister.
+tyrion_lannister Seven kingdoms united in fear of Tywin Lannister.
 cersei_lannister Not the Tyrells. Soon they won't need to be afraid of him. Joffrey will belong to Margaery, the little doe-eyed whore. And so will his children and their children. History will be taken from our hands.
 tyrion_lannister You may escape, at least. Once jaime gets back, Ser loras may come down with a terrible case of sword through bowels.
 cersei_lannister When jaime gets back, yes. But when do we think that's going to be? He's out there somewhere.
@@ -296,7 +296,7 @@ tyrion_lannister jaime or not, I'm truly fucked.
 cersei_lannister Who's going to tell her?
 sansa_stark Do you think people will like it?
 shae I don't think they will even notice it.
-sansa_stark You're right. It's not my wedding. Anyway, from what I can tell, the dressmakers in Highgarden will be far superior to the ones in King's Landing. They'd never make me anything as dull as this for my wedding. loras_tyrell likes green and gold brocade.
+sansa_stark You're right. It's not my wedding. Anyway, from what I can tell, the dressmakers in Highgarden will be far superior to the ones in King's Landing. They'd never make me anything as dull as this for my wedding. Loras likes green and gold brocade.
 shae I'm sure he does.
 sansa_stark Will they let me invite my family?
 shae They haven't asked my opinion.
@@ -318,7 +318,7 @@ petyr_baelish There aren't. There aren't even two hundred. I've counted.
 lord_varys Ha, I'm sure you have. Ugly old thing. Yet it has a certain appeal. The Lysa Arryn of chairs. Shame you had to settle for your second choice.
 petyr_baelish Early days, my friend. It is flattering, really, you feeling such dread at the prospect of me getting what I want.
 lord_varys Thwarting you has never been my primary ambition, I promise you. Although who doesn't like to see their friends fail now and then?
-petyr_baelish You're so right. For instance, when I thwarted your plan to give sansa_stark Stark to the Tyrells. If I'm going to be honest, I did feel an unmistakable sense of enjoyment there. But your confidant, the one who fed you information about my plans, the one you swore to protect, you didn't bring her any enjoyment. And she didn't bring me any enjoyment. She was a bad investment on my part. Luckily, I have a friend who wanted to try something new. Something daring. And he was so grateful to me for providing this fresh experience.
+petyr_baelish You're so right. For instance, when I thwarted your plan to give Sansa Stark to the Tyrells. If I'm going to be honest, I did feel an unmistakable sense of enjoyment there. But your confidant, the one who fed you information about my plans, the one you swore to protect, you didn't bring her any enjoyment. And she didn't bring me any enjoyment. She was a bad investment on my part. Luckily, I have a friend who wanted to try something new. Something daring. And he was so grateful to me for providing this fresh experience.
 lord_varys I did what I did for the good of the realm.
 petyr_baelish The realm? Do you know what the realm is? It's the thousand blades of Aegon's enemies. A story we agree to tell each other over and over till we forget that it's a lie.
 lord_varys But what do we have left once we abandon the lie? Chaos. A gaping pit waiting to swallow us all.
