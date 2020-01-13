@@ -42,7 +42,7 @@ tywin_lannister  It would appear to be a position that best suits your talents.
 tyrion_lannister  I'm quite good at spending money, but a lifetime of outrageous wealth hasn't taught me much about managing it.
 cersei I have no doubt you will prove equal to this challenge.
 grand_maester_pycelle Hear, hear.
-men He lifted her high in the air. He sniffed and roared and smelled her there. She kicked and wailed, a maid so fair. But he licked the honey from her hair. From there to here, from here to there. All black and brown and covered with hair. He smelled that girl in the summer air. The bear, the bear and the maiden fair.
+men#unknown#GameOfThrones.Season03.Episode03 He lifted her high in the air. He sniffed and roared and smelled her there. She kicked and wailed, a maid so fair. But he licked the honey from her hair. From there to here, from here to there. All black and brown and covered with hair. He smelled that girl in the summer air. The bear, the bear and the maiden fair.
 jaime_lannister I hope you're pleased. If you had armed me, they never would have taken us.
 brienne_of_tarth You were armed when we were taken.
 jaime_lannister I was in chains if you recall. Our little match would have ended quite quick if my hands weren't bound.
@@ -158,7 +158,7 @@ ramsay_bolton  Ride east. Follow the rising sun. Your sister's waiting for you.
 theon I'll make you a Lord of the Iron Islands for this.
 ramsay_bolton  We're not in the Iron Islands. Go.
 theon Come on. Come on. Come on. Come on. Come on.
-man Come on back.
+man#unknown#GameOfThrones.Season03.Episode03 Come on back.
 stannis_baratheon You refuse to tell me where you're going?
 melisandre I don't know yet. The fires will show me.
 stannis_baratheon How long will you be gone?
@@ -375,7 +375,7 @@ jaime_lannister Fighting bravely for a losing cause is admirable. Fighting for a
 locke Hard to argue with that.
 jaime_lannister Now that we're speaking together man to man, I wonder if you need to keep me chained to this tree. I'm not asking to be freed from my constraints, but if I could sleep lying down, my back would thank you for it. I'm not as young and resilient as I was once.
 locke None of us are. Unchain Ser jaime_lannister from the tree.
-man Come on, men.
+man#unknown#GameOfThrones.Season03.Episode03 Come on, men.
 locke Suppose you'll be wanting something to eat.
 jaime_lannister I'm famished, actually.
 locke I think we've got a spare partridge on the fire.
