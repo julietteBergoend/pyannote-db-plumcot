@@ -78,7 +78,7 @@ def Decrement(transcript_path):
     old_season_number=None
     for transcript in sorted(os.listdir(transcript_path)):
         uri,extension=os.path.splitext(transcript)
-        if extension==".wav":
+        if extension==".wav" or extension==".srt" :
             uri,encoding=os.path.splitext(uri)
         else:
             encoding=""
