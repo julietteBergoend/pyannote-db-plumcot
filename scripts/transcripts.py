@@ -4,7 +4,7 @@
 import re
 import os
 import pyannote.database
-
+from pathlib import Path
 
 #pattern for '#' which is not unk
 #pattern=r'\n.*(?<!unknown)#(?!unk).*'
@@ -18,6 +18,21 @@ with open(os.path.join(SERIE_PATH,"episodes.txt"),'r') as file:
         episodes=set([episode.split(',')[0] for episode in episodes])
 correct=False
 
+def temp_txt_gen(transcript_path,episodes):
+    for episode in sorted(episodes):
+        print(f"-------------------\n{episode}\n")
+        if episode=="":
+            continue
+        file=Path(transcript_path,episode)
+        temp=str(file)+".temp"
+        txt=str(file)+".txt"
+        with open(temp,'r') as file:
+            temp=file.read().split("\n")
+        with open(txt,'r') as file:
+            txt=file.read().split("\n")
+        for temp_line, txt_line in zip(temp,txt):
+            if temp_line!="":
+                yield (temp_line, txt_line)
 
 def get_season_number(uri):
     return int(re.findall(r'\d+', uri.split(".")[1])[0])
