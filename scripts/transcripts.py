@@ -74,14 +74,19 @@ def Increment(transcript_path):
             )
     return todo
 
-def Decrement(transcript_path):
+def Decrement(transcript_path,with_ext=".txt",with_enc=None):
     old_season_number=None
     for transcript in sorted(os.listdir(transcript_path)):
         uri,extension=os.path.splitext(transcript)
+        if extension != with_ext:
+            continue
         if extension==".wav" or extension==".srt" :
             uri,encoding=os.path.splitext(uri)
         else:
             encoding=""
+        if with_enc:
+            if encoding!=with_enc:
+                continue
         season_number=get_season_number(uri)
         if season_number!=old_season_number:
             old_season_number=season_number
