@@ -11,9 +11,10 @@ from pathlib import Path
 
 #pattern for multiple new lines
 #pattern=r'\n\n'
-SERIE_PATH='Plumcot/data/TheOffice/'
-transcript_path=os.path.join(SERIE_PATH,'transcripts')
-with open(os.path.join(SERIE_PATH,"episodes.txt"),'r') as file:
+SERIE_PATH=Path('Plumcot/data/TheOffice/')
+wav_path=Path('/vol/work3/lefevre/dvd_extracted/TheOffice')
+transcript_path=Path(SERIE_PATH,'transcripts')
+with open(Path(SERIE_PATH,"episodes.txt"),'r') as file:
         episodes=file.read().split("\n")
         episodes=set([episode.split(',')[0] for episode in episodes])
 correct=False
@@ -73,11 +74,14 @@ def Increment(transcript_path):
             )
     return todo
 
-Increment(transcript_path)
 def Decrement(transcript_path):
     old_season_number=None
     for transcript in sorted(os.listdir(transcript_path)):
         uri,extension=os.path.splitext(transcript)
+        if extension==".wav":
+            uri,encoding=os.path.splitext(transcript)
+        else:
+            encoding=""
         season_number=get_season_number(uri)
         if season_number!=old_season_number:
             old_season_number=season_number
@@ -92,26 +96,12 @@ def Decrement(transcript_path):
             new_uri=increment_episode_number(uri,decrement)
         if uri != new_uri:
             print(f"{uri} -> {new_uri}")
+            old_path=os.path.join(transcript_path,transcript)
+            new_path=os.path.join(transcript_path,f"{new_uri}{encoding}{extension}")
+            print(f"{old_path} -> {new_uri}")
             if correct:
                 os.rename(
-                    os.path.join(transcript_path,transcript),
-                    os.path.join(transcript_path,f"{new_uri}{extension}")
+                    old_path,
+                    new_path
                 )
-    # if uri not in episodes:
-    #     print(uri)
-
-    # with open(transcript_path+"/"+transcript,'r') as file:
-    #     raw=file.read()
-    #
-    # if correct:
-    #     corrected=re.sub(pattern, "", raw)
-    #     with open(transcript_path+"/"+transcript,'w') as file:
-    #         file.write(corrected)
-    # else:
-    #     for line in raw.split("\n"):
-    #         if line.isspace():
-    #             print(transcript)
-        # matches=re.findall(pattern,raw)
-        # if len(matches)!=0:
-        #     print(transcript)
-        #     print(matches)
+Decrement(wav_path)
