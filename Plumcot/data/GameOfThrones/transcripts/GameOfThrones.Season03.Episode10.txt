@@ -10,7 +10,7 @@ tyrion_lannister Hmm. Ser Eldrick Sarsfield and Lord Desmond Crakehall. Ser Eldr
 sansa_stark What are you doing?
 tyrion_lannister I have a list.
 sansa_stark A list of people you mean to kill?
-tyrion_lannister For laughing at me? Do I look like joffrey_baratheon_greyjoy to you? No, death seems a bit extreme. Fear of death, on the other hand-
+tyrion_lannister For laughing at me? Do I look like Joffrey to you? No, death seems a bit extreme. Fear of death, on the other hand-
 sansa_stark You should learn to ignore them.
 tyrion_lannister My lady, people have been laughing at me far longer than they've been laughing at you. I'm the Halfman, the Demon Monkey, the Imp.
 sansa_stark You're a Lannister. I am the disgraced daughter of the traitor Ned Stark.
@@ -18,11 +18,11 @@ tyrion_lannister The disgraced daughter and the Demon Monkey. We're perfect for 
 sansa_stark So how should we punish them?
 tyrion_lannister Who? Whom?
 sansa_stark Ser Eldrick Sarsfield and Lord Desmond Crakehall.
-tyrion_lannister Ah. I could speak to Lord lord_varys and learn their perversions. Anyone named Desmond Crakehall must be a pervert.
+tyrion_lannister Ah. I could speak to Lord Varys and learn their perversions. Anyone named Desmond Crakehall must be a pervert.
 sansa_stark I hear that you're a pervert.
 tyrion_lannister I am the Imp. I have certain standards to maintain.
 sansa_stark We could sheep shift Lord Desmond's bed. You cut a little hole in his mattress and you stuff sheep dung inside. Then you sew up the hole and make his bed again. His room will stink, but he won't know where it's coming from.
-tyrion_lannister Lady sansa_stark!
+tyrion_lannister Lady Sansa!
 sansa_stark My sister used to do that when she was angry with me. And she was always angry with me.
 tyrion_lannister Why sheep shift?
 sansa_stark That's the vulgar word for dung.
@@ -31,33 +31,33 @@ sansa_stark Well, you asked me.
 girl Oh! That's him!
 podrick_payne My lord, my lady. Your father has called a meeting of the small council.
 tyrion_lannister Killed a few puppies today?
-joffrey_baratheon_greyjoy Show him. Come on, show him.
+joffrey_baratheon Show him. Come on, show him.
 grand_maester_pycelle Oh, apologies, my lord. Old fingers.
 tyrion_lannister 'Roslin caught a fine fat trout. Her brothers gave her a pair of wolf pelts for her wedding. Signed Walder Frey.' Is that bad poetry or is it supposed to mean something?
-joffrey_baratheon_greyjoy Robb Stark is dead. And his bitch mother.  Write back to Lord Frey. Thank him for his service and command him to send Robb Stark's head. I'm going to serve it to sansa_stark at my wedding feast.
-lord_varys Your Grace, Lady sansa_stark is your aunt by marriage.
-cersei_lannister A joke. joffrey_baratheon_greyjoy did not mean it.
-joffrey_baratheon_greyjoy Yes, I did. I'm going to have it served to sansa_stark at my wedding feast.
+joffrey_baratheon Robb Stark is dead. And his bitch mother.  Write back to Lord Frey. Thank him for his service and command him to send Robb Stark's head. I'm going to serve it to Sansa  at my wedding feast.
+lord_varys Your Grace, Lady Sansa is your aunt by marriage.
+cersei_lannister A joke. Joffrey Baratheon did not mean it.
+joffrey_baratheon Yes, I did. I'm going to have it served to Sansa at my wedding feast.
 tyrion_lannister No. She is no longer yours to torment.
-joffrey_baratheon_greyjoy Everyone is mine to torment. You'd do well to remember that, you little monster.
+joffrey_baratheon Everyone is mine to torment. You'd do well to remember that, you little monster.
 tyrion_lannister Oh, I'm a monster. Perhaps you should speak to me more softly, then. Monsters are dangerous and just now kings are dying like flies.
-joffrey_baratheon_greyjoy I could have your tongue out for saying that.
+joffrey_baratheon I could have your tongue out for saying that.
 cersei_lannister Let him make his threats. Hmm? He's a bitter little man.
-grand_maester_pycelle Lord tyrion_lannister should apologize immediately. Unacceptable, disrespectful, and in very bad taste.
-joffrey_baratheon_greyjoy I am the king! I will punish you.
+grand_maester_pycelle Lord Tyrion should apologize immediately. Unacceptable, disrespectful, and in very bad taste.
+joffrey_baratheon I am the king! I will punish you.
 tywin_lannister Any man who must say, 'I am the king' is no true king. I'll make sure you understand that when I've won your war for you.
-joffrey_baratheon_greyjoy My father won the real war. He killed Prince Rhaegar. He took the crown while you hid under Casterly Rock!
+joffrey_baratheon My father won the real war. He killed Prince Rhaegar. He took the crown while you hid under Casterly Rock!
 tywin_lannister The king is tired. See him to his chambers.
 cersei_lannister Come along.
-joffrey_baratheon_greyjoy I'm not tired.
+joffrey_baratheon I'm not tired.
 cersei_lannister We have so much to celebrate. A wedding to plan. You must rest.
 tywin_lannister Grand Maester, perhaps some essence of nightshade to help him sleep.
-joffrey_baratheon_greyjoy I'm not tired!
+joffrey_baratheon I'm not tired!
 cersei_lannister Come.
 tywin_lannister Not you.
 tyrion_lannister You just sent the most powerful man in Westeros to bed without his supper.
 tywin_lannister You're a fool if you believe he's the most powerful man in Westeros.
-tyrion_lannister A treasonous statement. joffrey_baratheon_greyjoy is king.
+tyrion_lannister A treasonous statement. Joffrey is king.
 tywin_lannister You really think a crown gives you power?
 tyrion_lannister No. I think armies give you power.
 tywin_lannister Mm-hmm.
@@ -70,7 +70,7 @@ tywin_lannister But to slaughter them at a wedding. Explain to me why it is more
 tyrion_lannister So that's why you did it? To save lives?
 tywin_lannister To end the war. To protect the family. Do you want to write a song for the dead Starks? Go ahead, write one. I'm in this world a little while longer to defend the Lannisters, to defend my blood.
 tyrion_lannister The Northerners will never forget.
-tywin_lannister Good. Let them remember what happens when they march on the south. All the Stark men are dead. Winterfell is a ruin. Roose Bolton will be named Warden of the North until your son by sansa_stark comes of age.
+tywin_lannister Good. Let them remember what happens when they march on the south. All the Stark men are dead. Winterfell is a ruin. Roose Bolton will be named Warden of the North until your son by Sansa comes of age.
 tywin_lannister I believe you still have some work to do on that score.
 tyrion_lannister Do you think she'll open her legs for me after I tell her how we murdered her mother and brother?
 tywin_lannister One way or another, you will get that girl pregnant.
@@ -100,9 +100,9 @@ meera_reed If the gods turned every killer into a giant white rat-
 bran_stark It wasn't for murder the gods cursed the Rat Cook or for serving the king's son in a pie. He killed a guest beneath his roof. That's something the gods can't forgive.
 walder_frey 'The late Walder Frey,' old Hoster called me because I didn't get my men to the Trident in time for battle. He thought he was witty. Look at us now, Tully. You're dead, your daughter Catelyn's dead, your grandson's dead, your son spent his wedding night in a dungeon, and I'm Lord of Riverrun.
 roose_bolton The Blackfish escaped.
-walder_frey An old man on the run with no allies. I have tywin_lannister Lannister backing me. Who does he have?
+walder_frey An old man on the run with no allies. I have Tywin Lannister backing me. Who does he have?
 roose_bolton As you say.
-walder_frey They all laughed at me, all those high lords. They all thought they were better than me. Ned Stark, Hoster Tully. People snigger when I marry a young girl, but who said a word when jon_snow Arryn married the little Tully bitch?
+walder_frey They all laughed at me, all those high lords. They all thought they were better than me. Ned Stark, Hoster Tully. People snigger when I marry a young girl, but who said a word when Jon Arryn married the little Tully bitch?
 roose_bolton You'll be needing a new young girl.
 walder_frey Yeah. Got that to look forward to.
 walder_frey And you, the Warden of the North. No more Starks to bow and scrape to. Must have been torture following that stupid boy all over the country.
@@ -113,9 +113,9 @@ roose_bolton Forever young.
 walder_frey Will you move to Winterfell now that the war's over?
 roose_bolton At some point perhaps. But Winterfell's in ruins.
 walder_frey Yeah. What happened up there? I heard the Greyjoy boy seized the place. I heard he killed all the ravens. And after that, nothing.
-roose_bolton I sent my bastard ramsay to root him out.  Robb Stark offered amnesty for the Ironborn if they gave us theon_greyjoy.
+roose_bolton I sent my bastard ramsay to root him out.  Robb Stark offered amnesty for the Ironborn if they gave us Theon Greyjoy.
 walder_frey Oh. And?
-roose_bolton ramsay delivered the terms. The Ironborn turned on theon_greyjoy as we knew they would. They handed him over trussed and hooded. But ramsay- well ramsay has his own way of doing things.
+roose_bolton Ramsay delivered the terms. The Ironborn turned on Theon Greyjoy as we knew they would. They handed him over trussed and hooded. But ramsay- well ramsay has his own way of doing things.
 ramsay_bolton Well, the girls weren't lying. You had a good-sized cock.
 ramsay_bolton What? No. Pork sausage. You think I'm some sort of savage?
 ramsay_bolton People talk about phantom limbs. An amputee might have an itch where his foot used to be. So I've always wondered do eunuchs have a phantom cock?
@@ -161,7 +161,7 @@ jojen_reed How did you get through the Wall?
 meera_reed Does the well lead to an underground river? Is that how you came here?
 samwell_tarly Come with us. There are steps carved into the south side of the Wall. Hodor can carry you to the top. We'll walk straight to Castle Black.
 gilly Come with us. There's nothing north but death.
-samwell_tarly If jon_snow is alive, then Castle Black's where he'll be. It's the safest place for you.
+samwell_tarly If Jon is alive, then Castle Black's where he'll be. It's the safest place for you.
 jojen_reed There's nowhere safe any longer. You know that.
 samwell_tarly What I know is what I saw. And if you saw it, too, you'd run the other way.
 jojen_reed You saw the White Walkers and the army of the dead.
@@ -170,9 +170,9 @@ jojen_reed The Night's Watch can't stop them. The kings of Westeros and all thei
 samwell_tarly But you're going to stop them?
 bran_stark Please, Sam. I have to go north. I have to.
 balon_greyjoy 'balon Greyjoy, Lord of the Iron Islands and invader of the North. I give you until the full moon to order all Ironborn scum out of the North and back to those shit-stained rocks you call a home.
-balon_greyjoy On the first night of the full moon, I will hunt down every islander still in our lands and flay them living the way I flayed the twenty Ironborn scum I found at Winterfell. In the box you'll find a special gift- theon_greyjoy's favorite toy. He cried when I took it away from him.'
-balon_greyjoy 'Leave the North now or more boxes will follow with more theon_greyjoy. Signed ramsay_bolton Snow, natural-born son of Roose Bolton, Lord of the Dreadfort and Warden of the North.' Get that out of my sight.
-balon_greyjoy theon_greyjoy disobeyed my orders.
+balon_greyjoy On the first night of the full moon, I will hunt down every islander still in our lands and flay them living the way I flayed the twenty Ironborn scum I found at Winterfell. In the box you'll find a special gift- Theon's favorite toy. He cried when I took it away from him.'
+balon_greyjoy 'Leave the North now or more boxes will follow with more Theon. Signed Ramsay Snow, natural-born son of Roose Bolton, Lord of the Dreadfort and Warden of the North.' Get that out of my sight.
+balon_greyjoy Theon  disobeyed my orders.
 balon_greyjoy The boy is a fool. He cannot further the Greyjoy line. I will not give up the lands I have seized, the strongholds I have taken. Get this away from me.
 yara_greyjoy He's your son.
 balon_greyjoy Son? He's not a man anymore.
@@ -214,7 +214,7 @@ davos_seaworth She does know her way around a man's head, I'll give her that.
 gendry So how'd you become a lord?
 davos_seaworth Oh, that's a long story.
 gendry Better not, then. I'm a bit busy.
-davos_seaworth Many years ago I helped King stannis_baratheon out of a difficult situation. He rewarded me with a lordship. And this.
+davos_seaworth Many years ago I helped King Stannis Baratheon out of a difficult situation. He rewarded me with a lordship. And this.
 gendry You see? Highborns.
 davos_seaworth I didn't want to be a lord. I nearly didn't accept.
 gendry Why did you?
@@ -233,13 +233,13 @@ lord_varys She is a sweet young thing. None of this is her fault.
 shae I love that girl. I would kill for her. Do you think that makes it easier for me?
 lord_varys No, I expect not.
 shae She's young and she's beautiful and highborn.
-lord_varys We break bread with them, but that doesn't make us family. We've learned their language, but we'll never be their countrymen. If you let yourself believe that a foreign girl with no name could spend her life with the son of tywin_lannister Lannister-
+lord_varys We break bread with them, but that doesn't make us family. We've learned their language, but we'll never be their countrymen. If you let yourself believe that a foreign girl with no name could spend her life with the son of Tywin Lannister-
 shae I have a name.
 lord_varys You have one name. As do I. Here only the family name matters.
 shae What do you want from me, Lord varys?
 lord_varys Diamonds. I'd tell you to beware carrying so much wealth, but you know how to protect yourself. Get on one of those ships. Sail to Pentos or Lys or Myr. You can buy a house with these diamonds, a very large house. Hire servants. Start a new life, a good life, far from here. The mysterious foreign beauty. You'll have suitors lining up.
 shae Why do you want me to leave?
-lord_varys tyrion_lannister Lannister is one of the few people alive who could make this country a better place. He has the mind for it, he has the will, he has the right last name. And you- you are a complication. I know you love him. And I know it's true love not bought by gold and silver. I'm not asking you to leave him for money. I'm asking you to leave because your presence in the capital endangers him. This will never be your home, my lady. Find a true home somewhere far from here while there's still time.
+lord_varys Tyrion Lannister is one of the few people alive who could make this country a better place. He has the mind for it, he has the will, he has the right last name. And you- you are a complication. I know you love him. And I know it's true love not bought by gold and silver. I'm not asking you to leave him for money. I'm asking you to leave because your presence in the capital endangers him. This will never be your home, my lady. Find a true home somewhere far from here while there's still time.
 shae Lord varys.
 shae If he wants me to leave, he can tell me himself.
 tyrion_lannister Keep up.
@@ -253,13 +253,13 @@ tyrion_lannister There's nothing worse than a late-blooming philosopher.
 tyrion_lannister Will you be facing your marriage to Ser Loras with the same philosophical spirit?
 cersei_lannister I won't be marrying Ser Loras.
 tyrion_lannister I seem to remember saying something similar about my own marriage.
-cersei_lannister You're not me. You want to make things better for sansa_stark? Give her a child.
+cersei_lannister You're not me. You want to make things better for sansa? Give her a child.
 tyrion_lannister So you can tell Father it was you who finally talked me into it?
 cersei_lannister So she can have some happiness in her life.
 tyrion_lannister You have children. How happy would you say you are?
 cersei_lannister Not very. But if it weren't for my children, I'd have thrown myself from the highest window in the Red Keep. They're the reason I'm alive.
-tyrion_lannister Even joffrey_baratheon_greyjoy?
-cersei_lannister Even joffrey_baratheon_greyjoy. He was all I had once. Before Myrcella was born. I used to spend hours looking at him. His wisps of hair. His tiny little hands and feet. He was such a jolly little fellow. You always hear the terrible ones were terrible babies. 'We should have known. Even then we should have known.' It's nonsense. Whenever he was with me, he was happy. And no one can take that away from me, not even
+tyrion_lannister Even Joffrey Baratheon?
+cersei_lannister Even Joffrey. He was all I had once. Before Myrcella was born. I used to spend hours looking at him. His wisps of hair. His tiny little hands and feet. He was such a jolly little fellow. You always hear the terrible ones were terrible babies. 'We should have known. Even then we should have known.' It's nonsense. Whenever he was with me, he was happy. And no one can take that away from me, not even
 joffrey_baratheon how it feels to have someone. Someone of your own.
 tyrion_lannister How long does it go on?
 cersei_lannister Until we've dealt with all our enemies.
@@ -314,7 +314,7 @@ gilly Thank you Maester. I can cook and clean and I can-
 maester_aemon Good. Samwell, fetch a quill and inkwell. I hope your penmanship is better than your swordplay.
 samwell_tarly Miles better.
 maester_aemon We had forty-four ravens at last count. Make sure they're all fed. Every one of them flies tonight.
-davos_seaworth 'To His Grace King stannis_baratheon Baratheon_greyjoy. Invaded- inv- invit- invited to the name day celebration for Rylene Florent on the first nigit-'
+davos_seaworth 'To His Grace King Stannis Baratheon. Invaded- inv- invit- invited to the name day celebration for Rylene Florent on the first nigit-'
 shireen_baratheon Night.
 davos_seaworth 'First night of the full moon.' Why is there a G in night?
 shireen_baratheon I don't know. There just is.
@@ -332,11 +332,11 @@ stannis_baratheon The usurper Robb Stark is dead. Betrayed by his bannerman.
 davos_seaworth And you take credit because you dropped a leech into the fire?
 melisandre I take no credit. I have faith and my faith has been rewarded.
 davos_seaworth Your Grace, the world has got so far bent. I've seen things crawl out of nightmares, but my eyes were open. I don't know if Robb Stark died because of the Red Woman's sorcery or because at war men die all the time, but I do know that uniting the Seven Kingdoms with blood magic is wrong. It is evil. And you are not an evil man.
-stannis_baratheon Do you know who had this table carved and painted, Ser davos_seaworth?
+stannis_baratheon Do you know who had this table carved and painted, Ser Davos?
 davos_seaworth Aegon Targaryen.
 stannis_baratheon And do you know how Aegon Targaryen conquered Westeros?
 davos_seaworth On the back of his dragon, Balerion the Dread.
-stannis_baratheon He had a smaller fleet than the kings he faced and a smaller army, but he had three dragons. Dragons are magic, Ser davos_seaworth. My enemies have made my kingdom bleed. I will not forget that. I will not forgive that. I will punish them with any arms at my disposal.
+stannis_baratheon He had a smaller fleet than the kings he faced and a smaller army, but he had three dragons. Dragons are magic, Ser Davos. My enemies have made my kingdom bleed. I will not forget that. I will not forgive that. I will punish them with any arms at my disposal.
 davos_seaworth You do not need to burn the boy. If what you say is true, a drop of his blood killed Robb Stark-
 melisandre And our king is still no closer to the Iron Throne. A great gift requires a great sacrifice.
 davos_seaworth His name is Gendry. He's a good lad. A poor lad from Flea Bottom who happens to be your nephew.
@@ -380,7 +380,7 @@ melisandre You saved one innocent. How many tens of thousands have you doomed?
 davos_seaworth There has got to be another way.
 stannis_baratheon What other way?! Tell us about this other way.
 davos_seaworth I don't know, Your Grace. I can't see the future in the fire.
-stannis_baratheon Very well, Ser davos_seaworth Seaworth. I, stannis_baratheon of the House Baratheon, First of My Name, Rightful King of the Andals and the First Men, sentence you to die.
+stannis_baratheon Very well, Ser Davos Seaworth. I, Stannis of the House Baratheon, First of My Name, Rightful King of the Andals and the First Men, sentence you to die.
 davos_seaworth I understand. But since you haven't yet unnamed me Hand of the King, it is my duty to advise you against it. You're gonna need me.
 melisandre Take him away.
 stannis_baratheon Why am I gonna need you?

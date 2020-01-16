@@ -7,8 +7,8 @@ arya_stark You're lying.
 sandor_clegane Ask her, if you ever see her again. Ask her who came back for her when the mob had her on her back. They would have taken her every which way and left her there with her throat cut open.
 arya_stark Is that the Blackwater?
 sandor_clegane The Blackwater?  Where do you think I'm taking you?
-arya_stark Back to King's Landing to joffrey_baratheon and the queen.
-sandor_clegane Fuck joffrey_baratheon. Fuck the queen. That's the Red Fork. I'm taking you to the Twins.
+arya_stark Back to King's Landing to Joffrey and the queen.
+sandor_clegane Fuck Joffrey. Fuck the queen. That's the Red Fork. I'm taking you to the Twins.
 arya_stark But why?
 sandor_clegane Because your mother and brother will be there and they'll pay me for you.
 arya_stark Why would they be at the Twins?
@@ -60,7 +60,7 @@ mero Only a flagon? And what are my brothers in arms to drink?
 daenerys_targaryen A barrel, then.
 mero Good. The Titan's Bastard does not drink alone. In the Second Sons, we share everything. After the battle, maybe we'll all share you.
 mero I'll come looking for you when this is over.
-daenerys_targaryen Ser barristan_selmy, if it comes to battle, kill that one first.
+daenerys_targaryen Ser Barristan, if it comes to battle, kill that one first.
 barristan_selmy Gladly, Your Grace.
 stannis_baratheon Half Robert, half lowborn.
 melisandre Show the boy to his chambers. Have the maids draw him a bath and find him some decent clothes. I'll come visit you soon.
@@ -184,8 +184,8 @@ melisandre I told you there's power in the blood of kings. And you have so much 
 gendry No. No, no, no, no! Not there. Not there!
 melisandre You can blame Ser davos_seaworth. He didn't believe in the power of king's blood. He wanted a demonstration.
 gendry Please. Please, Your Grace. My lord!
-stannis_baratheon The usurper Robb Stark. The usurper Balon Greyjoy. The usurper joffrey_baratheon Baratheon.
-olenna_tyrell So their son will be your nephew. After you're wed to cersei_lannister, of course. And you will be the king's stepfather and brother-in-law. When you marry the king, joffrey_baratheon's mother will become his sister-in-law and your son will be loras_tyrell' nephew?  Grandson? I'm not sure. But your brother will become your father-in-law. That much is beyond dispute.
+stannis_baratheon The usurper Robb Stark. The usurper Balon Greyjoy. The usurper Joffrey Baratheon.
+olenna_tyrell So their son will be your nephew. After you're wed to Cersei , of course. And you will be the king's stepfather and brother-in-law. When you marry the king, Joffrey's mother will become his sister-in-law and your son will be Loras' nephew?  Grandson? I'm not sure. But your brother will become your father-in-law. That much is beyond dispute.
 sansa_stark Will you pardon me, my lord?
 tyrion_lannister Of course. Of course. En-enjoy.
 cersei_lannister Perhaps you could talk to your bride-to-be instead.
@@ -215,15 +215,15 @@ tyrion_lannister There will be no bedding ceremony.
 joffrey_baratheon There will be if I command it.
 tyrion_lannister Then you'll be fucking your own bride with a wooden cock.
 joffrey_baratheon What did you say? What did you say?
-tywin_lannister I believe we can dispense with the bedding, Your Grace. I'm sure tyrion_lannister did not mean to threaten the king.
+tywin_lannister I believe we can dispense with the bedding, Your Grace. I'm sure Tyrion did not mean to threaten the king.
 tyrion_lannister A bad joke, Your Grace. Made out of envy of your own royal manhood. Mine is so small. My poor wife won't even know I'm there.
 tywin_lannister Your uncle is clearly quite drunk, Your Grace.
 tyrion_lannister I am. Guilty. But- but it is my wedding night.
 tyrion_lannister My tiny drunk cock and I have a job to do. Come, wife.
 tyrion_lannister I vomited on a girl once in the middle of the act. Not proud of it. But I think honesty is important between a man and wife, don't you agree?  Come, I'll tell you all about it. Put you in the mood.
 sansa_stark Is that wise, my lord?
-tyrion_lannister tyrion_lannister, sansa_stark. My name is tyrion_lannister.
-sansa_stark Is that wise, tyrion_lannister?
+tyrion_lannister Tyrion , sansa. My name is Tyrion Lannister.
+sansa_stark Is that wise, Tyrion Lannister?
 tyrion_lannister Nothing was ever wiser.
 tyrion_lannister Astoundingly long.
 sansa_stark What?
@@ -296,7 +296,7 @@ samwell_tarly Uh, yes. Maybe that's not-
 gilly Mormont.
 samwell_tarly That's a lovely idea, but Mormont's a last name.
 gilly Why is it a last name?
-samwell_tarly Well, it's a family name. For instance, I'm samwell_tarlywell Tarly. samwell_tarlywell is my birth name and Tarly is my family name. You see? So my father is also a Tarly.
+samwell_tarly Well, it's a family name. For instance, I'm Samwell Tarly. samwell is my birth name and Tarly is my family name. You see? So my father is also a Tarly.
 gilly His name is samwell_tarlywell Tarly, too?
 samwell_tarly No, Randyll Tarly.
 gilly Randyll is a handsome name.
