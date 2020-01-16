@@ -306,19 +306,19 @@ cersei_lannister You're right, of course. But you are your father's son. We can'
 margaery_tyrell Hunger turns men into beasts. I'm glad House Tyrell has been able to help in this regard. They tell me 100 wagons arrive daily now from the Reach. Wheat, barley, apples. We've had a blessed harvest. And, of course, it's our duty to assist the capital in time of need.
 joffrey_baratheon Well, as Ser Loras said, Lady Margaery has done this sort of... charitable work before. I'm sure she knows what she's doing.
 cersei_lannister I'm sure she does.
-missandei#Trans#kraznys_mo_nakloz The Unsullied have stood here for a day and a night with no food or water.
-missandei#Trans#kraznys_mo_nakloz They will stand until they drop.
-missandei#Trans#kraznys_mo_nakloz Such is their obedience.
+missandei The Unsullied have stood here for a day and a night with no food or water.
+missandei They will stand until they drop.
+missandei Such is their obedience.
 daenerys_targaryen They may suit my needs. Tell me of their training.
 missandei The Westrosi woman is pleased with them, but speaks no praise to keep the price down. She wished to know how they are trained.
 kraznys_mo_nakloz Tell her what she would know and be quick about it.
 missandei They begin their training at five. Every day they drill from dawn to dusk until they have mastered the shortsword, the shield, and the three spears. Only one boy in four survives this rigorous training.
-missandei#Trans#kraznys_mo_nakloz Their discipline and loyalty are absolute. They fear nothing.
+missandei Their discipline and loyalty are absolute. They fear nothing.
 jorah_mormont Even the bravest men fear death.
-missandei#Trans#kraznys_mo_nakloz The knight says even brave men fear death.
+missandei The knight says even brave men fear death.
 kraznys_mo_nakloz Tell the old man he smells of piss.
 missandei Truly, master?
-missandei#Trans#kraznys_mo_nakloz My master says the Unsullied are not men. Death means nothing to them.
+missandei My master says the Unsullied are not men. Death means nothing to them.
 kraznys_mo_nakloz Tell this ignorant whore of a Westerner to open her eyes and watch.
 missandei He begs you attend to this carefully, Your Grace.
 daenerys_targaryen Tell the good master there is no need.
@@ -326,10 +326,10 @@ kraznys_mo_nakloz She's worried about their nipples? Doers the dumb bitch know w
 missandei My master points out that men don't need nipples.
 kraznys_mo_nakloz Here, I'm done with you.
 unsullied This one is pleased to have served you.
-missandei#Trans#kraznys_mo_nakloz To win his shield, an Unsullied must go to the slave marts with a silver mark, find a newborn and kill it before its mother's eyes. This way, my master says, we make certain there is no weakness left in them.
+missandei To win his shield, an Unsullied must go to the slave marts with a silver mark, find a newborn and kill it before its mother's eyes. This way, my master says, we make certain there is no weakness left in them.
 daenerys_targaryen You take a babe from its mother's arms, kill it as she watches, and pay for her pain with a silver coin?
 missandei She is offended. She asks if you pay a sliver coin to the mother for her dead baby.
-missandei#Trans#kraznys_mo_nakloz My master would like you to know that the silver is paid to the baby's owner, not the mother.
+missandei My master would like you to know that the silver is paid to the baby's owner, not the mother.
 daenerys_targaryen How many do you have to sell?
 missandei 8000
 kraznys_mo_nakloz Tell the Westerosi whore she has until tomorrow.
