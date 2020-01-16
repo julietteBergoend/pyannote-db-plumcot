@@ -37,6 +37,7 @@ from pathlib import Path
 import pandas as pd
 import glob
 import os
+import numpy as np
 
 class BaseEpisodes(CollectionProtocol):
     """Base class of collection protocols"""
@@ -53,6 +54,34 @@ class BaseEpisodes(CollectionProtocol):
 
 class Plumcot(Database):
     """Plumcot database"""
+
+    def read_credits(path,separator=","):
+        """loads credits in a dict with one key per episode"""
+        credits=np.loadtxt(path,delimiter=separator,dtype=str)
+        credits={episode[0]:np.array(episode[1:],dtype=int) for episode in credits}
+        return credits
+
+    def read_characters(CHARACTERS_PATH,SEPARATOR=","):
+        with open(CHARACTERS_PATH,'r') as file:
+            raw=file.read()
+        characters=[line.split(SEPARATOR) for line in raw.split("\n") if line !='']
+        characters=np.array(characters,dtype=str)
+        return characters
+
+    def get_references_from_json(json_path,data_path="",credits=None,REFERENCE_I=0):
+        with open(json_path,"r") as file:
+            image_jsons=json.load(file)
+        references={}
+        for name, character in image_jsons['characters'].items():
+            if "references" in character:
+                if credits is not None:
+                    if name in credits:
+                        references[name]=np.load(os.path.join(data_path,character["references"][REFERENCE_I]))
+                else:
+                    references[name]=np.load(os.path.join(data_path,character["references"][REFERENCE_I]))
+        reference_labels=list(references.keys())
+        reference_values=references.values()
+        return reference_values,reference_labels
 
     def get_characters(self, id_series, season_number=None,
                        episode_number=None, full_name=False):
