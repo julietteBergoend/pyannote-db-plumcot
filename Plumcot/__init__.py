@@ -55,20 +55,20 @@ class BaseEpisodes(CollectionProtocol):
 class Plumcot(Database):
     """Plumcot database"""
 
-    def read_credits(path,separator=","):
+    def read_credits(self, path,separator=","):
         """loads credits in a dict with one key per episode"""
         credits=np.loadtxt(path,delimiter=separator,dtype=str)
         credits={episode[0]:np.array(episode[1:],dtype=int) for episode in credits}
         return credits
 
-    def read_characters(CHARACTERS_PATH,SEPARATOR=","):
+    def read_characters(self, CHARACTERS_PATH,SEPARATOR=","):
         with open(CHARACTERS_PATH,'r') as file:
             raw=file.read()
         characters=[line.split(SEPARATOR) for line in raw.split("\n") if line !='']
         characters=np.array(characters,dtype=str)
         return characters
 
-    def get_references_from_json(json_path,data_path="",credits=None,REFERENCE_I=0):
+    def get_references_from_json(self, json_path,data_path="",credits=None,REFERENCE_I=0):
         with open(json_path,"r") as file:
             image_jsons=json.load(file)
         references={}
