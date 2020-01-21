@@ -2,7 +2,7 @@ man#unknown#GameOfThrones.Season03.Episode01 Fall back!
 samwell_tarlysamwell_tarly Brother?
 jeor_mormont Did you send the ravens?
 jeor_mormont Tarly, look at me. Did you send the ravens?
-samwell_tarlyjeor_mormont That was your job. Your only job. We need to get back to the Wall. It's a long march. We know what's out there, but we have to make it, have to warn them or before winter's done, everyone you've ever known will be dead.
+jeor_mormont That was your job. Your only job. We need to get back to the Wall. It's a long march. We know what's out there, but we have to make it, have to warn them or before winter's done, everyone you've ever known will be dead.
 ygritte First time you've seen a giant, JON SNOW?
 jon_snowygritte Well, don't stare too long. They're shy. When they stop being shy, they get angry. And when they're angry, I've seen them pound a man straight into the ground like a hammer on a nail.
 man#unknown#GameOfThrones.Season03.Episode01 Crow!
@@ -134,7 +134,7 @@ davos_seaworth I was in the battle at Blackwater. I was a captain and a knight.
 man#unknown#GameOfThrones.Season03.Episode01 Aye, ser, and serving which king?
 davos_seaworth The one true king of Westeros ... Stannis Baratheon.
 salladhor_saan I thought you were dead. Everyone thought you were dead. And your son?
-davos_seaworthsalladhor_saan He may have swam ashore as you did.
+salladhor_saan He may have swam ashore as you did.
 davos_seaworth No, the wildfire took him. I saw it.
 salladhor_saan I'm so sorry, my friend. I, too, have lost a son. There is nothing worse in this world. But, Davos, you were a good father.
 davos_seaworth If I was a good father, he'd still be here. Stannis lives?
@@ -289,7 +289,7 @@ margaery_tyrell Come to me for whatever you need to feed them, clothe them, or h
 margaery_tyrell Your Grace.
 loras_tyrell Your Grace.
 joffrey_baratheon Please, sit. Sit. I do apologize, my lady. Small council meetings. At what point does it become treason to waste the king's time?
-margaery_tyrelljoffrey_baratheon That's a lovely gown, my lady.
+joffrey_baratheon That's a lovely gown, my lady.
 cersei_lannister Yes, it suits you perfectly. I imagine you might be rather cold.
 margaery_tyrell The climate is a bit more forgiving back in Highgarden, Your Grace.
 joffrey_baratheon Shall I have them bring you a shawl, my lady?
@@ -306,32 +306,32 @@ cersei_lannister You're right, of course. But you are your father's son. We can'
 margaery_tyrell Hunger turns men into beasts. I'm glad House Tyrell has been able to help in this regard. They tell me 100 wagons arrive daily now from the Reach. Wheat, barley, apples. We've had a blessed harvest. And, of course, it's our duty to assist the capital in time of need.
 joffrey_baratheon Well, as Ser Loras said, Lady Margaery has done this sort of... charitable work before. I'm sure she knows what she's doing.
 cersei_lannister I'm sure she does.
-kraznys_mo_naklozmissandei The Unsullied have stood here for a day and a night with no food or water.
-kraznys_mo_naklozmissandei They will stand until they drop.
-kraznys_mo_naklozmissandei Such is their obedience.
+missandei The Unsullied have stood here for a day and a night with no food or water.
+missandei They will stand until they drop.
+missandei Such is their obedience.
 daenerys_targaryen They may suit my needs. Tell me of their training.
 missandei The Westrosi woman is pleased with them, but speaks no praise to keep the price down. She wished to know how they are trained.
 kraznys_mo_nakloz Tell her what she would know and be quick about it.
 missandei They begin their training at five. Every day they drill from dawn to dusk until they have mastered the shortsword, the shield, and the three spears. Only one boy in four survives this rigorous training.
-kraznys_mo_naklozmissandei Their discipline and loyalty are absolute. They fear nothing.
+missandei Their discipline and loyalty are absolute. They fear nothing.
 jorah_mormont Even the bravest men fear death.
-missandeikraznys_mo_naklozmissandei The knight says even brave men fear death.
+missandei The knight says even brave men fear death.
 kraznys_mo_nakloz Tell the old man he smells of piss.
 missandei Truly, master?
-kraznys_mo_naklozmissandei Missandei My master says the Unsullied are not men. Death means nothing to them.
+missandei My master says the Unsullied are not men. Death means nothing to them.
 kraznys_mo_nakloz Tell this ignorant whore of a Westerner to open her eyes and watch.
 missandei He begs you attend to this carefully, Your Grace.
-kraznys_mo_naklozdaenerys_targaryen Tell the good master there is no need.
+daenerys_targaryen Tell the good master there is no need.
 kraznys_mo_nakloz She's worried about their nipples? Doers the dumb bitch know we've cut off their balls?
 missandei My master points out that men don't need nipples.
 kraznys_mo_nakloz Here, I'm done with you.
 unsullied This one is pleased to have served you.
-kraznys_mo_naklozmissandei To win his shield, an Unsullied must go to the slave marts with a silver mark, find a newborn and kill it before its mother's eyes. This way, my master says, we make certain there is no weakness left in them.
+missandei To win his shield, an Unsullied must go to the slave marts with a silver mark, find a newborn and kill it before its mother's eyes. This way, my master says, we make certain there is no weakness left in them.
 daenerys_targaryen You take a babe from its mother's arms, kill it as she watches, and pay for her pain with a silver coin?
 missandei She is offended. She asks if you pay a sliver coin to the mother for her dead baby.
-kraznys_mo_naklozmissandei My master would like you to know that the silver is paid to the baby's owner, not the mother.
+missandei My master would like you to know that the silver is paid to the baby's owner, not the mother.
 daenerys_targaryen How many do you have to sell?
-missandeimissandei 8000
+missandei 8000
 kraznys_mo_nakloz Tell the Westerosi whore she has until tomorrow.
 missandei Master Kraznys asks that you please hurry. Many other buyers are interested.
 daenerys_targaryen 8,000 dead babies.

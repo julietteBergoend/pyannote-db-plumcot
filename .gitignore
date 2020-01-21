@@ -36,4 +36,11 @@ images/
 #video (features)
 video/
 
+#manually-corrected JSON files
 !*.manual.json
+
+# save files
+*.save
+
+# SWP files
+*.swp

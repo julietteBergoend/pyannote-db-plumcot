@@ -3,16 +3,18 @@
 
 """Usage:
 normalizeTranscriptsNames.py <id_series> [-s SEASON] [-e EPISODE] [--quiet]
-normalizeTranscriptsNames.py check <id_series> [-s SEASON] [-e EPISODE]
+normalizeTranscriptsNames.py check_names <id_series> [-s SEASON] [-e EPISODE]
+normalizeTranscriptsNames.py check_files <id_series> [-s SEASON] [-e EPISODE] [--extension=<extension>]
 normalizeTranscriptsNames.py -h|--help
 
 Arguments:
     id_series    Id of the series
 
 Options:
-    -s SEASON    Season number to iterate on (all seasons if not specified)
-    -e EPISODE   Episode number (all episodes of the season if not specified)
-    --quiet      Display only the names that have changed.
+    -s SEASON               Season number to iterate on (all seasons if not specified)
+    -e EPISODE              Episode number (all episodes of the season if not specified)
+    --quiet                 Display only the names that have changed.
+    --extension=<extension> Transcript file extension. Defaults to '.txt'
 """
 
 import pyannote.database
@@ -26,6 +28,17 @@ from pathlib import Path
 import Plumcot as PC
 import json
 import warnings
+import readline
+from termcolor import colored
+
+def input_with_prefill(prompt, text):
+    def hook():
+        readline.insert_text(text)
+        readline.redisplay()
+    readline.set_pre_input_hook(hook)
+    result = input(prompt)
+    readline.set_pre_input_hook()
+    return result
 
 def automatic_alignment(id_series, id_ep, refsT, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
@@ -94,6 +107,42 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
             names_dict[ref] = unknown_char(ref, id_ep)
 
     return names_dict
+
+def check_files(id_series, season_number, episode_number, extension=".txt"):
+    """Check the difference in file names between IMDb and transcripts
+
+    Parameters
+    ----------
+    id_series : `str`
+        Id of the series.
+    season_number : `str`
+        The desired season number. If None, all seasons are processed.
+    episode_number : `str`
+        The desired episode_number. If None, all episodes are processed.
+    extension : `str`
+        Transcript file extension. Defaults to '.txt'
+    """
+
+    # Plumcot database object
+    db = Plumcot()
+    # Retrieve IMDB normalized character names
+    imdb_chars_series = db.get_characters(id_series, season_number,
+                                          episode_number)
+
+    # Retrieve transcripts normalized character names
+    trans_chars_series = db.get_transcript_characters(id_series, season_number,
+                                                      episode_number,extension=extension)
+
+    for episode_uri in imdb_chars_series:
+        imdb=imdb_chars_series.get(episode_uri)
+        if imdb is None:
+            warnings.warn(f"{episode_uri} is not IMDB")
+            continue
+        transcripts=trans_chars_series.get(episode_uri)
+        if transcripts is None:
+            warnings.warn(f"{episode_uri} is not transcripts")
+            continue
+    print("Done. (no warnings means everything went okay)")
 
 def check_normalized_names(id_series, season_number, episode_number):
     """Check normalized names. Print the difference between IMDb and transcripts
@@ -198,7 +247,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         while True:
             print(f"----------------------------\n{id_ep}. Here is the list "
                   "of normalized names from IMDB: ")
-            print(", ".join(sorted(imdb_chars[:-2])), '\n')
+            print(", ".join(sorted(imdb_chars[:])), '\n')
 
             print("Automatic alignment:")
             for name, norm_name in dic_names.items():
@@ -208,11 +257,14 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 if previously_matched :
                    previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
                    names_matched[name]=previously_matched
+                if (previously_matched or name == norm_name or names_matched.get(name)):
+                    color='green'
+                else:
+                    color='red'
                 if (previously_matched or name == norm_name) and not verbose:
                     pass
                 else:
-                    print(f"{name} ({appearence})  ->  {norm_name}")
-
+                    print(colored(f"{name} ({appearence})  ->  {norm_name}",color))
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
                             "to skip, unk to unknownize every character that didn't match): ")
@@ -233,12 +285,14 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             if request not in dic_names:
                 print("This name doesn't match with any characters.\n")
             else:
-                print("\nSuggestions :")
+                prefill=""
+                prompt=("\nType the new character's name "
+                        "(unk for unknown character): ")
                 for suggestion in imdb_chars:
                     if request.lower() in suggestion:
-                        print(suggestion)
-                new_name = input("\nType the new character's name "
-                                 "(unk for unknown character): ")
+                        prefill=suggestion
+                        break
+                new_name = input_with_prefill(prompt, prefill)
                 # Unknown character
                 if new_name == "unk" or not new_name:
                     new_name = unknown_char(request, id_ep)
@@ -281,7 +335,7 @@ def save_matching(id_series, dic_names):
             save_dict[name_trans] = name_norm
 
     with open(savePath, 'w') as f:
-        json.dump(save_dict, f)
+        json.dump(save_dict, f, indent=4)
 
 
 def main(args):
@@ -292,8 +346,11 @@ def main(args):
     episode_number = args['-e']
     if episode_number:
         episode_number = f"{int(episode_number):02d}"
-    if args["check"]:
+    if args["check_names"]:
         check_normalized_names(id_series, season_number, episode_number)
+    elif args["check_files"]:
+        extension=args["--extension"] if args["--extension"] else ".txt"
+        check_files(id_series, season_number, episode_number, extension)
     else:
         verbose = not args["--quiet"]
         normalize_names(id_series, season_number, episode_number, verbose)

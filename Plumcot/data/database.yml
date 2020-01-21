@@ -62,6 +62,10 @@ Protocols:
             uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/test_list.lst
   Friends:
     SpeakerDiarization:
+      Manual:
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.Season01.Episode01.manual.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.Season01.Episode01.manual.uem
       Multimodal:
         train:
           annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.train.0.6.rttm

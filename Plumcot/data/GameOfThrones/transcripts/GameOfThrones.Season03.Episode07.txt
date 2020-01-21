@@ -74,7 +74,7 @@ margaery_tyrell Come on. Come walk with me.
 margaery_tyrell I remember the first time I saw you in the throne room. I'd never seen anyone who looked so unhappy. I want very much for you to be happy, sansa, and so does my grandmother.
 margaery_tyrell You would have been happy at Highgarden. But women in our position must make the best of our circumstances.
 sansa_stark How do I make the best of my circumstances? I have to marry him.
-margaery_tyrell Has Lord tyrion_lannister mistreated you?
+margaery_tyrell Has Lord Tyrion mistreated you?
 sansa_stark No.
 margaery_tyrell Has he been kind to you?
 sansa_stark He's tried.
@@ -85,7 +85,7 @@ sansa_stark I'm sorry. Here I am complaining to you.
 margaery_tyrell My son will be king Sons learn from their mothers. I plan to teach mine a great deal. And your son, if I'm not mistaken, your son might be the Lord of Casterly Rock and the North someday. What?
 sansa_stark My son with him. I'll have to- we'll have to-
 margaery_tyrell If it's the pain you're worried about-
-sansa_stark I'm not afraid of the pain. Not after what joffrey_baratheon's done to me.
+sansa_stark I'm not afraid of the pain. Not after what Joffrey Baratheon's done to me.
 margaery_tyrell What is it, then? He's rather good-looking even with the scar. Especially with the scar.
 sansa_stark He's a dwarf. And Loras- Loras.
 margaery_tyrell Some women like tall men. Some like short men. Some like hairy men. Some like bald men. Gentle men, rough men, ugly men, pretty men, pretty girls. Most women don't know what they like until they've tried it. And, sadly, so many of us get to try so little before we're old and gray. tyrion may surprise you. From what I've heard, he's quite experienced.
@@ -110,31 +110,31 @@ bronn You waste time trying to get people to love you, you'll end up the most po
 tyrion_lannister I don't pay you to put evil notions in my head. The ones already there don't need company.
 bronn You pay me to kill people who bother you. Evil notions come free.
 tywin_lannister Your Grace.
-joffrey_baratheon_greyjoy Grandfather.
+joffrey_baratheon Grandfather.
 tywin_lannister You wanted to speak to me?
-joffrey_baratheon_greyjoy Yes. I'd like a report on the meetings of my small council.
+joffrey_baratheon Yes. I'd like a report on the meetings of my small council.
 tywin_lannister You're welcome to attend the meetings of your small council, Your Grace. Any or all of them.
-joffrey_baratheon_greyjoy I've been very busy. Many important matters require a king's attention.
+joffrey_baratheon I've been very busy. Many important matters require a king's attention.
 tywin_lannister Of course.
-joffrey_baratheon_greyjoy You've been holding the council meetings in the Tower of the Hand instead of the small council chamber.
+joffrey_baratheon You've been holding the council meetings in the Tower of the Hand instead of the small council chamber.
 tywin_lannister I have, yes.
-joffrey_baratheon_greyjoy May I ask why?
+joffrey_baratheon May I ask why?
 tywin_lannister The Tower of the Hand is where I work. To walk from there to here would take time, time I could otherwise spend productively.
-joffrey_baratheon_greyjoy So if I wanted to attend a council meeting, I would now have to climb all the stairs in the Tower of the Hand?
+joffrey_baratheony So if I wanted to attend a council meeting, I would now have to climb all the stairs in the Tower of the Hand?
 tywin_lannister We could arrange to have you carried.
-joffrey_baratheon_greyjoy Tell me about the Targaryen girl in the east and her dragons.
+joffrey_baratheon Tell me about the Targaryen girl in the east and her dragons.
 tywin_lannister Where did you hear about this?
-joffrey_baratheon_greyjoy Is it true?
+joffrey_baratheon Is it true?
 tywin_lannister Apparently so.
-joffrey_baratheon_greyjoy Don't you think we ought to do something about it?
+joffrey_baratheon Don't you think we ought to do something about it?
 tywin_lannister When I was Hand of the King under your father's predecessor, the skulls of all the Targaryen dragons were kept in this room. The skull of the last of them was right here. It was the size of an apple.
-joffrey_baratheon_greyjoy And the biggest was the size of a carriage.
+joffrey_baratheon And the biggest was the size of a carriage.
 tywin_lannister Yes, and the creature to whom it belonged died 300 years ago. Curiosities on the far side of the world are no threat to us.
-joffrey_baratheon_greyjoy But how do we know these dragons are just curiosities and not the beasts that brought the whole world to heel?
+joffrey_baratheon But how do we know these dragons are just curiosities and not the beasts that brought the whole world to heel?
 tywin_lannister Because we have been told as much by the many experts who serve the realm by counseling the king on matters about which he knows nothing.
-joffrey_baratheon_greyjoy But I haven't been counseled.
+joffrey_baratheon But I haven't been counseled.
 tywin_lannister You are being counseled at this very moment.
-joffrey_baratheon_greyjoy I should be consulted about such things.
+joffrey_baratheon I should be consulted about such things.
 tywin_lannister From now on, I will see to it that you are appropriately consulted on important matters whenever necessary. Your Grace.
 jorah_mormont Yunkai. The Yellow City.
 barristan_selmy The Yunkish train bed slaves, not soldiers. We can defeat them.
@@ -187,7 +187,7 @@ tyrion_lannister I don't have a choice. My father-
 shae Does not rule the world. We can still go across the Narrow Sea.
 tyrion_lannister What would I do there? Juggle? I am a Lannister of Casterly Rock.
 shae And I'm Shae the funny whore.
-tyrion_lannister My feelings for you have not changed. I will marry sansa_stark Stark and do my duty by her.
+tyrion_lannister My feelings for you have not changed. I will marry Sansa Stark and do my duty by her.
 shae While I empty her chamber pot and lick your cock when you're bored?
 tyrion_lannister I swear to you it will not be like that.
 shae No? What will it be like?
@@ -243,10 +243,10 @@ sandor_clegane Kick all you like, wolf girl. Won't do you no good.
 brienne_of_tarth I thought you were gone.
 jaime_lannister Tomorrow.
 brienne_of_tarth Have they told you what they plan to do with me?
-jaime_lannister Lord Bolton's traveling tomorrow as well. He's going to the Twins for edmure_tully Tully's wedding. You're to remain here.
+jaime_lannister Lord Bolton's traveling tomorrow as well. He's going to the Twins for Edmure Tully's wedding. You're to remain here.
 brienne_of_tarth With Locke?
 jaime_lannister I owe you a debt.
-brienne_of_tarth When catelyn_stark Stark released you, we both made a promise to her. Now it's your promise. You gave your word. Keep it and consider the debt paid.
+brienne_of_tarth When Catelyn Stark released you, we both made a promise to her. Now it's your promise. You gave your word. Keep it and consider the debt paid.
 jaime_lannister I will return the Stark girls to their mother. I swear it.
 brienne_of_tarth Good-bye, Ser jaime.
 qyburn Here. Let me.
@@ -348,7 +348,7 @@ jojen_reed It's not like that. I wish I could tell him all the answers. It would
 osha I don't want you talking to him anymore. Until we get to your brother at Castle Black.
 jojen_reed We're not going to Castle Black.
 osha What did you say?
-jojen_reed I told you already. jon_snow Snow isn't there. bran needs to find the raven beyond the Wall.
+jojen_reed I told you already. Jon Snow isn't there. bran needs to find the raven beyond the Wall.
 osha Oh, no. I'm not going back there. Your brother is at Castle Black. That's where we're going. Look at me.
 bran_stark The raven's been coming to me ever since I fell from that tower. He wants me to find him. I don't have my legs anymore. This is what I have now.
 osha You have a family. You need to go back to Castle Black so you can get back to them where you belong.
@@ -379,7 +379,7 @@ qyburn Fifty? A hundred?
 qyburn Countless.
 jaime_lannister Countless has a nice ring to it.
 qyburn And how many lives have you saved?
-jaime_lannister Half a million. The population of King's Landing. You were in charge of the ravens at Harrenhal. Did you- did you get a bird off to brienne_of_tarth's father in Tarth?
+jaime_lannister Half a million. The population of King's Landing. You were in charge of the ravens at Harrenhal. Did you- did you get a bird off to Brienne's father in Tarth?
 qyburn A bird flew off and a bird flew back. Lord Selwyn Tarth offered three hundred gold dragons for his daughter's safe return.
 jaime_lannister A fair offer.
 qyburn A fair offer. Locke won't take it.
@@ -423,5 +423,5 @@ brienne_of_tarth Pull him up!
 locke The bitch stays.
 jaime_lannister We're taking her to King's Landing. Unless you kill me.
 locke She belongs to me. Lord Bolton's orders.
-jaime_lannister What do you think is more important to Lord Bolton?  Getting his pet rat a reward or ensuring tywin_lannister Lannister gets his son back alive?
+jaime_lannister What do you think is more important to Lord Bolton?  Getting his pet rat a reward or ensuring Tywin Lannister gets his son back alive?
 jaime_lannister Well, we must be on our way. Sorry about the sapphires.

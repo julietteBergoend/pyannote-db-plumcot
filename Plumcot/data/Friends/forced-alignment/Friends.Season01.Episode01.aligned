@@ -274,9 +274,8 @@ Friends.Season01.Episode01 monica_geller 128.72 128.93 stuff 0.990
 Friends.Season01.Episode01 monica_geller 128.96 129.08 out 0.990
 Friends.Season01.Episode01 monica_geller 129.08 129.38 today 0.990
 Friends.Season01.Episode01 monica_geller 129.38 129.38 . 0.950
-Friends.Season01.Episode01 joey_tribbiani+phoebe_buffay 129.56 130.14 Ohh 0.100
-Friends.Season01.Episode01 joey_tribbiani+phoebe_buffay 130.14 130.14  0.950
-Friends.Season01.Episode01 joey_tribbiani+phoebe_buffay 130.14 130.14 . 0.950
+Friends.Season01.Episode01 joey_tribbiani 129.56 130.14 Ohh 0.100
+Friends.Season01.Episode01 phoebe_buffay 129.56 130.14 Ohh 0.100
 Friends.Season01.Episode01 monica_geller 130.64 130.73 Let 0.990
 Friends.Season01.Episode01 monica_geller 130.73 130.79 me 0.990
 Friends.Season01.Episode01 monica_geller 130.79 130.88 get 0.990

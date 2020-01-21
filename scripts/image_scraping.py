@@ -12,8 +12,8 @@ import os
 import json
 import warnings
 import json
-from characters import read_characters
-
+import pyannote.database
+from Plumcot import Plumcot
 ## web
 import requests
 from bs4 import BeautifulSoup
@@ -159,7 +159,8 @@ def main(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,CHARACTERS_PATH,N_COL,SEPARATOR,IMA
     print(SERIE_URI,SERIE_IMDB_URL)
     if not os.path.exists(IMAGE_PATH):
         os.mkdir(IMAGE_PATH)
-    characters=read_characters(CHARACTERS_PATH,SEPARATOR)
+    db=Plumcot()
+    characters=db.read_characters(CHARACTERS_PATH,SEPARATOR)
     actor2character={actor:character for character,_,_,actor,_ in characters}
     warnings.warn("one to one mapping actor:character, not efficient if several actors play the same character")
     image_jsons=None
