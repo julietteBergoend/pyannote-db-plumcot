@@ -196,6 +196,10 @@ Protocols:
             uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/test_list.lst
   TheOffice:
       SpeakerDiarization:
+      Manual:
+        test:
+          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice.Season01.Episode01.manual.rttm
+          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice.Season01.Episode01.manual.uem
         FA-UEM:
           train:
             annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.15collar.rttm
