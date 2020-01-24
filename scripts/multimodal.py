@@ -5,7 +5,7 @@ Fuses outputs of pyannote.audio and pyannote.video models
 
 Usage:
     multimodal.py fuse <serie_uri.task.protocol> <validate_dir> [--set=<set>]
-    multimodal.py map <serie_uri.task.protocol> <validate_dir> [--set=<set>]
+    multimodal.py map <serie_uri.task.protocol> <validate_dir> [--set=<set> --ier]
     multimodal.py -h | --help
 
 Arguments:
@@ -15,9 +15,11 @@ Arguments:
 Options:
     --set=<set>                   one of 'train', 'development', 'test', as defined in pyannote.database
                                   Defaults to 'test'.
+    --ier                         Use `optimal_mapping_ier` to map reference and hypothesis
+                                  which may map the same label to several clusters in order to minimize IER
+                                  Defaults to use pyannote.metrics `optimal_mapping`.
     -h --help                     Show this screen.
 """
-# Dependencies
 
 import os
 from docopt import docopt
@@ -48,7 +50,7 @@ def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
 
     return fusion
 
-def map(video_features_path,audio_hypothesis,file_uri):
+def map(video_features_path, audio_hypothesis, file_uri, ier=False):
     """Maps outputs of pyannote.audio and pyannote.video models
 
     Parameters:
@@ -59,15 +61,47 @@ def map(video_features_path,audio_hypothesis,file_uri):
         hypothesis made by the audio model
     file_uri: str
         uri of the file you're interested in (used to filter out audio_hypothesis)
+    ier: bool
+        If True, the mapping will be done using `optimal_mapping_ier`
+        which may map the same label to several clusters in order to minimize IER
+        If False (default), pyannote.metrics `optimal_mapping` will be used.
     """
     clustering = FaceClustering()
     #TODO : move the preprocess (i.e. npy to pyannote) to some other place ?
     face_id, _ = clustering.model.preprocess(video_features_path,CLUSTERING_THRESHOLD)
 
-    optimal_mapping=DiarizationErrorRate().optimal_mapping(face_id, audio_hypothesis)
+    if ier:
+        optimal_mapping=optimal_mapping_ier(face_id, audio_hypothesis)
+    else:
+        der=DiarizationErrorRate()
+        optimal_mapping=der.optimal_mapping(face_id, audio_hypothesis)
     mapped_hypothesis=audio_hypothesis.rename_labels(mapping=optimal_mapping)
 
     return mapped_hypothesis, face_id
+
+def optimal_mapping_ier(reference, hypothesis):
+    """Maps `hypothesis` to `reference` labels depending on the co-occurence of their labels
+    Beware that the same label may be mapped several time,
+    thus, this mapping is not appropriate to evaluate a Diarization system
+    (see pyannote.metrics)
+
+    Parameters:
+    -----------
+    reference: `pyannote.core.Annotation`
+    hypothesis: `pyannote.core.Annotation`
+
+    Returns:
+    --------
+    mapping: `dict`
+        hyp: ref label dict
+    """
+    mapping = {}
+    cooccurrence = reference*hypothesis
+    reference_labels=reference.labels()
+    for i, label in enumerate(hypothesis.labels()):
+        j=np.argmax(cooccurrence[:,i])
+        mapping[label]=reference_labels[j]
+    return mapping
 
 def main(args):
     serie_uri,task,protocol=args['<serie_uri.task.protocol>'].split(".")
@@ -91,10 +125,12 @@ def main(args):
         if args['fuse']:
             output=fuse(video_features_path,audio_hypothesis,uri)
         elif args['map']:
-            output,_=map(video_features_path,audio_hypothesis,uri)
+            ier=args['--ier']
+            output,_=map(video_features_path,audio_hypothesis,uri,ier)
         with open(output_path,'a') as file:
             output.write_rttm(file)
     print(f"dumped {output_path}")
+
 if __name__=="__main__":
     args = docopt(__doc__)
     main(args)
