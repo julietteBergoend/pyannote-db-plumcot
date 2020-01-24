@@ -23,6 +23,7 @@ Options:
 
 import os
 from docopt import docopt
+import numpy as np
 
 from pyannote.database.util import load_rttm
 from pyannote.video.face.clustering import FaceClustering
