@@ -21,5 +21,6 @@ $ pip install pyannote-db-plumcot
 ```
 
 ## Raw data
+>>>>>>> 150c0df7e7192c3ac2dd09a742ef58edbb3efb11
 
 If needs be, one can also find the raw data as text file in `Plumcot/data` sub-directory.
