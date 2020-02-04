@@ -25,6 +25,20 @@ from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import fcluster
 from pyannote.core.utils.hierarchy import linkage,fcluster_auto
 
+#Hyperparameters are defined in scripts/images.py
+MODEL_NAME="dlib_face_recognition_resnet_model_v1"
+DLIB_MODELS="/people/lerner/pyannote/pyannote-video/dlib-models"
+DLIB_EMBEDDING=os.path.join(DLIB_MODELS,f"{MODEL_NAME}.dat")
+DLIB_LANDMARKS=os.path.join(DLIB_MODELS,"shape_predictor_68_face_landmarks.dat")
+DLIB_THRESHOLD=0.6#threshold for clustering, see https://github.com/davisking/dlib-models
+MIN_IMAGES=5
+EMBEDDING_DIM=128
+EMBEDDING_DTYPE=('embeddings', 'float64', (EMBEDDING_DIM,))
+BBOX_DTYPE=('bbox', 'float64', (4,))
+CLUSTERING_THRESHOLD=DLIB_THRESHOLD#'auto'
+CLUSTERING_METHOD='complete'
+KEEP_IMAGE_TYPES={'still_frame'}
+
 def extract_image(rgb,landmarks_model,embedding_model,output,
                  return_landmarks=False,return_embedding=False):
     """Facial features detection for an rgb image
@@ -73,6 +87,11 @@ def extract_image(rgb,landmarks_model,embedding_model,output,
 def image_to_output_path(image_path,MODEL_NAME):
     dir_path,file_name=os.path.split(image_path)
     file_uri=os.path.splitext(file_name)[0]
+    #HACK should not be necessary if images have been scrapped with a low enough MAX_FILE_NAME_LENGTH
+    if len(file_uri) > 128:
+        names,counter=file_uri.split(".")
+        names=names[:128]+"#trim#"
+        file_uri=f"{names}.{counter}"
     output_path=os.path.join(dir_path,f"{MODEL_NAME}.{file_uri}.npy")
     return output_path
 
@@ -196,7 +215,7 @@ def compute_reference(character,t=0.6,method='complete',KEEP_IMAGE_TYPES=None,ke
     if keep_faces:
         return references,faces
     return references
-def compute_references(image_jsons,t=0.6,method='complete',KEEP_IMAGE_TYPES=None,keep_faces=False):
+def compute_references(image_jsons,IMAGE_PATH,t=0.6,method='complete',KEEP_IMAGE_TYPES=None,keep_faces=False):
     """
     Clusters over every image in image_jsons
     then assigns to every cluster the most recurring label in the caption
@@ -300,14 +319,17 @@ def compute_references(image_jsons,t=0.6,method='complete',KEEP_IMAGE_TYPES=None
     print(f"those cluster were not assigned any label :\n{unassigned_clusters}")
     if keep_faces:
         plt.figure(figsize=(16,16))
-        for i,label in enumerate(assigned_labels[:81]):
-            plt.subplot(9,9,i+1)
+        cols=int(np.sqrt(len(assigned_labels)))+1
+        for i,label in enumerate(assigned_labels):
+            plt.subplot(cols,cols,i+1)
             plt.title(label[:12]+str(image_jsons['characters'][label]['count']))
-            plt.imshow(keep_centroid[i])
-            #plt.imshow(first_faces[i])
+            centroid_path=os.path.join(IMAGE_PATH,label,
+                               f'{str_KEEP_IMAGE_TYPES}.{MODEL_NAME}.{label}.{method}.{t}.centroid.png')
+            imageio.imwrite(centroid_path,keep_centroid[i])
+            image_jsons['characters'][label]["centroid"]=centroid_path
             plt.axis('off')
-        plt.show()
-        return image_jsons, faces
+        plt.savefig(os.path.join(IMAGE_PATH,"centroids.png"))
+
     return image_jsons
 
 def compute_references_per_character(image_jsons,t=0.6,method='complete',MIN_IMAGES=1,KEEP_IMAGE_TYPES=None):
@@ -359,17 +381,18 @@ def compute_references_per_character(image_jsons,t=0.6,method='complete',MIN_IMA
                 image_jsons['characters'][name]["references"]=[output_path]
     return image_jsons
 
-def main(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,IMAGE_PATH,
-    CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES):
+def main(image_jsons,IMAGE_PATH):
     image_jsons=compute_features(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING)
-    image_jsons=compute_references(image_jsons,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES,keep_faces=False)
     with open(os.path.join(IMAGE_PATH,"images.json"),"w") as file:
         json.dump(image_jsons,file)
+    image_jsons=compute_references(image_jsons,IMAGE_PATH,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES,keep_faces=True)
     print("\ndone computing features and references ;)")
+    return image_jsons
+
 
 if __name__ == '__main__':
-    from images import MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,IMAGE_PATH,CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES
     with open(os.path.join(IMAGE_PATH,"images.json"),"r") as file:
         image_jsons=json.load(file)
-    main(image_jsons,MODEL_NAME,DLIB_LANDMARKS,DLIB_EMBEDDING,IMAGE_PATH,
-        CLUSTERING_THRESHOLD,CLUSTERING_METHOD,KEEP_IMAGE_TYPES)
+    image_jsons=main(image_jsons,IMAGE_PATH)
+    with open(os.path.join(IMAGE_PATH,"images.json"),"w") as file:
+        json.dump(image_jsons,file)
