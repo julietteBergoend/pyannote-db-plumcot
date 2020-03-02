@@ -22,9 +22,10 @@ Plumcot/data/*/transcripts-no_loc/*.brackets
 Plumcot/data/*/forced-alignment/*.xml
 Plumcot/data/*/forced-alignment-no_loc/*.xml
 
-#gecko compliant json file of forced-alignment
+#gecko compliant json file of annotations
 #see https://github.com/PaulLerner/Forced-Alignment
 Plumcot/data/*/forced-alignment/*.json
+Plumcot/data/*/serial_speakers/*.json
 Plumcot/data/*/forced-alignment-no_loc/*.json
 
 #NFS
@@ -44,3 +45,6 @@ video/
 
 # SWP files
 *.swp
+
+#colors (used in gecko)
+colors/
