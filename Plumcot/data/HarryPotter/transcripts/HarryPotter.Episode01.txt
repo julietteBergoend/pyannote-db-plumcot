@@ -61,7 +61,7 @@ uncle_vernon_dursley No more mail through this letterbox.
 aunt_petunia_dursley Have a lovely day at the office, dear.
 uncle_vernon_dursley Shoo! Go on!
 uncle_vernon_dursley Fine day Sunday. In my opinion, best day of the week. Why is that, dudley?
-harry_potter No sir, not one blasted, miserable---
+harry_potter No sir, not one blasted, miserable
 dudley_dursley AHH! Make it stop! Please make it stop!
 aunt_petunia_dursley and vernon
 uncle_vernon_dursley Go away, ahh!
@@ -80,8 +80,8 @@ aunt_petunia_dursley Ooh.
 hagrid Dry up, Dursley, you great prune.
 all Ahh!
 hagrid Mind, I haven't seen you since you was a baby, harry, but you're a bit more along than I would have expected. Particularly 'round the middle!
-dudley_dursley I-I-I'm not harry.
-harry_potter appears I-I am.
+dudley_dursley I I I'm not harry.
+harry_potter appears I I am.
 hagrid Oh, well, of course you are! Got something for ya. 'Fraid I might have sat on it at some point! I imagine that it'll taste fine just the same. Ahh. Baked it myself. Words and all. Heh.
 harry_potter Thank you!
 hagrid It's not every day that your young man turns eleven, now is it?
@@ -91,7 +91,7 @@ harry_potter Sorry, no.
 hagrid No? Blimey, harry, didn't you ever wonder where your mum and dad learned it all?
 harry_potter Learnt what?
 hagrid You're a wizard, harry.
-harry_potter I-I'm a what?
+harry_potter I I'm a what?
 harry_potter A wizard. And a thumping good one at that, I'd wager. Once you train up a little.
 harry_potter No, you've made a mistake. I can't be...a-a wizard. I mean, I'm just... harry. Just harry.
 hagrid Well, Just harry, did you ever make anything happen? Anything you couldn't explain when you were angry or scared? Ah.
@@ -123,7 +123,7 @@ hagrid No thanks, tom. I'm on official Hogwarts business today. Just helping you
 tom#unknown#HarryPotter.Episode01 Bless my soul. It's harry Potter.
 man#unknown#HarryPotter.Episode01 Welcome back, Mr. Potter, welcome back.
 witch#unknown#HarryPotter.Episode01 Doris Crockford, Mr. Potter. I can't believe I'm meeting you at last.
-professor_quirrell harry P-potter. C-can't tell you how pleased I am to meet you.
+professor_quirrell harry P-potter. can't tell you how pleased I am to meet you.
 hagrid Hello, Professor. I didn't see you there. harry, this is Professor quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts.
 harry_potter Oh, nice to meet you.
 professor_quirrell F-fearfully fascinating subject. N-not that you need it, e-eh, Potter? Heheh.
@@ -187,7 +187,7 @@ george_weasley He's not fred, I am!
 fred_weasley Honestly, woman, you call yourself our mother!
 mrs_weasley Oh, I'm sorry, george.
 fred_weasley I'm only joking. I am fred.
-harry_potter Excuse me! C-could you tell me how to
+harry_potter Excuse me! could you tell me how to
 mrs_weasley How to get on the platform? Yes, not to worry, dear. It's ron's first time to Hogwarts as well. Now, all you've got to do is walk straight at the wall between platforms 9 and 10. Best do it at a bit of a run if youre nervous.
 ginny_weasley Good luck.
 ron_weasley Excuse me, do you mind? Everywhere else is full.
