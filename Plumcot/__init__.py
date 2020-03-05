@@ -37,6 +37,7 @@ from pathlib import Path
 import pandas as pd
 import glob
 import os
+import json
 import numpy as np
 
 class BaseEpisodes(CollectionProtocol):
@@ -84,7 +85,7 @@ class Plumcot(Database):
         return reference_values,reference_labels
 
     def get_characters(self, id_series, season_number=None,
-                       episode_number=None, full_name=False):
+                       episode_number=None, field="character_uri"):
         """Get IMDB character's names list.
 
         Parameters
@@ -95,8 +96,9 @@ class Plumcot(Database):
             The desired season number. If None, all seasons are processed.
         episode_number : `str`
             The desired episodeNumber. If None, all episodes are processed.
-        full_name : `bool`
-            Return id names if False, real names if True.
+        field : `str`, optional
+            one of self.fields
+            Defaults to character_uri
 
         Returns
         -------
@@ -125,10 +127,10 @@ class Plumcot(Database):
 
         # Get character names as list
         characters_list = []
-        id_name = 1 if full_name else 0
+        column = self.fields[field]
         with open(characters_file, mode='r', encoding="utf8") as f:
             for line in f:
-                characters_list.append(line.split(',')[id_name])
+                characters_list.append(line.split(',')[column])
 
         # Create character's list by episode
         characters_dict = {}
@@ -237,6 +239,15 @@ class Plumcot(Database):
         with open(path, mode='r') as fp:
             data = pd.read_csv(fp, sep=',', header=None,
                                names=names, converters={'movies': bool})
+
+        #fields in characters.txt
+        self.fields = {
+            "character_uri":0,
+            "actor_uri":1,
+            "character_name":2,
+            "actor_name":3,
+            "imdb":4
+        }
 
         # for each series, create and register a collection protocol
         # used to iterate over all episodes in chronological order

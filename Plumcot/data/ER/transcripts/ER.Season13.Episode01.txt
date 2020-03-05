@@ -1,0 +1,729 @@
+
+not_available OFFICER 
+1 Staging area, north of County MAN 
+1 Coming through.
+not_available WATCH 
+COMMANDER Callahan, cordon off the area.
+not_available Don't let the witnesses leave.
+not_available MAN 
+2 All right, come on, here.
+not_available You folks back off the perimeter.
+not_available Back off the barricades.
+not_available OFFICER 
+2 Come on, now, listen to him.
+not_available There's a car coming in.
+not_available What happened after that? WATCH 
+COMMANDER Lift those cords up, right now.
+not_available They took one of our nurses.
+not_available Got in the van and just plowed right by.
+not_available Was Sam? Was there a nurse with them? 
+not_available I saw a lady, guy was dragging her.
+not_available She works here, Samantha Taggart.
+not_available You need to find her.
+not_available WATCH 
+COMMANDER Holding area to the left.
+not_available Lily, how'd you get through? 
+not_available Through Oncology, everybody okay? I'm not sure yet.
+not_available Call OEMC and put us on medical bypass.
+not_available We're closed for internal disaster.
+not_available And page Kovac, it's his damn ER.
+not_available I'll get on it.
+not_available Dr.
+not_available Weaver.
+not_available Yes? 
+not_available Main area clear, working our way back.
+not_available Thanks.
+not_available Admitted patients need to go up to the wards, don't wait for open beds.
+not_available They can board them in the hallways for now.
+not_available Okay, everybody else is getting triaged.
+not_available We need to assess all equipment for any possible damage.
+MARQUEZ Some of the techs are starting on that.
+not_available I came in as soon as I heard.
+not_available Thanks, Frank.
+not_available Call Pratt, we need him here.
+not_available Frank.
+OFFICER Requesting backup, any available Jerry is gonna be okay.
+not_available I found this lady near the stairs.
+not_available Finish checking the back hall.
+not_available Hey, is somebody with this boy? 
+not_available It's okay, honey.
+not_available It's okay.
+not_available Hi, I'm Kerry.
+not_available Are you with somebody? Jerry was taking care of me.
+not_available Where are his parents? 
+not_available They were on their way in.
+not_available I'll take him up to Daycare until they get here.
+not_available Come on, honey.
+not_available Have somebody take a look at that.
+not_available I'm good, this is nothing.
+not_available Looks like something to me.
+not_available Lots of folks got it worse.
+not_available Haleh, how's Jerry doing? We're waiting on a second Thora
+not_available Seal.
+not_available Abby's getting it.
+not_available I'll be right in.
+not_available Dr.
+not_available Weaver.
+not_available Any word on Sam? 
+not_available I told you we should've waited.
+RAFE We waited long enough.
+not_available We would've walked out if you hadn't let her play doctor.
+STEVE He okay? His insulin level is peaking.
+not_available He needs some food.
+not_available Peaking? 
+not_available Yeah, he's diabetic.
+not_available What, did you forget? 
+not_available How far till the switch? 
+MARY About 10 minutes.
+not_available Hurry up.
+not_available We'll get him something soon.
+not_available Systolic's down to 70.
+not_available Call for type specific.
+not_available Another two liters on the infuser.
+not_available How you doing, Jerry? 
+not_available Breath sounds on the right.
+not_available His chest tube is clamped.
+not_available You want him to bleed out? 
+not_available He needs to get up to the O.R.
+not_available Still waiting on that Thora
+not_available Seal.
+not_available I'll go find it.
+not_available Hey, sats are dropping.
+not_available 8
+not_available 0 ET, sux and etomidate.
+WEAVER Abby? Abby.
+not_available Abby, open your eyes.
+not_available Open your eyes, come on.
+not_available Come on, wake up.
+not_available I need some help, now.
+not_available I'm coming in right now.
+not_available There's been a shooting.
+not_available Jerry took a couple hits.
+not_available They're trying to stabilize him now.
+not_available Abby? Found her in a pool of blood.
+not_available Frank wasn't sure about anything else.
+not_available I'm dropping you off before I go in.
+not_available I'll check on you later.
+not_available I'm coming with you.
+not_available County General, as fast as you can.
+not_available Sats, 98 on room air.
+not_available Deep breath in and out.
+not_available What the hell happened? That trainee girl stabbed me with Beck.
+not_available Sam did the intubation.
+not_available How's Abby? I need to check on her.
+not_available Six liters O2.
+not_available Call me if his pulse ox drops below 94.
+not_available Easy, Luka, come on.
+not_available I'm fine.
+not_available Oh You need to be monitored for at least an hour.
+not_available I'm fine, Kerry, okay? 
+not_available Luka, you were paralyzed and intubated.
+not_available You belong in the ICU.
+not_available Hey.
+not_available All right, get him a stool.
+not_available Pressure's up to 110 on two liters, crit's 35, fetal heart tones, 160.
+not_available Sounds good.
+not_available Hey, Abby.
+not_available How are you doing? How'd I get here? 
+not_available You passed out, you were bleeding.
+not_available I had a cramp.
+not_available Probably vagal from the pain.
+not_available Has it stopped now? It seems to have slowed down.
+MORRIS No sign of abruption, baby's moving around.
+not_available Looks healthy.
+not_available Congratulations, it's a boy.
+not_available Could be a placenta previa.
+not_available Uh No, I don't have previa.
+not_available They saw a lowlying placenta on the 20
+not_available week ultrasound.
+not_available That would explain the bleeding.
+not_available You may need a C I don't need a C
+not_available section, call Coburn.
+not_available She was paged.
+not_available Dr.
+not_available Weaver, Psych's here.
+not_available I'll be right there.
+not_available Kerry, move me to OB.
+not_available No, we still need a sterile spec exam.
+not_available Dr.
+not_available Weaver, send me up to OB.
+not_available Vitals? 
+not_available Pulse, 85.
+not_available BP, 112/78.
+not_available All right, take her up.
+not_available Having a rough time with the airway.
+not_available It's okay, I got it.
+not_available Help with the intubation.
+not_available I'm staying with you.
+not_available No, no, I'm just going up for NST.
+not_available Just come up after he's tubed.
+not_available No.
+not_available Luka, it's Jerry.
+not_available Page me if something changes, okay? 
+not_available County ER.
+not_available Sorry, we're closed.
+not_available You have to call Mercy.
+not_available Clinic's taking any walk
+not_available ins with stress reaction.
+not_available Good, thanks.
+not_available Abel, stay with him until he's settled upstairs.
+not_available Okay, Dr.
+not_available Weaver.
+not_available We should discuss a critical
+not_available incident debriefing.
+not_available In a few hours, let's get through this.
+not_available I don't care, you can't just barge in.
+not_available Chris, it's okay, it's okay.
+not_available What's up with Jerry? 
+not_available He is redlined to the O.R.
+not_available And Abby? 
+not_available She's good.
+not_available We sent her up to OB, just to be safe.
+not_available They just called.
+not_available Dr.
+not_available Coburn is on her way in right now.
+not_available Okay, great.
+not_available Abby, how are you? Oh, I think I must have hit my belly when I fell, I'm fine.
+not_available How's the baby? 
+not_available Fetal heart tone is 155.
+not_available Thank God.
+not_available I'm just going up for monitoring.
+not_available I'll come with you.
+not_available No, no.
+not_available Come on, it will be fun.
+not_available We can play Who Had the Worst Day? I'm fine.
+not_available Really.
+not_available All right, I'll come and check on you later.
+not_available Come on, come on, let's go.
+not_available Mom, I don't feel good.
+not_available He needs to eat something.
+not_available No, gonna get some miles behind us first.
+not_available No, he can't wait.
+not_available Okay, get him something to hold him over, but make it quick.
+not_available Come on, Alex.
+not_available No, Alex stays with me.
+not_available I'll take her, let's go.
+not_available I'll be back, okay? 
+MARY Hey, get me some chips.
+not_available I'm hitting the head.
+not_available Come on, stand up straight.
+not_available Be a man.
+not_available You're not a little kid anymore.
+not_available Oh, shoot.
+not_available I think you're gonna really like Canada.
+not_available I like Chicago.
+MORRIS More cricoid, Ray.
+RAY I'm about to crack the larynx.
+MORRIS It's a big floppy epiglottis.
+not_available I can't see, it's a long neck.
+not_available Eighty
+not_available two on the pulse ox.
+not_available Pull out the bag.
+not_available Give me the flipper.
+not_available If we can't get this in then we're gonna need a straight long blade.
+not_available You okay? Let me know when the sats are up.
+not_available Tight wheezing throughout.
+not_available All right, sit down.
+not_available Get him an albuterol neb.
+not_available I'm okay.
+not_available It's bronchospasm.
+not_available You probably aspirated some saliva.
+KOVAC Guys, I can do this.
+not_available If you don't get treated, I'm gonna have two patients to intubate.
+not_available Grab an LMA, just in case.
+not_available Pressure's down again.
+RAY Autotransfuse from the Thora
+not_available Seal.
+not_available Okay, let me take a look.
+not_available How is he? He's okay, Frank.
+not_available Did somebody call his mom? I'll do that right now.
+not_available She can meet us up in the O.R.
+not_available Yeah, let's hope so.
+not_available Hey, grab what you need.
+not_available You planning on paying for those? No stealing, baby.
+not_available Yeah, these people work for a living.
+HALEH He's bradying down.
+not_available Should I get Weaver? If you enter the trachea, you'll feel clicks when you pass over the cartilaginous rings.
+not_available Heart rate's only 50.
+not_available Click.
+not_available Click.
+not_available Click.
+KOVAC Hold it right there.
+not_available Ray, pass an 8
+not_available 0.
+not_available All right.
+RAY Here you go.
+not_available Okay, advance the tube.
+not_available No, it doesn't wanna pass.
+not_available Down to 40, amp of atropine.
+not_available Rotate counterclockwise.
+not_available It's caught up on something.
+not_available There we go.
+not_available Okay.
+not_available End
+not_available tidal CO2.
+not_available Sensor is yellow.
+not_available Yellow means yes.
+not_available Thought you were bringing him.
+not_available Problem.
+not_available We're ready.
+not_available His pressure? 
+not_available Up to 95 systolic.
+not_available Four units.
+not_available Two liters autotransfused off cell saver.
+not_available Everybody upstairs is doing everything we can to help you guys out.
+not_available Well, baby looks good, but you are definitely contracting.
+not_available I don't feel anything.
+not_available Sometimes you don't.
+not_available I think the belly trauma put you into preterm labor.
+not_available Baby's head dropped down, caused placental bleeding.
+not_available Okay, well, it's too soon, so give me terbutaline.
+not_available Come on, you need magnesium.
+not_available I know you know that.
+not_available I remember all the times you gave it when you were a nurse.
+not_available Mag makes you feel like crap.
+not_available So why don't we just start with terb? Terbutaline can mask the signs and symptoms of abruption.
+not_available I didn't know that.
+not_available Today you're the patient, not the doctor.
+not_available I'm not having an abruption.
+not_available Not right now, but the trauma puts you at risk.
+not_available And if you do abrupt, we need to know right away.
+not_available So you could do a Csection? Four
+not_available gram load, then two an hour.
+NURSE Yeah.
+not_available Let me know if you have any more pain.
+not_available Okay.
+MARY You got my chips? 
+RAFE Yeah, yeah, yeah.
+not_available That the key to the restroom? 
+not_available Yeah, but it's nasty there.
+not_available No, no, we need to leave.
+not_available Let the girl take a pee.
+not_available We can't hold it in like you guys.
+not_available Hey, can I have my chips? I'm starving.
+not_available Thank you.
+not_available Next time you try something like that, I'll take it out on your kid.
+not_available You're definitely not contracting.
+not_available Contractions don't last this long.
+COBURN When did the pain start? 
+not_available About 15 minutes ago.
+not_available How bad, one to 10? I don't know, like a four, maybe.
+not_available But it's probably just a bruise from when I fell down.
+not_available I just need some Tylenol or something.
+not_available Well, there's no evidence of abruption.
+not_available Great.
+not_available See? I told you.
+not_available CBC with platelets, PT/PTT fibrinogen, D
+not_available dimer and FDPs.
+not_available Why? What for? Twenty percent of abruptions have ultrasound findings.
+not_available Let's send the labs to be sure.
+not_available Baby looks great, heart rate's good, excellent variability.
+not_available Abby, Abby, hey, Abby.
+not_available Here's what I would say to you if you weren't a doctor.
+not_available The placenta separates from the womb and bleeds the baby can be deprived of oxygen.
+not_available Now, even if we don't see a blood clot the labs will give us advanced warning before the baby's in trouble.
+not_available Okay.
+not_available Twelve of betamethasone.
+not_available Oh, come on.
+not_available We have to mature the baby's lungs in case of an emergent No, no, no.
+not_available I have two and a half months left to go.
+not_available This baby is not coming until then.
+not_available That's what we're all hoping for.
+not_available I can wait two more weeks.
+not_available The risk of prematurity goes way down at that point.
+not_available I can wait, I'll go on bed rest, I'll use a bedpan, I won't move.
+not_available You know that I want you to have a healthy baby.
+not_available Why do you keep focusing on a worst
+not_available case scenario? That's her job.
+not_available Eight monitored beds good to go.
+not_available Night staff's been called? 
+not_available All coming in except two.
+not_available You check on Sam? My guy at the district called, still no leads.
+not_available OEMC's on the line, wanna know where we're at.
+not_available Tell them we can take four critical paramedic runs.
+not_available Back on bypass till we see how we're doing.
+not_available Got people for treatment.
+not_available We'll take care of it.
+not_available Chuny, let's set up fast track in the west lobby.
+not_available Speed through anybody who doesn't need x
+not_available rays or labs.
+not_available Pratt.
+not_available All right, I'll help set it up.
+not_available Great.
+not_available How long is this gonna take? 
+not_available What are you doing? 
+RAFE Shut up.
+not_available You're gonna get us all killed.
+not_available Relax, train's probably a mile away.
+not_available Oh, son of a bitch.
+not_available All right, everybody be cool.
+not_available Nobody gets hurt.
+not_available License and proof of insurance.
+not_available We're on our way to the lake so my son can get some fishing in before dark.
+not_available It's his birthday.
+not_available I'll be right back.
+not_available That's good.
+not_available He's just gonna give us a ticket.
+not_available What's he doing back there? 
+STEVE He's a local yokel, man.
+not_available This is the most excitement he's had all day.
+not_available Probably calling for backup.
+not_available Sammy.
+not_available Every cop within a 1000
+not_available mile radius knows what you look like.
+not_available He's taking too long, screw it.
+not_available Ah So they're trying to find the source of the bleeding and tie it off.
+not_available Oh, my Jerry's not the hardy type.
+not_available I only hope he doesn't wilt under all this.
+not_available He had a good blood pressure and good pulse when he left the ER, so Oh, the ER.
+not_available This would never have happened if he didn't insist on working at that fakakta cesspool.
+not_available Well, as long as the surgeons find the bleeding and stop it, he should be fine.
+not_available He could have gone to law school, you know.
+not_available I didn't realize that.
+not_available I myself sent the application to Harvard.
+not_available Harvard.
+not_available But, no, he wouldn't go.
+not_available Oh, that's, uh 
+not_available Jerry got into Harvard, wow.
+not_available No, they rejected him.
+not_available Four times.
+not_available But that's not the point.
+not_available No, of course it isn't.
+not_available So how much is all this gonna cost us? 
+not_available Um I don't really know.
+not_available I mean, I'm sure his health insurance will cover it.
+not_available Oh, but they don't cover the deductibles, do they? You know who covers the deductibles? Me, I cover the deductibles.
+not_available Why don't you wait here, okay? And I will talk about this with you as much as you want.
+not_available But I'll go see how he's doing first.
+not_available He doesn't have any savings, you know.
+not_available But why would he? He can barely survive off that weekly insult you people call a paycheck.
+not_available How's he doing? 
+not_available A bullet nicked the right ventricle.
+not_available Damn it, I was hoping it missed the heart.
+DUBENKO Another 3.0 Prolene on a pledget.
+SHIRLEY Eighth unit going up.
+ARl Systolic's 85.
+not_available I mean, a cardiac defect isn't so bad.
+not_available It's repairable, right? It's not like he needs a pneumonectomy.
+DUBENKO Metz.
+not_available Looks dry, barely any oozing.
+ARl V
+not_available tach.
+DUBENKO Internal paddles.
+ARl Lost the pulse.
+DUBENKO Twenty joules.
+not_available Oh, God.
+SHIRLEY Charged.
+DUBENKO Clear.
+ARl Still tach.
+not_available Come on, Jerry.
+DUBENKO Charge to 50.
+not_available Clear.
+ARl No change.
+not_available Damn it.
+DUBENKO Starting internal compressions.
+not_available Why is he in Vtach? Elevated potassium? 
+ARl T
+not_available waves aren't peaked, but we've got ST elevation.
+not_available He's having a heart attack.
+ARl What about hypocalcemia? 
+DUBENKO Could be high doses of citrates with the transfusions.
+not_available Amp of calcium chloride.
+not_available Excuse me, Dr.
+not_available Dubenko.
+not_available Not now, Neela.
+not_available Epi's onboard.
+not_available I'm sorry to interrupt, but is it possible the suture is tying off a coronary artery? What? 
+not_available Lf you occluded the coronary artery with the stitch, you'd have an MI.
+not_available That's a good call.
+not_available I'm near the RCA.
+not_available Eleven blade.
+SHIRLEY Charged to 20.
+not_available You could see inside the field? I just had a hunch.
+DUBENKO Sutures cut.
+not_available Clear.
+ARl Sinus.
+not_available Way to go.
+DUBENKO Okay, we'll go on bypass for a coronary graft.
+not_available Call the perfusionist.
+not_available We'll reposition for a clamshell.
+not_available Neela, scrub in.
+not_available I need another set of hands here.
+not_available Whoa, whoa.
+RAFE Woohoohoo! 
+not_available Oh, man.
+not_available They know where we're going.
+not_available Just let us out, please.
+not_available You don't need us.
+not_available You're not prisoners, you're family.
+not_available You're gonna get your family killed.
+not_available Is that what you want? Steve! What are you doing? 
+not_available Cops are gonna be crawling everywhere.
+not_available We'll get further off the grid.
+not_available They didn't know what direction we headed.
+not_available Then we'll change the direction.
+not_available Steve, please, just let us out, okay? I can go back and check on that cop.
+not_available Shut the hell up, Sam.
+not_available Shut up, you're not leaving.
+not_available Nobody's leaving.
+not_available Do you understand that? Does everybody understand that? 
+not_available Whoa.
+not_available Hey, buddy, chill out.
+not_available We're okay, hey, hey.
+not_available Hey, easy, man.
+not_available Are you okay? 
+not_available I'm fine.
+not_available Sam probably saved your life.
+not_available Yeah, I hope she's all right.
+not_available How's he doing? 
+not_available Good.
+not_available Turn and see for yourself.
+not_available The magnesium has drained all my life force.
+not_available We're so not ready for this.
+not_available No one is ever ready for this.
+not_available Yeah, but we don't even have a car seat or a stroller We have a crib.
+not_available We don't have a name.
+not_available I was kind of hoping we could name him after my father.
+not_available Really? 
+not_available Yeah.
+not_available He would really have loved to have a grandson named Mongo.
+not_available Mongo? Yeah, it's a very popular name in Croatia.
+not_available I'm just kidding, my 
+not_available My father's name is Josip.
+not_available I don't care how we're gonna call him.
+not_available It's not funny.
+not_available Oh, my God.
+not_available What is it, contraction? 
+not_available I don't know, I think my water broke.
+not_available Ugh.
+not_available What are you doing? 
+not_available Opening up your saline.
+not_available We need some help in here.
+not_available Are you sure it's not a contraction? Nothing on the monitor.
+not_available Oh, what's that? 
+not_available His heart rate's dropping.
+not_available Oh, God, how low? 
+not_available Okay, get on your left side now.
+COBURN Abby.
+not_available Sharp pain, gush of blood.
+not_available Heart rate's in the 60s.
+not_available We're going to the O.R.
+not_available Is it an abruption? 
+COBURN Looks that way.
+not_available Stat, page Anesthesia.
+not_available No, I want a spinal.
+not_available General anesthesia is quicker.
+not_available I wanna be awake for the birth.
+not_available You're okay.
+not_available You're gonna be okay.
+RAFE No, keep going.
+STEVE I wanna sit tight for a while.
+not_available I don't think so.
+not_available Babe, what do you think, split up? 
+MARY Yeah.
+STEVE Not until we get another car.
+not_available All you do is slow us down, you and this dumb bitch.
+not_available Oh, shut up, shut up.
+not_available Hey, hey, take it easy.
+not_available They're fighting.
+not_available Yeah, they don't know what to do.
+not_available They know that they're in trouble, they know the cops are coming to find us.
+not_available Mom.
+not_available Yeah? Is Dad gonna hurt us? Everything's gonna be okay, buddy.
+not_available Keep your voice down.
+not_available They might hear you.
+not_available Just come in here, come in here.
+not_available Buddy, I need you to help me do something.
+not_available But you gotta do it so no one else knows, okay? Okay.
+not_available Come on.
+not_available Find some keys, okay? 
+not_available I think the other guy has the keys.
+not_available Or a gun or something.
+not_available A gun? 
+not_available Anything.
+not_available Mom, I'm scared.
+not_available Okay, I know you're scared, and I know I messed up a lot but I would never, ever let anybody hurt you, no matter what.
+not_available I swear to God.
+not_available Go, go.
+not_available Hey.
+not_available Are you guys hungry? What's up, Frank? You know, I always believed that nothing ever really changed.
+not_available I'm old enough that I know that there's always gonna be troubles.
+not_available War, taxes.
+not_available Bad guys now are pretty much the same as bad guys have always been.
+not_available That's not how I feel today.
+not_available I feel like the world's getting worse and worse and worse.
+not_available And what we're watching is the slow, steady descent of the human race.
+not_available Uh No, no, I don't buy that.
+not_available I think that, um, today was just a rough day for the home team.
+not_available Straight across the sternum? 
+not_available Exactly.
+not_available Ten blade.
+COBURN Lap pads.
+not_available Oh, boy.
+not_available What? 
+not_available Lots of oozing.
+NEELA Cross
+not_available clamping the aorta.
+DUBENKO Cardioplegia going on.
+NEELA Ice.
+COBURN Opening the uterus.
+not_available Hang two units of packed cells.
+NEELA Greater saphenous is isolated.
+not_available Cannulate, check for leaks, then pass it up.
+COBURN Banded scissors.
+not_available Cord is cut.
+not_available NICU 
+RESIDENT Come on, little guy, give me a cry.
+not_available NICU 
+NURSE Pulse is less than 60.
+not_available NICU 
+RESIDENT Let's bag him.
+not_available Intubation tray, 3
+not_available 0 ET tube.
+not_available NICU 
+NURSE Add 20 units Pit to the bag.
+not_available Draw up Methergine and Hemabate.
+DUBENKO Twenty joules.
+SHIRLEY Charged.
+NEELA Clear.
+SHIRLEY Sinus rhythm.
+ARl We have a pulse.
+not_available All right, Neela.
+DUBENKO Hole punch for the proximal, NICU 
+RESIDENT I'm in.
+not_available Ambu
+not_available bag.
+COBURN Abruption clot.
+not_available Consumed all of your clotting factors.
+not_available Uterus is not responding to massage.
+not_available Let's pack it off.
+not_available NICU 
+RESIDENT Draw up epi, .03.
+not_available NICU 
+RESIDENT Holding compressions.
+not_available NICU 
+NURSE Pulse up to 120.
+not_available NICU 
+RESIDENT Get ready to move.
+COBURN Damn it.
+not_available What? The uterus is boggy and hemorrhagic.
+not_available The sutures are making it worse, not better.
+PERRY Nothing after 20 minutes.
+not_available She's not clotting at all.
+not_available Am I in DIC? 
+COBURN The FFP should reverse that now that the baby's out.
+KOVAC What if it doesn't? 
+PERRY Pressure's down to 80/50.
+COBURN All right, two more units.
+not_available We gotta control this bleeding.
+not_available Go to the NICU.
+not_available No, I'm staying.
+not_available Stay with the baby.
+not_available Abby.
+not_available Shut up, shut up, please, just shut up.
+not_available I want you to stay with the baby.
+COBURN Try to ligate the uterine arteries.
+not_available Go, I will call you if we need you.
+not_available I don't want him to be alone.
+not_available This will help.
+not_available You see that one up there? The real bright one? Dead.
+not_available By the time we see it, it's already gone.
+not_available We'll get him his insulin way before he needs it.
+not_available He'll be fine.
+not_available You know, Steve, I was gonna ask you what happened to you to turn you into this.
+not_available Then I realized it was always in the cards from the moment that I met you.
+not_available You were on your way to becoming exactly what you are right now.
+not_available I love him.
+not_available I know you don't believe that.
+not_available Especially right now.
+not_available But I do.
+not_available Yeah, you love him, right.
+not_available That's why you get some woman to snatch him from school and tie him up and leave him in a van.
+not_available You don't even remember his medicine.
+not_available Hey, hey.
+not_available You're right to be pissed.
+not_available You're right.
+not_available It was my fault.
+not_available It was my fault for ever letting us get separated in the first place.
+not_available But now we gotta stay together.
+not_available The three of us.
+not_available There's no other way.
+not_available I'd rather we were all dead.
+not_available Hey.
+not_available I don't want you to be afraid of me.
+not_available You don't need to be afraid of me anymore.
+not_available As long as we stay together, you and Alex are safe.
+COBURN Where are we in factor replacement? 
+PERRY Four of red cells, two units FFP, pack of platelets.
+COBURN You've had uterotonics, packing an O'Leary stitch and a B
+not_available Lynch brace.
+not_available Still bleeding? Blood has penetrated the thickness of the uterine wall.
+not_available I don't know what else to do.
+not_available We can keep waiting for you to clot.
+not_available Or we can start thinking about a hysterectomy.
+not_available How long can we wait? Too many transfusions put you back into DIC.
+not_available And then the bleeding gets even worse.
+PERRY Last crit is 21.
+COBURN Stay ahead two units.
+not_available Uh, Jerry is in recovery.
+not_available I thought you'd wanna know.
+not_available Um Have we heard anything about Sam? No.
+not_available This is a scary place.
+not_available I remember the feeling just walking in.
+not_available I know your baby is a lot sicker than Henry was but everything turned out okay for my boy, Luka.
+not_available And I know that it will for yours too.
+not_available Uh They're concerned about prolonged hypotension.
+not_available And, uh, he's on 100 percent oxygen.
+not_available So there's a risk of toxicity.
+not_available And Um They're going to, uh, do periodic, uh, ultrasounds to check for intraventricular hemorrhage.
+not_available There's nothing more you can do for him right now.
+not_available You should go be with Abby.
+not_available She doesn't want him to be alone.
+not_available He won't be.
+not_available Okay, so Morris got you through the ER.
+not_available The first circle of hell.
+not_available And Neela got you through surgery.
+not_available The second.
+not_available I guess it's up to me to get myself through recovery.
+not_available Yeah, those are circles three through nine.
+not_available Well, here's one way to start, the incentive spirometer.
+PRATT It'll keep you from getting pneumonia.
+NEELA Suck it to make the balls rise.
+not_available Twice an hour.
+not_available Do you know what time it is? I've been out there watching the same cable news over and over.
+not_available Hey, Ma.
+not_available I missed my water aerobics.
+not_available You were supposed to take me.
+not_available I know, I know.
+not_available Oy, vey, you gave me such a scare, my sheyn boytshik.
+not_available Oh, I'm sorry, Ma, I'm sorry.
+not_available Oh, look at that, look at that punim.
+not_available I'm 
+not_available Hey.
+not_available Hey.
+not_available How's he doing? 
+not_available He's fine.
+not_available Still intubated? Yeah, but, uh, he's satting well, you know.
+not_available Pressure's holding with dopamine.
+not_available He's making urine.
+not_available Brain scan? 
+not_available Clear.
+not_available Well, those are all good things.
+not_available Yeah, all good things.
+not_available Is one gonna be enough? What? One baby.
+not_available Um My uterus wouldn't stop bleeding and Coburn did everything she could, but You had a hysterectomy? Well, one is all we need.
+not_available So, um, I'm not gonna be able to see him for a while.
+not_available I can't get to the NICU for at least 24 hours.
+not_available You don't have to wait that long.
+not_available That's when I told him to wave to Mom.
+not_available Yeah, he's a smart one.
+ABBY Ha
+not_available ha.
+not_available Joseph.
+not_available Hmm? I don't remember much about my dad, but, uh I remember when I was little, he used to love to watch boxing.
+not_available And especially Joe Frazier because he thought he was the best pure fighter, so I'd like to call him Joe, if that's okay.
+not_available I'll be right back.
+not_available Do you need anything? Okay.
+not_available Steve.
+not_available Steve.
+not_available Steve, I have to pee.

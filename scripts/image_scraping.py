@@ -20,7 +20,7 @@ from bs4 import BeautifulSoup
 import re
 
 # Hyperparameters
-MAX_FILE_NAME_LENGTH=255
+MAX_FILE_NAME_LENGTH=127
 PHOTOS_CLASS='mediastrip'
 
 def get_url_from_character_page(url_IDMB,THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"):

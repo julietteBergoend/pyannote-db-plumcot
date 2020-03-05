@@ -1,0 +1,298 @@
+cpt_lee_adama Where are the medics? Wheres Doc Cottle?
+medic_layne_ishay Off ship, on rounds in the fleet, sir. Stand clear!
+marine_sgt_fischer Sgt. Fisher reporting, sir.
+colonel_saul_tigh Its gonna be okay. Okay.
+admiral_william_adama Im your new shipmate. Bill adama.
+colonel_saul_tigh Saul Tigh.
+medic_layne_ishay H-hes gonna be okay.
+medic_layne_ishay Okay, weve got tension pneumo. Im gonna stick him and release the pressure.
+medic_layne_ishay Hes gonna be okay.
+lt_sharon_valerii Whats going on? What happened?
+colonel_saul_tigh Sergeant of the guard, secure that thing in the brig.
+marine_sgt_fischer Aye, sir. Hollis, Wenzler, lets go. Lets go!
+lt_sharon_valerii Ah! No! Wait!
+medic_layne_ishay Okay, hes breathing! Lets get him down to sickbay, RFN.
+captain_aaron_kelly What the hell?
+lt_felix_gaeta Valeriis shot the old man.
+captain_aaron_kelly What?
+medic_layne_ishay Three, one, two...
+lt_felix_gaeta She must be a Cylon, Colonels in command. You are second.
+medic_layne_ishay Make a hole!
+marine_sgt_fischer As you were, Captain.
+cpt_lee_adama Like hell!
+colonel_saul_tigh Secure Captain Adama! Put him in the brig.
+cpt_lee_adama Colonel! Colonel Tigh! Hes my father! Colonel!
+captain_aaron_kelly Colonel. Could this be a prelude to a Cylon attack?
+colonel_saul_tigh How would they know where we are?
+racetrack Valerii couldve told them, sir.
+colonel_saul_tigh What? How?
+racetrack When we aboard the base star, she left the raptor for a few minutes and came back without her helmet. She mightve told the Cylons everything. Our position, defenses...
+captain_aaron_kelly Colonel, the toasters have knocked out our CO. This has gotta be part of a bigger plan. I recommend we execute jump to urgency standby coordinates.
+officer_anastasia_dualla Colonel, Ive located Doc Cottle. Hes aboard the rising star.
+lt_felix_gaeta Dradis! Signal of contact, Cylon base star bearing 4-8-7 carom 0-1-5.
+captain_aaron_kelly Sir, we cant stay here. Sir.
+admiral_william_adama So whats your plan here? Personally, I tend to go with what you know. Til something better turns up.
+captain_aaron_kelly Sir!
+colonel_saul_tigh Dee, alert the fleet. We are making an immediate jump to the emergency coordinates.
+officer_anastasia_dualla Sir, Doc Cottle is still 15 minutes away.
+colonel_saul_tigh Hell have to rejoin us on the other side of the jump.
+lt_felix_gaeta Sir! What about our people on the surface of Kobol?
+colonel_saul_tigh If theyre still alive, theyll have to wait.
+lt_felix_gaeta Ftl?
+officer_anastasia_dualla Go!
+lt_felix_gaeta Nav-con?
+officer_anastasia_dualla Go! Galactica to all vessels. Prepare to make immediate ftl jump to escape coordinates alpha. I say again, escape coordinates alpha. Clock will start on my mark. Mark.
+president_laura_roslin Captain, what have they done to you? Whats going on?
+cpt_lee_adama My fathers been shot.
+president_laura_roslin What?
+cpt_lee_adama Someone get this frakkin thing off me, please?
+Guard#unknown#BattlestarGalactica.Season02.Episode01 Im not authorized to do that.
+cpt_lee_adama Im behind the frakkin bars!
+president_laura_roslin Captain. How bad is your father?
+cpt_lee_adama Bad. Two bullets in the chest.
+president_laura_roslin Is Dr. Cottle with him?
+cpt_lee_adama No, Doc Cottles not on board.
+officer_anastasia_dualla Attention, Galactica. Fleet is away. Stand by to jump in five, four, three, two, one-- jump. Gaeta: Jump completed.
+colonel_saul_tigh Report. Report!
+lt_felix_gaeta Dradis is empty, no contacts.
+colonel_saul_tigh No contacts? Where is the fleet? Dee!
+officer_anastasia_dualla Checking all channels. No colonial signals. Theyre gone, sir.
+number_six Isnt she beautiful, Gaius?
+dr_gaius_baltar I dont think I have ever been touched so deeply in my entire life.
+number_six Youre going to make a wonderful father.
+dr_gaius_baltar Speaking metaphorically, of course.
+number_six And literally. Shes our child, gaius. Our little girl.
+dr_gaius_baltar What?
+number_six Do you want to hold her?
+dr_gaius_baltar Mm...yes. Yes, of course I do. But shes not real. Any more than, uh... any of this is. Real.
+number_six Shes real.
+dr_gaius_baltar She is?
+number_six She may not be with you yet, but she will be. Soon.
+dr_gaius_baltar Im having a little difficulty-- Im trying to understand, I want to understand. I--
+dr_gaius_baltar You are the mother.
+number_six And youre the father.
+dr_gaius_baltar Am I the father?
+crewman_specialist_cally_henderson Excuse me?
+dr_gaius_baltar Dream, Im, been clearly having a dream...
+crewman_specialist_cally_henderson Were moving out, sir. Get up. And if you wouldnt mind carrying something this time, thatd be great.
+ensign_diana_seelix This is serisone, it should help you breathe a little easier.
+chief_galen_tyrol Here, just take it easy. Youll be feeling better in a few minutes.
+ensign_diana_seelix Excuse me, sir. Weve got to get you up.
+crewman_specialist_socinus It hurt.
+ensign_diana_seelix I know.
+dr_gaius_baltar If you dont mind my asking, where are we going, Crashdown?
+crashdown Tree line. We can hide, still see the crash site in case Galactica sends a rescue party.
+dr_gaius_baltar Galactica will be sending a rescue party.
+chief_galen_tyrol Everybody down!
+crewman_specialist_cally_henderson what was that?
+ensign_diana_seelix That Cylons?
+crashdown Maybe. Seelix, grab the ammo. Staggered formation, Ill take point. Chief, youre bringing up the rear. Be ready to tell the private, people.
+chief_galen_tyrol El-tee? I think we should double-check the supplies before we bug out.
+crashdown Sorry, Chief, we dont have the time. If thats an aircraft turbine, theyre gonna be on us any moment.
+chief_galen_tyrol El-tee, we gotta make sure we have everything!
+crashdown We dont have the time, Chief!
+chief_galen_tyrol Damn it. Gods Damn it!
+ellen_tigh Whats going on, saul? Wheres the fleet?
+colonel_saul_tigh We dont know, they jumped to another location.
+ellen_tigh Youve got blood on your pants. Why would they do that?
+colonel_saul_tigh Every watch we update our emergency jump calculations with new star fixes to compensate for inertial drift, and then we transmit them to the rest of the fleet. This time ours were updated, but theirs werent. Gaeta was supposed to transmit them to the rest of the fleet.
+ellen_tigh So its Gaetas fault.
+colonel_saul_tigh Oh, the kid was overwhelmed. He had his hands full.
+ellen_tigh If you say so. It sounds like a pretty big screw-up to me...
+colonel_saul_tigh I should have checked before I gave the order to jump!
+ellen_tigh This doesnt sound like you, saul. You dont let people slide. You bust their ass. Now, if Bill doesnt make it--
+colonel_saul_tigh Hell make it.
+ellen_tigh If he doesnt, this will be your ship, your command. All Im saying is you need...
+colonel_saul_tigh This is Bill Adamas ship.
+colonel_saul_tigh This is his command. His orders are still the word of the gods on this ship. Just so were clear. This will be Adamas command until the day he dies. And we are not going to let him die. So say we all.
+colonel_saul_tigh As you were. So how do we find the fleet?
+captain_aaron_kelly If we jump back to our original coordinates, our nav computers can use those star fixes to generate a best fit solution, given the fleets current position.
+colonel_saul_tigh The Cylons are waiting for us back there. How long will that take to calculate once we get back there?
+lt_felix_gaeta If we shut down all our functions, 12 hours.
+colonel_saul_tigh Theres no way we can hold off a Cylon base star for 12 hours.
+president_laura_roslin We have got to jump back. We cant stay here. Lieutenant thrace wont be able to find us once she retrieves the arrow from caprica.
+billy_keikeya If she retrieves the arrow.
+president_laura_roslin Shell retrieve the arrow. Captain, youve got to get reinstated. Youve got to get back to CIC. Gotta denounce me, disavow me, do whatever you need to do. Colonel Tigh cannot relocate this fleet on his own without your father.
+cpt_lee_adama Tighs not letting me out of here. I put a gun to his head. He wont forget that anytime soon.
+president_laura_roslin I am so sorry that I got you into this, Captain.
+cpt_lee_adama No, dont apologize. I knew what I was doing. But I didnt do it for you. I did it for... well, actually, I did it for... nothing, turns out.
+president_laura_roslin Thats not true. You took a stand.
+cpt_lee_adama And now look at us.
+crashdown Watch your foot. Everyone take five.
+ensign_diana_seelix Give me the med kit. Wheres the med kit?
+chief_galen_tyrol How you doing? Hey, how you doing, buddy?
+crewman_specialist_socinus Good. Just listening to the birds.
+chief_galen_tyrol Ill be damned. I dont remember the last time I heard birds.
+chief_galen_tyrol Take it easy, okay?
+ensign_diana_seelix Damn it.
+crashdown What is it?
+ensign_diana_seelix Were out of serisone.
+crashdown Its all right, Ill get the other med kit.
+tarn What other med kit?
+crashdown Oh, dont frakkin tell me. We pulled two med kits from the ship. I told you to keep an eye on both of them.
+tarn I only saw the one, sir.
+crashdown There were two.
+tarn Im sorry, sir, but I dont remember you telling me...
+crashdown Well, I did!
+ensign_diana_seelix Sir, his lungs are filling up with fluid. If he doesnt get more serisone soon, hes not gonna make it.
+crashdown Okay, Tarn. You forgot the med kit, so youre gonna have to go back and get it. Take a rifle, three clips of ammo, and a canteen.
+tarn What?
+crashdown Move.
+chief_galen_tyrol Cally, come here. Watch the rear. El-tee. You cant send him alone.
+crashdown You questioning my orders, Chief?
+chief_galen_tyrol No, Im just pointing out a flaw in your plan. Doesnt need to be any bigger than that. Cally and I can go with him.
+crashdown All right, fine, but would you look out for Cally?
+chief_galen_tyrol Cally, give me the rifle. We three go. Leave that, leave your backpack. Sidearms out. Tarn, youre bringing up the rear in the middle, shh. Eyes and ears.
+lt_sharon_valerii Her consciousness is being downloaded into another body right now. And when she wakes up, shell tell them exactly where we are.
+captain_karl_agathon Shes right, we cant stay here.
+captain_kara_thrace Shes right, huh? Sharon the Cylon is right. Its all just, listen to Sharon the Cylon. Do whatever she says. Cause thats a good idea.
+captain_karl_agathon Hey, Kara, she helped me get this far.
+captain_kara_thrace Okay, I get it. I get it, Helo. You and I go way back, so I get it. All right, I remember how you felt about her, but that is not the real Sharon. That is some cheap knock-off copy.
+lt_sharon_valerii Im not a copy. Im Sharon. I remember the first day I met you, Starbuck. You were puking your guts out in the head because youd eaten bad oysters on...
+captain_kara_thrace Dont do that.
+captain_karl_agathon Hey!
+captain_kara_thrace I dont like it and I dont like you. So the best thing you can do is just keep your damn mouth shut.
+captain_karl_agathon Starbuck. Put it down, for gods sakes.
+captain_kara_thrace What do you want from me, Helo? Shes a Cylon. Youve been had. Weve been had. So what, Im just supposed to be nice to her? Because she says shes pregnant? Get out of the way.
+captain_karl_agathon No.
+captain_kara_thrace Carl, do not think that I will not--
+captain_karl_agathon Im not gonna let you kill her! Okay? Shes carrying my child.
+captain_kara_thrace My gods, men are so painfully stupid sometimes! How do you know that?
+captain_karl_agathon I know, all right? She is not lying.
+captain_kara_thrace They lie about everything, Helo, their entire existence is a lie. Theyre not human, Helo. Theyre machines. You cant have a baby with a machine. I dont know what to tell you. Okay?
+captain_karl_agathon But I believe her. I-its hard to describe. Weve been together a long time. I mean, I know what she is, but she is not like the others. She is not.
+captain_kara_thrace No, no, no, no, no! Bitch took my ride.
+colonel_saul_tigh Hows he doing?
+medic_layne_ishay Well, the bullets tore up his spleen. His blood pressure is way down. Somebody needs to get in there and stop the bleeding, or well lose him.
+admiral_william_adama So whats your plan?
+colonel_saul_tigh Dont really have one.
+admiral_william_adama Im getting back into the cockpit. Im getting back into my fleet. And I want you to come with me, Saul.
+colonel_saul_tigh You really believe that we can get back in the fleet?
+admiral_william_adama Yeah, I do. Yeah, I do.
+medic_layne_ishay How long til Doc Cotters aboard?
+colonel_saul_tigh I dont know. Its gonna be a while.
+medic_layne_ishay He doesnt have much time, sir.
+colonel_saul_tigh Youre gonna have to go in yourself.
+medic_layne_ishay Me? Im just a medic.
+colonel_saul_tigh Today youre a doctor.
+Guard#unknown#BattlestarGalactica.Season02.Episode01 Colonel.
+colonel_saul_tigh Open cell.
+lt_sharon_valerii Hows the Commander?
+colonel_saul_tigh Youve bungled the job. If thats what youre asking.
+lt_sharon_valerii Then hes alive. Thank the gods.
+colonel_saul_tigh How many of our pilots were Cylons?
+lt_sharon_valerii I dont know.
+colonel_saul_tigh Who gave the order to shoot the old man?
+lt_sharon_valerii No one. Just get it over with, you frakkin coward.
+colonel_saul_tigh Give me your firearm. Give me your gun!
+Guard#unknown#BattlestarGalactica.Season02.Episode01 Yes, sir.
+lt_sharon_valerii Just shoot me. Get it over with.
+chief_galen_tyrol Okay, Tarn. Go up, take a look. If its not there, its at the raptor. And well have to move up more.
+tarn I got it, Chief.
+chief_galen_tyrol All right, lets get the hell out of here. Tarn on point. Lets go. Go, go, go, go, go.
+crewman_specialist_cally_henderson This makes no sense. Why am I carrying the med kit when you forgot it?
+tarn Okay, first of all thats el-tees kit. Secondly, Im on point.
+crewman_specialist_cally_henderson Whatever.
+chief_galen_tyrol All right, children, thats enough. Ill tell you what, cally. If it makes you feel any better, Ill put him on hangar deck mop-up duty with you for next week.
+crewman_specialist_cally_henderson Now youre talkin.
+tarn For what? If anybody should have mop duty, its el-tee.
+chief_galen_tyrol Go! Go! Get down! Top of the ridge! Cally, take the rifle and cover me! Suppressive fire. Okay, okay, wait for me. Wait for me, all right? Go, go, go, go, go. Dont move! Im coming for you, dont move.
+chief_galen_tyrol Jeez! m coming. Give me fire! Cally, go, go!
+crewman_specialist_cally_henderson Theyre dug in, Chief. I cant see them.
+chief_galen_tyrol Cover me! Come on. Come on. Youll be okay, youre okay. Youre okay, youre okay. Its okay. Get on my back. Get on my back. Get on me, get on me.
+crewman_specialist_cally_henderson Chief, theyre not following us anymore.
+chief_galen_tyrol Cally, there. There. I know youre hit, buddy. Its okay, Im gonna check you right now. Im gonna put him here, Cal
+tarn I wanna go home, Chief.
+chief_galen_tyrol I know, I know. Were going home. Were going home, okay? Okay.
+chief_galen_tyrol Sh, sh, sh, sh. Its okay, its okay, its okay, its okay. Stay with me. Hey, hey. Look at me. Look at me. Stay with me, stay with me. Be with me, be with me. Come on, come on. Hey, hey, hey, hey.
+crewman_specialist_cally_henderson Chief. Chief, we gotta go. We gotta go. We gotta go. Chief.
+chief_galen_tyrol Thats it. Thats it, you stupid, frakked-up crap!
+crewman_specialist_cally_henderson Chief, Socinus needs us now. Come on. Come on. Lets go.
+officer_anastasia_dualla Not your fault, Lieutenant.Not from where I was standing.
+lt_felix_gaeta I was the O.O.D.
+officer_anastasia_dualla It was crazy in there, sir. Cant blame yourself.
+lt_felix_gaeta So we jump back to the last coordinates. But we network the ftl computer with a nav, dc, and fire control computers. Once theyre linked, well only need ten minutes to complete the calculations.
+captain_aaron_kelly You cant be serious. The old man would never do this, Colonel. No computer networks on his ship. I acknowledge that, sir. But I can devise a software firewall that will buy us more time.
+captain_aaron_kelly Really, youre gonna out-think the Cylons at computer software?
+lt_felix_gaeta Sir, if we dont do this, were never gonna find the fleet. Certainly not before the commander dies.
+captain_aaron_kelly This is still the old mans command. We cant do something hed oppose, especially when it puts the entire ship at risk.
+colonel_saul_tigh This is the XO. Begin jump prep. Those are... my orders.
+colonel_saul_tigh Ha! Yes! Hes in. The kid is back in the fleet. So, lets have the truth. How did you do it? Howd you get off this frakkin freighter?
+admiral_william_adama Connections. Annes father has a friend on the defense subcommittee.
+colonel_saul_tigh So the new wife comes through. Wish I had in-laws with pull.
+admiral_william_adama Gimme a couple of years. Ill have some pull. You watch me. Ill have my own battlestar one day.
+sgt_watkins Open up, please.
+cpt_lee_adama All right? You have my parole. When Im on duty, Ill make no attempt to free her or sow insurrection among the crew.
+colonel_saul_tigh Pre-flight brief is underway in the ready room.
+cpt_lee_adama Right.
+president_laura_roslin Good hunting, Captain.
+cpt_lee_adama Thank you, Madam President!
+president_laura_roslin Colonel, once you find the fleet, Id like to have a word with you.
+colonel_saul_tigh Theres nothing to talk about. You went up against the old man and you lost.
+colonel_saul_tigh We jump in, we hold off the Cylons. We crunch the numbers. Then we jump out. Thats it. Simple plan. Not so simple to do.
+lt_felix_gaeta Computers have been networked. My board is green, sir. All stations report ready to jump.
+colonel_saul_tigh That software firewall ready?
+lt_felix_gaeta Best I can make it, sir. Wish Dr. Baltar was here.
+colonel_saul_tigh To hell with that. Take your work over that shifty son of a bitch any day.
+officer_anastasia_dualla Stand by. In five, four, three, two, jump.
+lt_felix_gaeta Jump completed.
+colonel_saul_tigh Report?
+lt_felix_gaeta Multiple dradis contacts. Cylon base star and multiple Cylon raiders bearing 4-8-7 carom 2-2-1.
+colonel_saul_tigh Lieutenant.
+lt_felix_gaeta Computations underway. Well be able to plot the fleets position in seven minutes.
+flyboy Whoo-hoo! Ha ha ha! Lets get these psychos!
+racetrack Hey flyboy, you know we got a pool going, right? See who gets the most kills now that Starbucks awol.
+flyboy Well, we know im gonna clean up.
+cpt_lee_adama Flyboys, shut up and focus. This is not a simulation.
+flyboy Roger that.
+paramedic_howard_kim His heart stopped!
+medic_layne_ishay Defib, now!
+paramedic_howard_kim Powers unstable,the battery units are at the aid stations.
+medic_layne_ishay Well, then, get me a knife.
+cpt_lee_adama Weapons free. And open racks. And engage! Okay.
+lt_felix_gaeta Here they come. Cylons are hacking our network. Attempting to access our gateway.
+colonel_saul_tigh Now its a race.
+lt_felix_gaeta First firewall penetrated.
+cpt_lee_adama Sierra Alpha, we got a new bogey.
+lt_brendan_constanza What is that thing?
+cpt_lee_adama I dont know, but whatever it is, its bearing on Galactica. We gotta take it out.
+lt_brendan_constanza Apollo, Hotdog offensive. Three right, five at two.
+Tally#unknown#BattlestarGalactica.Season02.Episode01 Tally, Hotdog. Count on me.
+racetrack Roger that. Im with you, leader.
+Guard#unknown#BattlestarGalactica.Season02.Episode01 Will you pray with me? Help us, lords of kobol. Help your prophet Laura guide us to the path of righteousness. That we might-- that we might destroy our enemies. Let us walk the path of righteousness and lift our faces unto your goodness. Help us turn away from the calls of the wicked and show us the knowledge of your certain salvation. We offer this
+lt_felix_gaeta Calculations at 56%. Second firewalls been breached. Frak theyre fast! Third firewall down!
+racetrack Apollo: Approaching Galacticas flak barrier. Cylon target within gun range.
+cpt_lee_adama Winged it!
+racetrack Apollo! Were straying into Galacticas engagement zone!
+cpt_lee_adama Im almost there, Im almost there. Im almost there, come on!
+racetrack Back! Back, back!
+cpt_lee_adama Damn it! I had it!
+officer_anastasia_dualla Apollo reports impact on the starboard flight pod.
+cpt_lee_adama You got a decompression in the flight pod. No explosion. No fire. Repeat, no fire.
+officer_anastasia_dualla No fire.
+lt_felix_gaeta Calculations at 80%. Almost there. Theyre through the fourth firewall. one left until theyve accessed our mainframe.
+racetrack Frakker.
+flyboy Whoo! That was mine, that was mine!
+lt_felix_gaeta Come on, come on. We have a solution for the fleets position.
+colonel_saul_tigh Break the network.
+lt_felix_gaeta Network is broken! Computers restored to local control.
+colonel_saul_tigh Tell the vipers to get back aboard. Were getting awful lucky today. Prepare to jump.
+officer_anastasia_dualla Vipers aboard, sir. Stand by. In five, four, three, two... Jump.
+lt_felix_gaeta Jump completed.
+colonel_saul_tigh Report?
+Geata#unknown#BattlestarGalactica.Season02.Episode01 Uh... multiple contacts round the board. Colonial transponder, sir. We found em!
+colonel_saul_tigh Captain Kelly. Lieutenant Gaeta.
+lt_felix_gaeta Sir.
+colonel_saul_tigh Dee. Contact the Rising Star. Tell Cottle to get his ass over here A.S.A.P.
+colonel_saul_tigh Hell of a job.
+medic_layne_ishay From now on, no more heart massages for me. Im sticking to pills and enemas. Sir.
+colonel_saul_tigh Lets hear it.
+medic_layne_ishay Well, I managed to stop the bleeding. Um, but... hes still critical.
+colonel_saul_tigh Docs on his way. Can you hear me, Bill?
+colonel_saul_tigh Go away.
+sgt_watkins Captain Tigh, Its the shore patrol. Sergeant watkins, sir. Open up, please. Major Adamas compliments. He wishes me to inform you youve been reinstated in the colonial fleet. With the rank of Captain.
+colonel_saul_tigh Major Adama.
+sgt_watkins Welcome back to the fleet, sir.
+colonel_saul_tigh Ill be right with you, Sergeant.
+sgt_watkins Yes, sir.
+colonel_saul_tigh You never should have brought me back in the service. If youd just let me be, Id have died back there in Caprica along with everyone else, and been happier for it. I dont want to command. I never did. Dont you dare die on me now.
