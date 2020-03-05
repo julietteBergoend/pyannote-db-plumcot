@@ -184,6 +184,8 @@ class Plumcot(Database):
             with open(file, mode='r', encoding="utf8") as ep_file:
                 characters = {}
                 for line in ep_file:
+                    if line == '' or line.isspace():
+                        continue
                     charac = line.split()[0]
                     if charac[-2:]=="'s":
                         charac += line.split()[1]
