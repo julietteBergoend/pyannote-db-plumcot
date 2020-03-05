@@ -222,7 +222,8 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             old_matches = json.load(f)
-
+    else:
+        old_matches = {}
     # Iterate over episode IMDB character names
     for id_ep, imdb_chars in imdb_chars_series.items():
         if id_ep not in trans_chars_series:
