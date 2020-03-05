@@ -243,6 +243,12 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         # Get automatic alignment as a dictionnary
         dic_names = automatic_alignment(id_series, id_ep, trans_chars,
                                         imdb_chars)
+        #update lame automatic alignment with naive sub-string match
+        for trans_char in dic_names:
+            for suggestion in imdb_chars:
+                if trans_char.lower() in suggestion:
+                    dic_names[trans_char]=suggestion
+                    break
         save = True
         names_matched={}
         # User input loop
@@ -290,10 +296,6 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 prefill=""
                 prompt=("\nType the new character's name "
                         "(unk for unknown character): ")
-                for suggestion in imdb_chars:
-                    if request.lower() in suggestion:
-                        prefill=suggestion
-                        break
                 new_name = input_with_prefill(prompt, prefill)
                 # Unknown character
                 if new_name == "unk" or not new_name:
