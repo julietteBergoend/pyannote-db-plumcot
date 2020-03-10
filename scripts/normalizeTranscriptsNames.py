@@ -291,7 +291,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                         dic_names[name]=new_name
             # Wrong name
             if request not in dic_names:
-                print("This name doesn't match with any characters.\n")
+                warnings.warn("This name doesn't match with any characters.\n")
             else:
                 prefill=""
                 prompt=("\nType the new character's name "
