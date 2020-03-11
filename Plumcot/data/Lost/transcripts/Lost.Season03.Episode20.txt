@@ -9,11 +9,11 @@ emily_linus Roger, it hurts.
 roger_linus Emily, no one knows we're out here. We gotta get back, okay, honey? Can you hold on to the baby? Emily! Can you hold the baby? Hold him tight.
 roger_linus Help. Help! Help!
 roger_linus Oh my God, help me.
-dharma_rep_2 DRIVER Hey, what happened, man?
+MALE#unknown#Lost.Season03.Episode20 DRIVER Hey, what happened, man?
 roger_linus We were hiking. She went into labor and she wasn't due yet. She's bleeding.
-dharma_rep_2 DRIVER Okay, okay, look, we'll put her in the car, okay? Let me get you to the hospital.
+MALE#unknown#Lost.Season03.Episode20 DRIVER Okay, okay, look, we'll put her in the car, okay? Let me get you to the hospital.
 roger_linus Oh, okay, okay, honey.
-dharma_rep_2 DRIVER Okay, it's all right. Let's keep her warm, all right? How's the baby?
+MALE#unknown#Lost.Season03.Episode20 DRIVER Okay, it's all right. Let's keep her warm, all right? How's the baby?
 roger_linus Fine, I guess—I don't know.
 emily_linus Roger? Roger.
 roger_linus I'm right here.
@@ -54,9 +54,9 @@ john_locke Because if you were telling the truth, your hand wouldn't be shaking.
 dharma_worker Namaste!
 roger_linus Thanks.
 dharma_worker Namaste!
-dharma_rep_2 DRIVER Hey, welcome to the Island, man! Namaste.
+MALE#unknown#Lost.Season03.Episode20 DRIVER Hey, welcome to the Island, man! Namaste.
 roger_linus Namaste, yeah!
-dharma_rep_2 DRIVER So, what do ya think?
+MALE#unknown#Lost.Season03.Episode20 DRIVER So, what do ya think?
 roger_linus Wow, this is...some place. Thanks again for the opportunity, Mr. Goodspeed.
 horace_goodspeed GOODSPEED Horace! Please.
 roger_linus Horace.

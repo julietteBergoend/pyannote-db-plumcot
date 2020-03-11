@@ -1,0 +1,310 @@
+harper_stanhope Hello. I'm sorry I'm late. You must be Dr. Burke.
+dr_juliet_burke Juliet.
+harper_stanhope Juliet. I'm Harper Stanhope. Please sit. Today is just a meet and greet so that we can get to know each other.
+dr_juliet_burke Please don't take this the wrong way, but I-I really don't think I need therapy.
+harper_stanhope How about we call it "talking" instead of therapy?
+dr_juliet_burke Okay.
+harper_stanhope Good.
+harper_stanhope Let's talk. So you've been here a week. And what's your least favorite part so far?
+dr_juliet_burke I don't like being treated like a celebrity.
+harper_stanhope And is that surprising? You're big news right now.
+dr_juliet_burke Yes, I know. I guess I don't like being the center of attention. It makes me feel isolated ... alone. (Chuckles nervously)
+harper_stanhope Well, maybe you feel that all eyes are on you, but you're not a celebrity, and soon enough, you'll realize that you're no different than anyone here.
+dr_juliet_burke Oh, I-I know. I-I never meant that I—
+harper_stanhope Yes?
+tom_friendly Harper, I'm sorry for the interruption. I know you don't like me busting in, but Ben would like to see the doc.
+harper_stanhope Uh... She's all yours, Tom. It was nice talking to you, Juliet. Welcome to the Island.
+tom_friendly That Harper's a piece of work. But you give her a week, she'll have you cryin' about your daddy. I'm speaking from personal experience here.
+ben_linus Welcome to your humble abode.
+dr_juliet_burke This is for me? The whole house?
+ben_linus You're here to help us with some very important research, Juliet. We pulled out all the stops. Two bedrooms, two baths. Washer, dryer. Fresh linens, a well-stocked fridge.
+ben_linus Oh, and I know you love the opera. You have all the classics on CD.
+dr_juliet_burke Ben, this is amazing. Seriously, you shouldn't have gone to all the trouble. I'm only gonna be here for six months.
+ben_linus Right, of course. But... we want you to feel at home.
+sunhwa_kwon Need some help?
+dr_juliet_burke I'm fine. I just can't seem to get it steady.
+sunhwa_kwon Okay.
+dr_juliet_burke Nice. Thanks.
+sunhwa_kwon Why are you going to all this trouble when we're about to leave this island?
+dr_juliet_burke Well, I still need somewhere to sleep tonight, right?
+dr_jack_shephard Juliet. Have you seen Charlotte and Faraday? All their stuff's gone.
+dr_juliet_burke No, I haven't seen them. You still have the sat phone, right?
+jinsoo_kwon 샬롯하고 패러데이는 정글로 들어가는 걸 봤는데.
+sunhwa_kwon He saw them going into the jungle.
+dr_jack_shephard Why didn't he say anything?
+sunhwa_kwon 왜 아무한테도 얘기 안 했어요?
+jinsoo_kwon You said... they are friends.
+sunhwa_kwon Aren't they?
+dr_jack_shephard All right, we've got a lot of ground to cover, so let's fan out. If you cut their trail, call out to me. I'll come to you.
+dr_juliet_burke Jack?
+harper_stanhope Hello, Juliet. Long time no see.
+dr_juliet_burke What are you doing here?
+harper_stanhope I came to deliver a message... from Ben. The two people you're looking for — Faraday and Lewis — they're headed to the Tempest. And if they figure out how to deploy that gas... then everyone on this island is going to die.
+dr_juliet_burke Why don't you stop them?
+harper_stanhope Because Ben wants you to go.
+dr_juliet_burke How can Ben possibly know where they are when he's a prisoner?
+harper_stanhope Ben is exactly where he wants to be.
+dr_juliet_burke How am I supposed to stop them?
+harper_stanhope By pointing the gun and pulling the trigger.
+dr_jack_shephard Hey!
+dr_jack_shephard Who are you?
+harper_stanhope I'm an old friend of Juliet's. I just told her where the people you're looking for are headed. Maybe you and your gun can go too.
+dr_juliet_burke You okay?
+goodwin_stanhope Uh, I was just looking for some gauze. I-I didn't know anyone was here.
+dr_juliet_burke How'd you manage that?
+goodwin_stanhope I, um... I-I work over at the power station. I was pressed up against the transformer.
+dr_juliet_burke Take a seat. Let me take a look at it.
+goodwin_stanhope You're Burke, right? The baby doctor.
+dr_juliet_burke What gave me away?
+goodwin_stanhope I heard we lost Henrietta this morning. It's okay. It's not your fault.
+dr_juliet_burke Pregnant women are dying on this island. I was brought here to help fix that. So whose fault is it?
+goodwin_stanhope Believe me, nobody expects you to fix it overnight.
+goodwin_stanhope You have anyone to talk to? Any friends here? Maybe Harper.
+dr_juliet_burke Harper hates me. We only talk because we have to. I get the feeling that she is a mean... and spiteful person.
+goodwin_stanhope She's my wife.
+dr_juliet_burke She's your wife? I'm sorry. I didn't—
+goodwin_stanhope No, don't worry about it. Really, it's okay.
+dr_juliet_burke Okay, you're, uh, you're set.
+goodwin_stanhope Much obliged, ma'am.
+goodwin_stanhope Hey. I know this place can wear on you, but if you need to talk... I'm around.
+dr_juliet_burke Good to know. Oh, um... if you promise not to tell your wife what I said about her, I won't tell anyone that you lied about how you hurt your arm. I know a chemical burn when I see one.
+goodwin_stanhope You got a deal. Uh, by the way... I'm Goodwin.
+dr_juliet_burke Juliet.
+dr_juliet_burke Faraday and Charlotte are heading for the Tempest.
+dr_jack_shephard The Tempest?
+dr_juliet_burke It's safer for you if I don't talk about it.
+dr_jack_shephard No. Talk about it, please.
+dr_juliet_burke It's an electrical station that powers the Island.
+dr_jack_shephard Why would they go there?
+dr_jack_shephard Hey. If there's something you need to tell me, now's the time to do it.
+dr_juliet_burke What I need is for you to help me. Will you help me?
+dr_juliet_burke If we move all night, maybe we can still catch them. Thank you.
+dr_daniel_faraday I think it's that way. But what happens if I... what if I can't do it?
+dr_charlotte_lewis Dan. Look at me. I know you can do this. Should we get going?
+dr_daniel_faraday Yeah.
+dr_charlotte_lewis Come on.
+dr_daniel_faraday Whoa, whoa, whoa. It's—it's okay. It's okay. It's Kate.
+dr_daniel_faraday So they have Miles?
+kate_austen Yeah, but he's fine. They're treating him fine. I thought you two were with Jack at the beach. What are you guys doing out here?
+dr_charlotte_lewis Jack was trying to communicate with Sayid and Desmond on the freighter, but their sat phone ran out of juice. It's totally dead. There's no way we can call the boat.
+dr_charlotte_lewis So we volunteered to get the spare batteries out of the packs that we threw out of the chopper.
+kate_austen So... if you threw your pack from the chopper, what's that?
+dr_daniel_faraday This? Uh... it's... just borrowed this.
+kate_austen Mind if I take a look?
+dr_charlotte_lewis Go ahead, Dan. Show her.
+kate_austen Batteries, huh? What's this for—
+kate_austen —uhh!
+dr_charlotte_lewis What?
+dr_jack_shephard That woman--what was her name?
+dr_juliet_burke Harper.
+dr_jack_shephard The two of you friends?
+dr_juliet_burke Not exactly. She was my therapist.
+dr_jack_shephard You people had therapists?
+dr_juliet_burke It's very stressful being an Other, Jack.
+dr_jack_shephard Seemed kinda hostile, even for a therapist.
+dr_juliet_burke I'm sure there are things from your past that you'd rather not talk about.
+dr_jack_shephard Yeah. You read them all in my file.
+dr_juliet_burke Trust me, Jack. You don't want to see my file.
+dr_juliet_burke The problem occurs somewhere during the second trimester, when the mother's immune system is triggered. The white blood cell count plummets. It's like the... immune system turns on the fetus.
+ben_linus May I?
+dr_juliet_burke Sure.
+ben_linus Any thought yet on a cause?
+dr_juliet_burke Mm, it's really too early to tell, but only women who've conceived on the Island does it happen to—
+dr_juliet_burke —which makes me wonder—
+goodwin_stanhope Hey Juliet. Oh, Ben, I didn't know you were here. Ethan's out sick.
+goodwin_stanhope I have an extra egg salad on rye. I was just checking to see if Juliet wants it.
+dr_juliet_burke Thanks. No, I already ate. Oh, besides, I have an appointment with your wife in 10 minutes.
+goodwin_stanhope Great. Tell her I said hi.
+dr_juliet_burke Oh, will do.
+goodwin_stanhope Ben?
+ben_linus No, I'm fine.
+harper_stanhope So, Juliet, what do you think of Ben?
+dr_juliet_burke He's great. Uh, very smart... and intense. Challenging. He's been really good to me.
+harper_stanhope Of course he has. You look just like her.
+dr_juliet_burke I'm sorry?
+harper_stanhope And I see you and my husband have become friendly.
+dr_juliet_burke Yeah. He's great. He's been really helpful.
+harper_stanhope When did you start sleeping with him?
+dr_juliet_burke What?
+harper_stanhope Look, Juliet, I'm not an idiot. So just tell me. When did it start?
+dr_juliet_burke Okay. I'm not doing this. We're done.
+harper_stanhope No. Please respect me enough to spare me the pretense that you are actually offended. I know. I followed you. Watched you.
+dr_juliet_burke I'm sorry.
+harper_stanhope It doesn't matter anymore. But what does matter is that you listen to me and that you believe me. And if you continue to have a relationship with Goodwin, there will be consequences. I don't want him to get hurt.
+dr_juliet_burke I would never hurt him.
+harper_stanhope Look it, I am not talking about you. I am talking about Ben.
+claire_littleton Hi John.
+john_locke Hey Claire. Is there something I can do for you?
+claire_littleton I want to know what's going on with Miles.
+john_locke Right now, not a whole lot. I'm... bringing him food and water until he decides to talk.
+claire_littleton I'd like to talk to him myself.
+john_locke And why would you want to do that?
+claire_littleton John, we have to find out who these people are and where they came from. And why they're not interested in rescuing us.
+john_locke And you don't think I'm gonna get that out of him?
+claire_littleton No, I... I just think we might be taking the wrong approach. I mean, you killed one, Ben shot one, and now we're holding one prisoner. You know, it's not hard to understand why they might think we're hostile. I might be just a little less intimidating.
+john_locke It's not gonna happen, Claire.
+claire_littleton John, I don't—
+john_locke You do remember what Charlie said about these people.
+claire_littleton All Charlie said was whose boat it isn't. Don't you wanna know whose boat it is?
+ben_linus Rabbit today?
+john_locke We're running out of chickens.
+ben_linus This didn't have a number on it, did it?
+john_locke What?
+john_locke Eat, change, put your laundry and dishes by the door. I'll be back to collect them in 15 minutes.
+ben_linus So has the revolution begun yet? Or...
+john_locke What are you talking about?
+ben_linus Well, you're the leader now. I know it's a tough position. You have to deal with all those people constantly second-guessing your decisions, and it always starts out so innocently, doesn't it? A question here, a comment there, and then if you're not careful, you find you have a full-blown insurrection on your hands. Believe me, your people are gonna be so angry when they realize you still don't have a plan.
+john_locke And I assume you have a plan.
+ben_linus I always have a plan.
+john_locke Does it involve you raising $3.2 million? Phew. That's a lot of money. Wait.
+john_locke Maybe this'll get you started. Put your laundry and dishes by the door.
+ben_linus I can help you, John. We have shared interests... or at least a common enemy.
+john_locke And that would be our friends on the freighter.
+ben_linus Not them. The one they work for. Let me out of here. Give me some semblance of freedom, let me sleep in a bed and eat with utensils, and I give you my word I'll tell you everything you want to know about the person who sent the freighter.
+john_locke Yeah, but see, there's the problem. I don't trust your word.
+ben_linus All right, then. I guess I'll have to show you.
+goodwin_stanhope I hope this is good. I don't know much about wine. I swiped this off the sub.
+goodwin_stanhope There.
+dr_juliet_burke Thanks. Mmm.
+goodwin_stanhope I wish we could do this all the time. I hate that we have to be so... private.
+dr_juliet_burke What's the matter with being private?
+goodwin_stanhope It's ridiculous. I've been sleeping on the couch for a year. Why am I not just telling her?
+dr_juliet_burke I don't think it's a good idea.
+goodwin_stanhope Why not?
+dr_juliet_burke Ben wouldn't like it.
+goodwin_stanhope That's what this is about? You're worried about Ben? Why? Because he has a crush on you?
+dr_juliet_burke You know?
+goodwin_stanhope Come on. Everyone knows. He follows you around like a puppy.
+dr_juliet_burke And you don't think that's a problem?
+goodwin_stanhope Now, a little less than a kilometer from here, he has me working with chemicals, that could kill every man, woman and child on this island if I flip the wrong switch. Trust me, Ben has enough on his plate. The last thing he cares about is you and me.
+dr_juliet_burke I just... get the feeling that he would be upset.
+goodwin_stanhope What's Ben gonna do?
+ben_linus Goodwin! You see where the tail landed?
+goodwin_stanhope Yeah, probably in the water.
+ben_linus You run, you can make that shore in an hour. Ethan, get up there to that fuselage. There may actually be survivors, and you're one of 'em — a passenger. You're in shock. Come up with an adequate story if they ask.
+ben_linus Stay quiet if they don't. Listen, learn, don't get involved. I want lists in three days. Go.
+dr_jack_shephard Something's wrong. We should've... we should've caught up with 'em by now.
+dr_juliet_burke These people base jumped out of a helicopter, Jack. Let's give 'em the benefit of the doubt.
+dr_jack_shephard Hey. Hey, it's okay. It's okay. Hey. It's all right. It's okay. Hey. It's okay. It's all right. Come on. Take it easy. Take it easy.
+dr_juliet_burke I'll go get her some water.
+dr_jack_shephard Yeah. Thanks.
+dr_jack_shephard What happened?
+kate_austen I was going back to the beach, and... I ran into Faraday and that woman... um... Charlotte. I think she hit me.
+dr_jack_shephard They disappeared out of camp last night. We've been trying to catch up with them.
+kate_austen Do you know where they were headed?
+dr_jack_shephard Some sort of... power station.
+kate_austen Jack. They had gas masks.
+dr_jack_shephard Juliet? Juliet?! Juliet! Juliet!
+john_locke All right, no tricks. You're not leading me out into the jungle so you can disappear or shoot me in the back.
+ben_linus No tricks, John. We don't even have to leave the living room.
+john_locke So let's have it.
+ben_linus We have a deal, right?
+john_locke How do I know you're not gonna run off and meet your people first chance you get?
+ben_linus If my people still wanted me, John, they would've stormed this camp long ago. It's behind that picture.
+ben_linus 36-15-28.
+john_locke "Red Sox"?
+ben_linus I taped over the game.
+ben_linus This is Charles Widmore. This is the man whose boat is parked offshore. This is the man that's been trying to find the Island.
+john_locke Who's the man in the blindfold?
+ben_linus One of my people that had the misfortune to get caught.
+john_locke How does Widmore know about the Island?
+ben_linus I don't know, but he does.
+john_locke What does he want?
+ben_linus John, three months ago in Gainesville, Florida, the Virgin Mary seemed to appear in a patch of mold on the side of an old housing complex. When the word got out, over 5,000 people came to see her face for themselves. You've survived an airline crash on this island. One minute, you're in a wheelchair. The next minute, you're doing jumping jacks. If 5,000 people came out to see a piece of mold, how many people do you think would come here to see you? Charles Widmore wants to exploit this island, and he'll do everything in his power to possess it.
+ben_linus Everything I know about Charles Widmore is in this file. Some of it's vague, some of it's guesswork, some of it's concrete. But this is everything, and now it's all yours. I'm sorry I didn't tell you all this sooner. But it was the only bargaining chip I had left.
+john_locke There's one more thing I need to know. Your man on the boat...I want you to tell me who it is.
+ben_linus Alright. But you might want to sit down.
+kate_austen She came through here. So did they, about half an hour ahead of her.
+dr_jack_shephard What happened?
+kate_austen Sorry?
+dr_jack_shephard At Locke's — why did you stay?
+kate_austen I stayed because I had to find something out.
+dr_jack_shephard Are you gonna tell me, or are we gonna keep walking through the jungle like it doesn't matter?
+kate_austen I stayed to find out if the people on the freighter know who I am... if they knew that I'm a fugitive... that I'm wanted for murder.
+dr_jack_shephard Do they?
+kate_austen Yeah, they know... we should keep moving. God knows where Juliet is.
+ben_linus Hi. Come on in. Sorry. I have to get this ham out of the oven, or it'll dry out.
+dr_juliet_burke Please. Don't mind me. How are you feeling, by the way?
+ben_linus Never better.
+dr_juliet_burke It smells delicious.
+dr_juliet_burke Ben, I thought this was a dinner party.
+ben_linus Just you and me. Oh, I guess I should've made that clearer.
+dr_juliet_burke ... No. It's fine. I—I hope you like dinner rolls.
+ben_linus I do indeed.
+ben_linus I want to thank you for how wonderful you've been with Zack and Emma.
+dr_juliet_burke They're really sweet kids. Ben, they've been asking me about their mother in Los Angeles. I'm not really sure what to say.
+ben_linus They'll stop asking in time.
+dr_juliet_burke They're children. Do they really belong here?
+ben_linus They're on the list, Juliet.
+ben_linus Who are we to question who's on the list and who's not?
+dr_juliet_burke Now that we have everyone on the list from the tail section, what about Goodwin?
+dr_juliet_burke He's been undercover for three weeks.
+ben_linus ... He's making a case for this woman, Ana Lucia. He thinks she'd be a valuable member of our society. But between you and me, I don't see it. He feels very passionately about her, almost inappropriately so.
+dr_juliet_burke After losing Ethan, it's a risk.
+ben_linus Goodwin stays where he's at right now, Juliet. There's no reason for him to hurry back, right? But his assignment will be over soon. I promise you.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Warning. Computer switching to manual operation. This attempt is unauthorized.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Warning — manual entry override denied.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Warning — manual entry override denied.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Repeated attempts to access storage tanks will result in contamination.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Repeated attempts to access storage tanks—
+dr_juliet_burke Hey.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE —will result in contamination.
+dr_daniel_faraday Juliet. What are you doing here?
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Final warning — manual override failed.
+dr_juliet_burke Step away from the computer.
+dr_daniel_faraday I'm so sorry. I can't do that.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Manual override failed. Countermeasures will begin.
+dr_juliet_burke Hey!
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE One minute to contamination.
+dr_juliet_burke You want to release the gas? You'll die with the rest of us.
+dr_daniel_faraday No, no. I—I'm not trying to release it. I'm trying to — I'm trying to render it inert. Juliet, I just want to make it safe.
+dr_charlotte_lewis Uhh!
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE 40 seconds to contamination.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE 30 seconds to contamination.
+dr_juliet_burke Aah!
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Warning — contamination imminent. Evacuate immediately.
+dr_juliet_burke Aah!
+dr_daniel_faraday Hey!
+dr_daniel_faraday Stop!
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE 20 seconds to contamination.
+dr_juliet_burke Whatever he's doing, tell him to stop.
+dr_charlotte_lewis We're trying to disable it before he can use it against us!
+dr_charlotte_lewis Juliet... look me in the eye and tell me you are certain that Benjamin Linus wouldn't use this gas to kill everyone on this island! We know he's used it before. If you want to stop us, you're going to have to shoot us both.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE 10 seconds to contamination.
+dr_charlotte_lewis Daniel!
+dr_daniel_faraday Yeah, yeah! I'm trying!
+dr_daniel_faraday Come on.
+WOMAN'S#unknown#Lost.Season04.Episode06 AUTOMATED VOICE Contamination in 5... 4... 3... 2...
+dr_daniel_faraday That... that was a close one.
+ben_linus What are you reading?
+dr_juliet_burke Shephard's file. Mikhail dropped it off. He's a spinal surgeon, Ben. He has extensive experience in tumor removal.
+ben_linus Hmm. How about that?
+dr_juliet_burke He can help you. I thought you'd be more excited. What's wrong?
+ben_linus I need you to come with me.
+ben_linus After our last raid on the tail-section survivors, they ran off, left the beach. I sent Pickett and Tom to track their location, and they came across this. I'm sorry, Juliet.
+dr_juliet_burke Sorry about what?
+dr_juliet_burke Oh my god, oh my god!
+dr_juliet_burke Oh my god. Oh my god. Goodwin. What happened?
+ben_linus We don't know; there weren't any witnesses. I can only assume they found out he wasn't one of them. Guess I should've listened to you.
+dr_juliet_burke Why are you showing me this? Why did you bring me out here?
+ben_linus What, you mean instead of his wife?
+dr_juliet_burke You knew this would happen. You sent him out here because you knew this would happen. (Cries) You wanted this! You wanted him to die! Why?
+ben_linus "Why"? You're asking me "why"? After everything I did to get you here, after everything I've done to keep you here, how can you possibly not understand... that you're mine!
+ben_linus Take as much time as you need.
+dr_juliet_burke Whoa, Kate, it's all right. They're on our side.
+kate_austen Our side, Juliet? She just knocked me unconscious.
+dr_charlotte_lewis Yeah. I'm very sorry about that, but I had no choice. Look, Daniel's inside securing the facility. If you come with me, I will be more than happy to explain exactly how we just saved your life.
+kate_austen All right. Let's go.
+dr_jack_shephard I'll take their word for it.
+dr_jack_shephard You okay?
+dr_juliet_burke He wanted me to kill them. Ben. He told me to kill both of them.
+dr_jack_shephard How can he tell you anything?
+dr_juliet_burke I don't know, but he knew how to get to me, and he knew where they were going and what they were doing. Don't you understand? These people came here to wage war against Ben, and Ben's going to win, Jack. And when he does, you don't want to be anywhere near me.
+dr_jack_shephard Why not?
+dr_juliet_burke Because he thinks that I'm his. And he knows how I feel about you.
+dr_jack_shephard He knows where to find me.
+james_ford Oh! Beat that.
+james_ford Son of a bitch! How'd you get so damn good at horseshoes?
+hugo_reyes I don't know. Guess I'm just ... lucky.
+james_ford What the hell are you doing out?
+ben_linus See you guys at dinner.
