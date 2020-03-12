@@ -22,6 +22,7 @@ Options:
 """
 
 import os
+from pathlib import Path
 from docopt import docopt
 import numpy as np
 
@@ -29,7 +30,8 @@ from pyannote.database.util import load_rttm
 from pyannote.video.face.clustering import FaceClustering
 from pyannote.metrics.diarization import DiarizationErrorRate
 from images import CLUSTERING_THRESHOLD
-DATA_PATH=os.path.join("Plumcot","data")
+import Plumcot as PC
+DATA_PATH=Path(PC.__file__).parent / "data"
 
 def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
     """
