@@ -1,0 +1,351 @@
+zoe Mr. Hume, my name is Zoe. I know you're disoriented, you've been unconscious for the last three days. But you're off the I.V. sedation now, and I've just given you a shot to help you wake up.
+desmond_hume Are you a nurse?
+zoe You're not in the hospital anymore Mr. Hume, we had to move you.
+desmond_hume What, move me? Move me where? Where's my wife?
+zoe No, wait Mr.-Mr.-No, you shouldn't, you shouldn't--
+desmond_hume I want to see Penny.
+charles_widmore I'm afraid that's not going to be possible, Desmond.
+desmond_hume You.
+charles_widmore Easy, Easy. I'll take it from here.
+charles_widmore Desmond--
+desmond_hume What happened to me? Where am I?
+charles_widmore You were shot. By Benjamin Linus. Do you remember that?
+desmond_hume Yes, I remember. Look I want to talk to Penny. Penny!
+charles_widmore She's not here. But I assure you both she and your son are perfectly safe. I'm really sorry for taking you away from them but...I didn't have a chance to explain. And...if I had, you never would've come with me.
+desmond_hume Come with you? Come with you where?
+charles_widmore I brought you back to the Island. I can't imagine how you must be feeling. But if you'll give me a chance to explain--
+charles_widmore Damn it! Don't hurt him.
+desmond_hume You take me back! You take me back right now, you hear?!
+charles_widmore I can't take you back. The Island isn't done with you yet.
+jinsoo_kwon What is Desmond doing here?
+charles_widmore It would be easier for me to show you, than to tell you, Mr. Kwon. Take him with you to the generator room. I'll be along with Hume so we can start the test.
+zoe Charles, th-that test isn't scheduled until tomorrow.
+charles_widmore I know when it's scheduled. Get them ready now.
+zoe Come on, no time for sightseeing.
+zoe They're bringing Hume down now.
+seamus What?
+zoe You heard me, we are go right now. What's your timeframe?
+seamus We're not even close to being ready! This generator probably hasn't run in twenty years. How am I supposed--
+zoe Widmore doesn't want to wait.
+jinsoo_kwon What are you doing here?
+zoe We're running a little test.
+jinsoo_kwon What kind of test?
+seamus Alright let's see where we are. Can we get a functioning E.M. field going, people?
+UNKNOWN#unknown#Lost.Season06.Episode11 VOICE Sure thing.
+seamus Then try a power test. Generator to full, please.
+UNKNOWN#unknown#Lost.Season06.Episode11 VOICE Okay.
+seamus Here we go. On my count... three...two...one...and power on.
+seamus Great. We've probably got a faulty contact somewhere, find it! Simmons, go down and check the circuits on the solenoids.
+simmons Yes sir.
+seamus And guess what, Angstrom, you're going in there next.
+UNKNOWN#unknown#Lost.Season06.Episode11 TECHNICIAN Found it! It was a bad breaker on the genny. Bringing it back online now.
+zoe No!
+zoe No!
+seamus Turn it off, turn it off!
+zoe Oh my god.
+charles_widmore Zoe. Are we ready?
+MAN#unknown#Lost.Season06.Episode11 Got it.
+charles_widmore Stop.
+charles_widmore You can take him now. Thank you. Put him inside.
+desmond_hume Hey. What the hell are you doing?
+charles_widmore I know how this looks, Desmond. But if everything I've been told about you is true, you'll be perfectly fine.
+WIDMORE'SMAN#unknown#Lost.Season06.Episode11 You don't have any metal on you do you? Keys? Change?
+charles_widmore Course he doesn't, you idiot. I hate to resort to forcing this upon you, Desmond. But once it's over I'm going to ask you to make a sacrifice. And I hope for all our sakes you'll help me.
+desmond_hume Sacrifice? What the bloody Hell do you know about sacrifice?
+charles_widmore My son died here for the sake of this island. Your wife - my own daughter - hates me. And I've never even met my grandson. But if you won't help me, Desmond, all of it will be for nothing. Penny, your son, and everyone else, will be gone forever.
+desmond_hume Aah! Uhh! Aah!
+charles_widmore All right, turn it on.
+jinsoo_kwon No! If you want me to help you with whatever you're doing here, you need to explain to me--
+charles_widmore That man is the only person I'm aware of, in the world, who has survived a catastrophic electromagnetic event, I need to know that he can do it again, or we all die. Turn it on!
+charles_widmore Do we have full power?
+seamus Yeah, but...
+desmond_hume Let me out!
+desmond_hume Let me out you bastards! Let me out! Let me out! Let me out of here! Let me out of here!
+hugo_reyes It's carousel four.
+desmond_hume Sorry?
+hugo_reyes You were on the Sydney flight, right?
+desmond_hume Yeah.
+hugo_reyes Our bags on carousel four, I double checked it with the dude at the counter.
+desmond_hume Thank you.
+desmond_hume Hang on, I got it, I got it.
+claire_littleton Thank you so much.
+desmond_hume Pleasure. You got any more bags?
+claire_littleton No uhhh, that's it, thank God.
+desmond_hume Boy or a girl?
+claire_littleton Ummm.
+desmond_hume Oh I'm sorry, I-I didn't mean to pry.
+claire_littleton Oh no it's fine, I just ummm, I don't know what it is.
+desmond_hume All right. Well you're braver than I, you know. I'm not a big fan of surprises. Oh excuse me, that's mine.
+desmond_hume So, have you got someone meeting you?
+claire_littleton Uhh yeah, uh maybe they got the flights messed up or something.
+desmond_hume Because I've got a car picking me up. You now, If you need a ride I'd be more than happy to give you a lift.
+claire_littleton Oh no, no, that's ummm, that's really sweet of you but I'm good, there's cabs, so...
+desmond_hume All right, well, it was nice meeting you.
+claire_littleton Yeah nice to meet you too.
+desmond_hume A boy.
+claire_littleton What?
+desmond_hume Bet it's a boy.
+desmond_hume Looks like I'm with you.
+george_minkowski Mr. Hume, hello. Let me grab that for you.
+desmond_hume Thank you.
+george_minkowski My name is George.
+desmond_hume Hi, George.
+george_minkowski So, I'll take you back to your hotel?
+desmond_hume The office.
+george_minkowski Office. Wonderful. This way please. So uh, you flew in from Sydney huh?
+desmond_hume Yeah, that's right.
+george_minkowski And what, what were you doing uh down under?
+desmond_hume I was closing a deal for the boss.
+george_minkowski Oh good for you, congratulations. Hey listen, if you need anything at all while you're in town, I know everyone. You need a reservation? You just pick a restaurant.
+desmond_hume The room service at the hotel's excellent, thank you.
+george_minkowski You uhh, you looking uh for some company? I noticed that you weren't wearing a wedding band. And there are a lot of lovely ladies offering their uh companionship.
+desmond_hume I'm not looking for any companionship. I'm here to work.
+george_minkowski Guess that's why you're the boss's right-hand man, and I am the driver. Okay. Got it.
+RECEPTIONIST#unknown#Lost.Season06.Episode11 Good morning Mr. Hume, how was your flight?
+desmond_hume Lovely, thank you.
+RECEPTIONIST#unknown#Lost.Season06.Episode11 He said to send you right in.
+desmond_hume Thank you.
+desmond_hume Charles.
+charles_widmore Hello, Desmond. Welcome to Los Angeles, my friend.
+desmond_hume Thank you.
+charles_widmore I don't give a bloody damn what he did, or how much it's going to cost. Just get him arraigned and get him out of there.
+charles_widmore Sorry Desmond. Looks like our celebration of the Australian deal is going to have to be cut short. You are aware that my son is a musician?
+desmond_hume Yes. I've heard he's quite talented.
+charles_widmore Yeah he is, quite. Anyway, my wife is putting together one of her charity events and uh, the boy had the crazy idea to combine classical music with modern rock. You heard of a band called Drive Shaft?
+desmond_hume No, can't say I have.
+charles_widmore Their bass guitarist overdosed and uh, got himself arrested. And now, if I don't get this junkie to my wife's event she will, simply put, destroy me.
+desmond_hume So you want me to babysit him?
+charles_widmore I know it's beneath you, but I need someone I can trust to do the job right.
+desmond_hume Say no more Charles, it's done.
+charles_widmore Huh.
+charles_widmore You really do have the life, son. No family, no commitments, ahh to be free of attachments.
+desmond_hume I'm a blessed man, Sir.
+charles_widmore No, it is I who am blessed, to have you in my employ. A drink, to celebrate your indispensibility.
+desmond_hume That's your sixty-year-old Scotch, Charles.
+charles_widmore Nothing's too good for you.
+desmond_hume Slàinte.
+lawyer Mr. Hume?
+desmond_hume That's right.
+lawyer Bail's all been taken care of. Remember he's not allowed to leave the state.
+desmond_hume Good. Mr. Pace, I'm Desmond Hume. Charles Widmore sent me.
+desmond_hume Hey! Where you going?
+lawyer He's all yours.
+desmond_hume Hey!
+DRIVER#unknown#Lost.Season06.Episode11 What's wrong with you?! Idiot!
+desmond_hume I'll have whatever he's having. One drink, then we go.
+charlie_pace So what's your job then, to babysit me? What are you? Mr. Widmore's chief lackey? Henchman?
+desmond_hume No title. Plenty of perks though.
+charlie_pace Hmmm, such as?
+desmond_hume I get to meet charming people.
+charlie_pace Well, cheers then. Tell me perky, are you happy?
+desmond_hume Quite.
+charlie_pace No you're not.
+desmond_hume Well, I've got a great job, lots of money, get to travel the world. Why wouldn't I be happy?
+charlie_pace Have you ever been in love?
+desmond_hume Thousands of times.
+charlie_pace That's not what I'm talking about. I'm talking about spectacular, consciousness-altering love. Do you know what that looks like?
+desmond_hume I wasn't aware that love looked like anything.
+charlie_pace I've seen it, mate. On the plane back from Sydney.
+desmond_hume Is that so? Well we were on the same flight, so...maybe I saw it too.
+charlie_pace Trust me, you didn't.
+desmond_hume Oh? Enlighten me.
+charlie_pace There was this woman, two rows in front of me, in handcuffs, sitting with a cop. He looked at me, knew I was holding. If I didn't take action I'd be caught. So I got up, went to the lav, proceeded to eliminate the evidence by swallowing my stash. And at that exact moment we hit turbulence. I choked. The entire bag of heroin is stuck in my throat. It's, uh, it's over. Everything starts to go dark, I'm slipping into the abyss, and then I see...her.
+desmond_hume Her?
+charlie_pace A woman. Blonde, rapturously beautiful, and I know her. We're together. It's like we've always been, and always will be. This feeling, this love, and just as I'm about to be engulfed by...(snaps fingers) I open my eyes, and this sodding idiot is standing there asking me if I'm okay. But I saw it, just for a moment, I saw what it looked like.
+desmond_hume Well that's just...poetry, brother. You know you should, you should write a song about that.
+charlie_pace Yeah yeah yeah yeah, I know what you're saying - poor suicidal rock star. But I've seen something real, I've seen the truth.
+desmond_hume No, that's not the truth. You want to know the real truth, Pace? Right now you have a choice - you can keep on drinking, or you can come with me. Now before you make your choice, realize that if you stay here, it will very likely result in the extermination of your musical career.
+charlie_pace And if I go with you?
+desmond_hume In twenty minutes, you'll be luxuriating in a five-star hotel, right on the harbor front, and Charles Widmore - one of the most powerful men in this town, will owe you a favor.
+charlie_pace Doesn't really seem like a choice.
+desmond_hume There's always a choice, brother.
+charlie_pace That's my band, Drive Shaft, our first single. The beginning of everything great. You like it?
+desmond_hume Sure, for what it is.
+charlie_pace I feel sorry for you, mate. You think you're happy. You think you've got it all--this, your life. But, you don't.
+desmond_hume Why, because none of it's real?
+charlie_pace All right, Mr. Hume. How about I offer you a choice?
+desmond_hume What's that?
+charlie_pace I can either show you what I'm talking about, or you can get out of the car.
+desmond_hume Why in God's name would I want to get out of the car?
+desmond_hume Aah! Uhh!
+desmond_hume Charlie! Charlie! Come on!
+desmond_hume Come on! Come on! Damn it!
+doctor You sustained a pretty bad bump in your accident. Any nausea?
+desmond_hume Nope.
+doctor Double vision?
+desmond_hume No. Listen, I need to find the man I was brought in here with.
+doctor How about hallucinations?
+desmond_hume What do you mean?
+doctor Hallucinations. Seeing things that aren't there.
+desmond_hume Um, I'm not sure.
+doctor Well, your C.A.T. scan was inconclusive. I'm going to send you downstairs for an M.R.I.
+desmond_hume No, I don't have time for this. I need to find the man I came in here with.
+doctor I'm afraid you're not finding anyone until we know what's going on inside your brain.
+TECHNICIAN#unknown#Lost.Season06.Episode11 Are you wearing any metal? Carrying keys or change? Any metal inside your body--pacemakers, pins, bullets, steel plate inside of your head?
+desmond_hume No. Nothing.
+TECHNICIAN#unknown#Lost.Season06.Episode11 I see you didn't list an emergency contact, no friends or family?
+desmond_hume Um, just put down my employer, Charles Widmore.
+TECHNICIAN#unknown#Lost.Season06.Episode11 This machine is super loud. You're gonna want these. And you need the button.
+desmond_hume The button?
+TECHNICIAN#unknown#Lost.Season06.Episode11 The panic button. You need to stop, press it. Try not to 'cause we'll have to start all over again from the beginning. I'll be in that booth over there. You'll be able to hear me. Thirty minutes, okay?
+TEHCNICIAN#unknown#Lost.Season06.Episode11 Okay, here we go.
+desmond_hume
+desmond_hume Hey! Let me out of here.
+desmond_hume Hey! Hey!
+TECHNICIAN#unknown#Lost.Season06.Episode11 What happened, man? Are you all right?
+desmond_hume I need to find the man I came in here with. I need to find the man I came in here with.
+desmond_hume His name is Charlie Pace. He came in an hour ago. He just give me his room number.
+nurse If you're not a relative, that's confidential information.
+desmond_hume Look, we were in an accident together. I need to see him!
+nurse Sorry, sir. There's nothing I can do.
+desmond_hume Hey. Excuse me. Um, were you on the same Oceanic flight um, from Sydney.
+dr_jack_shephard Yeah, yeah, you were sitting next to me. Desmond, right?
+desmond_hume Yeah, that's right. Listen. I wonder if you can help me, brother. I need to find someone. He was on our plane. He's somewhere in the hospital.
+dr_jack_shephard Hold on. He was on our plane and now he's here in the hospital?
+charlie_pace None of this matters. None of this matters.
+WOMAN#unknown#Lost.Season06.Episode11 No! Sir! Please, stop!
+dr_jack_shephard Take it easy.
+desmond_hume Why are you running?
+charlie_pace Cause no one here can help me. Now let me go.
+desmond_hume Why'd you try and to kill me?
+charlie_pace I didn't try and kill you. I was trying to show you something.
+desmond_hume Want to show me something? Show me your hand.
+charlie_pace What?
+desmond_hume Your hands. Show me your bloody hands now.
+charlie_pace You saw something, didn't you? In the water. What was it?
+charlie_pace What are you looking for, mate?
+desmond_hume Who's Penny?
+charlie_pace I don't know. Ah. You felt it, didn't you?
+desmond_hume I didn't feel anything.
+charlie_pace Then, why are you accosting a man in a dressing gown?
+desmond_hume All right. Come on. We're leaving.
+charlie_pace Whoa! You think I'm going to play a rock concert after this? This doesn't matter. None of this matters. All that matters is that we felt it. You wanna try and stop me, good luck.
+desmond_hume Hey, where you going?
+charlie_pace If I were you I'd stop worrying about me and start looking for Penny.
+charles_widmore What do you mean he's gone?
+desmond_hume Look he escaped. He knocked over a doctor with a bloody crash cart and then ran out of the hospital.
+charles_widmore And you let him go?
+desmond_hume He's a junkie who drove my car into the ocean, Charles. I'm fine, by the way. Thanks for asking.
+charles_widmore And I'm thrilled you survived, Desmond. But when I give you a job to do, I expect you to do it.
+desmond_hume With all due respect, sir, it's just a bloody concert.
+charles_widmore I tell you what, Desmond, if you can't deliver Pace, why don't you tell Mrs. Widmore, it's only a bloody concert.
+george_minkowski Mr. Hume. So you’ve never met the boss' wife, huh?
+desmond_hume No.
+george_minkowski Good luck.
+eloise_hawking Please, tell me, how is it that someone in your line of work is not aware that the butter knife is placed handle to the right, blade facing left? Just so.
+WAITER#unknown#Lost.Season06.Episode11 Okay.
+eloise_hawking For God's sake.
+desmond_hume Mrs. Widmore?
+eloise_hawking Yes!
+desmond_hume My name is Desmond Hume. I work for your husband.
+eloise_hawking Of course, Mr. Hume. Charles has told me so much about you. It's a travesty we haven't met before... Well, it's about time.
+desmond_hume Well, the feeling is mutual, Mrs. Widmore.
+eloise_hawking Oh, please. It's Eloise.
+desmond_hume Eloise.
+eloise_hawking So uhh, what crisis forced Charles to send his best fix-it man into the bowels of charity balls?
+desmond_hume Well, Eloise, uh, I'm deeply sorry but it appears as if, uh, Drive Shaft won't be able to perform alongside your son. And, uh, I take full responsibility--
+eloise_hawking Don't worry about it.
+desmond_hume Excuse me?
+eloise_hawking Oh, my son will understand. I suppose if one employs so-called rock stars, certain unpredictability comes with the territory.
+desmond_hume Yeah. You're not angry?
+eloise_hawking Oh, not at all dear. What happened, happened. Thank you so much, Mr. Hume, for coming and telling me in person. A pleasure meeting you.
+desmond_hume And you.
+eloise_hawking Uh, center that flower arrangement, please.
+desmond_hume Have a good evening.
+eloise_hawking Thank you!
+MAN#unknown#Lost.Season06.Episode11 Leifer, Stefanie, plus two. Markey, Mary, plus one. Milton, Penny solo. Pepper, Nicholas, plus one.
+desmond_hume Excuse me. I'm sorry, um, did you just say Penny?
+MAN#unknown#Lost.Season06.Episode11 And who are you?
+desmond_hume Um, I work for Mr. Widmore, may I see the list?
+eloise_hawking You absolutely may not. That list is confidential.
+desmond_hume Begging your pardon, I'm entrusted with confidential items every day.
+eloise_hawking Are you questioning me?
+desmond_hume No, I just want to look at one name on that list. And, if for some reason, that's a problem...
+eloise_hawking Come with me.
+eloise_hawking Out! Everyone, now!
+desmond_hume Look, I'm, I'm sorry, if I've overstepped my bounds.
+eloise_hawking Stop talking, Hume. I've heard what you've had to say, now you listen to me. I want you to stop.
+desmond_hume Stop? Stop what?
+eloise_hawking Someone has clearly affected the way you see things. This is a serious problem. It is, in fact, a violation. So, whatever you're doing, whatever it is you think you're looking for...You need to stop looking for it.
+desmond_hume Do you, do you know what I'm looking for, Mrs. Widmore?
+eloise_hawking I don't know why you're looking for anything? You have the perfect life. On top of it, you’ve managed to attain the thing you wanted more than anything--my husband's approval.
+desmond_hume How do you know what I want?
+eloise_hawking Because I bloody do.
+desmond_hume I need to see that list...or you need to tell me why I can't.
+eloise_hawking You can't because you're not ready yet, Desmond.
+desmond_hume Ready? Ready, for what?
+george_minkowski That bad, huh?
+desmond_hume Is there any alcohol in this car?
+george_minkowski Oh, yeah. Whatever you need. So, uh, where to, Mr. Hume?
+desmond_hume Just drive, George.
+dr_daniel_faraday Mr. Hume?
+desmond_hume Yes?
+dr_daniel_faraday My name is Daniel, Daniel Widmore. We need to talk.
+desmond_hume Look, uh, Mr. Widmore, um...
+dr_daniel_faraday Dan, please. Call me, Dan. Mr. Widmore is my father.
+desmond_hume Dan, if this is about Charlie Pace not being able to perform with you, I'm, I'm very sorry.
+dr_daniel_faraday Do you believe in love at first sight, Mr. Hume?
+desmond_hume Excuse me?
+dr_daniel_faraday First time I saw her was walking through this museum, few weeks ago. She, she works here. She was on her lunch break. She was eating a chocolate bar. She has these incredible blue, blue eyes, red hair. And, as soon as I saw her, right, right in that moment, it was like, it was like I already loved her. And that's when things got weird. That same night after I saw that woman, I woke up and I wrote this.
+desmond_hume So what is it?
+dr_daniel_faraday I'm a musician. I have no idea. So I took it to a friend of mine at Caltech. He's a math whiz. He said this is quantum mechanics. He said these equations are so advanced that only someone who'd been studying physics their entire life could have come up with them.
+desmond_hume So what do they mean?
+dr_daniel_faraday Okay. Imagine, imagine something terrible is about to happen. Something catastrophic, and the only way to stop it from happening is by releasing a huge amount of energy. Like setting off a nuclear bomb.
+desmond_hume You wanna set off a nuclear bomb.
+dr_daniel_faraday Just listen, what if, this, all this, what if this wasn't suppose to be our life? What if we had some other life and for some reason, we changed things? I don't want to set off a nuclear bomb, Mr. Hume. I think I already did.
+desmond_hume Listen, mate, um. I don't know what any of this has to do with me, so...
+dr_daniel_faraday Why did you ask my mother about a woman named Penny? It happened to you, too, didn't it? You felt it.
+desmond_hume I don't know...I don't know what I felt.
+dr_daniel_faraday Yes, you do. You felt love.
+desmond_hume That's impossible, because I don't know anything about this woman, I don't know...I don't know where she is. I don't even know if she exists. She's...she's an idea.
+dr_daniel_faraday No, Mr. Hume. She's my half-sister. And I can tell you exactly where and when you can find her.
+penelope_widmore Hi.
+desmond_hume Excuse me.
+penelope_widmore Yeah.
+desmond_hume Are you Penny?
+penelope_widmore Uh, yes.
+desmond_hume Hello, I’m Desmond.
+penelope_widmore Uh, Hi.
+MAN#unknown#Lost.Season06.Episode11 Checking in now.
+seamus He's okay!
+charles_widmore Indeed he is! How are you, Desmond? How are you feeling?
+desmond_hume Fine. How long was I unconscious for?
+charles_widmore Oh, no more than a few seconds.
+desmond_hume Will you help me up, please.
+charles_widmore I'm really sorry we had to do this to you, Desmond. But, as I told you, your talent is vital to our mission. So, if you just let me explain...
+desmond_hume It's all right. I understand.
+charles_widmore What?
+desmond_hume I said, I understand.
+desmond_hume You told me you brought me here to the island to do something very important.
+charles_widmore Yeah.
+desmond_hume When do we start?
+zoe What happened to you?
+desmond_hume What do you mean?
+zoe What I mean is, twenty minutes ago you were beating the crap out of Widmore with an I.V. stand and, and now you’re Mr. Cooperative.
+desmond_hume A lot can happen in twenty minutes.
+zoe Sure can. That thing fried your brain.
+desmond_hume Did it?
+zoe Whatever, doesn’t change that we're gonna...
+sayid_jarrah Run.
+sayid_jarrah Desmond, I don't have time to explain, but these people are extremely dangerous. We need to go now.
+desmond_hume Aye, of course. Lead the way.
+penelope_widmore Hello? You okay?
+desmond_hume What happened?
+penelope_widmore Well, I shook your hand and then you fainted. I must have quite an effect on you.
+desmond_hume Aye, aye you must have.
+penelope_widmore Have we met before?
+desmond_hume I-I think we'd have remembered it, if we had.
+penelope_widmore Yeah. Well, as long as you're sure you're all right.
+desmond_hume Yeah, I'm fine. Hey, listen, um, would you like to go for a coffee?
+penelope_widmore What, now? I'm a sweaty mess.
+desmond_hume I just fainted in front of you. I'd say we're even.
+penelope_widmore There's a coffee shop on the corner of Sweetzer and Melrose. I'll meet you there in an hour.
+desmond_hume Absolutely.
+penelope_widmore Okay.
+desmond_hume Okay.
+george_minkowski So, did you find what you were looking for?
+desmond_hume Yes, George, I did. Corner of Melrose and Sweetzer, please.
+george_minkowski You got it. And if there is anything else I can do for you, Mr. Hume, you just name it.
+desmond_hume Actually, there is one thing, George. Can you get me the manifest for my flight from Sydney, Oceanic 815, just the names of the passengers?
+george_minkowski Sure I can. Do you mind if I ask you what you need it for?
+desmond_hume I just need to show them something...

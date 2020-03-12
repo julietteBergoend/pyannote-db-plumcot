@@ -1,0 +1,271 @@
+cabbie The meter doesn't stop until you get out, pal.
+sayid_jarrah Keep the change.
+noor_abed_jaseem Sayid.
+sayid_jarrah Hello, Nadia.
+eva You're here!
+sam Where were you, Uncle Sayid?
+sayid_jarrah I was in Sydney.
+eva Where's Sydney?
+omer_jarrah In Australia.
+omer_jarrah You bring flowers for my wife?
+sayid_jarrah I'll give them to you if you want.
+omer_jarrah It's good to see you, Sayid.
+sayid_jarrah Good to see you too, brother.
+omer_jarrah Come.
+eva Uncle Sayid, what did you bring us from Australia?
+sayid_jarrah Go look in my bag. It's on the couch.
+noor_abed_jaseem It's good you came, Sayid. They've missed you.
+omer_jarrah We're lucky he even showed up! The world traveler off on his exotic business trips...
+sayid_jarrah Translating contracts for an oil company is hardly exotic. And it's painfully dull.
+omer_jarrah There's, uh... little adventure in the world of dry cleaning.
+noor_abed_jaseem He's being modest. Omer's just opened up a new store.
+sayid_jarrah Congratulations.
+noor_abed_jaseem I thought we talked about cell phones at the dinner table...
+omer_jarrah Dinner is over. This is business.
+omer_jarrah Yes?
+noor_abed_jaseem Did you get my letters?
+sayid_jarrah Yes.
+noor_abed_jaseem You never wrote back.
+sam These are awesome! Thanks!
+sayid_jarrah You're welcome.
+eva Mommy, we found a picture of you in Uncle Sayid's bag.
+eva hands the picture to Nadia, Omer watches from outside the room.
+sayid_jarrah I want to talk to you. I want some answers.
+dogen Answers to what?
+sayid_jarrah Let's start with that machine. You hooked me up to this thing, you stuck needles in me, and you called it a test.
+dogen For every man there is a scale. On one side of the scale there is good. On the other side, evil. This machine tells us how the scale is balanced. And yours tipped the wrong way.
+sayid_jarrah And that's why you tried to poison me?
+dogen Yes. I think it would be best if you were dead.
+sayid_jarrah You think you know me, but you don't. I'm a good man. So if you're trying to kill me…
+dogen Go. Leave this place. Never come back.
+john_locke Are you ready?
+claire_littleton Why does it have to be me? I mean, you could send Sawyer or Jin or... do it yourself...
+john_locke If I could do it myself I wouldn't be asking you, Claire.
+claire_littleton If I go in there, I need to know you'll do what you said. I want my son back.
+john_locke I always do what I say.
+claire_littleton Are you gonna hurt them?
+john_locke Only the ones who won't listen.
+omer_jarrah It's me! Calm down!
+sayid_jarrah What are you doing? It's two-thirty in the morning!
+omer_jarrah Sayid...I'm in trouble.
+sayid_jarrah What kind of trouble?
+omer_jarrah I borrowed money to open the second store. But...I didn't borrow it from a bank. I paid the loan back, but the man who lent me this money, he says I still owe him interest every month. For as long as I own my business.
+sayid_jarrah If you need money I'll lend it to you.
+omer_jarrah I don't need money, Sayid! I need you to convince these people to leave me alone.
+sayid_jarrah Convince them?
+omer_jarrah Sayid, don't forget who you're talking to. I know what you did in the war. You were an interrogator for the Republican Guard. I know what kind of man you are.
+sayid_jarrah If you think I'm going to hurt someone just because you made a bad business decision…
+omer_jarrah No, this is not about me! Our life savings... it's all gone, Sayid... all of it! We could lose our home! Please! Look... I know you care about Nadia. If you care about us... about her... you will do this, Sayid.
+sayid_jarrah I'm sorry. I'm not that man anymore.
+miles_straume What are you doing?
+sayid_jarrah I'm leaving. I've been banished.
+miles_straume Banished? For what?
+sayid_jarrah Apparently I'm evil. These people say I'm better off dead. Which is surprising, considering they were the ones who saved my life.
+miles_straume Well, actually, they're not. They...they tried to save you, but...you were dead man. For two hours. Trust me when…when you sat up they were just as surprised as the rest of us. So whatever brought you back, it wasn't them.
+RANDOM-OTHER#unknown#Lost.Season06.Episode06 Hold it...
+lennon Stop! Don't shoot her. What are you doing here?
+claire_littleton He wants to see you.
+dogen Nanno kotodaka wakaran
+claire_littleton Speak English.
+dogen Who wants to see me?
+claire_littleton You know who.
+dogen If he wants to see me, then tell him to come in.
+claire_littleton No, he wants you to go to him. He's waiting outside beyond the outer wall.
+dogen I'm not a fool. If I step outside this temple, he'll kill me.
+claire_littleton Well, then maybe you should send someone he won't kill.
+dogen Stop her!
+dogen Kono kettyaku ga tsukumade onna wo anagura ni hourikonde oke. Soshite suguni Shephard to Reyes wo heyani tsurete koi. [そしてすぐにシェパードとレイエスを部屋に連れてこい―Then bring Shephard and Reyes to my room immediately.]
+lennon Uh, that's gonna be a little difficult. We can't find them.
+dogen Shikkari sagase!
+lennon Come on!
+dogen Come with me.
+sayid_jarrah I thought you wanted me to leave.
+dogen Things have changed.
+dogen Your friends, Shephard and Reyes. Do you know where they went?
+sayid_jarrah No I don't.
+sayid_jarrah Why is Claire here? And what was she talking about?
+dogen She's a confused girl, under the influence of an angry man.
+sayid_jarrah What man?
+dogen For years, he has been trapped, but now Jacob is gone, he's free. This man will not stop until he has destroyed every living thing on this island. He is evil incarnate.
+sayid_jarrah And you want me to speak to him?
+dogen No. I want you to kill him. He will come to you as someone you know, someone who has died. As soon as you see him...
+dogen ...plunge this deep into his chest. If you allow him to speak, it is already too late.
+sayid_jarrah Since I've been here, I've been drowned, beaten, and tortured...at your hands. Why would I ever do anything for you?
+dogen You said that there is still good in your soul...
+dogen ...then prove it.
+sam How long are you staying Uncle Sayid?
+sayid_jarrah Just a few more days. I have to go to Toronto, to work.
+sam We like it when you're here.
+eva Yeah, and mommy likes it too.
+sayid_jarrah Ok, be good.
+noor_abed_jaseem Sayid!
+noor_abed_jaseem Omer! What happened, is he going to be alright?!
+doctor Taking him into surgery now, he suffered a punctured lung and some internal bleeding.
+sayid_jarrah Do you know how this happened?
+doctor EMTs think he was mugged. I'll come get you as soon as he's stable.
+noor_abed_jaseem Sayid! Where are you going?
+sayid_jarrah Stay here with Omer.
+noor_abed_jaseem This wasn't a mugging, was it? Whatever you're thinking of doing, don't do it. I don't want you to, please. Just, go home? Wait for the kids. Make them feel safe Sayid. Will you do that?
+On-Island#unknown#Lost.Season06.Episode06 - Sayid is trekking through the jungle and hears a voice approaching him.]
+kate_austen Hello? Sayid?
+sayid_jarrah Hello Kate.
+kate_austen Are you leaving?
+sayid_jarrah I'm not exactly sure.
+kate_austen What'd I miss?
+sayid_jarrah Ask Miles.
+kate_austen Thank you.
+miles_straume Wow.
+kate_austen It's good to see you too Miles.
+miles_straume Sawyer sent you packing huh? I thought about going after him too. But, um, I knew he'd just end up berating me until I turned around and came back. That pretty much what happened?
+kate_austen Pretty much.
+miles_straume Well, welcome back to the circus.
+kate_austen What's going on in here?
+miles_straume Well, let's see, oh...that Australian chick's back.
+kate_austen Wait, what?
+miles_straume You know the...the blonde? One that had the baby?
+kate_austen Claire?
+miles_straume Right. Claire. She just strolled in here a couple hours ago, acting all weird. Still hot though.
+kate_austen Miles, where is she?
+kate_austen Where is she!?
+john_locke Hello Sayid.
+john_locke Now why'd you go and do that?
+john_locke You want it back? Take it, I won't bite.
+sayid_jarrah What are you?
+john_locke Well Sayid you seem to have some idea about that considering that you stabbed me in the chest without even saying hello. What'd they tell you?
+sayid_jarrah They said that you were evil incarnate.
+john_locke Feel sorry for you.
+sayid_jarrah Why?
+john_locke Dogen...the man who sent you out here, knew that you had no chance of killing me, and he believed that I would kill you if you tried. And this wasn't the first time that he tried to get someone else to do it for him was it?
+sayid_jarrah No.
+john_locke Then shame on you, for being talked into it so easily.
+sayid_jarrah And what is it you are trying to talk me into?
+john_locke Sorry?
+sayid_jarrah You haven't killed me, clearly there's something you want.
+john_locke I just want you to deliver a message, that's all.
+sayid_jarrah Then why didn't you just have Claire deliver it?
+john_locke Because it would mean a lot more coming from you. Sayid, if you'll do this for me... what if I told you that you could have anything you wanted. What if I said you can have anything in the entire world?
+sayid_jarrah I would tell you that the only thing I ever wanted, died in my arms, and I'll never see it again.
+john_locke What if you could?
+sayid_jarrah Ah, we had an unfortunate incident, involving a boomerang. My apologies.
+noor_abed_jaseem What time did the kids go to bed?
+sayid_jarrah About two hours ago.
+noor_abed_jaseem And what did you tell them?
+sayid_jarrah That daddy had an accident, but that he's going to be fine.
+noor_abed_jaseem He is still recovering from surgery but, he's awake now. Did he tell you about the loan?
+sayid_jarrah Look, I have money.
+noor_abed_jaseem No, this is Omer's responsibility, he brought this on himself.
+noor_abed_jaseem Why didn't you want to be with me? You carry my picture around with you, Sayid. If you care about me, why did you push me toward your brother?
+sayid_jarrah For the last twelve years I've been trying to wash my hands of all the horrible things I've done. I can't be with you, because I don't deserve you.
+dogen What happened?
+sayid_jarrah There is a man in the jungle... about a mile south of us by the outer wall. He sent me back here to give you a message. He wants you to know that Jacob is dead. And because he's gone, none of you have to stay here anymore. You're free.
+sayid_jarrah The man that I met is leaving the island forever. And those of you who want to go with him, should leave the temple and join him. You have until sundown to decide.
+cindy_chandler What happens at sundown if we stay?
+sayid_jarrah You die.
+lennon Hey! When did you get back? Are Ford and Kwon with you?
+kate_austen Where is Claire?
+lennon Okay, I need you to tell me what I need to know before I...
+kate_austen I said where is Claire?
+lennon Alright... you just let go of me, okay?
+lennon You have two minutes.
+kate_austen Claire?
+kate_austen Claire, it's me.
+claire_littleton Kate?
+kate_austen Are you okay?
+claire_littleton I... I can't believe you're here. Did they capture you too?
+kate_austen No. No, they...why did they put you down here? What happened?
+claire_littleton They have my son, Kate. They have Aaron. They took him from me.
+kate_austen No. No, Claire. They don't have Aaron. I took him.
+claire_littleton What?
+kate_austen I took him off the island. You were gone and we couldn't find you so... I raised him. And he is the most beautiful, amazing little boy. But I came back here to rescue you so that you could be with him. So that you guys could be together again.
+claire_littleton I'm not the one that needs to be rescued, Kate.
+lennon Time's up, let's go.
+kate_austen No! No, wait! No! Wait, wait!
+lennon You wanted to see her, so let's go!
+claire_littleton He's coming, Kate! He's coming and they can't stop him!
+lennon Everybody calm down! It's gonna be okay! No, no! Wait! Hang on!
+lennon Hey! Hey, you created a panic here! Our people are leaving!
+sayid_jarrah I was asked to deliver a message. And that's what I did. What your people do now is up to them.
+lennon Cindy, wait. You're all safe here. As long as we stay in the Temple, he can't touch us.
+cindy_chandler You heard him. Jacob's dead. And if it isn't safe here anymore, we can't take that risk.
+lennon Everyone listen! This is a bluff! He can't come in! He can't come in!
+miles_straume Hey, what happened out there? One minute you're banished, the next you're telling everyone they're gonna die...
+sayid_jarrah That's the sum of it.
+miles_straume So... are we getting out of here or what?
+sayid_jarrah Not yet.
+sayid_jarrah I have to return this.
+omar_idris Going to pick up the kids?
+sayid_jarrah Excuse me?
+omar_idris Why don't you get in the car?
+omar_idris Get in, Sayid.
+omar_idris Unless you want us to pick up the kids together?
+omar_idris Why don't you have a seat?
+martin_keamy Hey, you want some eggs? I can, uh... make whatever you want. Fried, scrambled, uh...
+martin_keamy We still got that poacher? Where's the poacher?
+martin_keamy Want poached? 'Cause I can make you some good poached eggs.
+sayid_jarrah No. Thank you.
+martin_keamy I make good eggs... no? Alright.
+martin_keamy Martin Keamy.
+sayid_jarrah Sayid Jarrah. But you already know that.
+martin_keamy Ah, that I do. Yeah. Alright...
+Keamy#unknown#Lost.Season06.Episode06 sits down across from Sayid.
+martin_keamy So, Sayid... how's your brother doin'?
+martin_keamy His brother got mugged right out front of his own store. It's just... terrible. But at least this way, you know, he's still around to take care of his family. You do want to take care of his family, don't you?
+martin_keamy Yes? You know, I can see that you're a very direct guy Sayid, so I'm just gonna get to the point. Your brother, he borrowed money from me. And just like anybody who borrows money or has a loan to pay, he has to make payments.
+sayid_jarrah My brother told me he's paid you everything he owes. And that you still want more.
+martin_keamy Sayid, that's a lie. Your brother does owe me, and somebody is gonna pay me that money.
+sayid_jarrah Did you put my brother in the hospital?
+martin_keamy What, you think it was me? I didn't do that. You know, it's a dangerous world, Sayid. And you know that because you're from Iraq. You never know when somebody's just gonna sneak up…
+martin_keamy Whoa, whoa, whoa, whoa, whoa... alright... okay. Just relax now.
+sayid_jarrah Shut up!
+martin_keamy Okay, fine. Fine. Okay? It's done. Alright? Your brother doesn't owe me anything. The debt's forgiven. Alright?
+martin_keamy Good? Okay? Just relax and... forget about it.
+sayid_jarrah I can't.
+[Sayid#unknown#Lost.Season06.Episode06 shoots Keamy. Banging is heard coming from a large freezer, Sayid finds a beaten Jin tied up inside. Sayid removes the tape from Jin's mouth and Jin speaks in Korean.]
+sayid_jarrah Who are you?
+jinsoo_kwon No English!
+dogen You let him talk to you...
+sayid_jarrah I stabbed him in the chest like you told me to. Then I let him talk to me.
+sayid_jarrah That's twice you've tried to have someone else kill me. You had the opportunity to do it yourself. Why didn't you?
+dogen I was a business man once. In Osaka. I worked at a bank. I was good at my job. Very successful. And one Friday, I was promoted. My associates took me out to celebrate. I had too much to drink. Every Friday I picked my son up from baseball. He was twelve. The accident was very bad. I survived. But my son...
+dogen And then, in the hospital, a man came to me. A man I had never met. And he told me that he could save my son's life, but I would have to come here... to this island... where I would have a new job. And I could never see my boy again.
+sayid_jarrah Who was this man?
+dogen His name was Jacob.
+sayid_jarrah Jacob drives a hard bargain.
+dogen The man outside... I take it he offered you a similar bargain?
+sayid_jarrah Yes.
+dogen It is sundown. Will you choose to stay or go?
+sayid_jarrah I'd like to stay.
+lennon Oh my God... what have you done?
+lennon Do you realize what you just did? He was the only thing keeping it out! Idiot! You just let it in!
+sayid_jarrah I know.
+kate_austen We gotta go now.
+kate_austen Run! Run! Run!
+miles_straume This way!
+miles_straume This way! This way!
+kate_austen I have to go get Claire!
+ilana_verdansky Where are Shephard and Reyes? And Ford?
+miles_straume Who the hell are you?
+ilana_verdansky Just answer the question!
+miles_straume They're gone, everyone's gone. I'm the only one left. Kate and I got separated.
+miles_straume Lapidus? How did you...
+frank_lapidus We'll play catch up later. You wanna live, you better move your ass!
+ilana_verdansky What about Jarrah? Is he here?
+miles_straume Yeah, he was headed to the pool room.
+ben_linus I'll go get him.
+ilana_verdansky Linus, wait! Alright... the rest of you with me, come on!
+kate_austen Claire, come on! Claire, we gotta go, you gotta get out of there!
+claire_littleton No.
+kate_austen What?
+claire_littleton We'll be much safer here.
+[Ben#unknown#Lost.Season06.Episode06 arrives at the spring and find Sayid holding the bloody dagger, watching over the corpses of Dogen and Lennon.]
+ben_linus Sayid? Come on. I know a way out of here. There's still time.
+sayid_jarrah Not for me.
+miles_straume Where's your husband?
+sunhwa_kwon What?
+miles_straume Your husband. He took off yesterday.
+sunhwa_kwon Jin was here? He's alive?
+miles_straume Last I saw of him, yeah.
+frank_lapidus You do hear that, right? You got a plan or are you gonna keep staring at the wall?
+ilana_verdansky Yes, I have a plan.
+ilana_verdansky Everybody inside, now.
+[Kate,#unknown#Lost.Season06.Episode06 Claire, and Sayid walk through the courtyard, which is littered with mangled corpses. Outside, they meet up with Locke, who has assembled a small group of Temple dwellers. They follow him into the darkness of the jungle.]

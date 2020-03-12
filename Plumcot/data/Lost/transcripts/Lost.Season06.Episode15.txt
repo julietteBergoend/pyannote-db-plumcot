@@ -1,0 +1,269 @@
+mother Aliquid aegre fers? Dem auxilium tibi.
+claudia Gratias ago tibi.
+mother A quo nomine appellaris?
+claudia Mihi nomen est Claudia.
+mother That's a lovely name.
+claudia Where are the rest of your people?
+mother There's only me.
+claudia How did you get here?
+mother The same way you got here. By accident.
+claudia How long have you--
+mother Every question I answer will simply lead to another question. You should rest. Just be grateful you're alive.
+claudia There were other people on my ship. I need to--
+mother No! If there are other people on the island, I will find them.
+mother The baby?
+claudia Oh!... Oh!... It's coming...
+mother That's it! Push! Push harder!
+claudia I can't!
+mother Yes you can!...That's good! One more push!
+mother It's a boy...
+claudia His name is Jacob.
+mother It's a boy.
+claudia Can I--
+mother There's another baby... push again! Here it comes! Now!
+mother It's another boy.
+claudia I only picked one name.
+mother Shhh. Shhh.
+claudia May I see him?
+mother I'm sorry...
+mother Uhh! Uhh!
+jacob What is it?
+teenage_boy IN BLACK It's a game. You play it.
+jacob How do you know how?
+teenage_boy IN BLACK I just know.
+jacob Can you show me how to play?
+teenage_boy IN BLACK If you promise not to tell Mother.
+jacob Why can't we tell her?
+teenage_boy IN BLACK Because she'll take it away.
+teenage_boy IN BLACK So... do you want to play or don't you, Jacob?
+jacob Yes. I want to play.
+mother Hello, Jacob.
+jacob Hello, Mother.
+mother Where's your brother?
+jacob He's down at the beach... staring out at the ocean.
+jacob Can I help you?
+mother If you like, you can sort that.
+mother What were you and your brother doing down at the beach?
+jacob We were just... walking.
+mother Do you love me, Jacob?
+jacob Yes.
+mother Then tell me what happened.
+mother May I join you?
+teenage_boy IN BLACK Sure.
+teenage_boy IN BLACK Jacob told you what I found...
+mother Of course he did. Jacob doesn't know how to lie. He's not like you.
+teenage_boy IN BLACK Why? What am I like?
+mother You're... special.
+teenage_boy IN BLACK Can I keep the game?
+mother Of course you can. That's why I left it for you.
+teenage_boy IN BLACK It came from you?
+mother Of course it did. Where else would it come from?
+teenage_boy IN BLACK From somewhere else. Across the sea...
+mother There is nowhere else. The Island is all there is.
+teenage_boy IN BLACK Then where did we come from?
+mother You and your brother came from me, and I came from my mother.
+teenage_boy IN BLACK Where's she?
+mother She's dead.
+teenage_boy IN BLACK What's dead?
+mother Something you will never have to worry about.
+teenage_boy IN BLACK Hurry up, he's getting away!
+teenage_boy IN BLACK Hide!
+jacob Who are they?
+teenage_boy IN BLACK Shh!
+jacob Mother! Mother!
+mother What's wrong?
+teenage_boy IN BLACK We saw people! Men!
+mother How many were there?
+teenage_boy IN BLACK Three... they killed a boar!
+mother Did they see you?
+teenage_boy IN BLACK No. I don't think so.
+jacob Where did they come from? They looked like us!
+mother They're not like us. They don't belong here. We are here for a reason.
+teenage_boy IN BLACK What reason?
+mother It's not time yet...
+teenage_boy IN BLACK Mother! What reason?
+teenage_boy IN BLACK Did you know about the people?
+mother Yes.
+teenage_boy IN BLACK Why didn't you tell us about them?
+mother Because they're dangerous and I didn't want to frighten you.
+jacob What makes them dangerous?
+mother The same thing that makes all men dangerous. They come, they fight, they destroy, they corrupt... and it always ends the same.
+teenage_boy IN BLACK They come? Come from where?
+mother Another part of the island. And you're never to go looking for them. If they found you, they would hurt you.
+jacob Why would they hurt us?
+mother Because they're people, Jacob, and that's what people do.
+teenage_boy IN BLACK But we're people. Does that mean that we can hurt each other?
+mother I've made it so you can never hurt each other.
+teenage_boy IN BLACK What is this place?
+mother This is the reason you're here.
+mother Don't go in there.
+teenage_boy IN BLACK What's down there?
+mother Light. The warmest, brightest light you've ever seen or felt. And we must make sure that no one ever finds it.
+teenage_boy IN BLACK It's beautiful...
+mother Yes it is. And that's why they want it. Because a little bit of this very same light is inside of every man. But they always want more.
+jacob Can they take it?
+mother No. But they would try. And if they tried they could put it out. And if the light goes out here... it goes out everywhere. And so I've protected this place. But I can't protect it forever.
+teenage_boy IN BLACK Then who will?
+mother It will have to be one of you.
+teenage_boy IN BLACK You can’t do that, Jacob.
+jacob Why not?
+teenage_boy IN BLACK Because it's against the rules
+jacob You made the rules.
+teenage_boy IN BLACK I found it. One day, you can make up your own game and everyone else will have to follow your rules.
+claudia It's all right... Don't be afraid.
+jacob What? What's wrong?
+teenage_boy IN BLACK I'm going for a walk to the beach. I'll meet you later.
+claudia Hello.
+teenage_boy IN BLACK Why can't Jacob see you?
+claudia Because I'm dead... Will you come with me? I'd like to show you something.
+teenage_boy IN BLACK Show me what?
+claudia Where you came from. It's across the Island--a place you've never seen.
+teenage_boy IN BLACK Who are they?
+claudia They came here 13 years ago. The day before you were born. Their ship was wrecked in a storm.
+teenage_boy IN BLACK Ship? What's that?
+claudia It's a way for people to get from one place to another. It's how we came across the sea.
+teenage_boy IN BLACK There's nothing across the sea.
+claudia There are many things across the sea... You come from across the sea, too.
+teenage_boy IN BLACK No. That's not true. That's not what my mother told me.
+claudia She's not your mother...I am.
+teenage_boy IN BLACK Jacob. Jacob, wake up. Come with me.
+jacob Why do you have all your things?
+teenage_boy IN BLACK They're our things... I took them because we're leaving and we're never coming back.
+jacob What?
+teenage_boy IN BLACK Just follow me.
+jacob Follow you where?
+teenage_boy IN BLACK To the people.
+jacob No. We're supposed to stay away from them.
+teenage_boy IN BLACK They're our people, Jacob, and we're gonna live with them.
+jacob No, mother said--
+teenage_boy IN BLACK She lied, she lied about everything--all of it. I know you don't understand, but you have to come with me. I don't want to go by myself.
+jacob We can't--Mother loves us.
+teenage_boy IN BLACK She doesn't love us.
+jacob Stop!
+teenage_boy IN BLACK It was all a lie!
+jacob Stop it!
+teenage_boy IN BLACK She's not even our mother!
+jacob Aah!
+jacob No!
+mother Jacob! What are you doing?
+jacob He's leaving. He's going to them...to the other people!
+mother What?
+teenage_boy IN BLACK I know now. There is another place across the sea. It's where I'm from and I'm gonna go there. I'm gonna go home.
+mother Who--who told you that?
+teenage_boy IN BLACK My mother!
+mother I'm your mother.
+teenage_boy IN BLACK You killed my mother... Jacob, she was your mother, too. We don't belong here. We don't belong with her. Come with me.
+jacob No.
+mother My love, you need to know this. Whatever you have been told, you will never be able to leave this Island.
+teenage_boy IN BLACK That's not true. One day I can prove it.
+jacob Do you think he'll come back?
+mother No.
+jacob He said you killed our mother... Is that true?
+mother Yes... If I had let her live, she would have taken you back to her people; and those people are bad, Jacob--very bad. I-I couldn't let you become one of them. I needed you to stay good.
+jacob Am I good, Mother?
+mother Yes, of course you are.
+jacob Then, why do you love him more than me?
+mother I love you in--in different ways. Will you stay with me, Jacob? Please?
+jacob Yes. For awhile.
+jacob What do you think?
+mother It's very nice, Jacob.
+jacob Are you all right?
+mother I'm just tired.
+man_in_black IN BLACK She know you visit me?
+jacob She never asks about you.
+man_in_black IN BLACK Then, I'm sorry I asked about her. Why do you watch us, Jacob?
+jacob I watch because I wanna know if Mother's right.
+man_in_black IN BLACK Right about what?
+jacob About them.
+man_in_black IN BLACK Oh, you mean my people. You wanna know if they're bad. That woman may be insane, but she's most definitely right about that.
+jacob I don't know. They don't seem so bad to me.
+man_in_black IN BLACK That's easy for you to say. Looking down on us from above. Trust me, I've lived among them for 30 years. They're greedy, manipulative, untrustworthy, and selfish.
+jacob Then why are you with them?
+man_in_black IN BLACK They're a means to an end.
+jacob What end?
+man_in_black IN BLACK I'm leaving, Jacob. I found a way off the Island.
+jacob No, it's impossible. There is no way off the Island.
+man_in_black IN BLACK There are very smart men among us. Men who are curious about how things work. Together we have discovered places all over this Island where metal behaves strangely. When we find one of these sites, we dig. And this time we found something. Come with me, Jacob. Please... What are you gonna do when she dies?
+jacob She's never gonna die.
+man_in_black IN BLACK Jacob, everything dies.
+jacob Well, I don't wanna leave this Island. It's my home.
+man_in_black IN BLACK Well, it's not mine.
+mother Where were you?
+jacob You know where I was.
+mother What did he say to you, Jacob?
+jacob He said he's finally found a way to leave the Island.
+mother May I join you.
+man_in_black IN BLACK Yes... How are you?
+mother I'm worried.
+man_in_black IN BLACK Well, Mother, you should be. I spent 30 years searching for that place you brought me as a child--that...waterfall with that beautiful light. I've walked this island from end to end, not once coming close to finding it. But, then I began to think--what if the light underneath the island--what if I could get to it from someplace else? Figuring out how to reach it took a very long time.
+mother The people with you, they saw this, too?
+man_in_black IN BLACK Yes, they have some very interesting ideas about what to do with it.
+mother Do with it? You don't have any idea wh--
+man_in_black IN BLACK I have no idea because you wouldn't tell me, Mother.
+mother What is that?
+man_in_black IN BLACK It's a wheel... We're going to make an opening...one much bigger than this one; and, then I'm going to attach that wheel to a system we're building. A system that channels the water and the light. And then I'm gonna turn it. And when I do...I'll finally be able to leave this place.
+mother How do you know all this? How do you know it will work?
+man_in_black IN BLACK I'm special, Mother.
+mother Please don't do this... Don't go.
+man_in_black IN BLACK I have to go.
+mother Why?
+man_in_black IN BLACK Because I don't belong here.
+mother Then I suppose this is goodbye.
+man_in_black IN BLACK Goodbye, Mother.
+mother I am so sorry... Ahh!
+mother Jacob... It's time.
+jacob Something happened, didn't it?
+mother Yes. I had to say goodbye to your brother.
+jacob You're letting him go?
+mother I don't have a choice. It's what he wants. Do you recognize this place?
+jacob Yes.
+mother Do you remember what I showed you here?
+jacob The light.
+mother You're going to protect it now.
+jacob What's down there?
+mother Life, death, rebirth. It's the source, the heart of the island. Just promise me. no matter what you do, you won't ever go down there.
+jacob Would I die?
+mother It'd be worse than dying, Jacob...much worse.
+mother Nam non accipimus hoc quasi vulgarem potionem, sed ut ille sit quasi unus mecum.
+mother Here. Drink this.
+jacob What happens if I do.
+mother You'll accept the responsibility that you will protect this place for as long as you can; and, then you'll have to find your replacement.
+jacob I don't want to protect this place.
+mother Someone has to.
+jacob I don't care.
+mother My time is over.
+jacob Why? Why is your time over?
+mother It has to be you, Jacob.
+jacob No, it doesn't. You wanted it to be him. But now I'm all you have.
+mother It was always supposed to be you, Jacob. I see that now. And one day, you'll see it, too; but, until then...you don't really have a choice... Please, take the cup and drink.
+mother Now, you and I...are the same
+jacob Storm comin'.
+mother Yes, there is... You should go, get some firewood before it rains.
+mother Jacob? Be careful.
+jacob I'll see you back home.
+man_in_black IN BLACK Why wouldn't you let me leave, mother?
+mother Because I...I love you. Thank you.
+man_in_black IN BLACK Jacob.
+jacob What did you do?
+man_in_black IN BLACK Wait. Listen.
+jacob What did you do?
+man_in_black IN BLACK No!
+jacob What did you do?!
+man_in_black IN BLACK You have--
+man_in_black IN BLACK Don't. Jacob, don't do this. She burned them. She was crazy. She burned them all! You can't kill me, Jacob. She made it that way. You can't.
+jacob Don't worry, brother. I'm not going to kill you.
+man_in_black IN BLACK Uhh. She brought you back here?
+jacob Yes.
+man_in_black IN BLACK Why would she?
+jacob Because I have to protect it now.
+man_in_black IN BLACK Ahh.
+jacob You want to find the light? You want to leave this place, brother? Then go.
+man_in_black IN BLACK Uhh!
+kate_austen Who are they? Where'd they come from?
+dr_jack_shephard Didn't you guys shoot a polar bear last week?
+kate_austen Yeah.
+dr_jack_shephard Where'd that come from?
+john_locke Hello? Anybody there? Who were these men?
+dr_jack_shephard Actually, one of them's female.
+john_locke Our very own Adam and Eve.
+jacob Goodbye, brother. Goodbye.
