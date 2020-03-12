@@ -187,7 +187,7 @@ class Plumcot(Database):
                     if line == '' or line.isspace():
                         continue
                     charac = line.split()[0]
-                    if charac[-2:]=="'s":
+                    if self.merge_next_token(charac):
                         charac += line.split()[1]
                     if charac not in characters:
                         characters[charac] = 1
@@ -198,6 +198,13 @@ class Plumcot(Database):
             characters_dict[ep_name] = characters
 
         return characters_dict
+
+    def merge_next_token(self,token):
+        if token.lower() in self.SPECIAL_NOUNS:
+            return True
+        if token[-2:].lower()=="'s":
+            return True
+        return False
 
     def save_normalized_names(self, id_series, id_ep, dic_names):
         """Saves new transcripts files as .txt with normalized names.
@@ -220,8 +227,10 @@ class Plumcot(Database):
         with open(trans_folder + id_ep + '.temp', mode='r',
                   encoding="utf8") as ep_file:
             for line in ep_file:
+                if line == '' or line.isspace():
+                    continue
                 line_split = line.split()
-                if line_split[0][-2:]=="'s":
+                if self.merge_next_token(line_split[0]):
                     line_split[0]+=line_split[1]
                     line_split.pop(1)
                 line_split[0] = dic_names[line_split[0]]
@@ -250,6 +259,9 @@ class Plumcot(Database):
             "actor_name":3,
             "imdb":4
         }
+
+        #generic nouns in transcripts (*.temp)
+        self.SPECIAL_NOUNS={"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}
 
         # for each series, create and register a collection protocol
         # used to iterate over all episodes in chronological order

@@ -85,26 +85,15 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
                     if save_dict[trans_name] in hyps:
                         hyps.remove(save_dict[trans_name])
 
-    size = max(len(refs), len(hyps))
-    min_size = min(len(refs), len(hyps))
-    dists = np.ones([size, size])
-    for i, ref in enumerate(refs):
-        for j, hyp in enumerate(hyps):
-            # Affine gap distance is configured to penalize gap openings,
-            # regardless of the gap length to maximize matching between
-            # firstName_lastName and firstName for example.
-            dists[i, j] = affinegap.normalizedAffineGapDistance(
-                    ref, hyp, matchWeight=0, mismatchWeight=1, gapWeight=0,
-                    spaceWeight=1)
-    # We use Hungarian algorithm which solves the "assignment problem" in a
-    # polynomial time.
-    row_ind, col_ind = linear_sum_assignment(dists)
-    # Add names ignored by Hungarian algorithm when sizes are not equal
-    for i, ref in enumerate(refs):
-        if col_ind[i] < len(hyps):
-            names_dict[ref] = hyps[col_ind[i]]
-        else:
-            names_dict[ref] = unknown_char(ref, id_ep)
+    #naive sub-string match: TODO improve
+    for trans_char in refs:
+        for suggestion in hyps:
+            if trans_char.lower() in suggestion:
+                names_dict[trans_char]=suggestion
+                break
+        if trans_char not in names_dict:
+            #none of imdb character matches -> unknown character
+            names_dict[trans_char] = unknown_char(trans_char, id_ep)
 
     return names_dict
 
@@ -230,7 +219,11 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             warnings.warn(f"{id_ep} is not transcripts, jumping to next episode")
             continue
         trans_chars = trans_chars_series[id_ep]
-
+        total_appearances = {}
+        for ep_appearances in trans_chars_series.values():
+            for character, appearence in ep_appearances.items():
+                total_appearances.setdefault(character,0)
+                total_appearances[character] += appearence
         link = Path(PC.__file__).parent / 'data' / f'{id_series}'\
             / 'transcripts' / f'{id_ep}.txt'
         # If episode has already been processed
@@ -243,12 +236,6 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         # Get automatic alignment as a dictionnary
         dic_names = automatic_alignment(id_series, id_ep, trans_chars,
                                         imdb_chars)
-        #update lame automatic alignment with naive sub-string match
-        for trans_char in dic_names:
-            for suggestion in imdb_chars:
-                if trans_char.lower() in suggestion:
-                    dic_names[trans_char]=suggestion
-                    break
         save = True
         names_matched={}
         # User input loop
@@ -261,6 +248,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             for name, norm_name in dic_names.items():
                 # Get number of speech turns of the character for this episode
                 appearence = trans_chars[name]
+                total_appearance = total_appearances[name]
                 previously_matched = old_matches.get(name)
                 if previously_matched :
                    previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
@@ -272,7 +260,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 if (previously_matched or name == norm_name) and not verbose:
                     pass
                 else:
-                    print(colored(f"{name} ({appearence})  ->  {norm_name}",color))
+                    print(colored(f"{name} ({appearence}, {total_appearance})  ->  {norm_name}",color))
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
                             "to skip, unk to unknownize every character that didn't match): ")
@@ -305,7 +293,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
 
         # Save changes and create .txt file
         if save:
-            save_matching(id_series, dic_names)
+            save_matching(id_series, dic_names, db)
             db.save_normalized_names(id_series, id_ep, dic_names)
 
 
@@ -316,7 +304,7 @@ def unknown_char(char_name, id_ep):
     return f"{char_name}#unknown#{id_ep}"
 
 
-def save_matching(id_series, dic_names):
+def save_matching(id_series, dic_names, db):
     """Saves user matching names
 
     Parameters
@@ -335,7 +323,7 @@ def save_matching(id_series, dic_names):
             save_dict = json.load(f)
 
     for name_trans, name_norm in dic_names.items():
-        if "#unknown" not in name_norm:
+        if "#unknown" not in name_norm and name_trans.lower() not in db.SPECIAL_NOUNS:
             save_dict[name_trans] = name_norm
 
     with open(savePath, 'w') as f:
