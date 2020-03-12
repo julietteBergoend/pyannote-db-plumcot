@@ -5,6 +5,7 @@
 Extracts features from images given IMDB-compliant JSON file,
     described in `CONTRIBUTING.md` (scraped in `image_scraping`)
 """
+
 # Dependencies
 
 ## core

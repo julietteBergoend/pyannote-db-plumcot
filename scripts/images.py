@@ -13,6 +13,7 @@ import numpy as np
 import os
 from image_scraping import main as scrap
 from image_features import main as compute_references
+
 # Hyperparameters
 
 ## core
@@ -27,8 +28,6 @@ IMAGE_FORMAT="jpg"
 IMDB_URL="https://www.imdb.com"
 THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"
 IMAGE_CLASS="pswp__img"
-
-## ML
 
 def main(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,CHARACTERS_PATH,N_COL,SEPARATOR,IMAGE_FORMAT):
     image_jsons=scrap(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,CHARACTERS_PATH,N_COL,SEPARATOR,IMAGE_FORMAT)
