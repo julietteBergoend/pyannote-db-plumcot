@@ -1,309 +1,313 @@
-# ~/.pyannote/database.yml
 Protocols:
+  X:
+    SpeakerDiarization:
+      Plumcot:
+        test:
+          24.SpeakerDiarization.0 : [test]
+          BattlestarGalactica.SpeakerDiarization.0 : [test]
+          BreakingBad.SpeakerDiarization.0 : [test]
+          BuffyTheVampireSlayer.SpeakerDiarization.0 : [test]
+          Friends.SpeakerDiarization.FA-UNK : [test]
+          GameOfThrones.SpeakerDiarization.0 : [test]
+          Homeland.SpeakerDiarization.0 : [test]
+          Lost.SpeakerDiarization.0 : [test]
+          SixFeetUnder.SpeakerDiarization.0 : [test]
+          TheBigBangTheory.SpeakerDiarization.0 : [test]
+          TheOffice.SpeakerDiarization.0 : [test]
+          TheWalkingDead.SpeakerDiarization.0 : [test]
+          ER.SpeakerDiarization.0 : [test]
+          HarryPotter.SpeakerDiarization.0 : [test]
+          StarWars.SpeakerDiarization.0 : [test]
+          TheLordOfTheRings.SpeakerDiarization.0 : [test]
+        development:
+          24.SpeakerDiarization.0 : [development]
+          BattlestarGalactica.SpeakerDiarization.0 : [development]
+          BreakingBad.SpeakerDiarization.0 : [development]
+          BuffyTheVampireSlayer.SpeakerDiarization.0 : [development]
+          Friends.SpeakerDiarization.FA-UNK : [development]
+          GameOfThrones.SpeakerDiarization.0 : [development]
+          Homeland.SpeakerDiarization.0 : [development]
+          Lost.SpeakerDiarization.0 : [development]
+          SixFeetUnder.SpeakerDiarization.0 : [development]
+          TheBigBangTheory.SpeakerDiarization.0 : [development]
+          TheOffice.SpeakerDiarization.0 : [development]
+          TheWalkingDead.SpeakerDiarization.0 : [development]
+          ER.SpeakerDiarization.0 : [development]
+          HarryPotter.SpeakerDiarization.0 : [development]
+          StarWars.SpeakerDiarization.0 : [development]
+          TheLordOfTheRings.SpeakerDiarization.0 : [development]
+        train:
+          24.SpeakerDiarization.0 : [train]
+          BattlestarGalactica.SpeakerDiarization.0 : [train]
+          BreakingBad.SpeakerDiarization.0 : [train]
+          BuffyTheVampireSlayer.SpeakerDiarization.0 : [train]
+          Friends.SpeakerDiarization.FA-UNK : [train]
+          GameOfThrones.SpeakerDiarization.0 : [train]
+          Homeland.SpeakerDiarization.0 : [train]
+          Lost.SpeakerDiarization.0 : [train]
+          SixFeetUnder.SpeakerDiarization.0 : [train]
+          TheBigBangTheory.SpeakerDiarization.0 : [train]
+          TheOffice.SpeakerDiarization.0 : [train]
+          TheWalkingDead.SpeakerDiarization.0 : [train]
+          ER.SpeakerDiarization.0 : [train]
+          HarryPotter.SpeakerDiarization.0 : [train]
+          StarWars.SpeakerDiarization.0 : [train]
+          TheLordOfTheRings.SpeakerDiarization.0 : [train]
   24:
     SpeakerDiarization:
-      FA-UEM:
+      0:
         train:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/forced-alignment/24_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/forced-alignment/24_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/train_list.lst
+          annotation: 24/forced-alignment/24_0.15collar.rttm
+          annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
+          uris: 24/train_list.lst
         development:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/forced-alignment/24_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/forced-alignment/24_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/dev_list.lst
+          annotation: 24/forced-alignment/24_0.15collar.rttm
+          annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
+          uris: 24/dev_list.lst
         test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/forced-alignment/24_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/forced-alignment/24_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/24/test_list.lst
+          annotation: 24/forced-alignment/24_0.15collar.rttm
+          annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
+          uris: 24/test_list.lst
   BattlestarGalactica:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/train_list.lst
+            annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.UNK.uem
+            uris: BattlestarGalactica/train_list.SAD.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/dev_list.lst
+            annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.UNK.uem
+            uris: BattlestarGalactica/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BattlestarGalactica/test_list.lst
+            annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.UNK.uem
+            uris: BattlestarGalactica/test_list.lst
   BreakingBad:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/forced-alignment/BreakingBad_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/forced-alignment/BreakingBad_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/train_list.lst
+            annotation: BreakingBad/serial_speakers/BreakingBad.rttm
+            annotated: BreakingBad/serial_speakers/BreakingBad.uem
+            uris: BreakingBad/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/forced-alignment/BreakingBad_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/forced-alignment/BreakingBad_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/dev_list.lst
+            annotation: BreakingBad/serial_speakers/BreakingBad.rttm
+            annotated: BreakingBad/serial_speakers/BreakingBad.uem
+            uris: BreakingBad/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/forced-alignment/BreakingBad_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/forced-alignment/BreakingBad_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BreakingBad/test_list.lst
+            annotation: BreakingBad/serial_speakers/BreakingBad.rttm
+            annotated: BreakingBad/serial_speakers/BreakingBad.uem
+            uris: BreakingBad/test_list.lst
   BuffyTheVampireSlayer:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/train_list.lst
+            annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
+            uris: BuffyTheVampireSlayer/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/dev_list.lst
+            annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
+            uris: BuffyTheVampireSlayer/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/BuffyTheVampireSlayer/test_list.lst
+            annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
+            uris: BuffyTheVampireSlayer/test_list.lst
   Friends:
     SpeakerDiarization:
-      Manual:
-        test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.Season01.Episode01.manual.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.Season01.Episode01.manual.uem
-      Multimodal:
+      FA-UNK:
         train:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.train.0.6.rttm
+          annotation: Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: Friends/forced-alignment/Friends_0.5confidence.UNK.uem
+          uris: Friends/train_list.lst
         development:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.development.0.6.rttm
+          annotation: Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: Friends/forced-alignment/Friends_0.5confidence.UNK.uem
+          uris: Friends/dev_list.lst
         test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/multimodal/Friends.SpeakerDiarization.FA-UEM.test.0.6.rttm
-      FA-raw:
-        train:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/train_list.lst
-        development:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
-        test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends.rttm
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
-      FA-UEM:
-        train:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/train_list.lst
-        development:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
-        test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
-      FA-FewShots:
-        train:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/few_shots.lst
-        development:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
-        test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence.uem
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
-      FA-Collar:
-        train:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/train_list.lst
-        development:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/dev_list.lst
-        test:
-          annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/forced-alignment/Friends_0.5confidence_0.15collar.rttm
-          uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Friends/test_list.lst
+          annotation: Friends/forced-alignment/Friends_0.15collar.rttm
+          annotated: Friends/forced-alignment/Friends_0.5confidence.UNK.uem
+          uris: Friends/test_list.lst
   GameOfThrones:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/forced-alignment/GameOfThrones_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/forced-alignment/GameOfThrones_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/train_list.lst
+            annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
+            annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
+            uris: GameOfThrones/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/forced-alignment/GameOfThrones_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/forced-alignment/GameOfThrones_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/dev_list.lst
+            annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
+            annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
+            uris: GameOfThrones/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/forced-alignment/GameOfThrones_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/forced-alignment/GameOfThrones_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/GameOfThrones/test_list.lst
+            annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
+            annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
+            uris: GameOfThrones/test_list.lst
   Homeland:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/forced-alignment/Homeland_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/forced-alignment/Homeland_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/train_list.lst
+            annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
+            annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
+            uris: Homeland/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/forced-alignment/Homeland_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/forced-alignment/Homeland_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/dev_list.lst
+            annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
+            annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
+            uris: Homeland/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/forced-alignment/Homeland_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/forced-alignment/Homeland_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Homeland/test_list.lst
+            annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
+            annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
+            uris: Homeland/test_list.lst
   Lost:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/forced-alignment/Lost_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/forced-alignment/Lost_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/train_list.lst
+            annotation: Lost/forced-alignment/Lost_0.15collar.rttm
+            annotated: Lost/forced-alignment/Lost_0.5confidence.uem
+            uris: Lost/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/forced-alignment/Lost_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/forced-alignment/Lost_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/dev_list.lst
+            annotation: Lost/forced-alignment/Lost_0.15collar.rttm
+            annotated: Lost/forced-alignment/Lost_0.5confidence.uem
+            uris: Lost/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/forced-alignment/Lost_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/forced-alignment/Lost_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/Lost/test_list.lst
+            annotation: Lost/forced-alignment/Lost_0.15collar.rttm
+            annotated: Lost/forced-alignment/Lost_0.5confidence.uem
+            uris: Lost/test_list.lst
   SixFeetUnder:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/train_list.lst
+            annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
+            annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
+            uris: SixFeetUnder/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/dev_list.lst
+            annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
+            annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
+            uris: SixFeetUnder/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/SixFeetUnder/test_list.lst
+            annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
+            annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
+            uris: SixFeetUnder/test_list.lst
   TheBigBangTheory:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/train_list.lst
+            annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
+            annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
+            uris: TheBigBangTheory/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/dev_list.lst
+            annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
+            annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
+            uris: TheBigBangTheory/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheBigBangTheory/test_list.lst
+            annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
+            annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
+            uris: TheBigBangTheory/test_list.lst
   TheOffice:
       SpeakerDiarization:
-        Manual:
-          test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice.Season01.Episode01.manual.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice.Season01.Episode01.manual.uem
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/train_list.lst
+            annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
+            annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
+            uris: TheOffice/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/dev_list.lst
+            annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
+            annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
+            uris: TheOffice/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/forced-alignment/TheOffice_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheOffice/test_list.lst
+            annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
+            annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
+            uris: TheOffice/test_list.lst
   TheWalkingDead:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/train_list.lst
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uris: TheWalkingDead/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/dev_list.lst
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uris: TheWalkingDead/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheWalkingDead/test_list.lst
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uris: TheWalkingDead/test_list.lst
   ER:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/forced-alignment/ER_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/forced-alignment/ER_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/train_list.lst
+            annotation: ER/forced-alignment/ER_0.15collar.rttm
+            annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
+            uris: ER/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/forced-alignment/ER_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/forced-alignment/ER_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/dev_list.lst
+            annotation: ER/forced-alignment/ER_0.15collar.rttm
+            annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
+            uris: ER/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/forced-alignment/ER_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/forced-alignment/ER_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/ER/test_list.lst
+            annotation: ER/forced-alignment/ER_0.15collar.rttm
+            annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
+            uris: ER/test_list.lst
   HarryPotter:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/forced-alignment/HarryPotter_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/train_list.lst
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uris: HarryPotter/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/forced-alignment/HarryPotter_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/dev_list.lst
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uris: HarryPotter/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/forced-alignment/HarryPotter_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/HarryPotter/test_list.lst
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uris: HarryPotter/test_list.lst
   StarWars:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/forced-alignment/StarWars_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/forced-alignment/StarWars_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/train_list.lst
+            annotation: StarWars/forced-alignment/StarWars_0.15collar.rttm
+            annotated: StarWars/forced-alignment/StarWars_0.5confidence.SAD.uem
+            uris: StarWars/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/forced-alignment/StarWars_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/forced-alignment/StarWars_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/dev_list.lst
+            annotation: StarWars/forced-alignment/StarWars_0.15collar.rttm
+            annotated: StarWars/forced-alignment/StarWars_0.5confidence.SAD.uem
+            uris: StarWars/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/forced-alignment/StarWars_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/forced-alignment/StarWars_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/StarWars/test_list.lst
+            annotation: StarWars/forced-alignment/StarWars_0.15collar.rttm
+            annotated: StarWars/forced-alignment/StarWars_0.5confidence.SAD.uem
+            uris: StarWars/test_list.lst
   TheLordOfTheRings:
       SpeakerDiarization:
-        FA-UEM:
+        0:
           train:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/train_list.lst
+            annotation: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
+            annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
+            uris: TheLordOfTheRings/train_list.lst
           development:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/dev_list.lst
+            annotation: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
+            annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
+            uris: TheLordOfTheRings/dev_list.lst
           test:
-            annotation: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
-            annotated: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.uem
-            uris: /vol/work/lerner/pyannote-db-plumcot/Plumcot/data/TheLordOfTheRings/test_list.lst
+            annotation: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
+            annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
+            uris: TheLordOfTheRings/test_list.lst
 Databases:
-  24: /vol/work3/lefevre/dvd_extracted/24/{uri}.en16kHz.wav
-  BattlestarGalactica: /vol/work3/lefevre/dvd_extracted/BattlestarGalactica/{uri}.en16kHz.wav
-  Caprica: /vol/work3/lefevre/dvd_extracted/Caprica/{uri}.en16kHz.wav
-  BreakingBad: /vol/work3/lefevre/dvd_extracted/BreakingBad/{uri}.en16kHz.wav
-  BuffyTheVampireSlayer: /vol/work3/lefevre/dvd_extracted/BuffyTheVampireSlayer/{uri}.en16kHz.wav
-  Friends: /vol/work3/lefevre/dvd_extracted/Friends/{uri}.en16kHz.wav
-  GameOfThrones: /vol/work3/lefevre/dvd_extracted/GameOfThrones/{uri}.en16kHz.wav
-  Homeland: /vol/work3/lefevre/dvd_extracted/Homeland/{uri}.en16kHz.wav
-  Lost: /vol/work3/lefevre/dvd_extracted/Lost/{uri}.en16kHz.wav
-  SixFeetUnder: /vol/work3/lefevre/dvd_extracted/SixFeetUnder/{uri}.en16kHz.wav
-  TheBigBangTheory: /vol/work3/lefevre/dvd_extracted/TheBigBangTheory/{uri}.en16kHz.wav
-  TheOffice: /vol/work3/lefevre/dvd_extracted/TheOffice/{uri}.en16kHz.wav
-  TheWalkingDead: /vol/work3/lefevre/dvd_extracted/TheWalkingDead/{uri}.en16kHz.wav
-  ER: /vol/work3/lefevre/dvd_extracted/ER/{uri}.en16kHz.wav
-  HarryPotter: /vol/work3/lefevre/dvd_extracted/HarryPotter/{uri}.en16kHz.wav
-  StarWars: /vol/work3/lefevre/dvd_extracted/StarWars/{uri}.en16kHz.wav
-  TheLordOfTheRings: /vol/work3/lefevre/dvd_extracted/TheLordOfTheRings/{uri}.en16kHz.wav
-  MUSAN: /vol/work/lerner/musan/{uri}.wav
+  24: /path/to/wavs/24/{uri}.en16kHz.wav
+  BattlestarGalactica: /path/to/wavs/BattlestarGalactica/{uri}.en16kHz.wav
+  Caprica: /path/to/wavs/Caprica/{uri}.en16kHz.wav
+  BreakingBad: /path/to/wavs/BreakingBad/{uri}.en16kHz.wav
+  BuffyTheVampireSlayer: /path/to/wavs/BuffyTheVampireSlayer/{uri}.en16kHz.wav
+  Friends: /path/to/wavs/Friends/{uri}.en16kHz.wav
+  GameOfThrones: /path/to/wavs/GameOfThrones/{uri}.en16kHz.wav
+  Homeland: /path/to/wavs/Homeland/{uri}.en16kHz.wav
+  Lost: /path/to/wavs/Lost/{uri}.en16kHz.wav
+  SixFeetUnder: /path/to/wavs/SixFeetUnder/{uri}.en16kHz.wav
+  TheBigBangTheory: /path/to/wavs/TheBigBangTheory/{uri}.en16kHz.wav
+  TheOffice: /path/to/wavs/TheOffice/{uri}.en16kHz.wav
+  TheWalkingDead: /path/to/wavs/TheWalkingDead/{uri}.en16kHz.wav
+  ER: /path/to/wavs/ER/{uri}.en16kHz.wav
+  HarryPotter: /path/to/wavs/HarryPotter/{uri}.en16kHz.wav
+  StarWars: /path/to/wavs/StarWars/{uri}.en16kHz.wav
+  TheLordOfTheRings: /path/to/wavs/TheLordOfTheRings/{uri}.en16kHz.wav
