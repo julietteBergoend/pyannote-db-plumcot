@@ -1,0 +1,347 @@
+ilana_verdansky Caesar.
+caesar Ilana. What's up?
+ilana_verdansky Find anything?
+caesar No. Nothing useful.
+ilana_verdansky Then what'd you just put in your bag?
+caesar ...Oh.
+caesar If you want it, it's yours.
+ilana_verdansky We found someone—a man.
+caesar What?
+ilana_verdansky Roxanne was scouting just south of here, and he was just standing in the water. He's wearing a suit.
+caesar Nobody recognizes him?
+ilana_verdansky No. Whoever he is, he didn't come with us.
+caesar Then how do we know he isn't one of the ones who disappeared?
+ilana_verdansky He's not.
+caesar And how do you know?
+ilana_verdansky Because he wasn't on the plane.
+caesar What did this man have to say?
+ilana_verdansky You can ask him yourself.
+caesar Hello.
+construction_foreman Hello.
+caesar My name is Caesar. What's yours?
+john_locke My name is John Locke.
+ilana_verdansky Morning.
+john_locke Hello.
+ilana_verdansky Breakfast?
+ilana_verdansky We found a tree. They're pretty good.
+john_locke Much obliged.
+ilana_verdansky I'm Ilana.
+john_locke John. Are those your boats?
+ilana_verdansky No. They were already here. There used to be three, but the pilot and some woman took one. Didn't tell anyone, just ran off in the middle of the night.
+john_locke The pilot of the plane that brought you here?
+ilana_verdansky Yes. That's right.
+john_locke Do you have a passenger list?
+ilana_verdansky You'll have to talk to Caesar.
+john_locke Mmm. I think this is the best mango I've ever eaten.
+ilana_verdansky Nobody remembers you being on the plane.
+john_locke Well, I don't remember being on it either.
+ilana_verdansky What do you remember?
+john_locke I remember a lot.
+ilana_verdansky Like why you're dressed up so nice?
+john_locke No, but I can guess.
+ilana_verdansky Please. Guess.
+john_locke I think this suit is what they were gonna bury me in.
+ilana_verdansky Sorry?
+john_locke You asked what I remembered. I remember dying.
+dr_christian_shephard Good luck, John.
+dr_christian_shephard Say hello to my son.
+john_locke Who's your son?
+john_locke Aah!
+john_locke If anybody is there, can you help me?!
+john_locke Aah! Aah!
+john_locke Hey! No! Hey! Hey!
+construction_foreman #1 هذا هو
+construction_foreman #1 يالا
+construction_foreman #2 ارفع ارفع
+construction_foreman #1 يالا
+construction_foreman #2 لا تخليه يسير
+construction_foreman #1 ساعدني
+john_locke Aah! Aah! God! Aah!
+construction_foreman #2 امسكوه على اليمين
+construction_foreman #2 ارميه في السيارة
+john_locke Aah!
+construction_foreman #3 حاسب حاسب
+construction_foreman #2 قفل السيارة
+john_locke Aah! Aah!
+construction_foreman هذا هو الرجل.. اللي بقولكم عليه
+john_locke Aah! God!
+john_locke Where is this? Where am I?
+DOCTOR#unknown#Lost.Season05.Episode07 ضحى
+john_locke Where am I? Where is this?
+DOCTOR#unknown#Lost.Season05.Episode07 جيبوه.. جيبوه لهون
+DOCTOR#unknown#Lost.Season05.Episode07 شوي شوي.. شوي
+construction_foreman اسمع كلام الدكتور
+john_locke Aah!
+john_locke Sir, where am I? Who are you?
+john_locke Where am I? Do you speak English?
+DOCTOR#unknown#Lost.Season05.Episode07 عايشة!
+DOCTOR#unknown#Lost.Season05.Episode07 You swallow.
+DOCTOR#unknown#Lost.Season05.Episode07 Swallow.
+construction_foreman رجله.. رجله مكسرة
+DOCTOR#unknown#Lost.Season05.Episode07 Don't talk!
+DOCTOR#unknown#Lost.Season05.Episode07 Ayesha!
+nurse عايشة، الدكتور مستعجل
+nurse (responding to Ayesha) آه
+AYESHA#unknown#Lost.Season05.Episode07 حاضر
+john_locke Where are we?
+DOCTOR#unknown#Lost.Season05.Episode07 شدو، شدو.. شدوه
+john_locke Oh—what? What? What? What—
+DOCTOR#unknown#Lost.Season05.Episode07 You bite. Bite!
+DOCTOR#unknown#Lost.Season05.Episode07 عد لثلاثة
+DOCTOR#unknown#Lost.Season05.Episode07 ثلاثة
+nurse شاكي من رجله
+construction_foreman John? John, wake up.
+john_locke Mm.
+construction_foreman You had a compound fracture. The doctors here did their best, but I had a specialist flown in to reset your leg properly.
+charles_widmore It's nice to see you again, John.
+john_locke Do I know you?
+charles_widmore Yes. I understand your being confused. Imagine how I feel. I met you when I was 17. And now all these years later, here we are. You look exactly the same.
+john_locke Who are you?
+charles_widmore My name is Charles Widmore.
+charles_widmore Tell me, John. How long has it been for you since... we first met, since you walked into our camp and you spoke to Richard?
+john_locke Four days.
+charles_widmore That's incredible.
+john_locke The camera in the desert—that was yours?
+charles_widmore Yeah.
+john_locke How did you know I'd be there?
+charles_widmore Well, that's the exit. I was afraid Benjamin might fool you into leaving the Island, as he did with me. I was their leader.
+john_locke The Others?
+charles_widmore They're not the "Others" to me. They're my people. We protected the Island peacefully for more than three decades. But then I was exiled... by him... just as you were.
+john_locke No. Ben wasn't even there when I left. He was already gone. I—I... I wasn't exiled. I... chose to leave.
+charles_widmore Why... would you do that, John? You've come to bring them back... the ones who left.
+john_locke No.
+charles_widmore I understand you lying to me. I do. But there's something you should know. All your friends who left the Island? They've been back three years.
+john_locke Three years?
+charles_widmore They've gone back to their normal lives.
+charles_widmore And none of them has spoken a word of truth about where they were.
+john_locke I have to bring them back.
+charles_widmore And I'm gonna do everything in my power to help you do that.
+john_locke Why?
+charles_widmore "Why"?
+john_locke Why would you help me?
+charles_widmore Because there's a war coming, John. And if you're not back on the Island when that happens, the wrong side is going to win.
+john_locke "Jeremy Bentham"?
+charles_widmore He was a British philosopher. Your parents had a sense of humor when they named you, so why can't I? This should be money enough for now. The phone's international. If you need to reach me, for anything, just press 2-3. The folder contains your people's whereabouts, everyone that was on the Island that left.
+john_locke You've been watching them?
+charles_widmore I'm deeply invested in the future of the Island, John. So, yes, I've been watching them. I wouldn't mention I'm involved in this. I can't imagine what they think of me, having listened to Benjamin's lies.
+john_locke How do I know that you're not the one who's lying?
+charles_widmore I haven't tried to kill you. Would you say the same for him?
+charles_widmore You still don't trust me.
+john_locke You sent a team of killers and a boatload of C-4 to the Island. That... doesn't exactly scream "trust."
+charles_widmore I needed Linus removed... so it could be your time.
+john_locke Right.
+charles_widmore The Island needs you, John. It has for a long time.
+john_locke What makes you think I'm so special?
+charles_widmore Because you are.
+charles_widmore Ah. Your chariot has arrived.
+john_locke He said I would die.
+charles_widmore I beg your pardon?
+john_locke Richard Alpert. He said the only way to get them to come back was if I died.
+charles_widmore I don't know why he said that, but I'm not gonna let that happen. This is Matthew Abaddon. He'll take you anywhere you need to go, protect you from whomever intends to do you harm.
+matthew_abaddon Mr. Locke.
+charles_widmore Good luck, John, and godspeed.
+matthew_abaddon Anything you need, Mr. Locke, you just let me know. Anything. Anybody from your past you want me to look up for you? The whole world thinks you're dead, Mr. Locke. There must be somebody who'd be happy to see you.
+john_locke Please don't talk to me.
+matthew_abaddon You got it.
+matthew_abaddon But we're almost at the airport, so you're gonna at least have to tell me where we're going first.
+john_locke Santo Domingo.
+WOMAN#unknown#Lost.Season05.Episode07 Andale!
+sayid_jarrah Espera. Necesito terminar este techo. Paseme otra viga.
+construction_foreman Hey, Sayid! Mira! Tienes un visitante.
+sayid_jarrah I don't believe this. You actually want me to go back?
+john_locke I—I know how it sounds, Sayid, but you have to trust me. This is the only way to save them.
+sayid_jarrah I'm not going back. For two years, I was manipulated into thinking I was protecting everyone on the Island.
+john_locke Who was manipulating you?
+sayid_jarrah Ben. So who is manipulating you, John?
+john_locke This is coming from me, nobody else. I know you, Sayid. And deep down in your heart, you know we never should've left the Island.
+sayid_jarrah It's only because I left the Island that I was finally able to marry the woman I loved. We spent nine months together—the best nine months of my life, John. That's what I know in my heart.
+john_locke Where is she now?
+sayid_jarrah She was murdered.
+john_locke Uh... I'm sorry.
+sayid_jarrah Why do you really need to go back? Is it just because you have nowhere else to go?
+john_locke If you change your mind, I'll be staying under the name "Jeremy Bentham" in L.A. at the Westerfield Hotel.
+sayid_jarrah And if you change your mind, you're welcome to come back here and do some real good. Good-bye, John.
+john_locke You asked if there was someone you could look up for me.
+matthew_abaddon Yes, I did.
+john_locke Her name is Helen—Helen Norwood—and she was living in Los Angeles.
+matthew_abaddon She an old girlfriend of yours?
+john_locke Help me get out of the car.
+matthew_abaddon So that's Michael Dawson's son, huh?
+john_locke Yeah.
+matthew_abaddon Boy's gotten big.
+walt_lloyd Um, I'm—I'm-a be right back. I'm-a go.
+BOY#unknown#Lost.Season05.Episode07 All right.
+walt_lloyd I'm-a be right back.
+BOY#unknown#Lost.Season05.Episode07 All right.
+matthew_abaddon I'll give you two some privacy.
+walt_lloyd Hey, John.
+john_locke Hi, Walt.
+walt_lloyd What happened?
+john_locke I hurt my leg. You don't seem surprised to see me.
+walt_lloyd I've been having dreams about you. You were on the Island, wearing a suit, and there are people all around you. They wanted to hurt you, John.
+john_locke Good thing they're just dreams.
+walt_lloyd Is my dad... is he back on the Island? I haven't talked to him in three years. I figured he must've gone back.
+john_locke Um, last I heard, your dad was on a freighter near the Island.
+walt_lloyd So why'd you come to see me?
+john_locke I just wanted to make sure you were okay.
+walt_lloyd Yeah. I'm doing pretty good. Well, I gotta go. It was good seeing you, John.
+john_locke Yeah. Take care.
+matthew_abaddon I take it you didn't invite him along.
+john_locke Boy's been through enough.
+matthew_abaddon That's 0-for-2, Mr. Locke. Maybe I misunderstood, but I thought you had to bring everyone back.
+john_locke I only need to convince one. And if I can do that, the rest will come. And maybe I was mistaken, but I thought you were my driver.
+john_locke Hello, Hugo.
+hugo_reyes So you didn't make it, huh?
+john_locke Pardon me?
+hugo_reyes You didn't make it. It's cool. No biggie. You're not the first person to visit me, you know. But what's up with the wheelchair?
+john_locke Uh, I broke my leg falling down a hole.
+hugo_reyes Oh. Is that how you died?
+john_locke Hugo, I'm not dead.
+hugo_reyes Sure you're not.
+john_locke No, I—I promise you, I'm very much alive.
+hugo_reyes Hey, Susie, am I talking to a dude in a wheelchair right now?
+SUSIE#unknown#Lost.Season05.Episode07 Yep.
+hugo_reyes Whoa, dude. What are you doing here?
+john_locke I need you to come back to the Island with me.
+hugo_reyes Wait. What?
+john_locke And not just you, but everybody who left.
+hugo_reyes You mean Jack and Kate—
+john_locke Everybody.
+hugo_reyes I'm sorry, dude. I don't think that's gonna happen. Jack's a doctor now, and—and Sun's, like, got her baby, and Kate's got Aaron.
+hugo_reyes Dude, be cool. Don't look, but we're being watched.
+hugo_reyes Dude!
+john_locke Oh, don't worry. He's with me.
+hugo_reyes What?!
+john_locke He's just driving me around. He's okay.
+hugo_reyes That dude is far from okay. When I first got locked up in here, he showed up, claiming that he worked for Oceanic Air. He's evil! You should not be trusting that guy.
+john_locke Please, just listen to me.
+hugo_reyes No, no, no! I'm not listening to you!
+john_locke Hugo, please, listen.
+hugo_reyes La, la, la, la, la. I wanna go back in. I wanna go back in.
+john_locke Hugo—
+hugo_reyes No, I'm not going anywhere with you! Go away! Bye! Get out of here!
+MALENURSE#unknown#Lost.Season05.Episode07 You're safe.
+matthew_abaddon That's three visits now.
+matthew_abaddon You may wanna step up your game, Mr. Locke, or we're all in serious trouble.
+john_locke What exactly is it that you do for Mr. Widmore, Matthew?
+matthew_abaddon You're ready to talk about it now, huh? John... you're not really gonna pretend you don't remember that I was an orderly in the hospital right after your accident? That I was the one who told you to go on your walkabout? The same walkabout that put you on the plane that crashed on that Island?
+john_locke No. I remember.
+matthew_abaddon I help people get to where they need to get to, John. That's what I do for Mr. Widmore.
+kate_austen The answer is no.
+john_locke Kate, I don't think you understand—
+kate_austen No, you made yourself perfectly clear. Everyone on the Island is gonna die if I don't go back. And the answer is no.
+john_locke Why? Don't you care about them?
+kate_austen Have you ever been in love, John?
+john_locke What?
+kate_austen I think about you sometimes. I think about how desperate you were to stay on that Island. And then I realized... it was all because you didn't love anybody.
+john_locke That's not true. I loved someone... once. Her name was Helen.
+kate_austen What happened?
+john_locke Well... it—it... it just didn't work out.
+kate_austen Why not, John?
+john_locke I was angry. I was... ob-obsessed.
+kate_austen And look how far you've come.
+matthew_abaddon Let me help you, Mr. Locke.
+john_locke Did you find her?
+matthew_abaddon Find who?
+john_locke Helen Norwood—the woman I asked you about.
+matthew_abaddon No, I didn't. I'm sorry. Three years is a long time. It's possible she got married, changed her name. Maybe she moved out of state.
+john_locke You found everyone else! All of them. Sayid was in the middle of nowhere, but you can't find Helen because she moved? Your job is to get people to where they need to get to? Well, I need to get to her.
+john_locke What happened to her?
+matthew_abaddon She died of a brain aneurysm. I'm very sorry, Mr. Locke.
+john_locke She loved me. If I had just... we could've been together.
+matthew_abaddon Maybe you could have. That wouldn't change anything. She'd still be gone.
+john_locke Would she?
+matthew_abaddon Helen is where she's supposed to be. As sad as it is, her path led here. And your path, no matter what you did or what you do, your path leads back to the Island.
+john_locke You say that like it's all det—inevitable.
+matthew_abaddon Mr. Widmore told me Richard Alpert said that you were going to die. So you tell me, John. Is that inevitable, or is it a choice?
+john_locke What, you think I wanna die? How is that... how could you possibly think that's a choice?
+matthew_abaddon Hey... I'm just your driver.
+john_locke Matthew!
+john_locke Uhh! Aah! Aah!
+john_locke Oh!
+dr_jack_shephard What are you doing here?
+john_locke Jack, how did you find me?
+dr_jack_shephard You were in a car accident and you were brought into my hospital. What are you doing here?
+john_locke We have to go back.
+dr_jack_shephard Of course. Of course we do.
+john_locke Jack, the people I left behind need our help. We're supposed to go back—
+dr_jack_shephard —because it's our destiny? How many times are you gonna say that to me, John?
+john_locke How can you not see it? Of all the hospitals they could've brought me to, I end up here. You don't think that's fate?
+dr_jack_shephard Your car accident was on the west side of Los Angeles. You being brought into my hospital isn't fate, John. It's probability.
+john_locke You don't understand. It wasn't an accident. Someone is trying to kill me.
+dr_jack_shephard Why? Why would someone try to kill you?
+john_locke Because they don't want me to succeed. They wanna stop me. They don't want me to get back because I'm important.
+dr_jack_shephard Have you ever stopped to think that these delusions that you're special aren't real? That maybe there's nothing important about you at all? Maybe you are just a lonely old man that crashed on an Island. That's it. Good-bye, John.
+john_locke Your father says hello.
+dr_jack_shephard What?
+john_locke A man—the man who told me to move the Island—the man who told me how to bring you all back—he said to tell his son hello. It couldn't have been Sayid's father, and it wasn't Hurley's, so that leaves you. He said his name was Christian.
+dr_jack_shephard My... my father is dead.
+john_locke Well, he didn't look dead to me.
+dr_jack_shephard He died in Australia three years ago. I put him in the coffin! He's dead.
+john_locke Jack, please, you have to come back! You're the only one who can convince the rest of 'em! You have to help me! You're supposed to help me!
+dr_jack_shephard John, it's over! It's done. We left, and we were never important. So you... you leave me alone. And you leave the rest of 'em alone!
+construction_foreman John? John?
+ben_linus John, what are you doing?
+ben_linus Wait, please. John, stop!
+john_locke H—how did you find me?
+ben_linus I have a man watching Sayid. I'm watching all of them, keeping them safe. When you turned up, he called me.
+john_locke Who... who...W—w—what are you doing here?
+ben_linus John, just calm down.
+john_locke What do you want from me?!
+ben_linus Please, let me help—
+john_locke Answer the question!
+ben_linus I'm trying to protect you.
+john_locke Protect me? You shot him. You killed Abaddon.
+ben_linus Yes. Yes, I did. But it was only a matter of time before he tried to kill you. I was just trying to get to you, but you drove off and crashed.
+john_locke Why? Why would—
+ben_linus He was working for Charles Widmore. He's extremely dangerous.
+john_locke No! Widmore came to me. He saved me.
+ben_linus No, John, he used you. He waited till you showed up so that you could help him get to the Island. Charles Widmore is the reason I moved the Island! So that he could never find it again, to keep him away so that you could lead. You can't do this. If anything happens to you... John, you have no idea how important you are. Let me help you.
+john_locke There is no helping me. I'm... I'm a failure.
+ben_linus No, John, you're not.
+john_locke I am! I couldn't get any of them. I couldn't get a single one of them to come back with me. I can't lead anyone.
+ben_linus Jack booked a ticket.
+john_locke W—what?
+ben_linus A plane ticket from Los Angeles to Sydney, tonight. Return trip first thing in the morning. Whatever you said to him, John—it worked. And if you got Jack, you can get the rest of them.
+ben_linus John... you can't die. You've got too much work to do. We've gotta get you back to that Island so that you can do it.
+ben_linus Please, John. Come on.
+ben_linus Come down.
+ben_linus I know we can do this, John.
+ben_linus You haven't even been to Sun yet. Let's start with her.
+john_locke No. I... I promised Jin that I wouldn't bring her back.
+ben_linus Jin is alive?
+john_locke Yeah. Yeah. But he didn't want her to know. He—he wanted me to tell her that his... that his body washed up on the beach. And, uh, he gave me his wedding ring to prove it.
+ben_linus All right.
+ben_linus A promise is a promise.
+john_locke Thank you.
+ben_linus You're welcome. Come on.
+ben_linus Let's go. I know we can do this.
+ben_linus Once we can get them all in the same place... I don't know where we go from there, but we'll figure something out.
+john_locke I know where we go. There's a woman here in Los Angeles.
+ben_linus A woman?
+john_locke Yeah, I don't know exactly where, but she shouldn't be that hard to find. Her name is—is, uh... Eloise Hawking.
+ben_linus Eloise Hawking? You sure?
+john_locke Yeah, yeah. Yeah, why? Do you know her?
+ben_linus Yes, John. I know her.
+john_locke Aah!
+ben_linus I'll miss you, John. I really will.
+john_locke That symbol—it belongs to an organization called the DHARMA Initiative. They were conducting some experiments here a while back.
+caesar How do you know that?
+john_locke I spent more than a hundred days on this Island. I know a lot.
+caesar A hundred days? So when we crashed, you were already here.
+john_locke No. No, I, uh... I left.
+caesar How long ago did you leave?
+john_locke The timing would just confuse ya.
+caesar Well... how did you get back?
+john_locke To be honest, that part's a bit of a mystery to me.
+caesar Okay, John Locke... I have a mystery, too. Maybe you can help me with it.
+john_locke I'm happy to try.
+caesar On the plane, I was sitting across the aisle from that really big guy with curly hair. When the plane started shaking—really shaking—there was a big noise and a bright light. And this really big guy with curly hair... was gone, man. I mean, literally gone. And it wasn't only him. Some of us saw it happen to other people, too. So, Mr. John Locke, do you have an idea about what happened?
+john_locke I think... I might know how I came to be here. But that would involve me finding my friends. Do you have a—a—a passenger list?
+caesar No. The pilot took it when he ran off.
+john_locke And everyone's accounted for—all the people? O—other than the—the ones who disappeared.
+caesar Yeah, yeah, except for the people who got hurt.
+john_locke "The people who got hurt"?
+caesar You know him?
+john_locke Yeah.
+john_locke He's the man who killed me.
