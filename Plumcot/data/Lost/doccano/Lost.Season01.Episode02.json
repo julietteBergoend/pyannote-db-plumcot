@@ -1,0 +1,343 @@
+{"id": 33791, "text": "charlie_pace Anything ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33792, "text": "dr_jack_shephard You keep asking if there 's anything .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "charlie_pace"]]}
+{"id": 33793, "text": "charlie_pace Pardon me for appearing desperate , but before the pilot was ripped from the cockpit , he did say that no - one 's going to find us unless we … get that transceiver working . So ... is there anything ?", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "charlie_pace"], [100, 102, "UNKNOWN"], [142, 144, "multiple_persons"], [152, 154, "multiple_persons"]]}
+{"id": 33794, "text": "dr_jack_shephard No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33795, "text": "charlie_pace Okay .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33796, "text": "kate_austen What were you doing ? In the bathroom ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "charlie_pace"]]}
+{"id": 33797, "text": "charlie_pace I thought you could tell . I was getting sick . Puking . My one tangible contribution to the trek .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "charlie_pace"], [23, 26, "kate_austen"], [40, 41, "charlie_pace"], [70, 72, "charlie_pace"]]}
+{"id": 33798, "text": "kate_austen No . I 'm glad you came . Charlie .", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "kate_austen"], [27, 30, "charlie_pace"], [38, 45, "charlie_pace"]]}
+{"id": 33799, "text": "charlie_pace Every trek needs a coward .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33800, "text": "kate_austen You 're not a coward .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "charlie_pace"]]}
+{"id": 33801, "text": "cindy_chandler You all right , sir ?", "meta": {}, "annotation_approver": null, "labels": [[31, 34, "charlie_pace"], [15, 18, "charlie_pace"]]}
+{"id": 33802, "text": "charlie_pace I 'm good . Thanks .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "charlie_pace"]]}
+{"id": 33803, "text": "cindy_chandler Can I get you a water , or … .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "cindy_chandler"], [25, 28, "charlie_pace"]]}
+{"id": 33804, "text": "charlie_pace I 'm fine . Thank you . Please ?", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "charlie_pace"]]}
+{"id": 33805, "text": "cindy_chandler All right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33806, "text": "charlie_pace Excuse me .", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "charlie_pace"]]}
+{"id": 33807, "text": "rose_nadler Guess he really had to go .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "charlie_pace"]]}
+{"id": 33808, "text": "cindy_chandler Sir , excuse me ! Sir , excuse me !", "meta": {}, "annotation_approver": null, "labels": [[28, 30, "cindy_chandler"], [46, 48, "cindy_chandler"], [15, 18, "charlie_pace"], [33, 36, "charlie_pace"]]}
+{"id": 33809, "text": "shannon_rutherford Excuse me ?", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "shannon_rutherford"]]}
+{"id": 33810, "text": "cindy_chandler Ladies and gentlemen , the Captain has turned on the \"\"\"\" fasten seatbelt \"\"\"\" sign . Please return to your seats and fasten your seatbelts .", "meta": {}, "annotation_approver": null, "labels": [[118, 122, "multiple_persons"], [140, 144, "multiple_persons"]]}
+{"id": 33811, "text": "JD Sir , are you all right ?", "meta": {}, "annotation_approver": null, "labels": [[3, 6, "charlie_pace"], [13, 16, "charlie_pace"]]}
+{"id": 33812, "text": "charlie_pace Just a minute . Just a minute .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33813, "text": "JD I 'm gon na have to ask that you open the door , please .", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "JD"], [32, 35, "charlie_pace"]]}
+{"id": 33814, "text": "JD Open the door now , sir . Sir !", "meta": {}, "annotation_approver": null, "labels": [[29, 32, "charlie_pace"]]}
+{"id": 33815, "text": "boone_carlyle Hey . We 're going through some clothes . Sorting them . I see you found your bag . Come on , you want to give us a hand ?", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "multiple_persons"], [71, 72, "boone_carlyle"], [125, 127, "multiple_persons"], [77, 80, "shannon_rutherford"], [87, 91, "shannon_rutherford"], [108, 111, "shannon_rutherford"]]}
+{"id": 33816, "text": "shannon_rutherford Not really . You 're wasting your time . They 're coming .", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "boone_carlyle"], [48, 52, "boone_carlyle"]]}
+{"id": 33817, "text": "claire_littleton Is that your boyfriend ?", "meta": {}, "annotation_approver": null, "labels": [[25, 29, "shannon_rutherford"]]}
+{"id": 33818, "text": "shannon_rutherford My brother . Boone . God 's friggin ' gift to humanity .", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "shannon_rutherford"], [32, 37, "boone_carlyle"], [40, 43, "UNKNOWN"]]}
+{"id": 33819, "text": "claire_littleton I used to have a stomach .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "claire_littleton"]]}
+{"id": 33820, "text": "shannon_rutherford You know what it is ?", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "claire_littleton"]]}
+{"id": 33821, "text": "claire_littleton Not yet . I have n't felt the baby move since yesterday .", "meta": {}, "annotation_approver": null, "labels": [[27, 28, "claire_littleton"]]}
+{"id": 33822, "text": "michael_dawson Uh , excuse me . Hey , uh … have you , uh ... have you seen my boy ?", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "michael_dawson"], [75, 77, "michael_dawson"], [66, 69, "sunhwa_kwon"]]}
+{"id": 33823, "text": "sunhwa_kwon 죄송해요. 저 영어 못 해요. 아 … 저 , 제가 영어를 못 해요.", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33824, "text": "jinsoo_kwon 윗 단추가 열렸네. 채워라. 빨리 !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33825, "text": "michael_dawson I 'm sorry . Walt ! Walt ?", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "michael_dawson"], [28, 32, "walt_lloyd"], [35, 39, "walt_lloyd"]]}
+{"id": 33826, "text": "walt_lloyd Vincent ! Vincent ! Come here , boy !", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "vincent_the_dog"], [21, 28, "vincent_the_dog"]]}
+{"id": 33827, "text": "michael_dawson Hey ! What did I tell you ? After everything that 's happened !", "meta": {}, "annotation_approver": null, "labels": [[30, 31, "michael_dawson"], [37, 40, "walt_lloyd"]]}
+{"id": 33828, "text": "walt_lloyd I thought that maybe Vincent would be around !", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "walt_lloyd"], [32, 39, "vincent_the_dog"]]}
+{"id": 33829, "text": "michael_dawson I told you to stay on the beach !", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "michael_dawson"], [22, 25, "walt_lloyd"]]}
+{"id": 33830, "text": "walt_lloyd This is so close to the beach , I thought this would be okay … .", "meta": {}, "annotation_approver": null, "labels": [[43, 44, "walt_lloyd"]]}
+{"id": 33831, "text": "michael_dawson Do n't do that . You listen to me . I mean what I say . You understand ?", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "walt_lloyd"], [46, 48, "michael_dawson"], [51, 52, "michael_dawson"], [63, 64, "michael_dawson"], [71, 74, "walt_lloyd"]]}
+{"id": 33832, "text": "michael_dawson What is this ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33833, "text": "walt_lloyd I just found it .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "walt_lloyd"]]}
+{"id": 33834, "text": "michael_dawson Come here .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33835, "text": "michael_dawson Hey guys . Come on , man . Hey .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33836, "text": "dr_jack_shephard Hey . Break it up . Break it up ! Come on ! That 's it ! It 's over ! That 's it !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33837, "text": "james_ford Son of a bitch !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33838, "text": "sayid_jarrah I 'm sick of this redneck !", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"]]}
+{"id": 33839, "text": "james_ford You want some more of me , boy ?", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"], [33, 35, "james_ford"]]}
+{"id": 33840, "text": "sayid_jarrah Tell everyone what you told me ! Tell them that I crashed the plane ! Go on ! Tell them I made the plane crash !", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "james_ford"], [41, 43, "sayid_jarrah"], [61, 62, "sayid_jarrah"], [101, 102, "sayid_jarrah"]]}
+{"id": 33841, "text": "james_ford The shoe fits , buddy !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33842, "text": "dr_jack_shephard What is going on ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33843, "text": "sayid_jarrah Ibn Al - Kalb !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33844, "text": "dr_jack_shephard What 's going on ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33845, "text": "michael_dawson Look , my kid found these in the jungle .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "michael_dawson"]]}
+{"id": 33846, "text": "james_ford And this guy was sitting in the back row of business class , the whole flight , never got up . Hands folded underneath the blanket .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33847, "text": "sayid_jarrah Oh .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33848, "text": "james_ford And for some reason - just pointin ' this out - the guy sittin ' next to him did n't make it .", "meta": {}, "annotation_approver": null, "labels": [[84, 87, "sayid_jarrah"]]}
+{"id": 33849, "text": "sayid_jarrah Thank you so much for observing my behavior .", "meta": {}, "annotation_approver": null, "labels": [[45, 47, "sayid_jarrah"]]}
+{"id": 33850, "text": "james_ford You do n't think I saw them pull you out of line before we boarded ?", "meta": {}, "annotation_approver": null, "labels": [[28, 29, "james_ford"], [67, 69, "multiple_persons"], [11, 14, "sayid_jarrah"], [44, 47, "sayid_jarrah"]]}
+{"id": 33851, "text": "james_ford Come on , bring it !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33852, "text": "kate_austen Stop !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33853, "text": "kate_austen We found the transceiver , but it 's not working . Can anybody help ?", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 33854, "text": "sayid_jarrah Yes . I might be able to .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "sayid_jarrah"]]}
+{"id": 33855, "text": "james_ford Oh great . Perfect ! Let 's trust this guy !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33856, "text": "hugo_reyes Hey ! We 're all this together , man . Let 's treat each other with a little respect .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "multiple_persons"]]}
+{"id": 33857, "text": "james_ford Shut up , Lardo .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33858, "text": "dr_jack_shephard Hey ! Give it a break .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33859, "text": "james_ford Whatever you say , doc . You 're the hero .", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "dr_jack_shephard"], [36, 39, "dr_jack_shephard"], [30, 33, "dr_jack_shephard"]]}
+{"id": 33860, "text": "boone_carlyle You guys found the cockpit ? Any survivors ?", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "multiple_persons"], [18, 22, "multiple_persons"]]}
+{"id": 33861, "text": "dr_jack_shephard No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33862, "text": "sayid_jarrah It 's dual band , military spec . Chances are , the battery is good , but - the radio is dead .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33863, "text": "kate_austen Can you fix it ?", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "sayid_jarrah"]]}
+{"id": 33864, "text": "sayid_jarrah I need some time .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"]]}
+{"id": 33865, "text": "rose_nadler Doctor , the ... man with the shrapnel , I ... I think you should take a look at him .", "meta": {}, "annotation_approver": null, "labels": [[53, 54, "rose_nadler"], [59, 60, "rose_nadler"], [93, 96, "UNKNOWN"], [12, 18, "dr_jack_shephard"], [67, 70, "dr_jack_shephard"]]}
+{"id": 33866, "text": "hugo_reyes Tsss . Chain - smoking jackass ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33867, "text": "sayid_jarrah Some people have problems .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33868, "text": "hugo_reyes Tsss . Some people have problems ? Us . Him . You 're okay . I like you .", "meta": {}, "annotation_approver": null, "labels": [[46, 48, "multiple_persons"], [72, 73, "hugo_reyes"], [51, 54, "james_ford"], [57, 60, "sayid_jarrah"], [79, 82, "sayid_jarrah"]]}
+{"id": 33869, "text": "sayid_jarrah You 're okay , too .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "hugo_reyes"]]}
+{"id": 33870, "text": "hugo_reyes Hurley . Uh , just … .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33871, "text": "sayid_jarrah Sayid .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "sayid_jarrah"]]}
+{"id": 33872, "text": "hugo_reyes How do you know to do all that ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "sayid_jarrah"]]}
+{"id": 33873, "text": "sayid_jarrah I was a military communications officer .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"]]}
+{"id": 33874, "text": "hugo_reyes Oh yeah ? You ever see battle ?", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "sayid_jarrah"]]}
+{"id": 33875, "text": "sayid_jarrah I fought in the Gulf War .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"]]}
+{"id": 33876, "text": "hugo_reyes No way ! I got a buddy who fought over there . He was in the 104th airborne . What were you - Air Force ... Army ?", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "hugo_reyes"], [58, 60, "UNKNOWN"], [99, 102, "sayid_jarrah"]]}
+{"id": 33877, "text": "sayid_jarrah The Republican Guard .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33878, "text": "sunhwa_kwon 실례합니다. 준비 다 됐나 봐요. 당신을 찾아요.", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33879, "text": "kate_austen Is it working ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33880, "text": "sayid_jarrah Seems to be . Except we 're not picking up a signal .", "meta": {}, "annotation_approver": null, "labels": [[34, 36, "multiple_persons"]]}
+{"id": 33881, "text": "kate_austen Why do we need to pick up a signal ? Are n't we trying to send one ?", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "multiple_persons"], [57, 59, "multiple_persons"]]}
+{"id": 33882, "text": "sayid_jarrah Yes , but what you want to see here is little bars . The bars would show the radio is getting reception .", "meta": {}, "annotation_approver": null, "labels": [[28, 31, "kate_austen"]]}
+{"id": 33883, "text": "kate_austen We need the bars .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 33884, "text": "sayid_jarrah We could broadcast blind ... . Hope that someone — maybe a ship somewhere — picks up our distress call . But that could be a waste of the battery , which might not last that long . There is one thing we could try ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "multiple_persons"], [98, 101, "multiple_persons"], [213, 215, "multiple_persons"]]}
+{"id": 33885, "text": "kate_austen What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33886, "text": "sayid_jarrah Seeing if we can get a signal from high ground .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "multiple_persons"]]}
+{"id": 33887, "text": "kate_austen How high ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33888, "text": "kate_austen How is he ? Can you do anything ?", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "UNKNOWN"], [28, 31, "dr_jack_shephard"]]}
+{"id": 33889, "text": "dr_jack_shephard Pull out the shrapnel .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33890, "text": "kate_austen But you said yesterday that if you took it out ... .", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "dr_jack_shephard"], [43, 46, "dr_jack_shephard"]]}
+{"id": 33891, "text": "dr_jack_shephard I know . But that was yesterday . I was hoping he 'd be at a hospital by now . If I leave him like this , he 'll be dead within a day . If I open him up ... if I can control the bleeding and if he does n't go into sepsis and if I can find some antibiotics ... he might be all right .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "dr_jack_shephard"], [51, 52, "dr_jack_shephard"], [64, 66, "UNKNOWN"], [99, 100, "dr_jack_shephard"], [107, 110, "UNKNOWN"], [123, 125, "UNKNOWN"], [156, 157, "dr_jack_shephard"], [163, 166, "UNKNOWN"], [177, 178, "dr_jack_shephard"], [211, 213, "UNKNOWN"], [245, 246, "dr_jack_shephard"], [277, 279, "UNKNOWN"]]}
+{"id": 33892, "text": "kate_austen I 'm going on a hike .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"]]}
+{"id": 33893, "text": "dr_jack_shephard Sorry ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33894, "text": "kate_austen Sayid fixed the transceiver , but we ca n't use it . Not from here .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sayid_jarrah"], [46, 48, "multiple_persons"]]}
+{"id": 33895, "text": "dr_jack_shephard Kate , wait a minute .", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "kate_austen"]]}
+{"id": 33896, "text": "kate_austen You 're the one who said that we had to send out a signal .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "dr_jack_shephard"], [42, 44, "multiple_persons"]]}
+{"id": 33897, "text": "dr_jack_shephard Look , you saw what that thing did to the pilot .", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "kate_austen"]]}
+{"id": 33898, "text": "kate_austen Yeah , I did . What makes you think we 're any safer here than we are in the jungle ?", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "kate_austen"], [38, 41, "dr_jack_shephard"], [48, 50, "multiple_persons"], [75, 77, "multiple_persons"]]}
+{"id": 33899, "text": "dr_jack_shephard Wait for me . I do n't know how long this will be ... .", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "dr_jack_shephard"], [31, 32, "dr_jack_shephard"]]}
+{"id": 33900, "text": "kate_austen Sayid said the batteries wo n't last .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sayid_jarrah"]]}
+{"id": 33901, "text": "dr_jack_shephard All right . If you see , or hear , anything ... Anything . Run .", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "kate_austen"]]}
+{"id": 33902, "text": "hugo_reyes What 's that ? What , that ? What , eat that ? Dude . Dude . I 'm ... starving ... But , I 'm nowhere near that hungry . No . No . No , thank you ! No way , no .", "meta": {}, "annotation_approver": null, "labels": [[72, 73, "hugo_reyes"], [100, 101, "hugo_reyes"]]}
+{"id": 33903, "text": "michael_dawson The comic 's in Spanish . You ... read Spanish ?", "meta": {}, "annotation_approver": null, "labels": [[41, 44, "walt_lloyd"]]}
+{"id": 33904, "text": "walt_lloyd No . I found it .", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "walt_lloyd"]]}
+{"id": 33905, "text": "michael_dawson Tell you what We get home ... I get you another dog .", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "walt_lloyd"], [29, 31, "multiple_persons"], [45, 46, "michael_dawson"], [51, 54, "walt_lloyd"]]}
+{"id": 33906, "text": "dr_jack_shephard Hey ! I need your help .", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "dr_jack_shephard"], [30, 34, "hugo_reyes"]]}
+{"id": 33907, "text": "hugo_reyes Okay .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33908, "text": "dr_jack_shephard I need you to help me go through the luggage . I need any kind of prescription medications you can find . Especially drugs that end in -mycin and -cillin . Those are antibiotics .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "dr_jack_shephard"], [24, 27, "hugo_reyes"], [36, 38, "dr_jack_shephard"], [64, 65, "dr_jack_shephard"], [108, 111, "hugo_reyes"]]}
+{"id": 33909, "text": "hugo_reyes What 's this for ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33910, "text": "boone_carlyle What are you doing ?", "meta": {}, "annotation_approver": null, "labels": [[23, 26, "shannon_rutherford"]]}
+{"id": 33911, "text": "shannon_rutherford I think I was mean to him .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"], [27, 28, "shannon_rutherford"], [41, 44, "UNKNOWN"]]}
+{"id": 33912, "text": "boone_carlyle What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33913, "text": "shannon_rutherford Is n't that the guy from the gate ? He would n't let us have our seats in first class . He saved our lives .", "meta": {}, "annotation_approver": null, "labels": [[55, 57, "UNKNOWN"], [72, 74, "multiple_persons"], [80, 83, "multiple_persons"], [107, 109, "UNKNOWN"], [116, 119, "multiple_persons"]]}
+{"id": 33914, "text": "boone_carlyle Come on , Shannon , we 're trying to clear some of the wreckage . You should help out . You 're just being worthless over here .", "meta": {}, "annotation_approver": null, "labels": [[24, 31, "shannon_rutherford"], [34, 36, "multiple_persons"], [80, 83, "shannon_rutherford"], [102, 105, "shannon_rutherford"]]}
+{"id": 33915, "text": "shannon_rutherford I 'm being what ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"]]}
+{"id": 33916, "text": "boone_carlyle What do you want me to say ? You 're sitting on your ass staring at bodies .", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "shannon_rutherford"], [31, 33, "boone_carlyle"], [43, 46, "shannon_rutherford"], [62, 66, "shannon_rutherford"]]}
+{"id": 33917, "text": "shannon_rutherford I 've just been through a trauma here , okay ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"]]}
+{"id": 33918, "text": "boone_carlyle We 've all been through a trauma . The only difference is , since the crash , you 've actually given yourself a pedicure .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"], [92, 95, "shannon_rutherford"], [115, 123, "shannon_rutherford"]]}
+{"id": 33919, "text": "shannon_rutherford You know what ? It is so easy to make fun of me , and you 're good at it . I get it .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "boone_carlyle"], [64, 66, "shannon_rutherford"], [73, 76, "boone_carlyle"], [94, 95, "shannon_rutherford"]]}
+{"id": 33920, "text": "boone_carlyle I wish I did n't have to waste my time making fun of you . I wish I did n't have a reason . Yeah , it is easy , Shannon .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "boone_carlyle"], [21, 22, "boone_carlyle"], [45, 47, "boone_carlyle"], [67, 70, "shannon_rutherford"], [73, 74, "boone_carlyle"], [80, 81, "boone_carlyle"], [126, 133, "shannon_rutherford"]]}
+{"id": 33921, "text": "shannon_rutherford Screw you , you do not have the slightest idea what I am thinking .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "boone_carlyle"], [31, 34, "boone_carlyle"], [71, 72, "shannon_rutherford"]]}
+{"id": 33922, "text": "boone_carlyle I have a much better idea than you think I do .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "boone_carlyle"], [45, 48, "shannon_rutherford"], [55, 56, "boone_carlyle"]]}
+{"id": 33923, "text": "shannon_rutherford No , you do n't !", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "boone_carlyle"]]}
+{"id": 33924, "text": "boone_carlyle Okay , Shannon . Then what are you thinking ?", "meta": {}, "annotation_approver": null, "labels": [[21, 28, "shannon_rutherford"], [45, 48, "shannon_rutherford"]]}
+{"id": 33925, "text": "shannon_rutherford I 'm going with them . On the hike .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"]]}
+{"id": 33926, "text": "boone_carlyle Yeah ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33927, "text": "shannon_rutherford Yup . I 'm going .", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "shannon_rutherford"]]}
+{"id": 33928, "text": "boone_carlyle No , you 're not , Shannon . Shannon !", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "shannon_rutherford"], [33, 40, "shannon_rutherford"], [43, 50, "shannon_rutherford"]]}
+{"id": 33929, "text": "shannon_rutherford I 'd like to come with you .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"], [42, 45, "boone_carlyle"]]}
+{"id": 33930, "text": "boone_carlyle She 's not going . She does n't want to go .", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "shannon_rutherford"], [33, 36, "shannon_rutherford"]]}
+{"id": 33931, "text": "shannon_rutherford The hell I 'm not .", "meta": {}, "annotation_approver": null, "labels": [[28, 29, "shannon_rutherford"]]}
+{"id": 33932, "text": "boone_carlyle It 's what she does . She postures .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "shannon_rutherford"], [36, 39, "shannon_rutherford"]]}
+{"id": 33933, "text": "shannon_rutherford You do n't know what the hell I do !", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "boone_carlyle"], [49, 50, "shannon_rutherford"]]}
+{"id": 33934, "text": "boone_carlyle Makes really bad decisions to upset her family , which , at the moment , is me .", "meta": {}, "annotation_approver": null, "labels": [[90, 92, "boone_carlyle"], [50, 53, "shannon_rutherford"]]}
+{"id": 33935, "text": "shannon_rutherford Shut up , and stop trying to be charming . I 'm coming with you .", "meta": {}, "annotation_approver": null, "labels": [[62, 63, "shannon_rutherford"], [79, 82, "multiple_persons"]]}
+{"id": 33936, "text": "kate_austen I do n't ... know if that 's such a good idea .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"]]}
+{"id": 33937, "text": "shannon_rutherford What are you ? Two years older than me ? Please . You 're going , are n't you ?", "meta": {}, "annotation_approver": null, "labels": [[55, 57, "shannon_rutherford"], [28, 31, "multiple_persons"], [69, 72, "multiple_persons"], [93, 96, "multiple_persons"]]}
+{"id": 33938, "text": "charlie_pace Yeah , are you ?", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "shannon_rutherford"]]}
+{"id": 33939, "text": "shannon_rutherford Yup .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33940, "text": "charlie_pace Yeah , I 'm definitely going .", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "charlie_pace"]]}
+{"id": 33941, "text": "kate_austen Look , everybody can come . But we 're leaving now .", "meta": {}, "annotation_approver": null, "labels": [[44, 46, "multiple_persons"]]}
+{"id": 33942, "text": "charlie_pace You could n't tell from that , but she 's actually really nice .", "meta": {}, "annotation_approver": null, "labels": [[48, 51, "kate_austen"], [13, 16, "multiple_persons"]]}
+{"id": 33943, "text": "kate_austen You decided to join us .", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "multiple_persons"], [12, 15, "james_ford"]]}
+{"id": 33944, "text": "james_ford I 'm a complex guy , sweetheart .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"], [32, 42, "kate_austen"]]}
+{"id": 33945, "text": "michael_dawson What you 're looking for ?", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "dr_jack_shephard"]]}
+{"id": 33946, "text": "dr_jack_shephard Some sort of blade . How 's your son ?", "meta": {}, "annotation_approver": null, "labels": [[45, 49, "michael_dawson"]]}
+{"id": 33947, "text": "michael_dawson Walt ? Yeah , I think he 'll be all right .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "walt_lloyd"], [29, 30, "michael_dawson"], [37, 39, "walt_lloyd"]]}
+{"id": 33948, "text": "dr_jack_shephard How old is he ?", "meta": {}, "annotation_approver": null, "labels": [[28, 30, "walt_lloyd"]]}
+{"id": 33949, "text": "michael_dawson Nine ... Ten — Ten . Walt 's more worried about his dog than anything . The dog was on the plane , so ... Kids , you know .", "meta": {}, "annotation_approver": null, "labels": [[36, 40, "walt_lloyd"], [128, 131, "dr_jack_shephard"], [63, 66, "walt_lloyd"]]}
+{"id": 33950, "text": "dr_jack_shephard Is it a Lab ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33951, "text": "michael_dawson Yeah .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33952, "text": "dr_jack_shephard Yeah ? I saw him yesterday , in the jungle .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "dr_jack_shephard"], [30, 33, "vincent_the_dog"]]}
+{"id": 33953, "text": "michael_dawson What ? Where ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33954, "text": "dr_jack_shephard Over there . Couple hundred yards in or so . He looked good .", "meta": {}, "annotation_approver": null, "labels": [[62, 64, "vincent_the_dog"]]}
+{"id": 33955, "text": "walt_lloyd What is it , like checkers ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33956, "text": "john_locke Not really , it 's a better game than ... checkers . You play checkers with your Pop ?", "meta": {}, "annotation_approver": null, "labels": [[64, 67, "walt_lloyd"], [87, 91, "walt_lloyd"]]}
+{"id": 33957, "text": "walt_lloyd No . I live in Australia with my mom .", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "walt_lloyd"], [41, 43, "walt_lloyd"], [44, 47, "walt_lloyd's_mother"]]}
+{"id": 33958, "text": "john_locke You have no accent .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "walt_lloyd"]]}
+{"id": 33959, "text": "walt_lloyd Yeah , I know . We move a lot . She got sick . She died a couple of weeks ago .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "walt_lloyd"], [27, 29, "multiple_persons"], [43, 46, "walt_lloyd's_mother"], [58, 61, "walt_lloyd's_mother"]]}
+{"id": 33960, "text": "john_locke You 're having a bad month .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "walt_lloyd"]]}
+{"id": 33961, "text": "walt_lloyd I guess .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "walt_lloyd"]]}
+{"id": 33962, "text": "john_locke Backgammon is the oldest game in the world . Archeologists found sets when they excavated the ruins of ancient Mesopotamia . Five thousand years old . That 's older than Jesus Christ .", "meta": {}, "annotation_approver": null, "labels": [[181, 186, "UNKNOWN"], [187, 193, "UNKNOWN"]]}
+{"id": 33963, "text": "walt_lloyd Did they have dice and stuff ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33964, "text": "john_locke Mhhm . But theirs were n't made of plastic . Their dice were made of bones .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33965, "text": "walt_lloyd Cool .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33966, "text": "john_locke Two players . Two sides . One is light ... one is dark . Walt , do you want to know a secret ?", "meta": {}, "annotation_approver": null, "labels": [[68, 72, "walt_lloyd"], [78, 81, "walt_lloyd"]]}
+{"id": 33967, "text": "claire_littleton No . Tha- thank you . No , it 's okay . No , really . Okay . Thanks .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33968, "text": "claire_littleton Oh , gosh . I just felt it . I ju … Come here , feel this . Please . . Please . Please . Do you feel that ? There ! Right there , that 's a kick ! There ! There , right there 's a foot ! Oh no , he 's , wait , he 's moving around . \"\"\"\" He \"\"\"\" . \"\"\"\" He \"\"\"\" . I guess I think you 're a \"\"\"\" he \"\"\"\" .", "meta": {}, "annotation_approver": null, "labels": [[29, 30, "claire_littleton"], [46, 47, "claire_littleton"], [212, 214, "UNKNOWN"], [227, 229, "UNKNOWN"], [254, 256, "UNKNOWN"], [269, 271, "UNKNOWN"], [279, 280, "claire_littleton"], [287, 288, "claire_littleton"], [310, 312, "UNKNOWN"], [109, 112, "UNKNOWN"], [295, 298, "UNKNOWN"]]}
+{"id": 33969, "text": "james_ford Okay ! Wide open space ! You should check the radio , see if we 're good .", "meta": {}, "annotation_approver": null, "labels": [[72, 74, "multiple_persons"], [36, 39, "sayid_jarrah"]]}
+{"id": 33970, "text": "sayid_jarrah We 're not going to have any reception here .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "multiple_persons"]]}
+{"id": 33971, "text": "james_ford Just try it .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33972, "text": "sayid_jarrah I do n't want to waste the batteries .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"]]}
+{"id": 33973, "text": "james_ford I 'm not asking you to keep it on all day .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"], [27, 30, "sayid_jarrah"]]}
+{"id": 33974, "text": "sayid_jarrah We 're still blocked by the mountain .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "multiple_persons"]]}
+{"id": 33975, "text": "james_ford Just check the damn radio !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33976, "text": "sayid_jarrah If I just check .. we might not have any juice left when we get to ... .", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "sayid_jarrah"], [32, 34, "multiple_persons"], [70, 72, "multiple_persons"]]}
+{"id": 33977, "text": "shannon_rutherford My god .", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "shannon_rutherford"]]}
+{"id": 33978, "text": "boone_carlyle What the hell 's that ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33979, "text": "kate_austen Something 's coming .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33980, "text": "charlie_pace It 's coming towards us , I think .", "meta": {}, "annotation_approver": null, "labels": [[34, 36, "multiple_persons"], [39, 40, "charlie_pace"]]}
+{"id": 33981, "text": "kate_austen Come on , let 's move .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33982, "text": "shannon_rutherford I should n't have come . Aah !", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"]]}
+{"id": 33983, "text": "sayid_jarrah Go ! Go !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33984, "text": "kate_austen Sawyer !", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "james_ford"]]}
+{"id": 33985, "text": "sayid_jarrah Let him go !", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "james_ford"]]}
+{"id": 33986, "text": "shannon_rutherford That 's ... that 's a big bear .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33987, "text": "boone_carlyle You think that 's what killed the pilot ?", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "multiple_persons"]]}
+{"id": 33988, "text": "charlie_pace No . No , that 's a tiny , teeny version compared to that .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33989, "text": "kate_austen Guys , this is n't just a ... bear . That 's a polar bear .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33990, "text": "hugo_reyes You sure he 's out ?", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "kate_austen"], [20, 22, "UNKNOWN"]]}
+{"id": 33991, "text": "dr_jack_shephard He 's out .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "UNKNOWN"]]}
+{"id": 33992, "text": "hugo_reyes How do you know he wo n't wake up when you yank that thing out ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "dr_jack_shephard"], [27, 29, "UNKNOWN"], [50, 53, "dr_jack_shephard"]]}
+{"id": 33993, "text": "dr_jack_shephard I do n't .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "dr_jack_shephard"]]}
+{"id": 33994, "text": "hugo_reyes Hey , guy , are you awake ? Yo , there 's a rescue plane ! We 're saved ! Yaaay ! Yeah , he 's out . So — what do you want me ... .", "meta": {}, "annotation_approver": null, "labels": [[70, 72, "multiple_persons"], [100, 102, "UNKNOWN"], [134, 136, "hugo_reyes"], [27, 30, "UNKNOWN"], [125, 128, "dr_jack_shephard"]]}
+{"id": 33995, "text": "dr_jack_shephard Look , it 's unlikely that he 'll regain consciousness . But the pain might bring him around . And if it does , I need you to hold him down .", "meta": {}, "annotation_approver": null, "labels": [[44, 46, "UNKNOWN"], [99, 102, "UNKNOWN"], [129, 130, "dr_jack_shephard"], [136, 139, "hugo_reyes"], [148, 151, "UNKNOWN"]]}
+{"id": 33996, "text": "hugo_reyes Uh ... I 'm not so good around blood , man .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "hugo_reyes"]]}
+{"id": 33997, "text": "dr_jack_shephard Then do n't look .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 33998, "text": "hugo_reyes Yeah . But .. I 'm not so good around blood .", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "hugo_reyes"]]}
+{"id": 33999, "text": "dr_jack_shephard Just do the best you can . Okay ? Do n't look .", "meta": {}, "annotation_approver": null, "labels": [[34, 37, "hugo_reyes"]]}
+{"id": 34000, "text": "hugo_reyes Okay .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34001, "text": "hugo_reyes Dude .", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "dr_jack_shephard"]]}
+{"id": 34002, "text": "dr_jack_shephard Hand me those strips .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "dr_jack_shephard"]]}
+{"id": 34003, "text": "hugo_reyes Dude .", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "dr_jack_shephard"]]}
+{"id": 34004, "text": "dr_jack_shephard Just hand me the strips , I need to get this bleeding stopped .", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "dr_jack_shephard"], [43, 44, "dr_jack_shephard"]]}
+{"id": 34005, "text": "hugo_reyes I do n't think I can .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "hugo_reyes"], [26, 27, "hugo_reyes"]]}
+{"id": 34006, "text": "dr_jack_shephard Oh .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34007, "text": "\"hugo_reyes \"\"\" Oh \"\"\"\" what ? What , what 's going on , something in there ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34008, "text": "dr_jack_shephard The strips . Just hand me the strips . Give it to me . Do n't even think about it , Hurley . Do n't even think a ... Hurley ! Hey ! Damn it !", "meta": {}, "annotation_approver": null, "labels": [[40, 42, "dr_jack_shephard"], [67, 69, "dr_jack_shephard"]]}
+{"id": 34009, "text": "boone_carlyle That ca n't be a polar bear .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34010, "text": "sayid_jarrah and KATE It 's a polar bear .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34011, "text": "shannon_rutherford Yeah , but ... Polar bears do n't usually live in the jungle .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34012, "text": "charlie_pace Spot on .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34013, "text": "sayid_jarrah No , polar bears do n't live near this far south .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34014, "text": "boone_carlyle This one does .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34015, "text": "james_ford Did . It did .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34016, "text": "kate_austen Where did that come from ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34017, "text": "james_ford Probably Bear Village . How the hell do I know ?", "meta": {}, "annotation_approver": null, "labels": [[51, 52, "james_ford"]]}
+{"id": 34018, "text": "kate_austen Not the bear . The gun .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34019, "text": "james_ford I got if off one of the bodies .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"]]}
+{"id": 34020, "text": "sayid_jarrah One of the bodies .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34021, "text": "james_ford Yeah , one of the bodies .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34022, "text": "shannon_rutherford People do n't carry guns on planes .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34023, "text": "james_ford They do if they 're a US Marshal , sweet cheeks . There was one on the plane .", "meta": {}, "annotation_approver": null, "labels": [[36, 43, "marshal_edward_mars"]]}
+{"id": 34024, "text": "kate_austen How do you know that ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "james_ford"]]}
+{"id": 34025, "text": "james_ford I saw a guy lying there with an ankle holster , so I took the gun . I thought it might come in handy . Guess what ? I just shot a bear !", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"], [62, 63, "james_ford"], [79, 80, "james_ford"], [127, 128, "james_ford"]]}
+{"id": 34026, "text": "kate_austen So why do you think he 's a Marshal ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "james_ford"], [40, 47, "marshal_edward_mars"], [32, 34, "marshal_edward_mars"]]}
+{"id": 34027, "text": "james_ford Because he had a clip - on badge . I took that too . Thought it was cool .", "meta": {}, "annotation_approver": null, "labels": [[46, 47, "james_ford"], [19, 21, "marshal_edward_mars"]]}
+{"id": 34028, "text": "sayid_jarrah I know who you are . You 're the prisoner .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"], [24, 27, "james_ford"], [34, 37, "james_ford"]]}
+{"id": 34029, "text": "james_ford I 'm the what ?", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"]]}
+{"id": 34030, "text": "sayid_jarrah You found a gun on a US Marshal . Yes , I believe you did . You knew where it was , because you were the one he was bringing back to the States . Those handcuffs were on you . That 's how you knew there was a gun .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "james_ford"], [37, 44, "marshal_edward_mars"], [53, 54, "sayid_jarrah"], [63, 66, "james_ford"], [73, 76, "james_ford"], [105, 108, "james_ford"], [183, 186, "james_ford"], [201, 204, "james_ford"], [122, 124, "marshal_edward_mars"]]}
+{"id": 34031, "text": "james_ford Piss off .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34032, "text": "sayid_jarrah That 's who you are , you son of a bitch .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "james_ford"], [35, 38, "james_ford"]]}
+{"id": 34033, "text": "james_ford Be as suspicious of me as I am of you .", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "james_ford"], [37, 38, "james_ford"], [45, 48, "sayid_jarrah"]]}
+{"id": 34034, "text": "sayid_jarrah But you are the prisoner .", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "james_ford"]]}
+{"id": 34035, "text": "james_ford Fine ! I 'm the criminal . You 're the terrorist . We can all play a part . Who do you want to be ?", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "james_ford"], [38, 41, "sayid_jarrah"], [62, 64, "multiple_persons"], [94, 97, "sayid_jarrah"]]}
+{"id": 34036, "text": "kate_austen Does anybody know how to use a gun ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34037, "text": "charlie_pace I think you just pull the trigger .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "charlie_pace"], [21, 24, "kate_austen"]]}
+{"id": 34038, "text": "sayid_jarrah Do n't use the gun .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34039, "text": "kate_austen I want to take it apart .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"]]}
+{"id": 34040, "text": "charlie_pace Oh .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34041, "text": "sayid_jarrah There 's a button on the grip . Push that , it will eject the magazine . There 's still a round in the chamber . Hold the grip , pull the top part of the gun .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34042, "text": "james_ford I know your type .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"], [18, 22, "kate_austen"]]}
+{"id": 34043, "text": "kate_austen I 'm not so sure .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"]]}
+{"id": 34044, "text": "james_ford Yeah . I 've been with girls like you .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "james_ford"], [45, 48, "kate_austen"]]}
+{"id": 34045, "text": "kate_austen No girl 's exactly like me .", "meta": {}, "annotation_approver": null, "labels": [[36, 38, "kate_austen"]]}
+{"id": 34046, "text": "MICHELLE Can I get you a refill ?", "meta": {}, "annotation_approver": null, "labels": [[13, 14, "MICHELLE"], [19, 22, "kate_austen"]]}
+{"id": 34047, "text": "kate_austen No , I 'm ... I 'm fine with this , thank you .", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "kate_austen"], [26, 27, "kate_austen"]]}
+{"id": 34048, "text": "MICHELLE You , sir ? Can I get you anything ? Cocktail ? Soda ?", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "MICHELLE"], [9, 12, "marshal_edward_mars"], [15, 18, "marshal_edward_mars"], [31, 34, "marshal_edward_mars"]]}
+{"id": 34049, "text": "marshal_edward_mars Just coffee , sweetheart . Black .", "meta": {}, "annotation_approver": null, "labels": [[34, 44, "MICHELLE"]]}
+{"id": 34050, "text": "MICHELLE Coffee . Sure .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34051, "text": "marshal_edward_mars You look worried . I 'd be worried too , I was you . But you 've got to stay positive , kiddo . You know , there 's always that off chance that they 'll believe your story . I know I sure do .", "meta": {}, "annotation_approver": null, "labels": [[39, 40, "marshal_edward_mars"], [61, 62, "marshal_edward_mars"], [194, 195, "marshal_edward_mars"], [201, 202, "marshal_edward_mars"], [20, 23, "kate_austen"], [67, 70, "kate_austen"], [77, 80, "kate_austen"], [116, 119, "kate_austen"], [181, 185, "kate_austen"]]}
+{"id": 34052, "text": "kate_austen I do n't care what you believe .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"], [31, 34, "marshal_edward_mars"]]}
+{"id": 34053, "text": "marshal_edward_mars Oh , I know . That 's true . That has always been true . You sure you do n't want some more juice ?", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "marshal_edward_mars"], [77, 80, "kate_austen"], [86, 89, "kate_austen"]]}
+{"id": 34054, "text": "kate_austen Yeah , I 'm sure .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "kate_austen"]]}
+{"id": 34055, "text": "cindy_chandler Ladies and gentlemen , the Captain has switched on the \"\"\"\" fasten seatbelt \"\"\"\" sign . Please return to your seats and fasten your seatbelts .", "meta": {}, "annotation_approver": null, "labels": [[120, 124, "multiple_persons"], [142, 146, "multiple_persons"]]}
+{"id": 34056, "text": "kate_austen I have one favor to ask .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"]]}
+{"id": 34057, "text": "marshal_edward_mars Really ? This ought to be good . What ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34058, "text": "[ The turbulence causes the big drop with a woman hitting the ceiling . A big black / silver case hits the Marshal on the head . He passes out . The masks come down and Kate ca n't reach because of the handcuffs . She gets the key from the Marshal 's pocket and unlocks the handcuffs . She puts her mask on and then puts a mask on the Marshal . The back of the plane rips off .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34059, "text": "sayid_jarrah We should keep moving .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "multiple_persons"]]}
+{"id": 34060, "text": "dr_jack_shephard No . No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34061, "text": "marshal_edward_mars Where is she ?", "meta": {}, "annotation_approver": null, "labels": [[29, 32, "kate_austen"]]}
+{"id": 34062, "text": "dr_jack_shephard Who ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34063, "text": "james_ford Oh ! Now 's a good time to check the radio ! Not before .. but now !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34064, "text": "sayid_jarrah We 're up higher .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "multiple_persons"]]}
+{"id": 34065, "text": "james_ford Yes , we are !", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "multiple_persons"]]}
+{"id": 34066, "text": "sayid_jarrah Bar . Hey ! We 've got a bar ! Mayday ! Mayday !", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "multiple_persons"]]}
+{"id": 34067, "text": "kate_austen What is that ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34068, "text": "sayid_jarrah Feedback .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34069, "text": "kate_austen Feedback from what ? What would do that ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34070, "text": "sayid_jarrah I do n't know .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "sayid_jarrah"]]}
+{"id": 34071, "text": "james_ford I 'll tell you what would do that . This guy not fixing the radio . This thing does n't even work .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "james_ford"], [22, 25, "sayid_jarrah"]]}
+{"id": 34072, "text": "sayid_jarrah No . No , no , no , no , it 's not broken . We ca n't transmit because something else is already transmitting .", "meta": {}, "annotation_approver": null, "labels": [[57, 59, "multiple_persons"]]}
+{"id": 34073, "text": "charlie_pace Transmitting from where ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34074, "text": "shannon_rutherford What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34075, "text": "sayid_jarrah Somewhere close . The signal 's strong .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34076, "text": "charlie_pace Somewhere close ? You mean on the Island ? That 's great !", "meta": {}, "annotation_approver": null, "labels": [[31, 34, "sayid_jarrah"]]}
+{"id": 34077, "text": "boone_carlyle Maybe it 's other survivors .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34078, "text": "shannon_rutherford From our plane ? How would they even—.", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "multiple_persons"]]}
+{"id": 34079, "text": "james_ford What kind of transmission is it ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34080, "text": "sayid_jarrah Could be a sat phone , maybe a radio signal ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34081, "text": "kate_austen Can we listen to it ?", "meta": {}, "annotation_approver": null, "labels": [[16, 18, "multiple_persons"]]}
+{"id": 34082, "text": "sayid_jarrah Let me get the frequency first . Hold on .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "sayid_jarrah"]]}
+{"id": 34083, "text": "james_ford There 's no transmission .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34084, "text": "kate_austen Shut up .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34085, "text": "charlie_pace The rescue party . It has to be . . It 's French ! The French are coming ! I 've never been so happy to hear the French !", "meta": {}, "annotation_approver": null, "labels": [[88, 89, "charlie_pace"]]}
+{"id": 34086, "text": "kate_austen I never took French . What does she say ?", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "kate_austen"], [44, 47, "UNKNOWN"]]}
+{"id": 34087, "text": "sayid_jarrah D - Does anybody speak French ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34088, "text": "boone_carlyle She does .", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "shannon_rutherford"]]}
+{"id": 34089, "text": "shannon_rutherford No , I do n't . What ?", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "shannon_rutherford"]]}
+{"id": 34090, "text": "boone_carlyle What the hell are you talking about ? You spent a year in Paris !", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "shannon_rutherford"], [52, 55, "shannon_rutherford"]]}
+{"id": 34091, "text": "shannon_rutherford Drinking , not studying !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34092, "text": "RADIO Iteration 7294531 .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34093, "text": "charlie_pace Okay . What 's that ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34094, "text": "sayid_jarrah Oh , no , no , no , no , no , no , no , no , no , no .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34095, "text": "\"kate_austen \"\"\" No , no , no \"\"\"\" what ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34096, "text": "shannon_rutherford What \"\"\"\" no \"\"\"\" ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34097, "text": "sayid_jarrah The - the batteries are dying !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34098, "text": "kate_austen How much time do we have ?", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "multiple_persons"]]}
+{"id": 34099, "text": "sayid_jarrah Not much .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34100, "text": "boone_carlyle I 've heard you speak French ! Just listen to this ! Listen to it !", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "boone_carlyle"], [26, 29, "shannon_rutherford"]]}
+{"id": 34101, "text": "shannon_rutherford I ca n't !", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"]]}
+{"id": 34102, "text": "james_ford You speak French or not ? Because that would be nice .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "shannon_rutherford"]]}
+{"id": 34103, "text": "RADIO Iteration 17294532 .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34104, "text": "charlie_pace That voice is weird . What is that ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34105, "text": "boone_carlyle Come on . Come on , Shannon !", "meta": {}, "annotation_approver": null, "labels": [[34, 41, "shannon_rutherford"]]}
+{"id": 34106, "text": "kate_austen Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34107, "text": "sayid_jarrah Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34108, "text": "shannon_rutherford It 's ... it 's repeating .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34109, "text": "sayid_jarrah She 's right .", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "shannon_rutherford"]]}
+{"id": 34110, "text": "boone_carlyle What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34111, "text": "sayid_jarrah It 's a loop . \"\"\"\" \"Iteration\"\"—it\" 's repeating the same message . It 's a counter . The next number will end ... \"\"\"\" 533 \"\"\"\" .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34112, "text": "RADIO Iteration 17294533 .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34113, "text": "james_ford Does anyone know what the hell he 's talking about ?", "meta": {}, "annotation_approver": null, "labels": [[42, 44, "UNKNOWN"]]}
+{"id": 34114, "text": "sayid_jarrah It 's a running count of the number of times the message has repeated . It 's roughly thirty seconds long , so ... how long ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34115, "text": "james_ford Do n't forget to carry the one , chief .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34116, "text": "RADIO Iteration 17294534 .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34117, "text": "shannon_rutherford She 's saying .. \"\"\"\" Please \"\"\"\" . She 's saying , \"\"\"\" Please help me . Please , come get me . \"\"\"\" .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "UNKNOWN"], [55, 58, "UNKNOWN"], [88, 90, "shannon_rutherford"], [111, 113, "shannon_rutherford"]]}
+{"id": 34118, "text": "james_ford Or she 's not ! You do n't even speak French !", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "UNKNOWN"], [27, 30, "shannon_rutherford"]]}
+{"id": 34119, "text": "kate_austen Let her listen !", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "shannon_rutherford"]]}
+{"id": 34120, "text": "boone_carlyle Shut up , man !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34121, "text": "charlie_pace Guys , the battery . The battery .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34122, "text": "RADIO Iteration 17294535 .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34123, "text": "shannon_rutherford I 'm alone now . Uhm ... On the Island alone . Please , someone come . The others , they 're ... they 're dead . I - it killed them . I - it killed them all .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "shannon_rutherford"], [132, 133, "shannon_rutherford"], [153, 154, "shannon_rutherford"]]}
+{"id": 34124, "text": "boone_carlyle That was good .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34125, "text": "sayid_jarrah Sixteen years .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34126, "text": "james_ford What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34127, "text": "sayid_jarrah Sixteen years . And five months . That 's the count .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34128, "text": "boone_carlyle What the hell are you talking about ?", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "sayid_jarrah"]]}
+{"id": 34129, "text": "sayid_jarrah The iterations . It 's a distress call . A plea for help . A mayday . If the count is right ... It 's been playing over ... and over ... for sixteen years .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34130, "text": "boone_carlyle Someone else ? Was stranded here ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34131, "text": "kate_austen Maybe they came for them .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34132, "text": "james_ford If someone came , why is it still playing ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 34133, "text": "charlie_pace Guys . Where are we ?", "meta": {}, "annotation_approver": null, "labels": [[30, 32, "multiple_persons"]]}

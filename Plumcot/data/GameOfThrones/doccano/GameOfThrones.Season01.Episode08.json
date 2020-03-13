@@ -1,0 +1,371 @@
+{"id": 24223, "text": "syrio_forel Yah ! Left high , left low .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24224, "text": "syrio_forel Right low , lunge right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24225, "text": "steward_of_house_stark If you break anything , the Septa will have my head . What is ... .", "meta": {}, "annotation_approver": null, "labels": [[51, 56, "septa_mordane"], [67, 69, "steward_of_house_stark"], [26, 29, "multiple_persons"]]}
+{"id": 24226, "text": "septa_mordane Your sister knew perfectly well we were to leave today .", "meta": {}, "annotation_approver": null, "labels": [[46, 48, "multiple_persons"], [14, 18, "sansa_stark"]]}
+{"id": 24227, "text": "sansa_stark She did n't forget . She 's with her dancing master .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "arya_stark"], [33, 36, "arya_stark"], [45, 48, "arya_stark"], [49, 56, "syrio_forel"], [57, 63, "syrio_forel"]]}
+{"id": 24228, "text": "septa_mordane Hush ! Go back to your room .", "meta": {}, "annotation_approver": null, "labels": [[32, 36, "sansa_stark"]]}
+{"id": 24229, "text": "sansa_stark What is it ? What 's happening ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24230, "text": "septa_mordane Do as I told you . Run !", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "septa_mordane"], [27, 30, "sansa_stark"]]}
+{"id": 24231, "text": "syrio_forel This way ! Left , right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24232, "text": "arya_stark You said right , but you went left .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "syrio_forel"], [32, 35, "syrio_forel"]]}
+{"id": 24233, "text": "syrio_forel And now you are a dead girl .", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "arya_stark"]]}
+{"id": 24234, "text": "arya_stark Only 'cause you lied .", "meta": {}, "annotation_approver": null, "labels": [[23, 26, "syrio_forel"]]}
+{"id": 24235, "text": "syrio_forel My tongue lied .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "syrio_forel"]]}
+{"id": 24236, "text": "arya_stark I was so . I watched , but you ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "arya_stark"], [22, 23, "arya_stark"], [38, 41, "syrio_forel"]]}
+{"id": 24237, "text": "syrio_forel Watching is not seeing , dead girl .", "meta": {}, "annotation_approver": null, "labels": [[37, 41, "arya_stark"], [42, 46, "arya_stark"]]}
+{"id": 24238, "text": "meryn_trant Arya Stark , come with us .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "arya_stark"], [35, 37, "multiple_persons"], [17, 22, "arya_stark"]]}
+{"id": 24239, "text": "syrio_forel And why is it that Lord Eddard is sending Lannister men in place of his own ? I am wondering .", "meta": {}, "annotation_approver": null, "labels": [[36, 42, "eddard_stark"], [90, 91, "syrio_forel"], [31, 35, "eddard_stark"], [80, 83, "eddard_stark"]]}
+{"id": 24240, "text": "meryn_trant Mind your place , dancing master .", "meta": {}, "annotation_approver": null, "labels": [[17, 21, "syrio_forel"], [30, 37, "syrio_forel"], [38, 44, "syrio_forel"]]}
+{"id": 24241, "text": "arya_stark My father would n't send you .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "arya_stark"], [36, 39, "meryn_trant"], [14, 20, "eddard_stark"]]}
+{"id": 24242, "text": "arya_stark And I do n't have to go with you if I do n't want .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "arya_stark"], [40, 43, "meryn_trant"], [47, 48, "arya_stark"]]}
+{"id": 24243, "text": "meryn_trant Take her .", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "arya_stark"]]}
+{"id": 24244, "text": "syrio_forel Are you men or snakes , that you would threaten a child ?", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "meryn_trant"], [41, 44, "meryn_trant"]]}
+{"id": 24245, "text": "kings_guard Get out of my way , little man .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "kings_guard"], [39, 42, "syrio_forel"]]}
+{"id": 24246, "text": "syrio_forel I am Syrio Forel .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "syrio_forel"], [17, 22, "syrio_forel"], [23, 28, "syrio_forel"]]}
+{"id": 24247, "text": "kings_guard Foreign bastard .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24248, "text": "syrio_forel And you will be speaking to me with more respect .", "meta": {}, "annotation_approver": null, "labels": [[40, 42, "syrio_forel"], [16, 19, "kings_guard"]]}
+{"id": 24249, "text": "meryn_trant Kill the Braavosi . Bring the girl .", "meta": {}, "annotation_approver": null, "labels": [[42, 46, "arya_stark"]]}
+{"id": 24250, "text": "syrio_forel Arya child , we are done with dancing for the day .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "arya_stark"], [25, 27, "multiple_persons"]]}
+{"id": 24251, "text": "meryn_trant Bloody oafs .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24252, "text": "syrio_forel Be gone now , Arya .", "meta": {}, "annotation_approver": null, "labels": [[26, 30, "arya_stark"]]}
+{"id": 24253, "text": "arya_stark Come with me . Run .", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "arya_stark"]]}
+{"id": 24254, "text": "syrio_forel The first sword of Braavos does not run .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24255, "text": "syrio_forel What do we say to the God of death ?", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "multiple_persons"], [34, 37, "UNKNOWN"]]}
+{"id": 24256, "text": "arya_stark Not today .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24257, "text": "syrio_forel Go .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24258, "text": "arya_stark Not today . Not today .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24259, "text": "sansa_stark Stay away from me .", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "sansa_stark"]]}
+{"id": 24260, "text": "sandor_clegane Who do you think sent me ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "sansa_stark"], [37, 39, "sandor_clegane"]]}
+{"id": 24261, "text": "arya_stark Needle .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24262, "text": "stable_boy There she is .", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "arya_stark"]]}
+{"id": 24263, "text": "arya_stark What do you want ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "stable_boy"]]}
+{"id": 24264, "text": "stable_boy I want you , wolf girl . Come here .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "stable_boy"], [18, 21, "arya_stark"], [24, 28, "arya_stark"], [29, 33, "arya_stark"]]}
+{"id": 24265, "text": "arya_stark Leave me be . My father 's a lord . He 'll reward you .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "arya_stark"], [25, 27, "arya_stark"], [61, 64, "stable_boy"], [28, 34, "eddard_stark"], [47, 49, "eddard_stark"]]}
+{"id": 24266, "text": "stable_boy She 'll reward me , the Queen !", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "stable_boy"], [11, 14, "cersei_lannister"], [35, 40, "cersei_lannister"]]}
+{"id": 24267, "text": "arya_stark Stay away !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24268, "text": "lord_varys Lord Stark , you must be thirsty .", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "eddard_stark"], [16, 21, "eddard_stark"], [24, 27, "eddard_stark"]]}
+{"id": 24269, "text": "eddard_stark Varys .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "lord_varys"]]}
+{"id": 24270, "text": "lord_varys I promise you it is n't poisoned .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "lord_varys"], [21, 24, "eddard_stark"]]}
+{"id": 24271, "text": "eddard_stark What about my daughters ?", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "eddard_stark"]]}
+{"id": 24272, "text": "lord_varys The younger one seems to have escaped the castle .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24273, "text": "eddard_stark And Sansa ?", "meta": {}, "annotation_approver": null, "labels": [[17, 22, "sansa_stark"]]}
+{"id": 24274, "text": "lord_varys Still engaged to Joffrey .", "meta": {}, "annotation_approver": null, "labels": [[28, 35, "joffrey_baratheon"]]}
+{"id": 24275, "text": "eddard_stark You watched my men being slaughtered and did nothing .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "lord_varys"], [25, 27, "eddard_stark"]]}
+{"id": 24276, "text": "lord_varys And would again , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "lord_varys"], [32, 36, "eddard_stark"]]}
+{"id": 24277, "text": "eddard_stark The madness of mercy . That she might save her children .", "meta": {}, "annotation_approver": null, "labels": [[41, 44, "cersei_lannister"], [56, 59, "cersei_lannister"]]}
+{"id": 24278, "text": "lord_varys Ah , the children . It is always the innocents who suffer .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24279, "text": "eddard_stark The Queen ca n't kill me . Cat holds her brother .", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "eddard_stark"], [40, 43, "catelyn_stark"], [17, 22, "cersei_lannister"], [50, 53, "cersei_lannister"], [54, 61, "tyrion_lannister"]]}
+{"id": 24280, "text": "lord_varys The wrong brother sadly .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24281, "text": "eddard_stark If that 's true , then slit my throat and be done with it .", "meta": {}, "annotation_approver": null, "labels": [[41, 43, "eddard_stark"]]}
+{"id": 24282, "text": "lord_varys Not today , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "lord_varys"], [26, 30, "eddard_stark"]]}
+{"id": 24283, "text": "eddard_stark Tell me something , Varys .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "eddard_stark"], [33, 38, "lord_varys"]]}
+{"id": 24284, "text": "lord_varys The Realm , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "lord_varys"], [26, 30, "eddard_stark"]]}
+{"id": 24285, "text": "jeor_mormont It 's Othor , without a doubt .", "meta": {}, "annotation_approver": null, "labels": [[19, 24, "UNKNOWN"]]}
+{"id": 24286, "text": "othell_yarwyck The other one is Jafer Flowers , My Lord , less the hand the wolf tore off .", "meta": {}, "annotation_approver": null, "labels": [[48, 50, "othell_yarwyck"], [32, 37, "UNKNOWN"], [38, 45, "UNKNOWN"], [51, 55, "jeor_mormont"]]}
+{"id": 24287, "text": "jeor_mormont Any sign of Benjen or the rest of his party ?", "meta": {}, "annotation_approver": null, "labels": [[25, 31, "benjen_stark"], [47, 50, "benjen_stark"]]}
+{"id": 24288, "text": "jon_snow Just these two , My Lord . Been dead awhile , I 'd say .", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "jon_snow"], [55, 56, "jon_snow"], [29, 33, "jeor_mormont"]]}
+{"id": 24289, "text": "jeor_mormont Mmm .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24290, "text": "samwell_tarly The smell .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24291, "text": "othell_yarwyck What smell ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24292, "text": "samwell_tarly There is none .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24293, "text": "jon_snow We should burn them .", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "multiple_persons"]]}
+{"id": 24294, "text": "othell_yarwyck Snow 's not wrong , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "jon_snow"], [35, 37, "othell_yarwyck"], [38, 42, "jeor_mormont"]]}
+{"id": 24295, "text": "jeor_mormont I want Maester Aemon to examine them first .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "jeor_mormont"], [20, 27, "maester_aemon"], [28, 33, "maester_aemon"]]}
+{"id": 24296, "text": "othell_yarwyck You heard him .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "jeor_mormont"], [15, 18, "multiple_persons"]]}
+{"id": 24297, "text": "alliser_thorne Lord Commander , Maester Aemon awaits you in his chambers . A raven from King 's Landing .", "meta": {}, "annotation_approver": null, "labels": [[32, 39, "maester_aemon"], [40, 45, "maester_aemon"], [15, 19, "jeor_mormont"], [20, 29, "jeor_mormont"], [53, 56, "jeor_mormont"], [60, 63, "maester_aemon"]]}
+{"id": 24298, "text": "nights_watch_brother Come on , move 'em out .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24299, "text": "jeor_mormont Bring me a horn of ale , Snow , and pour one for yourself .", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "jeor_mormont"], [38, 42, "jon_snow"], [62, 70, "jon_snow"]]}
+{"id": 24300, "text": "jon_snow Is there any word of my father ?", "meta": {}, "annotation_approver": null, "labels": [[30, 32, "jon_snow"], [33, 39, "eddard_stark"]]}
+{"id": 24301, "text": "jeor_mormont Sit .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24302, "text": "jeor_mormont I hope you 're not thinking of doing anything stupid .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "jeor_mormont"], [20, 23, "jon_snow"]]}
+{"id": 24303, "text": "jon_snow My sisters were in King 's Landing too .", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "jon_snow"]]}
+{"id": 24304, "text": "jeor_mormont I 'm sure they 'll be treated gently .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "jeor_mormont"]]}
+{"id": 24305, "text": "lord_varys Your father has proved to be an awful traitor , dear .", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "eddard_stark"], [11, 15, "jon_snow"], [59, 63, "jon_snow"]]}
+{"id": 24306, "text": "grand_maester_pycelle King Robert 's body was still warm when Lord Eddard began plotting to steal Joffrey 's rightful throne .", "meta": {}, "annotation_approver": null, "labels": [[27, 33, "robert_baratheon"], [67, 73, "eddard_stark"], [98, 105, "joffrey_baratheon"], [22, 26, "robert_baratheon"], [62, 66, "eddard_stark"]]}
+{"id": 24307, "text": "sansa_stark He would n't do that . He knows how much I love Joffrey .", "meta": {}, "annotation_approver": null, "labels": [[53, 54, "sansa_stark"], [60, 67, "joffrey_baratheon"], [12, 14, "eddard_stark"], [35, 37, "eddard_stark"]]}
+{"id": 24308, "text": "cersei_lannister Sansa sweetling , you are innocent of any wrong .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "sansa_stark"], [35, 38, "sansa_stark"]]}
+{"id": 24309, "text": "grand_maester_pycelle A child born of a traitor 's seed is no fit consort for our King .", "meta": {}, "annotation_approver": null, "labels": [[78, 81, "multiple_persons"]]}
+{"id": 24310, "text": "sansa_stark No , I 'm not .", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "sansa_stark"]]}
+{"id": 24311, "text": "petyr_baelish The girl is innocent , Your Grace .", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "sansa_stark"], [37, 41, "cersei_lannister"], [42, 47, "cersei_lannister"]]}
+{"id": 24312, "text": "cersei_lannister Little dove , you must write to Lady Catelyn and your brother , the eldest .", "meta": {}, "annotation_approver": null, "labels": [[54, 61, "catelyn_stark"], [49, 53, "catelyn_stark"], [17, 23, "sansa_stark"], [24, 28, "sansa_stark"], [31, 34, "sansa_stark"], [66, 70, "sansa_stark"], [71, 78, "robb_stark"]]}
+{"id": 24313, "text": "sansa_stark Robb .", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "robb_stark"]]}
+{"id": 24314, "text": "cersei_lannister Word of your father 's arrest will reach him soon , no doubt .", "meta": {}, "annotation_approver": null, "labels": [[25, 29, "sansa_stark"], [30, 36, "eddard_stark"], [58, 61, "eddard_stark"]]}
+{"id": 24315, "text": "sansa_stark If ... .if I could see my father , talk to him about ... .", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "sansa_stark"], [35, 37, "sansa_stark"], [38, 44, "eddard_stark"], [55, 58, "eddard_stark"]]}
+{"id": 24316, "text": "cersei_lannister You disappoint me , child .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "sansa_stark"], [32, 34, "cersei_lannister"], [37, 42, "sansa_stark"]]}
+{"id": 24317, "text": "sansa_stark I only meant that ... what will happen to him ?", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "sansa_stark"], [54, 57, "eddard_stark"]]}
+{"id": 24318, "text": "cersei_lannister That depends .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24319, "text": "sansa_stark On ... on what ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24320, "text": "cersei_lannister On your brother . And on you .", "meta": {}, "annotation_approver": null, "labels": [[20, 24, "sansa_stark"], [42, 45, "sansa_stark"], [25, 32, "robb_stark"]]}
+{"id": 24321, "text": "robb_stark Treason ? Sansa wrote this ?", "meta": {}, "annotation_approver": null, "labels": [[21, 26, "sansa_stark"]]}
+{"id": 24322, "text": "maester_luwin It is your sister 's hand , but the Queen 's words .", "meta": {}, "annotation_approver": null, "labels": [[50, 55, "cersei_lannister"], [20, 24, "robb_stark"], [25, 31, "sansa_stark"]]}
+{"id": 24323, "text": "robb_stark Joffrey puts my father in chains , now he wants his ass kissed ?", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "joffrey_baratheon"], [24, 26, "robb_stark"], [27, 33, "eddard_stark"], [50, 52, "eddard_stark"], [59, 62, "eddard_stark"]]}
+{"id": 24324, "text": "maester_luwin This is a royal command , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[40, 42, "maester_luwin"], [43, 47, "robb_stark"]]}
+{"id": 24325, "text": "robb_stark I wo n't refuse . His Grace summons me to King 's Landing , I 'll go to King 's Landing .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "robb_stark"], [47, 49, "robb_stark"], [71, 72, "robb_stark"], [29, 32, "cersei_lannister"], [33, 38, "cersei_lannister"]]}
+{"id": 24326, "text": "maester_luwin All of them , My Lord ?", "meta": {}, "annotation_approver": null, "labels": [[28, 30, "maester_luwin"], [31, 35, "robb_stark"]]}
+{"id": 24327, "text": "robb_stark They 've all sworn to defend my father , have they not ?", "meta": {}, "annotation_approver": null, "labels": [[40, 42, "robb_stark"], [43, 49, "eddard_stark"]]}
+{"id": 24328, "text": "maester_luwin They have .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24329, "text": "maester_luwin Yeah .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24330, "text": "theon_greyjoy Are you afraid ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "robb_stark"]]}
+{"id": 24331, "text": "robb_stark I must be .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "robb_stark"]]}
+{"id": 24332, "text": "theon_greyjoy Good .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24333, "text": "robb_stark Why is that good ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24334, "text": "theon_greyjoy It means you 're not stupid .", "meta": {}, "annotation_approver": null, "labels": [[23, 26, "robb_stark"]]}
+{"id": 24335, "text": "catelyn_stark You 've had this since dawn ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "theon_greyjoy"]]}
+{"id": 24336, "text": "lysa_arryn He sent it to me , not you .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "UNKNOWN"], [25, 27, "lysa_arryn"], [34, 37, "catelyn_stark"]]}
+{"id": 24337, "text": "catelyn_stark A courtesy ? ! My husband has been taken prisoner .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "catelyn_stark"], [32, 39, "eddard_stark"]]}
+{"id": 24338, "text": "lysa_arryn A war ? Your son against the Lannisters ?", "meta": {}, "annotation_approver": null, "labels": [[19, 23, "catelyn_stark"], [24, 27, "robb_stark"]]}
+{"id": 24339, "text": "catelyn_stark Ned rots in a dungeon and you speak of patience ? He is your brother by law !", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "eddard_stark"], [40, 43, "lysa_arryn"], [70, 74, "lysa_arryn"], [64, 66, "eddard_stark"]]}
+{"id": 24340, "text": "lysa_arryn Family means everything to me .", "meta": {}, "annotation_approver": null, "labels": [[38, 40, "lysa_arryn"]]}
+{"id": 24341, "text": "robin_arryn I 'm hungry .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "robin_arryn"]]}
+{"id": 24342, "text": "lysa_arryn Hush now , darling . You just ate .", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "robin_arryn"], [22, 29, "robin_arryn"]]}
+{"id": 24343, "text": "catelyn_stark You will not support us then ? Do I understand you correctly ?", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "multiple_persons"], [48, 49, "catelyn_stark"], [61, 64, "lysa_arryn"], [14, 17, "lysa_arryn"]]}
+{"id": 24344, "text": "robin_arryn But I 'm hungry !", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "robin_arryn"]]}
+{"id": 24345, "text": "lysa_arryn Soon , love , soon .", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "robin_arryn"]]}
+{"id": 24346, "text": "catelyn_stark That is what I ask .", "meta": {}, "annotation_approver": null, "labels": [[27, 28, "catelyn_stark"]]}
+{"id": 24347, "text": "lysa_arryn Go on , sweet . Time for your bath . I 'll feed you after .", "meta": {}, "annotation_approver": null, "labels": [[48, 49, "lysa_arryn"], [19, 24, "robin_arryn"], [36, 40, "robin_arryn"], [59, 62, "robin_arryn"]]}
+{"id": 24348, "text": "catelyn_stark If you fear for the safety of your son ... .", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "lysa_arryn"], [44, 48, "lysa_arryn"], [49, 52, "robin_arryn"]]}
+{"id": 24349, "text": "lysa_arryn Of course I fear for the safety of my son !", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "lysa_arryn"], [46, 48, "lysa_arryn"], [49, 52, "robin_arryn"]]}
+{"id": 24350, "text": "catelyn_stark And that is why we have to stop them .", "meta": {}, "annotation_approver": null, "labels": [[30, 32, "multiple_persons"]]}
+{"id": 24351, "text": "lysa_arryn The knights of the Vale will stay in the Vale where they belong , to protect their Lord .", "meta": {}, "annotation_approver": null, "labels": [[94, 98, "eddard_stark"]]}
+{"id": 24352, "text": "bronn Will you shut up ? There 's hill tribes all around here .", "meta": {}, "annotation_approver": null, "labels": [[11, 14, "tyrion_lannister"]]}
+{"id": 24353, "text": "tyrion_lannister If I 'm going to die , it may as well be with a song in my heart .", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "tyrion_lannister"], [73, 75, "tyrion_lannister"]]}
+{"id": 24354, "text": "bronn I should just take your food and leave you here .", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "bronn"], [25, 29, "tyrion_lannister"], [45, 48, "tyrion_lannister"]]}
+{"id": 24355, "text": "tyrion_lannister Starve , most likely .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24356, "text": "bronn You do n't think I 'd do it , do you ?", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "tyrion_lannister"], [23, 24, "bronn"], [39, 42, "tyrion_lannister"]]}
+{"id": 24357, "text": "tyrion_lannister What do you want , Bronn ? Gold ? Women ? Golden women ?", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "bronn"], [36, 41, "bronn"]]}
+{"id": 24358, "text": "bronn Fair enough .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24359, "text": "tyrion_lannister Though I would treasure your friendship .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "tyrion_lannister"], [41, 45, "bronn"]]}
+{"id": 24360, "text": "bronn Tyrion . Tyrion . Tyrion .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "tyrion_lannister"], [15, 21, "tyrion_lannister"], [24, 30, "tyrion_lannister"]]}
+{"id": 24361, "text": "tyrion_lannister Come , share our fire .", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "multiple_persons"]]}
+{"id": 24362, "text": "shagga When you meet your Gods , you tell them Shagga Son of Dolf of the Stone Crows sent you .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "tyrion_lannister"], [21, 25, "tyrion_lannister"], [33, 36, "tyrion_lannister"], [47, 53, "shagga"], [90, 93, "tyrion_lannister"], [26, 30, "UNKNOWN"], [54, 57, "shagga"], [58, 60, "shagga"], [61, 65, "shagga"], [66, 68, "shagga"], [73, 78, "shagga"], [69, 72, "shagga"], [79, 84, "shagga"]]}
+{"id": 24363, "text": "tyrion_lannister I am Tyrion son of Tywin of Clan Lannister .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "tyrion_lannister"], [22, 28, "tyrion_lannister"], [36, 41, "tywin_lannister"]]}
+{"id": 24364, "text": "tyrion_lannister In my own bed , at the age of 80 with a bellyful of wine and a girl 's mouth around my cock .", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "tyrion_lannister"], [101, 103, "tyrion_lannister"]]}
+{"id": 24365, "text": "tyrion_lannister No no no no no ! My , my House is rich and powerful .", "meta": {}, "annotation_approver": null, "labels": [[34, 36, "tyrion_lannister"], [39, 41, "tyrion_lannister"]]}
+{"id": 24366, "text": "shagga We have no use for a half man 's promises .", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "multiple_persons"], [33, 36, "tyrion_lannister"]]}
+{"id": 24367, "text": "tyrion_lannister Half a man maybe , but at least I have the courage to face my enemies .", "meta": {}, "annotation_approver": null, "labels": [[49, 50, "tyrion_lannister"], [76, 78, "tyrion_lannister"], [24, 27, "tyrion_lannister"]]}
+{"id": 24368, "text": "shagga You think you can win us over with your trinkets ?", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "tyrion_lannister"], [17, 20, "tyrion_lannister"], [29, 31, "multiple_persons"], [42, 46, "tyrion_lannister"]]}
+{"id": 24369, "text": "tyrion_lannister That trinket is worth more than everything your tribe owns .", "meta": {}, "annotation_approver": null, "labels": [[60, 64, "shagga"]]}
+{"id": 24370, "text": "shagga What is \"\"\"\" this \"\"\"\" ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24371, "text": "tyrion_lannister The Vale of Arryn .", "meta": {}, "annotation_approver": null, "labels": [[29, 34, "jon_arryn"]]}
+{"id": 24372, "text": "alliser_thorne Now there 's a rare sight . Not only a bastard , but a traitor 's bastard .", "meta": {}, "annotation_approver": null, "labels": [[54, 61, "jon_snow"], [81, 88, "jon_snow"]]}
+{"id": 24373, "text": "samwell_tarly Jon , no ! Jon , stop , put it down !", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "jon_snow"], [25, 28, "jon_snow"]]}
+{"id": 24374, "text": "alliser_thorne Blood will always tell . You 'll hang for this , bastard .", "meta": {}, "annotation_approver": null, "labels": [[40, 43, "jon_snow"], [64, 71, "jon_snow"]]}
+{"id": 24375, "text": "jeor_mormont I told you not to do anything stupid . You 're confined to quarters . Go .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "jeor_mormont"], [20, 23, "alliser_thorne"], [52, 55, "alliser_thorne"]]}
+{"id": 24376, "text": "jon_snow Ghost , what 's wrong ? Is something out there ?", "meta": {}, "annotation_approver": null, "labels": [[9, 14, "UNKNOWN"]]}
+{"id": 24377, "text": "jon_snow Commander ?", "meta": {}, "annotation_approver": null, "labels": [[9, 18, "jeor_mormont"]]}
+{"id": 24378, "text": "jon_snow Stay .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24379, "text": "jon_snow Hello ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24380, "text": "jeor_mormont Snow ! ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "jon_snow"]]}
+{"id": 24381, "text": "jon_snow Commander !", "meta": {}, "annotation_approver": null, "labels": [[9, 18, "jeor_mormont"]]}
+{"id": 24382, "text": "jon_snow Move move !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24383, "text": "daenerys_targaryen What did they do ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24384, "text": "rakharo Lamb men make good slaves . Khal Drogo will make a gift of them to the slavers .", "meta": {}, "annotation_approver": null, "labels": [[36, 40, "khal_drogoviserys_targaryen"], [41, 46, "khal_drogo"]]}
+{"id": 24385, "text": "daenerys_targaryen I thought the Dothraki did n't believe in money .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "daenerys_targaryen"]]}
+{"id": 24386, "text": "jorah_mormont Gold to hire ships , Princess . Ships to sail to Westeros .", "meta": {}, "annotation_approver": null, "labels": [[35, 43, "daenerys_targaryen"]]}
+{"id": 24387, "text": "daenerys_targaryen Jorah , make them stop .", "meta": {}, "annotation_approver": null, "labels": [[0, 24, "jorah_mormont"]]}
+{"id": 24388, "text": "jorah_mormont Khaleesi ?", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "daenerys_targaryen"]]}
+{"id": 24389, "text": "daenerys_targaryen You heard me .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "jorah_mormont"], [29, 31, "daenerys_targaryen"]]}
+{"id": 24390, "text": "jorah_mormont These men have shed blood for their Khal .", "meta": {}, "annotation_approver": null, "labels": [[50, 54, "khal_drogoviserys_targaryen"]]}
+{"id": 24391, "text": "rakharo She is a lamb girl , Khaleesi . The riders do her honor .", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "UNKNOWN"], [29, 37, "daenerys_targaryen"], [54, 57, "UNKNOWN"]]}
+{"id": 24392, "text": "jorah_mormont Princess , you have a gentle heart , but this is how it 's always been .", "meta": {}, "annotation_approver": null, "labels": [[14, 22, "daenerys_targaryen"], [25, 28, "daenerys_targaryen"]]}
+{"id": 24393, "text": "daenerys_targaryen I do not have a gentle heart , Ser . Do as I command or Khal Drogo will know the reason why .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "daenerys_targaryen"], [62, 63, "daenerys_targaryen"], [75, 79, "khal_drogoviserys_targaryen"], [80, 85, "khal_drogo"], [50, 53, "jorah_mormont"]]}
+{"id": 24394, "text": "rakharo Kash qoy qoyi thira disse . Me qorasokh anni !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24395, "text": "jorah_mormont Come .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24396, "text": "dothraki_man Anha afichak mae m'arakhoon !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24397, "text": "jorah_mormont What do you want done with them ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "daenerys_targaryen"]]}
+{"id": 24398, "text": "daenerys_targaryen Bring her to me . And those women there .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "UNKNOWN"], [32, 34, "daenerys_targaryen"]]}
+{"id": 24399, "text": "jorah_mormont You can not claim them all , Princess .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "daenerys_targaryen"], [43, 51, "daenerys_targaryen"]]}
+{"id": 24400, "text": "daenerys_targaryen I can , and I will .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "daenerys_targaryen"], [31, 32, "daenerys_targaryen"]]}
+{"id": 24401, "text": "mago Me Fati ! Khaleesi vazha anhaan qorasokh anni , ch'anha afichak mae m'arakhoon anni !", "meta": {}, "annotation_approver": null, "labels": [[15, 23, "daenerys_targaryen"]]}
+{"id": 24402, "text": "khal_drogo Me vastoe hatif anni ; ahhazaan yer Nemo vacchaki .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24403, "text": "khal_drogo Moon of my life . Mago says you have taken his spoils .", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "khal_drogo"], [29, 33, "mago"], [39, 42, "daenerys_targaryen"], [11, 15, "daenerys_targaryen"], [54, 57, "mago"]]}
+{"id": 24404, "text": "daenerys_targaryen Mago speaks the truth , my sun and stars . I have claimed many daughters this day , so they can not be mounted .", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "mago"], [43, 45, "daenerys_targaryen"], [62, 63, "daenerys_targaryen"]]}
+{"id": 24405, "text": "khal_drogo This is the way of war . These women are slaves now to do with as we please .", "meta": {}, "annotation_approver": null, "labels": [[77, 79, "multiple_persons"]]}
+{"id": 24406, "text": "daenerys_targaryen It pleases me to keep them safe .", "meta": {}, "annotation_approver": null, "labels": [[30, 32, "daenerys_targaryen"]]}
+{"id": 24407, "text": "qotho Does the horse mate with the lamb ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24408, "text": "daenerys_targaryen The dragons feeds on horse and lamb alike .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24409, "text": "mago You are a foreigner . You do not command me .", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "daenerys_targaryen"], [27, 30, "daenerys_targaryen"], [46, 48, "mago"]]}
+{"id": 24410, "text": "daenerys_targaryen I am Khaleesi . I do command you .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "daenerys_targaryen"], [24, 32, "daenerys_targaryen"], [35, 36, "daenerys_targaryen"], [48, 51, "mago"]]}
+{"id": 24411, "text": "khal_drogo See how fierce she grows ?", "meta": {}, "annotation_approver": null, "labels": [[26, 29, "daenerys_targaryen"]]}
+{"id": 24412, "text": "mago A Khal who takes orders from a foreign whore is no Khal .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24413, "text": "khal_drogo Ohosa . Os .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24414, "text": "khal_drogo The beetles will feed on your eyes . The worms will crawl through your lungs .", "meta": {}, "annotation_approver": null, "labels": [[36, 40, "mago"], [77, 81, "mago"]]}
+{"id": 24415, "text": "khal_drogo The rain will fall on your rotting skin ... .", "meta": {}, "annotation_approver": null, "labels": [[33, 37, "mago"]]}
+{"id": 24416, "text": "khal_drogo Until nothing is left of you but bones !", "meta": {}, "annotation_approver": null, "labels": [[36, 39, "mago"]]}
+{"id": 24417, "text": "mago First you have to kill me !", "meta": {}, "annotation_approver": null, "labels": [[11, 14, "khal_drogo"], [28, 30, "mago"]]}
+{"id": 24418, "text": "daenerys_targaryen My sun and stars is wounded .", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "daenerys_targaryen"], [22, 25, "khal_drogo"], [26, 29, "khal_drogo"], [30, 35, "khal_drogo"]]}
+{"id": 24419, "text": "khal_drogo A scratch , moon of my life .", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "khal_drogo"], [23, 27, "daenerys_targaryen"]]}
+{"id": 24420, "text": "daenerys_targaryen Where are the healers ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24421, "text": "khal_drogo This is the bite of a fly .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24422, "text": "mirri_maz_duur I can help the great rider with his cut .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "mirri_maz_duur"], [47, 50, "khal_drogo"]]}
+{"id": 24423, "text": "qotho The Khal needs no help from slaves who lie with sheep .", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "khal_drogoviserys_targaryen"]]}
+{"id": 24424, "text": "daenerys_targaryen She is mine let her speak .", "meta": {}, "annotation_approver": null, "labels": [[26, 30, "daenerys_targaryen"], [19, 22, "mirri_maz_duur"], [35, 38, "mirri_maz_duur"]]}
+{"id": 24425, "text": "mirri_maz_duur Thank you , silver lady .", "meta": {}, "annotation_approver": null, "labels": [[27, 33, "daenerys_targaryen"], [34, 38, "daenerys_targaryen"]]}
+{"id": 24426, "text": "daenerys_targaryen Who are you ?", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "mirri_maz_duur"]]}
+{"id": 24427, "text": "mirri_maz_duur I am named Mirri Maz Duur .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "mirri_maz_duur"], [26, 31, "mirri_maz_duur"], [32, 35, "mirri_maz_duur"], [36, 40, "mirri_maz_duur"]]}
+{"id": 24428, "text": "qotho A witch .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24429, "text": "mirri_maz_duur My mother was Godswife here before me .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "mirri_maz_duur"], [18, 24, "mirri_maz_duur's_mother"], [50, 52, "mirri_maz_duur"]]}
+{"id": 24430, "text": "qotho Too many words . A witch 's words poison the ears .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24431, "text": "mirri_maz_duur lamb or lion , his wound must be washed and sewn or it will fester .", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "khal_drogo"]]}
+{"id": 24432, "text": "daenerys_targaryen Let her clean your wound , my sun and stars .", "meta": {}, "annotation_approver": null, "labels": [[33, 37, "mirri_maz_duur"], [46, 48, "daenerys_targaryen"], [23, 26, "mirri_maz_duur"], [49, 52, "khal_drogo"], [53, 56, "khal_drogo"], [57, 62, "khal_drogo"]]}
+{"id": 24433, "text": "greatjon_umber For 30 years I 've been making corpses out of men , boy .", "meta": {}, "annotation_approver": null, "labels": [[28, 29, "greatjon_umber"]]}
+{"id": 24434, "text": "robb_stark Galbart Glover will lead the Van .", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "UNKNOWN"], [19, 25, "UNKNOWN"]]}
+{"id": 24435, "text": "greatjon_umber The bloody Wall will melt before an Umber marches behind a Glover .", "meta": {}, "annotation_approver": null, "labels": [[51, 56, "UNKNOWN"], [74, 80, "UNKNOWN"]]}
+{"id": 24436, "text": "robb_stark You are welcome to do so , Lord Umber .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "greatjon_umber"], [43, 48, "greatjon_umber"], [38, 42, "greatjon_umber"]]}
+{"id": 24437, "text": "greatjon_umber Oathbreaker , is it ? !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24438, "text": "greatjon_umber I 'll not sit here and swallow insults from a boy so green he pisses grass .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "greatjon_umber"], [74, 76, "robb_stark"]]}
+{"id": 24439, "text": "robb_stark My Lord father taught me it was death to bare steel against your Liege Lord .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "robb_stark"], [33, 35, "robb_stark"], [71, 75, "greatjon_umber"], [14, 18, "eddard_stark"], [19, 25, "eddard_stark"]]}
+{"id": 24440, "text": "greatjon_umber Your meat ... is bloody tough .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "robb_stark"]]}
+{"id": 24441, "text": "bran_stark What is it ? What 's happened ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24442, "text": "robb_stark Shh , it 's all right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24443, "text": "bran_stark Where are you going ?", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "robb_stark"]]}
+{"id": 24444, "text": "robb_stark South . For father .", "meta": {}, "annotation_approver": null, "labels": [[23, 29, "eddard_stark"]]}
+{"id": 24445, "text": "bran_stark But it 's the middle of the night .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24446, "text": "robb_stark The Lannisters have spies everywhere .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24447, "text": "bran_stark They have more men than we do .", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "multiple_persons"]]}
+{"id": 24448, "text": "robb_stark Aye , they do .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24449, "text": "bran_stark Ca n't I come with you ? I can ride now . You 've seen me riding .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "bran_stark"], [30, 33, "robb_stark"], [36, 37, "bran_stark"], [53, 56, "robb_stark"], [66, 68, "bran_stark"]]}
+{"id": 24450, "text": "robb_stark There must always be a Stark at Winterfell .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24451, "text": "bran_stark I will .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "bran_stark"]]}
+{"id": 24452, "text": "robb_stark I 'll send letters whenever I can , but if you do n't hear from me , do n't be scared .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "robb_stark"], [39, 40, "robb_stark"], [54, 57, "bran_stark"], [75, 77, "robb_stark"]]}
+{"id": 24453, "text": "bran_stark How long have you been hiding out there ?", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "rickon_stark"]]}
+{"id": 24454, "text": "rickon_stark They 've all gone away .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24455, "text": "bran_stark They 'll be back soon .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24456, "text": "rickon_stark No , they wo n't .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24457, "text": "bran_stark Please watch over Robb .", "meta": {}, "annotation_approver": null, "labels": [[29, 33, "robb_stark"]]}
+{"id": 24458, "text": "osha You hear them , boy ? The Old Gods are answering you .", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "bran_stark"], [54, 57, "bran_stark"], [21, 24, "bran_stark"], [35, 39, "UNKNOWN"]]}
+{"id": 24459, "text": "bran_stark What are you doing here ?", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "osha"]]}
+{"id": 24460, "text": "osha They 're my Gods too .", "meta": {}, "annotation_approver": null, "labels": [[14, 16, "osha"], [17, 21, "UNKNOWN"]]}
+{"id": 24461, "text": "bran_stark You 're not a slave .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "bran_stark"]]}
+{"id": 24462, "text": "bran_stark Well , your friend did put a knife to my throat .", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "bran_stark"], [49, 51, "bran_stark"]]}
+{"id": 24463, "text": "bran_stark What did you mean about hearing the Gods ?", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "osha"], [47, 51, "UNKNOWN"]]}
+{"id": 24464, "text": "osha You asked them , they 're answering you .", "meta": {}, "annotation_approver": null, "labels": [[0, 8, "bran_stark"], [41, 44, "bran_stark"]]}
+{"id": 24465, "text": "bran_stark It 's only the wind .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24466, "text": "osha Well , there 's a big man .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24467, "text": "bran_stark Go back and find your clothes , Hodor .", "meta": {}, "annotation_approver": null, "labels": [[43, 48, "hodor"], [28, 32, "hodor"]]}
+{"id": 24468, "text": "hodor Hodor .", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "hodor"]]}
+{"id": 24469, "text": "bran_stark Are there really giants beyond the Wall ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24470, "text": "osha Giants and worse than giants .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24471, "text": "samwell_tarly They were touched by White Walkers .", "meta": {}, "annotation_approver": null, "labels": [[35, 40, "white_walkers"], [41, 48, "white_walkers"]]}
+{"id": 24472, "text": "jon_snow How do you know that ?", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "samwell_tarly"]]}
+{"id": 24473, "text": "samwell_tarly I read about it in a book . A very old book in Maester Aemon 's library .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "samwell_tarly"], [61, 68, "maester_aemon"], [69, 74, "maester_aemon"]]}
+{"id": 24474, "text": "jon_snow What else did the book say ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24475, "text": "samwell_tarly The White Walkers sleep beneath the ice for thousands of years .", "meta": {}, "annotation_approver": null, "labels": [[18, 23, "white_walkers"], [24, 31, "white_walkers"]]}
+{"id": 24476, "text": "pypar And when they wake up , what ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24477, "text": "samwell_tarly I hope The Wall is high enough .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "samwell_tarly"]]}
+{"id": 24478, "text": "rodrik_cassel Summer snows , My Lady .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "rodrik_cassel"], [32, 36, "catelyn_stark"]]}
+{"id": 24479, "text": "catelyn_stark Robb 's brought the North with him .", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "robb_stark"], [45, 48, "robb_stark"]]}
+{"id": 24480, "text": "robb_stark The River Lords are falling back with Jaime Lannister at their heels .", "meta": {}, "annotation_approver": null, "labels": [[49, 54, "jaime_lannister"], [55, 64, "jaime_lannister"]]}
+{"id": 24481, "text": "greatjon_umber One army or two , the Kings in the North threw back hosts ten times this large .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24482, "text": "robb_stark Mother !", "meta": {}, "annotation_approver": null, "labels": [[11, 17, "catelyn_stark"]]}
+{"id": 24483, "text": "catelyn_stark You look well .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "robb_stark"]]}
+{"id": 24484, "text": "greatjon_umber Lady Catelyn , you 're a welcome sight in these troubled times .", "meta": {}, "annotation_approver": null, "labels": [[20, 27, "catelyn_stark"], [30, 33, "catelyn_stark"], [15, 19, "catelyn_stark"]]}
+{"id": 24485, "text": "theon_greyjoy We had not thought to meet you here , My Lady .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"], [52, 54, "theon_greyjoy"], [55, 59, "catelyn_stark"], [41, 44, "catelyn_stark"]]}
+{"id": 24486, "text": "catelyn_stark I had not thought to be here .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "catelyn_stark"]]}
+{"id": 24487, "text": "greatjon_umber You heard her ! Move your asses ! Come on , out .", "meta": {}, "annotation_approver": null, "labels": [[36, 40, "catelyn_stark"], [25, 28, "catelyn_stark"], [15, 18, "multiple_persons"]]}
+{"id": 24488, "text": "rodrik_cassel Jon .", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "UNKNOWN"]]}
+{"id": 24489, "text": "greatjon_umber You 're not wasting away , are you ?", "meta": {}, "annotation_approver": null, "labels": [[15, 18, "UNKNOWN"], [46, 49, "UNKNOWN"]]}
+{"id": 24490, "text": "catelyn_stark I remember the day you came into this world red - faced and squalling .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "catelyn_stark"], [33, 36, "robb_stark"]]}
+{"id": 24491, "text": "robb_stark There was no one else .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24492, "text": "catelyn_stark No one ? Who were those men I saw here ?", "meta": {}, "annotation_approver": null, "labels": [[42, 43, "catelyn_stark"]]}
+{"id": 24493, "text": "robb_stark None of them are Starks .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24494, "text": "catelyn_stark All of them are seasoned in battle .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24495, "text": "robb_stark If you think you can send me back to Winterfell ... .", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "catelyn_stark"], [24, 27, "catelyn_stark"], [37, 39, "robb_stark"]]}
+{"id": 24496, "text": "catelyn_stark Oh , would that I could .", "meta": {}, "annotation_approver": null, "labels": [[30, 31, "catelyn_stark"]]}
+{"id": 24497, "text": "robb_stark There was a letter . From Sansa .", "meta": {}, "annotation_approver": null, "labels": [[37, 42, "sansa_stark"]]}
+{"id": 24498, "text": "catelyn_stark From the Queen , you mean .", "meta": {}, "annotation_approver": null, "labels": [[31, 34, "robb_stark"], [23, 28, "sansa_stark"]]}
+{"id": 24499, "text": "robb_stark No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24500, "text": "catelyn_stark How many men do you have ?", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "robb_stark"]]}
+{"id": 24501, "text": "robb_stark 18,000 . If I go to King 's Landing and bend my knee to Joffrey ... .", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "robb_stark"], [56, 58, "robb_stark"], [67, 74, "joffrey_baratheon"]]}
+{"id": 24502, "text": "catelyn_stark you would never be allowed to leave . No .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "robb_stark"]]}
+{"id": 24503, "text": "robb_stark And if I lose ?", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "robb_stark"]]}
+{"id": 24504, "text": "catelyn_stark Do you know what happened to the Targaryen children , when the Mad King fell ?", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "robb_stark"], [77, 80, "aerys_targaryen"], [81, 85, "aerys_targaryen"]]}
+{"id": 24505, "text": "robb_stark They were butchered in their sleep .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24506, "text": "catelyn_stark On the orders of Tywin Lannister . And the years have not made him kinder .", "meta": {}, "annotation_approver": null, "labels": [[31, 36, "tywin_lannister"], [37, 46, "tywin_lannister"], [77, 80, "tywin_lannister"]]}
+{"id": 24507, "text": "robb_stark Well , that makes it simple then .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24508, "text": "catelyn_stark I suppose it does .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "catelyn_stark"]]}
+{"id": 24509, "text": "tyrion_lannister From here it might be best if Bronn and I continue alone .", "meta": {}, "annotation_approver": null, "labels": [[47, 52, "bronn"], [57, 58, "tyrion_lannister"]]}
+{"id": 24510, "text": "shagga Best for Tyrion son of Tywin . Not best for me .", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "tyrion_lannister"], [51, 53, "shagga"], [30, 35, "tywin_lannister"]]}
+{"id": 24511, "text": "tyrion_lannister And feed it to the goats , yes .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24512, "text": "tyrion_lannister Uncle . Father .", "meta": {}, "annotation_approver": null, "labels": [[25, 31, "tywin_lannister"], [17, 22, "kevan_lannister"]]}
+{"id": 24513, "text": "tywin_lannister The rumors of your demise were unfounded .", "meta": {}, "annotation_approver": null, "labels": [[30, 34, "tyrion_lannister"]]}
+{"id": 24514, "text": "tyrion_lannister Sorry to disappoint you .", "meta": {}, "annotation_approver": null, "labels": [[37, 40, "tywin_lannister"]]}
+{"id": 24515, "text": "tywin_lannister And who are these Companions of yours ?", "meta": {}, "annotation_approver": null, "labels": [[48, 53, "tyrion_lannister"]]}
+{"id": 24516, "text": "tywin_lannister This is Shagga Son of Dolf , Chieftain of the Stone Crows .", "meta": {}, "annotation_approver": null, "labels": [[24, 30, "shagga"], [31, 34, "shagga"], [35, 37, "shagga"], [38, 42, "shagga"], [45, 54, "shagga"], [55, 57, "shagga"], [62, 67, "shagga"], [58, 61, "shagga"], [68, 73, "shagga"]]}
+{"id": 24517, "text": "bronn You would n't know him .", "meta": {}, "annotation_approver": null, "labels": [[0, 9, "tywin_lannister"], [25, 28, "bronn"]]}
+{"id": 24518, "text": "tyrion_lannister May I present My Lord Father , Tywin son of Tytos of House Lannister .", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "tyrion_lannister"], [31, 33, "tyrion_lannister"], [48, 53, "tywin_lannister"], [39, 45, "tywin_lannister"], [34, 38, "tywin_lannister"], [61, 66, "UNKNOWN"]]}
+{"id": 24519, "text": "tywin_lannister You left us no choice . The honor of the House was at stake .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "tyrion_lannister"], [25, 27, "multiple_persons"]]}
+{"id": 24520, "text": "tyrion_lannister We have our differences , Jaime and I.", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "multiple_persons"], [25, 28, "multiple_persons"], [43, 48, "jaime_lannister"], [53, 55, "tyrion_lannister"]]}
+{"id": 24521, "text": "jaime_lannister He 's been covering himself in glory .", "meta": {}, "annotation_approver": null, "labels": [[16, 18, "jaime_lannister"], [36, 43, "jaime_lannister"]]}
+{"id": 24522, "text": "kevan_lannister Jaime smashed the River Lords at the Golden Tooth , and now lays siege to Riverrun , Catelyn Stark 's homeland .", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "jaime_lannister"], [101, 108, "catelyn_stark"], [109, 114, "catelyn_stark"]]}
+{"id": 24523, "text": "tyrion_lannister And the Starks ? Lord Eddard ?", "meta": {}, "annotation_approver": null, "labels": [[39, 45, "eddard_stark"], [34, 38, "eddard_stark"]]}
+{"id": 24524, "text": "tywin_lannister Is our hostage .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "multiple_persons"]]}
+{"id": 24525, "text": "tyrion_lannister How did my sweet sister persuade the King to imprison his dear friend Ned ?", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "tyrion_lannister"], [87, 90, "eddard_stark"], [34, 40, "cersei_lannister"], [54, 58, "robert_baratheon"], [71, 74, "robert_baratheon"]]}
+{"id": 24526, "text": "tywin_lannister Robert Baratheon is dead .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "robert_baratheon"], [23, 32, "robert_baratheon"]]}
+{"id": 24527, "text": "tyrion_lannister My sister rules , you mean .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "tyrion_lannister"], [35, 38, "tywin_lannister"], [20, 26, "cersei_lannister"]]}
+{"id": 24528, "text": "kevan_lannister Stark 's son has called his banners .", "meta": {}, "annotation_approver": null, "labels": [[16, 21, "eddard_stark"], [25, 28, "robb_stark"], [40, 43, "robb_stark"]]}
+{"id": 24529, "text": "tywin_lannister A green boy .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24530, "text": "tyrion_lannister Maybe . Though the boy does have a certain belligerence .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24531, "text": "lannister_messenger If it please My Lord , Ser Addam bids me report that the Northmen have crossed the neck .", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "lannister_messenger"], [58, 60, "lannister_messenger"], [43, 46, "UNKNOWN"], [47, 52, "UNKNOWN"], [36, 40, "tywin_lannister"]]}
+{"id": 24532, "text": "tywin_lannister The wolf rushes into the lion 's jaws .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24533, "text": "kevan_lannister At once , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "kevan_lannister"], [29, 33, "tywin_lannister"]]}
+{"id": 24534, "text": "tywin_lannister It is said that the men of the Mountain clans are great warriors .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24535, "text": "shagga Only if the half man fights with us .", "meta": {}, "annotation_approver": null, "labels": [[40, 42, "multiple_persons"], [19, 23, "tyrion_lannister"], [24, 27, "tyrion_lannister"]]}
+{"id": 24536, "text": "rodrik_cassel The scouts report Lord Tywin moves north .", "meta": {}, "annotation_approver": null, "labels": [[37, 42, "tywin_lannister"], [32, 36, "tywin_lannister"]]}
+{"id": 24537, "text": "greatjon_umber No , we need to get around him and break Jaime Lannister 's siege of Riverrun .", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "multiple_persons"], [56, 61, "jaime_lannister"], [62, 71, "jaime_lannister"], [42, 45, "tywin_lannister"]]}
+{"id": 24538, "text": "robb_stark To do either we need to cross the river and the only crossing is at The Twins .", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "multiple_persons"]]}
+{"id": 24539, "text": "theon_greyjoy Lord Frey controls that bridge .", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "frey_lord"], [19, 23, "frey_lord"]]}
+{"id": 24540, "text": "\"catelyn_stark \"\"\" The late Lord Frey \"\"\"\" my father calls him .", "meta": {}, "annotation_approver": null, "labels": [[43, 45, "catelyn_stark"], [46, 52, "catelyn_stark's_father"], [28, 32, "frey_lord"], [33, 37, "frey_lord"], [59, 62, "frey_lord"]]}
+{"id": 24541, "text": "theon_greyjoy Robb 's right .", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "robb_stark"]]}
+{"id": 24542, "text": "greatjon_umber So what 's it gon na be ? Do we move against Jaime or Lord Tywin ?", "meta": {}, "annotation_approver": null, "labels": [[44, 46, "multiple_persons"], [60, 65, "jaime_lannister"], [74, 79, "tywin_lannister"], [69, 73, "tywin_lannister"]]}
+{"id": 24543, "text": "stark_guard Your pardon , my lords .", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "stark_guard"], [29, 34, "multiple_persons"], [12, 16, "multiple_persons"]]}
+{"id": 24544, "text": "greatjon_umber Do n't worry , lad .", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "theon_greyjoy"]]}
+{"id": 24545, "text": "robb_stark Where did you find him ?", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "stark_guard"], [30, 33, "lannister_scout"]]}
+{"id": 24546, "text": "stark_guard In the brush above the encampment .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24547, "text": "robb_stark How high did you get ?", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "lannister_scout"]]}
+{"id": 24548, "text": "lannister_scout 20,000 . Maybe more .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24549, "text": "robb_stark My father understands mercy , when there is room for it .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "robb_stark"], [14, 20, "eddard_stark"]]}
+{"id": 24550, "text": "catelyn_stark Robb .", "meta": {}, "annotation_approver": null, "labels": [[14, 18, "robb_stark"]]}
+{"id": 24551, "text": "robb_stark Tell Lord Tywin , Winter is coming for him .", "meta": {}, "annotation_approver": null, "labels": [[21, 26, "tywin_lannister"], [16, 20, "tywin_lannister"], [50, 53, "tywin_lannister"]]}
+{"id": 24552, "text": "lannister_scout Yes , My Lord . Thank you , My Lord .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "lannister_scout"], [44, 46, "lannister_scout"], [25, 29, "robb_stark"], [47, 51, "robb_stark"]]}
+{"id": 24553, "text": "greatjon_umber Are you touched , boy ? ! Letting him go ?", "meta": {}, "annotation_approver": null, "labels": [[49, 52, "lannister_scout"], [19, 22, "robb_stark"], [33, 36, "robb_stark"]]}
+{"id": 24554, "text": "robb_stark You call me boy again .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "greatjon_umber"], [20, 22, "robb_stark"]]}
+{"id": 24555, "text": "robb_stark Go on .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24556, "text": "greatjon_umber Oi .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24557, "text": "grand_maester_pycelle It is also the wish of His Grace , that his loyal servant Janos Slynt , Commander of the City Watch ... .", "meta": {}, "annotation_approver": null, "labels": [[80, 85, "janos_slynt"], [86, 91, "janos_slynt"], [45, 48, "joffrey_baratheon"], [49, 54, "joffrey_baratheon"], [62, 65, "joffrey_baratheon"]]}
+{"id": 24558, "text": "sansa_stark Ser Aron .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "UNKNOWN"], [16, 20, "UNKNOWN"]]}
+{"id": 24559, "text": "grand_maester_pycelle Be at once raised to the rank of Lord .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24560, "text": "sansa_stark Lord Gyles .", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "UNKNOWN"], [17, 22, "UNKNOWN"]]}
+{"id": 24561, "text": "grand_maester_pycelle And granted the ancient seat of Harrenhal , and that his sons and grandsons shall hold this honor after him , until the end of time .", "meta": {}, "annotation_approver": null, "labels": [[75, 78, "joffrey_baratheon"], [126, 129, "joffrey_baratheon"]]}
+{"id": 24562, "text": "cersei_lannister Ser Barristan Selmy .", "meta": {}, "annotation_approver": null, "labels": [[21, 30, "barristan_selmy"], [31, 36, "barristan_selmy"], [17, 20, "barristan_selmy"]]}
+{"id": 24563, "text": "barristan_selmy Your Grace , I am yours to command .", "meta": {}, "annotation_approver": null, "labels": [[29, 30, "barristan_selmy"], [16, 20, "joffrey_baratheon"], [21, 26, "joffrey_baratheon"], [34, 39, "joffrey_baratheon"]]}
+{"id": 24564, "text": "cersei_lannister Rise , Ser Barristan .", "meta": {}, "annotation_approver": null, "labels": [[28, 37, "barristan_selmy"], [24, 27, "barristan_selmy"]]}
+{"id": 24565, "text": "barristan_selmy Your Grace , the Kingsguard is a sworn brotherhood .", "meta": {}, "annotation_approver": null, "labels": [[16, 20, "cersei_lannister"], [21, 26, "cersei_lannister"]]}
+{"id": 24566, "text": "cersei_lannister Whose death , Ser Barristan ? Yours or your King 's ?", "meta": {}, "annotation_approver": null, "labels": [[35, 44, "barristan_selmy"], [56, 60, "barristan_selmy"], [31, 34, "barristan_selmy"], [47, 52, "barristan_selmy"], [61, 65, "joffrey_baratheon"]]}
+{"id": 24567, "text": "joffrey_baratheon You let my father die .", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "joffrey_baratheon"], [18, 21, "barristan_selmy"], [29, 35, "robert_baratheon"]]}
+{"id": 24568, "text": "barristan_selmy Your Grace ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "joffrey_baratheon"], [21, 26, "joffrey_baratheon"]]}
+{"id": 24569, "text": "cersei_lannister The Council has determined that Ser Jaime Lannister will take your place as Lord Commander of the Kingsguard .", "meta": {}, "annotation_approver": null, "labels": [[53, 58, "jaime_lannister"], [79, 83, "barristan_selmy"], [59, 68, "jaime_lannister"]]}
+{"id": 24570, "text": "barristan_selmy The man who profaned his blade with the blood of the King he had sworn to defend !", "meta": {}, "annotation_approver": null, "labels": [[37, 40, "robert_baratheon"], [74, 76, "robert_baratheon"]]}
+{"id": 24571, "text": "cersei_lannister Careful , Ser .", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "barristan_selmy"]]}
+{"id": 24572, "text": "lord_varys We have nothing but gratitude for your long service , good Ser .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "multiple_persons"], [70, 73, "barristan_selmy"], [45, 49, "barristan_selmy"]]}
+{"id": 24573, "text": "barristan_selmy A hall to die in and men to bury me .", "meta": {}, "annotation_approver": null, "labels": [[49, 51, "barristan_selmy"]]}
+{"id": 24574, "text": "petyr_baelish A naked Knight , apparently .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24575, "text": "barristan_selmy Even now I could cut through the five of you like carving a cake !", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "barristan_selmy"], [57, 60, "petyr_baelish"]]}
+{"id": 24576, "text": "sansa_stark Your Grace .", "meta": {}, "annotation_approver": null, "labels": [[12, 16, "joffrey_baratheon"], [17, 22, "joffrey_baratheon"]]}
+{"id": 24577, "text": "joffrey_baratheon Come forward , My Lady .", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "joffrey_baratheon"], [36, 40, "sansa_stark"]]}
+{"id": 24578, "text": "cersei_lannister Do you have some business for the King and the Council , Sansa ?", "meta": {}, "annotation_approver": null, "labels": [[74, 79, "sansa_stark"], [20, 23, "sansa_stark"]]}
+{"id": 24579, "text": "sansa_stark I do .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "sansa_stark"]]}
+{"id": 24580, "text": "sansa_stark As it please Your Grace , I ask mercy for my father , Lord Eddard Stark , who was Hand of the King .", "meta": {}, "annotation_approver": null, "labels": [[38, 39, "sansa_stark"], [54, 56, "sansa_stark"], [71, 77, "eddard_stark"], [66, 70, "eddard_stark"], [78, 83, "eddard_stark"], [57, 63, "eddard_stark"], [25, 29, "joffrey_baratheon"], [30, 35, "joffrey_baratheon"]]}
+{"id": 24581, "text": "grand_maester_pycelle Treason is a noxious weed .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24582, "text": "joffrey_baratheon Let her speak .", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "sansa_stark"]]}
+{"id": 24583, "text": "sansa_stark Thank you , Your Grace .", "meta": {}, "annotation_approver": null, "labels": [[24, 28, "joffrey_baratheon"], [29, 34, "joffrey_baratheon"]]}
+{"id": 24584, "text": "petyr_baelish Do you deny your father 's crime ?", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "sansa_stark"], [26, 30, "sansa_stark"], [31, 37, "eddard_stark"]]}
+{"id": 24585, "text": "sansa_stark No , My Lords . I know he must be punished .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "sansa_stark"], [28, 29, "sansa_stark"], [20, 25, "multiple_persons"], [35, 37, "eddard_stark"]]}
+{"id": 24586, "text": "joffrey_baratheon He said I was n't the King . Why did he say that ?", "meta": {}, "annotation_approver": null, "labels": [[26, 27, "joffrey_baratheon"], [18, 20, "eddard_stark"], [55, 57, "eddard_stark"]]}
+{"id": 24587, "text": "sansa_stark He was badly hurt .", "meta": {}, "annotation_approver": null, "labels": [[12, 14, "eddard_stark"]]}
+{"id": 24588, "text": "lord_varys A child 's faith Such sweet innocence .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24589, "text": "grand_maester_pycelle Treason is treason !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24590, "text": "joffrey_baratheon Anything else ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 24591, "text": "sansa_stark If you still have any affection in your heart for me , please do me this kindness , Your Grace .", "meta": {}, "annotation_approver": null, "labels": [[15, 18, "joffrey_baratheon"], [47, 51, "joffrey_baratheon"], [62, 64, "sansa_stark"], [77, 79, "sansa_stark"], [96, 100, "joffrey_baratheon"], [101, 106, "joffrey_baratheon"]]}
+{"id": 24592, "text": "joffrey_baratheon Your sweet words have moved me .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "sansa_stark"], [46, 48, "joffrey_baratheon"]]}
+{"id": 24593, "text": "sansa_stark He will .", "meta": {}, "annotation_approver": null, "labels": [[12, 14, "eddard_stark"]]}

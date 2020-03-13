@@ -1,0 +1,247 @@
+{"id": 10156, "text": "sheldon_cooper Checkmate .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10157, "text": "leonard_hofstadter O - o - o - o - h ! Again ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10158, "text": "sheldon_cooper Obviously you 're not well suited for three - dimensional chess , perhaps three dimensional candyland would be more your speed .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "leonard_hofstadter"], [131, 135, "leonard_hofstadter"]]}
+{"id": 10159, "text": "leonard_hofstadter Just reset the board .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10160, "text": "sheldon_cooper It must be humbling to suck on so many different levels .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10161, "text": "penny Hi guys .", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "leonard_hofstadter-sheldon_cooper"]]}
+{"id": 10162, "text": "leonard_hofstadter Hey !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10163, "text": "penny Did you get my mail .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "penny"], [10, 13, "leonard_hofstadter-sheldon_cooper"]]}
+{"id": 10164, "text": "leonard_hofstadter Yeah , right here . How was Nebraska ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10165, "text": "penny Oh , better than North Dakota ! I guess that joke 's only funny in Nebraska .", "meta": {}, "annotation_approver": null, "labels": [[38, 39, "penny"]]}
+{"id": 10166, "text": "sheldon_cooper From the data at hand you really ca n't draw that conclusion . All you can say with absolute certainty is that that joke is not funny here .", "meta": {}, "annotation_approver": null, "labels": [[37, 40, "penny"], [82, 85, "penny"]]}
+{"id": 10167, "text": "penny Boy , it 's good to be back .", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "leonard_hofstadter-sheldon_cooper"]]}
+{"id": 10168, "text": "leonard_hofstadter How was your family ?", "meta": {}, "annotation_approver": null, "labels": [[27, 31, "penny"]]}
+{"id": 10169, "text": "penny Ugh , it was the worst trip , everyone got sick over the weekend .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10170, "text": "sheldon_cooper Sick ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10171, "text": "leonard_hofstadter Here we go .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10172, "text": "sheldon_cooper What kind of sick ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10173, "text": "penny Oh , the flu I guess .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "penny"]]}
+{"id": 10174, "text": "sheldon_cooper I do n't need you to guess , I need you to know , now when did the symptoms first appear ?", "meta": {}, "annotation_approver": null, "labels": [[29, 32, "penny"], [44, 45, "sheldon_cooper"], [51, 54, "penny"], [15, 16, "sheldon_cooper"]]}
+{"id": 10175, "text": "penny Maybe Friday .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10176, "text": "sheldon_cooper Friday , was that morning or afternoon ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10177, "text": "penny I ... . I do n't ... .", "meta": {}, "annotation_approver": null, "labels": [[14, 15, "penny"], [6, 7, "penny"]]}
+{"id": 10178, "text": "sheldon_cooper Think woman , who blew their nose and when ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10179, "text": "leonard_hofstadter Sheldon , relax , she does n't have any symptoms , I 'm sure she 's not contagious .", "meta": {}, "annotation_approver": null, "labels": [[37, 40, "penny"], [70, 71, "leonard_hofstadter"], [80, 83, "penny"], [19, 26, "sheldon_cooper"]]}
+{"id": 10180, "text": "sheldon_cooper Oh please , if influenza was only contagious after symptoms appear it would have died out thousands of years ago . Somewhere between tool using and cave painting , homo habilus would have figured out to kill the guy with the runny nose .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10181, "text": "leonard_hofstadter Penny , you 'll have to excuse Sheldon , he 's a bit of a germophobe .", "meta": {}, "annotation_approver": null, "labels": [[50, 57, "sheldon_cooper"], [19, 24, "penny"], [27, 30, "penny"], [60, 62, "sheldon_cooper"]]}
+{"id": 10182, "text": "penny Oh , it 's okay , I understand .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "penny"]]}
+{"id": 10183, "text": "sheldon_cooper Thanks for your consideration , now please leave .", "meta": {}, "annotation_approver": null, "labels": [[26, 30, "penny"]]}
+{"id": 10184, "text": "leonard_hofstadter You 'd better go before he starts spraying you with Lysol .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "sheldon_cooper"], [43, 45, "sheldon_cooper"], [62, 65, "penny"]]}
+{"id": 10185, "text": "penny Okay , well , thank you for getting my mail .", "meta": {}, "annotation_approver": null, "labels": [[42, 44, "penny"]]}
+{"id": 10186, "text": "leonard_hofstadter No problem . Welcome home .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10187, "text": "sheldon_cooper What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10188, "text": "leonard_hofstadter What the hell are you doing ?", "meta": {}, "annotation_approver": null, "labels": [[37, 40, "sheldon_cooper"]]}
+{"id": 10189, "text": "sheldon_cooper I 'm making petrie dishes to grow throat cultures .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10190, "text": "leonard_hofstadter With lime jello ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10191, "text": "sheldon_cooper I need a growth medium , and someone polished off the apricot yoghurt . Here , swab my throat .", "meta": {}, "annotation_approver": null, "labels": [[99, 101, "sheldon_cooper"], [15, 16, "sheldon_cooper"]]}
+{"id": 10192, "text": "leonard_hofstadter I do n't think so .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10193, "text": "sheldon_cooper Leonard ! If I 'm going to get ahead of this thing I need to find out what 's growing in my throat .", "meta": {}, "annotation_approver": null, "labels": [[28, 29, "sheldon_cooper"], [66, 67, "sheldon_cooper"], [104, 106, "sheldon_cooper"], [15, 22, "leonard_hofstadter"]]}
+{"id": 10194, "text": "leonard_hofstadter Sheldon , you are not sick . This is , but you are not .", "meta": {}, "annotation_approver": null, "labels": [[29, 32, "sheldon_cooper"], [62, 65, "sheldon_cooper"], [19, 26, "sheldon_cooper"]]}
+{"id": 10195, "text": "sheldon_cooper We have no idea what pathogen Typhoid Penny has introduced into our environment . And having never been to Nebraska I 'm fairly certain that I have no cornhusking antibodies .", "meta": {}, "annotation_approver": null, "labels": [[53, 58, "penny"], [131, 132, "sheldon_cooper"], [156, 157, "sheldon_cooper"], [15, 17, "leonard_hofstadter-sheldon_cooper"], [79, 82, "leonard_hofstadter-sheldon_cooper"]]}
+{"id": 10196, "text": "leonard_hofstadter Sheldon , do n't you think you 're overreacting ?", "meta": {}, "annotation_approver": null, "labels": [[36, 39, "sheldon_cooper"], [46, 49, "sheldon_cooper"], [19, 26, "sheldon_cooper"]]}
+{"id": 10197, "text": "sheldon_cooper When I 'm lying comatose in a hospital relying on inferior minds to cure me , these jello cultures and my accompanying notes will give them a fighting chance .", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "sheldon_cooper"], [88, 90, "sheldon_cooper"], [118, 120, "sheldon_cooper"]]}
+{"id": 10198, "text": "leonard_hofstadter I 'm going back to bed .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10199, "text": "sheldon_cooper Wait . Put this in the bathroom .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10200, "text": "leonard_hofstadter What for ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10201, "text": "sheldon_cooper I need to measure my fluid intake and output to make sure my kidneys are n't shutting down .", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "sheldon_cooper"], [73, 75, "sheldon_cooper"], [15, 16, "sheldon_cooper"]]}
+{"id": 10202, "text": "leonard_hofstadter I mix pancake batter in this !", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10203, "text": "sheldon_cooper No , that measuring cup has always been for urine .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10204, "text": "leonard_hofstadter You had time to make a label for everything in this apartment , including the label maker , but you did n't have ten seconds to make one that said urine cup ?", "meta": {}, "annotation_approver": null, "labels": [[115, 118, "sheldon_cooper"], [19, 22, "sheldon_cooper"]]}
+{"id": 10205, "text": "sheldon_cooper It 's right here on the bottom .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10206, "text": "leonard_hofstadter Huh . I guess I owe the Betty Crocker company a letter of apology .", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "leonard_hofstadter"], [33, 34, "leonard_hofstadter"], [43, 48, "UNKNOWN"], [49, 56, "UNKNOWN"]]}
+{"id": 10207, "text": "sheldon_cooper Oh , dear God . Leonard ! Leonard , I 'm sick !", "meta": {}, "annotation_approver": null, "labels": [[31, 38, "leonard_hofstadter"], [41, 48, "leonard_hofstadter"], [51, 52, "sheldon_cooper"]]}
+{"id": 10208, "text": "sheldon_cooper Leonard ! Leonard I 'm sick !", "meta": {}, "annotation_approver": null, "labels": [[25, 32, "leonard_hofstadter"], [33, 34, "sheldon_cooper"], [15, 22, "leonard_hofstadter"]]}
+{"id": 10209, "text": "sheldon_cooper Leonard ! Leonard ! Leonard . Leonard , my comforter fell down , and my sinuses hurt when I bend over . Leonard ? Ow !", "meta": {}, "annotation_approver": null, "labels": [[25, 32, "leonard_hofstadter"], [35, 42, "leonard_hofstadter"], [45, 52, "leonard_hofstadter"], [55, 57, "sheldon_cooper"], [84, 86, "sheldon_cooper"], [105, 106, "sheldon_cooper"], [119, 126, "leonard_hofstadter"], [15, 22, "leonard_hofstadter"]]}
+{"id": 10210, "text": "leonard_hofstadter Hey .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10211, "text": "sheldon_cooper Leonard , where are you ?", "meta": {}, "annotation_approver": null, "labels": [[35, 38, "leonard_hofstadter"], [15, 22, "leonard_hofstadter"]]}
+{"id": 10212, "text": "leonard_hofstadter I 'm at work .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10213, "text": "sheldon_cooper At six - thirty in the morning ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10214, "text": "leonard_hofstadter Yes .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10215, "text": "sheldon_cooper On Sunday ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10216, "text": "leonard_hofstadter Yes .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10217, "text": "sheldon_cooper Why ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10218, "text": "leonard_hofstadter They asked me to come in .", "meta": {}, "annotation_approver": null, "labels": [[30, 32, "leonard_hofstadter"]]}
+{"id": 10219, "text": "sheldon_cooper Well , I did n't hear the phone ring .", "meta": {}, "annotation_approver": null, "labels": [[22, 23, "sheldon_cooper"]]}
+{"id": 10220, "text": "leonard_hofstadter They texted me .", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "leonard_hofstadter"]]}
+{"id": 10221, "text": "sheldon_cooper Well , as I predicted , I am sick . My fever has been tracking up exponentially since 2 am , and I am producing sputum at an alarming rate .", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "sheldon_cooper"], [39, 40, "sheldon_cooper"], [51, 53, "sheldon_cooper"], [112, 113, "sheldon_cooper"]]}
+{"id": 10222, "text": "leonard_hofstadter No kidding ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10223, "text": "sheldon_cooper No . Not only that , it has shifted from clear to milky green .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10224, "text": "leonard_hofstadter Alright , well , get some rest and drink plenty of fluids .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10225, "text": "sheldon_cooper What else would I drink ? Gasses ? Solids ? Ionised plasma ?", "meta": {}, "annotation_approver": null, "labels": [[31, 32, "sheldon_cooper"]]}
+{"id": 10226, "text": "leonard_hofstadter Drink whatever you want .", "meta": {}, "annotation_approver": null, "labels": [[34, 37, "sheldon_cooper"]]}
+{"id": 10227, "text": "sheldon_cooper I want soup .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10228, "text": "leonard_hofstadter Then make soup .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10229, "text": "sheldon_cooper We do n't have soup .", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "leonard_hofstadter-sheldon_cooper"]]}
+{"id": 10230, "text": "leonard_hofstadter I 'm at work , Sheldon .", "meta": {}, "annotation_approver": null, "labels": [[34, 41, "sheldon_cooper"], [19, 20, "leonard_hofstadter"]]}
+{"id": 10231, "text": "sheldon_cooper Is that a dog ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10232, "text": "leonard_hofstadter Yes , .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10233, "text": "sheldon_cooper In the lab ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10234, "text": "leonard_hofstadter Yes , they 're training dogs to operate the centrifuge for when they need dogs to operate the centrifuge for blind scientists , I have to go .", "meta": {}, "annotation_approver": null, "labels": [[147, 148, "leonard_hofstadter"]]}
+{"id": 10235, "text": "debbie_wolowitz Howard , it 's the phone .", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "howard_wolowitz"]]}
+{"id": 10236, "text": "howard_wolowitz I know it 's the phone , Ma , I hear the phone .", "meta": {}, "annotation_approver": null, "labels": [[46, 47, "howard_wolowitz"], [16, 17, "howard_wolowitz"], [41, 43, "debbie_wolowitz"]]}
+{"id": 10237, "text": "debbie_wolowitz Well who 's calling at this ungodly hour ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10238, "text": "howard_wolowitz I do n't know .", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "howard_wolowitz"]]}
+{"id": 10239, "text": "debbie_wolowitz Well ask them why they 're calling at this ungodly hour .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10240, "text": "howard_wolowitz How can I ask them when I 'm talking to you ! Hello .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "howard_wolowitz"], [40, 41, "howard_wolowitz"], [56, 59, "debbie_wolowitz"]]}
+{"id": 10241, "text": "leonard_hofstadter Howard , it 's Leonard , code Milky Green .", "meta": {}, "annotation_approver": null, "labels": [[34, 41, "leonard_hofstadter"], [19, 25, "howard_wolowitz"], [49, 54, "UNKNOWN"], [55, 60, "UNKNOWN"]]}
+{"id": 10242, "text": "howard_wolowitz Dear Lord , not Milky Green !", "meta": {}, "annotation_approver": null, "labels": [[16, 20, "UNKNOWN"], [21, 25, "UNKNOWN"], [32, 37, "UNKNOWN"], [38, 43, "UNKNOWN"]]}
+{"id": 10243, "text": "leonard_hofstadter Affirmative , with fever .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10244, "text": "debbie_wolowitz Who 's on the phone .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10245, "text": "howard_wolowitz It 's Leonard .", "meta": {}, "annotation_approver": null, "labels": [[22, 29, "leonard_hofstadter"]]}
+{"id": 10246, "text": "debbie_wolowitz Why is he calling .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "leonard_hofstadter"]]}
+{"id": 10247, "text": "howard_wolowitz Sheldon 's sick .", "meta": {}, "annotation_approver": null, "labels": [[16, 23, "sheldon_cooper"]]}
+{"id": 10248, "text": "debbie_wolowitz Were you playing with him ?", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "howard_wolowitz"], [38, 41, "sheldon_cooper"]]}
+{"id": 10249, "text": "howard_wolowitz For God 's sake , Ma , I 'm twenty six years old .", "meta": {}, "annotation_approver": null, "labels": [[39, 40, "howard_wolowitz"], [34, 36, "debbie_wolowitz"]]}
+{"id": 10250, "text": "debbie_wolowitz Excuse me Mr Grown - up . Whadda - ya want for breakfast .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "debbie_wolowitz"], [51, 53, "howard_wolowitz"], [26, 28, "howard_wolowitz"], [29, 34, "howard_wolowitz"], [37, 39, "howard_wolowitz"]]}
+{"id": 10251, "text": "howard_wolowitz Chocolate milk and eggoes please !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10252, "text": "leonard_hofstadter Howard , listen to me .", "meta": {}, "annotation_approver": null, "labels": [[38, 40, "leonard_hofstadter"], [19, 25, "howard_wolowitz"]]}
+{"id": 10253, "text": "howard_wolowitz Hang on , call waiting .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10254, "text": "leonard_hofstadter No , do n't , do n't ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10255, "text": "howard_wolowitz Hello .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10256, "text": "sheldon_cooper Howard , I 'm sick .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "sheldon_cooper"], [15, 21, "howard_wolowitz"]]}
+{"id": 10257, "text": "howard_wolowitz Howard 's sleeping , this is his mother . Why are you calling at this ungodly hour ?", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "howard_wolowitz"], [45, 48, "howard_wolowitz"], [49, 55, "debbie_wolowitz"], [66, 69, "sheldon_cooper"]]}
+{"id": 10258, "text": "sheldon_cooper I need soup .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10259, "text": "howard_wolowitz Then call your own mother . It was Sheldon .", "meta": {}, "annotation_approver": null, "labels": [[26, 30, "sheldon_cooper"], [51, 58, "sheldon_cooper"], [35, 41, "mary_cooper"]]}
+{"id": 10260, "text": "leonard_hofstadter I tried to stop you .", "meta": {}, "annotation_approver": null, "labels": [[35, 38, "howard_wolowitz"], [19, 20, "leonard_hofstadter"]]}
+{"id": 10261, "text": "howard_wolowitz It 's my own fault , I forgot the protocol we put in place after the great ear infection of ' 06 .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "howard_wolowitz"], [37, 38, "howard_wolowitz"], [59, 61, "howard_wolowitz-leonard_hofstadter"]]}
+{"id": 10262, "text": "leonard_hofstadter You call Koothrappali , we need to find a place to lay low for the next eighteen to twenty four hours .", "meta": {}, "annotation_approver": null, "labels": [[28, 40, "raj_koothrappali"], [19, 22, "howard_wolowitz"], [43, 45, "howard_wolowitz-leonard_hofstadter"]]}
+{"id": 10263, "text": "howard_wolowitz Stand by . Ma , can my friends come over ?", "meta": {}, "annotation_approver": null, "labels": [[36, 38, "howard_wolowitz"], [27, 29, "debbie_wolowitz"]]}
+{"id": 10264, "text": "debbie_wolowitz I just had the carpets steamed .", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "debbie_wolowitz"]]}
+{"id": 10265, "text": "howard_wolowitz That 's a negatory . But there 's a Planet of the Apes marathon at the New Art today .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10266, "text": "leonard_hofstadter Five movies , two hours apiece . It 's a start .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10267, "text": "waitress Homeless crazy guy at table eighteen .", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "sheldon_cooper"]]}
+{"id": 10268, "text": "penny No , just crazy . Sheldon , what are you doing here ?", "meta": {}, "annotation_approver": null, "labels": [[24, 31, "sheldon_cooper"], [43, 46, "sheldon_cooper"]]}
+{"id": 10269, "text": "sheldon_cooper I 'm sick , thank you very much .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10270, "text": "penny How could you have gotten it from me , I 'm not sick .", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "sheldon_cooper"], [40, 42, "penny"], [45, 46, "penny"]]}
+{"id": 10271, "text": "sheldon_cooper You 're a carrier . All these people here are doomed . You 're doomed !", "meta": {}, "annotation_approver": null, "labels": [[70, 73, "penny"], [15, 18, "penny"]]}
+{"id": 10272, "text": "penny Shhh ! Sheldon , what do you want .", "meta": {}, "annotation_approver": null, "labels": [[13, 20, "sheldon_cooper"], [31, 34, "sheldon_cooper"]]}
+{"id": 10273, "text": "sheldon_cooper I want soup .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10274, "text": "penny Why did n't you just ... Why did n't you just have soup at home .", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "sheldon_cooper"], [43, 46, "sheldon_cooper"]]}
+{"id": 10275, "text": "sheldon_cooper Penny , I have an IQ of 187 , do n't you imagine that if there were a way for me to have had soup at home I would have thought of it ?", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "sheldon_cooper"], [52, 55, "penny"], [93, 95, "sheldon_cooper"], [121, 122, "sheldon_cooper"], [15, 20, "penny"]]}
+{"id": 10276, "text": "penny You can have soup delivered .", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "sheldon_cooper"]]}
+{"id": 10277, "text": "sheldon_cooper I did not think of that . Clearly febrile delirium is setting in , please bring me some soup while I still understand what a spoon is for .", "meta": {}, "annotation_approver": null, "labels": [[95, 97, "sheldon_cooper"], [114, 115, "sheldon_cooper"], [15, 16, "sheldon_cooper"]]}
+{"id": 10278, "text": "penny Okay , what kind of soup do you want .", "meta": {}, "annotation_approver": null, "labels": [[34, 37, "sheldon_cooper"]]}
+{"id": 10279, "text": "sheldon_cooper Well , my mother used to make me this split pea with little frankfurter slices and these home made croutons .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "sheldon_cooper"], [45, 47, "sheldon_cooper"], [25, 31, "mary_cooper"]]}
+{"id": 10280, "text": "penny We have Chicken Tortilla and Potato Leek .", "meta": {}, "annotation_approver": null, "labels": [[6, 8, "UNKNOWN"]]}
+{"id": 10281, "text": "sheldon_cooper Can I get any of those with little frankfurter slices and home made croutons ?", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "sheldon_cooper"]]}
+{"id": 10282, "text": "penny No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10283, "text": "sheldon_cooper Then surprise me . Would you call that moss green or forest green ?", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "sheldon_cooper"], [40, 43, "penny"]]}
+{"id": 10284, "text": "howard_wolowitz Look at this , everyone went chimp .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10285, "text": "raj_koothrappali Well I 'd like to point out , I voted for orang - utan , but you shouted me down . .", "meta": {}, "annotation_approver": null, "labels": [[22, 23, "raj_koothrappali"], [47, 48, "raj_koothrappali"], [78, 81, "howard_wolowitz"], [90, 92, "raj_koothrappali"]]}
+{"id": 10286, "text": "leonard_hofstadter Oh , hi Penny !", "meta": {}, "annotation_approver": null, "labels": [[27, 32, "penny"]]}
+{"id": 10287, "text": "penny Hey , where are you ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "leonard_hofstadter"]]}
+{"id": 10288, "text": "leonard_hofstadter I 'm ... uh ... at work .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10289, "text": "penny You sound funny .", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "leonard_hofstadter"]]}
+{"id": 10290, "text": "leonard_hofstadter I 'm ... uh ... in a ... I 'm in a radiation suit . What 's up ?", "meta": {}, "annotation_approver": null, "labels": [[44, 45, "leonard_hofstadter"], [19, 20, "leonard_hofstadter"]]}
+{"id": 10291, "text": "penny Yeah , well I 'm at work too , and you 'll never guess who 's here infecting my entire station .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "penny"], [41, 44, "leonard_hofstadter"], [83, 85, "penny"]]}
+{"id": 10292, "text": "leonard_hofstadter Sheldon 's at the Cheesecake Factory . Just tell him to go home .", "meta": {}, "annotation_approver": null, "labels": [[19, 26, "sheldon_cooper"], [68, 71, "sheldon_cooper"]]}
+{"id": 10293, "text": "penny He wo n't leave , he says he 's afraid he 'll pass out on the bus and someone will harvest his organs .", "meta": {}, "annotation_approver": null, "labels": [[6, 8, "sheldon_cooper"], [24, 26, "sheldon_cooper"], [32, 34, "sheldon_cooper"], [45, 47, "sheldon_cooper"], [97, 100, "sheldon_cooper"]]}
+{"id": 10294, "text": "leonard_hofstadter He 's paranoid , and he 's established a nest .", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "sheldon_cooper"], [40, 42, "sheldon_cooper"]]}
+{"id": 10295, "text": "penny Can you please come get him ?", "meta": {}, "annotation_approver": null, "labels": [[10, 13, "leonard_hofstadter"], [30, 33, "sheldon_cooper"]]}
+{"id": 10296, "text": "leonard_hofstadter Uh , yeah , I 'd be ... I 'd be happy to Penny . Oh my God there 's a breech in the radiation unit The whole city is in jeopardy , oh my God , Professor Googenfeil is melting , got ta go , bye ! I feel really guilty .", "meta": {}, "annotation_approver": null, "labels": [[31, 32, "leonard_hofstadter"], [43, 44, "leonard_hofstadter"], [60, 65, "penny"], [71, 73, "leonard_hofstadter"], [153, 155, "leonard_hofstadter"], [214, 215, "leonard_hofstadter"], [162, 171, "UNKNOWN"], [172, 182, "UNKNOWN"]]}
+{"id": 10297, "text": "raj_koothrappali You did what you had to do .", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "leonard_hofstadter"], [17, 20, "howard_wolowitz"]]}
+{"id": 10298, "text": "howard_wolowitz Take your stinking paws off my popcorn you damn dirty ape .", "meta": {}, "annotation_approver": null, "labels": [[21, 25, "raj_koothrappali"], [44, 46, "howard_wolowitz"], [55, 58, "raj_koothrappali"]]}
+{"id": 10299, "text": "sheldon_cooper Thanks for bringing me home .", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "sheldon_cooper"]]}
+{"id": 10300, "text": "penny Oh , it 's okay , I did n't really need to work today , it 's not like I have rent or car payments or anything .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "penny"], [77, 78, "penny"]]}
+{"id": 10301, "text": "sheldon_cooper Good . Good .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10302, "text": "penny Okay , well , you feel better .", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "sheldon_cooper"]]}
+{"id": 10303, "text": "sheldon_cooper Wait , where are you going ?", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "penny"]]}
+{"id": 10304, "text": "penny Um , home , to write some bad checks .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10305, "text": "sheldon_cooper You 're going to leave me ?", "meta": {}, "annotation_approver": null, "labels": [[38, 40, "sheldon_cooper"], [15, 18, "penny"]]}
+{"id": 10306, "text": "penny Sheldon , you are a grown man , have n't you ever been sick before ?", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "sheldon_cooper"], [47, 50, "sheldon_cooper"], [6, 13, "sheldon_cooper"]]}
+{"id": 10307, "text": "sheldon_cooper Well , of course , but , not by myself .", "meta": {}, "annotation_approver": null, "labels": [[47, 53, "sheldon_cooper"]]}
+{"id": 10308, "text": "penny Really , never ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10309, "text": "sheldon_cooper Well , once . When I was fifteen , and spending the summer at the Heidelberg Institute in Germany .", "meta": {}, "annotation_approver": null, "labels": [[34, 35, "sheldon_cooper"]]}
+{"id": 10310, "text": "penny Studying abroad ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10311, "text": "sheldon_cooper No , visiting professor . Anyway , the local cuisine was a little more sausage - based than I 'm used to , and the result was an internal blitzkrieg with my lower intestine playing the part of Czechoslovakia .", "meta": {}, "annotation_approver": null, "labels": [[107, 108, "sheldon_cooper"], [169, 171, "sheldon_cooper"]]}
+{"id": 10312, "text": "penny And there was no - one there to take care of you ?", "meta": {}, "annotation_approver": null, "labels": [[51, 54, "sheldon_cooper"]]}
+{"id": 10313, "text": "sheldon_cooper No . No , my mom had to fly back to Texas to help my dad because the house had slipped off the cinderblocks again .", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "sheldon_cooper"], [65, 67, "sheldon_cooper"], [68, 71, "sheldon_cooper's_father"], [28, 31, "mary_cooper"]]}
+{"id": 10314, "text": "penny Again ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10315, "text": "sheldon_cooper It was tornado season . And it was an aluminum house . Anyway , the housekeeper in the faculty residence did n't speak any English , when I finally managed to convince her I was sick , she said ' Möchtest Du eine Darmspülung ? '", "meta": {}, "annotation_approver": null, "labels": [[153, 154, "sheldon_cooper"], [187, 188, "sheldon_cooper"], [183, 186, "mary_cooper"], [200, 203, "mary_cooper"]]}
+{"id": 10316, "text": "penny What does that mean ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10317, "text": "sheldon_cooper Based on what happened next , I assume it means ' would you like an enema ? '", "meta": {}, "annotation_approver": null, "labels": [[45, 46, "sheldon_cooper"], [71, 74, "sheldon_cooper"]]}
+{"id": 10318, "text": "penny Okay , sweetie , I 'll take care of you , what do you need ?", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "penny"], [42, 45, "sheldon_cooper"], [56, 59, "sheldon_cooper"], [13, 20, "sheldon_cooper"]]}
+{"id": 10319, "text": "sheldon_cooper Well , my mom used to give me sponge baths .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "sheldon_cooper"], [42, 44, "sheldon_cooper"], [25, 28, "mary_cooper"]]}
+{"id": 10320, "text": "penny Okay , ground rules , no sponge baths , and definitely no enemas .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10321, "text": "sheldon_cooper Agreed .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10322, "text": "raj_koothrappali Here we go , ten and a half hours of apey goodness .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10323, "text": "leonard_hofstadter Oh dammit , my glasses . Okay , I 'm blind here guys , can you help me find them ?", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "leonard_hofstadter"], [51, 52, "leonard_hofstadter"], [87, 89, "leonard_hofstadter"], [67, 71, "howard_wolowitz-raj_koothrappali"], [78, 81, "howard_wolowitz-raj_koothrappali"]]}
+{"id": 10324, "text": "howard_wolowitz Sorry . Found 'em .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10325, "text": "leonard_hofstadter Oh great .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10326, "text": "howard_wolowitz Sorry , do n't you have a spare .", "meta": {}, "annotation_approver": null, "labels": [[31, 34, "leonard_hofstadter"]]}
+{"id": 10327, "text": "leonard_hofstadter Yeah , at home .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10328, "text": "raj_koothrappali Well if you leave now , you can be back before the gorillas rip the crap out of Charlton Heston .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "leonard_hofstadter"], [41, 44, "leonard_hofstadter"], [97, 105, "UNKNOWN"], [106, 112, "UNKNOWN"]]}
+{"id": 10329, "text": "howard_wolowitz Unless Sheldon 's there , in which case you 'll be trapped forever in his whiny hyper neurotic snot - web .", "meta": {}, "annotation_approver": null, "labels": [[23, 30, "sheldon_cooper"], [86, 89, "sheldon_cooper"], [56, 59, "leonard_hofstadter"]]}
+{"id": 10330, "text": "leonard_hofstadter Hi , Penny . I was wondering , is Sheldon still at the restaurant ? Okay , that was very nice of you . Okay , got ta go , got kind of a full blown Chernobyl thing here , got ta go , bye . He 's home , I 'm screwed . Ten and a half hours of apey blurriness .", "meta": {}, "annotation_approver": null, "labels": [[24, 29, "penny"], [32, 33, "leonard_hofstadter"], [53, 60, "sheldon_cooper"], [220, 221, "leonard_hofstadter"], [116, 119, "penny"], [207, 209, "sheldon_cooper"]]}
+{"id": 10331, "text": "raj_koothrappali How about Lasic ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10332, "text": "leonard_hofstadter You want me to get eye surgery ?", "meta": {}, "annotation_approver": null, "labels": [[28, 30, "leonard_hofstadter"], [19, 22, "raj_koothrappali"]]}
+{"id": 10333, "text": "raj_koothrappali Would you rather go back to the apartment and deal with Sheldon , or have a stranger carve out your corneas with a laser beam ?", "meta": {}, "annotation_approver": null, "labels": [[23, 26, "leonard_hofstadter"], [73, 80, "sheldon_cooper"], [112, 116, "leonard_hofstadter"]]}
+{"id": 10334, "text": "howard_wolowitz Well ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10335, "text": "leonard_hofstadter I 'm thinking !", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10336, "text": "penny Okay , nice and cosy , okay , I 'll see you later .", "meta": {}, "annotation_approver": null, "labels": [[36, 37, "penny"], [46, 49, "sheldon_cooper"]]}
+{"id": 10337, "text": "sheldon_cooper Wait . Will you please rub this on my chest .", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "penny"], [50, 52, "sheldon_cooper"]]}
+{"id": 10338, "text": "penny Oh , Sheldon , ca n't you do that yourself ?", "meta": {}, "annotation_approver": null, "labels": [[11, 18, "sheldon_cooper"], [28, 31, "sheldon_cooper"], [40, 48, "sheldon_cooper"]]}
+{"id": 10339, "text": "sheldon_cooper Vaporub makes my hands smell funny .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "sheldon_cooper"]]}
+{"id": 10340, "text": "penny But Sheldon ... .", "meta": {}, "annotation_approver": null, "labels": [[10, 17, "sheldon_cooper"]]}
+{"id": 10341, "text": "sheldon_cooper Please , please , please , please , please , please , please .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10342, "text": "penny I ca n't believe I 'm doing this .", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "penny"], [6, 7, "penny"]]}
+{"id": 10343, "text": "sheldon_cooper No , no , counter - clockwise or my chest hair mats .", "meta": {}, "annotation_approver": null, "labels": [[48, 50, "sheldon_cooper"]]}
+{"id": 10344, "text": "penny Sorry .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10345, "text": "sheldon_cooper Can you sing ' Soft Kitty ' .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "penny"]]}
+{"id": 10346, "text": "penny What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10347, "text": "sheldon_cooper My mom used to sing it to me when I was sick .", "meta": {}, "annotation_approver": null, "labels": [[41, 43, "sheldon_cooper"], [49, 50, "sheldon_cooper"], [15, 17, "sheldon_cooper"], [18, 21, "mary_cooper"]]}
+{"id": 10348, "text": "penny I 'm sorry , honey , I do n't know it .", "meta": {}, "annotation_approver": null, "labels": [[27, 28, "penny"], [6, 7, "penny"], [19, 24, "sheldon_cooper"]]}
+{"id": 10349, "text": "sheldon_cooper I 'll teach you . ' Soft kitty , warm kitty , little ball of fur , happy kitty , sleepy kitty , purr purr purr . ' Now you .", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "penny"], [134, 137, "penny"], [15, 16, "sheldon_cooper"]]}
+{"id": 10350, "text": "penny Soft kitty , warm kitty ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10351, "text": "sheldon_cooper Little ball of fur . Keep rubbing .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10352, "text": "penny Little ball of fur .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10353, "text": "leonard_hofstadter What do you see , what do you see .", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "raj_koothrappali"], [45, 48, "raj_koothrappali"]]}
+{"id": 10354, "text": "raj_koothrappali The living room appears to be empty .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10355, "text": "leonard_hofstadter Okay , he must be in his bedroom . My spare glasses are in my bedroom , on my dresser , next to my Bat - signal .", "meta": {}, "annotation_approver": null, "labels": [[54, 56, "leonard_hofstadter"], [78, 80, "leonard_hofstadter"], [94, 96, "leonard_hofstadter"], [115, 117, "leonard_hofstadter"], [26, 28, "sheldon_cooper"], [40, 43, "sheldon_cooper"]]}
+{"id": 10356, "text": "howard_wolowitz I 'm not going in there .", "meta": {}, "annotation_approver": null, "labels": [[16, 17, "howard_wolowitz"]]}
+{"id": 10357, "text": "leonard_hofstadter Raj ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "raj_koothrappali"]]}
+{"id": 10358, "text": "raj_koothrappali No way , Jose .", "meta": {}, "annotation_approver": null, "labels": [[26, 30, "UNKNOWN"]]}
+{"id": 10359, "text": "leonard_hofstadter Well I ca n't do it , I ca n't see anything .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "leonard_hofstadter"], [41, 42, "leonard_hofstadter"]]}
+{"id": 10360, "text": "howard_wolowitz It 's all right , wireless mini - cam and Bluetooth headset . We 'll be your eyes .", "meta": {}, "annotation_approver": null, "labels": [[88, 92, "leonard_hofstadter"]]}
+{"id": 10361, "text": "leonard_hofstadter Fine .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10362, "text": "howard_wolowitz One more thing . This is a subsonic impact sensor . If Sheldon gets out of bed and starts to walk , this device will register it and send a signal to the laptop . At that point , based on the geography of the apartment and the ambulatory speed of a sick Sheldon , you 'll have seven seconds to get out , glasses or no glasses .", "meta": {}, "annotation_approver": null, "labels": [[71, 78, "sheldon_cooper"], [270, 277, "sheldon_cooper"], [280, 283, "leonard_hofstadter"]]}
+{"id": 10363, "text": "leonard_hofstadter Wo n't my footsteps set it off ?", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "leonard_hofstadter"]]}
+{"id": 10364, "text": "howard_wolowitz No , you 'll be on your hands and knees . Now you 'll need to get the sensor as close as you can to Sheldon 's room .", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "leonard_hofstadter"], [35, 39, "leonard_hofstadter"], [62, 65, "leonard_hofstadter"], [105, 108, "leonard_hofstadter"], [116, 123, "sheldon_cooper"]]}
+{"id": 10365, "text": "leonard_hofstadter Well , how do I carry it if I 'm on my hands and knees ?", "meta": {}, "annotation_approver": null, "labels": [[33, 34, "leonard_hofstadter"], [47, 48, "leonard_hofstadter"], [55, 57, "leonard_hofstadter"]]}
+{"id": 10366, "text": "howard_wolowitz Stay low . Bear left . Now keep true .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10367, "text": "leonard_hofstadter What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10368, "text": "howard_wolowitz It means go straight .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10369, "text": "leonard_hofstadter Then just say go straight .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10370, "text": "howard_wolowitz You do n't stay go straight when you 're giving bearings , you say keep true .", "meta": {}, "annotation_approver": null, "labels": [[49, 52, "leonard_hofstadter"], [75, 78, "leonard_hofstadter"], [16, 19, "leonard_hofstadter"]]}
+{"id": 10371, "text": "leonard_hofstadter Alright I just hit my head .", "meta": {}, "annotation_approver": null, "labels": [[27, 28, "leonard_hofstadter"], [38, 40, "leonard_hofstadter"]]}
+{"id": 10372, "text": "howard_wolowitz Because you did n't keep true . Okay , turn right .", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "leonard_hofstadter"]]}
+{"id": 10373, "text": "raj_koothrappali The ... the picture 's breaking up .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10374, "text": "howard_wolowitz Angle your head to the right . A little more . A little more . That 's it , now just keep true . Alright , you 're close enough to Sheldon 's room , deploy the sensor . Now turn it on .", "meta": {}, "annotation_approver": null, "labels": [[147, 154, "sheldon_cooper"], [22, 26, "leonard_hofstadter"], [123, 126, "leonard_hofstadter"]]}
+{"id": 10375, "text": "leonard_hofstadter It was n't on ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10376, "text": "howard_wolowitz No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10377, "text": "leonard_hofstadter Then why did I have to crawl ?", "meta": {}, "annotation_approver": null, "labels": [[32, 33, "leonard_hofstadter"]]}
+{"id": 10378, "text": "howard_wolowitz Oh , I guess you did n't .", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "howard_wolowitz"], [29, 32, "leonard_hofstadter"]]}
+{"id": 10379, "text": "leonard_hofstadter Okay , it 's on .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10380, "text": "howard_wolowitz Good . From this point forward you will have to crawl .", "meta": {}, "annotation_approver": null, "labels": [[47, 50, "leonard_hofstadter"]]}
+{"id": 10381, "text": "leonard_hofstadter I know .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "leonard_hofstadter"]]}
+{"id": 10382, "text": "howard_wolowitz Hang on , the sensor 's picking up something , turn your head back .", "meta": {}, "annotation_approver": null, "labels": [[68, 72, "leonard_hofstadter"]]}
+{"id": 10383, "text": "penny You rat bastard .", "meta": {}, "annotation_approver": null, "labels": [[6, 9, "leonard_hofstadter"]]}
+{"id": 10384, "text": "howard_wolowitz Told you the sensor would work .", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "penny"]]}
+{"id": 10385, "text": "leonard_hofstadter Hi !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10386, "text": "penny You deliberately stuck me with Sheldon .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "penny"], [37, 44, "sheldon_cooper"], [6, 9, "leonard_hofstadter"]]}
+{"id": 10387, "text": "leonard_hofstadter Well , I had to , you see what he 's like .", "meta": {}, "annotation_approver": null, "labels": [[26, 27, "leonard_hofstadter"], [37, 40, "penny"], [50, 52, "sheldon_cooper"]]}
+{"id": 10388, "text": "sheldon_cooper Penny ! Penny , I 'm hungry .", "meta": {}, "annotation_approver": null, "labels": [[23, 28, "penny"], [31, 32, "sheldon_cooper"], [15, 20, "penny"]]}
+{"id": 10389, "text": "penny Uh , it 's okay , sweetie , good news , Leonard 's home !", "meta": {}, "annotation_approver": null, "labels": [[46, 53, "leonard_hofstadter"], [24, 31, "sheldon_cooper"]]}
+{"id": 10390, "text": "leonard_hofstadter No !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10391, "text": "penny Here you go , good luck , bye .", "meta": {}, "annotation_approver": null, "labels": [[11, 14, "leonard_hofstadter"]]}
+{"id": 10392, "text": "leonard_hofstadter W - wait !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10393, "text": "sheldon_cooper Leonard , I 'm hungry !", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "sheldon_cooper"], [15, 22, "leonard_hofstadter"]]}
+{"id": 10394, "text": "leonard_hofstadter Wait ! Penny ! Take me with you !", "meta": {}, "annotation_approver": null, "labels": [[26, 31, "penny"], [39, 41, "leonard_hofstadter"], [47, 50, "penny"]]}
+{"id": 10395, "text": "sheldon_cooper I want grilled cheese .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10396, "text": "sheldon_cooper Do you think Penny will come here and take care of us ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "leonard_hofstadter"], [28, 33, "penny"], [66, 68, "leonard_hofstadter-sheldon_cooper"]]}
+{"id": 10397, "text": "leonard_hofstadter I do n't think Penny 's ever coming here again .", "meta": {}, "annotation_approver": null, "labels": [[34, 39, "penny"], [19, 20, "leonard_hofstadter"]]}
+{"id": 10398, "text": "sheldon_cooper I 'm very congested .", "meta": {}, "annotation_approver": null, "labels": [[15, 16, "sheldon_cooper"]]}
+{"id": 10399, "text": "leonard_hofstadter Yeah , so ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 10400, "text": "sheldon_cooper Can you go to the kitchen , and get me the turkey baster labelled mucus .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "leonard_hofstadter"], [51, 53, "sheldon_cooper"]]}
+{"id": 10401, "text": "leonard_hofstadter If I stand , I 'll vomit .", "meta": {}, "annotation_approver": null, "labels": [[22, 23, "leonard_hofstadter"], [32, 33, "leonard_hofstadter"]]}
+{"id": 10402, "text": "sheldon_cooper Under the sink , yellow Tupperware bowl .", "meta": {}, "annotation_approver": null, "labels": []}
