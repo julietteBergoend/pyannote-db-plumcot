@@ -1,6 +1,5 @@
 24,24,https://www.imdb.com/title/tt0285331/,http://www.tv.com/shows/24/,0
 BattlestarGalactica,Battlestar Galactica,https://www.imdb.com/title/tt0407362/,http://www.tv.com/shows/battlestar-galactica/,0
-Caprica,Caprica,https://www.imdb.com/title/tt0799862/,http://www.tv.com/shows/caprica/,0
 BreakingBad,Breaking Bad,https://www.imdb.com/title/tt0903747/,http://www.tv.com/shows/breaking-bad/,0
 BuffyTheVampireSlayer,Buffy The Vampire Slayer,https://www.imdb.com/title/tt0118276/,http://www.tv.com/shows/buffy-the-vampire-slayer/,0
 Friends,Friends,https://www.imdb.com/title/tt0108778/,http://www.tv.com/shows/friends/,0
