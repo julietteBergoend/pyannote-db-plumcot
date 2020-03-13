@@ -206,13 +206,14 @@ Inspired by [`stm`](http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/infmts.ht
 <file_uri> <speaker_id> <start_time> <end_time> <token> <confidence_score>
 ```
 e.g. :
+
 ```
-TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time How 0.9
-TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time are 0.6
-TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time you 0.8
-TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time , 0.1
-TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time Leonard 0.5
-TheBigBangTheory.Season01.Episode01 sheldon_cooper start_time end_time ? 0.2
+TheBigBangTheory.Season01.Episode01 sheldon_cooper 12.0 12.14 both 0.990
+TheBigBangTheory.Season01.Episode01 sheldon_cooper 12.14 12.530000000000001 slits 0.990
+TheBigBangTheory.Season01.Episode01 sheldon_cooper 12.53 12.53 . 0.950
+TheBigBangTheory.Season01.Episode01 leonard_hofstadter 13.1 13.37 Agreed 0.990
+TheBigBangTheory.Season01.Episode01 leonard_hofstadter 13.37 13.37 , 0.100
+TheBigBangTheory.Season01.Episode01 leonard_hofstadter 14.03 14.25 what's 0.990
 ```
 
 ### `entities.txt`
