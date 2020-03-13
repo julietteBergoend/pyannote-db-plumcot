@@ -1,0 +1,567 @@
+	idSent	idChar	label
+0	1		
+1	2	[0, 3]	charlie_pace
+2	3	[7, 9]	charlie_pace
+3	3	[87, 89]	UNKNOWN
+4	3	[129, 131]	multiple_persons
+5	3	[139, 141]	multiple_persons
+6	4		
+7	5		
+8	6	[10, 13]	charlie_pace
+9	7	[0, 1]	charlie_pace
+10	7	[10, 13]	kate_austen
+11	7	[27, 28]	charlie_pace
+12	7	[57, 59]	charlie_pace
+13	8	[5, 6]	kate_austen
+14	8	[15, 18]	charlie_pace
+15	8	[26, 33]	charlie_pace
+16	9		
+17	10	[0, 3]	charlie_pace
+18	11	[16, 19]	charlie_pace
+19	11	[0, 3]	charlie_pace
+20	12	[0, 1]	charlie_pace
+21	13	[4, 5]	cindy_chandler
+22	13	[10, 13]	charlie_pace
+23	14	[0, 1]	charlie_pace
+24	15		
+25	16	[7, 9]	charlie_pace
+26	17	[6, 8]	charlie_pace
+27	18	[13, 15]	cindy_chandler
+28	18	[31, 33]	cindy_chandler
+29	18	[0, 3]	charlie_pace
+30	18	[18, 21]	charlie_pace
+31	19	[7, 9]	shannon_rutherford
+32	20	[103, 107]	multiple_persons
+33	20	[125, 129]	multiple_persons
+34	21	[0, 3]	charlie_pace
+35	21	[10, 13]	charlie_pace
+36	22		
+37	23	[0, 1]	JD
+38	23	[29, 32]	charlie_pace
+39	24	[26, 29]	charlie_pace
+40	25	[6, 8]	multiple_persons
+41	25	[57, 58]	boone_carlyle
+42	25	[111, 113]	multiple_persons
+43	25	[63, 66]	shannon_rutherford
+44	25	[73, 77]	shannon_rutherford
+45	25	[94, 97]	shannon_rutherford
+46	26	[13, 16]	boone_carlyle
+47	26	[29, 33]	boone_carlyle
+48	27	[8, 12]	shannon_rutherford
+49	28	[0, 2]	shannon_rutherford
+50	28	[13, 18]	boone_carlyle
+51	28	[21, 24]	UNKNOWN
+52	29	[0, 1]	claire_littleton
+53	30	[0, 3]	claire_littleton
+54	31	[10, 11]	claire_littleton
+55	32	[12, 14]	michael_dawson
+56	32	[60, 62]	michael_dawson
+57	32	[51, 54]	sunhwa_kwon
+58	33		
+59	34		
+60	35	[0, 1]	michael_dawson
+61	35	[13, 17]	walt_lloyd
+62	35	[20, 24]	walt_lloyd
+63	36	[0, 7]	vincent_the_dog
+64	36	[10, 17]	vincent_the_dog
+65	37	[15, 16]	michael_dawson
+66	37	[22, 25]	walt_lloyd
+67	38	[0, 1]	walt_lloyd
+68	38	[21, 28]	vincent_the_dog
+69	39	[0, 1]	michael_dawson
+70	39	[7, 10]	walt_lloyd
+71	40	[32, 33]	walt_lloyd
+72	41	[17, 20]	walt_lloyd
+73	41	[31, 33]	michael_dawson
+74	41	[36, 37]	michael_dawson
+75	41	[48, 49]	michael_dawson
+76	41	[56, 59]	walt_lloyd
+77	42		
+78	43	[0, 1]	walt_lloyd
+79	44		
+80	45		
+81	46		
+82	47		
+83	48	[0, 1]	sayid_jarrah
+84	49	[0, 3]	sayid_jarrah
+85	49	[22, 24]	james_ford
+86	50	[19, 22]	james_ford
+87	50	[28, 30]	sayid_jarrah
+88	50	[48, 49]	sayid_jarrah
+89	50	[88, 89]	sayid_jarrah
+90	51		
+91	52		
+92	53		
+93	54		
+94	55	[7, 9]	michael_dawson
+95	56		
+96	57		
+97	58	[73, 76]	sayid_jarrah
+98	59	[32, 34]	sayid_jarrah
+99	60	[17, 18]	james_ford
+100	60	[56, 58]	multiple_persons
+101	60	[0, 3]	sayid_jarrah
+102	60	[33, 36]	sayid_jarrah
+103	61		
+104	62		
+105	63	[0, 2]	multiple_persons
+106	64	[6, 7]	sayid_jarrah
+107	65		
+108	66	[6, 8]	multiple_persons
+109	67		
+110	68		
+111	69	[9, 12]	dr_jack_shephard
+112	69	[25, 28]	dr_jack_shephard
+113	69	[19, 22]	dr_jack_shephard
+114	70	[0, 3]	multiple_persons
+115	70	[4, 8]	multiple_persons
+116	71		
+117	72		
+118	73	[4, 7]	sayid_jarrah
+119	74	[0, 1]	sayid_jarrah
+120	75	[41, 42]	rose_nadler
+121	75	[47, 48]	rose_nadler
+122	75	[81, 84]	UNKNOWN
+123	75	[0, 6]	dr_jack_shephard
+124	75	[55, 58]	dr_jack_shephard
+125	76		
+126	77		
+127	78	[35, 37]	multiple_persons
+128	78	[61, 62]	hugo_reyes
+129	78	[40, 43]	james_ford
+130	78	[46, 49]	sayid_jarrah
+131	78	[68, 71]	sayid_jarrah
+132	79	[0, 3]	hugo_reyes
+133	80		
+134	81	[0, 5]	sayid_jarrah
+135	82	[7, 10]	sayid_jarrah
+136	83	[0, 1]	sayid_jarrah
+137	84	[10, 13]	sayid_jarrah
+138	85	[0, 1]	sayid_jarrah
+139	86	[9, 10]	hugo_reyes
+140	86	[47, 49]	UNKNOWN
+141	86	[88, 91]	sayid_jarrah
+142	87		
+143	88		
+144	89		
+145	90	[21, 23]	multiple_persons
+146	91	[7, 9]	multiple_persons
+147	91	[45, 47]	multiple_persons
+148	92	[15, 18]	kate_austen
+149	93	[0, 2]	multiple_persons
+150	94	[0, 2]	multiple_persons
+151	94	[85, 88]	multiple_persons
+152	94	[200, 202]	multiple_persons
+153	95		
+154	96	[10, 12]	multiple_persons
+155	97		
+156	98	[7, 9]	UNKNOWN
+157	98	[16, 19]	dr_jack_shephard
+158	99		
+159	100	[4, 7]	dr_jack_shephard
+160	100	[31, 34]	dr_jack_shephard
+161	101	[0, 1]	dr_jack_shephard
+162	101	[34, 35]	dr_jack_shephard
+163	101	[47, 49]	UNKNOWN
+164	101	[82, 83]	dr_jack_shephard
+165	101	[90, 93]	UNKNOWN
+166	101	[106, 108]	UNKNOWN
+167	101	[139, 140]	dr_jack_shephard
+168	101	[146, 149]	UNKNOWN
+169	101	[160, 161]	dr_jack_shephard
+170	101	[194, 196]	UNKNOWN
+171	101	[228, 229]	dr_jack_shephard
+172	101	[260, 262]	UNKNOWN
+173	102	[0, 1]	kate_austen
+174	103		
+175	104	[0, 5]	sayid_jarrah
+176	104	[34, 36]	multiple_persons
+177	105	[0, 4]	kate_austen
+178	106	[0, 3]	dr_jack_shephard
+179	106	[30, 32]	multiple_persons
+180	107	[7, 10]	kate_austen
+181	108	[7, 8]	kate_austen
+182	108	[26, 29]	dr_jack_shephard
+183	108	[36, 38]	multiple_persons
+184	108	[63, 65]	multiple_persons
+185	109	[9, 11]	dr_jack_shephard
+186	109	[14, 15]	dr_jack_shephard
+187	110	[0, 5]	sayid_jarrah
+188	111	[15, 18]	kate_austen
+189	112	[61, 62]	hugo_reyes
+190	112	[89, 90]	hugo_reyes
+191	113	[26, 29]	walt_lloyd
+192	114	[5, 6]	walt_lloyd
+193	115	[5, 8]	walt_lloyd
+194	115	[14, 16]	multiple_persons
+195	115	[30, 31]	michael_dawson
+196	115	[36, 39]	walt_lloyd
+197	116	[6, 7]	dr_jack_shephard
+198	116	[13, 17]	hugo_reyes
+199	117		
+200	118	[0, 1]	dr_jack_shephard
+201	118	[7, 10]	hugo_reyes
+202	118	[19, 21]	dr_jack_shephard
+203	118	[47, 48]	dr_jack_shephard
+204	118	[91, 94]	hugo_reyes
+205	119		
+206	120	[9, 12]	shannon_rutherford
+207	121	[0, 1]	shannon_rutherford
+208	121	[8, 9]	shannon_rutherford
+209	121	[22, 25]	UNKNOWN
+210	122		
+211	123	[36, 38]	UNKNOWN
+212	123	[53, 55]	multiple_persons
+213	123	[61, 64]	multiple_persons
+214	123	[88, 90]	UNKNOWN
+215	123	[97, 100]	multiple_persons
+216	124	[10, 17]	shannon_rutherford
+217	124	[20, 22]	multiple_persons
+218	124	[66, 69]	shannon_rutherford
+219	124	[88, 91]	shannon_rutherford
+220	125	[0, 1]	shannon_rutherford
+221	126	[8, 11]	shannon_rutherford
+222	126	[17, 19]	boone_carlyle
+223	126	[29, 32]	shannon_rutherford
+224	126	[48, 52]	shannon_rutherford
+225	127	[0, 1]	shannon_rutherford
+226	128	[0, 2]	multiple_persons
+227	128	[78, 81]	shannon_rutherford
+228	128	[101, 109]	shannon_rutherford
+229	129	[0, 3]	boone_carlyle
+230	129	[45, 47]	shannon_rutherford
+231	129	[54, 57]	boone_carlyle
+232	129	[75, 76]	shannon_rutherford
+233	130	[0, 1]	boone_carlyle
+234	130	[7, 8]	boone_carlyle
+235	130	[31, 33]	boone_carlyle
+236	130	[53, 56]	shannon_rutherford
+237	130	[59, 60]	boone_carlyle
+238	130	[66, 67]	boone_carlyle
+239	130	[112, 119]	shannon_rutherford
+240	131	[6, 9]	boone_carlyle
+241	131	[12, 15]	boone_carlyle
+242	131	[52, 53]	shannon_rutherford
+243	132	[0, 1]	boone_carlyle
+244	132	[31, 34]	shannon_rutherford
+245	132	[41, 42]	boone_carlyle
+246	133	[5, 8]	boone_carlyle
+247	134	[7, 14]	shannon_rutherford
+248	134	[31, 34]	shannon_rutherford
+249	135	[0, 1]	shannon_rutherford
+250	136		
+251	137	[6, 7]	shannon_rutherford
+252	138	[5, 8]	shannon_rutherford
+253	138	[19, 26]	shannon_rutherford
+254	138	[29, 36]	shannon_rutherford
+255	139	[0, 1]	shannon_rutherford
+256	139	[23, 26]	boone_carlyle
+257	140	[0, 3]	shannon_rutherford
+258	140	[19, 22]	shannon_rutherford
+259	141	[9, 10]	shannon_rutherford
+260	142	[11, 14]	shannon_rutherford
+261	142	[22, 25]	shannon_rutherford
+262	143	[0, 3]	boone_carlyle
+263	143	[30, 31]	shannon_rutherford
+264	144	[76, 78]	boone_carlyle
+265	144	[36, 39]	shannon_rutherford
+266	145	[43, 44]	shannon_rutherford
+267	145	[60, 63]	multiple_persons
+268	146	[0, 1]	kate_austen
+269	147	[36, 38]	shannon_rutherford
+270	147	[9, 12]	multiple_persons
+271	147	[50, 53]	multiple_persons
+272	147	[74, 77]	multiple_persons
+273	148	[11, 14]	shannon_rutherford
+274	149		
+275	150	[7, 8]	charlie_pace
+276	151	[32, 34]	multiple_persons
+277	152	[35, 38]	kate_austen
+278	152	[0, 3]	multiple_persons
+279	153	[20, 22]	multiple_persons
+280	153	[0, 3]	james_ford
+281	154	[0, 1]	james_ford
+282	154	[21, 31]	kate_austen
+283	155	[5, 8]	dr_jack_shephard
+284	156	[28, 32]	michael_dawson
+285	157	[0, 4]	walt_lloyd
+286	157	[14, 15]	michael_dawson
+287	157	[22, 24]	walt_lloyd
+288	158	[11, 13]	walt_lloyd
+289	159	[21, 25]	walt_lloyd
+290	159	[113, 116]	dr_jack_shephard
+291	159	[48, 51]	walt_lloyd
+292	160		
+293	161		
+294	162	[7, 8]	dr_jack_shephard
+295	162	[13, 16]	vincent_the_dog
+296	163		
+297	164	[45, 47]	vincent_the_dog
+298	165		
+299	166	[53, 56]	walt_lloyd
+300	166	[76, 80]	walt_lloyd
+301	167	[5, 6]	walt_lloyd
+302	167	[30, 32]	walt_lloyd
+303	167	[33, 36]	walt_lloyd's_mother
+304	168	[0, 3]	walt_lloyd
+305	169	[7, 8]	walt_lloyd
+306	169	[16, 18]	multiple_persons
+307	169	[32, 35]	walt_lloyd's_mother
+308	169	[47, 50]	walt_lloyd's_mother
+309	170	[0, 3]	walt_lloyd
+310	171	[0, 1]	walt_lloyd
+311	172	[170, 175]	UNKNOWN
+312	172	[176, 182]	UNKNOWN
+313	173		
+314	174		
+315	175		
+316	176	[57, 61]	walt_lloyd
+317	176	[67, 70]	walt_lloyd
+318	177		
+319	178	[12, 13]	claire_littleton
+320	178	[29, 30]	claire_littleton
+321	178	[195, 197]	UNKNOWN
+322	178	[210, 212]	UNKNOWN
+323	178	[237, 239]	UNKNOWN
+324	178	[252, 254]	UNKNOWN
+325	178	[262, 263]	claire_littleton
+326	178	[270, 271]	claire_littleton
+327	178	[293, 295]	UNKNOWN
+328	178	[92, 95]	UNKNOWN
+329	178	[278, 281]	UNKNOWN
+330	179	[61, 63]	multiple_persons
+331	179	[25, 28]	sayid_jarrah
+332	180	[0, 2]	multiple_persons
+333	181		
+334	182	[0, 1]	sayid_jarrah
+335	183	[0, 1]	james_ford
+336	183	[16, 19]	sayid_jarrah
+337	184	[0, 2]	multiple_persons
+338	185		
+339	186	[3, 4]	sayid_jarrah
+340	186	[19, 21]	multiple_persons
+341	186	[57, 59]	multiple_persons
+342	187	[0, 2]	shannon_rutherford
+343	188		
+344	189		
+345	190	[21, 23]	multiple_persons
+346	190	[26, 27]	charlie_pace
+347	191		
+348	192	[0, 1]	shannon_rutherford
+349	193		
+350	194	[0, 6]	james_ford
+351	195	[4, 7]	james_ford
+352	196		
+353	197	[0, 3]	multiple_persons
+354	198		
+355	199		
+356	200	[0, 3]	kate_austen
+357	200	[9, 11]	UNKNOWN
+358	201	[0, 2]	UNKNOWN
+359	202	[7, 10]	dr_jack_shephard
+360	202	[16, 18]	UNKNOWN
+361	202	[39, 42]	dr_jack_shephard
+362	203	[0, 1]	dr_jack_shephard
+363	204	[59, 61]	multiple_persons
+364	204	[89, 91]	UNKNOWN
+365	204	[123, 125]	hugo_reyes
+366	204	[16, 19]	UNKNOWN
+367	204	[114, 117]	dr_jack_shephard
+368	205	[27, 29]	UNKNOWN
+369	205	[82, 85]	UNKNOWN
+370	205	[112, 113]	dr_jack_shephard
+371	205	[119, 122]	hugo_reyes
+372	205	[131, 134]	UNKNOWN
+373	206	[7, 8]	hugo_reyes
+374	207		
+375	208	[14, 15]	hugo_reyes
+376	209	[17, 20]	hugo_reyes
+377	210		
+378	211	[0, 4]	dr_jack_shephard
+379	212	[5, 7]	dr_jack_shephard
+380	213	[0, 4]	dr_jack_shephard
+381	214	[10, 12]	dr_jack_shephard
+382	214	[26, 27]	dr_jack_shephard
+383	215	[0, 1]	hugo_reyes
+384	215	[15, 16]	hugo_reyes
+385	216		
+386	217		
+387	218	[23, 25]	dr_jack_shephard
+388	218	[50, 52]	dr_jack_shephard
+389	219		
+390	220		
+391	221		
+392	222		
+393	223		
+394	224		
+395	225		
+396	226		
+397	227	[40, 41]	james_ford
+398	228		
+399	229	[0, 1]	james_ford
+400	230		
+401	231		
+402	232		
+403	233	[25, 32]	marshal_edward_mars
+404	234	[7, 10]	james_ford
+405	235	[0, 1]	james_ford
+406	235	[51, 52]	james_ford
+407	235	[68, 69]	james_ford
+408	235	[116, 117]	james_ford
+409	236	[10, 13]	james_ford
+410	236	[28, 35]	marshal_edward_mars
+411	236	[20, 22]	marshal_edward_mars
+412	237	[35, 36]	james_ford
+413	237	[8, 10]	marshal_edward_mars
+414	238	[0, 1]	sayid_jarrah
+415	238	[11, 14]	james_ford
+416	238	[21, 24]	james_ford
+417	239	[0, 1]	james_ford
+418	240	[0, 3]	james_ford
+419	240	[24, 31]	marshal_edward_mars
+420	240	[40, 41]	sayid_jarrah
+421	240	[50, 53]	james_ford
+422	240	[60, 63]	james_ford
+423	240	[92, 95]	james_ford
+424	240	[170, 173]	james_ford
+425	240	[188, 191]	james_ford
+426	240	[109, 111]	marshal_edward_mars
+427	241		
+428	242	[12, 15]	james_ford
+429	242	[22, 25]	james_ford
+430	243	[20, 22]	james_ford
+431	243	[26, 27]	james_ford
+432	243	[34, 37]	sayid_jarrah
+433	244	[4, 7]	james_ford
+434	245	[7, 8]	james_ford
+435	245	[27, 30]	sayid_jarrah
+436	245	[51, 53]	multiple_persons
+437	245	[83, 86]	sayid_jarrah
+438	246		
+439	247	[0, 1]	charlie_pace
+440	247	[8, 11]	kate_austen
+441	248		
+442	249	[0, 1]	kate_austen
+443	250		
+444	251		
+445	252	[0, 1]	james_ford
+446	252	[7, 11]	kate_austen
+447	253	[0, 1]	kate_austen
+448	254	[7, 8]	james_ford
+449	254	[34, 37]	kate_austen
+450	255	[24, 26]	kate_austen
+451	256	[4, 5]	MICHELLE
+452	256	[10, 13]	kate_austen
+453	257	[5, 6]	kate_austen
+454	257	[14, 15]	kate_austen
+455	258	[16, 17]	MICHELLE
+456	258	[0, 3]	marshal_edward_mars
+457	258	[6, 9]	marshal_edward_mars
+458	258	[22, 25]	marshal_edward_mars
+459	259	[14, 24]	MICHELLE
+460	260		
+461	261	[19, 20]	marshal_edward_mars
+462	261	[41, 42]	marshal_edward_mars
+463	261	[174, 175]	marshal_edward_mars
+464	261	[181, 182]	marshal_edward_mars
+465	261	[0, 3]	kate_austen
+466	261	[47, 50]	kate_austen
+467	261	[57, 60]	kate_austen
+468	261	[96, 99]	kate_austen
+469	261	[161, 165]	kate_austen
+470	262	[0, 1]	kate_austen
+471	262	[19, 22]	marshal_edward_mars
+472	263	[5, 6]	marshal_edward_mars
+473	263	[57, 60]	kate_austen
+474	263	[66, 69]	kate_austen
+475	264	[7, 8]	kate_austen
+476	265	[105, 109]	multiple_persons
+477	265	[127, 131]	multiple_persons
+478	266	[0, 1]	kate_austen
+479	267		
+480	268		
+481	269	[0, 2]	multiple_persons
+482	270		
+483	271	[9, 12]	kate_austen
+484	272		
+485	273		
+486	274	[0, 2]	multiple_persons
+487	275	[6, 8]	multiple_persons
+488	276	[12, 14]	multiple_persons
+489	277		
+490	278		
+491	279		
+492	280	[0, 1]	sayid_jarrah
+493	281	[0, 1]	james_ford
+494	281	[11, 14]	sayid_jarrah
+495	282	[44, 46]	multiple_persons
+496	283		
+497	284		
+498	285		
+499	286	[18, 21]	sayid_jarrah
+500	287		
+501	288	[5, 8]	multiple_persons
+502	289		
+503	290		
+504	291	[4, 6]	multiple_persons
+505	292	[4, 6]	sayid_jarrah
+506	293		
+507	294		
+508	295	[75, 76]	charlie_pace
+509	296	[0, 1]	kate_austen
+510	296	[32, 35]	UNKNOWN
+511	297		
+512	298	[0, 3]	shannon_rutherford
+513	299	[5, 6]	shannon_rutherford
+514	300	[18, 21]	shannon_rutherford
+515	300	[38, 41]	shannon_rutherford
+516	301		
+517	302		
+518	303		
+519	304		
+520	305		
+521	306		
+522	307		
+523	308	[17, 19]	multiple_persons
+524	309		
+525	310	[0, 1]	boone_carlyle
+526	310	[12, 15]	shannon_rutherford
+527	311	[0, 1]	shannon_rutherford
+528	312	[0, 3]	shannon_rutherford
+529	313		
+530	314		
+531	315	[20, 27]	shannon_rutherford
+532	316		
+533	317		
+534	318		
+535	319	[0, 3]	shannon_rutherford
+536	320		
+537	321		
+538	322		
+539	323	[31, 33]	UNKNOWN
+540	324		
+541	325		
+542	326		
+543	327	[0, 3]	UNKNOWN
+544	327	[36, 39]	UNKNOWN
+545	327	[69, 71]	shannon_rutherford
+546	327	[92, 94]	shannon_rutherford
+547	328	[3, 6]	UNKNOWN
+548	328	[16, 19]	shannon_rutherford
+549	329	[4, 7]	shannon_rutherford
+550	330		
+551	331		
+552	332		
+553	333	[0, 1]	shannon_rutherford
+554	333	[113, 114]	shannon_rutherford
+555	333	[134, 135]	shannon_rutherford
+556	334		
+557	335		
+558	336		
+559	337		
+560	338	[18, 21]	sayid_jarrah
+561	339		
+562	340		
+563	341		
+564	342		
+565	343	[17, 19]	multiple_persons

@@ -1,0 +1,490 @@
+	idSent	idChar	label
+0	1	[15, 16]	kate_austen
+1	2		
+2	3	[0, 3]	dr_jack_shephard
+3	3	[36, 38]	kate_austen
+4	3	[41, 42]	kate_austen
+5	4	[7, 10]	kate_austen
+6	5		
+7	6	[44, 45]	dr_jack_shephard
+8	6	[52, 53]	dr_jack_shephard
+9	6	[58, 60]	dr_jack_shephard
+10	6	[75, 76]	dr_jack_shephard
+11	7	[16, 19]	dr_jack_shephard
+12	7	[24, 28]	dr_jack_shephard
+13	7	[57, 60]	dr_jack_shephard
+14	8	[8, 10]	dr_jack_shephard
+15	9	[45, 47]	multiple_persons
+16	9	[116, 118]	multiple_persons
+17	9	[3, 6]	multiple_persons
+18	9	[7, 11]	multiple_persons
+19	10		
+20	11	[6, 13]	charlie_pace
+21	11	[20, 24]	dr_jack_shephard
+22	11	[31, 34]	dr_jack_shephard
+23	12	[5, 8]	multiple_persons
+24	12	[9, 13]	multiple_persons
+25	12	[65, 68]	multiple_persons
+26	13		
+27	14		
+28	15		
+29	16		
+30	17		
+31	18		
+32	19		
+33	20		
+34	21		
+35	22		
+36	23		
+37	24		
+38	25		
+39	26		
+40	27		
+41	28		
+42	29		
+43	30		
+44	31		
+45	32		
+46	33	[11, 14]	michael_dawson
+47	34	[15, 17]	michael_dawson
+48	34	[35, 38]	michael_dawson
+49	34	[46, 49]	michael_dawson
+50	35	[27, 34]	marshal_edward_mars
+51	36		
+52	37		
+53	38	[7, 10]	dr_jack_shephard
+54	39		
+55	40		
+56	41		
+57	42	[27, 30]	john_locke
+58	43	[0, 2]	charlie_pace
+59	44	[0, 1]	charlie_pace
+60	45	[13, 15]	dr_jack_shephard
+61	45	[16, 20]	charlie_pace
+62	46		
+63	47		
+64	48	[7, 8]	charlie_pace
+65	49		
+66	50		
+67	51	[0, 2]	charlie_pace
+68	52		
+69	53		
+70	54	[3, 5]	charlie_pace
+71	54	[14, 16]	charlie_pace
+72	55	[0, 1]	charlie_pace
+73	55	[28, 29]	charlie_pace
+74	55	[64, 65]	charlie_pace
+75	55	[72, 73]	charlie_pace
+76	56	[18, 20]	multiple_persons
+77	57		
+78	58		
+79	59	[0, 1]	michael_dawson
+80	59	[36, 37]	michael_dawson
+81	59	[70, 72]	michael_dawson
+82	59	[124, 126]	michael_dawson
+83	59	[129, 130]	michael_dawson
+84	59	[73, 76]	walt_lloyd
+85	60		
+86	61	[51, 53]	multiple_persons
+87	61	[31, 34]	michael_dawson
+88	62	[15, 18]	sayid_jarrah
+89	63		
+90	64	[7, 8]	michael_dawson
+91	64	[83, 84]	michael_dawson
+92	64	[140, 143]	sayid_jarrah
+93	65		
+94	66	[9, 12]	multiple_persons
+95	66	[30, 33]	jinsoo_kwon
+96	67		
+97	68		
+98	69	[55, 58]	sayid_jarrah
+99	69	[18, 22]	UNKNOWN
+100	69	[36, 39]	sunhwa_kwon
+101	70	[79, 82]	multiple_persons
+102	70	[97, 100]	jinsoo_kwon
+103	71	[17, 24]	michael_dawson
+104	71	[27, 29]	multiple_persons
+105	71	[67, 69]	multiple_persons
+106	71	[0, 2]	jinsoo_kwon
+107	72	[10, 13]	walt_lloyd
+108	73		
+109	74		
+110	75		
+111	76		
+112	77		
+113	78		
+114	79		
+115	80		
+116	81		
+117	82		
+118	83		
+119	84	[29, 30]	dr_jack_shephard
+120	85		
+121	86	[11, 19]	charlie_pace
+122	86	[31, 34]	charlie_pace
+123	87	[46, 47]	charlie_pace
+124	87	[64, 70]	charlie_pace
+125	88	[7, 9]	UNKNOWN
+126	88	[19, 21]	UNKNOWN
+127	89	[0, 1]	dr_jack_shephard
+128	90		
+129	91	[0, 1]	dr_jack_shephard
+130	92		
+131	93	[8, 11]	multiple_persons
+132	93	[12, 16]	multiple_persons
+133	94		
+134	95		
+135	96		
+136	97		
+137	98		
+138	99		
+139	100		
+140	101	[38, 40]	charlie_pace
+141	101	[64, 65]	charlie_pace
+142	101	[0, 3]	multiple_persons
+143	101	[58, 61]	multiple_persons
+144	102		
+145	103	[0, 1]	charlie_pace
+146	104		
+147	105	[56, 58]	multiple_persons
+148	106	[9, 12]	charlie_pace
+149	107	[12, 15]	john_locke
+150	107	[76, 78]	multiple_persons
+151	108		
+152	109		
+153	110	[0, 3]	multiple_persons
+154	110	[13, 17]	UNKNOWN
+155	110	[22, 25]	UNKNOWN
+156	111		
+157	112		
+158	113		
+159	114		
+160	115		
+161	116		
+162	117	[0, 1]	john_locke
+163	117	[15, 17]	multiple_persons
+164	117	[39, 46]	charlie_pace
+165	118	[0, 3]	john_locke
+166	119	[12, 14]	john_locke
+167	119	[39, 42]	charlie_pace
+168	120	[0, 2]	multiple_persons
+169	121		
+170	122	[0, 3]	dr_jack_shephard
+171	122	[25, 27]	kate_austen
+172	123	[399, 401]	multiple_persons
+173	123	[449, 451]	multiple_persons
+174	123	[494, 495]	dr_jack_shephard
+175	123	[502, 504]	multiple_persons
+176	123	[65, 69]	UNKNOWN
+177	123	[74, 77]	UNKNOWN
+178	124	[48, 50]	michael_dawson
+179	124	[27, 30]	jinsoo_kwon
+180	124	[51, 54]	walt_lloyd
+181	124	[15, 18]	walt_lloyd
+182	125	[45, 49]	walt_lloyd
+183	125	[23, 26]	jinsoo_kwon
+184	126	[26, 28]	multiple_persons
+185	126	[9, 11]	jinsoo_kwon
+186	127		
+187	128	[0, 3]	michael_dawson
+188	128	[49, 51]	multiple_persons
+189	128	[21, 24]	jinsoo_kwon
+190	129	[9, 12]	walt_lloyd
+191	129	[55, 58]	walt_lloyd
+192	129	[71, 72]	michael_dawson
+193	129	[105, 106]	michael_dawson
+194	129	[113, 114]	michael_dawson
+195	130	[9, 12]	michael_dawson
+196	130	[19, 22]	jinsoo_kwon
+197	131	[9, 10]	michael_dawson
+198	131	[23, 26]	walt_lloyd
+199	131	[32, 34]	michael_dawson
+200	131	[37, 38]	michael_dawson
+201	131	[53, 56]	walt_lloyd
+202	131	[63, 65]	multiple_persons
+203	131	[81, 84]	walt_lloyd
+204	131	[90, 92]	michael_dawson
+205	131	[139, 142]	walt_lloyd
+206	131	[149, 150]	michael_dawson
+207	131	[174, 178]	walt_lloyd
+208	131	[196, 198]	michael_dawson
+209	131	[17, 20]	jinsoo_kwon
+210	132	[0, 3]	UNKNOWN
+211	132	[23, 26]	michael_dawson
+212	133	[0, 3]	walt_lloyd
+213	133	[31, 33]	michael_dawson
+214	133	[39, 42]	walt_lloyd
+215	134	[0, 3]	michael_dawson
+216	134	[31, 33]	walt_lloyd
+217	135	[0, 1]	michael_dawson
+218	135	[19, 22]	walt_lloyd
+219	136		
+220	137		
+221	138	[8, 10]	walt_lloyd
+222	139	[22, 26]	michael_dawson
+223	140		
+224	141		
+225	142		
+226	143		
+227	144		
+228	145		
+229	146		
+230	147	[13, 15]	kate_austen
+231	147	[0, 3]	dr_jack_shephard
+232	148		
+233	149		
+234	150	[6, 8]	dr_jack_shephard
+235	150	[14, 15]	dr_jack_shephard
+236	150	[29, 32]	kate_austen
+237	150	[39, 42]	kate_austen
+238	151	[25, 28]	dr_jack_shephard
+239	152	[7, 8]	dr_jack_shephard
+240	153	[33, 35]	kate_austen
+241	154	[0, 1]	dr_jack_shephard
+242	154	[23, 25]	multiple_persons
+243	154	[51, 53]	multiple_persons
+244	154	[136, 138]	multiple_persons
+245	154	[179, 182]	kate_austen
+246	155		
+247	156		
+248	157		
+249	158	[131, 133]	multiple_persons
+250	159	[0, 2]	multiple_persons
+251	159	[5, 8]	dr_jack_shephard
+252	159	[34, 36]	kate_austen
+253	160	[14, 16]	charlie_pace
+254	160	[0, 3]	john_locke
+255	161		
+256	162	[19, 20]	charlie_pace
+257	163	[19, 22]	charlie_pace
+258	163	[36, 38]	john_locke
+259	163	[41, 48]	charlie_pace
+260	164	[0, 1]	charlie_pace
+261	165	[34, 36]	multiple_persons
+262	165	[61, 62]	john_locke
+263	165	[98, 101]	charlie_pace
+264	166		
+265	167	[0, 1]	john_locke
+266	167	[11, 14]	charlie_pace
+267	167	[25, 26]	john_locke
+268	167	[37, 40]	charlie_pace
+269	167	[74, 77]	charlie_pace
+270	168	[38, 41]	john_locke
+271	168	[58, 60]	multiple_persons
+272	169	[19, 20]	john_locke
+273	169	[46, 47]	john_locke
+274	169	[58, 59]	john_locke
+275	169	[95, 96]	john_locke
+276	169	[110, 114]	charlie_pace
+277	169	[237, 240]	charlie_pace
+278	169	[70, 74]	charlie_pace
+279	170	[0, 2]	charlie_pace
+280	171	[0, 3]	charlie_pace
+281	172	[29, 30]	charlie_pace
+282	172	[49, 50]	charlie_pace
+283	172	[58, 59]	charlie_pace
+284	172	[112, 114]	charlie_pace
+285	173		
+286	174		
+287	175	[0, 3]	charlie_pace
+288	176	[21, 24]	john_locke
+289	177	[8, 9]	john_locke
+290	177	[23, 30]	charlie_pace
+291	178	[19, 20]	sayid_jarrah
+292	179	[0, 1]	sayid_jarrah
+293	179	[8, 9]	sayid_jarrah
+294	179	[59, 60]	sayid_jarrah
+295	179	[118, 119]	sayid_jarrah
+296	179	[152, 159]	michael_dawson
+297	179	[18, 21]	jinsoo_kwon
+298	179	[70, 73]	jinsoo_kwon
+299	179	[140, 142]	jinsoo_kwon
+300	179	[126, 129]	sunhwa_kwon
+301	180	[0, 3]	sayid_jarrah
+302	180	[13, 16]	sayid_jarrah
+303	180	[29, 31]	dr_jack_shephard
+304	180	[59, 62]	sayid_jarrah
+305	180	[90, 91]	dr_jack_shephard
+306	180	[184, 186]	dr_jack_shephard
+307	180	[43, 46]	sunhwa_kwon
+308	181	[0, 3]	dr_jack_shephard
+309	181	[36, 39]	dr_jack_shephard
+310	181	[56, 58]	multiple_persons
+311	181	[64, 67]	dr_jack_shephard
+312	181	[84, 88]	dr_jack_shephard
+313	182	[0, 1]	dr_jack_shephard
+314	183		
+315	184	[36, 38]	multiple_persons
+316	185	[0, 3]	multiple_persons
+317	185	[82, 84]	multiple_persons
+318	186	[37, 39]	multiple_persons
+319	186	[52, 57]	sayid_jarrah
+320	187		
+321	188	[0, 1]	sayid_jarrah
+322	189	[11, 12]	michael_dawson
+323	189	[26, 29]	sayid_jarrah
+324	189	[30, 32]	michael_dawson
+325	190	[0, 1]	sayid_jarrah
+326	190	[22, 23]	sayid_jarrah
+327	190	[58, 61]	michael_dawson
+328	191	[0, 1]	michael_dawson
+329	191	[24, 25]	michael_dawson
+330	191	[35, 38]	sayid_jarrah
+331	191	[86, 89]	sayid_jarrah
+332	192	[63, 64]	sayid_jarrah
+333	192	[87, 90]	michael_dawson
+334	192	[43, 47]	dr_jack_shephard
+335	193	[13, 14]	michael_dawson
+336	193	[65, 67]	michael_dawson
+337	193	[106, 107]	michael_dawson
+338	194		
+339	195		
+340	196	[5, 8]	hugo_reyes
+341	197	[10, 11]	hugo_reyes
+342	197	[59, 62]	dr_jack_shephard
+343	197	[67, 71]	kate_austen
+344	197	[74, 77]	dr_jack_shephard
+345	198	[11, 12]	dr_jack_shephard
+346	199		
+347	200	[9, 13]	hugo_reyes
+348	200	[31, 33]	multiple_persons
+349	201	[155, 156]	james_ford
+350	201	[195, 196]	james_ford
+351	201	[131, 134]	kate_austen
+352	201	[233, 236]	kate_austen
+353	201	[306, 309]	kate_austen
+354	202	[4, 7]	james_ford
+355	203	[44, 46]	multiple_persons
+356	204	[24, 26]	kate_austen
+357	205	[0, 3]	INTERIOR
+358	205	[19, 23]	james_ford
+359	205	[30, 31]	james_ford
+360	206		
+361	207		
+362	208		
+363	209		
+364	210		
+365	211		
+366	212		
+367	213		
+368	214		
+369	215		
+370	216		
+371	217		
+372	218		
+373	219		
+374	220		
+375	221	[0, 1]	sunhwa_kwon
+376	221	[18, 21]	michael_dawson
+377	222	[0, 3]	sunhwa_kwon
+378	223		
+379	224	[7, 10]	sunhwa_kwon
+380	224	[39, 42]	sunhwa_kwon
+381	225	[0, 2]	sunhwa_kwon
+382	225	[3, 10]	jinsoo_kwon
+383	226	[10, 13]	sunhwa_kwon
+384	226	[41, 45]	sunhwa_kwon
+385	226	[46, 53]	jinsoo_kwon
+386	227	[27, 29]	sunhwa_kwon
+387	227	[45, 48]	michael_dawson
+388	227	[0, 2]	jinsoo_kwon
+389	227	[30, 37]	jinsoo_kwon
+390	228	[5, 6]	michael_dawson
+391	229		
+392	230	[0, 4]	sunhwa_kwon
+393	230	[29, 31]	michael_dawson
+394	230	[48, 49]	michael_dawson
+395	230	[5, 12]	jinsoo_kwon
+396	231	[14, 16]	sunhwa_kwon
+397	231	[17, 23]	sunhwa_kwon's_father
+398	232	[24, 26]	michael_dawson
+399	232	[39, 41]	michael_dawson
+400	232	[0, 2]	sunhwa_kwon's_father
+401	233	[16, 18]	sunhwa_kwon
+402	233	[28, 29]	sunhwa_kwon
+403	233	[35, 39]	michael_dawson
+404	233	[0, 3]	michael_dawson
+405	233	[19, 25]	sunhwa_kwon's_father
+406	234	[10, 12]	charlie_pace
+407	234	[15, 18]	sunhwa_kwon
+408	234	[29, 30]	charlie_pace
+409	235	[16, 18]	john_locke
+410	235	[21, 24]	charlie_pace
+411	235	[48, 50]	john_locke
+412	235	[152, 156]	charlie_pace
+413	236	[15, 17]	charlie_pace
+414	236	[23, 26]	john_locke
+415	236	[48, 50]	charlie_pace
+416	237	[0, 1]	john_locke
+417	237	[34, 37]	charlie_pace
+418	237	[46, 47]	john_locke
+419	237	[65, 68]	charlie_pace
+420	237	[86, 87]	john_locke
+421	237	[108, 111]	charlie_pace
+422	237	[117, 121]	charlie_pace
+423	238	[10, 14]	charlie_pace
+424	239	[10, 13]	john_locke
+425	240	[5, 6]	john_locke
+426	240	[48, 51]	charlie_pace
+427	240	[57, 60]	charlie_pace
+428	240	[83, 86]	charlie_pace
+429	241	[0, 3]	john_locke
+430	241	[17, 20]	john_locke
+431	241	[30, 32]	charlie_pace
+432	242	[10, 17]	charlie_pace
+433	243	[0, 3]	john_locke
+434	243	[25, 27]	charlie_pace
+435	244	[0, 1]	john_locke
+436	244	[7, 10]	charlie_pace
+437	245		
+438	246	[0, 1]	kate_austen
+439	246	[20, 23]	UNKNOWN
+440	247	[17, 20]	kate_austen
+441	248	[0, 1]	kate_austen
+442	249	[98, 101]	kate_austen
+443	250		
+444	251	[18, 22]	kate_austen
+445	251	[33, 36]	kate_austen
+446	251	[79, 82]	kate_austen
+447	252	[0, 3]	dr_jack_shephard
+448	252	[8, 12]	dr_jack_shephard
+449	253	[3, 6]	kate_austen
+450	253	[12, 14]	dr_jack_shephard
+451	253	[15, 18]	kate_austen
+452	253	[38, 40]	dr_jack_shephard
+453	254	[0, 3]	dr_jack_shephard
+454	254	[23, 25]	kate_austen
+455	255	[0, 1]	michael_dawson
+456	255	[7, 10]	jinsoo_kwon
+457	255	[51, 52]	michael_dawson
+458	255	[98, 99]	michael_dawson
+459	255	[126, 127]	michael_dawson
+460	255	[137, 141]	jinsoo_kwon
+461	255	[147, 150]	jinsoo_kwon
+462	255	[167, 168]	michael_dawson
+463	255	[209, 211]	michael_dawson
+464	255	[219, 220]	michael_dawson
+465	255	[233, 235]	michael_dawson
+466	255	[252, 253]	michael_dawson
+467	255	[301, 302]	michael_dawson
+468	255	[345, 347]	michael_dawson
+469	255	[372, 373]	michael_dawson
+470	255	[409, 413]	michael_dawson
+471	255	[424, 425]	michael_dawson
+472	255	[459, 460]	michael_dawson
+473	255	[236, 239]	walt_lloyd
+474	255	[264, 267]	walt_lloyd
+475	255	[268, 273]	michael_dawson
+476	256	[15, 17]	michael_dawson
+477	256	[24, 26]	michael_dawson
+478	256	[27, 30]	walt_lloyd
+479	257		
+480	258		
+481	259		
+482	260		
+483	261		
+484	262		
+485	263	[4, 5]	walt_lloyd
+486	263	[10, 13]	michael_dawson
+487	264	[9, 12]	walt_lloyd
+488	265	[8, 12]	michael_dawson

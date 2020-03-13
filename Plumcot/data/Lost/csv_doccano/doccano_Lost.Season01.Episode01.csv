@@ -1,0 +1,419 @@
+	idSent	idChar	label
+0	1	[0, 4]	walt_lloyd
+1	1	[7, 11]	walt_lloyd
+2	2		
+3	3	[30, 32]	REDSHIRT
+4	3	[55, 57]	REDSHIRT
+5	4	[20, 22]	dr_jack_shephard
+6	4	[70, 72]	dr_jack_shephard
+7	4	[4, 7]	multiple_persons
+8	4	[32, 35]	multiple_persons
+9	5	[19, 21]	claire_littleton
+10	5	[29, 31]	claire_littleton
+11	5	[46, 48]	claire_littleton
+12	6	[16, 19]	REDSHIRT_
+13	6	[38, 41]	REDSHIRT_
+14	6	[69, 72]	REDSHIRT_
+15	7	[5, 7]	claire_littleton
+16	7	[19, 20]	claire_littleton
+17	7	[33, 34]	claire_littleton
+18	8	[29, 32]	claire_littleton
+19	9	[0, 1]	claire_littleton
+20	9	[7, 8]	claire_littleton
+21	10		
+22	11	[0, 1]	claire_littleton
+23	12		
+24	13		
+25	14	[10, 12]	dr_jack_shephard
+26	14	[23, 25]	dr_jack_shephard
+27	14	[73, 75]	dr_jack_shephard
+28	14	[28, 31]	claire_littleton
+29	14	[58, 61]	claire_littleton
+30	14	[82, 85]	claire_littleton
+31	15	[6, 9]	hugo_reyes
+32	15	[24, 25]	dr_jack_shephard
+33	15	[31, 34]	hugo_reyes
+34	15	[82, 85]	UNKNOWN
+35	15	[109, 112]	UNKNOWN
+36	15	[118, 121]	UNKNOWN
+37	15	[192, 194]	dr_jack_shephard
+38	16	[5, 8]	dr_jack_shephard
+39	16	[27, 29]	hugo_reyes
+40	17	[0, 1]	dr_jack_shephard
+41	18		
+42	19	[14, 18]	dr_jack_shephard
+43	20	[0, 4]	dr_jack_shephard
+44	21	[48, 51]	boone_carlyle
+45	21	[7, 10]	UNKNOWN
+46	21	[73, 76]	UNKNOWN
+47	22	[0, 3]	dr_jack_shephard
+48	23	[21, 22]	boone_carlyle
+49	23	[35, 36]	boone_carlyle
+50	23	[54, 55]	boone_carlyle
+51	24	[14, 17]	boone_carlyle
+52	25	[6, 8]	multiple_persons
+53	25	[46, 49]	dr_jack_shephard
+54	26	[30, 32]	dr_jack_shephard
+55	26	[19, 22]	boone_carlyle
+56	27		
+57	28		
+58	29	[25, 28]	claire_littleton
+59	29	[38, 41]	claire_littleton
+60	30	[0, 3]	claire_littleton
+61	31		
+62	32	[0, 3]	hugo_reyes
+63	32	[18, 21]	claire_littleton
+64	33	[7, 8]	hugo_reyes
+65	33	[0, 4]	dr_jack_shephard
+66	34	[0, 1]	boone_carlyle
+67	35		
+68	36	[7, 9]	dr_jack_shephard
+69	36	[16, 19]	kate_austen
+70	37		
+71	38	[4, 7]	kate_austen
+72	39	[0, 1]	kate_austen
+73	39	[10, 11]	kate_austen
+74	39	[31, 33]	kate_austen
+75	40	[32, 35]	kate_austen
+76	40	[52, 53]	dr_jack_shephard
+77	41		
+78	42		
+79	43	[7, 8]	dr_jack_shephard
+80	43	[18, 24]	dr_jack_shephard
+81	43	[27, 28]	dr_jack_shephard
+82	43	[47, 48]	dr_jack_shephard
+83	44	[0, 3]	dr_jack_shephard
+84	44	[9, 11]	kate_austen
+85	45		
+86	46	[21, 22]	kate_austen
+87	47	[5, 8]	kate_austen
+88	47	[23, 24]	dr_jack_shephard
+89	47	[36, 39]	kate_austen
+90	47	[45, 48]	kate_austen
+91	48	[10, 11]	kate_austen
+92	49	[22, 26]	kate_austen
+93	49	[40, 42]	dr_jack_shephard
+94	50		
+95	51		
+96	52		
+97	53	[4, 7]	charlie_pace
+98	53	[18, 22]	charlie_pace
+99	54	[0, 2]	charlie_pace
+100	54	[5, 12]	charlie_pace
+101	55	[0, 7]	charlie_pace
+102	55	[10, 12]	multiple_persons
+103	56	[7, 8]	charlie_pace
+104	56	[28, 32]	sayid_jarrah
+105	57	[0, 5]	sayid_jarrah
+106	58	[0, 5]	sayid_jarrah
+107	58	[8, 9]	charlie_pace
+108	58	[21, 26]	sayid_jarrah
+109	59	[0, 1]	kate_austen
+110	59	[20, 23]	dr_jack_shephard
+111	60	[0, 3]	kate_austen
+112	61	[0, 3]	dr_jack_shephard
+113	61	[32, 33]	kate_austen
+114	62	[43, 44]	dr_jack_shephard
+115	62	[64, 66]	dr_jack_shephard
+116	62	[175, 176]	dr_jack_shephard
+117	62	[189, 192]	UNKNOWN
+118	62	[200, 201]	dr_jack_shephard
+119	62	[204, 205]	dr_jack_shephard
+120	62	[226, 229]	UNKNOWN
+121	62	[398, 401]	UNKNOWN
+122	62	[454, 457]	UNKNOWN
+123	62	[462, 463]	dr_jack_shephard
+124	62	[517, 518]	dr_jack_shephard
+125	62	[524, 525]	dr_jack_shephard
+126	62	[550, 552]	UNKNOWN
+127	62	[570, 571]	dr_jack_shephard
+128	62	[593, 594]	dr_jack_shephard
+129	62	[697, 698]	dr_jack_shephard
+130	62	[725, 726]	dr_jack_shephard
+131	62	[797, 798]	dr_jack_shephard
+132	62	[825, 828]	UNKNOWN
+133	62	[836, 839]	UNKNOWN
+134	63	[17, 19]	kate_austen
+135	63	[22, 23]	kate_austen
+136	63	[30, 31]	kate_austen
+137	64	[5, 6]	dr_jack_shephard
+138	64	[35, 38]	kate_austen
+139	65	[0, 3]	charlie_pace
+140	66		
+141	67		
+142	68	[6, 7]	shannon_rutherford
+143	69	[0, 7]	shannon_rutherford
+144	69	[10, 12]	multiple_persons
+145	70	[89, 90]	shannon_rutherford
+146	70	[122, 123]	shannon_rutherford
+147	71		
+148	72		
+149	73	[17, 20]	claire_littleton
+150	74	[5, 8]	claire_littleton
+151	74	[11, 14]	claire_littleton
+152	75		
+153	76	[7, 10]	hugo_reyes
+154	77	[0, 3]	UNKNOWN
+155	77	[9, 12]	UNKNOWN
+156	78		
+157	79	[13, 15]	UNKNOWN
+158	79	[3, 6]	dr_jack_shephard
+159	80	[3, 6]	kate_austen
+160	80	[12, 15]	UNKNOWN
+161	81	[0, 2]	UNKNOWN
+162	81	[23, 25]	kate_austen
+163	82	[0, 2]	multiple_persons
+164	82	[128, 129]	dr_jack_shephard
+165	83	[0, 1]	kate_austen
+166	83	[12, 13]	kate_austen
+167	83	[36, 37]	kate_austen
+168	83	[72, 73]	kate_austen
+169	83	[90, 96]	kate_austen
+170	84	[59, 61]	multiple_persons
+171	84	[91, 93]	multiple_persons
+172	85		
+173	86	[26, 28]	multiple_persons
+174	86	[72, 74]	multiple_persons
+175	86	[160, 162]	multiple_persons
+176	87	[7, 10]	dr_jack_shephard
+177	88	[43, 45]	dr_jack_shephard
+178	89	[0, 1]	kate_austen
+179	89	[48, 51]	dr_jack_shephard
+180	89	[95, 96]	kate_austen
+181	89	[111, 114]	dr_jack_shephard
+182	90	[0, 1]	dr_jack_shephard
+183	90	[14, 18]	kate_austen
+184	91	[0, 1]	kate_austen
+185	91	[5, 9]	kate_austen
+186	92	[0, 4]	dr_jack_shephard
+187	93		
+188	94		
+189	95	[8, 15]	UNKNOWN
+190	96	[10, 17]	UNKNOWN
+191	97		
+192	98		
+193	99	[0, 5]	boone_carlyle
+194	100		
+195	101		
+196	102		
+197	103		
+198	104		
+199	105		
+200	106		
+201	107	[7, 9]	charlie_pace
+202	108	[13, 15]	cindy_chandler
+203	108	[0, 3]	charlie_pace
+204	109	[6, 8]	charlie_pace
+205	110	[13, 15]	cindy_chandler
+206	110	[0, 3]	charlie_pace
+207	111	[103, 107]	multiple_persons
+208	111	[125, 129]	multiple_persons
+209	112		
+210	113	[5, 6]	rose_nadler
+211	113	[14, 15]	rose_nadler
+212	113	[56, 58]	rose_nadler
+213	113	[83, 85]	rose_nadler
+214	113	[59, 66]	bernard_nadler
+215	114	[7, 9]	bernard_nadler
+216	115	[17, 20]	bernard_nadler
+217	115	[31, 33]	bernard_nadler
+218	116	[7, 8]	dr_jack_shephard
+219	116	[18, 21]	rose_nadler
+220	116	[36, 38]	bernard_nadler
+221	117	[48, 49]	michael_dawson
+222	118	[26, 27]	rose_nadler
+223	119	[19, 22]	rose_nadler
+224	120		
+225	121		
+226	122		
+227	123	[25, 27]	multiple_persons
+228	123	[48, 50]	multiple_persons
+229	123	[14, 17]	multiple_persons
+230	124	[0, 2]	multiple_persons
+231	125	[0, 3]	dr_jack_shephard
+232	126	[0, 4]	kate_austen
+233	126	[7, 10]	kate_austen
+234	126	[18, 20]	dr_jack_shephard
+235	126	[43, 44]	dr_jack_shephard
+236	126	[59, 65]	dr_jack_shephard
+237	127	[0, 1]	kate_austen
+238	128	[7, 10]	kate_austen
+239	129		
+240	130		
+241	131	[7, 8]	shannon_rutherford
+242	132		
+243	133	[5, 6]	hugo_reyes
+244	133	[85, 87]	multiple_persons
+245	133	[75, 78]	multiple_persons
+246	134	[9, 12]	hugo_reyes
+247	135		
+248	136		
+249	137		
+250	138	[0, 2]	multiple_persons
+251	138	[44, 46]	multiple_persons
+252	138	[236, 239]	UNKNOWN
+253	138	[262, 265]	UNKNOWN
+254	138	[136, 139]	boone_carlyle
+255	138	[298, 301]	boone_carlyle
+256	139		
+257	140	[0, 1]	dr_jack_shephard
+258	140	[25, 26]	dr_jack_shephard
+259	140	[52, 54]	UNKNOWN
+260	140	[57, 59]	UNKNOWN
+261	141		
+262	142	[0, 1]	charlie_pace
+263	142	[16, 19]	boone_carlyle
+264	142	[22, 23]	charlie_pace
+265	143	[0, 1]	dr_jack_shephard
+266	144	[18, 19]	charlie_pace
+267	145	[4, 5]	kate_austen
+268	145	[10, 13]	charlie_pace
+269	146	[0, 2]	charlie_pace
+270	146	[5, 6]	charlie_pace
+271	146	[24, 25]	charlie_pace
+272	147	[5, 7]	multiple_persons
+273	148		
+274	149		
+275	150	[0, 1]	charlie_pace
+276	151		
+277	152		
+278	153	[5, 6]	kate_austen
+279	154	[7, 8]	charlie_pace
+280	154	[15, 16]	charlie_pace
+281	155	[0, 3]	charlie_pace
+282	156	[0, 3]	kate_austen
+283	156	[20, 23]	kate_austen
+284	156	[40, 43]	kate_austen
+285	157	[0, 1]	kate_austen
+286	157	[17, 18]	kate_austen
+287	158	[8, 10]	multiple_persons
+288	158	[70, 73]	kate_austen
+289	159		
+290	160		
+291	161	[0, 3]	charlie_pace
+292	162	[0, 1]	charlie_pace
+293	162	[22, 23]	charlie_pace
+294	163		
+295	164	[7, 14]	charlie_pace
+296	164	[27, 30]	kate_austen
+297	164	[38, 39]	charlie_pace
+298	165	[0, 2]	kate_austen
+299	165	[29, 32]	UNKNOWN
+300	165	[43, 47]	multiple_persons
+301	165	[39, 42]	multiple_persons
+302	165	[10, 14]	UNKNOWN
+303	166	[5, 7]	charlie_pace
+304	166	[25, 26]	charlie_pace
+305	166	[36, 39]	UNKNOWN
+306	166	[42, 43]	charlie_pace
+307	166	[49, 50]	charlie_pace
+308	166	[8, 12]	UNKNOWN
+309	167		
+310	168	[5, 8]	UNKNOWN
+311	169	[5, 8]	dr_jack_shephard
+312	170	[0, 3]	multiple_persons
+313	170	[22, 25]	multiple_persons
+314	171	[0, 2]	multiple_persons
+315	172		
+316	173	[16, 18]	multiple_persons
+317	174	[65, 68]	multiple_persons
+318	175	[0, 1]	hugo_reyes
+319	175	[17, 20]	multiple_persons
+320	176		
+321	177	[3, 5]	rose_nadler
+322	178		
+323	179		
+324	180		
+325	181		
+326	182		
+327	183	[0, 3]	kate_austen
+328	184	[7, 10]	dr_jack_shephard
+329	185		
+330	186	[0, 1]	charlie_pace
+331	186	[12, 19]	charlie_pace
+332	187	[6, 9]	kate_austen
+333	188	[5, 6]	kate_austen
+334	189		
+335	190		
+336	191	[19, 21]	dr_jack_shephard
+337	191	[24, 25]	dr_jack_shephard
+338	191	[10, 13]	PILOT
+339	192		
+340	193		
+341	194	[15, 17]	PILOT
+342	195		
+343	196		
+344	197		
+345	198		
+346	199		
+347	200	[15, 18]	multiple_persons
+348	200	[55, 57]	multiple_persons
+349	200	[60, 62]	multiple_persons
+350	200	[105, 107]	multiple_persons
+351	200	[125, 127]	multiple_persons
+352	200	[130, 132]	multiple_persons
+353	200	[189, 191]	multiple_persons
+354	201	[0, 2]	multiple_persons
+355	202	[27, 29]	multiple_persons
+356	202	[53, 56]	PILOT
+357	203	[10, 11]	PILOT
+358	204	[9, 16]	charlie_pace
+359	205		
+360	206	[0, 7]	charlie_pace
+361	207	[10, 13]	charlie_pace
+362	208		
+363	209		
+364	210	[0, 4]	kate_austen
+365	211		
+366	212		
+367	213		
+368	214		
+369	215	[0, 4]	dr_jack_shephard
+370	216		
+371	217		
+372	218		
+373	219	[14, 21]	dr_jack_shephard
+374	220	[0, 4]	kate_austen
+375	221	[18, 22]	dr_jack_shephard
+376	222	[0, 1]	charlie_pace
+377	223	[4, 7]	charlie_pace
+378	223	[12, 15]	dr_jack_shephard
+379	224	[17, 19]	charlie_pace
+380	224	[7, 9]	dr_jack_shephard
+381	225	[9, 11]	dr_jack_shephard
+382	226	[0, 1]	charlie_pace
+383	227	[8, 11]	charlie_pace
+384	228	[0, 2]	multiple_persons
+385	228	[26, 27]	charlie_pace
+386	228	[30, 31]	charlie_pace
+387	228	[70, 72]	charlie_pace
+388	228	[48, 50]	dr_jack_shephard
+389	228	[53, 55]	dr_jack_shephard
+390	229	[4, 7]	charlie_pace
+391	230	[35, 37]	multiple_persons
+392	230	[50, 51]	charlie_pace
+393	230	[72, 76]	dr_jack_shephard
+394	230	[108, 110]	charlie_pace
+395	230	[116, 117]	charlie_pace
+396	230	[93, 95]	dr_jack_shephard
+397	230	[98, 100]	dr_jack_shephard
+398	230	[136, 138]	dr_jack_shephard
+399	231	[0, 2]	multiple_persons
+400	231	[23, 26]	dr_jack_shephard
+401	232	[18, 22]	kate_austen
+402	233		
+403	234	[0, 4]	kate_austen
+404	235	[0, 1]	charlie_pace
+405	235	[20, 21]	charlie_pace
+406	235	[43, 47]	dr_jack_shephard
+407	235	[55, 56]	charlie_pace
+408	235	[60, 67]	charlie_pace
+409	235	[8, 11]	kate_austen
+410	235	[28, 31]	kate_austen
+411	236		
+412	237		
+413	238		
+414	239	[4, 7]	dr_jack_shephard
+415	240	[25, 27]	dr_jack_shephard
+416	240	[38, 39]	dr_jack_shephard
+417	241		
