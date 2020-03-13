@@ -1,0 +1,606 @@
+	idSent	idChar	label
+0	1	[13, 16]	kate_austen
+1	1	[19, 22]	kate_austen
+2	2	[0, 3]	marshal_edward_mars
+3	3	[13, 16]	kate_austen
+4	3	[33, 36]	kate_austen
+5	4	[7, 10]	marshal_edward_mars
+6	4	[45, 46]	dr_jack_shephard
+7	4	[51, 54]	marshal_edward_mars
+8	4	[59, 62]	marshal_edward_mars
+9	4	[82, 85]	marshal_edward_mars
+10	4	[98, 100]	dr_jack_shephard
+11	4	[115, 119]	marshal_edward_mars
+12	4	[151, 152]	dr_jack_shephard
+13	4	[165, 168]	marshal_edward_mars
+14	4	[186, 189]	marshal_edward_mars
+15	5	[0, 2]	marshal_edward_mars
+16	5	[11, 13]	marshal_edward_mars
+17	5	[36, 38]	marshal_edward_mars
+18	6		
+19	7	[0, 2]	marshal_edward_mars
+20	8	[0, 1]	dr_jack_shephard
+21	9		
+22	10		
+23	11	[12, 15]	kate_austen
+24	12		
+25	13		
+26	14		
+27	15		
+28	16	[0, 2]	multiple_persons
+29	17		
+30	18		
+31	19	[0, 1]	james_ford
+32	19	[20, 23]	multiple_persons
+33	20		
+34	21	[41, 43]	multiple_persons
+35	22	[46, 49]	james_ford
+36	23	[10, 13]	sayid_jarrah
+37	23	[35, 37]	james_ford
+38	23	[50, 53]	sayid_jarrah
+39	23	[59, 61]	james_ford
+40	24	[20, 24]	james_ford
+41	24	[42, 47]	sayid_jarrah
+42	24	[62, 65]	james_ford
+43	24	[79, 82]	james_ford
+44	24	[33, 39]	james_ford
+45	25		
+46	26	[6, 8]	kate_austen
+47	27	[28, 30]	multiple_persons
+48	28		
+49	29	[13, 15]	multiple_persons
+50	29	[39, 41]	multiple_persons
+51	29	[149, 151]	UNKNOWN
+52	29	[157, 159]	UNKNOWN
+53	30	[20, 22]	UNKNOWN
+54	31	[5, 7]	multiple_persons
+55	31	[51, 53]	multiple_persons
+56	31	[92, 94]	multiple_persons
+57	32	[15, 17]	multiple_persons
+58	33	[27, 29]	multiple_persons
+59	33	[88, 92]	multiple_persons
+60	34	[8, 10]	multiple_persons
+61	35	[15, 18]	sayid_jarrah
+62	36		
+63	37		
+64	38	[56, 58]	multiple_persons
+65	38	[111, 113]	multiple_persons
+66	38	[144, 147]	charlie_pace
+67	38	[190, 193]	sayid_jarrah
+68	38	[171, 176]	UNKNOWN
+69	39		
+70	40		
+71	41	[7, 9]	multiple_persons
+72	41	[39, 41]	multiple_persons
+73	42		
+74	43	[5, 7]	multiple_persons
+75	44	[28, 29]	shannon_rutherford
+76	44	[0, 3]	boone_carlyle
+77	45	[54, 56]	multiple_persons
+78	45	[118, 120]	multiple_persons
+79	45	[136, 138]	multiple_persons
+80	45	[144, 146]	multiple_persons
+81	46	[3, 5]	multiple_persons
+82	47		
+83	48		
+84	49	[0, 3]	dr_jack_shephard
+85	49	[8, 11]	dr_jack_shephard
+86	50	[0, 1]	dr_jack_shephard
+87	51	[10, 13]	dr_jack_shephard
+88	52		
+89	53	[23, 26]	marshal_edward_mars
+90	53	[35, 37]	marshal_edward_mars
+91	54	[0, 2]	marshal_edward_mars
+92	55	[0, 2]	marshal_edward_mars
+93	56	[0, 3]	marshal_edward_mars
+94	57		
+95	58	[5, 8]	marshal_edward_mars
+96	58	[51, 54]	marshal_edward_mars
+97	59	[0, 2]	marshal_edward_mars
+98	59	[14, 16]	marshal_edward_mars
+99	60		
+100	61	[42, 45]	dr_jack_shephard
+101	61	[52, 55]	kate_austen
+102	61	[20, 24]	dr_jack_shephard
+103	62	[14, 16]	dr_jack_shephard
+104	63	[0, 3]	kate_austen
+105	64	[0, 6]	hugo_reyes
+106	65	[9, 12]	boone_carlyle
+107	66	[17, 20]	sayid_jarrah
+108	67	[0, 3]	boone_carlyle
+109	67	[9, 11]	james_ford
+110	67	[20, 22]	james_ford
+111	68	[9, 12]	james_ford
+112	68	[41, 43]	boone_carlyle
+113	68	[71, 73]	boone_carlyle
+114	69	[0, 1]	boone_carlyle
+115	70	[16, 18]	sayid_jarrah
+116	71	[46, 48]	multiple_persons
+117	71	[31, 33]	sayid_jarrah
+118	72		
+119	73	[0, 1]	boone_carlyle
+120	74	[0, 2]	multiple_persons
+121	74	[21, 24]	kate_austen
+122	75	[7, 11]	kate_austen
+123	76	[10, 12]	sayid_jarrah
+124	77		
+125	78		
+126	79	[0, 3]	kate_austen
+127	79	[21, 23]	ray_mullen
+128	80		
+129	81	[7, 10]	kate_austen
+130	82	[0, 1]	kate_austen
+131	83	[0, 3]	kate_austen
+132	84		
+133	85		
+134	86		
+135	87		
+136	88	[18, 19]	kate_austen
+137	89	[8, 12]	kate_austen
+138	90	[0, 5]	kate_austen
+139	91	[0, 3]	kate_austen
+140	91	[13, 18]	kate_austen
+141	92	[3, 6]	kate_austen
+142	92	[20, 22]	ray_mullen
+143	92	[27, 30]	kate_austen
+144	92	[50, 52]	ray_mullen
+145	93	[0, 1]	kate_austen
+146	94	[0, 3]	kate_austen
+147	95	[11, 12]	kate_austen
+148	95	[48, 49]	kate_austen
+149	95	[90, 92]	kate_austen
+150	95	[101, 102]	kate_austen
+151	95	[136, 137]	kate_austen
+152	95	[166, 167]	kate_austen
+153	95	[176, 177]	kate_austen
+154	95	[199, 202]	ray_mullen
+155	96		
+156	97	[0, 1]	kate_austen
+157	98	[4, 7]	kate_austen
+158	98	[37, 39]	ray_mullen
+159	99	[0, 1]	kate_austen
+160	100	[3, 6]	kate_austen
+161	101		
+162	102	[0, 2]	ray_mullen
+163	102	[38, 41]	UNKNOWN
+164	102	[47, 49]	ray_mullen
+165	102	[101, 104]	kate_austen
+166	102	[110, 112]	ray_mullen
+167	102	[134, 135]	ray_mullen
+168	102	[145, 148]	kate_austen
+169	102	[3, 7]	UNKNOWN
+170	103		
+171	104	[5, 6]	ray_mullen
+172	105	[0, 4]	dr_jack_shephard
+173	105	[7, 11]	dr_jack_shephard
+174	106	[29, 31]	multiple_persons
+175	106	[99, 101]	multiple_persons
+176	106	[149, 151]	multiple_persons
+177	106	[200, 202]	multiple_persons
+178	106	[226, 228]	multiple_persons
+179	106	[288, 289]	sayid_jarrah
+180	106	[315, 317]	multiple_persons
+181	106	[377, 379]	multiple_persons
+182	106	[403, 406]	multiple_persons
+183	106	[438, 440]	multiple_persons
+184	106	[480, 481]	sayid_jarrah
+185	106	[575, 576]	sayid_jarrah
+186	106	[670, 671]	sayid_jarrah
+187	106	[3, 6]	multiple_persons
+188	106	[259, 263]	multiple_persons
+189	106	[636, 639]	UNKNOWN
+190	107		
+191	108		
+192	109	[0, 1]	kate_austen
+193	109	[9, 10]	kate_austen
+194	109	[24, 27]	dr_jack_shephard
+195	110		
+196	111	[0, 2]	multiple_persons
+197	111	[97, 99]	multiple_persons
+198	111	[156, 159]	UNKNOWN
+199	111	[225, 228]	UNKNOWN
+200	111	[289, 293]	dr_jack_shephard
+201	111	[296, 297]	kate_austen
+202	111	[313, 316]	dr_jack_shephard
+203	112		
+204	113	[7, 9]	marshal_edward_mars
+205	113	[41, 44]	marshal_edward_mars
+206	114		
+207	115	[0, 2]	marshal_edward_mars
+208	116		
+209	117	[0, 2]	marshal_edward_mars
+210	118		
+211	119	[11, 14]	kate_austen
+212	120	[0, 3]	kate_austen
+213	121	[4, 7]	dr_jack_shephard
+214	121	[17, 20]	dr_jack_shephard
+215	121	[13, 16]	kate_austen
+216	122	[0, 1]	dr_jack_shephard
+217	123	[7, 10]	dr_jack_shephard
+218	123	[59, 61]	multiple_persons
+219	123	[24, 27]	kate_austen
+220	123	[119, 122]	kate_austen
+221	123	[138, 141]	kate_austen
+222	124	[10, 12]	dr_jack_shephard
+223	124	[28, 30]	dr_jack_shephard
+224	125	[7, 10]	dr_jack_shephard
+225	125	[23, 25]	multiple_persons
+226	125	[60, 63]	kate_austen
+227	125	[69, 71]	marshal_edward_mars
+228	125	[34, 40]	marshal_edward_mars
+229	125	[41, 46]	marshal_edward_mars
+230	126	[28, 30]	multiple_persons
+231	126	[0, 2]	marshal_edward_mars
+232	127	[11, 12]	hugo_reyes
+233	128		
+234	129	[0, 2]	multiple_persons
+235	130		
+236	131		
+237	132		
+238	133		
+239	134	[7, 8]	dr_jack_shephard
+240	134	[36, 39]	hugo_reyes
+241	134	[55, 58]	marshal_edward_mars
+242	135		
+243	136		
+244	137	[9, 12]	james_ford
+245	138	[25, 28]	dr_jack_shephard
+246	139	[0, 3]	james_ford
+247	140	[6, 9]	dr_jack_shephard
+248	141		
+249	142	[49, 54]	dr_jack_shephard
+250	143		
+251	144		
+252	145	[3, 6]	james_ford
+253	146	[10, 13]	dr_jack_shephard
+254	146	[88, 91]	dr_jack_shephard
+255	146	[109, 113]	dr_jack_shephard
+256	146	[121, 124]	dr_jack_shephard
+257	146	[164, 165]	james_ford
+258	146	[207, 209]	james_ford
+259	146	[254, 256]	james_ford
+260	146	[261, 264]	dr_jack_shephard
+261	146	[305, 308]	dr_jack_shephard
+262	146	[0, 7]	dr_jack_shephard
+263	146	[231, 234]	marshal_edward_mars
+264	146	[329, 332]	marshal_edward_mars
+265	147		
+266	148	[16, 19]	dr_jack_shephard
+267	148	[26, 29]	dr_jack_shephard
+268	148	[78, 81]	dr_jack_shephard
+269	148	[72, 75]	dr_jack_shephard
+270	149	[21, 24]	james_ford
+271	150	[0, 2]	james_ford
+272	150	[5, 6]	james_ford
+273	151	[13, 14]	charlie_pace
+274	151	[24, 25]	charlie_pace
+275	152		
+276	153	[81, 83]	multiple_persons
+277	153	[90, 91]	charlie_pace
+278	154		
+279	155		
+280	156		
+281	157		
+282	158		
+283	159	[13, 14]	claire_littleton
+284	160	[12, 16]	claire_littleton
+285	160	[31, 33]	UNKNOWN
+286	160	[17, 24]	UNKNOWN
+287	161	[10, 11]	claire_littleton
+288	162		
+289	163	[0, 1]	claire_littleton
+290	163	[23, 25]	claire_littleton
+291	164		
+292	165	[5, 8]	multiple_persons
+293	165	[9, 13]	multiple_persons
+294	166		
+295	167	[0, 1]	hugo_reyes
+296	168	[0, 2]	multiple_persons
+297	168	[18, 19]	kate_austen
+298	168	[23, 27]	kate_austen
+299	169	[5, 9]	kate_austen
+300	170		
+301	171	[0, 6]	hugo_reyes
+302	172	[0, 1]	kate_austen
+303	172	[23, 27]	dr_jack_shephard
+304	172	[32, 33]	kate_austen
+305	172	[42, 44]	dr_jack_shephard
+306	173	[17, 19]	dr_jack_shephard
+307	174		
+308	175	[31, 34]	kate_austen
+309	175	[42, 43]	hugo_reyes
+310	176	[26, 29]	kate_austen
+311	176	[53, 56]	kate_austen
+312	177	[8, 9]	kate_austen
+313	178	[0, 3]	kate_austen
+314	178	[15, 19]	kate_austen
+315	178	[49, 50]	ray_mullen
+316	178	[58, 59]	ray_mullen
+317	178	[89, 92]	kate_austen
+318	178	[41, 46]	kate_austen
+319	179	[0, 1]	kate_austen
+320	180	[9, 12]	kate_austen
+321	181	[6, 9]	ray_mullen
+322	182	[0, 3]	kate_austen
+323	182	[59, 60]	ray_mullen
+324	182	[65, 68]	kate_austen
+325	182	[75, 83]	kate_austen
+326	182	[86, 89]	kate_austen
+327	182	[107, 111]	kate_austen
+328	182	[141, 142]	ray_mullen
+329	182	[148, 150]	ray_mullen
+330	182	[166, 167]	ray_mullen
+331	182	[182, 185]	kate_austen
+332	182	[242, 245]	kate_austen
+333	182	[252, 253]	ray_mullen
+334	182	[266, 269]	kate_austen
+335	182	[294, 295]	ray_mullen
+336	182	[302, 303]	ray_mullen
+337	182	[36, 41]	kate_austen
+338	183	[0, 1]	kate_austen
+339	184	[13, 15]	ray_mullen
+340	185	[25, 28]	kate_austen
+341	185	[61, 62]	ray_mullen
+342	185	[73, 76]	kate_austen
+343	185	[127, 128]	ray_mullen
+344	185	[6, 11]	kate_austen
+345	186		
+346	187	[0, 1]	ray_mullen
+347	187	[11, 14]	kate_austen
+348	188		
+349	189	[50, 52]	dr_jack_shephard
+350	189	[71, 74]	kate_austen
+351	190	[0, 1]	kate_austen
+352	190	[50, 52]	kate_austen
+353	190	[66, 68]	kate_austen
+354	190	[26, 28]	marshal_edward_mars
+355	190	[37, 39]	marshal_edward_mars
+356	190	[55, 57]	marshal_edward_mars
+357	190	[74, 76]	marshal_edward_mars
+358	191	[0, 2]	marshal_edward_mars
+359	191	[38, 40]	marshal_edward_mars
+360	191	[66, 69]	marshal_edward_mars
+361	191	[97, 100]	marshal_edward_mars
+362	191	[120, 122]	marshal_edward_mars
+363	192	[14, 17]	dr_jack_shephard
+364	193		
+365	194	[6, 9]	marshal_edward_mars
+366	195	[0, 1]	dr_jack_shephard
+367	195	[7, 10]	kate_austen
+368	195	[13, 15]	marshal_edward_mars
+369	196	[5, 7]	marshal_edward_mars
+370	197		
+371	198		
+372	199		
+373	200	[4, 6]	marshal_edward_mars
+374	201	[7, 9]	marshal_edward_mars
+375	202	[7, 10]	dr_jack_shephard
+376	202	[15, 18]	marshal_edward_mars
+377	202	[26, 29]	marshal_edward_mars
+378	203	[0, 1]	dr_jack_shephard
+379	203	[6, 10]	kate_austen
+380	203	[22, 26]	kate_austen
+381	203	[29, 30]	dr_jack_shephard
+382	204		
+383	205		
+384	206	[0, 3]	kate_austen
+385	207	[0, 1]	kate_austen
+386	208	[0, 3]	kate_austen
+387	209	[9, 12]	ray_mullen
+388	209	[27, 30]	ray_mullen
+389	210		
+390	211	[14, 17]	ray_mullen
+391	212	[17, 18]	ray_mullen
+392	212	[23, 27]	kate_austen
+393	212	[57, 58]	ray_mullen
+394	212	[75, 78]	kate_austen
+395	213		
+396	214	[31, 32]	ray_mullen
+397	214	[38, 41]	kate_austen
+398	214	[47, 48]	ray_mullen
+399	214	[53, 56]	kate_austen
+400	214	[59, 60]	ray_mullen
+401	214	[104, 107]	kate_austen
+402	214	[151, 156]	kate_austen
+403	215	[0, 2]	kate_austen
+404	215	[15, 20]	kate_austen
+405	216	[23, 26]	walt_lloyd
+406	217		
+407	218		
+408	219	[9, 14]	john_locke
+409	220	[4, 9]	john_locke
+410	221	[0, 2]	john_locke
+411	222	[16, 18]	john_locke
+412	223	[0, 1]	walt_lloyd
+413	224	[8, 11]	walt_lloyd
+414	224	[17, 20]	walt_lloyd
+415	224	[44, 46]	john_locke
+416	225		
+417	226	[12, 15]	walt_lloyd
+418	226	[28, 30]	michael_dawson
+419	226	[4, 6]	john_locke
+420	227		
+421	228		
+422	229	[4, 9]	john_locke
+423	229	[37, 40]	john_locke
+424	230	[43, 45]	multiple_persons
+425	230	[48, 52]	walt_lloyd
+426	230	[55, 57]	multiple_persons
+427	230	[90, 91]	michael_dawson
+428	230	[104, 107]	walt_lloyd
+429	230	[128, 131]	john_locke
+430	231	[16, 18]	walt_lloyd
+431	231	[10, 12]	john_locke
+432	232	[6, 7]	michael_dawson
+433	232	[11, 15]	walt_lloyd
+434	233	[3, 6]	michael_dawson
+435	233	[12, 14]	walt_lloyd
+436	233	[24, 27]	michael_dawson
+437	233	[36, 43]	vincent_the_dog
+438	234	[0, 4]	walt_lloyd
+439	234	[14, 15]	michael_dawson
+440	234	[37, 41]	walt_lloyd
+441	234	[48, 49]	michael_dawson
+442	234	[76, 77]	michael_dawson
+443	234	[90, 93]	vincent_the_dog
+444	235	[3, 6]	michael_dawson
+445	236	[7, 11]	walt_lloyd
+446	236	[14, 15]	michael_dawson
+447	237	[0, 3]	michael_dawson
+448	237	[22, 29]	vincent_the_dog
+449	238	[0, 1]	michael_dawson
+450	238	[76, 78]	michael_dawson
+451	238	[81, 82]	michael_dawson
+452	238	[18, 22]	walt_lloyd
+453	238	[99, 103]	walt_lloyd
+454	239	[48, 49]	michael_dawson
+455	239	[87, 88]	michael_dawson
+456	239	[67, 71]	walt_lloyd
+457	239	[161, 165]	walt_lloyd
+458	239	[170, 177]	vincent_the_dog
+459	240	[0, 7]	vincent_the_dog
+460	240	[15, 18]	vincent_the_dog
+461	241	[27, 29]	michael_dawson
+462	241	[41, 42]	michael_dawson
+463	241	[105, 106]	michael_dawson
+464	241	[173, 174]	michael_dawson
+465	241	[130, 133]	sunhwa_kwon
+466	241	[144, 147]	sunhwa_kwon
+467	241	[68, 71]	sunhwa_kwon
+468	242	[9, 12]	john_locke
+469	243		
+470	244	[0, 1]	charlie_pace
+471	244	[56, 57]	charlie_pace
+472	245	[0, 1]	shannon_rutherford
+473	245	[7, 9]	marshal_edward_mars
+474	246	[14, 21]	shannon_rutherford
+475	247	[9, 10]	sayid_jarrah
+476	248	[5, 6]	dr_jack_shephard
+477	249		
+478	250	[15, 18]	marshal_edward_mars
+479	251	[13, 16]	dr_jack_shephard
+480	252		
+481	253	[23, 26]	kate_austen
+482	254		
+483	255	[30, 32]	james_ford
+484	256	[0, 1]	kate_austen
+485	256	[28, 31]	james_ford
+486	257	[22, 26]	kate_austen
+487	257	[48, 49]	james_ford
+488	257	[297, 298]	james_ford
+489	257	[305, 308]	kate_austen
+490	258	[10, 12]	marshal_edward_mars
+491	259	[5, 8]	marshal_edward_mars
+492	260	[10, 12]	marshal_edward_mars
+493	260	[65, 68]	dr_jack_shephard
+494	260	[83, 86]	dr_jack_shephard
+495	260	[30, 33]	kate_austen
+496	260	[55, 58]	kate_austen
+497	260	[105, 108]	kate_austen
+498	260	[116, 119]	kate_austen
+499	261	[9, 12]	kate_austen
+500	262	[0, 1]	marshal_edward_mars
+501	262	[18, 21]	kate_austen
+502	263	[5, 7]	dr_jack_shephard
+503	263	[13, 16]	kate_austen
+504	264	[0, 1]	marshal_edward_mars
+505	264	[18, 21]	kate_austen
+506	264	[32, 35]	kate_austen
+507	264	[43, 46]	dr_jack_shephard
+508	265	[6, 10]	kate_austen
+509	266		
+510	267		
+511	268		
+512	269	[0, 1]	kate_austen
+513	269	[19, 22]	marshal_edward_mars
+514	270	[15, 16]	marshal_edward_mars
+515	270	[42, 45]	kate_austen
+516	271	[0, 1]	kate_austen
+517	272		
+518	273		
+519	274	[0, 1]	kate_austen
+520	274	[9, 12]	marshal_edward_mars
+521	274	[31, 34]	ray_mullen
+522	274	[35, 41]	ray_mullen
+523	274	[46, 49]	ray_mullen
+524	275	[26, 29]	kate_austen
+525	276	[0, 2]	ray_mullen
+526	277	[0, 3]	kate_austen
+527	277	[31, 34]	kate_austen
+528	277	[42, 45]	kate_austen
+529	277	[69, 72]	kate_austen
+530	277	[87, 90]	ray_mullen
+531	278	[8, 11]	marshal_edward_mars
+532	278	[30, 31]	kate_austen
+533	279	[0, 3]	kate_austen
+534	279	[24, 26]	marshal_edward_mars
+535	279	[29, 33]	kate_austen
+536	279	[36, 37]	marshal_edward_mars
+537	280		
+538	281	[9, 12]	kate_austen
+539	282		
+540	283		
+541	284	[0, 3]	dr_jack_shephard
+542	284	[8, 11]	kate_austen
+543	285	[8, 11]	kate_austen
+544	285	[26, 29]	kate_austen
+545	286	[11, 14]	kate_austen
+546	287		
+547	288	[24, 25]	hugo_reyes
+548	288	[0, 3]	kate_austen
+549	288	[36, 39]	kate_austen
+550	288	[49, 52]	kate_austen
+551	288	[62, 65]	kate_austen
+552	288	[75, 78]	kate_austen
+553	289	[0, 4]	kate_austen
+554	290	[9, 12]	james_ford
+555	291	[5, 8]	dr_jack_shephard
+556	291	[28, 29]	james_ford
+557	291	[40, 43]	dr_jack_shephard
+558	291	[120, 122]	james_ford
+559	291	[130, 131]	james_ford
+560	291	[89, 91]	marshal_edward_mars
+561	291	[111, 113]	marshal_edward_mars
+562	291	[161, 164]	dr_jack_shephard
+563	292		
+564	293	[0, 3]	james_ford
+565	293	[9, 12]	marshal_edward_mars
+566	294	[0, 1]	james_ford
+567	294	[17, 20]	marshal_edward_mars
+568	295	[0, 3]	james_ford
+569	296	[9, 11]	marshal_edward_mars
+570	297	[0, 3]	james_ford
+571	297	[15, 18]	marshal_edward_mars
+572	298	[13, 14]	james_ford
+573	299		
+574	300		
+575	301		
+576	302	[0, 1]	john_locke
+577	302	[8, 12]	michael_dawson
+578	302	[13, 16]	walt_lloyd
+579	303		
+580	304	[10, 11]	john_locke
+581	304	[53, 54]	john_locke
+582	304	[65, 69]	walt_lloyd
+583	304	[85, 86]	john_locke
+584	304	[100, 103]	michael_dawson
+585	304	[0, 7]	vincent_the_dog
+586	304	[21, 24]	vincent_the_dog
+587	304	[75, 78]	walt_lloyd
+588	304	[131, 134]	walt_lloyd
+589	304	[147, 150]	walt_lloyd
+590	305		
+591	306		
+592	307	[0, 1]	kate_austen
+593	307	[24, 25]	kate_austen
+594	307	[49, 51]	kate_austen
+595	307	[15, 18]	dr_jack_shephard
+596	307	[36, 38]	marshal_edward_mars
+597	308	[0, 1]	dr_jack_shephard
+598	308	[45, 49]	kate_austen
+599	308	[56, 58]	multiple_persons
+600	308	[71, 73]	multiple_persons
+601	308	[145, 147]	multiple_persons
+602	308	[159, 161]	multiple_persons
+603	309		
+604	310		
