@@ -1,0 +1,835 @@
+	idSent	idChar	label
+0	1	[0, 1]	Demon
+1	1	[18, 19]	Demon
+2	2	[56, 57]	cordelia_chase
+3	2	[17, 25]	UNKNOWN
+4	3	[44, 45]	cordelia_chase
+5	3	[56, 57]	cordelia_chase
+6	4	[12, 20]	cordelia_chase
+7	5	[4, 5]	cordelia_chase
+8	6	[65, 69]	lisa
+9	7		
+10	8		
+11	9		
+12	10	[5, 8]	multiple_persons
+13	11	[38, 41]	rupert_giles
+14	12	[0, 3]	multiple_persons
+15	12	[21, 27]	principal_snyder
+16	12	[8, 14]	principal_snyder
+17	13	[0, 1]	willow_rosenberg
+18	14	[33, 35]	rupert_giles
+19	14	[77, 78]	rupert_giles
+20	14	[103, 105]	rupert_giles
+21	14	[5, 7]	principal_snyder
+22	14	[200, 202]	principal_snyder
+23	15	[0, 5]	rupert_giles
+24	15	[84, 87]	rupert_giles
+25	15	[103, 107]	rupert_giles
+26	16	[3, 6]	multiple_persons
+27	16	[34, 37]	multiple_persons
+28	17	[6, 7]	buffy_summers
+29	17	[14, 15]	buffy_summers
+30	17	[28, 32]	rupert_giles
+31	18		
+32	19		
+33	20	[10, 11]	buffy_summers
+34	20	[24, 26]	multiple_persons
+35	20	[40, 43]	multiple_persons
+36	20	[48, 53]	rupert_giles
+37	20	[71, 73]	rupert_giles
+38	21	[0, 9]	principal_snyder
+39	21	[10, 16]	principal_snyder
+40	22	[5, 7]	multiple_persons
+41	22	[45, 47]	multiple_persons
+42	23	[10, 12]	multiple_persons
+43	23	[33, 36]	principal_snyder
+44	24	[4, 6]	multiple_persons
+45	24	[13, 16]	multiple_persons
+46	24	[63, 66]	multiple_persons
+47	25	[11, 13]	multiple_persons
+48	26		
+49	27		
+50	28	[5, 7]	multiple_persons
+51	29	[77, 78]	principal_snyder
+52	29	[85, 86]	principal_snyder
+53	29	[27, 30]	multiple_persons
+54	30		
+55	31		
+56	32		
+57	33	[0, 1]	principal_snyder
+58	33	[20, 23]	multiple_persons
+59	34	[7, 9]	multiple_persons
+60	34	[77, 80]	principal_snyder
+61	34	[93, 95]	multiple_persons
+62	35	[0, 2]	principal_snyder
+63	35	[127, 129]	principal_snyder
+64	35	[21, 27]	principal_bob_flutie
+65	35	[99, 101]	principal_bob_flutie
+66	35	[114, 117]	multiple_persons
+67	36	[4, 5]	xander_harris
+68	37	[0, 1]	principal_snyder
+69	37	[20, 23]	xander_harris
+70	38		
+71	39		
+72	40		
+73	41		
+74	42	[0, 1]	willow_rosenberg
+75	42	[27, 30]	buffy_summers
+76	43	[19, 21]	buffy_summers
+77	43	[43, 44]	buffy_summers
+78	44		
+79	45	[0, 1]	buffy_summers
+80	45	[24, 26]	buffy_summers
+81	46	[5, 6]	morgan_shay
+82	46	[10, 16]	morgan_shay
+83	46	[28, 31]	sid
+84	46	[23, 24]	sid
+85	47	[4, 10]	morgan_shay
+86	47	[19, 22]	morgan_shay
+87	47	[55, 56]	morgan_shay
+88	48	[0, 1]	morgan_shay
+89	49	[71, 74]	morgan_shay
+90	49	[96, 97]	sid
+91	49	[106, 110]	morgan_shay
+92	50	[8, 11]	sid
+93	50	[14, 17]	sid
+94	50	[31, 33]	morgan_shay
+95	50	[40, 41]	morgan_shay
+96	51	[23, 25]	sid
+97	51	[0, 3]	morgan_shay
+98	52		
+99	53	[18, 19]	rupert_giles
+100	53	[8, 11]	multiple_persons
+101	53	[28, 31]	multiple_persons
+102	54		
+103	55		
+104	56		
+105	57	[0, 1]	Demon
+106	58	[0, 1]	marc
+107	59		
+108	60	[0, 1]	xander_harris
+109	61	[0, 6]	xander_harris
+110	62	[0, 1]	xander_harris
+111	62	[4, 5]	xander_harris
+112	62	[15, 16]	xander_harris
+113	62	[22, 24]	xander_harris
+114	62	[40, 41]	xander_harris
+115	62	[63, 65]	xander_harris
+116	62	[78, 79]	xander_harris
+117	62	[100, 101]	xander_harris
+118	63		
+119	64	[4, 6]	multiple_persons
+120	64	[21, 23]	multiple_persons
+121	64	[39, 44]	buffy_summers
+122	65	[8, 9]	buffy_summers
+123	66		
+124	67	[0, 6]	willow_rosenberg
+125	67	[9, 12]	willow_rosenberg
+126	68	[0, 3]	willow_rosenberg
+127	69		
+128	70	[22, 25]	willow_rosenberg
+129	70	[40, 42]	multiple_persons
+130	70	[47, 49]	multiple_persons
+131	71	[48, 49]	willow_rosenberg
+132	72		
+133	73		
+134	74	[0, 6]	morgan_shay
+135	74	[9, 12]	morgan_shay
+136	74	[49, 52]	morgan_shay
+137	75	[30, 32]	morgan_shay
+138	75	[33, 36]	morgan_shay's_father
+139	76		
+140	77	[13, 14]	sid
+141	77	[92, 93]	sid
+142	77	[121, 124]	multiple_persons
+143	77	[84, 87]	willow_rosenberg
+144	77	[131, 136]	willow_rosenberg
+145	78		
+146	79	[0, 3]	xander_harris
+147	79	[30, 33]	xander_harris
+148	80	[7, 13]	morgan_shay
+149	80	[16, 18]	multiple_persons
+150	80	[81, 84]	morgan_shay
+151	80	[140, 143]	morgan_shay
+152	80	[149, 153]	morgan_shay
+153	81	[85, 86]	principal_snyder
+154	81	[92, 101]	principal_bob_flutie
+155	81	[102, 108]	principal_bob_flutie
+156	82	[0, 1]	rupert_giles
+157	82	[4, 5]	rupert_giles
+158	83	[103, 106]	multiple_persons
+159	83	[133, 136]	multiple_persons
+160	84		
+161	85	[7, 8]	principal_snyder
+162	85	[40, 43]	multiple_persons
+163	86	[7, 12]	emily
+164	87	[0, 5]	emily
+165	87	[15, 20]	emily
+166	88	[11, 12]	xander_harris
+167	89	[111, 114]	emily
+168	89	[117, 120]	emily
+169	89	[123, 126]	emily
+170	90		
+171	91	[5, 6]	rupert_giles
+172	92	[0, 5]	rupert_giles
+173	93	[0, 3]	emily
+174	94		
+175	95	[27, 30]	rupert_giles
+176	96		
+177	97		
+178	98		
+179	99	[29, 32]	multiple_persons
+180	100		
+181	101	[4, 5]	xander_harris
+182	101	[19, 20]	xander_harris
+183	102	[3, 8]	emily
+184	103		
+185	104	[12, 13]	buffy_summers
+186	104	[118, 120]	buffy_summers
+187	104	[33, 36]	multiple_persons
+188	104	[37, 41]	multiple_persons
+189	105	[0, 1]	rupert_giles
+190	105	[19, 22]	buffy_summers
+191	106	[71, 73]	willow_rosenberg
+192	107	[19, 21]	multiple_persons
+193	107	[54, 55]	rupert_giles
+194	107	[64, 66]	multiple_persons
+195	107	[160, 163]	emily
+196	107	[87, 91]	multiple_persons
+197	107	[78, 82]	multiple_persons
+198	108	[0, 1]	lisa
+199	108	[15, 18]	emily
+200	109	[0, 1]	buffy_summers
+201	110	[4, 5]	lisa
+202	110	[19, 22]	emily
+203	111	[8, 11]	emily
+204	112	[16, 17]	marc
+205	112	[0, 3]	emily
+206	112	[26, 29]	emily
+207	112	[65, 68]	emily
+208	113		
+209	114		
+210	115	[3, 6]	marc
+211	115	[30, 33]	marc
+212	115	[38, 41]	emily
+213	116	[0, 3]	emily
+214	117		
+215	118	[50, 53]	morgan_shay
+216	119	[0, 6]	morgan_shay
+217	120	[20, 22]	morgan_shay
+218	121		
+219	122	[30, 32]	cordelia_chase
+220	122	[53, 55]	cordelia_chase
+221	122	[35, 39]	UNKNOWN
+222	123	[0, 5]	emily
+223	124	[7, 13]	morgan_shay
+224	124	[32, 34]	morgan_shay
+225	124	[53, 56]	morgan_shay
+226	125	[0, 2]	morgan_shay
+227	126	[4, 5]	elliot
+228	126	[12, 13]	elliot
+229	126	[18, 21]	morgan_shay
+230	126	[39, 42]	morgan_shay
+231	127	[4, 5]	cordelia_chase
+232	127	[36, 38]	cordelia_chase
+233	128	[0, 2]	multiple_persons
+234	129	[18, 20]	sid
+235	129	[10, 13]	morgan_shay
+236	130	[8, 10]	multiple_persons
+237	131		
+238	132	[0, 1]	morgan_shay
+239	132	[31, 33]	morgan_shay
+240	133	[5, 11]	morgan_shay
+241	133	[18, 21]	morgan_shay
+242	134	[13, 18]	buffy_summers
+243	135	[5, 10]	emily
+244	135	[37, 40]	morgan_shay
+245	135	[17, 20]	emily
+246	135	[47, 50]	emily
+247	136	[23, 26]	sid
+248	136	[31, 32]	morgan_shay
+249	136	[5, 8]	emily
+250	137		
+251	138		
+252	139	[5, 8]	morgan_shay
+253	140		
+254	141	[0, 6]	morgan_shay
+255	141	[13, 16]	morgan_shay
+256	142	[32, 36]	buffy_summers
+257	142	[20, 22]	morgan_shay
+258	142	[58, 61]	morgan_shay
+259	143	[7, 13]	morgan_shay
+260	143	[37, 39]	buffy_summers
+261	143	[40, 48]	morgan_shay
+262	144	[0, 2]	morgan_shay
+263	144	[12, 14]	morgan_shay
+264	145	[13, 16]	sid
+265	145	[19, 21]	multiple_persons
+266	146	[0, 1]	buffy_summers
+267	146	[20, 21]	buffy_summers
+268	146	[43, 46]	morgan_shay
+269	147	[5, 6]	morgan_shay
+270	147	[36, 38]	multiple_persons
+271	147	[20, 23]	sid
+272	147	[26, 28]	sid
+273	148		
+274	149	[17, 19]	multiple_persons
+275	149	[94, 96]	multiple_persons
+276	149	[86, 89]	cordelia_chase
+277	150	[0, 1]	willow_rosenberg
+278	150	[8, 9]	willow_rosenberg
+279	150	[41, 42]	willow_rosenberg
+280	151	[0, 6]	morgan_shay
+281	152	[0, 6]	morgan_shay
+282	153	[0, 2]	multiple_persons
+283	154	[0, 1]	rupert_giles
+284	154	[7, 8]	rupert_giles
+285	155	[15, 17]	multiple_persons
+286	155	[23, 25]	multiple_persons
+287	155	[52, 54]	multiple_persons
+288	155	[38, 41]	morgan_shay
+289	155	[67, 70]	morgan_shay
+290	156	[0, 2]	multiple_persons
+291	156	[48, 50]	multiple_persons
+292	156	[55, 58]	morgan_shay
+293	157	[5, 6]	xander_harris
+294	158	[28, 30]	multiple_persons
+295	158	[44, 50]	morgan_shay
+296	158	[13, 16]	multiple_persons
+297	158	[17, 21]	multiple_persons
+298	159	[13, 16]	morgan_shay
+299	160	[8, 11]	morgan_shay
+300	161		
+301	162	[0, 1]	rupert_giles
+302	162	[36, 38]	rupert_giles
+303	162	[81, 84]	multiple_persons
+304	163	[22, 27]	rupert_giles
+305	164	[7, 9]	multiple_persons
+306	164	[58, 59]	xander_harris
+307	165	[0, 9]	principal_snyder
+308	165	[10, 16]	principal_snyder
+309	165	[29, 31]	multiple_persons
+310	165	[89, 92]	multiple_persons
+311	165	[152, 154]	multiple_persons
+312	165	[60, 62]	principal_snyder
+313	165	[73, 75]	principal_snyder
+314	166		
+315	167	[0, 5]	buffy_summers
+316	167	[8, 11]	buffy_summers
+317	167	[25, 31]	morgan_shay
+318	167	[40, 43]	morgan_shay
+319	168		
+320	169		
+321	170		
+322	171	[0, 1]	willow_rosenberg
+323	171	[14, 17]	morgan_shay
+324	172	[4, 5]	xander_harris
+325	173		
+326	174	[0, 9]	principal_snyder
+327	174	[10, 16]	principal_snyder
+328	175	[9, 12]	buffy_summers
+329	176		
+330	177	[24, 27]	buffy_summers
+331	178	[4, 5]	buffy_summers
+332	179	[17, 18]	principal_snyder
+333	180	[7, 8]	buffy_summers
+334	181	[33, 36]	buffy_summers
+335	181	[39, 40]	principal_snyder
+336	181	[80, 83]	buffy_summers
+337	182	[41, 43]	buffy_summers
+338	182	[72, 75]	morgan_shay
+339	183	[48, 50]	buffy_summers
+340	183	[0, 2]	morgan_shay
+341	184		
+342	185		
+343	186	[5, 6]	morgan_shay
+344	187		
+345	188	[0, 1]	morgan_shay
+346	189	[0, 3]	buffy_summers
+347	190		
+348	191	[0, 3]	morgan_shay
+349	191	[13, 16]	buffy_summers
+350	191	[34, 37]	buffy_summers
+351	192	[0, 1]	morgan_shay
+352	193	[43, 44]	sid
+353	193	[0, 3]	buffy_summers
+354	194	[0, 1]	morgan_shay
+355	195	[0, 1]	sid
+356	196		
+357	197		
+358	198	[24, 25]	joyce_summers
+359	198	[67, 71]	buffy_summers
+360	199	[9, 10]	buffy_summers
+361	200		
+362	201	[29, 32]	joyce_summers
+363	201	[48, 49]	buffy_summers
+364	201	[60, 61]	buffy_summers
+365	201	[67, 70]	joyce_summers
+366	201	[96, 97]	buffy_summers
+367	201	[15, 18]	joyce_summers
+368	202	[4, 5]	joyce_summers
+369	202	[25, 28]	buffy_summers
+370	203	[16, 19]	joyce_summers
+371	203	[32, 34]	buffy_summers
+372	203	[52, 56]	joyce_summers
+373	203	[67, 70]	joyce_summers
+374	203	[7, 10]	joyce_summers
+375	204	[55, 58]	buffy_summers
+376	204	[61, 62]	joyce_summers
+377	204	[65, 66]	joyce_summers
+378	204	[82, 86]	buffy_summers
+379	204	[0, 5]	buffy_summers
+380	205		
+381	206	[24, 27]	buffy_summers
+382	207		
+383	208	[0, 5]	buffy_summers
+384	209		
+385	210		
+386	211		
+387	212	[61, 64]	buffy_summers
+388	212	[70, 73]	buffy_summers
+389	213	[45, 48]	joyce_summers
+390	213	[70, 71]	buffy_summers
+391	213	[81, 82]	buffy_summers
+392	213	[87, 90]	joyce_summers
+393	214	[24, 25]	joyce_summers
+394	214	[66, 69]	buffy_summers
+395	214	[53, 63]	buffy_summers
+396	215	[0, 1]	buffy_summers
+397	216	[4, 6]	marc
+398	217		
+399	218	[0, 3]	UNKNOWN
+400	219	[0, 1]	cordelia_chase
+401	219	[24, 25]	cordelia_chase
+402	219	[34, 35]	cordelia_chase
+403	219	[61, 64]	UNKNOWN
+404	219	[51, 56]	UNKNOWN
+405	220	[8, 10]	multiple_persons
+406	220	[61, 62]	rupert_giles
+407	220	[68, 71]	cordelia_chase
+408	221	[37, 39]	cordelia_chase
+409	222		
+410	223	[5, 6]	rupert_giles
+411	223	[23, 27]	cordelia_chase
+412	224	[30, 32]	cordelia_chase
+413	225		
+414	226	[0, 6]	xander_harris
+415	227	[8, 11]	buffy_summers
+416	228	[17, 20]	buffy_summers
+417	229	[9, 15]	morgan_shay
+418	230	[5, 6]	rupert_giles
+419	230	[9, 10]	rupert_giles
+420	230	[29, 32]	morgan_shay
+421	231	[4, 6]	morgan_shay
+422	231	[23, 26]	buffy_summers
+423	232	[20, 23]	sid
+424	232	[12, 15]	morgan_shay
+425	233	[24, 26]	buffy_summers
+426	233	[32, 33]	buffy_summers
+427	233	[81, 82]	buffy_summers
+428	233	[104, 105]	buffy_summers
+429	233	[112, 115]	sid
+430	233	[123, 125]	buffy_summers
+431	234	[5, 11]	morgan_shay
+432	235	[5, 7]	sid
+433	236	[4, 7]	buffy_summers
+434	236	[12, 15]	sid
+435	237	[7, 8]	buffy_summers
+436	237	[25, 26]	buffy_summers
+437	237	[43, 45]	buffy_summers
+438	237	[60, 62]	buffy_summers
+439	237	[88, 90]	buffy_summers
+440	238	[9, 12]	buffy_summers
+441	239	[26, 28]	buffy_summers
+442	240		
+443	241	[26, 27]	buffy_summers
+444	241	[71, 72]	buffy_summers
+445	241	[75, 76]	buffy_summers
+446	241	[95, 97]	buffy_summers
+447	242		
+448	243	[19, 22]	sid
+449	244	[61, 64]	UNKNOWN
+450	245	[0, 3]	buffy_summers
+451	245	[23, 26]	buffy_summers
+452	246	[7, 9]	buffy_summers
+453	246	[16, 17]	buffy_summers
+454	246	[60, 61]	buffy_summers
+455	246	[94, 95]	buffy_summers
+456	246	[103, 109]	buffy_summers
+457	247	[4, 9]	sid
+458	247	[10, 16]	sid
+459	248	[28, 34]	morgan_shay
+460	248	[76, 82]	morgan_shay
+461	249	[0, 1]	buffy_summers
+462	249	[17, 23]	morgan_shay
+463	249	[86, 88]	buffy_summers
+464	249	[32, 35]	morgan_shay
+465	249	[72, 74]	morgan_shay
+466	250	[41, 42]	rupert_giles
+467	250	[47, 48]	rupert_giles
+468	251	[3, 9]	morgan_shay
+469	251	[46, 52]	morgan_shay
+470	251	[70, 76]	morgan_shay
+471	252	[90, 96]	morgan_shay
+472	252	[116, 118]	morgan_shay
+473	253	[109, 115]	UNKNOWN
+474	253	[32, 41]	UNKNOWN
+475	253	[42, 48]	UNKNOWN
+476	254	[24, 27]	morgan_shay
+477	254	[49, 52]	morgan_shay
+478	255	[20, 22]	mrs_jackson
+479	256	[0, 6]	morgan_shay
+480	256	[9, 15]	morgan_shay
+481	257		
+482	258	[0, 6]	morgan_shay
+483	258	[27, 30]	morgan_shay
+484	259	[5, 7]	mrs_jackson
+485	259	[8, 12]	morgan_shay
+486	260	[0, 1]	morgan_shay
+487	260	[10, 13]	sid
+488	261	[0, 3]	morgan_shay
+489	262		
+490	263	[0, 1]	sid
+491	263	[21, 24]	mrs_jackson
+492	264	[0, 6]	morgan_shay
+493	265	[5, 12]	mrs_jackson
+494	266	[0, 6]	morgan_shay
+495	267	[0, 3]	mrs_jackson
+496	267	[9, 12]	mrs_jackson
+497	267	[21, 23]	morgan_shay
+498	268		
+499	269	[9, 10]	mrs_jackson
+500	269	[25, 28]	morgan_shay
+501	270		
+502	271	[0, 1]	mrs_jackson
+503	271	[12, 15]	morgan_shay
+504	272		
+505	273	[0, 3]	morgan_shay
+506	273	[34, 35]	mrs_jackson
+507	273	[87, 90]	morgan_shay
+508	274		
+509	275	[11, 12]	morgan_shay
+510	275	[17, 20]	sid
+511	276		
+512	277		
+513	278	[41, 43]	sid
+514	279	[0, 1]	mrs_jackson
+515	280	[20, 22]	morgan_shay
+516	280	[33, 34]	morgan_shay
+517	280	[0, 2]	sid
+518	280	[25, 27]	sid
+519	281	[8, 11]	morgan_shay
+520	281	[19, 21]	sid
+521	282	[21, 24]	sid
+522	282	[36, 38]	sid
+523	282	[9, 12]	mrs_jackson
+524	283	[10, 13]	xander_harris
+525	284	[5, 6]	xander_harris
+526	284	[34, 41]	mrs_jackson
+527	284	[56, 57]	xander_harris
+528	284	[66, 69]	buffy_summers
+529	284	[75, 78]	buffy_summers
+530	284	[109, 115]	morgan_shay
+531	284	[142, 148]	morgan_shay
+532	284	[173, 176]	sid
+533	284	[185, 187]	xander_harris
+534	285	[5, 10]	buffy_summers
+535	285	[18, 24]	willow_rosenberg
+536	285	[33, 36]	multiple_persons
+537	286	[0, 1]	buffy_summers
+538	286	[22, 25]	xander_harris
+539	287	[17, 18]	xander_harris
+540	288	[0, 6]	xander_harris
+541	289	[25, 26]	xander_harris
+542	289	[33, 36]	multiple_persons
+543	289	[70, 73]	sid
+544	289	[101, 104]	buffy_summers
+545	289	[117, 123]	morgan_shay
+546	289	[0, 2]	sid
+547	289	[134, 136]	morgan_shay
+548	289	[153, 155]	morgan_shay
+549	290	[0, 1]	rupert_giles
+550	290	[10, 12]	morgan_shay
+551	290	[28, 31]	morgan_shay
+552	291	[0, 1]	buffy_summers
+553	291	[14, 20]	morgan_shay
+554	291	[23, 26]	xander_harris
+555	292	[18, 19]	xander_harris
+556	293		
+557	294	[8, 10]	multiple_persons
+558	294	[19, 22]	sid
+559	295	[5, 6]	xander_harris
+560	295	[16, 19]	sid
+561	296	[0, 6]	willow_rosenberg
+562	296	[9, 11]	multiple_persons
+563	296	[33, 36]	multiple_persons
+564	297	[11, 12]	willow_rosenberg
+565	298	[0, 3]	willow_rosenberg
+566	298	[43, 44]	rupert_giles
+567	298	[103, 106]	willow_rosenberg
+568	299	[15, 18]	rupert_giles
+569	300	[5, 6]	xander_harris
+570	300	[36, 38]	xander_harris
+571	300	[28, 31]	sid
+572	301	[0, 6]	morgan_shay
+573	302	[0, 6]	morgan_shay
+574	303	[0, 9]	principal_snyder
+575	303	[10, 16]	principal_snyder
+576	304		
+577	305	[5, 8]	principal_snyder
+578	305	[14, 20]	morgan_shay
+579	305	[21, 25]	morgan_shay
+580	306	[0, 3]	buffy_summers
+581	306	[60, 61]	principal_snyder
+582	306	[105, 113]	buffy_summers
+583	307	[7, 8]	buffy_summers
+584	307	[32, 33]	buffy_summers
+585	307	[59, 65]	buffy_summers
+586	308		
+587	309	[10, 11]	willow_rosenberg
+588	310	[0, 5]	emily
+589	311	[0, 6]	morgan_shay
+590	312		
+591	313		
+592	314		
+593	315	[13, 16]	sid
+594	315	[0, 2]	sid
+595	316		
+596	317		
+597	318	[0, 6]	morgan_shay
+598	319	[0, 6]	morgan_shay
+599	319	[22, 29]	morgan_shay
+600	319	[9, 14]	Demon
+601	320	[24, 25]	buffy_summers
+602	320	[41, 44]	sid
+603	320	[58, 61]	sid
+604	321	[0, 3]	buffy_summers
+605	321	[14, 17]	buffy_summers
+606	321	[27, 31]	buffy_summers
+607	321	[42, 46]	buffy_summers
+608	322	[0, 1]	buffy_summers
+609	322	[50, 54]	sid
+610	323		
+611	324	[30, 33]	sid
+612	324	[49, 52]	sid
+613	325	[27, 30]	buffy_summers
+614	326		
+615	327	[13, 14]	sid
+616	327	[20, 21]	sid
+617	327	[76, 78]	sid
+618	327	[107, 109]	sid
+619	327	[183, 184]	sid
+620	327	[190, 191]	sid
+621	327	[199, 201]	sid
+622	327	[212, 213]	sid
+623	327	[252, 255]	UNKNOWN
+624	327	[264, 266]	sid
+625	327	[43, 46]	multiple_persons
+626	328	[20, 23]	sid
+627	329	[35, 36]	sid
+628	329	[78, 79]	sid
+629	329	[52, 55]	multiple_persons
+630	330	[8, 11]	sid
+631	330	[22, 23]	buffy_summers
+632	331	[14, 16]	sid
+633	331	[40, 43]	buffy_summers
+634	331	[46, 49]	buffy_summers
+635	331	[96, 97]	sid
+636	331	[171, 173]	Demon
+637	331	[202, 204]	Demon
+638	332	[0, 1]	rupert_giles
+639	333	[33, 34]	sid
+640	333	[55, 56]	sid
+641	333	[109, 110]	sid
+642	333	[125, 126]	sid
+643	334	[35, 37]	Demon
+644	334	[46, 48]	Demon
+645	335	[10, 12]	multiple_persons
+646	336	[0, 2]	multiple_persons
+647	336	[16, 19]	multiple_persons
+648	337		
+649	338		
+650	339	[21, 22]	rupert_giles
+651	340	[69, 70]	buffy_summers
+652	340	[103, 105]	multiple_persons
+653	341	[62, 64]	multiple_persons
+654	341	[4, 7]	rupert_giles
+655	342		
+656	343	[19, 22]	rupert_giles
+657	343	[47, 50]	rupert_giles
+658	343	[61, 64]	rupert_giles
+659	344		
+660	345	[9, 11]	rupert_giles
+661	346		
+662	347	[0, 1]	cordelia_chase
+663	347	[4, 5]	cordelia_chase
+664	347	[56, 58]	cordelia_chase
+665	347	[71, 73]	cordelia_chase
+666	347	[79, 80]	cordelia_chase
+667	347	[101, 106]	buffy_summers
+668	347	[117, 118]	cordelia_chase
+669	348	[0, 8]	cordelia_chase
+670	348	[84, 87]	cordelia_chase
+671	348	[120, 123]	cordelia_chase
+672	349	[16, 24]	UNKNOWN
+673	350		
+674	351		
+675	352	[20, 22]	multiple_persons
+676	353	[31, 32]	sid
+677	353	[13, 17]	buffy_summers
+678	353	[47, 50]	buffy_summers
+679	354	[0, 1]	buffy_summers
+680	354	[7, 14]	buffy_summers
+681	354	[15, 21]	buffy_summers
+682	355	[0, 3]	buffy_summers
+683	355	[8, 11]	buffy_summers
+684	355	[36, 37]	sid
+685	355	[93, 95]	multiple_persons
+686	355	[132, 134]	multiple_persons
+687	355	[197, 198]	sid
+688	355	[20, 26]	buffy_summers
+689	356	[5, 8]	sid
+690	357		
+691	358	[0, 3]	sid
+692	358	[44, 47]	sid
+693	358	[50, 51]	buffy_summers
+694	358	[54, 55]	buffy_summers
+695	358	[63, 67]	sid
+696	359	[25, 26]	sid
+697	360	[0, 3]	sid
+698	361	[22, 24]	sid
+699	361	[33, 34]	sid
+700	362	[15, 18]	buffy_summers
+701	362	[50, 52]	sid
+702	363		
+703	364		
+704	365		
+705	366	[0, 1]	rupert_giles
+706	367	[18, 21]	multiple_persons
+707	368		
+708	369		
+709	370		
+710	371		
+711	372	[7, 12]	Demon
+712	373	[68, 69]	rupert_giles
+713	374		
+714	375		
+715	376	[0, 3]	sid
+716	377	[0, 3]	sid
+717	378	[0, 1]	buffy_summers
+718	378	[31, 33]	buffy_summers
+719	379	[21, 23]	multiple_persons
+720	379	[56, 58]	multiple_persons
+721	379	[29, 31]	sid
+722	379	[93, 95]	sid
+723	380	[0, 3]	sid
+724	380	[22, 23]	buffy_summers
+725	380	[90, 91]	buffy_summers
+726	380	[94, 95]	buffy_summers
+727	380	[103, 104]	buffy_summers
+728	380	[113, 119]	morgan_shay
+729	381	[0, 2]	morgan_shay
+730	381	[17, 20]	morgan_shay
+731	381	[41, 43]	morgan_shay
+732	382		
+733	383		
+734	384	[0, 2]	morgan_shay
+735	385		
+736	386	[52, 56]	UNKNOWN
+737	386	[57, 64]	UNKNOWN
+738	387		
+739	388	[12, 14]	morgan_shay
+740	389		
+741	390	[17, 18]	xander_harris
+742	391		
+743	392		
+744	393	[9, 12]	marc
+745	393	[15, 18]	marc
+746	393	[55, 58]	marc
+747	394	[10, 15]	rupert_giles
+748	394	[18, 21]	rupert_giles
+749	394	[58, 60]	marc
+750	394	[51, 54]	rupert_giles
+751	395	[38, 40]	willow_rosenberg
+752	396		
+753	397		
+754	398	[15, 21]	willow_rosenberg
+755	398	[35, 38]	willow_rosenberg
+756	398	[48, 50]	multiple_persons
+757	398	[108, 110]	Demon
+758	399	[5, 7]	rupert_giles
+759	400		
+760	401	[4, 7]	marc
+761	401	[49, 52]	marc
+762	402	[0, 2]	marc
+763	402	[24, 27]	rupert_giles
+764	402	[58, 59]	marc
+765	402	[66, 67]	marc
+766	402	[77, 80]	rupert_giles
+767	403		
+768	404	[28, 31]	UNKNOWN
+769	405	[8, 10]	multiple_persons
+770	406	[21, 23]	multiple_persons
+771	406	[73, 75]	multiple_persons
+772	406	[78, 80]	multiple_persons
+773	406	[104, 106]	multiple_persons
+774	406	[58, 61]	Demon
+775	407	[0, 1]	xander_harris
+776	408	[15, 17]	multiple_persons
+777	409	[57, 59]	multiple_persons
+778	410	[54, 59]	rupert_giles
+779	410	[76, 78]	rupert_giles
+780	411	[6, 11]	rupert_giles
+781	411	[33, 34]	xander_harris
+782	411	[23, 30]	rupert_giles
+783	411	[42, 44]	rupert_giles
+784	412	[0, 5]	rupert_giles
+785	413	[35, 37]	rupert_giles
+786	414	[19, 23]	rupert_giles
+787	414	[50, 54]	rupert_giles
+788	415		
+789	416		
+790	417	[0, 4]	marc
+791	418	[4, 8]	marc
+792	419		
+793	420		
+794	421	[0, 4]	marc
+795	422	[0, 6]	willow_rosenberg
+796	423		
+797	424	[7, 10]	multiple_persons
+798	425		
+799	426	[0, 1]	sid
+800	426	[8, 11]	buffy_summers
+801	427		
+802	428	[7, 8]	rupert_giles
+803	428	[27, 30]	multiple_persons
+804	428	[35, 39]	multiple_persons
+805	429		
+806	430	[9, 12]	sid
+807	431	[19, 21]	Demon
+808	431	[38, 41]	multiple_persons
+809	432	[4, 6]	buffy_summers
+810	433	[0, 1]	sid
+811	434		
+812	435	[0, 1]	principal_snyder
+813	436	[14, 16]	willow_rosenberg
+814	436	[45, 48]	multiple_persons
+815	436	[80, 81]	willow_rosenberg
+816	436	[27, 34]	UNKNOWN
+817	436	[37, 40]	UNKNOWN
+818	436	[68, 73]	UNKNOWN
+819	436	[98, 102]	UNKNOWN
+820	437	[31, 32]	xander_harris
+821	437	[45, 47]	xander_harris
+822	437	[61, 63]	UNKNOWN
+823	437	[115, 116]	xander_harris
+824	437	[127, 129]	xander_harris
+825	438	[55, 56]	buffy_summers
+826	438	[85, 86]	buffy_summers
+827	438	[5, 12]	UNKNOWN
+828	438	[15, 22]	UNKNOWN
+829	438	[33, 40]	UNKNOWN
+830	438	[66, 69]	UNKNOWN
+831	438	[103, 106]	UNKNOWN
+832	439		
+833	440	[118, 119]	xander_harris

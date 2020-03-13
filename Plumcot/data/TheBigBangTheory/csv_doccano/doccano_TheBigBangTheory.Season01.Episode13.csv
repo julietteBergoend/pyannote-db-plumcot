@@ -1,0 +1,475 @@
+	idSent	idChar	label
+0	1	[89, 94]	UNKNOWN
+1	2	[0, 1]	raj_koothrappali
+2	2	[45, 50]	UNKNOWN
+3	3	[45, 48]	raj_koothrappali
+4	3	[56, 59]	UNKNOWN
+5	3	[60, 64]	UNKNOWN
+6	4	[8, 9]	leonard_hofstadter
+7	4	[63, 66]	UNKNOWN
+8	4	[40, 43]	UNKNOWN
+9	5	[43, 48]	UNKNOWN
+10	6	[131, 133]	raj_koothrappali
+11	6	[88, 95]	UNKNOWN
+12	6	[96, 100]	UNKNOWN
+13	6	[113, 117]	UNKNOWN
+14	7	[18, 20]	penny
+15	7	[23, 24]	penny
+16	7	[9, 12]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+17	8	[9, 12]	penny
+18	9		
+19	10	[0, 1]	leonard_hofstadter
+20	11	[0, 9]	leonard_hofstadter-sheldon_cooper-raj_koothrappali
+21	11	[43, 50]	UNKNOWN
+22	11	[53, 57]	UNKNOWN
+23	11	[60, 67]	UNKNOWN
+24	11	[70, 76]	UNKNOWN
+25	12	[0, 3]	howard_wolowitz
+26	13		
+27	14	[12, 16]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+28	14	[25, 28]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+29	14	[49, 53]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+30	15		
+31	16	[8, 11]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+32	16	[30, 34]	UNKNOWN
+33	17	[0, 3]	UNKNOWN
+34	18		
+35	19		
+36	20	[11, 13]	sheldon_cooper
+37	21		
+38	22	[0, 3]	howard_wolowitz
+39	22	[9, 11]	sheldon_cooper
+40	22	[19, 21]	sheldon_cooper
+41	22	[67, 70]	howard_wolowitz
+42	22	[110, 113]	howard_wolowitz
+43	22	[154, 157]	howard_wolowitz
+44	22	[118, 122]	UNKNOWN
+45	22	[123, 130]	UNKNOWN
+46	22	[162, 169]	UNKNOWN
+47	22	[170, 178]	UNKNOWN
+48	23	[10, 13]	sheldon_cooper
+49	23	[40, 42]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+50	24	[18, 20]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+51	25	[0, 1]	penny
+52	26	[0, 7]	sheldon_cooper
+53	26	[20, 21]	leonard_hofstadter
+54	26	[60, 63]	penny
+55	26	[36, 41]	UNKNOWN
+56	27		
+57	28		
+58	29		
+59	30	[22, 23]	sheldon_cooper
+60	31	[46, 48]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+61	32		
+62	33		
+63	34	[25, 27]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+64	35	[0, 1]	raj_koothrappali
+65	36	[0, 1]	sheldon_cooper
+66	37	[5, 7]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+67	38		
+68	39	[15, 18]	sheldon_cooper
+69	40		
+70	41	[17, 18]	sheldon_cooper
+71	41	[110, 113]	UNKNOWN
+72	42		
+73	43	[0, 1]	sheldon_cooper
+74	44	[110, 112]	UNKNOWN
+75	44	[148, 150]	UNKNOWN
+76	44	[164, 167]	UNKNOWN
+77	44	[6, 8]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+78	45	[0, 2]	UNKNOWN
+79	46	[0, 1]	leonard_hofstadter
+80	47	[71, 72]	penny
+81	47	[76, 81]	penny
+82	47	[88, 89]	penny
+83	47	[128, 129]	penny
+84	47	[97, 101]	multiple_persons
+85	47	[225, 234]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+86	47	[241, 244]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+87	48		
+88	49		
+89	50		
+90	51	[25, 27]	penny
+91	51	[0, 3]	leonard_hofstadter
+92	51	[52, 55]	raj_koothrappali
+93	51	[56, 59]	raj_koothrappali
+94	51	[60, 62]	raj_koothrappali
+95	51	[63, 66]	raj_koothrappali
+96	51	[67, 72]	raj_koothrappali
+97	51	[105, 108]	UNKNOWN
+98	52	[10, 12]	raj_koothrappali
+99	52	[67, 69]	raj_koothrappali
+100	53	[12, 15]	raj_koothrappali
+101	54	[0, 1]	leonard_hofstadter
+102	55	[106, 112]	sheldon_cooper
+103	55	[103, 105]	sheldon_cooper
+104	56		
+105	57		
+106	58	[0, 1]	leonard_hofstadter
+107	59	[9, 12]	leonard_hofstadter
+108	59	[128, 134]	howard_wolowitz
+109	59	[15, 22]	leonard_hofstadter
+110	60		
+111	61		
+112	62	[6, 7]	howard_wolowitz
+113	63	[4, 5]	sheldon_cooper
+114	64	[7, 10]	sheldon_cooper
+115	64	[17, 18]	howard_wolowitz
+116	64	[61, 62]	howard_wolowitz
+117	65	[14, 15]	sheldon_cooper
+118	65	[69, 70]	sheldon_cooper
+119	66		
+120	67	[54, 63]	UNKNOWN
+121	68		
+122	69	[0, 7]	sheldon_cooper
+123	69	[10, 13]	sheldon_cooper
+124	70		
+125	71		
+126	72		
+127	73	[0, 7]	leonard_hofstadter
+128	73	[19, 20]	penny
+129	73	[10, 13]	leonard_hofstadter
+130	74	[65, 66]	sheldon_cooper
+131	74	[94, 95]	sheldon_cooper
+132	75	[8, 10]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+133	76	[12, 15]	howard_wolowitz
+134	77		
+135	78	[0, 6]	howard_wolowitz
+136	79		
+137	80	[6, 8]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+138	81	[12, 13]	sheldon_cooper
+139	81	[19, 21]	sheldon_cooper
+140	81	[75, 77]	sheldon_cooper
+141	82	[0, 1]	howard_wolowitz
+142	83	[9, 11]	UNKNOWN
+143	84	[12, 19]	sheldon_cooper
+144	84	[0, 2]	raj_koothrappali
+145	85		
+146	86	[0, 7]	leonard_hofstadter
+147	86	[22, 23]	sheldon_cooper
+148	86	[37, 40]	leonard_hofstadter
+149	87	[14, 15]	leonard_hofstadter
+150	87	[32, 35]	sheldon_cooper
+151	88	[12, 13]	sheldon_cooper
+152	88	[166, 167]	sheldon_cooper
+153	88	[52, 55]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+154	88	[134, 137]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+155	89		
+156	90		
+157	91		
+158	92		
+159	93	[5, 6]	leonard_hofstadter
+160	93	[51, 52]	leonard_hofstadter
+161	93	[57, 60]	sheldon_cooper
+162	93	[63, 69]	UNKNOWN
+163	94		
+164	95	[7, 10]	sheldon_cooper
+165	95	[30, 33]	sheldon_cooper
+166	95	[66, 69]	sheldon_cooper
+167	95	[39, 45]	UNKNOWN
+168	96		
+169	97	[0, 6]	howard_wolowitz
+170	97	[9, 12]	raj_koothrappali
+171	97	[17, 18]	leonard_hofstadter
+172	98	[3, 6]	leonard_hofstadter
+173	99	[13, 14]	leonard_hofstadter
+174	99	[4, 6]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+175	100	[7, 8]	sheldon_cooper
+176	100	[98, 99]	sheldon_cooper
+177	100	[119, 120]	sheldon_cooper
+178	100	[27, 30]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+179	101	[11, 13]	leonard_hofstadter
+180	101	[37, 38]	leonard_hofstadter
+181	101	[133, 136]	sheldon_cooper
+182	102		
+183	103	[8, 11]	sheldon_cooper
+184	104	[7, 8]	sheldon_cooper
+185	105	[11, 13]	leonard_hofstadter
+186	105	[32, 35]	sheldon_cooper
+187	105	[81, 84]	sheldon_cooper
+188	106	[0, 1]	sheldon_cooper
+189	106	[29, 30]	sheldon_cooper
+190	106	[45, 48]	leonard_hofstadter
+191	106	[54, 55]	sheldon_cooper
+192	106	[71, 73]	sheldon_cooper
+193	106	[125, 129]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+194	107		
+195	108		
+196	109		
+197	110	[11, 16]	leonard_hofstadter
+198	111	[10, 12]	sheldon_cooper
+199	111	[26, 29]	sheldon_cooper
+200	112	[0, 2]	sheldon_cooper
+201	112	[16, 18]	sheldon_cooper
+202	112	[59, 62]	sheldon_cooper
+203	113	[60, 61]	raj_koothrappali
+204	113	[239, 242]	leonard_hofstadter
+205	113	[0, 2]	sheldon_cooper
+206	113	[36, 38]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+207	113	[66, 68]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+208	113	[80, 82]	sheldon_cooper
+209	113	[92, 94]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+210	113	[121, 124]	sheldon_cooper
+211	113	[165, 167]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+212	113	[198, 200]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+213	114		
+214	115		
+215	116	[24, 26]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+216	116	[81, 85]	sheldon_cooper
+217	117	[28, 35]	sheldon_cooper
+218	117	[60, 62]	leonard_hofstadter
+219	117	[0, 4]	howard_wolowitz-raj_koothrappali
+220	117	[45, 48]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+221	118		
+222	119	[28, 31]	sheldon_cooper
+223	120	[0, 9]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+224	121		
+225	122	[7, 9]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+226	122	[48, 51]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+227	123	[0, 3]	howard_wolowitz
+228	123	[79, 82]	UNKNOWN
+229	124	[0, 3]	raj_koothrappali
+230	124	[6, 8]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+231	124	[47, 50]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+232	125		
+233	126	[12, 13]	howard_wolowitz
+234	126	[22, 23]	howard_wolowitz
+235	126	[0, 9]	leonard_hofstadter-raj_koothrappali
+236	126	[54, 57]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+237	127	[14, 20]	leslie_winkle
+238	127	[21, 27]	leslie_winkle
+239	127	[0, 2]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+240	128	[14, 17]	leonard_hofstadter
+241	128	[60, 63]	leonard_hofstadter
+242	128	[78, 81]	leonard_hofstadter
+243	128	[42, 45]	leslie_winkle
+244	128	[64, 67]	leslie_winkle
+245	129		
+246	130	[10, 13]	leonard_hofstadter
+247	131	[17, 21]	leonard_hofstadter
+248	132	[12, 13]	leonard_hofstadter
+249	132	[63, 69]	leslie_winkle
+250	133	[3, 7]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+251	134	[0, 6]	leslie_winkle
+252	134	[9, 10]	leonard_hofstadter
+253	134	[31, 34]	leslie_winkle
+254	134	[72, 75]	leslie_winkle
+255	134	[94, 95]	leonard_hofstadter
+256	135		
+257	136	[0, 7]	leonard_hofstadter
+258	136	[64, 66]	leonard_hofstadter-leslie_winkle
+259	137		
+260	138	[67, 71]	leonard_hofstadter
+261	138	[86, 90]	leonard_hofstadter
+262	138	[108, 112]	leonard_hofstadter
+263	139	[50, 51]	leonard_hofstadter
+264	139	[75, 77]	leonard_hofstadter
+265	140		
+266	141	[0, 2]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+267	141	[58, 61]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+268	141	[37, 39]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+269	142	[12, 13]	leslie_winkle
+270	142	[34, 36]	leslie_winkle
+271	143	[33, 36]	leslie_winkle
+272	143	[25, 27]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+273	144		
+274	145	[36, 43]	sheldon_cooper
+275	145	[7, 9]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+276	146	[32, 39]	sheldon_cooper
+277	146	[40, 46]	sheldon_cooper
+278	146	[7, 10]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+279	147		
+280	148	[61, 63]	leslie_winkle
+281	148	[64, 65]	leslie_winkle
+282	148	[81, 83]	leslie_winkle
+283	149	[0, 3]	leslie_winkle
+284	150	[12, 15]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+285	150	[59, 63]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+286	150	[83, 86]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+287	151	[12, 15]	penny
+288	151	[21, 24]	penny
+289	152	[15, 16]	penny
+290	153	[0, 9]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+291	154	[0, 7]	sheldon_cooper
+292	155	[0, 7]	sheldon_cooper
+293	156		
+294	157	[0, 7]	sheldon_cooper
+295	157	[10, 11]	penny
+296	158	[13, 17]	sheldon_cooper
+297	159	[11, 12]	sheldon_cooper
+298	159	[34, 35]	sheldon_cooper
+299	159	[116, 117]	sheldon_cooper
+300	159	[191, 193]	sheldon_cooper
+301	159	[56, 59]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+302	159	[156, 158]	UNKNOWN
+303	159	[223, 226]	UNKNOWN
+304	159	[234, 237]	UNKNOWN
+305	159	[263, 267]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+306	159	[289, 292]	leonard_hofstadter-howard_wolowitz-raj_koothrappali
+307	160	[8, 15]	sheldon_cooper
+308	161	[0, 6]	leslie_winkle
+309	161	[7, 13]	leslie_winkle
+310	162	[7, 13]	leslie_winkle
+311	162	[14, 20]	leslie_winkle
+312	162	[61, 68]	sheldon_cooper
+313	162	[69, 75]	sheldon_cooper
+314	163	[13, 14]	sheldon_cooper
+315	163	[43, 46]	leslie_winkle
+316	163	[106, 109]	leslie_winkle
+317	163	[120, 122]	sheldon_cooper
+318	163	[153, 155]	sheldon_cooper
+319	163	[210, 213]	leslie_winkle
+320	164		
+321	165	[37, 41]	multiple_persons
+322	166	[8, 12]	leslie_winkle
+323	167		
+324	168		
+325	169	[34, 35]	leslie_winkle
+326	170		
+327	171		
+328	172		
+329	173		
+330	174		
+331	175		
+332	176		
+333	177	[14, 16]	sheldon_cooper
+334	177	[39, 41]	sheldon_cooper
+335	178		
+336	179		
+337	180		
+338	181	[0, 7]	sheldon_cooper
+339	181	[26, 33]	UNKNOWN
+340	181	[34, 40]	UNKNOWN
+341	182		
+342	183		
+343	184	[0, 4]	UNKNOWN
+344	185		
+345	186		
+346	187	[0, 7]	UNKNOWN
+347	188		
+348	189		
+349	190	[3, 11]	howard_wolowitz
+350	190	[22, 26]	howard_wolowitz
+351	190	[0, 2]	howard_wolowitz
+352	191		
+353	192		
+354	193	[33, 34]	dr_eric_gablehauser
+355	193	[43, 45]	dr_eric_gablehauser
+356	193	[172, 176]	multiple_persons
+357	194		
+358	195		
+359	196	[50, 57]	UNKNOWN
+360	197	[18, 24]	leslie_winkle
+361	198	[0, 7]	leonard_hofstadter
+362	198	[37, 40]	leonard_hofstadter
+363	198	[46, 48]	leslie_winkle
+364	198	[51, 54]	leonard_hofstadter
+365	198	[67, 69]	leslie_winkle
+366	199	[0, 3]	leslie_winkle
+367	199	[41, 44]	leslie_winkle
+368	200		
+369	201	[8, 9]	leonard_hofstadter
+370	202		
+371	203		
+372	204	[0, 1]	dr_eric_gablehauser
+373	204	[41, 44]	leonard_hofstadter
+374	204	[81, 86]	multiple_persons
+375	205	[0, 2]	sheldon_cooper
+376	205	[22, 24]	sheldon_cooper
+377	206	[5, 6]	dr_eric_gablehauser
+378	206	[12, 16]	multiple_persons
+379	207		
+380	208	[41, 44]	multiple_persons
+381	208	[63, 66]	third_floor_janitor
+382	209		
+383	210	[7, 10]	third_floor_janitor
+384	211	[5, 6]	third_floor_janitor
+385	211	[43, 44]	third_floor_janitor
+386	211	[60, 69]	UNKNOWN
+387	212	[70, 73]	third_floor_janitor
+388	212	[106, 107]	sheldon_cooper
+389	212	[45, 48]	multiple_persons
+390	213	[0, 3]	sheldon_cooper
+391	214	[21, 24]	third_floor_janitor
+392	214	[47, 51]	third_floor_janitor
+393	214	[99, 100]	sheldon_cooper
+394	215	[5, 6]	dr_eric_gablehauser
+395	215	[12, 16]	multiple_persons
+396	216	[20, 22]	third_floor_janitor
+397	217		
+398	218	[0, 1]	sheldon_cooper
+399	219	[0, 3]	sheldon_cooper
+400	220		
+401	221		
+402	222		
+403	223	[9, 10]	dr_eric_gablehauser
+404	223	[16, 20]	multiple_persons
+405	224	[5, 6]	sheldon_cooper
+406	225	[44, 48]	multiple_persons
+407	225	[49, 57]	third_floor_janitor
+408	226	[8, 12]	dr_eric_gablehauser
+409	227		
+410	228	[10, 17]	sheldon_cooper
+411	228	[36, 39]	sheldon_cooper
+412	228	[107, 110]	sheldon_cooper
+413	228	[132, 140]	sheldon_cooper
+414	229	[0, 1]	sheldon_cooper
+415	230		
+416	231		
+417	232		
+418	233		
+419	234	[0, 2]	leonard_hofstadter
+420	235	[29, 30]	sheldon_cooper
+421	235	[53, 56]	leonard_hofstadter
+422	236	[0, 1]	leonard_hofstadter
+423	237		
+424	238	[0, 2]	leonard_hofstadter
+425	238	[27, 34]	leonard_hofstadter
+426	238	[49, 56]	sheldon_cooper
+427	239		
+428	240	[0, 3]	sheldon_cooper
+429	240	[16, 17]	leonard_hofstadter
+430	240	[29, 30]	leonard_hofstadter
+431	241		
+432	242	[9, 12]	penny
+433	243	[0, 1]	penny
+434	243	[76, 79]	leonard_hofstadter-sheldon_cooper
+435	244		
+436	245		
+437	246	[7, 13]	UNKNOWN
+438	246	[16, 19]	UNKNOWN
+439	246	[24, 29]	UNKNOWN
+440	246	[100, 105]	UNKNOWN
+441	246	[106, 111]	UNKNOWN
+442	246	[121, 126]	UNKNOWN
+443	246	[131, 135]	UNKNOWN
+444	246	[127, 130]	UNKNOWN
+445	247		
+446	248	[75, 77]	penny
+447	248	[0, 3]	UNKNOWN
+448	248	[4, 9]	UNKNOWN
+449	248	[22, 29]	UNKNOWN
+450	248	[50, 59]	UNKNOWN
+451	248	[60, 64]	UNKNOWN
+452	248	[78, 81]	UNKNOWN
+453	248	[84, 88]	UNKNOWN
+454	248	[89, 93]	UNKNOWN
+455	249	[7, 10]	penny
+456	250	[0, 1]	penny
+457	250	[17, 18]	penny
+458	251	[0, 7]	UNKNOWN
+459	251	[8, 15]	UNKNOWN
+460	252	[7, 8]	leonard_hofstadter
+461	252	[28, 35]	UNKNOWN
+462	253	[21, 28]	UNKNOWN
+463	253	[29, 36]	UNKNOWN
+464	254		
+465	255		
+466	256	[33, 34]	penny
+467	256	[81, 83]	UNKNOWN
+468	256	[59, 66]	UNKNOWN
+469	256	[67, 71]	UNKNOWN
+470	257	[0, 7]	UNKNOWN
+471	258	[6, 8]	UNKNOWN
+472	258	[16, 18]	UNKNOWN
+473	258	[25, 32]	UNKNOWN
