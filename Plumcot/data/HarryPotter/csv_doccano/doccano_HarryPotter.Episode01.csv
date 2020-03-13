@@ -1,0 +1,1817 @@
+	idSent	idChar	label
+0	1	[0, 1]	albus_dumbledore
+1	1	[57, 67]	professor_mcgonagall
+2	1	[47, 56]	professor_mcgonagall
+3	1	[25, 28]	professor_mcgonagall
+4	2	[25, 35]	albus_dumbledore
+5	2	[61, 66]	albus_dumbledore
+6	2	[15, 24]	albus_dumbledore
+7	3	[0, 1]	albus_dumbledore
+8	3	[17, 26]	professor_mcgonagall
+9	4	[8, 11]	harry_potter
+10	5	[0, 6]	hagrid
+11	5	[19, 22]	harry_potter
+12	6	[3, 6]	albus_dumbledore
+13	6	[30, 36]	hagrid
+14	7	[17, 18]	albus_dumbledore
+15	7	[31, 37]	hagrid
+16	7	[43, 45]	albus_dumbledore
+17	7	[5, 14]	professor_mcgonagall
+18	8	[10, 20]	albus_dumbledore
+19	8	[39, 49]	professor_mcgonagall
+20	8	[23, 26]	albus_dumbledore
+21	8	[29, 38]	professor_mcgonagall
+22	9	[14, 15]	albus_dumbledore
+23	9	[24, 30]	hagrid
+24	10	[43, 45]	multiple_persons
+25	10	[95, 98]	harry_potter
+26	10	[5, 8]	albus_dumbledore
+27	11	[0, 5]	albus_dumbledore
+28	11	[11, 14]	hagrid
+29	11	[71, 72]	professor_mcgonagall
+30	11	[47, 50]	harry_potter
+31	12	[16, 18]	harry_potter
+32	13	[5, 8]	harry_potter
+33	13	[52, 55]	multiple_persons
+34	13	[80, 83]	harry_potter
+35	14	[10, 12]	harry_potter
+36	14	[65, 67]	harry_potter
+37	15	[16, 22]	hagrid
+38	16	[14, 19]	harry_potter
+39	16	[20, 26]	harry_potter
+40	17		
+41	18	[19, 21]	multiple_persons
+42	18	[10, 16]	harry_potter
+43	19	[10, 12]	dudley_dursley
+44	20	[17, 20]	dudley_dursley
+45	21	[11, 14]	harry_potter
+46	22	[6, 10]	aunt_petunia_dursley
+47	22	[11, 18]	aunt_petunia_dursley
+48	23	[0, 1]	aunt_petunia_dursley
+49	23	[36, 38]	aunt_petunia_dursley
+50	23	[39, 45]	dudley_dursley
+51	24	[17, 19]	uncle_vernon_dursley
+52	24	[29, 32]	harry_potter
+53	25	[6, 11]	uncle_vernon_dursley
+54	25	[12, 18]	uncle_vernon_dursley
+55	26		
+56	27	[27, 33]	uncle_vernon_dursley
+57	28	[41, 42]	dudley_dursley
+58	29		
+59	30	[0, 1]	dudley_dursley
+60	31	[36, 38]	multiple_persons
+61	31	[70, 72]	multiple_persons
+62	31	[80, 82]	multiple_persons
+63	31	[100, 103]	dudley_dursley
+64	32	[39, 40]	aunt_petunia_dursley
+65	33	[0, 1]	uncle_vernon_dursley
+66	33	[13, 16]	harry_potter
+67	33	[23, 26]	harry_potter
+68	33	[67, 70]	harry_potter
+69	34		
+70	35		
+71	36		
+72	37	[0, 2]	snake
+73	38	[0, 2]	snake
+74	39	[12, 15]	dudley_dursley
+75	39	[18, 20]	dudley_dursley
+76	39	[130, 133]	snake
+77	40	[17, 19]	harry_potter
+78	40	[22, 23]	harry_potter
+79	40	[38, 40]	harry_potter
+80	40	[51, 52]	harry_potter
+81	40	[64, 66]	harry_potter
+82	40	[67, 74]	harry_potter's_parents
+83	40	[4, 7]	snake
+84	41	[55, 60]	snake
+85	41	[8, 11]	uncle_vernon_dursley
+86	41	[0, 5]	aunt_petunia_dursley
+87	41	[26, 29]	multiple_persons
+88	42		
+89	43		
+90	44		
+91	45	[0, 5]	snake
+92	46	[0, 3]	aunt_petunia_dursley
+93	46	[6, 11]	aunt_petunia_dursley
+94	47		
+95	48	[18, 20]	dudley_dursley
+96	48	[0, 3]	aunt_petunia_dursley
+97	49	[0, 2]	aunt_petunia_dursley
+98	49	[25, 28]	dudley_dursley
+99	49	[11, 14]	dudley_dursley
+100	50		
+101	51		
+102	52		
+103	53		
+104	54	[0, 1]	harry_potter
+105	54	[8, 9]	harry_potter
+106	55		
+107	56		
+108	57	[13, 18]	harry_potter
+109	57	[0, 3]	uncle_vernon_dursley
+110	58	[27, 31]	harry_potter
+111	59	[0, 5]	harry_potter
+112	59	[29, 32]	harry_potter
+113	60		
+114	61		
+115	62		
+116	63	[21, 23]	uncle_vernon_dursley
+117	63	[71, 77]	dudley_dursley
+118	64	[3, 6]	UNKNOWN
+119	65		
+120	66	[4, 10]	uncle_vernon_dursley
+121	67		
+122	68	[25, 27]	dudley_dursley
+123	69	[5, 7]	uncle_vernon_dursley
+124	69	[20, 22]	uncle_vernon_dursley
+125	70		
+126	71		
+127	72	[9, 11]	harry_potter
+128	72	[32, 34]	harry_potter
+129	73	[13, 15]	multiple_persons
+130	73	[67, 69]	multiple_persons
+131	74	[0, 5]	uncle_vernon_dursley
+132	74	[27, 29]	uncle_vernon_dursley
+133	75	[14, 19]	harry_potter
+134	76		
+135	77		
+136	78	[0, 1]	uncle_vernon_dursley
+137	78	[40, 43]	hagrid
+138	78	[14, 17]	hagrid
+139	78	[34, 37]	hagrid
+140	79		
+141	80	[9, 16]	dudley_dursley
+142	80	[19, 22]	dudley_dursley
+143	81		
+144	82	[7, 8]	hagrid
+145	82	[50, 55]	harry_potter
+146	82	[92, 93]	hagrid
+147	82	[23, 26]	harry_potter
+148	82	[33, 36]	harry_potter
+149	82	[62, 65]	harry_potter
+150	83	[0, 1]	dudley_dursley
+151	83	[2, 3]	dudley_dursley
+152	83	[4, 5]	dudley_dursley
+153	83	[13, 18]	harry_potter
+154	84	[8, 9]	harry_potter
+155	84	[10, 11]	harry_potter
+156	85	[22, 25]	harry_potter
+157	85	[50, 52]	harry_potter
+158	85	[63, 64]	hagrid
+159	85	[102, 103]	hagrid
+160	85	[166, 172]	hagrid
+161	86		
+162	87	[25, 29]	harry_potter
+163	88	[7, 9]	harry_potter
+164	88	[20, 23]	hagrid
+165	89	[59, 62]	harry_potter
+166	90		
+167	91	[14, 19]	harry_potter
+168	91	[30, 33]	harry_potter
+169	91	[52, 56]	harry_potter
+170	91	[5, 11]	UNKNOWN
+171	91	[65, 68]	james_potter
+172	91	[57, 60]	lily_potter
+173	92		
+174	93	[0, 3]	harry_potter
+175	93	[19, 24]	harry_potter
+176	94	[0, 1]	harry_potter
+177	94	[2, 3]	harry_potter
+178	95	[45, 46]	harry_potter
+179	95	[63, 66]	harry_potter
+180	96	[5, 8]	hagrid
+181	96	[30, 31]	harry_potter
+182	96	[61, 62]	harry_potter
+183	96	[70, 71]	harry_potter
+184	96	[84, 89]	harry_potter
+185	96	[97, 102]	harry_potter
+186	97	[12, 17]	harry_potter
+187	97	[24, 27]	harry_potter
+188	97	[65, 68]	harry_potter
+189	97	[92, 95]	harry_potter
+190	98		
+191	99	[11, 17]	harry_potter
+192	99	[20, 22]	multiple_persons
+193	99	[45, 48]	harry_potter
+194	99	[54, 57]	harry_potter
+195	100	[20, 22]	multiple_persons
+196	100	[34, 36]	multiple_persons
+197	100	[49, 51]	multiple_persons
+198	100	[42, 45]	harry_potter
+199	101	[51, 53]	harry_potter
+200	101	[0, 3]	multiple_persons
+201	101	[13, 16]	multiple_persons
+202	101	[36, 39]	multiple_persons
+203	102	[10, 12]	multiple_persons
+204	102	[30, 33]	harry_potter
+205	102	[43, 45]	aunt_petunia_dursley
+206	102	[86, 88]	aunt_petunia_dursley
+207	102	[89, 95]	aunt_petunia_dursley's_mother
+208	102	[100, 106]	aunt_petunia_dursley's_father
+209	102	[150, 152]	multiple_persons
+210	102	[204, 205]	aunt_petunia_dursley
+211	102	[285, 291]	harry_potter
+212	102	[311, 314]	harry_potter
+213	102	[321, 322]	aunt_petunia_dursley
+214	102	[328, 331]	harry_potter
+215	102	[409, 412]	harry_potter
+216	102	[462, 464]	multiple_persons
+217	102	[481, 484]	harry_potter
+218	102	[71, 74]	lily_potter
+219	102	[129, 132]	lily_potter
+220	102	[137, 140]	lily_potter
+221	102	[230, 233]	lily_potter
+222	102	[243, 246]	lily_potter
+223	102	[272, 275]	lily_potter
+224	102	[303, 306]	lily_potter
+225	102	[422, 425]	lily_potter
+226	102	[439, 446]	lily_potter
+227	103	[11, 14]	aunt_petunia_dursley
+228	103	[20, 22]	harry_potter
+229	103	[23, 25]	harry_potter
+230	103	[26, 33]	harry_potter's_parents
+231	104	[31, 36]	james_potter
+232	104	[41, 45]	lily_potter
+233	105	[0, 2]	multiple_persons
+234	105	[15, 18]	harry_potter
+235	106		
+236	107	[0, 2]	harry_potter
+237	108	[9, 10]	hagrid
+238	108	[39, 47]	uncle_vernon_dursley
+239	108	[75, 78]	uncle_vernon_dursley
+240	108	[65, 68]	harry_potter
+241	108	[27, 33]	UNKNOWN
+242	109	[0, 6]	UNKNOWN
+243	110	[216, 221]	albus_dumbledore
+244	110	[222, 232]	albus_dumbledore
+245	110	[33, 36]	harry_potter
+246	110	[58, 60]	harry_potter
+247	110	[72, 74]	harry_potter
+248	110	[151, 153]	harry_potter
+249	111	[0, 1]	uncle_vernon_dursley
+250	111	[51, 54]	harry_potter
+251	112	[13, 18]	albus_dumbledore
+252	112	[19, 29]	albus_dumbledore
+253	112	[42, 44]	hagrid
+254	113		
+255	114		
+256	115		
+257	116	[10, 11]	hagrid
+258	116	[29, 32]	harry_potter
+259	116	[98, 99]	hagrid
+260	117		
+261	118		
+262	119	[144, 146]	multiple_persons
+263	120	[3, 6]	harry_potter
+264	121	[0, 3]	tom
+265	121	[9, 15]	hagrid
+266	121	[30, 31]	bartender_in_leaky_cauldron
+267	122	[12, 15]	tom
+268	122	[18, 19]	hagrid
+269	122	[80, 85]	harry_potter
+270	122	[95, 98]	harry_potter
+271	123	[6, 8]	tom
+272	123	[22, 27]	harry_potter
+273	123	[28, 34]	harry_potter
+274	124	[19, 25]	harry_potter
+275	125	[22, 28]	harry_potter
+276	125	[31, 32]	witch
+277	125	[48, 49]	witch
+278	125	[0, 5]	UNKNOWN
+279	125	[6, 15]	UNKNOWN
+280	125	[61, 64]	harry_potter
+281	126	[0, 5]	harry_potter
+282	126	[10, 16]	harry_potter
+283	126	[47, 48]	professor_quirrell
+284	126	[31, 34]	harry_potter
+285	126	[60, 63]	harry_potter
+286	127	[20, 21]	hagrid
+287	127	[34, 37]	professor_quirrell
+288	127	[46, 51]	harry_potter
+289	127	[72, 80]	professor_quirrell
+290	127	[8, 17]	professor_quirrell
+291	127	[62, 71]	professor_quirrell
+292	127	[83, 85]	professor_quirrell
+293	127	[93, 97]	harry_potter
+294	128	[18, 21]	professor_quirrell
+295	129	[49, 52]	harry_potter
+296	129	[72, 78]	harry_potter
+297	130		
+298	131		
+299	132	[6, 11]	harry_potter
+300	132	[14, 17]	harry_potter
+301	133	[11, 12]	harry_potter
+302	133	[22, 28]	hagrid
+303	133	[85, 86]	harry_potter
+304	134	[0, 1]	hagrid
+305	134	[22, 23]	hagrid
+306	134	[63, 68]	harry_potter
+307	134	[52, 55]	harry_potter
+308	135	[14, 17]	harry_potter
+309	135	[26, 30]	harry_potter
+310	135	[67, 71]	harry_potter
+311	135	[96, 100]	harry_potter
+312	136		
+313	137	[6, 12]	hagrid
+314	137	[22, 23]	harry_potter
+315	137	[46, 47]	harry_potter
+316	138	[14, 18]	harry_potter
+317	138	[27, 32]	harry_potter
+318	139	[5, 11]	hagrid
+319	140	[19, 24]	harry_potter
+320	140	[113, 115]	hagrid
+321	140	[122, 127]	harry_potter
+322	140	[128, 134]	harry_potter
+323	141	[13, 18]	harry_potter
+324	141	[19, 25]	harry_potter
+325	141	[31, 34]	harry_potter
+326	142	[131, 141]	albus_dumbledore
+327	142	[147, 149]	hagrid
+328	142	[121, 130]	albus_dumbledore
+329	142	[169, 172]	goblin_bank_teller
+330	142	[196, 199]	goblin_bank_teller
+331	143		
+332	144		
+333	145	[14, 18]	griphook
+334	145	[19, 22]	lily_potter
+335	145	[27, 30]	james_potter
+336	145	[43, 46]	harry_potter
+337	146		
+338	147	[19, 25]	hagrid
+339	148	[12, 15]	harry_potter
+340	148	[18, 23]	harry_potter
+341	149		
+342	150	[34, 39]	harry_potter
+343	151	[0, 1]	harry_potter
+344	152	[16, 19]	harry_potter
+345	152	[90, 91]	hagrid
+346	152	[116, 117]	hagrid
+347	153		
+348	154	[0, 1]	mr_ollivander
+349	154	[16, 17]	mr_ollivander
+350	154	[31, 34]	harry_potter
+351	154	[41, 47]	harry_potter
+352	154	[79, 83]	harry_potter
+353	154	[84, 90]	lily_potter
+354	154	[95, 101]	james_potter
+355	155		
+356	156		
+357	157		
+358	158	[0, 1]	mr_ollivander
+359	158	[22, 23]	mr_ollivander
+360	158	[44, 50]	harry_potter
+361	158	[121, 125]	harry_potter
+362	158	[186, 189]	harry_potter
+363	158	[245, 248]	harry_potter
+364	159		
+365	160	[5, 7]	multiple_persons
+366	160	[21, 24]	UNKNOWN
+367	160	[66, 72]	harry_potter
+368	160	[108, 109]	mr_ollivander
+369	160	[133, 135]	multiple_persons
+370	160	[165, 168]	harry_potter
+371	160	[183, 185]	he_who_must_not_be_named
+372	160	[186, 187]	he_who_must_not_be_named
+373	160	[188, 191]	he_who_must_not_be_named
+374	160	[192, 193]	he_who_must_not_be_named
+375	160	[194, 198]	he_who_must_not_be_named
+376	160	[199, 200]	he_who_must_not_be_named
+377	160	[201, 204]	he_who_must_not_be_named
+378	160	[205, 206]	he_who_must_not_be_named
+379	160	[207, 209]	he_who_must_not_be_named
+380	160	[210, 211]	he_who_must_not_be_named
+381	160	[212, 217]	he_who_must_not_be_named
+382	161	[0, 5]	harry_potter
+383	161	[8, 13]	harry_potter
+384	162		
+385	163	[0, 3]	harry_potter
+386	163	[16, 21]	harry_potter
+387	163	[24, 27]	harry_potter
+388	164	[10, 12]	harry_potter
+389	164	[13, 20]	harry_potter's_parents
+390	164	[53, 55]	harry_potter
+391	164	[63, 66]	hagrid
+392	164	[74, 80]	hagrid
+393	164	[83, 84]	harry_potter
+394	164	[90, 93]	hagrid
+395	164	[31, 33]	he_who_must_not_be_named
+396	164	[0, 2]	he_who_must_not_be_named
+397	165	[30, 35]	harry_potter
+398	165	[173, 176]	harry_potter
+399	165	[190, 193]	he_who_must_not_be_named
+400	166	[9, 12]	hagrid
+401	167	[5, 6]	hagrid
+402	167	[37, 40]	he_who_must_not_be_named
+403	167	[50, 59]	he_who_must_not_be_named
+404	168	[0, 9]	he_who_must_not_be_named
+405	169		
+406	170	[20, 25]	harry_potter
+407	170	[166, 170]	harry_potter
+408	170	[41, 50]	he_who_must_not_be_named
+409	170	[146, 149]	he_who_must_not_be_named
+410	170	[171, 178]	harry_potter's_parents
+411	170	[194, 197]	he_who_must_not_be_named
+412	170	[222, 224]	he_who_must_not_be_named
+413	171	[0, 2]	harry_potter
+414	171	[33, 35]	harry_potter
+415	171	[5, 14]	he_who_must_not_be_named
+416	172	[37, 41]	harry_potter
+417	172	[53, 58]	harry_potter
+418	173	[28, 31]	hagrid
+419	174	[33, 35]	hagrid
+420	174	[53, 54]	hagrid
+421	174	[163, 166]	harry_potter
+422	174	[204, 207]	harry_potter
+423	174	[221, 226]	harry_potter
+424	174	[256, 260]	harry_potter
+425	174	[268, 271]	harry_potter
+426	174	[9, 11]	he_who_must_not_be_named
+427	174	[62, 64]	he_who_must_not_be_named
+428	174	[175, 178]	he_who_must_not_be_named
+429	175	[9, 12]	harry_potter
+430	175	[64, 69]	harry_potter
+431	175	[72, 73]	hagrid
+432	175	[98, 101]	harry_potter
+433	175	[169, 171]	hagrid
+434	175	[185, 189]	harry_potter
+435	175	[227, 231]	harry_potter
+436	175	[255, 260]	harry_potter
+437	175	[295, 299]	harry_potter
+438	175	[26, 32]	UNKNOWN
+439	175	[104, 114]	albus_dumbledore
+440	175	[129, 132]	albus_dumbledore
+441	175	[144, 146]	albus_dumbledore
+442	176	[19, 25]	hagrid
+443	177		
+444	178	[7, 9]	harry_potter
+445	178	[19, 21]	harry_potter
+446	179	[9, 13]	UNKNOWN
+447	179	[21, 26]	UNKNOWN
+448	180	[7, 9]	harry_potter
+449	180	[22, 25]	trainmaster
+450	180	[31, 33]	harry_potter
+451	180	[40, 41]	harry_potter
+452	180	[12, 15]	trainmaster
+453	181	[36, 38]	harry_potter
+454	181	[12, 15]	harry_potter
+455	182	[52, 59]	UNKNOWN
+456	183	[0, 7]	UNKNOWN
+457	184	[46, 51]	percy_weasley
+458	184	[54, 57]	percy_weasley
+459	185	[0, 4]	fred_weasley
+460	185	[7, 10]	fred_weasley
+461	186	[0, 2]	UNKNOWN
+462	186	[10, 14]	fred_weasley
+463	186	[17, 18]	george_weasley
+464	187	[41, 47]	PARENTS
+465	187	[11, 16]	mrs_weasley
+466	187	[19, 22]	mrs_weasley
+467	187	[28, 36]	mrs_weasley
+468	187	[37, 40]	multiple_persons
+469	188	[5, 6]	mrs_weasley
+470	188	[18, 24]	george_weasley
+471	189	[0, 1]	fred_weasley
+472	189	[19, 20]	fred_weasley
+473	189	[24, 28]	fred_weasley
+474	190	[7, 9]	harry_potter
+475	190	[27, 29]	harry_potter
+476	190	[18, 21]	mrs_weasley
+477	191	[63, 66]	ron_weasley
+478	191	[113, 116]	harry_potter
+479	191	[221, 224]	harry_potter
+480	192		
+481	193	[7, 9]	ron_weasley
+482	193	[15, 18]	harry_potter
+483	194		
+484	195	[0, 1]	ron_weasley
+485	195	[5, 8]	ron_weasley
+486	195	[24, 27]	ron_weasley
+487	195	[28, 35]	ron_weasley
+488	196	[0, 1]	harry_potter
+489	196	[5, 10]	harry_potter
+490	196	[13, 18]	harry_potter
+491	196	[19, 25]	harry_potter
+492	197	[23, 24]	ron_weasley
+493	197	[35, 38]	harry_potter
+494	198		
+495	199		
+496	200		
+497	201		
+498	202		
+499	203		
+500	204	[0, 2]	multiple_persons
+501	205		
+502	206	[0, 6]	UNKNOWN
+503	206	[7, 11]	UNKNOWN
+504	207	[108, 114]	george_weasley
+505	207	[123, 125]	george_weasley
+506	208		
+507	209	[102, 103]	ron_weasley
+508	209	[47, 50]	multiple_persons
+509	210		
+510	211		
+511	212	[6, 7]	harry_potter
+512	212	[12, 22]	albus_dumbledore
+513	213	[0, 1]	ron_weasley
+514	213	[17, 20]	albus_dumbledore
+515	214	[6, 8]	albus_dumbledore
+516	215	[7, 10]	harry_potter
+517	215	[58, 61]	harry_potter
+518	215	[25, 28]	albus_dumbledore
+519	215	[113, 115]	UNKNOWN
+520	215	[72, 80]	UNKNOWN
+521	216		
+522	217	[0, 4]	fred_weasley
+523	217	[10, 12]	ron_weasley
+524	217	[32, 35]	fred_weasley
+525	218		
+526	219		
+527	220	[37, 44]	neville_longbottom
+528	221		
+529	222	[9, 12]	ron_weasley
+530	223		
+531	224	[4, 7]	ron_weasley
+532	224	[83, 84]	hermione_granger
+533	224	[120, 126]	hermione_granger
+534	224	[157, 159]	hermione_granger
+535	224	[230, 235]	harry_potter
+536	224	[236, 242]	harry_potter
+537	224	[245, 246]	hermione_granger
+538	224	[250, 258]	hermione_granger
+539	224	[259, 266]	hermione_granger
+540	224	[275, 278]	ron_weasley
+541	224	[222, 225]	harry_potter
+542	225	[8, 11]	ron_weasley
+543	225	[12, 19]	ron_weasley
+544	226	[51, 52]	hermione_granger
+545	226	[60, 62]	multiple_persons
+546	226	[11, 14]	ron_weasley-harry_potter
+547	226	[38, 42]	ron_weasley-harry_potter
+548	227		
+549	228	[8, 13]	harry_potter
+550	229	[6, 12]	hagrid
+551	230		
+552	231	[60, 62]	hagrid
+553	232		
+554	233	[215, 225]	UNKNOWN
+555	233	[203, 212]	UNKNOWN
+556	233	[190, 200]	UNKNOWN
+557	233	[232, 241]	UNKNOWN
+558	233	[47, 50]	multiple_persons
+559	233	[90, 94]	multiple_persons
+560	233	[119, 122]	multiple_persons
+561	233	[132, 136]	multiple_persons
+562	233	[143, 146]	multiple_persons
+563	233	[167, 171]	multiple_persons
+564	233	[256, 259]	multiple_persons
+565	233	[271, 275]	multiple_persons
+566	233	[295, 299]	multiple_persons
+567	233	[309, 313]	multiple_persons
+568	233	[333, 336]	multiple_persons
+569	233	[376, 379]	multiple_persons
+570	234	[0, 6]	UNKNOWN
+571	235		
+572	236	[54, 59]	harry_potter
+573	236	[60, 66]	harry_potter
+574	237	[0, 1]	harry_potter
+575	237	[8, 9]	harry_potter
+576	237	[46, 52]	harry_potter
+577	238	[0, 2]	multiple_persons
+578	238	[17, 20]	multiple_persons
+579	239	[81, 82]	hermione_granger
+580	240	[61, 63]	multiple_persons
+581	240	[72, 81]	albus_dumbledore
+582	240	[82, 93]	albus_dumbledore
+583	240	[17, 20]	multiple_persons
+584	241	[0, 1]	albus_dumbledore
+585	241	[35, 36]	albus_dumbledore
+586	241	[172, 177]	mr_filch
+587	241	[188, 190]	albus_dumbledore
+588	241	[201, 204]	multiple_persons
+589	242	[5, 6]	professor_mcgonagall
+590	242	[46, 47]	professor_mcgonagall
+591	242	[64, 71]	the_sorting_hat
+592	242	[133, 141]	hermione_granger
+593	242	[142, 149]	hermione_granger
+594	242	[12, 16]	multiple_persons
+595	242	[24, 27]	multiple_persons
+596	242	[60, 63]	the_sorting_hat
+597	242	[72, 75]	the_sorting_hat
+598	242	[79, 83]	multiple_persons
+599	242	[95, 98]	multiple_persons
+600	242	[119, 123]	multiple_persons
+601	243		
+602	244	[18, 19]	ron_weasley
+603	244	[31, 34]	hermione_granger
+604	245	[45, 55]	UNKNOWN
+605	246	[0, 5]	draco_malfoy
+606	246	[6, 12]	draco_malfoy
+607	247	[0, 9]	UNKNOWN
+608	248	[58, 67]	UNKNOWN
+609	249	[0, 5]	UNKNOWN
+610	249	[6, 11]	UNKNOWN
+611	250		
+612	251	[0, 5]	harry_potter
+613	252	[28, 29]	harry_potter
+614	253	[15, 16]	the_sorting_hat
+615	253	[26, 36]	hufflepuff
+616	254	[7, 14]	percy_weasley
+617	254	[0, 6]	ron_weasley
+618	255	[27, 28]	the_sorting_hat
+619	255	[17, 24]	multiple_persons
+620	255	[52, 55]	ron_weasley
+621	255	[60, 70]	UNKNOWN
+622	256		
+623	257	[0, 5]	harry_potter
+624	257	[6, 12]	harry_potter
+625	258	[55, 56]	the_sorting_hat
+626	258	[138, 146]	harry_potter
+627	258	[166, 169]	harry_potter
+628	259	[4, 13]	UNKNOWN
+629	259	[20, 29]	UNKNOWN
+630	260	[25, 28]	harry_potter
+631	260	[36, 39]	harry_potter
+632	260	[57, 60]	harry_potter
+633	260	[84, 88]	harry_potter
+634	260	[120, 123]	harry_potter
+635	260	[127, 131]	harry_potter
+636	260	[197, 200]	harry_potter
+637	260	[4, 13]	UNKNOWN
+638	260	[227, 237]	UNKNOWN
+639	260	[100, 109]	UNKNOWN
+640	261	[0, 4]	multiple_persons
+641	262		
+642	263		
+643	264	[0, 1]	seamus_finnigan
+644	264	[21, 23]	seamus_finnigan
+645	264	[24, 27]	seamus_finnigan's_father
+646	264	[33, 39]	UNKNOWN
+647	264	[42, 45]	PARENTS
+648	264	[84, 87]	seamus_finnigan's_father
+649	264	[93, 95]	seamus_finnigan's_father
+650	265	[6, 11]	percy_weasley
+651	265	[55, 63]	professor_quirrell
+652	265	[45, 54]	professor_quirrell
+653	266	[23, 28]	professor_snape
+654	266	[13, 22]	professor_snape
+655	266	[39, 48]	UNKNOWN
+656	267	[8, 10]	professor_snape
+657	268	[49, 51]	professor_snape
+658	268	[62, 64]	professor_snape
+659	268	[79, 88]	professor_quirrell
+660	269		
+661	270	[33, 43]	UNKNOWN
+662	270	[16, 19]	multiple_persons
+663	271		
+664	272	[15, 21]	UNKNOWN
+665	272	[22, 27]	UNKNOWN
+666	273	[8, 11]	nearly_headless_nick
+667	273	[12, 20]	nearly_headless_nick
+668	274	[22, 24]	nearly_headless_nick
+669	274	[45, 53]	nearly_headless_nick
+670	274	[0, 6]	UNKNOWN
+671	275	[6, 7]	ron_weasley
+672	275	[13, 16]	nearly_headless_nick
+673	275	[19, 22]	nearly_headless_nick
+674	275	[27, 33]	nearly_headless_nick
+675	275	[34, 42]	nearly_headless_nick
+676	275	[43, 47]	nearly_headless_nick
+677	276	[0, 1]	nearly_headless_nick
+678	276	[9, 12]	nearly_headless_nick
+679	276	[13, 21]	nearly_headless_nick
+680	276	[25, 28]	ron_weasley
+681	277	[0, 6]	nearly_headless_nick
+682	277	[7, 15]	nearly_headless_nick
+683	277	[26, 29]	nearly_headless_nick
+684	277	[33, 39]	nearly_headless_nick
+685	277	[40, 48]	nearly_headless_nick
+686	278		
+687	279		
+688	280		
+689	281	[0, 11]	gryffindors
+690	281	[21, 23]	percy_weasley
+691	282	[19, 21]	boy
+692	283		
+693	284	[30, 32]	percy_weasley
+694	285	[0, 6]	seamus_finnigan
+695	286	[19, 24]	harry_potter
+696	287	[0, 1]	harry_potter
+697	287	[20, 23]	ron_weasley
+698	287	[8, 11]	UNKNOWN
+699	288		
+700	289		
+701	290		
+702	291		
+703	292	[24, 26]	percy_weasley
+704	293		
+705	294	[37, 47]	UNKNOWN
+706	294	[104, 108]	multiple_persons
+707	294	[136, 140]	multiple_persons
+708	294	[149, 152]	multiple_persons
+709	294	[167, 171]	multiple_persons
+710	295	[49, 59]	professor_mcgonagall
+711	295	[21, 24]	harry_potter
+712	295	[71, 73]	ron_weasley-harry_potter
+713	296		
+714	297	[55, 56]	professor_mcgonagall
+715	297	[81, 87]	harry_potter
+716	297	[92, 100]	ron_weasley
+717	297	[135, 138]	ron_weasley
+718	297	[36, 43]	ron_weasley
+719	298	[0, 2]	ron_weasley-harry_potter
+720	299	[21, 22]	professor_mcgonagall
+721	299	[29, 32]	ron_weasley-harry_potter
+722	299	[57, 61]	ron_weasley-harry_potter
+723	300	[85, 86]	professor_snape
+724	300	[109, 112]	multiple_persons
+725	300	[237, 240]	multiple_persons
+726	300	[309, 312]	multiple_persons
+727	301	[4, 10]	harry_potter
+728	301	[46, 48]	professor_snape
+729	301	[62, 63]	professor_snape
+730	301	[71, 72]	professor_snape
+731	301	[13, 16]	multiple_persons
+732	302	[0, 1]	harry_potter
+733	302	[16, 19]	professor_snape
+734	303	[35, 44]	UNKNOWN
+735	303	[49, 57]	UNKNOWN
+736	304	[0, 1]	harry_potter
+737	304	[16, 19]	professor_snape
+738	305	[54, 60]	harry_potter
+739	306		
+740	307	[8, 14]	seamus_finnigan
+741	308		
+742	309		
+743	310	[4, 5]	harry_potter
+744	311	[13, 20]	neville_longbottom
+745	312	[0, 1]	hermione_granger
+746	312	[61, 64]	multiple_persons
+747	313	[22, 23]	neville_longbottom
+748	313	[45, 46]	neville_longbottom
+749	314	[6, 9]	ron_weasley
+750	314	[317, 323]	hagrid
+751	314	[328, 329]	harry_potter
+752	315		
+753	316	[23, 28]	madame_hooch
+754	317	[17, 23]	madame_hooch
+755	317	[54, 58]	multiple_persons
+756	317	[97, 100]	multiple_persons
+757	317	[202, 206]	multiple_persons
+758	318		
+759	319		
+760	320		
+761	321		
+762	322		
+763	323		
+764	324	[44, 45]	madame_hooch
+765	324	[11, 14]	multiple_persons
+766	324	[31, 35]	multiple_persons
+767	324	[51, 54]	multiple_persons
+768	324	[89, 92]	multiple_persons
+769	325		
+770	326	[4, 14]	neville_longbottom
+771	327	[0, 7]	neville_longbottom
+772	327	[19, 22]	neville_longbottom
+773	328	[0, 7]	neville_longbottom
+774	328	[13, 20]	neville_longbottom
+775	329	[0, 2]	multiple_persons
+776	330	[13, 23]	neville_longbottom
+777	330	[28, 38]	neville_longbottom
+778	331		
+779	332	[4, 14]	neville_longbottom
+780	333		
+781	334	[0, 7]	neville_longbottom
+782	335		
+783	336		
+784	337		
+785	338		
+786	339	[4, 14]	neville_longbottom
+787	340		
+788	341		
+789	342	[3, 5]	neville_longbottom
+790	343		
+791	344	[94, 97]	neville_longbottom
+792	345		
+793	346	[15, 21]	draco_malfoy
+794	347	[5, 6]	draco_malfoy
+795	347	[13, 14]	draco_malfoy
+796	347	[42, 52]	neville_longbottom
+797	347	[84, 90]	harry_potter
+798	347	[104, 108]	harry_potter
+799	348	[0, 5]	harry_potter
+800	348	[13, 16]	draco_malfoy
+801	348	[34, 39]	madame_hooch
+802	348	[57, 60]	harry_potter
+803	349	[15, 21]	draco_malfoy
+804	349	[27, 28]	harry_potter
+805	349	[39, 42]	draco_malfoy
+806	349	[47, 51]	draco_malfoy
+807	350		
+808	351	[11, 16]	harry_potter
+809	352	[25, 30]	harry_potter
+810	353		
+811	354		
+812	355	[7, 9]	professor_mcgonagall
+813	355	[19, 21]	professor_mcgonagall
+814	355	[34, 42]	professor_quirrell
+815	355	[51, 52]	professor_mcgonagall
+816	355	[60, 64]	oliver_wood
+817	355	[24, 33]	professor_quirrell
+818	356		
+819	357	[0, 6]	harry_potter
+820	357	[17, 23]	oliver_wood
+821	357	[24, 28]	oliver_wood
+822	357	[31, 35]	oliver_wood
+823	357	[38, 39]	professor_mcgonagall
+824	357	[51, 54]	oliver_wood
+825	358	[17, 22]	harry_potter
+826	358	[23, 29]	harry_potter
+827	358	[61, 62]	nearly_headless_nick
+828	358	[5, 8]	UNKNOWN
+829	358	[41, 51]	UNKNOWN
+830	358	[75, 77]	harry_potter
+831	359	[56, 59]	harry_potter
+832	360	[25, 35]	professor_mcgonagall
+833	361	[18, 23]	harry_potter
+834	361	[26, 30]	oliver_wood
+835	361	[44, 46]	multiple_persons
+836	362	[0, 4]	fred_weasley
+837	362	[9, 15]	george_weasley
+838	363	[0, 3]	multiple_persons
+839	363	[29, 32]	harry_potter
+840	364	[98, 103]	harry_potter
+841	364	[108, 111]	ron_weasley
+842	365		
+843	366	[13, 18]	harry_potter
+844	366	[67, 70]	harry_potter
+845	367	[4, 5]	harry_potter
+846	367	[48, 49]	harry_potter
+847	367	[65, 71]	harry_potter
+848	368	[0, 3]	harry_potter
+849	368	[26, 34]	harry_potter
+850	368	[46, 50]	harry_potter
+851	369	[7, 12]	harry_potter
+852	369	[30, 32]	ron_weasley
+853	369	[15, 18]	harry_potter
+854	369	[33, 37]	harry_potter
+855	369	[38, 44]	james_potter
+856	370	[0, 1]	harry_potter
+857	370	[4, 5]	harry_potter
+858	371	[0, 1]	ron_weasley
+859	371	[13, 16]	harry_potter
+860	371	[55, 58]	harry_potter
+861	371	[64, 67]	harry_potter
+862	371	[34, 37]	UNKNOWN
+863	372		
+864	373		
+865	374		
+866	375		
+867	376		
+868	377		
+869	378		
+870	379	[26, 28]	multiple_persons
+871	380	[0, 2]	multiple_persons
+872	381		
+873	382	[6, 11]	mr_filch
+874	383		
+875	384		
+876	385	[13, 15]	multiple_persons
+877	386		
+878	387		
+879	388		
+880	389	[14, 16]	mr_filch
+881	390	[0, 5]	mr_filch
+882	391		
+883	392		
+884	393		
+885	394		
+886	395		
+887	396	[15, 19]	ron_weasley
+888	396	[30, 33]	ron_weasley
+889	396	[44, 47]	ron_weasley
+890	396	[0, 3]	ron_weasley
+891	397	[0, 1]	ron_weasley
+892	397	[32, 33]	ron_weasley
+893	397	[82, 85]	hermione_granger
+894	398		
+895	399		
+896	400	[47, 48]	hermione_granger
+897	400	[25, 28]	ron_weasley
+898	400	[82, 85]	ron_weasley
+899	401	[0, 3]	hermione_granger
+900	401	[22, 25]	hermione_granger
+901	402	[169, 171]	oliver_wood
+902	402	[125, 128]	harry_potter
+903	403		
+904	404	[4, 7]	harry_potter
+905	405	[0, 1]	harry_potter
+906	406	[5, 8]	harry_potter
+907	407	[8, 9]	harry_potter
+908	408	[0, 3]	harry_potter
+909	408	[51, 54]	harry_potter
+910	408	[87, 90]	harry_potter
+911	408	[104, 110]	harry_potter
+912	408	[117, 119]	multiple_persons
+913	409		
+914	410	[99, 102]	multiple_persons
+915	410	[112, 116]	multiple_persons
+916	410	[198, 201]	multiple_persons
+917	411		
+918	412		
+919	413	[21, 24]	ron_weasley
+920	413	[74, 77]	ron_weasley
+921	414	[0, 3]	hermione_granger
+922	414	[18, 21]	hermione_granger
+923	415		
+924	416	[43, 50]	hermione_granger
+925	417		
+926	418		
+927	419	[0, 1]	harry_potter
+928	419	[8, 10]	multiple_persons
+929	420	[42, 45]	hermione_granger
+930	420	[73, 76]	hermione_granger
+931	421	[0, 1]	harry_potter
+932	421	[8, 11]	hermione_granger
+933	421	[18, 21]	ron_weasley
+934	422	[9, 17]	hermione_granger
+935	423	[0, 7]	UNKNOWN
+936	423	[8, 13]	UNKNOWN
+937	423	[24, 27]	UNKNOWN
+938	423	[73, 76]	UNKNOWN
+939	423	[87, 90]	UNKNOWN
+940	424		
+941	425	[143, 145]	albus_dumbledore
+942	426	[0, 10]	hufflepuff
+943	427		
+944	428	[0, 11]	gryffindors
+945	429		
+946	430		
+947	431	[0, 8]	hermione_granger
+948	431	[11, 14]	hermione_granger
+949	432	[0, 2]	UNKNOWN
+950	433	[0, 8]	hermione_granger
+951	434		
+952	435		
+953	436		
+954	437		
+955	438		
+956	439		
+957	440		
+958	441		
+959	442		
+960	443		
+961	444	[239, 244]	harry_potter
+962	445		
+963	446	[0, 1]	harry_potter
+964	447	[10, 12]	professor_mcgonagall
+965	447	[36, 46]	harry_potter
+966	447	[57, 60]	ron_weasley-harry_potter
+967	448	[4, 9]	harry_potter
+968	449	[6, 8]	hermione_granger
+969	449	[27, 37]	professor_mcgonagall
+970	449	[17, 26]	professor_mcgonagall
+971	450	[4, 11]	hermione_granger
+972	451	[0, 1]	hermione_granger
+973	451	[31, 32]	hermione_granger
+974	451	[64, 65]	hermione_granger
+975	451	[88, 89]	hermione_granger
+976	451	[105, 110]	harry_potter
+977	451	[115, 118]	ron_weasley
+978	451	[142, 144]	hermione_granger
+979	452		
+980	453	[8, 11]	multiple_persons
+981	454	[22, 26]	harry_potter
+982	455	[0, 3]	ron_weasley
+983	455	[15, 20]	harry_potter
+984	455	[23, 26]	harry_potter
+985	455	[43, 47]	harry_potter
+986	456	[0, 1]	harry_potter
+987	457	[18, 24]	harry_potter
+988	457	[49, 52]	harry_potter
+989	457	[64, 72]	harry_potter
+990	457	[142, 145]	harry_potter
+991	457	[172, 181]	UNKNOWN
+992	458		
+993	459		
+994	460	[22, 23]	harry_potter
+995	460	[36, 41]	professor_snape
+996	460	[77, 79]	professor_snape
+997	460	[129, 131]	professor_snape
+998	460	[136, 143]	professor_snape
+999	460	[165, 167]	professor_snape
+1000	461		
+1001	462	[8, 9]	harry_potter
+1002	462	[29, 35]	hagrid
+1003	462	[78, 80]	hagrid
+1004	463	[3, 6]	harry_potter
+1005	464	[48, 53]	professor_snape
+1006	465		
+1007	466	[4, 5]	harry_potter
+1008	466	[8, 9]	harry_potter
+1009	467		
+1010	468		
+1011	469	[33, 38]	harry_potter
+1012	470		
+1013	471	[9, 14]	harry_potter
+1014	472		
+1015	473	[20, 21]	oliver_wood
+1016	473	[47, 49]	oliver_wood
+1017	474		
+1018	475	[5, 6]	oliver_wood
+1019	475	[32, 33]	oliver_wood
+1020	476	[85, 94]	UNKNOWN
+1021	476	[102, 112]	UNKNOWN
+1022	477	[42, 47]	madame_hooch
+1023	478	[6, 7]	madame_hooch
+1024	478	[47, 50]	multiple_persons
+1025	479		
+1026	480		
+1027	481	[0, 8]	UNKNOWN
+1028	481	[9, 16]	UNKNOWN
+1029	481	[40, 50]	UNKNOWN
+1030	482		
+1031	483		
+1032	484	[72, 78]	marcus_flint
+1033	484	[79, 84]	marcus_flint
+1034	484	[0, 9]	UNKNOWN
+1035	485	[4, 10]	seamus_finnigan
+1036	486		
+1037	487	[21, 31]	UNKNOWN
+1038	488		
+1039	489	[5, 7]	marcus_flint
+1040	490		
+1041	491		
+1042	492		
+1043	493	[22, 27]	harry_potter
+1044	494	[6, 11]	professor_snape
+1045	494	[14, 16]	professor_snape
+1046	495	[28, 30]	multiple_persons
+1047	496	[12, 14]	hermione_granger
+1048	497	[10, 18]	hermione_granger
+1049	498		
+1050	499	[7, 10]	professor_snape
+1051	500		
+1052	501		
+1053	502		
+1054	503	[11, 13]	harry_potter
+1055	504	[23, 28]	harry_potter
+1056	504	[29, 35]	harry_potter
+1057	504	[0, 2]	harry_potter
+1058	505	[0, 10]	UNKNOWN
+1059	506		
+1060	507		
+1061	508		
+1062	509		
+1063	510		
+1064	511	[6, 16]	UNKNOWN
+1065	511	[25, 35]	UNKNOWN
+1066	511	[44, 54]	UNKNOWN
+1067	511	[63, 73]	UNKNOWN
+1068	512	[21, 26]	professor_snape
+1069	512	[42, 47]	harry_potter
+1070	513	[20, 22]	professor_snape
+1071	514	[9, 12]	multiple_persons
+1072	514	[19, 25]	UNKNOWN
+1073	515	[0, 6]	UNKNOWN
+1074	516		
+1075	517	[36, 38]	UNKNOWN
+1076	517	[42, 46]	hagrid
+1077	517	[49, 50]	hagrid
+1078	517	[58, 61]	UNKNOWN
+1079	517	[82, 83]	hagrid
+1080	517	[121, 122]	hagrid
+1081	517	[128, 131]	UNKNOWN
+1082	517	[135, 145]	albus_dumbledore
+1083	517	[17, 19]	UNKNOWN
+1084	518		
+1085	519		
+1086	520	[4, 10]	hagrid
+1087	520	[43, 48]	professor_snape
+1088	520	[22, 28]	UNKNOWN
+1089	521	[23, 28]	professor_snape
+1090	521	[13, 22]	professor_snape
+1091	521	[0, 10]	UNKNOWN
+1092	522	[26, 27]	hermione_granger
+1093	522	[46, 47]	hermione_granger
+1094	522	[58, 59]	hermione_granger
+1095	522	[86, 89]	hagrid
+1096	522	[121, 126]	professor_snape
+1097	523		
+1098	524	[20, 22]	hagrid
+1099	524	[180, 190]	albus_dumbledore
+1100	524	[6, 9]	multiple_persons
+1101	524	[38, 41]	multiple_persons
+1102	524	[44, 47]	multiple_persons
+1103	524	[170, 179]	albus_dumbledore
+1104	524	[195, 203]	UNKNOWN
+1105	524	[204, 210]	UNKNOWN
+1106	525	[0, 8]	UNKNOWN
+1107	525	[9, 15]	UNKNOWN
+1108	526	[0, 1]	hagrid
+1109	526	[30, 31]	hagrid
+1110	526	[60, 61]	hagrid
+1111	527	[27, 35]	UNKNOWN
+1112	527	[36, 42]	UNKNOWN
+1113	527	[0, 8]	UNKNOWN
+1114	527	[9, 15]	UNKNOWN
+1115	528	[0, 1]	hermione_granger
+1116	529		
+1117	530		
+1118	531		
+1119	532	[26, 27]	ron_weasley
+1120	532	[32, 35]	hermione_granger
+1121	533	[4, 7]	ron_weasley
+1122	534	[18, 20]	ron_weasley
+1123	534	[21, 28]	ron_weasley's_parents
+1124	534	[63, 65]	ron_weasley
+1125	534	[86, 88]	UNKNOWN
+1126	534	[76, 83]	UNKNOWN
+1127	535	[7, 10]	ron_weasley
+1128	535	[20, 25]	harry_potter
+1129	535	[35, 37]	harry_potter
+1130	535	[84, 92]	UNKNOWN
+1131	535	[93, 99]	UNKNOWN
+1132	536	[0, 2]	ron_weasley-harry_potter
+1133	537		
+1134	538	[0, 1]	ron_weasley
+1135	538	[38, 41]	hermione_granger
+1136	538	[8, 10]	ron_weasley-harry_potter
+1137	539	[0, 5]	harry_potter
+1138	539	[26, 31]	harry_potter
+1139	540	[18, 23]	harry_potter
+1140	541	[18, 21]	ron_weasley
+1141	541	[33, 36]	ron_weasley
+1142	542	[21, 23]	ron_weasley
+1143	542	[37, 40]	harry_potter
+1144	542	[5, 8]	mrs_weasley
+1145	543	[0, 1]	harry_potter
+1146	544		
+1147	545		
+1148	546		
+1149	547	[9, 15]	james_potter
+1150	547	[4, 8]	harry_potter
+1151	547	[29, 31]	UNKNOWN
+1152	547	[50, 52]	james_potter
+1153	547	[90, 93]	harry_potter
+1154	548		
+1155	549		
+1156	550		
+1157	551		
+1158	552	[0, 2]	harry_potter
+1159	553	[0, 1]	ron_weasley
+1160	554	[0, 1]	harry_potter
+1161	555	[23, 24]	ron_weasley
+1162	555	[47, 50]	harry_potter
+1163	556		
+1164	557	[47, 53]	UNKNOWN
+1165	557	[58, 66]	UNKNOWN
+1166	557	[67, 73]	UNKNOWN
+1167	557	[88, 91]	UNKNOWN
+1168	558		
+1169	559	[40, 48]	harry_potter
+1170	560	[17, 18]	professor_quirrell
+1171	560	[0, 7]	professor_snape
+1172	561	[0, 3]	professor_quirrell
+1173	561	[16, 18]	professor_snape
+1174	561	[22, 26]	professor_quirrell
+1175	561	[35, 43]	professor_quirrell
+1176	562	[12, 15]	professor_snape
+1177	563	[0, 3]	professor_quirrell
+1178	563	[29, 30]	professor_snape
+1179	563	[38, 40]	multiple_persons
+1180	563	[77, 80]	professor_quirrell
+1181	563	[110, 114]	professor_quirrell
+1182	564	[18, 19]	mr_filch
+1183	564	[5, 15]	multiple_persons
+1184	565	[6, 9]	james_potter
+1185	565	[0, 3]	lily_potter
+1186	566	[0, 3]	ron_weasley
+1187	566	[6, 9]	ron_weasley
+1188	566	[39, 42]	ron_weasley
+1189	566	[45, 48]	ron_weasley
+1190	566	[71, 74]	ron_weasley
+1191	566	[77, 80]	ron_weasley
+1192	567		
+1193	568	[19, 22]	ron_weasley
+1194	569	[35, 37]	harry_potter
+1195	569	[38, 45]	harry_potter's_parents
+1196	570	[0, 1]	ron_weasley
+1197	570	[11, 13]	ron_weasley
+1198	571	[49, 52]	ron_weasley
+1199	571	[71, 74]	ron_weasley
+1200	571	[84, 86]	harry_potter
+1201	571	[87, 90]	james_potter
+1202	572	[8, 10]	ron_weasley
+1203	572	[20, 21]	ron_weasley
+1204	572	[42, 43]	ron_weasley
+1205	572	[93, 94]	ron_weasley
+1206	572	[122, 123]	ron_weasley
+1207	572	[136, 141]	harry_potter
+1208	572	[147, 150]	harry_potter
+1209	573	[18, 20]	harry_potter
+1210	573	[21, 28]	harry_potter's_parents
+1211	574	[13, 18]	harry_potter
+1212	574	[21, 22]	albus_dumbledore
+1213	574	[32, 35]	harry_potter
+1214	574	[58, 61]	harry_potter
+1215	574	[119, 120]	albus_dumbledore
+1216	574	[134, 137]	harry_potter
+1217	574	[165, 167]	albus_dumbledore
+1218	574	[173, 176]	harry_potter
+1219	574	[252, 259]	UNKNOWN
+1220	574	[273, 275]	UNKNOWN
+1221	575	[27, 29]	multiple_persons
+1222	575	[46, 48]	multiple_persons
+1223	576	[112, 115]	harry_potter
+1224	576	[139, 143]	harry_potter
+1225	576	[153, 156]	harry_potter
+1226	576	[182, 185]	harry_potter
+1227	576	[208, 213]	harry_potter
+1228	576	[378, 379]	albus_dumbledore
+1229	576	[389, 392]	harry_potter
+1230	576	[462, 467]	harry_potter
+1231	577	[0, 1]	hermione_granger
+1232	577	[51, 52]	hermione_granger
+1233	577	[68, 69]	hermione_granger
+1234	577	[6, 9]	multiple_persons
+1235	578		
+1236	579	[30, 38]	UNKNOWN
+1237	579	[39, 45]	UNKNOWN
+1238	580	[4, 9]	harry_potter
+1239	581	[18, 21]	multiple_persons
+1240	582		
+1241	583	[9, 12]	ron_weasley
+1242	584	[0, 1]	ron_weasley
+1243	585		
+1244	586	[122, 125]	UNKNOWN
+1245	586	[57, 65]	UNKNOWN
+1246	586	[66, 72]	UNKNOWN
+1247	586	[161, 167]	UNKNOWN
+1248	587	[0, 6]	hagrid
+1249	588		
+1250	589	[2, 4]	multiple_persons
+1251	590		
+1252	591	[0, 2]	multiple_persons
+1253	591	[9, 14]	professor_snape
+1254	592	[0, 5]	professor_snape
+1255	592	[17, 22]	harry_potter
+1256	592	[25, 28]	harry_potter
+1257	592	[62, 65]	harry_potter
+1258	592	[8, 14]	UNKNOWN
+1259	592	[52, 55]	professor_snape
+1260	593	[0, 6]	hagrid
+1261	593	[9, 11]	multiple_persons
+1262	593	[41, 43]	multiple_persons
+1263	593	[17, 19]	professor_snape
+1264	594	[0, 5]	professor_snape
+1265	594	[52, 54]	professor_snape
+1266	595		
+1267	596	[36, 37]	hagrid
+1268	596	[0, 3]	multiple_persons
+1269	597		
+1270	598		
+1271	599	[50, 52]	hagrid
+1272	599	[42, 45]	multiple_persons
+1273	600	[5, 11]	hagrid
+1274	601		
+1275	602	[0, 1]	ron_weasley
+1276	602	[26, 32]	hagrid
+1277	602	[43, 46]	hagrid
+1278	603	[0, 1]	hagrid
+1279	603	[26, 27]	hagrid
+1280	604		
+1281	605	[60, 62]	ron_weasley
+1282	605	[71, 78]	UNKNOWN
+1283	606	[7, 9]	UNKNOWN
+1284	606	[33, 36]	UNKNOWN
+1285	606	[46, 48]	UNKNOWN
+1286	606	[55, 58]	UNKNOWN
+1287	606	[59, 64]	hagrid
+1288	606	[82, 89]	UNKNOWN
+1289	607	[0, 7]	UNKNOWN
+1290	608	[14, 16]	UNKNOWN
+1291	608	[50, 52]	UNKNOWN
+1292	609		
+1293	610	[7, 10]	harry_potter
+1294	610	[13, 20]	UNKNOWN
+1295	611	[34, 36]	UNKNOWN
+1296	612	[0, 6]	draco_malfoy
+1297	613		
+1298	614	[0, 6]	hagrid
+1299	614	[40, 42]	harry_potter
+1300	614	[61, 62]	harry_potter
+1301	614	[32, 34]	hagrid
+1302	614	[67, 70]	hagrid
+1303	615	[26, 32]	draco_malfoy
+1304	616	[0, 1]	harry_potter
+1305	617		
+1306	618		
+1307	619	[10, 11]	professor_mcgonagall
+1308	619	[121, 125]	multiple_persons
+1309	620		
+1310	621	[60, 63]	multiple_persons
+1311	622	[7, 9]	draco_malfoy
+1312	622	[32, 33]	draco_malfoy
+1313	622	[40, 43]	professor_mcgonagall
+1314	622	[52, 53]	draco_malfoy
+1315	622	[62, 65]	professor_mcgonagall
+1316	622	[91, 93]	multiple_persons
+1317	623	[5, 8]	draco_malfoy
+1318	623	[15, 17]	professor_mcgonagall
+1319	623	[34, 40]	draco_malfoy
+1320	623	[43, 46]	draco_malfoy
+1321	623	[69, 73]	draco_malfoy
+1322	623	[92, 95]	draco_malfoy
+1323	623	[130, 133]	draco_malfoy
+1324	623	[160, 164]	draco_malfoy
+1325	624	[131, 132]	mr_filch
+1326	624	[173, 179]	hagrid
+1327	624	[80, 83]	multiple_persons
+1328	624	[95, 99]	multiple_persons
+1329	624	[192, 195]	UNKNOWN
+1330	624	[204, 207]	hagrid
+1331	624	[256, 259]	hagrid
+1332	625	[18, 28]	albus_dumbledore
+1333	625	[0, 7]	UNKNOWN
+1334	625	[34, 37]	UNKNOWN
+1335	626	[34, 36]	UNKNOWN
+1336	626	[49, 52]	UNKNOWN
+1337	627	[19, 21]	UNKNOWN
+1338	627	[82, 85]	UNKNOWN
+1339	627	[88, 90]	UNKNOWN
+1340	628	[26, 34]	hagrid
+1341	628	[52, 55]	hagrid
+1342	628	[108, 112]	hagrid
+1343	628	[124, 127]	hagrid
+1344	628	[46, 49]	hagrid
+1345	629	[13, 14]	draco_malfoy
+1346	629	[41, 43]	multiple_persons
+1347	630	[53, 56]	draco_malfoy
+1348	631		
+1349	632	[0, 6]	hagrid
+1350	633	[5, 7]	multiple_persons
+1351	633	[71, 72]	hagrid
+1352	633	[200, 203]	ron_weasley
+1353	633	[206, 214]	hermione_granger
+1354	633	[235, 237]	hagrid
+1355	633	[217, 220]	multiple_persons
+1356	634		
+1357	635	[4, 9]	harry_potter
+1358	635	[28, 34]	draco_malfoy
+1359	635	[12, 15]	harry_potter
+1360	636	[12, 13]	draco_malfoy
+1361	637	[15, 18]	draco_malfoy
+1362	637	[26, 28]	UNKNOWN
+1363	638	[0, 3]	hagrid
+1364	638	[14, 16]	draco_malfoy
+1365	638	[17, 23]	draco_malfoy's_father
+1366	639	[3, 4]	harry_potter
+1367	639	[27, 32]	draco_malfoy
+1368	639	[35, 36]	harry_potter
+1369	639	[44, 47]	draco_malfoy
+1370	640	[9, 15]	harry_potter
+1371	640	[24, 27]	harry_potter
+1372	641		
+1373	642		
+1374	643	[0, 5]	harry_potter
+1375	643	[6, 12]	harry_potter
+1376	643	[15, 18]	harry_potter
+1377	643	[32, 35]	harry_potter
+1378	643	[124, 127]	harry_potter
+1379	644	[24, 27]	firenze
+1380	644	[34, 36]	harry_potter
+1381	645	[108, 111]	harry_potter
+1382	645	[126, 129]	harry_potter
+1383	645	[181, 184]	harry_potter
+1384	645	[248, 252]	harry_potter
+1385	645	[260, 263]	harry_potter
+1386	646		
+1387	647	[4, 7]	harry_potter
+1388	648	[3, 6]	firenze
+1389	648	[108, 117]	he_who_must_not_be_named
+1390	649	[3, 6]	harry_potter
+1391	650		
+1392	651	[0, 5]	harry_potter
+1393	652	[14, 21]	firenze
+1394	652	[24, 25]	hagrid
+1395	652	[56, 62]	harry_potter
+1396	652	[87, 92]	harry_potter
+1397	652	[30, 33]	firenze
+1398	652	[65, 68]	harry_potter
+1399	653	[0, 5]	harry_potter
+1400	653	[6, 12]	harry_potter
+1401	653	[29, 30]	firenze
+1402	653	[37, 40]	hagrid
+1403	653	[43, 46]	hagrid
+1404	654	[0, 3]	harry_potter
+1405	654	[11, 14]	harry_potter
+1406	655	[4, 6]	UNKNOWN
+1407	655	[17, 19]	UNKNOWN
+1408	655	[56, 59]	hermione_granger
+1409	655	[66, 68]	multiple_persons
+1410	655	[84, 89]	professor_snape
+1411	655	[118, 125]	professor_snape
+1412	655	[128, 130]	professor_snape
+1413	655	[151, 160]	he_who_must_not_be_named
+1414	655	[189, 198]	he_who_must_not_be_named
+1415	655	[222, 224]	he_who_must_not_be_named
+1416	655	[229, 231]	he_who_must_not_be_named
+1417	656	[23, 26]	harry_potter
+1418	656	[59, 62]	harry_potter
+1419	656	[68, 71]	harry_potter
+1420	656	[7, 9]	he_who_must_not_be_named
+1421	656	[40, 42]	he_who_must_not_be_named
+1422	657	[0, 1]	harry_potter
+1423	657	[62, 64]	harry_potter
+1424	657	[11, 13]	he_who_must_not_be_named
+1425	657	[34, 36]	he_who_must_not_be_named
+1426	658	[15, 16]	ron_weasley
+1427	658	[41, 43]	ron_weasley
+1428	659	[19, 21]	multiple_persons
+1429	659	[71, 80]	he_who_must_not_be_named
+1430	660	[0, 1]	hermione_granger
+1431	660	[73, 74]	hermione_granger
+1432	661	[10, 18]	hermione_granger
+1433	661	[39, 44]	harry_potter
+1434	662	[0, 2]	harry_potter
+1435	663		
+1436	664		
+1437	665	[8, 11]	harry_potter
+1438	666	[0, 1]	harry_potter
+1439	667		
+1440	668	[7, 10]	hermione_granger
+1441	668	[43, 49]	hagrid
+1442	668	[153, 155]	UNKNOWN
+1443	669	[0, 1]	hagrid
+1444	669	[16, 17]	hagrid
+1445	669	[28, 31]	UNKNOWN
+1446	669	[39, 41]	UNKNOWN
+1447	669	[47, 50]	UNKNOWN
+1448	670	[24, 27]	hagrid
+1449	670	[32, 34]	UNKNOWN
+1450	671	[7, 9]	UNKNOWN
+1451	671	[48, 49]	hagrid
+1452	671	[65, 66]	hagrid
+1453	671	[72, 75]	UNKNOWN
+1454	671	[78, 79]	hagrid
+1455	671	[98, 104]	UNKNOWN
+1456	672	[8, 10]	UNKNOWN
+1457	672	[30, 36]	UNKNOWN
+1458	673	[17, 19]	UNKNOWN
+1459	673	[132, 133]	hagrid
+1460	673	[139, 142]	UNKNOWN
+1461	673	[145, 146]	hagrid
+1462	673	[207, 210]	UNKNOWN
+1463	673	[251, 254]	UNKNOWN
+1464	673	[274, 276]	UNKNOWN
+1465	673	[38, 44]	UNKNOWN
+1466	673	[105, 108]	multiple_persons
+1467	673	[60, 63]	multiple_persons
+1468	673	[218, 224]	UNKNOWN
+1469	674	[0, 1]	hagrid
+1470	674	[23, 26]	multiple_persons
+1471	674	[40, 43]	multiple_persons
+1472	675	[0, 2]	multiple_persons
+1473	675	[25, 35]	albus_dumbledore
+1474	675	[15, 24]	albus_dumbledore
+1475	676	[0, 1]	professor_mcgonagall
+1476	676	[22, 32]	albus_dumbledore
+1477	676	[12, 21]	albus_dumbledore
+1478	676	[47, 49]	albus_dumbledore
+1479	677	[0, 2]	albus_dumbledore
+1480	678	[7, 10]	multiple_persons
+1481	679		
+1482	680	[0, 1]	professor_mcgonagall
+1483	680	[60, 61]	professor_mcgonagall
+1484	680	[18, 21]	multiple_persons
+1485	680	[73, 76]	multiple_persons
+1486	680	[122, 125]	multiple_persons
+1487	680	[137, 141]	multiple_persons
+1488	681	[21, 27]	hagrid
+1489	681	[56, 61]	professor_snape
+1490	681	[101, 107]	UNKNOWN
+1491	681	[76, 78]	professor_snape
+1492	682	[9, 19]	albus_dumbledore
+1493	683	[46, 57]	gryffindors
+1494	683	[66, 76]	multiple_persons
+1495	684	[8, 10]	multiple_persons
+1496	685	[0, 3]	multiple_persons
+1497	685	[43, 46]	multiple_persons
+1498	686	[12, 14]	multiple_persons
+1499	687	[0, 2]	multiple_persons
+1500	688	[0, 6]	UNKNOWN
+1501	689	[0, 6]	UNKNOWN
+1502	689	[18, 21]	UNKNOWN
+1503	690	[15, 18]	multiple_persons
+1504	690	[21, 24]	multiple_persons
+1505	690	[57, 60]	multiple_persons
+1506	691	[6, 13]	neville_longbottom
+1507	691	[25, 27]	multiple_persons
+1508	692	[5, 6]	neville_longbottom
+1509	692	[18, 21]	multiple_persons
+1510	693	[0, 7]	neville_longbottom
+1511	693	[10, 11]	hermione_granger
+1512	694	[0, 3]	hermione_granger
+1513	694	[37, 40]	hermione_granger
+1514	695		
+1515	696		
+1516	697	[10, 14]	neville_longbottom
+1517	697	[26, 29]	neville_longbottom
+1518	698	[5, 8]	ron_weasley
+1519	698	[18, 20]	hermione_granger
+1520	699		
+1521	700		
+1522	701	[18, 20]	UNKNOWN
+1523	702	[0, 5]	professor_snape
+1524	702	[29, 31]	professor_snape
+1525	703		
+1526	704	[0, 2]	multiple_persons
+1527	705		
+1528	706	[41, 51]	multiple_persons
+1529	707		
+1530	708		
+1531	709		
+1532	710		
+1533	711		
+1534	712	[22, 25]	ron_weasley-harry_potter
+1535	712	[53, 56]	ron_weasley-harry_potter
+1536	712	[107, 110]	ron_weasley-harry_potter
+1537	713	[28, 29]	ron_weasley
+1538	713	[5, 7]	ron_weasley-harry_potter
+1539	714	[4, 9]	harry_potter
+1540	714	[10, 18]	hermione_granger
+1541	715	[13, 15]	multiple_persons
+1542	716		
+1543	717	[0, 8]	hermione_granger
+1544	717	[21, 24]	hermione_granger
+1545	718	[8, 9]	hermione_granger
+1546	718	[22, 24]	hermione_granger
+1547	719	[6, 11]	harry_potter
+1548	720	[0, 5]	harry_potter
+1549	721	[4, 7]	harry_potter
+1550	722	[14, 15]	harry_potter
+1551	723		
+1552	724	[0, 2]	ron_weasley
+1553	724	[24, 26]	ron_weasley
+1554	725		
+1555	726	[12, 14]	ron_weasley
+1556	727	[0, 2]	multiple_persons
+1557	728		
+1558	729	[5, 6]	hermione_granger
+1559	730		
+1560	731	[0, 3]	ron_weasley
+1561	731	[10, 13]	ron_weasley
+1562	732		
+1563	733		
+1564	734	[13, 15]	multiple_persons
+1565	735	[6, 14]	hermione_granger
+1566	736		
+1567	737	[0, 1]	harry_potter
+1568	738	[10, 11]	hermione_granger
+1569	739	[41, 42]	harry_potter
+1570	740		
+1571	741	[0, 1]	harry_potter
+1572	742		
+1573	743	[15, 17]	multiple_persons
+1574	744	[0, 2]	multiple_persons
+1575	745	[8, 9]	harry_potter
+1576	746	[16, 21]	harry_potter
+1577	747		
+1578	748	[13, 18]	harry_potter
+1579	748	[24, 29]	professor_snape
+1580	748	[68, 71]	harry_potter
+1581	748	[78, 81]	harry_potter
+1582	749		
+1583	750		
+1584	751		
+1585	752	[0, 1]	hermione_granger
+1586	752	[21, 22]	hermione_granger
+1587	753	[10, 12]	multiple_persons
+1588	754		
+1589	755		
+1590	756	[12, 14]	multiple_persons
+1591	757	[28, 30]	multiple_persons
+1592	757	[85, 90]	harry_potter
+1593	757	[125, 133]	hermione_granger
+1594	757	[136, 139]	hermione_granger
+1595	757	[181, 183]	ron_weasley
+1596	757	[186, 187]	ron_weasley
+1597	757	[93, 96]	harry_potter
+1598	758		
+1599	759		
+1600	760	[0, 3]	ron_weasley
+1601	760	[6, 9]	ron_weasley
+1602	760	[80, 83]	ron_weasley
+1603	761	[24, 32]	hermione_granger
+1604	761	[35, 36]	ron_weasley
+1605	761	[0, 3]	UNKNOWN
+1606	762	[24, 27]	ron_weasley
+1607	762	[97, 102]	harry_potter
+1608	762	[105, 108]	ron_weasley
+1609	762	[113, 121]	hermione_granger
+1610	762	[159, 162]	ron_weasley
+1611	762	[167, 172]	harry_potter
+1612	763		
+1613	764	[0, 3]	harry_potter
+1614	764	[23, 28]	harry_potter
+1615	764	[36, 37]	ron_weasley
+1616	764	[43, 45]	ron_weasley
+1617	764	[73, 75]	ron_weasley
+1618	764	[85, 88]	harry_potter
+1619	765	[5, 8]	ron_weasley
+1620	766		
+1621	767	[0, 2]	ron_weasley
+1622	767	[25, 32]	ron_weasley
+1623	768	[5, 8]	ron_weasley
+1624	768	[11, 14]	ron_weasley
+1625	769		
+1626	770		
+1627	771		
+1628	772	[0, 3]	ron_weasley
+1629	772	[19, 22]	ron_weasley
+1630	772	[69, 79]	albus_dumbledore
+1631	772	[82, 85]	ron_weasley
+1632	772	[99, 100]	harry_potter
+1633	773	[0, 3]	harry_potter
+1634	773	[18, 23]	harry_potter
+1635	773	[26, 29]	harry_potter
+1636	773	[51, 54]	harry_potter
+1637	774	[15, 18]	hermione_granger
+1638	775	[0, 2]	hermione_granger
+1639	775	[93, 98]	harry_potter
+1640	776	[28, 33]	professor_snape
+1641	776	[36, 38]	professor_snape
+1642	776	[0, 3]	professor_quirrell
+1643	777	[52, 54]	professor_quirrell
+1644	777	[120, 128]	professor_quirrell
+1645	777	[6, 8]	professor_snape
+1646	777	[39, 41]	professor_snape
+1647	777	[110, 119]	professor_quirrell
+1648	778	[50, 55]	professor_snape
+1649	778	[70, 72]	harry_potter
+1650	779	[16, 17]	professor_quirrell
+1651	779	[32, 35]	harry_potter
+1652	779	[48, 50]	professor_quirrell
+1653	779	[56, 61]	professor_snape
+1654	779	[102, 104]	professor_quirrell
+1655	779	[119, 120]	professor_quirrell
+1656	779	[154, 159]	professor_snape
+1657	779	[170, 173]	professor_snape
+1658	780	[0, 5]	professor_snape
+1659	780	[29, 31]	harry_potter
+1660	781	[0, 1]	professor_quirrell
+1661	781	[7, 10]	harry_potter
+1662	782	[10, 13]	professor_quirrell
+1663	783	[10, 16]	harry_potter
+1664	783	[25, 30]	professor_snape
+1665	783	[148, 150]	professor_quirrell
+1666	783	[188, 190]	professor_quirrell
+1667	783	[214, 216]	professor_quirrell
+1668	783	[254, 255]	professor_quirrell
+1669	783	[316, 317]	professor_quirrell
+1670	783	[327, 328]	professor_quirrell
+1671	783	[338, 339]	professor_quirrell
+1672	783	[344, 350]	professor_quirrell
+1673	783	[382, 383]	professor_quirrell
+1674	783	[115, 117]	professor_snape
+1675	783	[157, 159]	professor_snape
+1676	783	[199, 201]	professor_snape
+1677	783	[229, 231]	professor_snape
+1678	784	[12, 18]	harry_potter
+1679	785	[5, 7]	professor_quirrell
+1680	785	[18, 21]	harry_potter
+1681	786	[23, 26]	harry_potter
+1682	787	[0, 1]	harry_potter
+1683	787	[27, 37]	albus_dumbledore
+1684	787	[40, 41]	harry_potter
+1685	788	[6, 8]	harry_potter
+1686	789	[25, 28]	harry_potter
+1687	790	[10, 12]	he_who_must_not_be_named
+1688	790	[22, 25]	harry_potter
+1689	791	[9, 12]	he_who_must_not_be_named
+1690	791	[0, 6]	he_who_must_not_be_named
+1691	792	[6, 7]	he_who_must_not_be_named
+1692	792	[40, 45]	harry_potter
+1693	792	[46, 52]	harry_potter
+1694	792	[55, 57]	multiple_persons
+1695	793	[0, 9]	he_who_must_not_be_named
+1696	794	[6, 9]	harry_potter
+1697	794	[19, 20]	he_who_must_not_be_named
+1698	794	[44, 45]	he_who_must_not_be_named
+1699	794	[130, 132]	he_who_must_not_be_named
+1700	794	[155, 157]	he_who_must_not_be_named
+1701	794	[168, 170]	he_who_must_not_be_named
+1702	794	[258, 262]	harry_potter
+1703	795	[63, 66]	harry_potter
+1704	795	[76, 78]	he_who_must_not_be_named
+1705	795	[5, 8]	harry_potter
+1706	796		
+1707	797	[17, 21]	harry_potter
+1708	797	[48, 50]	he_who_must_not_be_named
+1709	797	[53, 58]	harry_potter
+1710	797	[67, 70]	harry_potter
+1711	797	[83, 87]	harry_potter
+1712	797	[125, 127]	multiple_persons
+1713	797	[22, 29]	harry_potter's_parents
+1714	797	[88, 94]	lily_potter
+1715	797	[99, 105]	james_potter
+1716	798	[0, 3]	he_who_must_not_be_named
+1717	799	[5, 8]	harry_potter
+1718	800		
+1719	801		
+1720	802		
+1721	803		
+1722	804		
+1723	805	[17, 22]	harry_potter
+1724	805	[42, 46]	harry_potter
+1725	806		
+1726	807	[43, 46]	harry_potter
+1727	807	[61, 69]	professor_quirrell
+1728	807	[140, 141]	albus_dumbledore
+1729	807	[146, 150]	harry_potter
+1730	807	[175, 178]	harry_potter
+1731	807	[202, 206]	harry_potter
+1732	807	[51, 60]	professor_quirrell
+1733	807	[158, 164]	ron_weasley
+1734	808	[0, 3]	ron_weasley
+1735	808	[44, 52]	hermione_granger
+1736	808	[18, 20]	ron_weasley
+1737	809		
+1738	810		
+1739	811	[50, 52]	albus_dumbledore
+1740	811	[73, 74]	albus_dumbledore
+1741	811	[60, 68]	UNKNOWN
+1742	812	[13, 15]	UNKNOWN
+1743	812	[33, 35]	UNKNOWN
+1744	812	[4, 10]	UNKNOWN
+1745	813	[0, 2]	UNKNOWN
+1746	813	[28, 31]	UNKNOWN
+1747	813	[61, 63]	UNKNOWN
+1748	814	[10, 11]	harry_potter
+1749	814	[45, 46]	harry_potter
+1750	815	[5, 8]	harry_potter
+1751	815	[128, 130]	albus_dumbledore
+1752	815	[166, 169]	harry_potter
+1753	815	[174, 176]	albus_dumbledore
+1754	816	[39, 40]	harry_potter
+1755	816	[53, 62]	he_who_must_not_be_named
+1756	817	[5, 6]	albus_dumbledore
+1757	817	[57, 62]	harry_potter
+1758	817	[68, 71]	harry_potter
+1759	817	[91, 99]	professor_quirrell
+1760	817	[123, 126]	harry_potter
+1761	817	[197, 201]	harry_potter
+1762	817	[41, 43]	he_who_must_not_be_named
+1763	817	[81, 90]	professor_quirrell
+1764	817	[133, 136]	professor_quirrell
+1765	818		
+1766	819	[7, 12]	harry_potter
+1767	820	[18, 21]	ron_weasley
+1768	821	[12, 15]	harry_potter
+1769	822	[12, 20]	hermione_granger
+1770	823		
+1771	824	[33, 34]	albus_dumbledore
+1772	824	[128, 138]	UNKNOWN
+1773	824	[196, 205]	UNKNOWN
+1774	825		
+1775	826		
+1776	827	[113, 114]	albus_dumbledore
+1777	827	[22, 31]	UNKNOWN
+1778	827	[44, 53]	UNKNOWN
+1779	828		
+1780	829	[23, 30]	percy_weasley
+1781	829	[16, 22]	ron_weasley
+1782	830	[0, 2]	multiple_persons
+1783	830	[17, 26]	UNKNOWN
+1784	831	[129, 130]	albus_dumbledore
+1785	831	[150, 157]	neville_longbottom
+1786	831	[158, 168]	neville_longbottom
+1787	831	[62, 66]	multiple_persons
+1788	831	[114, 118]	multiple_persons
+1789	832	[14, 16]	albus_dumbledore
+1790	832	[44, 45]	albus_dumbledore
+1791	832	[95, 105]	UNKNOWN
+1792	833		
+1793	834	[0, 7]	neville_longbottom
+1794	835	[7, 9]	multiple_persons
+1795	836	[25, 28]	multiple_persons
+1796	837	[10, 15]	harry_potter
+1797	838		
+1798	839	[8, 11]	harry_potter
+1799	839	[73, 76]	harry_potter
+1800	840	[9, 15]	hagrid
+1801	841	[23, 26]	harry_potter
+1802	841	[43, 48]	harry_potter
+1803	841	[102, 105]	harry_potter
+1804	841	[118, 121]	harry_potter
+1805	841	[87, 93]	dudley_dursley
+1806	841	[151, 154]	dudley_dursley
+1807	841	[204, 207]	dudley_dursley
+1808	842	[4, 10]	hagrid
+1809	842	[13, 15]	multiple_persons
+1810	842	[65, 68]	hagrid
+1811	843	[0, 1]	hagrid
+1812	843	[11, 15]	harry_potter
+1813	843	[35, 37]	dudley_dursley
+1814	844		
+1815	845	[0, 1]	harry_potter

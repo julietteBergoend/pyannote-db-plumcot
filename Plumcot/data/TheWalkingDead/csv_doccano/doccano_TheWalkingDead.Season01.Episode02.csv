@@ -1,0 +1,606 @@
+	idSent	idChar	label
+0	1	[0, 3]	theodore_douglas
+1	2		
+2	3	[0, 3]	lori_grimes
+3	4		
+4	5	[7, 9]	multiple_persons
+5	6	[32, 33]	lori_grimes
+6	7	[4, 9]	shane_walsh
+7	7	[15, 17]	shane_walsh
+8	8	[7, 10]	amy_harrison
+9	9		
+10	10	[0, 4]	dale_horvath
+11	10	[7, 8]	lori_grimes
+12	10	[39, 40]	lori_grimes
+13	10	[64, 68]	dale_horvath
+14	10	[26, 36]	carl_grimes
+15	10	[46, 49]	carl_grimes
+16	10	[77, 80]	carl_grimes
+17	11	[6, 9]	lori_grimes
+18	12	[101, 102]	dale_horvath
+19	12	[0, 3]	lori_grimes
+20	12	[73, 76]	lori_grimes
+21	13	[6, 9]	lori_grimes
+22	14		
+23	15	[0, 3]	shane_walsh
+24	15	[27, 29]	lori_grimes
+25	16	[0, 1]	shane_walsh
+26	16	[21, 24]	lori_grimes
+27	16	[41, 43]	shane_walsh
+28	16	[54, 55]	shane_walsh
+29	16	[87, 90]	lori_grimes
+30	17	[0, 3]	amy_harrison
+31	17	[26, 27]	lori_grimes
+32	17	[44, 47]	amy_harrison
+33	18	[17, 19]	multiple_persons
+34	19		
+35	20		
+36	21		
+37	22	[10, 13]	rick_grimes
+38	23		
+39	24	[16, 19]	rick_grimes
+40	24	[24, 26]	glenn_rhee
+41	25	[10, 13]	glenn_rhee
+42	25	[30, 33]	glenn_rhee
+43	25	[38, 40]	rick_grimes
+44	26	[7, 8]	glenn_rhee
+45	26	[17, 20]	rick_grimes
+46	26	[23, 26]	rick_grimes
+47	27		
+48	28		
+49	29	[17, 20]	glenn_rhee
+50	29	[27, 28]	rick_grimes
+51	29	[49, 52]	glenn_rhee
+52	29	[53, 54]	rick_grimes
+53	30	[9, 12]	rick_grimes
+54	30	[44, 47]	rick_grimes
+55	30	[3, 6]	rick_grimes
+56	31	[19, 21]	rick_grimes
+57	32	[7, 8]	glenn_rhee
+58	33		
+59	34	[0, 2]	glenn_rhee
+60	34	[37, 40]	rick_grimes
+61	34	[211, 213]	glenn_rhee
+62	35		
+63	36	[69, 72]	rick_grimes
+64	36	[110, 113]	rick_grimes
+65	37	[19, 20]	rick_grimes
+66	37	[56, 57]	rick_grimes
+67	38	[54, 57]	rick_grimes
+68	38	[66, 69]	rick_grimes
+69	39		
+70	40		
+71	41	[0, 1]	rick_grimes
+72	42		
+73	43	[14, 18]	glenn_rhee
+74	44	[5, 8]	rick_grimes
+75	44	[26, 29]	rick_grimes
+76	45		
+77	46		
+78	47		
+79	48	[9, 12]	rick_grimes
+80	49		
+81	50	[36, 39]	rick_grimes
+82	50	[19, 24]	UNKNOWN
+83	50	[25, 33]	UNKNOWN
+84	51	[11, 13]	rick_grimes
+85	52	[27, 30]	rick_grimes
+86	53	[0, 4]	rick_grimes
+87	54	[0, 5]	glenn_rhee
+88	55	[30, 32]	multiple_persons
+89	55	[35, 36]	glenn_rhee
+90	56		
+91	57	[15, 16]	glenn_rhee
+92	58	[26, 29]	glenn_rhee
+93	58	[36, 40]	glenn_rhee
+94	58	[54, 56]	rick_grimes
+95	59	[37, 38]	glenn_rhee
+96	59	[104, 106]	glenn_rhee
+97	59	[115, 116]	glenn_rhee
+98	59	[148, 151]	rick_grimes
+99	60	[0, 1]	glenn_rhee
+100	60	[134, 141]	morales
+101	60	[146, 147]	theodore_douglas
+102	60	[148, 149]	theodore_douglas
+103	60	[150, 153]	theodore_douglas
+104	61		
+105	62	[0, 7]	morales
+106	63	[21, 23]	multiple_persons
+107	63	[0, 3]	rick_grimes
+108	63	[38, 41]	rick_grimes
+109	64	[17, 23]	andrea_harrison
+110	65		
+111	66	[26, 28]	andrea_harrison
+112	66	[39, 41]	multiple_persons
+113	66	[10, 13]	morales
+114	67	[0, 6]	andrea_harrison
+115	67	[9, 10]	morales
+116	68	[0, 2]	multiple_persons
+117	68	[22, 24]	multiple_persons
+118	68	[39, 42]	rick_grimes
+119	69	[0, 1]	rick_grimes
+120	70	[7, 9]	multiple_persons
+121	70	[52, 55]	rick_grimes
+122	70	[105, 108]	rick_grimes
+123	71	[34, 37]	rick_grimes
+124	72	[0, 3]	rick_grimes
+125	73		
+126	74	[28, 31]	rick_grimes
+127	75		
+128	76	[13, 16]	rick_grimes
+129	77	[0, 3]	rick_grimes
+130	78	[0, 1]	rick_grimes
+131	79	[6, 7]	theodore_douglas
+132	79	[8, 9]	theodore_douglas
+133	79	[10, 13]	theodore_douglas
+134	79	[34, 37]	theodore_douglas
+135	80		
+136	81	[74, 76]	multiple_persons
+137	82		
+138	83	[16, 21]	merle_dixon
+139	84		
+140	85	[52, 57]	merle_dixon
+141	85	[58, 63]	merle_dixon
+142	86	[6, 11]	merle_dixon
+143	86	[18, 21]	merle_dixon
+144	87		
+145	88	[6, 11]	multiple_persons
+146	89	[6, 9]	merle_dixon
+147	89	[26, 28]	multiple_persons
+148	89	[0, 3]	merle_dixon
+149	90	[4, 7]	merle_dixon
+150	90	[47, 50]	multiple_persons
+151	90	[57, 60]	merle_dixon
+152	91	[17, 18]	merle_dixon
+153	91	[49, 51]	merle_dixon
+154	91	[70, 71]	merle_dixon
+155	91	[99, 102]	theodore_douglas
+156	91	[105, 106]	merle_dixon
+157	92	[31, 34]	merle_dixon
+158	92	[49, 52]	merle_dixon
+159	92	[66, 68]	theodore_douglas
+160	93	[6, 7]	theodore_douglas
+161	93	[8, 9]	theodore_douglas
+162	93	[10, 13]	theodore_douglas
+163	94		
+164	95	[37, 42]	merle_dixon
+165	95	[65, 67]	multiple_persons
+166	96	[0, 1]	merle_dixon
+167	96	[11, 14]	theodore_douglas
+168	96	[58, 59]	merle_dixon
+169	97		
+170	98	[16, 21]	merle_dixon
+171	99	[10, 15]	merle_dixon
+172	100	[20, 23]	merle_dixon
+173	101	[10, 15]	merle_dixon
+174	101	[32, 37]	merle_dixon
+175	101	[26, 29]	theodore_douglas
+176	101	[40, 43]	merle_dixon
+177	101	[60, 63]	theodore_douglas
+178	102	[0, 5]	merle_dixon
+179	103	[55, 60]	merle_dixon
+180	104	[19, 21]	multiple_persons
+181	104	[102, 103]	merle_dixon
+182	104	[109, 111]	merle_dixon
+183	105		
+184	106	[105, 106]	merle_dixon
+185	107		
+186	108	[17, 20]	rick_grimes
+187	108	[23, 26]	rick_grimes
+188	109	[31, 36]	merle_dixon
+189	109	[196, 198]	multiple_persons
+190	109	[214, 216]	multiple_persons
+191	109	[0, 7]	rick_grimes
+192	109	[8, 16]	rick_grimes
+193	110	[6, 9]	rick_grimes
+194	110	[12, 15]	rick_grimes
+195	111	[0, 1]	rick_grimes
+196	111	[10, 13]	merle_dixon
+197	112	[20, 23]	rick_grimes
+198	113		
+199	114		
+200	115	[0, 3]	rick_grimes
+201	115	[16, 19]	rick_grimes
+202	116	[4, 5]	rick_grimes
+203	116	[111, 112]	rick_grimes
+204	116	[122, 125]	merle_dixon
+205	116	[169, 173]	merle_dixon
+206	116	[38, 41]	rick_grimes
+207	116	[42, 46]	lori_grimes
+208	116	[51, 54]	carl_grimes
+209	117	[9, 12]	rick_grimes
+210	117	[32, 34]	merle_dixon
+211	118	[15, 18]	rick_grimes
+212	118	[42, 44]	merle_dixon
+213	118	[62, 63]	merle_dixon
+214	118	[76, 79]	rick_grimes
+215	118	[104, 107]	rick_grimes
+216	118	[113, 115]	merle_dixon
+217	118	[118, 121]	rick_grimes
+218	118	[130, 133]	rick_grimes
+219	118	[139, 141]	merle_dixon
+220	118	[27, 30]	rick_grimes
+221	119	[7, 11]	merle_dixon
+222	120	[3, 6]	rick_grimes
+223	120	[12, 14]	merle_dixon
+224	120	[17, 20]	rick_grimes
+225	121	[0, 3]	rick_grimes
+226	121	[32, 35]	rick_grimes
+227	122		
+228	123	[7, 14]	rick_grimes
+229	123	[15, 23]	rick_grimes
+230	124	[0, 3]	UNKNOWN
+231	125		
+232	126	[5, 10]	merle_dixon
+233	127		
+234	128		
+235	129		
+236	130	[20, 22]	multiple_persons
+237	130	[30, 33]	multiple_persons
+238	130	[52, 54]	multiple_persons
+239	130	[5, 8]	andrea_harrison
+240	131	[79, 80]	merle_dixon
+241	131	[157, 159]	merle_dixon
+242	131	[181, 183]	multiple_persons
+243	131	[127, 137]	andrea_harrison
+244	131	[149, 152]	andrea_harrison
+245	132	[0, 1]	andrea_harrison
+246	133	[14, 15]	merle_dixon
+247	134		
+248	135		
+249	136	[15, 20]	glenn_rhee
+250	136	[41, 44]	glenn_rhee
+251	137		
+252	138		
+253	139	[7, 10]	jacqui
+254	140	[6, 8]	jacqui
+255	140	[21, 22]	jacqui
+256	141	[17, 20]	glenn_rhee
+257	142	[0, 1]	glenn_rhee
+258	142	[47, 48]	glenn_rhee
+259	142	[118, 119]	glenn_rhee
+260	143		
+261	144	[0, 2]	multiple_persons
+262	144	[23, 26]	glenn_rhee
+263	145	[5, 8]	andrea_harrison
+264	145	[22, 25]	andrea_harrison
+265	146	[8, 10]	andrea_harrison
+266	146	[19, 20]	andrea_harrison
+267	147	[0, 1]	glenn_rhee
+268	148	[6, 10]	glenn_rhee
+269	149	[18, 20]	multiple_persons
+270	150		
+271	151	[0, 2]	glenn_rhee
+272	152	[17, 18]	glenn_rhee
+273	152	[39, 45]	glenn_rhee
+274	152	[109, 110]	glenn_rhee
+275	152	[178, 180]	glenn_rhee
+276	152	[230, 232]	multiple_persons
+277	152	[239, 241]	glenn_rhee
+278	152	[276, 277]	glenn_rhee
+279	152	[325, 326]	glenn_rhee
+280	152	[364, 366]	glenn_rhee
+281	152	[375, 377]	glenn_rhee
+282	152	[387, 388]	glenn_rhee
+283	152	[415, 418]	rick_grimes
+284	152	[428, 431]	rick_grimes
+285	152	[440, 445]	merle_dixon
+286	152	[457, 458]	glenn_rhee
+287	152	[468, 471]	rick_grimes
+288	152	[480, 481]	glenn_rhee
+289	152	[500, 503]	rick_grimes
+290	152	[559, 562]	multiple_persons
+291	152	[641, 643]	glenn_rhee
+292	152	[654, 660]	jacqui
+293	152	[707, 709]	multiple_persons
+294	152	[716, 718]	multiple_persons
+295	152	[169, 172]	multiple_persons
+296	152	[339, 342]	multiple_persons
+297	152	[573, 576]	andrea_harrison
+298	152	[609, 612]	andrea_harrison
+299	152	[628, 631]	rick_grimes
+300	152	[634, 637]	morales
+301	153		
+302	154		
+303	155		
+304	156	[21, 25]	rick_grimes
+305	157		
+306	158	[39, 42]	rick_grimes
+307	158	[51, 53]	multiple_persons
+308	159	[3, 4]	rick_grimes
+309	159	[9, 11]	multiple_persons
+310	160		
+311	161		
+312	162		
+313	163	[8, 12]	andrea_harrison
+314	164		
+315	165		
+316	166	[0, 3]	andrea_harrison
+317	167		
+318	168	[43, 44]	theodore_douglas
+319	168	[88, 89]	theodore_douglas
+320	168	[127, 131]	theodore_douglas
+321	169	[32, 34]	multiple_persons
+322	169	[48, 51]	theodore_douglas
+323	169	[74, 77]	theodore_douglas
+324	169	[89, 91]	merle_dixon
+325	169	[105, 108]	theodore_douglas
+326	170	[11, 14]	merle_dixon
+327	170	[20, 24]	merle_dixon
+328	170	[37, 41]	merle_dixon
+329	170	[54, 58]	merle_dixon
+330	171		
+331	172	[0, 1]	merle_dixon
+332	172	[11, 14]	theodore_douglas
+333	172	[22, 25]	theodore_douglas
+334	172	[30, 32]	merle_dixon
+335	172	[56, 57]	merle_dixon
+336	172	[107, 110]	theodore_douglas
+337	172	[176, 178]	merle_dixon
+338	172	[201, 205]	theodore_douglas
+339	172	[222, 225]	theodore_douglas
+340	172	[252, 254]	merle_dixon
+341	172	[232, 235]	theodore_douglas
+342	173	[3, 6]	merle_dixon
+343	173	[16, 18]	theodore_douglas
+344	173	[39, 41]	theodore_douglas
+345	174	[52, 56]	theodore_douglas
+346	174	[66, 68]	merle_dixon
+347	174	[127, 129]	multiple_persons
+348	175	[0, 1]	theodore_douglas
+349	175	[8, 11]	merle_dixon
+350	175	[17, 19]	theodore_douglas
+351	175	[56, 59]	merle_dixon
+352	175	[84, 86]	rick_grimes
+353	175	[75, 78]	rick_grimes
+354	176		
+355	177	[7, 9]	multiple_persons
+356	177	[47, 53]	jacqui
+357	177	[18, 27]	multiple_persons
+358	178	[4, 6]	multiple_persons
+359	179	[3, 5]	multiple_persons
+360	179	[46, 50]	dale_horvath
+361	180		
+362	181	[14, 17]	andrea_harrison
+363	182	[4, 6]	andrea_harrison
+364	182	[13, 14]	andrea_harrison
+365	182	[40, 42]	andrea_harrison
+366	182	[43, 49]	amy_harrison
+367	182	[52, 55]	amy_harrison
+368	182	[112, 115]	amy_harrison
+369	182	[168, 171]	amy_harrison
+370	183		
+371	184	[26, 28]	andrea_harrison
+372	184	[11, 14]	rick_grimes
+373	185		
+374	186	[0, 1]	rick_grimes
+375	186	[46, 49]	andrea_harrison
+376	187	[9, 12]	morales
+377	188		
+378	189	[0, 2]	multiple_persons
+379	190		
+380	191	[0, 3]	rick_grimes
+381	192	[8, 10]	rick_grimes
+382	192	[0, 3]	glenn_rhee
+383	193		
+384	194	[4, 6]	multiple_persons
+385	195	[18, 21]	rick_grimes
+386	195	[24, 26]	rick_grimes
+387	196	[0, 3]	UNKNOWN
+388	197		
+389	198		
+390	199		
+391	200	[21, 24]	multiple_persons
+392	200	[36, 39]	multiple_persons
+393	200	[48, 51]	multiple_persons
+394	200	[70, 73]	multiple_persons
+395	200	[85, 88]	multiple_persons
+396	201	[14, 16]	multiple_persons
+397	202	[7, 10]	multiple_persons
+398	203		
+399	204	[63, 66]	UNKNOWN
+400	204	[79, 81]	UNKNOWN
+401	204	[158, 160]	UNKNOWN
+402	204	[177, 179]	multiple_persons
+403	204	[238, 239]	rick_grimes
+404	204	[250, 252]	rick_grimes
+405	204	[262, 263]	rick_grimes
+406	204	[0, 5]	UNKNOWN
+407	204	[6, 12]	UNKNOWN
+408	204	[48, 50]	UNKNOWN
+409	204	[144, 150]	UNKNOWN
+410	204	[290, 295]	UNKNOWN
+411	205	[18, 20]	UNKNOWN
+412	206		
+413	207	[22, 25]	UNKNOWN
+414	208		
+415	209		
+416	210		
+417	211		
+418	212		
+419	213	[0, 1]	glenn_rhee
+420	214		
+421	215	[41, 45]	multiple_persons
+422	215	[57, 61]	multiple_persons
+423	216	[3, 6]	UNKNOWN
+424	217		
+425	218		
+426	219	[39, 42]	rick_grimes
+427	220	[31, 34]	rick_grimes
+428	221	[0, 1]	theodore_douglas
+429	222	[0, 3]	multiple_persons
+430	223	[3, 5]	multiple_persons
+431	224	[10, 15]	glenn_rhee
+432	225	[3, 5]	multiple_persons
+433	226	[11, 16]	merle_dixon
+434	226	[17, 22]	merle_dixon
+435	227	[5, 7]	rick_grimes
+436	227	[18, 20]	multiple_persons
+437	227	[28, 30]	multiple_persons
+438	228	[26, 29]	morales
+439	229	[6, 7]	theodore_douglas
+440	229	[8, 9]	theodore_douglas
+441	229	[10, 13]	theodore_douglas
+442	230	[20, 22]	merle_dixon
+443	230	[25, 27]	multiple_persons
+444	231	[43, 45]	theodore_douglas
+445	231	[75, 77]	theodore_douglas
+446	231	[20, 21]	theodore_douglas
+447	231	[22, 23]	theodore_douglas
+448	231	[24, 27]	theodore_douglas
+449	232		
+450	233		
+451	234		
+452	235	[3, 6]	dale_horvath
+453	236	[19, 21]	multiple_persons
+454	237		
+455	238		
+456	239	[0, 7]	carl_grimes
+457	240		
+458	241		
+459	242		
+460	243	[21, 25]	carl_grimes
+461	243	[61, 65]	carl_grimes
+462	244		
+463	245	[31, 35]	carl_grimes
+464	245	[45, 52]	carl_grimes
+465	246	[47, 49]	theodore_douglas
+466	246	[95, 97]	theodore_douglas
+467	246	[72, 73]	theodore_douglas
+468	246	[74, 75]	theodore_douglas
+469	246	[76, 79]	theodore_douglas
+470	247		
+471	248	[0, 5]	shane_walsh
+472	248	[16, 19]	shane_walsh
+473	249		
+474	250	[0, 2]	multiple_persons
+475	250	[28, 30]	multiple_persons
+476	251	[0, 2]	theodore_douglas
+477	252	[55, 57]	multiple_persons
+478	253	[0, 1]	theodore_douglas
+479	253	[2, 3]	theodore_douglas
+480	253	[4, 7]	theodore_douglas
+481	254	[0, 2]	theodore_douglas
+482	255	[0, 1]	dale_horvath
+483	256	[0, 5]	shane_walsh
+484	257	[9, 11]	multiple_persons
+485	257	[35, 37]	multiple_persons
+486	257	[74, 79]	multiple_persons
+487	258	[7, 10]	amy_harrison
+488	258	[13, 14]	shane_walsh
+489	259	[42, 44]	multiple_persons
+490	259	[0, 3]	andrea_harrison
+491	260	[0, 1]	shane_walsh
+492	260	[85, 87]	multiple_persons
+493	260	[135, 137]	multiple_persons
+494	260	[13, 16]	andrea_harrison
+495	260	[51, 54]	andrea_harrison
+496	260	[68, 71]	andrea_harrison
+497	261	[7, 9]	amy_harrison
+498	261	[19, 22]	shane_walsh
+499	261	[0, 3]	andrea_harrison
+500	261	[10, 16]	andrea_harrison
+501	262	[0, 3]	amy_harrison
+502	263	[28, 33]	carl_grimes
+503	264	[20, 21]	glenn_rhee
+504	265		
+505	266	[35, 37]	multiple_persons
+506	267		
+507	268		
+508	269		
+509	270		
+510	271	[0, 4]	rick_grimes
+511	272		
+512	273	[17, 19]	multiple_persons
+513	274		
+514	275		
+515	276		
+516	277	[3, 5]	glenn_rhee
+517	277	[15, 17]	glenn_rhee
+518	277	[6, 9]	UNKNOWN
+519	277	[18, 21]	UNKNOWN
+520	278	[0, 3]	glenn_rhee
+521	278	[104, 105]	rick_grimes
+522	278	[127, 131]	glenn_rhee
+523	279	[4, 5]	glenn_rhee
+524	279	[38, 39]	glenn_rhee
+525	279	[43, 44]	glenn_rhee
+526	280		
+527	281	[73, 75]	multiple_persons
+528	282		
+529	283	[6, 9]	morales
+530	283	[23, 25]	merle_dixon
+531	283	[33, 34]	merle_dixon
+532	283	[58, 65]	morales
+533	283	[52, 55]	morales
+534	283	[74, 77]	morales
+535	284		
+536	285	[14, 16]	merle_dixon
+537	285	[40, 42]	merle_dixon
+538	285	[58, 60]	merle_dixon
+539	285	[23, 26]	morales
+540	285	[68, 71]	multiple_persons
+541	285	[72, 76]	multiple_persons
+542	286	[0, 7]	morales
+543	287	[0, 1]	morales
+544	287	[14, 16]	multiple_persons
+545	288	[0, 7]	morales
+546	288	[10, 13]	morales
+547	288	[27, 29]	merle_dixon
+548	288	[92, 94]	merle_dixon
+549	288	[120, 122]	merle_dixon
+550	288	[42, 45]	morales
+551	288	[54, 55]	theodore_douglas
+552	288	[56, 57]	theodore_douglas
+553	288	[58, 61]	theodore_douglas
+554	288	[69, 72]	theodore_douglas
+555	288	[75, 78]	theodore_douglas
+556	288	[97, 100]	theodore_douglas
+557	288	[103, 106]	theodore_douglas
+558	288	[146, 149]	theodore_douglas
+559	288	[159, 162]	theodore_douglas
+560	289	[90, 94]	theodore_douglas
+561	290		
+562	291	[17, 20]	theodore_douglas
+563	292	[0, 1]	theodore_douglas
+564	293	[0, 3]	theodore_douglas
+565	293	[10, 13]	theodore_douglas
+566	294		
+567	295	[13, 15]	merle_dixon
+568	295	[37, 39]	merle_dixon
+569	295	[55, 57]	merle_dixon
+570	295	[60, 63]	theodore_douglas
+571	295	[18, 21]	theodore_douglas
+572	296	[0, 1]	theodore_douglas
+573	296	[19, 20]	theodore_douglas
+574	296	[13, 16]	merle_dixon
+575	297	[13, 15]	merle_dixon
+576	298	[0, 1]	theodore_douglas
+577	299	[28, 30]	merle_dixon
+578	299	[67, 69]	merle_dixon
+579	299	[5, 8]	multiple_persons
+580	299	[33, 36]	theodore_douglas
+581	300		
+582	301	[15, 18]	theodore_douglas
+583	301	[33, 36]	theodore_douglas
+584	301	[62, 65]	theodore_douglas
+585	301	[27, 30]	theodore_douglas
+586	301	[103, 106]	theodore_douglas
+587	302	[21, 22]	theodore_douglas
+588	303	[13, 15]	merle_dixon
+589	304	[14, 15]	andrea_harrison
+590	305		
+591	306		
+592	307		
+593	308	[15, 17]	theodore_douglas
+594	309		
+595	310		
+596	311	[0, 2]	multiple_persons
+597	312	[0, 1]	morales
+598	313	[13, 15]	merle_dixon
+599	313	[18, 21]	multiple_persons
+600	313	[50, 53]	multiple_persons
+601	313	[56, 59]	multiple_persons
+602	314	[0, 1]	theodore_douglas
+603	315	[9, 14]	glenn_rhee
+604	316		

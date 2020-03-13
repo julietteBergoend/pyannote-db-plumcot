@@ -1,0 +1,530 @@
+	idSent	idChar	label
+0	1	[0, 7]	michael_scott
+1	2	[11, 17]	dwight_schrute
+2	2	[5, 8]	UNKNOWN
+3	3	[0, 1]	dwight_schrute
+4	3	[20, 23]	michael_scott
+5	4		
+6	5	[0, 1]	dwight_schrute
+7	5	[24, 25]	dwight_schrute
+8	6	[34, 40]	dwight_schrute
+9	7	[10, 11]	dwight_schrute
+10	8	[21, 22]	michael_scott
+11	9		
+12	10	[17, 18]	dwight_schrute
+13	11		
+14	12	[64, 66]	michael_scott
+15	12	[90, 91]	michael_scott
+16	12	[102, 103]	michael_scott
+17	12	[138, 140]	michael_scott
+18	12	[173, 174]	michael_scott
+19	12	[405, 406]	michael_scott
+20	12	[416, 417]	michael_scott
+21	12	[145, 151]	UNKNOWN
+22	12	[152, 157]	UNKNOWN
+23	12	[222, 225]	multiple_persons
+24	12	[248, 251]	multiple_persons
+25	12	[273, 276]	multiple_persons
+26	12	[380, 383]	multiple_persons
+27	12	[455, 458]	multiple_persons
+28	12	[475, 478]	multiple_persons
+29	12	[504, 507]	multiple_persons
+30	13	[152, 154]	dwight_schrute
+31	13	[183, 184]	dwight_schrute
+32	13	[191, 193]	dwight_schrute
+33	14	[7, 10]	dwight_schrute
+34	15	[0, 1]	dwight_schrute
+35	15	[26, 29]	stanley_hudson
+36	15	[114, 117]	multiple_persons
+37	15	[118, 122]	multiple_persons
+38	16	[50, 57]	michael_scott
+39	16	[58, 63]	michael_scott
+40	16	[72, 73]	michael_scott
+41	16	[80, 81]	michael_scott
+42	16	[125, 126]	michael_scott
+43	16	[136, 138]	michael_scott
+44	16	[149, 152]	pam_beesly
+45	16	[165, 168]	pam_beesly
+46	16	[171, 172]	michael_scott
+47	16	[239, 241]	multiple_persons
+48	16	[375, 377]	multiple_persons
+49	16	[182, 185]	pam_beesly
+50	17		
+51	18	[18, 20]	multiple_persons
+52	19		
+53	20		
+54	21		
+55	22	[29, 37]	meredith_palmer
+56	23	[31, 39]	meredith_palmer
+57	24		
+58	25	[39, 42]	pam_beesly
+59	26	[0, 3]	michael_scott
+60	27	[61, 64]	pam_beesly
+61	28	[73, 75]	michael_scott
+62	28	[189, 192]	pam_beesly
+63	28	[13, 18]	UNKNOWN
+64	29	[36, 38]	multiple_persons
+65	30		
+66	31	[0, 1]	phyllis_vance
+67	31	[32, 34]	multiple_persons
+68	32	[12, 13]	angela_martin
+69	33		
+70	34	[14, 17]	multiple_persons
+71	34	[18, 22]	multiple_persons
+72	35		
+73	36		
+74	37	[0, 1]	angela_martin
+75	38	[17, 18]	pam_beesly
+76	38	[29, 31]	multiple_persons
+77	38	[50, 56]	angela_martin
+78	38	[139, 140]	pam_beesly
+79	38	[62, 65]	angela_martin
+80	38	[117, 120]	angela_martin
+81	38	[157, 160]	angela_martin
+82	39	[10, 12]	michael_scott
+83	40	[3, 4]	michael_scott
+84	40	[23, 26]	multiple_persons
+85	41	[0, 8]	meredith_palmer
+86	42	[64, 65]	michael_scott
+87	42	[0, 3]	meredith_palmer
+88	42	[145, 148]	meredith_palmer
+89	43	[10, 13]	meredith_palmer
+90	44		
+91	45	[18, 19]	dwight_schrute
+92	45	[65, 68]	jim_halpert
+93	45	[73, 74]	dwight_schrute
+94	45	[123, 124]	dwight_schrute
+95	45	[166, 169]	jim_halpert
+96	46	[3, 6]	jim_halpert
+97	46	[41, 43]	dwight_schrute
+98	47	[13, 14]	jim_halpert
+99	48	[35, 37]	multiple_persons
+100	49	[17, 18]	jim_halpert
+101	49	[34, 35]	jim_halpert
+102	49	[54, 60]	dwight_schrute
+103	49	[73, 75]	jim_halpert
+104	50	[4, 7]	jim_halpert
+105	50	[12, 16]	jim_halpert
+106	51		
+107	52		
+108	53	[4, 5]	jim_halpert
+109	53	[88, 90]	jim_halpert
+110	53	[147, 150]	jim_halpert
+111	53	[50, 53]	dwight_schrute
+112	53	[116, 118]	dwight_schrute
+113	53	[129, 131]	dwight_schrute
+114	54		
+115	55		
+116	56		
+117	57		
+118	58	[0, 1]	jim_halpert
+119	58	[51, 52]	jim_halpert
+120	59	[5, 6]	jim_halpert
+121	59	[50, 52]	multiple_persons
+122	60	[0, 3]	jim_halpert
+123	60	[17, 20]	pam_beesly
+124	60	[38, 39]	dwight_schrute
+125	60	[48, 51]	jim_halpert
+126	61	[4, 7]	jim_halpert
+127	61	[13, 16]	pam_beesly
+128	62		
+129	63		
+130	64	[21, 27]	dwight_schrute
+131	64	[35, 36]	jim_halpert
+132	64	[122, 125]	pam_beesly
+133	64	[46, 49]	pam_beesly
+134	65		
+135	66	[5, 6]	jim_halpert
+136	66	[25, 28]	dwight_schrute
+137	66	[38, 39]	jim_halpert
+138	67		
+139	68	[13, 14]	jim_halpert
+140	68	[114, 117]	dwight_schrute
+141	68	[43, 46]	pam_beesly
+142	69		
+143	70		
+144	71	[47, 55]	meredith_palmer
+145	71	[94, 102]	meredith_palmer
+146	71	[150, 153]	jim_halpert
+147	71	[156, 159]	jim_halpert
+148	71	[173, 181]	meredith_palmer
+149	71	[184, 185]	michael_scott
+150	71	[308, 309]	michael_scott
+151	71	[397, 398]	michael_scott
+152	71	[488, 489]	michael_scott
+153	71	[631, 632]	michael_scott
+154	71	[671, 679]	meredith_palmer
+155	71	[722, 729]	michael_scott
+156	71	[12, 15]	meredith_palmer
+157	71	[18, 21]	meredith_palmer
+158	71	[4, 7]	multiple_persons
+159	71	[192, 195]	meredith_palmer
+160	71	[229, 232]	meredith_palmer
+161	71	[572, 575]	multiple_persons
+162	71	[616, 619]	multiple_persons
+163	71	[699, 702]	meredith_palmer
+164	72	[34, 37]	jim_halpert
+165	73	[15, 18]	dwight_schrute
+166	74		
+167	75	[0, 1]	jim_halpert
+168	76	[0, 3]	dwight_schrute
+169	77	[7, 8]	dwight_schrute
+170	78		
+171	79	[0, 1]	dwight_schrute
+172	80	[4, 7]	kevin_malone
+173	81		
+174	82	[28, 31]	kevin_malone
+175	83		
+176	84	[0, 4]	toby_flenderson
+177	84	[9, 14]	kevin_malone
+178	84	[40, 46]	angela_martin
+179	85	[26, 29]	multiple_persons
+180	86	[7, 8]	jim_halpert
+181	86	[26, 31]	kevin_malone
+182	86	[55, 59]	toby_flenderson
+183	87		
+184	88	[0, 1]	toby_flenderson
+185	89	[0, 1]	jim_halpert
+186	90		
+187	91		
+188	92	[10, 13]	UNKNOWN
+189	93	[14, 16]	multiple_persons
+190	93	[114, 116]	multiple_persons
+191	94	[22, 24]	multiple_persons
+192	94	[0, 3]	UNKNOWN
+193	95	[8, 10]	multiple_persons
+194	95	[24, 30]	dwight_schrute
+195	95	[41, 43]	multiple_persons
+196	96	[0, 8]	meredith_palmer
+197	96	[11, 19]	meredith_palmer
+198	96	[67, 75]	meredith_palmer
+199	96	[24, 28]	meredith_palmer
+200	96	[33, 37]	UNKNOWN
+201	96	[58, 62]	UNKNOWN
+202	97	[6, 11]	oscar_martinez
+203	98	[5, 6]	oscar_martinez
+204	98	[26, 29]	michael_scott
+205	99		
+206	100	[0, 2]	oscar_martinez
+207	100	[69, 70]	oscar_martinez
+208	100	[94, 97]	michael_scott
+209	100	[115, 118]	michael_scott
+210	101		
+211	102		
+212	103	[21, 22]	michael_scott
+213	103	[5, 8]	UNKNOWN
+214	104		
+215	105	[5, 6]	michael_scott
+216	105	[134, 135]	michael_scott
+217	105	[153, 156]	oscar_martinez
+218	106		
+219	107	[5, 7]	michael_scott
+220	107	[35, 40]	oscar_martinez
+221	107	[137, 138]	michael_scott
+222	108	[6, 9]	jim_halpert
+223	108	[16, 17]	pam_beesly
+224	108	[26, 29]	jim_halpert
+225	109		
+226	110	[5, 6]	pam_beesly
+227	110	[21, 22]	pam_beesly
+228	110	[38, 39]	pam_beesly
+229	110	[71, 72]	pam_beesly
+230	110	[122, 129]	michael_scott
+231	111		
+232	112	[20, 22]	pam_beesly
+233	112	[56, 57]	pam_beesly
+234	112	[92, 94]	pam_beesly
+235	112	[194, 195]	pam_beesly
+236	112	[211, 212]	pam_beesly
+237	112	[245, 247]	pam_beesly
+238	112	[7, 9]	michael_scott
+239	112	[114, 116]	michael_scott
+240	112	[248, 251]	jim_halpert
+241	112	[159, 162]	jim_halpert
+242	113	[16, 17]	jim_halpert
+243	113	[65, 68]	pam_beesly
+244	113	[73, 75]	jim_halpert
+245	114		
+246	115		
+247	116	[25, 28]	pam_beesly
+248	116	[50, 53]	pam_beesly
+249	117	[0, 8]	meredith_palmer
+250	117	[24, 32]	meredith_palmer
+251	118	[6, 9]	michael_scott
+252	118	[24, 26]	dwight_schrute
+253	119	[15, 18]	dwight_schrute
+254	119	[30, 38]	meredith_palmer
+255	120	[0, 1]	dwight_schrute
+256	120	[15, 18]	meredith_palmer
+257	121	[36, 42]	dwight_schrute
+258	121	[50, 51]	michael_scott
+259	121	[59, 60]	michael_scott
+260	121	[98, 100]	michael_scott
+261	122	[7, 15]	meredith_palmer
+262	122	[16, 22]	meredith_palmer
+263	123	[0, 1]	michael_scott
+264	123	[18, 19]	michael_scott
+265	123	[36, 37]	michael_scott
+266	123	[45, 46]	michael_scott
+267	123	[85, 88]	dwight_schrute
+268	124	[0, 3]	meredith_palmer
+269	125		
+270	126		
+271	127	[9, 15]	dwight_schrute
+272	127	[23, 24]	michael_scott
+273	127	[70, 71]	michael_scott
+274	127	[3, 6]	UNKNOWN
+275	128		
+276	129	[0, 3]	dwight_schrute
+277	129	[16, 17]	michael_scott
+278	129	[80, 84]	dwight_schrute
+279	129	[92, 93]	michael_scott
+280	129	[122, 128]	dwight_schrute
+281	130	[36, 39]	pam_beesly
+282	130	[106, 114]	meredith_palmer
+283	131	[3, 5]	dwight_schrute
+284	131	[12, 14]	multiple_persons
+285	131	[6, 9]	UNKNOWN
+286	132	[0, 1]	jim_halpert
+287	133	[47, 49]	dwight_schrute
+288	133	[50, 53]	UNKNOWN
+289	134		
+290	135	[0, 1]	dwight_schrute
+291	135	[9, 10]	dwight_schrute
+292	136		
+293	137	[0, 1]	dwight_schrute
+294	137	[21, 22]	dwight_schrute
+295	137	[44, 46]	dwight_schrute
+296	137	[47, 50]	dwight_schrute's_father
+297	137	[121, 123]	dwight_schrute
+298	137	[126, 127]	dwight_schrute
+299	138	[71, 72]	dwight_schrute
+300	139		
+301	140	[0, 7]	michael_scott
+302	140	[14, 17]	michael_scott
+303	141	[89, 91]	multiple_persons
+304	141	[169, 171]	multiple_persons
+305	142		
+306	143		
+307	144	[0, 1]	jim_halpert
+308	144	[19, 22]	dwight_schrute
+309	145	[7, 8]	dwight_schrute
+310	145	[54, 57]	jim_halpert
+311	145	[72, 73]	dwight_schrute
+312	146		
+313	147		
+314	148		
+315	149		
+316	150	[15, 23]	meredith_palmer
+317	151	[18, 21]	meredith_palmer
+318	152		
+319	153		
+320	154	[15, 17]	jim_halpert
+321	154	[6, 9]	dwight_schrute
+322	154	[37, 40]	dwight_schrute
+323	155	[5, 8]	jim_halpert
+324	155	[66, 68]	multiple_persons
+325	156		
+326	157	[4, 5]	dwight_schrute
+327	157	[12, 15]	jim_halpert
+328	157	[18, 19]	dwight_schrute
+329	157	[37, 38]	dwight_schrute
+330	157	[70, 71]	dwight_schrute
+331	157	[86, 87]	dwight_schrute
+332	157	[94, 97]	jim_halpert
+333	157	[113, 114]	dwight_schrute
+334	157	[121, 124]	jim_halpert
+335	157	[136, 138]	dwight_schrute
+336	157	[127, 130]	multiple_persons
+337	158	[22, 30]	meredith_palmer
+338	158	[49, 52]	meredith_palmer
+339	159		
+340	160		
+341	161	[0, 3]	meredith_palmer
+342	161	[30, 33]	meredith_palmer
+343	162		
+344	163	[0, 3]	meredith_palmer
+345	163	[27, 29]	multiple_persons
+346	163	[56, 59]	meredith_palmer
+347	163	[157, 160]	meredith_palmer
+348	164	[5, 6]	meredith_palmer
+349	165		
+350	166	[0, 1]	meredith_palmer
+351	167	[13, 16]	UNKNOWN
+352	168	[16, 18]	meredith_palmer
+353	169	[0, 3]	meredith_palmer
+354	169	[19, 20]	michael_scott
+355	169	[46, 47]	michael_scott
+356	169	[54, 55]	michael_scott
+357	169	[64, 70]	michael_scott
+358	170	[0, 2]	dwight_schrute
+359	171	[0, 3]	pam_beesly
+360	171	[87, 88]	jim_halpert
+361	171	[125, 129]	pam_beesly
+362	171	[6, 8]	dwight_schrute
+363	171	[23, 25]	dwight_schrute
+364	172	[14, 17]	jim_halpert
+365	172	[27, 29]	multiple_persons
+366	172	[69, 71]	pam_beesly
+367	172	[122, 129]	michael_scott
+368	172	[142, 144]	pam_beesly
+369	172	[155, 156]	pam_beesly
+370	173		
+371	174	[0, 3]	jim_halpert
+372	174	[49, 50]	michael_scott
+373	174	[64, 67]	jim_halpert
+374	175	[20, 21]	jim_halpert
+375	175	[36, 39]	michael_scott
+376	175	[78, 81]	michael_scott
+377	175	[90, 95]	UNKNOWN
+378	176	[7, 10]	jim_halpert
+379	176	[42, 45]	jim_halpert
+380	176	[81, 84]	jim_halpert
+381	176	[106, 109]	jim_halpert
+382	176	[139, 142]	jim_halpert
+383	177	[92, 93]	jim_halpert
+384	177	[121, 124]	michael_scott
+385	177	[86, 89]	UNKNOWN
+386	178	[3, 8]	oscar_martinez
+387	179	[0, 1]	michael_scott
+388	179	[39, 42]	oscar_martinez
+389	179	[88, 89]	michael_scott
+390	179	[133, 136]	oscar_martinez
+391	180		
+392	181	[0, 1]	michael_scott
+393	182		
+394	183		
+395	184	[0, 1]	oscar_martinez
+396	185	[43, 44]	michael_scott
+397	185	[169, 174]	oscar_martinez
+398	185	[184, 188]	oscar_martinez
+399	185	[201, 203]	UNKNOWN
+400	185	[189, 195]	UNKNOWN
+401	186		
+402	187	[19, 21]	UNKNOWN
+403	188	[12, 14]	UNKNOWN
+404	189		
+405	190		
+406	191	[51, 53]	multiple_persons
+407	192	[38, 46]	meredith_palmer
+408	192	[61, 64]	meredith_palmer
+409	192	[103, 106]	meredith_palmer
+410	193	[0, 1]	michael_scott
+411	194	[9, 16]	stanley_hudson
+412	194	[24, 32]	meredith_palmer
+413	194	[78, 81]	pam_beesly
+414	194	[52, 55]	meredith_palmer
+415	195		
+416	196	[13, 20]	michael_scott
+417	196	[28, 36]	meredith_palmer
+418	196	[87, 90]	meredith_palmer
+419	196	[117, 121]	meredith_palmer
+420	197	[49, 52]	meredith_palmer
+421	198	[5, 6]	meredith_palmer
+422	198	[11, 12]	meredith_palmer
+423	199	[0, 3]	meredith_palmer
+424	199	[57, 60]	meredith_palmer
+425	199	[86, 87]	michael_scott
+426	199	[129, 130]	michael_scott
+427	199	[220, 228]	meredith_palmer
+428	199	[251, 254]	UNKNOWN
+429	199	[261, 264]	UNKNOWN
+430	199	[278, 281]	UNKNOWN
+431	199	[310, 318]	meredith_palmer
+432	199	[231, 234]	UNKNOWN
+433	199	[235, 241]	UNKNOWN
+434	200	[0, 3]	michael_scott
+435	200	[16, 19]	michael_scott
+436	201	[27, 35]	meredith_palmer
+437	202	[11, 14]	meredith_palmer
+438	203	[38, 46]	meredith_palmer
+439	204	[11, 14]	meredith_palmer
+440	205	[4, 7]	meredith_palmer
+441	205	[20, 23]	meredith_palmer
+442	205	[65, 68]	meredith_palmer
+443	206	[18, 22]	michael_scott
+444	206	[25, 26]	michael_scott
+445	206	[88, 90]	michael_scott
+446	207	[16, 23]	michael_scott
+447	208	[12, 14]	michael_scott
+448	208	[71, 72]	michael_scott
+449	208	[79, 81]	multiple_persons
+450	208	[23, 29]	multiple_persons
+451	208	[36, 40]	multiple_persons
+452	209	[0, 7]	phyllis_vance
+453	209	[21, 22]	angela_martin
+454	210	[15, 18]	angela_martin
+455	211	[5, 7]	multiple_persons
+456	211	[74, 75]	michael_scott
+457	211	[82, 84]	multiple_persons
+458	211	[154, 156]	multiple_persons
+459	211	[207, 208]	michael_scott
+460	211	[217, 218]	michael_scott
+461	211	[255, 256]	michael_scott
+462	211	[294, 299]	oscar_martinez
+463	212		
+464	213		
+465	214	[5, 6]	michael_scott
+466	214	[16, 17]	michael_scott
+467	214	[77, 78]	michael_scott
+468	215		
+469	216	[0, 1]	michael_scott
+470	216	[120, 121]	michael_scott
+471	216	[131, 132]	michael_scott
+472	216	[205, 212]	michael_scott
+473	216	[213, 218]	michael_scott
+474	216	[290, 291]	michael_scott
+475	216	[261, 264]	multiple_persons
+476	216	[295, 298]	michael_scott
+477	217	[12, 19]	michael_scott
+478	218		
+479	219		
+480	220		
+481	221		
+482	222		
+483	223	[7, 8]	toby_flenderson
+484	224		
+485	225	[10, 11]	jim_halpert
+486	226	[10, 12]	pam_beesly
+487	226	[20, 22]	pam_beesly
+488	227	[5, 6]	jim_halpert
+489	227	[27, 33]	dwight_schrute
+490	227	[85, 88]	multiple_persons
+491	227	[39, 41]	dwight_schrute
+492	228	[24, 25]	jim_halpert
+493	228	[11, 13]	dwight_schrute
+494	228	[31, 34]	dwight_schrute
+495	228	[40, 42]	dwight_schrute
+496	228	[54, 57]	dwight_schrute
+497	229		
+498	230	[3, 5]	multiple_persons
+499	230	[14, 17]	dwight_schrute
+500	230	[68, 71]	dwight_schrute
+501	231	[33, 36]	jim_halpert
+502	231	[77, 84]	jim_halpert
+503	232	[10, 14]	roy_anderson
+504	233		
+505	234	[17, 18]	jim_halpert
+506	234	[5, 9]	roy_anderson
+507	235		
+508	236	[6, 7]	jim_halpert
+509	236	[22, 23]	jim_halpert
+510	236	[77, 83]	dwight_schrute
+511	236	[97, 99]	jim_halpert
+512	236	[150, 152]	multiple_persons
+513	236	[164, 166]	multiple_persons
+514	236	[0, 3]	UNKNOWN
+515	236	[194, 197]	dwight_schrute
+516	237		
+517	238		
+518	239	[31, 33]	jim_halpert
+519	240	[0, 1]	dwight_schrute
+520	241		
+521	242	[3, 4]	dwight_schrute
+522	242	[30, 33]	jim_halpert
+523	242	[81, 83]	multiple_persons
+524	242	[77, 80]	jim_halpert
+525	242	[134, 137]	jim_halpert
+526	243	[76, 77]	dwight_schrute
+527	243	[84, 87]	jim_halpert
+528	243	[33, 36]	multiple_persons

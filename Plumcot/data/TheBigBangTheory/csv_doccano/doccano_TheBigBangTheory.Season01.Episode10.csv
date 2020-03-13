@@ -1,0 +1,516 @@
+	idSent	idChar	label
+0	1	[102, 107]	UNKNOWN
+1	1	[108, 113]	UNKNOWN
+2	1	[158, 163]	UNKNOWN
+3	2	[19, 21]	sheldon_cooper
+4	2	[150, 154]	UNKNOWN
+5	2	[155, 161]	UNKNOWN
+6	3	[18, 19]	leonard_hofstadter
+7	4		
+8	5		
+9	6	[13, 14]	sheldon_cooper
+10	7	[45, 46]	penny
+11	8		
+12	9	[0, 1]	sheldon_cooper
+13	10	[0, 3]	sheldon_cooper
+14	10	[36, 38]	UNKNOWN
+15	10	[59, 63]	leonard_hofstadter-sheldon_cooper
+16	10	[77, 80]	leonard_hofstadter-sheldon_cooper
+17	10	[21, 23]	penny
+18	10	[48, 50]	penny
+19	11	[10, 12]	leonard_hofstadter-sheldon_cooper
+20	12	[0, 3]	leonard_hofstadter-sheldon_cooper
+21	13	[5, 6]	leonard_hofstadter
+22	14	[32, 33]	sheldon_cooper
+23	14	[107, 108]	sheldon_cooper
+24	14	[137, 139]	sheldon_cooper
+25	14	[198, 200]	sheldon_cooper
+26	14	[0, 1]	sheldon_cooper
+27	14	[140, 143]	penny
+28	15		
+29	16		
+30	17	[24, 25]	penny
+31	17	[80, 81]	penny
+32	17	[101, 102]	penny
+33	18	[0, 1]	sheldon_cooper
+34	19	[3, 6]	penny
+35	19	[19, 21]	sheldon_cooper
+36	20	[11, 15]	UNKNOWN
+37	20	[43, 46]	UNKNOWN
+38	20	[88, 91]	UNKNOWN
+39	20	[74, 76]	penny
+40	21		
+41	22	[107, 110]	UNKNOWN
+42	23	[8, 9]	sheldon_cooper
+43	23	[0, 1]	sheldon_cooper
+44	24	[3, 6]	penny
+45	24	[16, 18]	sheldon_cooper
+46	25	[29, 32]	leonard_hofstadter-sheldon_cooper
+47	25	[33, 37]	leonard_hofstadter-sheldon_cooper
+48	26		
+49	27	[26, 28]	leonard_hofstadter-sheldon_cooper
+50	28	[0, 1]	sheldon_cooper
+51	29		
+52	30	[58, 62]	leonard_hofstadter-sheldon_cooper
+53	30	[22, 23]	penny
+54	31		
+55	32	[0, 3]	leonard_hofstadter
+56	32	[17, 22]	penny
+57	33	[6, 7]	leonard_hofstadter
+58	34	[4, 7]	leonard_hofstadter
+59	35		
+60	36		
+61	37	[14, 17]	sheldon_cooper
+62	37	[32, 36]	sheldon_cooper
+63	37	[0, 7]	sheldon_cooper
+64	38	[5, 6]	sheldon_cooper
+65	38	[18, 21]	leonard_hofstadter
+66	38	[41, 43]	sheldon_cooper
+67	38	[44, 47]	leonard_hofstadter
+68	39		
+69	40	[10, 17]	leonard_hofstadter
+70	40	[20, 27]	leonard_hofstadter
+71	40	[0, 7]	leonard_hofstadter
+72	41		
+73	42	[19, 22]	leonard_hofstadter
+74	42	[0, 1]	sheldon_cooper
+75	43		
+76	44		
+77	45	[38, 41]	sheldon_cooper
+78	45	[0, 1]	leonard_hofstadter
+79	46		
+80	47		
+81	48	[0, 3]	leonard_hofstadter
+82	49		
+83	50	[13, 14]	sheldon_cooper
+84	50	[28, 31]	leonard_hofstadter
+85	50	[66, 69]	leonard_hofstadter
+86	51	[0, 7]	sheldon_cooper
+87	52	[43, 47]	leonard_hofstadter
+88	52	[0, 1]	sheldon_cooper
+89	52	[55, 60]	penny
+90	53	[9, 10]	leonard_hofstadter
+91	54	[0, 3]	leonard_hofstadter
+92	54	[20, 23]	penny
+93	55	[21, 24]	penny
+94	56		
+95	57		
+96	58	[5, 6]	sheldon_cooper
+97	58	[15, 18]	leonard_hofstadter
+98	59	[15, 16]	leonard_hofstadter
+99	60	[106, 109]	leonard_hofstadter
+100	60	[119, 122]	leonard_hofstadter
+101	60	[134, 135]	sheldon_cooper
+102	60	[149, 152]	leonard_hofstadter
+103	60	[239, 243]	leonard_hofstadter
+104	60	[0, 1]	sheldon_cooper
+105	61	[23, 24]	leonard_hofstadter
+106	61	[45, 48]	sheldon_cooper
+107	61	[67, 68]	leonard_hofstadter
+108	61	[89, 92]	sheldon_cooper
+109	61	[0, 1]	leonard_hofstadter
+110	62		
+111	63	[39, 42]	sheldon_cooper
+112	63	[51, 54]	sheldon_cooper
+113	64	[0, 1]	sheldon_cooper
+114	65	[9, 12]	sheldon_cooper
+115	66	[15, 22]	leonard_hofstadter
+116	67		
+117	68	[31, 34]	leonard_hofstadter
+118	68	[53, 54]	sheldon_cooper
+119	68	[75, 78]	leonard_hofstadter
+120	68	[5, 7]	leonard_hofstadter-sheldon_cooper
+121	69	[10, 17]	leonard_hofstadter
+122	69	[20, 27]	leonard_hofstadter
+123	69	[30, 37]	leonard_hofstadter
+124	69	[0, 7]	leonard_hofstadter
+125	70	[40, 41]	leonard_hofstadter
+126	71	[30, 31]	sheldon_cooper
+127	71	[0, 1]	sheldon_cooper
+128	71	[40, 42]	leonard_hofstadter-sheldon_cooper
+129	71	[60, 65]	penny
+130	72		
+131	73	[12, 15]	penny
+132	74	[13, 15]	sheldon_cooper
+133	74	[7, 10]	leonard_hofstadter
+134	75	[0, 5]	penny
+135	75	[8, 13]	penny
+136	75	[16, 21]	penny
+137	76	[3, 6]	sheldon_cooper
+138	77	[10, 11]	sheldon_cooper
+139	77	[17, 19]	sheldon_cooper
+140	77	[129, 130]	sheldon_cooper
+141	77	[159, 161]	sheldon_cooper
+142	77	[178, 182]	penny
+143	78	[8, 11]	sheldon_cooper
+144	79	[13, 20]	leonard_hofstadter
+145	79	[30, 32]	leonard_hofstadter-sheldon_cooper
+146	79	[76, 78]	leonard_hofstadter-sheldon_cooper
+147	79	[26, 29]	penny
+148	79	[51, 55]	penny
+149	80	[0, 1]	penny
+150	81	[13, 15]	leonard_hofstadter
+151	82		
+152	83	[14, 15]	sheldon_cooper
+153	83	[0, 2]	leonard_hofstadter
+154	84	[17, 18]	penny
+155	85	[17, 18]	sheldon_cooper
+156	85	[47, 49]	sheldon_cooper
+157	86	[13, 14]	leonard_hofstadter
+158	86	[32, 35]	sheldon_cooper
+159	86	[45, 46]	leonard_hofstadter
+160	86	[0, 3]	sheldon_cooper
+161	86	[9, 12]	penny
+162	86	[41, 44]	penny
+163	87	[8, 11]	leonard_hofstadter
+164	88	[13, 14]	leonard_hofstadter
+165	88	[0, 1]	leonard_hofstadter
+166	89	[29, 33]	leonard_hofstadter
+167	89	[54, 55]	sheldon_cooper
+168	89	[70, 73]	leonard_hofstadter
+169	89	[96, 98]	sheldon_cooper
+170	89	[0, 3]	penny
+171	89	[61, 64]	penny
+172	90	[5, 6]	leonard_hofstadter
+173	91	[23, 24]	sheldon_cooper
+174	91	[34, 35]	sheldon_cooper
+175	91	[152, 154]	sheldon_cooper
+176	91	[79, 84]	penny
+177	91	[155, 161]	sheldon_cooper's_cousin
+178	91	[162, 169]	sheldon_cooper's_cousin
+179	92	[0, 4]	sheldon_cooper
+180	92	[5, 11]	sheldon_cooper's_cousin
+181	92	[12, 19]	sheldon_cooper's_cousin
+182	93	[27, 30]	sheldon_cooper's_cousin
+183	93	[37, 39]	sheldon_cooper's_cousin
+184	93	[56, 59]	sheldon_cooper's_cousin
+185	94		
+186	95	[10, 17]	leonard_hofstadter
+187	96	[3, 6]	sheldon_cooper
+188	96	[14, 20]	sheldon_cooper's_cousin
+189	96	[21, 28]	sheldon_cooper's_cousin
+190	97	[5, 6]	sheldon_cooper
+191	97	[21, 22]	sheldon_cooper
+192	97	[29, 32]	leonard_hofstadter
+193	97	[12, 15]	sheldon_cooper's_cousin
+194	97	[41, 44]	sheldon_cooper's_cousin
+195	97	[45, 48]	sheldon_cooper's_cousin
+196	98	[18, 19]	leonard_hofstadter
+197	98	[0, 1]	leonard_hofstadter
+198	98	[33, 36]	penny
+199	99	[22, 26]	leonard_hofstadter
+200	99	[65, 69]	sheldon_cooper
+201	99	[104, 107]	leonard_hofstadter
+202	99	[122, 123]	sheldon_cooper
+203	100		
+204	101	[93, 96]	UNKNOWN
+205	101	[9, 12]	penny
+206	101	[37, 40]	penny
+207	101	[21, 28]	UNKNOWN
+208	101	[29, 36]	UNKNOWN
+209	102	[17, 18]	leonard_hofstadter
+210	102	[49, 53]	sheldon_cooper
+211	102	[54, 61]	sheldon_cooper's_cousin
+212	103	[39, 40]	sheldon_cooper
+213	104	[0, 2]	leonard_hofstadter-sheldon_cooper
+214	105	[79, 86]	leonard_hofstadter
+215	105	[33, 39]	sheldon_cooper's_cousin
+216	105	[40, 43]	sheldon_cooper's_cousin
+217	106		
+218	107	[0, 2]	leonard_hofstadter-sheldon_cooper
+219	107	[46, 48]	leonard_hofstadter-sheldon_cooper
+220	107	[123, 126]	sheldon_cooper's_cousin
+221	108	[3, 5]	sheldon_cooper's_cousin
+222	109	[12, 14]	sheldon_cooper's_cousin
+223	109	[30, 35]	penny
+224	109	[63, 66]	penny
+225	109	[49, 51]	leonard_hofstadter-sheldon_cooper
+226	110	[19, 20]	leonard_hofstadter
+227	110	[0, 3]	sheldon_cooper
+228	110	[15, 18]	penny
+229	111	[31, 33]	sheldon_cooper
+230	111	[106, 107]	sheldon_cooper
+231	112	[23, 24]	leonard_hofstadter
+232	112	[0, 1]	leonard_hofstadter
+233	113	[24, 27]	leonard_hofstadter
+234	113	[49, 50]	sheldon_cooper
+235	113	[67, 70]	leonard_hofstadter
+236	113	[97, 100]	leonard_hofstadter
+237	113	[130, 133]	leonard_hofstadter
+238	113	[56, 61]	penny
+239	113	[148, 151]	penny
+240	113	[111, 114]	penny
+241	114	[20, 22]	leonard_hofstadter
+242	114	[3, 6]	penny
+243	114	[89, 91]	leonard_hofstadter-sheldon_cooper
+244	115		
+245	116	[7, 12]	penny
+246	116	[29, 32]	penny
+247	116	[49, 53]	penny
+248	116	[65, 68]	penny
+249	117	[9, 10]	PARENTS
+250	117	[43, 46]	leonard_hofstadter-sheldon_cooper
+251	117	[47, 51]	leonard_hofstadter-sheldon_cooper
+252	117	[62, 66]	leonard_hofstadter-sheldon_cooper
+253	118		
+254	119	[11, 12]	PARENTS
+255	119	[173, 175]	leonard_hofstadter
+256	119	[0, 3]	leonard_hofstadter
+257	119	[25, 28]	leonard_hofstadter
+258	119	[102, 105]	leonard_hofstadter
+259	119	[112, 115]	leonard_hofstadter
+260	120	[0, 1]	leonard_hofstadter
+261	121	[13, 20]	leonard_hofstadter
+262	122		
+263	123	[3, 6]	leonard_hofstadter-penny
+264	124		
+265	125		
+266	126		
+267	127		
+268	128	[12, 17]	penny
+269	128	[24, 27]	penny
+270	128	[94, 96]	leonard_hofstadter-sheldon_cooper
+271	128	[126, 128]	leonard_hofstadter-sheldon_cooper
+272	128	[190, 192]	UNKNOWN
+273	128	[193, 198]	UNKNOWN
+274	128	[199, 212]	UNKNOWN
+275	129	[16, 29]	UNKNOWN
+276	129	[46, 49]	leonard_hofstadter-sheldon_cooper
+277	130	[9, 10]	leonard_hofstadter
+278	130	[0, 6]	howard_wolowitz
+279	130	[24, 26]	leonard_hofstadter-sheldon_cooper
+280	130	[35, 37]	leonard_hofstadter-sheldon_cooper
+281	131	[35, 37]	UNKNOWN
+282	131	[10, 13]	leonard_hofstadter-sheldon_cooper
+283	132	[0, 1]	leonard_hofstadter
+284	133		
+285	134	[0, 6]	howard_wolowitz
+286	135	[24, 28]	leonard_hofstadter
+287	135	[48, 51]	leonard_hofstadter
+288	135	[78, 81]	leonard_hofstadter
+289	135	[95, 97]	howard_wolowitz
+290	135	[56, 65]	UNKNOWN
+291	135	[102, 110]	UNKNOWN
+292	135	[111, 115]	UNKNOWN
+293	136	[16, 23]	sheldon_cooper
+294	136	[26, 27]	PARENTS
+295	136	[0, 6]	howard_wolowitz
+296	136	[34, 36]	sheldon_cooper-penny
+297	137	[14, 15]	sheldon_cooper
+298	138	[24, 31]	leonard_hofstadter
+299	138	[40, 42]	PARENTS
+300	138	[63, 70]	leonard_hofstadter
+301	139	[9, 10]	leonard_hofstadter
+302	140	[13, 14]	PARENTS
+303	140	[27, 34]	leonard_hofstadter
+304	140	[46, 53]	sheldon_cooper
+305	140	[80, 82]	leonard_hofstadter
+306	140	[132, 134]	UNKNOWN
+307	140	[135, 141]	UNKNOWN
+308	140	[145, 149]	UNKNOWN
+309	140	[154, 157]	UNKNOWN
+310	141	[9, 12]	PARENTS
+311	142	[37, 44]	sheldon_cooper
+312	142	[21, 23]	leonard_hofstadter
+313	143	[5, 6]	howard_wolowitz
+314	143	[21, 22]	howard_wolowitz
+315	143	[29, 32]	PARENTS
+316	144	[12, 19]	sheldon_cooper
+317	144	[141, 148]	leonard_hofstadter
+318	144	[160, 167]	sheldon_cooper
+319	144	[23, 29]	sheldon_cooper's_cousin
+320	144	[30, 33]	sheldon_cooper's_cousin
+321	144	[54, 56]	sheldon_cooper's_cousin
+322	144	[187, 190]	sheldon_cooper's_cousin
+323	144	[212, 214]	sheldon_cooper's_cousin
+324	144	[230, 233]	sheldon_cooper's_cousin
+325	144	[225, 229]	sheldon_cooper's_cousin
+326	145		
+327	146	[8, 11]	leonard_hofstadter-sheldon_cooper
+328	146	[12, 16]	leonard_hofstadter-sheldon_cooper
+329	147		
+330	148		
+331	149		
+332	150		
+333	151	[5, 7]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+334	152		
+335	153	[8, 15]	sheldon_cooper
+336	153	[46, 52]	sheldon_cooper's_cousin
+337	153	[53, 60]	sheldon_cooper's_cousin
+338	154	[15, 16]	raj_koothrappali
+339	155	[30, 33]	UNKNOWN
+340	155	[34, 39]	UNKNOWN
+341	155	[40, 44]	UNKNOWN
+342	156		
+343	157	[0, 1]	howard_wolowitz
+344	158		
+345	159	[15, 22]	leonard_hofstadter
+346	159	[44, 46]	leonard_hofstadter
+347	160	[11, 13]	leonard_hofstadter-sheldon_cooper-howard_wolowitz-raj_koothrappali
+348	161	[10, 17]	leonard_hofstadter
+349	161	[20, 27]	leonard_hofstadter
+350	161	[0, 7]	leonard_hofstadter
+351	162	[12, 19]	sheldon_cooper
+352	162	[80, 83]	sheldon_cooper
+353	163	[40, 41]	sheldon_cooper
+354	163	[136, 137]	sheldon_cooper
+355	163	[26, 29]	leonard_hofstadter-sheldon_cooper
+356	163	[191, 194]	leonard_hofstadter-sheldon_cooper
+357	164	[9, 12]	sheldon_cooper
+358	164	[42, 45]	PARENTS
+359	165	[77, 78]	sheldon_cooper
+360	165	[106, 107]	sheldon_cooper
+361	165	[102, 105]	sheldon_cooper's_cousin
+362	166		
+363	167	[8, 11]	sheldon_cooper's_cousin
+364	168	[26, 29]	sheldon_cooper
+365	168	[12, 15]	sheldon_cooper's_cousin
+366	169	[31, 34]	leonard_hofstadter
+367	169	[0, 3]	leonard_hofstadter
+368	169	[37, 39]	sheldon_cooper's_cousin
+369	169	[69, 71]	sheldon_cooper's_cousin
+370	169	[179, 181]	sheldon_cooper's_cousin
+371	169	[283, 285]	sheldon_cooper's_cousin
+372	170	[0, 1]	leonard_hofstadter
+373	171		
+374	172		
+375	173	[7, 8]	sheldon_cooper
+376	173	[47, 48]	sheldon_cooper
+377	173	[65, 68]	leonard_hofstadter
+378	173	[119, 123]	leonard_hofstadter
+379	173	[164, 165]	sheldon_cooper
+380	173	[199, 203]	leonard_hofstadter
+381	173	[74, 76]	leonard_hofstadter-sheldon_cooper
+382	173	[84, 87]	leonard_hofstadter-sheldon_cooper
+383	173	[211, 213]	leonard_hofstadter-sheldon_cooper
+384	174		
+385	175	[8, 11]	sheldon_cooper's_cousin
+386	176	[5, 12]	sheldon_cooper
+387	176	[16, 22]	sheldon_cooper's_cousin
+388	176	[23, 26]	sheldon_cooper's_cousin
+389	176	[0, 1]	sheldon_cooper's_cousin
+390	177	[11, 18]	sheldon_cooper
+391	177	[42, 45]	sheldon_cooper's_cousin
+392	178	[15, 16]	sheldon_cooper's_cousin
+393	178	[35, 36]	sheldon_cooper's_cousin
+394	178	[77, 78]	sheldon_cooper's_cousin
+395	178	[98, 99]	sheldon_cooper's_cousin
+396	178	[177, 178]	sheldon_cooper's_cousin
+397	178	[272, 274]	sheldon_cooper's_cousin
+398	179	[7, 9]	sheldon_cooper
+399	179	[12, 14]	leonard_hofstadter-sheldon_cooper
+400	179	[74, 78]	sheldon_cooper's_cousin
+401	179	[102, 106]	sheldon_cooper's_cousin
+402	180	[5, 12]	sheldon_cooper
+403	180	[19, 21]	UNKNOWN
+404	181	[94, 95]	sheldon_cooper
+405	181	[4, 8]	sheldon_cooper's_cousin
+406	181	[106, 109]	sheldon_cooper's_cousin
+407	182	[0, 7]	sheldon_cooper
+408	183	[13, 20]	leonard_hofstadter
+409	183	[31, 35]	toby_loobenfeld
+410	183	[36, 46]	toby_loobenfeld
+411	183	[0, 1]	sheldon_cooper
+412	183	[49, 51]	toby_loobenfeld
+413	183	[110, 112]	toby_loobenfeld
+414	184	[63, 66]	sheldon_cooper
+415	184	[115, 117]	toby_loobenfeld
+416	184	[87, 89]	toby_loobenfeld
+417	184	[100, 107]	toby_loobenfeld's_parents
+418	185	[7, 8]	leonard_hofstadter
+419	185	[18, 25]	sheldon_cooper
+420	186	[7, 10]	leonard_hofstadter
+421	186	[23, 26]	sheldon_cooper's_cousin
+422	186	[113, 116]	sheldon_cooper's_cousin
+423	186	[92, 94]	leonard_hofstadter-sheldon_cooper
+424	186	[163, 165]	leonard_hofstadter-sheldon_cooper
+425	187		
+426	188	[74, 75]	toby_loobenfeld
+427	188	[0, 7]	sheldon_cooper
+428	188	[28, 30]	toby_loobenfeld
+429	188	[49, 50]	toby_loobenfeld
+430	189	[5, 7]	leonard_hofstadter-sheldon_cooper
+431	190	[15, 16]	toby_loobenfeld
+432	191	[59, 64]	penny
+433	192		
+434	193	[16, 18]	leonard_hofstadter-sheldon_cooper
+435	193	[45, 48]	sheldon_cooper's_cousin
+436	194	[21, 24]	sheldon_cooper
+437	194	[30, 32]	penny
+438	194	[35, 36]	penny
+439	195	[4, 6]	leonard_hofstadter-sheldon_cooper
+440	195	[20, 23]	sheldon_cooper's_cousin
+441	195	[62, 65]	sheldon_cooper's_cousin
+442	195	[76, 81]	penny
+443	195	[84, 87]	leonard_hofstadter-sheldon_cooper
+444	195	[88, 94]	penny
+445	195	[99, 107]	penny
+446	196	[3, 6]	sheldon_cooper's_cousin
+447	196	[17, 20]	sheldon_cooper's_cousin
+448	197	[4, 6]	toby_loobenfeld
+449	197	[11, 14]	penny
+450	197	[27, 32]	penny
+451	197	[40, 43]	penny
+452	197	[90, 94]	penny
+453	198		
+454	199	[16, 18]	toby_loobenfeld
+455	199	[23, 24]	toby_loobenfeld
+456	200	[52, 54]	leonard_hofstadter
+457	200	[15, 18]	sheldon_cooper's_cousin
+458	200	[43, 46]	penny
+459	200	[61, 65]	penny
+460	201	[17, 18]	penny
+461	202		
+462	203		
+463	204	[11, 19]	UNKNOWN
+464	204	[20, 28]	UNKNOWN
+465	205	[0, 1]	penny
+466	205	[9, 10]	penny
+467	206	[247, 250]	UNKNOWN
+468	206	[92, 95]	sheldon_cooper's_cousin
+469	206	[170, 172]	sheldon_cooper's_cousin
+470	206	[190, 193]	sheldon_cooper's_cousin
+471	206	[220, 223]	sheldon_cooper's_cousin
+472	206	[280, 283]	sheldon_cooper's_cousin
+473	206	[320, 323]	sheldon_cooper's_cousin
+474	206	[360, 362]	sheldon_cooper's_cousin
+475	206	[399, 402]	sheldon_cooper's_cousin
+476	207	[14, 17]	sheldon_cooper's_cousin
+477	208		
+478	209		
+479	210		
+480	211		
+481	212	[3, 6]	sheldon_cooper
+482	213	[16, 19]	leonard_hofstadter
+483	213	[41, 43]	penny
+484	214		
+485	215	[45, 48]	leonard_hofstadter
+486	215	[0, 1]	penny
+487	215	[18, 20]	penny
+488	216	[20, 21]	leonard_hofstadter
+489	217	[25, 28]	leonard_hofstadter
+490	217	[81, 84]	leonard_hofstadter
+491	217	[66, 67]	penny
+492	217	[91, 93]	penny
+493	218		
+494	219	[64, 70]	toby_loobenfeld's_father
+495	219	[9, 11]	sheldon_cooper's_cousin
+496	219	[56, 59]	sheldon_cooper's_cousin
+497	220	[0, 4]	toby_loobenfeld
+498	220	[5, 12]	toby_loobenfeld's_parents
+499	221	[0, 1]	toby_loobenfeld
+500	222	[63, 68]	UNKNOWN
+501	222	[126, 129]	UNKNOWN
+502	222	[136, 140]	UNKNOWN
+503	223	[0, 3]	sheldon_cooper's_cousin
+504	223	[6, 9]	sheldon_cooper's_cousin
+505	223	[42, 45]	sheldon_cooper's_cousin
+506	223	[36, 41]	sheldon_cooper's_cousin
+507	223	[48, 51]	sheldon_cooper's_cousin
+508	224	[20, 25]	penny
+509	225	[12, 14]	sheldon_cooper's_cousin
+510	226	[31, 38]	leonard_hofstadter
+511	226	[73, 76]	leonard_hofstadter
+512	226	[0, 2]	sheldon_cooper's_cousin
+513	226	[50, 52]	sheldon_cooper's_cousin
+514	226	[67, 70]	leonard_hofstadter

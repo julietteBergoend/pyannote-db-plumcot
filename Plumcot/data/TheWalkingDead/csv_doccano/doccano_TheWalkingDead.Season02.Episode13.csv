@@ -1,0 +1,580 @@
+	idSent	idChar	label
+0	1	[0, 1]	andrea_harrison
+1	2	[62, 64]	multiple_persons
+2	2	[81, 84]	andrea_harrison
+3	2	[41, 48]	randall_culver
+4	3	[0, 4]	rick_grimes
+5	3	[9, 14]	shane_walsh
+6	4		
+7	5	[0, 2]	multiple_persons
+8	6	[17, 24]	randall_culver
+9	7	[0, 2]	multiple_persons
+10	7	[9, 12]	randall_culver
+11	8	[3, 5]	randall_culver
+12	9	[0, 2]	randall_culver
+13	10	[33, 36]	randall_culver
+14	10	[4, 7]	multiple_persons
+15	11	[24, 26]	randall_culver
+16	12	[0, 3]	randall_culver
+17	13	[3, 5]	randall_culver
+18	14	[15, 20]	shane_walsh
+19	14	[25, 32]	randall_culver
+20	14	[81, 86]	shane_walsh
+21	14	[110, 112]	shane_walsh
+22	14	[136, 139]	randall_culver
+23	15	[6, 9]	daryl_dixon
+24	15	[43, 47]	rick_grimes
+25	15	[52, 57]	shane_walsh
+26	16	[0, 3]	lori_grimes
+27	17		
+28	18	[0, 3]	rick_grimes
+29	19		
+30	20	[0, 5]	shane_walsh
+31	21	[13, 18]	shane_walsh
+32	21	[21, 24]	carl_grimes
+33	22	[49, 50]	carl_grimes
+34	22	[58, 59]	carl_grimes
+35	22	[63, 64]	carl_grimes
+36	22	[87, 88]	carl_grimes
+37	22	[29, 32]	multiple_persons
+38	22	[33, 37]	multiple_persons
+39	22	[130, 135]	shane_walsh
+40	23	[3, 5]	rick_grimes
+41	24	[0, 2]	multiple_persons
+42	24	[6, 8]	multiple_persons
+43	25	[0, 2]	multiple_persons
+44	25	[51, 55]	carl_grimes
+45	26	[0, 8]	patricia
+46	27	[0, 1]	andrea_harrison
+47	28	[68, 70]	multiple_persons
+48	29	[40, 41]	daryl_dixon
+49	30	[0, 4]	carl_grimes
+50	31		
+51	32	[24, 25]	lori_grimes
+52	32	[0, 2]	carl_grimes
+53	32	[6, 8]	carl_grimes
+54	32	[38, 41]	carl_grimes
+55	33	[6, 8]	carl_grimes
+56	34	[32, 33]	lori_grimes
+57	34	[57, 59]	lori_grimes
+58	34	[0, 2]	carl_grimes
+59	35	[0, 2]	multiple_persons
+60	35	[13, 15]	multiple_persons
+61	35	[40, 42]	multiple_persons
+62	35	[59, 62]	carl_grimes
+63	36	[0, 6]	maggie_greene
+64	37	[0, 3]	multiple_persons
+65	37	[22, 25]	multiple_persons
+66	38	[0, 1]	daryl_dixon
+67	39	[0, 3]	multiple_persons
+68	39	[14, 17]	multiple_persons
+69	40	[0, 3]	hershel_greene
+70	41	[0, 2]	multiple_persons
+71	41	[15, 17]	multiple_persons
+72	42	[16, 18]	multiple_persons
+73	42	[29, 31]	multiple_persons
+74	43	[4, 7]	hershel_greene
+75	44	[8, 10]	hershel_greene
+76	44	[18, 19]	hershel_greene
+77	45		
+78	46	[17, 19]	multiple_persons
+79	47	[18, 21]	rick_grimes
+80	48	[0, 1]	rick_grimes
+81	48	[44, 45]	rick_grimes
+82	48	[52, 54]	multiple_persons
+83	48	[139, 141]	multiple_persons
+84	48	[184, 186]	rick_grimes
+85	48	[189, 192]	carl_grimes
+86	48	[207, 211]	carl_grimes
+87	48	[214, 215]	rick_grimes
+88	48	[221, 224]	carl_grimes
+89	48	[262, 265]	carl_grimes
+90	48	[384, 388]	carl_grimes
+91	49		
+92	50	[0, 1]	maggie_greene
+93	51		
+94	52		
+95	53	[31, 35]	rick_grimes
+96	54	[0, 1]	lori_grimes
+97	54	[14, 17]	carl_grimes
+98	55	[9, 11]	carl_grimes
+99	56	[8, 9]	lori_grimes
+100	57	[54, 58]	rick_grimes
+101	57	[0, 2]	carl_grimes
+102	57	[14, 16]	carl_grimes
+103	57	[73, 80]	randall_culver
+104	57	[81, 88]	carl_grimes
+105	58	[6, 8]	carl_grimes
+106	59	[19, 23]	rick_grimes
+107	59	[27, 32]	shane_walsh
+108	59	[108, 111]	jimmy
+109	60		
+110	61		
+111	62		
+112	63	[0, 4]	carl_grimes
+113	64		
+114	65	[60, 62]	multiple_persons
+115	65	[97, 99]	multiple_persons
+116	66	[0, 2]	multiple_persons
+117	67	[44, 47]	multiple_persons
+118	67	[48, 52]	multiple_persons
+119	68		
+120	69	[0, 1]	lori_grimes
+121	69	[21, 22]	lori_grimes
+122	69	[35, 38]	carl_grimes
+123	70		
+124	71	[11, 13]	carl_grimes
+125	71	[47, 49]	carl_grimes
+126	71	[59, 62]	carl_grimes
+127	71	[63, 68]	rick_grimes
+128	71	[71, 73]	carl_grimes
+129	72	[5, 8]	lori_grimes
+130	72	[37, 39]	multiple_persons
+131	72	[31, 34]	carl_grimes
+132	73	[8, 10]	lori_grimes
+133	74	[0, 3]	lori_grimes
+134	74	[34, 36]	multiple_persons
+135	74	[79, 81]	multiple_persons
+136	74	[42, 45]	carl_grimes
+137	74	[48, 50]	carl_grimes
+138	74	[66, 69]	carl_grimes
+139	74	[70, 76]	lori_grimes
+140	75	[17, 21]	carl_grimes
+141	76	[0, 4]	beth_greene
+142	76	[7, 15]	patricia
+143	76	[28, 30]	multiple_persons
+144	76	[51, 55]	lori_grimes
+145	77	[0, 7]	hershel_greene
+146	77	[10, 17]	hershel_greene
+147	77	[20, 27]	hershel_greene
+148	77	[30, 37]	hershel_greene
+149	78		
+150	79	[0, 7]	hershel_greene
+151	79	[10, 17]	hershel_greene
+152	80	[0, 2]	multiple_persons
+153	80	[15, 17]	multiple_persons
+154	80	[43, 45]	multiple_persons
+155	81	[12, 14]	lori_grimes
+156	81	[29, 31]	lori_grimes
+157	82		
+158	83	[0, 3]	hershel_greene
+159	84		
+160	85	[0, 3]	hershel_greene
+161	86	[4, 9]	carol_peletier
+162	86	[13, 16]	carol_peletier
+163	87		
+164	88		
+165	89	[15, 17]	multiple_persons
+166	89	[9, 12]	carol_peletier
+167	89	[30, 33]	theodore_douglas-hershel_greene
+168	90	[39, 40]	maggie_greene
+169	91	[0, 1]	glenn_rhee
+170	92	[3, 5]	maggie_greene
+171	93	[0, 1]	maggie_greene
+172	94		
+173	95		
+174	96		
+175	97		
+176	98	[0, 6]	maggie_greene
+177	99	[14, 16]	multiple_persons
+178	100		
+179	101		
+180	102		
+181	103	[9, 13]	lori_grimes
+182	103	[28, 32]	lori_grimes
+183	103	[20, 23]	hershel_greene
+184	104	[0, 1]	hershel_greene
+185	104	[30, 34]	rick_grimes
+186	105	[0, 4]	lori_grimes
+187	105	[19, 22]	lori_grimes
+188	105	[11, 14]	hershel_greene
+189	106		
+190	107	[0, 2]	multiple_persons
+191	107	[21, 24]	lori_grimes
+192	108	[6, 8]	hershel_greene
+193	109		
+194	110		
+195	111	[0, 7]	hershel_greene
+196	112		
+197	113	[0, 4]	rick_grimes
+198	113	[7, 11]	rick_grimes
+199	114	[10, 11]	daryl_dixon
+200	115		
+201	116	[3, 5]	maggie_greene
+202	116	[15, 17]	maggie_greene
+203	117		
+204	118	[4, 7]	glenn_rhee
+205	118	[12, 14]	maggie_greene
+206	118	[49, 52]	glenn_rhee
+207	118	[15, 18]	hershel_greene
+208	118	[32, 34]	hershel_greene
+209	119	[0, 1]	glenn_rhee
+210	120	[4, 8]	beth_greene
+211	120	[12, 13]	maggie_greene
+212	120	[19, 23]	beth_greene
+213	120	[26, 28]	multiple_persons
+214	121	[0, 2]	multiple_persons
+215	122	[4, 10]	hershel_greene
+216	123	[0, 1]	glenn_rhee
+217	123	[4, 5]	glenn_rhee
+218	123	[9, 10]	glenn_rhee
+219	123	[30, 34]	lori_grimes
+220	123	[17, 20]	beth_greene
+221	123	[37, 42]	UNKNOWN
+222	123	[45, 49]	UNKNOWN
+223	123	[58, 63]	UNKNOWN
+224	124		
+225	125	[0, 1]	glenn_rhee
+226	126	[0, 8]	patricia
+227	126	[11, 16]	jimmy
+228	127	[95, 97]	multiple_persons
+229	127	[116, 122]	sophia
+230	128		
+231	129		
+232	130	[4, 6]	glenn_rhee
+233	131	[24, 30]	maggie_greene
+234	131	[41, 43]	glenn_rhee
+235	131	[54, 56]	glenn_rhee
+236	131	[65, 67]	multiple_persons
+237	131	[80, 82]	multiple_persons
+238	131	[100, 101]	glenn_rhee
+239	131	[133, 134]	glenn_rhee
+240	131	[140, 143]	maggie_greene
+241	131	[146, 152]	maggie_greene
+242	131	[155, 156]	glenn_rhee
+243	131	[162, 165]	maggie_greene
+244	131	[168, 169]	glenn_rhee
+245	131	[243, 245]	multiple_persons
+246	131	[279, 281]	multiple_persons
+247	132		
+248	133	[31, 34]	lori_grimes
+249	133	[53, 55]	multiple_persons
+250	133	[75, 78]	lori_grimes
+251	133	[16, 19]	lori_grimes
+252	133	[22, 25]	rick_grimes
+253	134	[0, 6]	carl_grimes
+254	135	[13, 15]	multiple_persons
+255	135	[35, 38]	rick_grimes
+256	135	[67, 69]	multiple_persons
+257	135	[82, 85]	lori_grimes
+258	135	[61, 64]	lori_grimes
+259	136	[6, 9]	carl_grimes
+260	137	[15, 18]	lori_grimes
+261	138	[7, 11]	carl_grimes
+262	139		
+263	140	[0, 4]	rick_grimes
+264	140	[47, 48]	hershel_greene
+265	140	[67, 69]	hershel_greene
+266	140	[93, 94]	hershel_greene
+267	140	[115, 117]	multiple_persons
+268	140	[7, 10]	rick_grimes
+269	140	[26, 30]	rick_grimes
+270	141	[24, 26]	multiple_persons
+271	142	[14, 18]	rick_grimes
+272	142	[30, 31]	hershel_greene
+273	142	[79, 81]	hershel_greene
+274	142	[95, 96]	hershel_greene
+275	142	[106, 108]	hershel_greene
+276	142	[116, 117]	hershel_greene
+277	142	[127, 129]	hershel_greene
+278	142	[145, 147]	hershel_greene
+279	143	[0, 3]	hershel_greene
+280	144	[4, 7]	rick_grimes
+281	145	[0, 3]	hershel_greene
+282	146	[0, 1]	hershel_greene
+283	146	[96, 97]	hershel_greene
+284	146	[111, 113]	UNKNOWN
+285	147	[0, 2]	multiple_persons
+286	148	[6, 8]	multiple_persons
+287	149		
+288	150	[56, 60]	rick_grimes
+289	150	[83, 85]	multiple_persons
+290	150	[107, 112]	glenn_rhee
+291	151	[0, 2]	multiple_persons
+292	151	[40, 42]	multiple_persons
+293	151	[87, 89]	multiple_persons
+294	152	[0, 1]	lori_grimes
+295	152	[14, 18]	carl_grimes
+296	152	[21, 23]	carl_grimes
+297	153	[0, 1]	theodore_douglas
+298	153	[23, 25]	carl_grimes
+299	153	[32, 35]	carl_grimes
+300	154	[0, 3]	theodore_douglas
+301	155	[7, 9]	multiple_persons
+302	155	[27, 28]	theodore_douglas
+303	156	[21, 23]	lori_grimes
+304	157		
+305	158	[22, 25]	theodore_douglas
+306	158	[30, 32]	multiple_persons
+307	159	[0, 1]	theodore_douglas
+308	159	[17, 20]	lori_grimes
+309	160	[0, 1]	theodore_douglas-hershel_greene
+310	160	[2, 3]	theodore_douglas-hershel_greene
+311	160	[4, 7]	theodore_douglas-hershel_greene
+312	161	[0, 3]	multiple_persons
+313	161	[15, 19]	multiple_persons
+314	162		
+315	163	[0, 1]	hershel_greene
+316	163	[30, 32]	multiple_persons
+317	164	[0, 1]	carl_grimes
+318	164	[29, 32]	lori_grimes
+319	164	[5, 8]	carl_grimes
+320	165	[3, 5]	multiple_persons
+321	165	[49, 51]	rick_grimes
+322	165	[99, 101]	multiple_persons
+323	165	[59, 63]	hershel_greene
+324	166	[0, 3]	rick_grimes
+325	166	[91, 93]	multiple_persons
+326	166	[56, 59]	carl_grimes
+327	167	[0, 4]	carl_grimes
+328	167	[29, 30]	rick_grimes
+329	168		
+330	169	[9, 12]	multiple_persons
+331	170	[72, 74]	glenn_rhee
+332	171		
+333	172	[21, 23]	multiple_persons
+334	173	[0, 2]	multiple_persons
+335	174	[0, 5]	shane_walsh
+336	175	[0, 6]	andrea_harrison
+337	176	[10, 12]	carol_peletier
+338	176	[20, 21]	carol_peletier
+339	176	[0, 3]	andrea_harrison
+340	176	[27, 30]	andrea_harrison
+341	177	[0, 2]	multiple_persons
+342	177	[7, 10]	andrea_harrison
+343	178	[0, 8]	patricia
+344	179	[46, 48]	beth_greene
+345	179	[51, 52]	beth_greene
+346	179	[59, 60]	beth_greene
+347	179	[114, 119]	jimmy
+348	179	[134, 139]	jimmy
+349	179	[9, 12]	patricia
+350	179	[24, 27]	patricia
+351	179	[79, 82]	patricia
+352	179	[83, 88]	hershel_greene
+353	179	[91, 94]	patricia
+354	179	[126, 129]	multiple_persons
+355	180	[0, 2]	jimmy
+356	181	[19, 25]	andrea_harrison
+357	181	[0, 3]	multiple_persons
+358	182		
+359	183	[4, 7]	multiple_persons
+360	183	[12, 15]	andrea_harrison
+361	184	[0, 1]	daryl_dixon
+362	185		
+363	186	[0, 2]	multiple_persons
+364	186	[21, 24]	andrea_harrison
+365	187	[0, 2]	multiple_persons
+366	187	[23, 26]	andrea_harrison
+367	188	[0, 3]	andrea_harrison
+368	188	[19, 22]	andrea_harrison
+369	188	[32, 35]	andrea_harrison
+370	188	[57, 60]	andrea_harrison
+371	188	[95, 98]	andrea_harrison
+372	189	[3, 5]	multiple_persons
+373	189	[35, 38]	andrea_harrison
+374	190	[0, 2]	multiple_persons
+375	191	[0, 1]	theodore_douglas
+376	192	[96, 97]	daryl_dixon
+377	192	[102, 105]	UNKNOWN
+378	193		
+379	194		
+380	195		
+381	196		
+382	197	[0, 2]	multiple_persons
+383	198	[17, 19]	multiple_persons
+384	199	[0, 3]	rick_grimes
+385	200		
+386	201	[0, 2]	multiple_persons
+387	202	[0, 2]	multiple_persons
+388	203	[0, 2]	multiple_persons
+389	204		
+390	205	[0, 1]	carl_grimes
+391	206	[0, 2]	multiple_persons
+392	207	[0, 3]	multiple_persons
+393	207	[77, 80]	rick_grimes
+394	208		
+395	209	[0, 2]	multiple_persons
+396	209	[29, 32]	multiple_persons
+397	210	[6, 10]	maggie_greene
+398	210	[57, 61]	rick_grimes
+399	211	[12, 14]	multiple_persons
+400	211	[57, 59]	multiple_persons
+401	211	[93, 95]	multiple_persons
+402	212	[0, 5]	glenn_rhee
+403	212	[10, 11]	maggie_greene
+404	213	[5, 7]	multiple_persons
+405	214	[0, 4]	rick_grimes
+406	214	[7, 9]	multiple_persons
+407	215	[0, 1]	rick_grimes
+408	215	[22, 24]	multiple_persons
+409	215	[76, 78]	multiple_persons
+410	215	[98, 99]	rick_grimes
+411	215	[116, 117]	rick_grimes
+412	215	[139, 141]	multiple_persons
+413	215	[148, 150]	multiple_persons
+414	215	[166, 168]	multiple_persons
+415	215	[188, 190]	multiple_persons
+416	216	[0, 4]	rick_grimes
+417	217	[42, 44]	multiple_persons
+418	217	[64, 66]	multiple_persons
+419	217	[147, 148]	rick_grimes
+420	217	[172, 174]	multiple_persons
+421	218	[8, 10]	multiple_persons
+422	218	[31, 33]	multiple_persons
+423	218	[53, 55]	multiple_persons
+424	218	[126, 128]	multiple_persons
+425	219	[0, 2]	multiple_persons
+426	220	[0, 2]	multiple_persons
+427	221	[24, 27]	daryl_dixon
+428	222	[53, 60]	randall_culver
+429	223	[0, 3]	beth_greene
+430	223	[9, 10]	daryl_dixon
+431	223	[17, 24]	randall_culver
+432	223	[35, 37]	randall_culver
+433	223	[55, 57]	randall_culver
+434	224		
+435	225	[0, 4]	rick_grimes
+436	226	[0, 5]	shane_walsh
+437	226	[13, 20]	randall_culver
+438	226	[33, 35]	shane_walsh
+439	227	[22, 25]	shane_walsh
+440	228	[0, 2]	multiple_persons
+441	229		
+442	230	[25, 27]	rick_grimes
+443	230	[47, 49]	multiple_persons
+444	230	[13, 19]	edwin_jenner
+445	231	[4, 7]	rick_grimes
+446	232		
+447	233	[0, 3]	rick_grimes
+448	234	[10, 11]	rick_grimes
+449	234	[34, 37]	daryl_dixon
+450	235	[12, 16]	rick_grimes
+451	235	[36, 37]	glenn_rhee
+452	235	[80, 81]	glenn_rhee
+453	236	[7, 8]	rick_grimes
+454	237	[0, 1]	lori_grimes
+455	237	[10, 13]	rick_grimes
+456	237	[18, 22]	rick_grimes
+457	238	[0, 1]	rick_grimes
+458	238	[15, 16]	rick_grimes
+459	238	[43, 45]	rick_grimes
+460	238	[73, 75]	rick_grimes
+461	238	[109, 110]	rick_grimes
+462	238	[118, 119]	rick_grimes
+463	238	[136, 137]	rick_grimes
+464	238	[180, 182]	rick_grimes
+465	238	[207, 209]	rick_grimes
+466	238	[216, 217]	rick_grimes
+467	238	[247, 248]	rick_grimes
+468	238	[257, 258]	rick_grimes
+469	238	[308, 309]	rick_grimes
+470	238	[323, 324]	rick_grimes
+471	238	[340, 341]	rick_grimes
+472	238	[361, 362]	rick_grimes
+473	238	[393, 395]	rick_grimes
+474	238	[432, 433]	rick_grimes
+475	238	[440, 443]	lori_grimes
+476	238	[448, 452]	carl_grimes
+477	238	[468, 469]	rick_grimes
+478	238	[487, 488]	rick_grimes
+479	238	[511, 512]	rick_grimes
+480	238	[531, 532]	rick_grimes
+481	238	[570, 571]	rick_grimes
+482	238	[606, 610]	carl_grimes
+483	238	[9, 12]	shane_walsh
+484	238	[24, 29]	shane_walsh
+485	238	[32, 34]	shane_walsh
+486	238	[48, 50]	shane_walsh
+487	238	[58, 65]	randall_culver
+488	238	[93, 95]	shane_walsh
+489	238	[143, 146]	shane_walsh
+490	238	[164, 166]	shane_walsh
+491	238	[197, 199]	shane_walsh
+492	238	[222, 225]	shane_walsh
+493	238	[269, 271]	shane_walsh
+494	238	[289, 291]	shane_walsh
+495	238	[520, 523]	shane_walsh
+496	238	[540, 543]	shane_walsh
+497	238	[546, 548]	shane_walsh
+498	238	[577, 583]	edwin_jenner
+499	238	[587, 593]	edwin_jenner
+500	238	[615, 618]	shane_walsh
+501	239		
+502	240	[0, 2]	multiple_persons
+503	240	[61, 63]	multiple_persons
+504	240	[21, 24]	rick_grimes
+505	240	[82, 85]	rick_grimes
+506	240	[88, 90]	rick_grimes
+507	240	[73, 76]	daryl_dixon
+508	240	[111, 114]	daryl_dixon
+509	241	[5, 9]	rick_grimes
+510	241	[31, 33]	daryl_dixon
+511	242	[0, 3]	daryl_dixon
+512	242	[25, 26]	carol_peletier
+513	242	[41, 44]	daryl_dixon
+514	242	[8, 11]	rick_grimes
+515	243	[8, 11]	carol_peletier
+516	244		
+517	245	[0, 4]	rick_grimes
+518	246	[0, 1]	maggie_greene
+519	246	[8, 10]	multiple_persons
+520	246	[23, 26]	multiple_persons
+521	247		
+522	248		
+523	249		
+524	250		
+525	251	[0, 2]	multiple_persons
+526	251	[28, 30]	multiple_persons
+527	252		
+528	253		
+529	254	[16, 18]	multiple_persons
+530	255		
+531	256	[15, 17]	multiple_persons
+532	256	[71, 73]	multiple_persons
+533	257		
+534	258	[0, 1]	maggie_greene
+535	258	[78, 80]	multiple_persons
+536	258	[12, 15]	maggie_greene
+537	259		
+538	260		
+539	261	[0, 1]	rick_grimes
+540	261	[23, 24]	rick_grimes
+541	261	[66, 67]	rick_grimes
+542	261	[117, 118]	rick_grimes
+543	261	[142, 143]	rick_grimes
+544	261	[151, 153]	rick_grimes
+545	261	[243, 245]	rick_grimes
+546	261	[267, 269]	multiple_persons
+547	261	[290, 292]	multiple_persons
+548	261	[335, 337]	rick_grimes
+549	261	[361, 363]	rick_grimes
+550	261	[379, 381]	rick_grimes
+551	261	[401, 403]	rick_grimes
+552	261	[431, 433]	rick_grimes
+553	261	[170, 173]	multiple_persons
+554	261	[185, 191]	UNKNOWN
+555	261	[202, 205]	multiple_persons
+556	261	[215, 217]	shane_walsh
+557	261	[233, 235]	shane_walsh
+558	261	[252, 254]	shane_walsh
+559	261	[276, 278]	shane_walsh
+560	261	[295, 297]	shane_walsh
+561	261	[315, 322]	randall_culver
+562	261	[371, 373]	shane_walsh
+563	261	[394, 396]	shane_walsh
+564	261	[417, 419]	shane_walsh
+565	262	[0, 2]	rick_grimes
+566	263		
+567	264	[40, 42]	rick_grimes
+568	264	[56, 57]	rick_grimes
+569	264	[83, 85]	multiple_persons
+570	264	[154, 155]	rick_grimes
+571	264	[167, 173]	rick_grimes
+572	264	[247, 249]	rick_grimes
+573	264	[6, 9]	multiple_persons
+574	264	[193, 196]	multiple_persons
+575	264	[211, 214]	multiple_persons
+576	264	[231, 239]	multiple_persons
+577	264	[291, 294]	multiple_persons
+578	264	[330, 333]	multiple_persons

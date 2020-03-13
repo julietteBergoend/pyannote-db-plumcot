@@ -1,0 +1,899 @@
+	idSent	idChar	label
+0	1		
+1	2	[8, 10]	Moloch
+2	2	[0, 5]	carlos
+3	3		
+4	4	[3, 6]	carlos
+5	4	[12, 14]	Moloch
+6	4	[17, 18]	Moloch
+7	4	[28, 31]	carlos
+8	4	[59, 63]	carlos
+9	4	[49, 50]	Moloch
+10	5		
+11	6	[0, 3]	Moloch
+12	6	[9, 11]	carlos
+13	7		
+14	8	[88, 90]	multiple_persons
+15	8	[30, 36]	Moloch
+16	8	[0, 2]	Moloch
+17	8	[39, 41]	Moloch
+18	9		
+19	10	[145, 147]	multiple_persons
+20	10	[6, 12]	Moloch
+21	10	[19, 28]	Moloch
+22	10	[31, 33]	Moloch
+23	10	[87, 90]	Moloch
+24	10	[139, 142]	Moloch
+25	11		
+26	12	[30, 37]	UNKNOWN
+27	13		
+28	14		
+29	15	[30, 37]	UNKNOWN
+30	15	[50, 53]	Moloch
+31	15	[40, 41]	thelonius
+32	16		
+33	17	[0, 1]	thelonius
+34	17	[10, 13]	Moloch
+35	18		
+36	19		
+37	20		
+38	21	[7, 12]	Moloch
+39	22		
+40	23		
+41	24		
+42	25	[15, 21]	Moloch
+43	25	[9, 14]	Moloch
+44	26		
+45	27	[10, 11]	rupert_giles
+46	28	[7, 8]	dave
+47	29	[14, 18]	dave
+48	29	[25, 31]	willow_rosenberg
+49	30	[10, 11]	rupert_giles
+50	30	[30, 33]	multiple_persons
+51	31	[10, 16]	rupert_giles
+52	32		
+53	33	[5, 6]	jenny_calendar
+54	33	[14, 17]	multiple_persons
+55	33	[38, 41]	rupert_giles
+56	33	[53, 56]	rupert_giles
+57	33	[67, 69]	multiple_persons
+58	34	[4, 12]	jenny_calendar
+59	34	[15, 16]	rupert_giles
+60	34	[25, 29]	jenny_calendar
+61	34	[74, 75]	rupert_giles
+62	35		
+63	36	[0, 1]	rupert_giles
+64	37	[120, 123]	multiple_persons
+65	37	[144, 147]	multiple_persons
+66	38	[12, 17]	fritz
+67	38	[31, 33]	multiple_persons
+68	38	[64, 69]	fritz
+69	38	[72, 77]	fritz
+70	38	[109, 111]	fritz
+71	38	[132, 135]	rupert_giles
+72	39		
+73	40		
+74	41	[20, 21]	rupert_giles
+75	42	[0, 1]	jenny_calendar
+76	43	[0, 1]	willow_rosenberg
+77	43	[28, 29]	willow_rosenberg
+78	44		
+79	45	[0, 6]	xander_harris
+80	45	[33, 35]	willow_rosenberg
+81	45	[9, 12]	xander_harris
+82	46	[4, 7]	willow_rosenberg
+83	47	[20, 21]	willow_rosenberg
+84	48	[0, 6]	willow_rosenberg
+85	48	[9, 10]	xander_harris
+86	48	[16, 19]	willow_rosenberg
+87	49		
+88	50	[0, 5]	buffy_summers
+89	51	[0, 1]	rupert_giles
+90	51	[7, 8]	rupert_giles
+91	51	[53, 54]	rupert_giles
+92	51	[66, 67]	rupert_giles
+93	52	[4, 7]	rupert_giles
+94	53	[9, 10]	Moloch
+95	54	[0, 6]	willow_rosenberg
+96	54	[9, 15]	willow_rosenberg
+97	55	[5, 10]	buffy_summers
+98	55	[13, 14]	willow_rosenberg
+99	55	[32, 35]	buffy_summers
+100	56	[8, 10]	buffy_summers
+101	56	[38, 39]	buffy_summers
+102	56	[46, 50]	willow_rosenberg
+103	57	[5, 6]	willow_rosenberg
+104	57	[13, 14]	willow_rosenberg
+105	58	[37, 40]	willow_rosenberg
+106	59		
+107	60		
+108	61	[7, 8]	willow_rosenberg
+109	62	[0, 1]	buffy_summers
+110	62	[44, 47]	willow_rosenberg
+111	63	[16, 18]	multiple_persons
+112	64	[42, 45]	willow_rosenberg
+113	64	[5, 7]	malcolm
+114	64	[26, 29]	malcolm
+115	64	[53, 56]	malcolm
+116	64	[67, 69]	malcolm
+117	65	[5, 12]	malcolm
+118	66	[0, 3]	willow_rosenberg
+119	66	[40, 42]	buffy_summers
+120	67	[7, 8]	willow_rosenberg
+121	67	[73, 75]	multiple_persons
+122	67	[129, 134]	buffy_summers
+123	67	[168, 170]	multiple_persons
+124	67	[112, 114]	malcolm
+125	67	[147, 149]	malcolm
+126	68	[8, 10]	malcolm
+127	69	[0, 1]	willow_rosenberg
+128	70	[6, 7]	dave
+129	70	[15, 16]	dave
+130	71	[37, 40]	willow_rosenberg
+131	71	[112, 113]	buffy_summers
+132	71	[58, 60]	malcolm
+133	71	[5, 8]	willow_rosenberg
+134	72	[0, 1]	willow_rosenberg
+135	72	[6, 9]	malcolm
+136	73		
+137	74		
+138	75		
+139	76	[0, 5]	buffy_summers
+140	76	[12, 15]	buffy_summers
+141	77	[5, 6]	buffy_summers
+142	78		
+143	79		
+144	80	[0, 3]	willow_rosenberg
+145	81	[6, 9]	malcolm
+146	82	[17, 20]	willow_rosenberg
+147	82	[0, 1]	malcolm
+148	83	[0, 2]	malcolm
+149	84	[0, 2]	malcolm
+150	85	[12, 13]	willow_rosenberg
+151	86	[5, 11]	willow_rosenberg
+152	86	[14, 15]	buffy_summers
+153	86	[46, 49]	willow_rosenberg
+154	86	[86, 89]	willow_rosenberg
+155	86	[96, 99]	willow_rosenberg
+156	86	[146, 147]	buffy_summers
+157	87	[2, 3]	willow_rosenberg
+158	87	[19, 22]	buffy_summers
+159	88	[54, 57]	willow_rosenberg
+160	89	[11, 12]	willow_rosenberg
+161	89	[18, 21]	buffy_summers
+162	90		
+163	91	[0, 1]	buffy_summers
+164	91	[23, 26]	willow_rosenberg
+165	92	[0, 5]	buffy_summers
+166	93	[27, 30]	willow_rosenberg
+167	93	[0, 2]	malcolm
+168	94	[6, 9]	buffy_summers
+169	95	[12, 19]	malcolm
+170	95	[120, 122]	willow_rosenberg
+171	95	[0, 3]	malcolm
+172	95	[28, 30]	malcolm
+173	95	[45, 47]	malcolm
+174	95	[111, 113]	malcolm
+175	96		
+176	97		
+177	98	[37, 38]	buffy_summers
+178	98	[102, 105]	willow_rosenberg
+179	98	[54, 57]	multiple_persons
+180	98	[58, 62]	multiple_persons
+181	98	[120, 122]	malcolm
+182	99	[165, 166]	willow_rosenberg
+183	99	[17, 19]	malcolm
+184	99	[174, 177]	malcolm
+185	99	[124, 127]	multiple_persons
+186	100	[6, 7]	buffy_summers
+187	100	[63, 66]	willow_rosenberg
+188	100	[69, 70]	buffy_summers
+189	100	[94, 97]	willow_rosenberg
+190	100	[41, 43]	malcolm
+191	101	[6, 11]	fritz
+192	101	[16, 17]	jenny_calendar
+193	101	[59, 63]	dave
+194	101	[51, 54]	fritz
+195	102		
+196	103	[11, 12]	jenny_calendar
+197	104	[0, 3]	jenny_calendar
+198	105	[12, 14]	boy
+199	105	[81, 82]	boy
+200	105	[119, 121]	boy
+201	106		
+202	107	[5, 11]	xander_harris
+203	108		
+204	109	[0, 6]	xander_harris
+205	110	[5, 6]	xander_harris
+206	110	[24, 27]	willow_rosenberg
+207	110	[46, 48]	xander_harris
+208	110	[65, 67]	multiple_persons
+209	111	[4, 6]	willow_rosenberg
+210	111	[9, 10]	willow_rosenberg
+211	111	[17, 18]	willow_rosenberg
+212	112	[5, 12]	malcolm
+213	112	[30, 31]	xander_harris
+214	112	[44, 47]	willow_rosenberg
+215	112	[77, 78]	xander_harris
+216	112	[106, 107]	xander_harris
+217	112	[164, 166]	xander_harris
+218	113		
+219	114	[0, 3]	willow_rosenberg
+220	115	[52, 53]	xander_harris
+221	115	[100, 103]	buffy_summers
+222	115	[154, 157]	buffy_summers
+223	115	[234, 237]	buffy_summers
+224	115	[257, 259]	xander_harris
+225	116		
+226	117	[9, 12]	buffy_summers
+227	118	[0, 3]	xander_harris
+228	119		
+229	120	[0, 6]	willow_rosenberg
+230	120	[28, 34]	xander_harris
+231	121	[34, 35]	xander_harris
+232	121	[57, 63]	willow_rosenberg
+233	122	[11, 14]	xander_harris
+234	123	[25, 32]	malcolm
+235	123	[58, 59]	xander_harris
+236	123	[72, 74]	xander_harris
+237	123	[75, 78]	buffy_summers
+238	123	[47, 50]	malcolm
+239	124	[18, 19]	buffy_summers
+240	124	[49, 51]	malcolm
+241	125	[22, 23]	xander_harris
+242	125	[78, 79]	xander_harris
+243	125	[88, 89]	xander_harris
+244	125	[7, 9]	malcolm
+245	125	[36, 38]	malcolm
+246	125	[44, 46]	malcolm
+247	126	[0, 3]	xander_harris
+248	127	[11, 12]	xander_harris
+249	127	[31, 32]	xander_harris
+250	127	[65, 67]	xander_harris
+251	127	[70, 71]	xander_harris
+252	127	[93, 94]	xander_harris
+253	127	[105, 106]	xander_harris
+254	128	[0, 1]	buffy_summers
+255	128	[6, 10]	xander_harris
+256	128	[19, 20]	buffy_summers
+257	128	[25, 29]	xander_harris
+258	128	[118, 120]	malcolm
+259	128	[147, 149]	malcolm
+260	128	[71, 73]	malcolm
+261	129	[7, 8]	xander_harris
+262	129	[16, 18]	multiple_persons
+263	130	[0, 6]	willow_rosenberg
+264	130	[63, 65]	multiple_persons
+265	130	[80, 82]	multiple_persons
+266	130	[91, 97]	xander_harris
+267	130	[100, 103]	xander_harris
+268	130	[108, 110]	buffy_summers
+269	130	[121, 123]	multiple_persons
+270	131		
+271	132	[0, 1]	fritz
+272	132	[17, 18]	fritz
+273	132	[34, 35]	fritz
+274	133	[0, 1]	fritz
+275	134	[7, 10]	willow_rosenberg
+276	135	[0, 1]	willow_rosenberg
+277	136	[32, 39]	malcolm
+278	137		
+279	138		
+280	139	[0, 3]	buffy_summers
+281	140	[0, 1]	buffy_summers
+282	140	[18, 19]	buffy_summers
+283	140	[68, 71]	willow_rosenberg
+284	141	[9, 11]	willow_rosenberg
+285	142	[0, 2]	malcolm
+286	143	[0, 1]	willow_rosenberg
+287	143	[24, 27]	buffy_summers
+288	143	[40, 42]	willow_rosenberg
+289	143	[58, 59]	willow_rosenberg
+290	143	[85, 87]	willow_rosenberg
+291	143	[110, 111]	willow_rosenberg
+292	143	[120, 123]	buffy_summers
+293	143	[140, 142]	willow_rosenberg
+294	144	[0, 1]	buffy_summers
+295	144	[12, 15]	willow_rosenberg
+296	144	[125, 128]	willow_rosenberg
+297	144	[37, 40]	malcolm
+298	145	[0, 7]	malcolm
+299	145	[12, 13]	willow_rosenberg
+300	145	[57, 58]	willow_rosenberg
+301	146	[0, 1]	buffy_summers
+302	146	[10, 13]	willow_rosenberg
+303	146	[19, 22]	willow_rosenberg
+304	147	[0, 7]	malcolm
+305	147	[13, 16]	buffy_summers
+306	148	[0, 7]	malcolm
+307	149	[0, 4]	dave
+308	149	[19, 23]	dave
+309	150	[13, 16]	buffy_summers
+310	151	[0, 1]	buffy_summers
+311	151	[16, 19]	dave
+312	151	[33, 36]	dave
+313	152		
+314	153	[7, 10]	dave
+315	153	[55, 56]	buffy_summers
+316	153	[95, 96]	buffy_summers
+317	153	[142, 143]	buffy_summers
+318	153	[168, 170]	buffy_summers
+319	153	[179, 180]	buffy_summers
+320	154	[7, 10]	buffy_summers
+321	155		
+322	156		
+323	157	[6, 7]	buffy_summers
+324	157	[109, 110]	buffy_summers
+325	158		
+326	159	[9, 12]	dave
+327	159	[19, 25]	willow_rosenberg
+328	159	[50, 57]	malcolm
+329	159	[72, 75]	dave
+330	159	[88, 89]	buffy_summers
+331	160	[6, 12]	willow_rosenberg
+332	161	[8, 11]	dave
+333	162	[16, 20]	buffy_summers
+334	163	[0, 4]	dave
+335	163	[11, 14]	dave
+336	163	[15, 22]	malcolm
+337	164		
+338	165	[0, 4]	dave
+339	166	[7, 8]	dave
+340	166	[21, 24]	buffy_summers
+341	166	[40, 41]	dave
+342	167	[6, 8]	buffy_summers
+343	168	[0, 1]	buffy_summers
+344	168	[58, 64]	willow_rosenberg
+345	168	[67, 71]	dave
+346	168	[74, 79]	fritz
+347	168	[13, 16]	rupert_giles
+348	169		
+349	170	[0, 5]	rupert_giles
+350	170	[14, 16]	buffy_summers
+351	171	[0, 1]	rupert_giles
+352	171	[4, 5]	rupert_giles
+353	171	[11, 12]	rupert_giles
+354	171	[15, 16]	rupert_giles
+355	171	[19, 20]	rupert_giles
+356	171	[54, 57]	buffy_summers
+357	171	[97, 99]	rupert_giles
+358	171	[168, 169]	rupert_giles
+359	171	[184, 186]	rupert_giles
+360	171	[204, 205]	rupert_giles
+361	171	[208, 209]	rupert_giles
+362	171	[218, 221]	buffy_summers
+363	171	[240, 244]	dave
+364	171	[254, 256]	dave
+365	172	[7, 11]	dave
+366	172	[66, 67]	buffy_summers
+367	172	[86, 92]	buffy_summers
+368	173	[27, 28]	fritz
+369	173	[0, 3]	buffy_summers
+370	174	[5, 8]	buffy_summers
+371	175		
+372	176	[9, 13]	dave
+373	177		
+374	178	[20, 21]	buffy_summers
+375	179	[140, 141]	xander_harris
+376	180		
+377	181	[7, 9]	xander_harris
+378	181	[37, 38]	xander_harris
+379	182		
+380	183		
+381	184	[36, 37]	buffy_summers
+382	184	[46, 47]	buffy_summers
+383	185	[22, 26]	dave
+384	186	[36, 37]	buffy_summers
+385	186	[45, 47]	dave
+386	187	[0, 2]	multiple_persons
+387	188		
+388	189	[10, 11]	buffy_summers
+389	189	[47, 49]	buffy_summers
+390	190	[0, 4]	buffy_summers
+391	191		
+392	192	[20, 21]	rupert_giles
+393	192	[28, 30]	multiple_persons
+394	192	[105, 106]	rupert_giles
+395	193		
+396	194	[0, 1]	xander_harris
+397	195		
+398	196	[42, 43]	rupert_giles
+399	196	[64, 67]	multiple_persons
+400	197		
+401	198	[0, 1]	jenny_calendar
+402	198	[24, 28]	rupert_giles
+403	198	[55, 59]	rupert_giles
+404	198	[108, 109]	jenny_calendar
+405	198	[122, 125]	rupert_giles
+406	199	[5, 6]	rupert_giles
+407	199	[42, 45]	jenny_calendar
+408	199	[58, 61]	jenny_calendar
+409	200	[6, 9]	multiple_persons
+410	201	[0, 2]	multiple_persons
+411	202	[14, 17]	multiple_persons
+412	203	[0, 2]	multiple_persons
+413	204		
+414	205	[0, 1]	buffy_summers
+415	205	[8, 10]	multiple_persons
+416	205	[28, 31]	multiple_persons
+417	206	[0, 1]	xander_harris
+418	207	[0, 1]	malcolm
+419	207	[48, 54]	willow_rosenberg
+420	208	[0, 1]	willow_rosenberg
+421	208	[12, 15]	malcolm
+422	208	[23, 24]	willow_rosenberg
+423	208	[35, 38]	malcolm
+424	208	[44, 46]	willow_rosenberg
+425	209	[0, 1]	malcolm
+426	210	[3, 6]	malcolm
+427	210	[13, 15]	multiple_persons
+428	211	[0, 1]	malcolm
+429	211	[8, 10]	multiple_persons
+430	212	[0, 1]	willow_rosenberg
+431	213	[0, 1]	malcolm
+432	214	[13, 18]	buffy_summers
+433	214	[57, 60]	malcolm
+434	214	[70, 72]	willow_rosenberg
+435	215	[0, 5]	buffy_summers
+436	215	[39, 42]	buffy_summers
+437	215	[61, 64]	buffy_summers
+438	216	[8, 11]	malcolm
+439	217	[9, 12]	buffy_summers
+440	218	[0, 3]	willow_rosenberg
+441	219	[0, 1]	willow_rosenberg
+442	220	[23, 26]	buffy_summers
+443	221	[0, 1]	willow_rosenberg
+444	221	[21, 22]	willow_rosenberg
+445	221	[35, 38]	malcolm
+446	222		
+447	223		
+448	224	[0, 3]	rupert_giles
+449	225	[0, 1]	rupert_giles
+450	226	[5, 8]	rupert_giles
+451	226	[30, 33]	rupert_giles
+452	226	[36, 39]	rupert_giles
+453	227	[11, 12]	rupert_giles
+454	228	[20, 26]	rupert_giles
+455	228	[29, 31]	multiple_persons
+456	229	[149, 150]	rupert_giles
+457	230	[14, 15]	jenny_calendar
+458	230	[22, 25]	rupert_giles
+459	230	[54, 58]	rupert_giles
+460	231	[67, 71]	jenny_calendar
+461	232		
+462	233		
+463	234	[10, 11]	rupert_giles
+464	234	[58, 59]	rupert_giles
+465	235		
+466	236	[40, 41]	rupert_giles
+467	236	[108, 111]	jenny_calendar
+468	237	[0, 2]	multiple_persons
+469	238		
+470	239	[0, 1]	school_nurse
+471	239	[49, 52]	UNKNOWN
+472	240	[0, 5]	buffy_summers
+473	241	[0, 4]	dave
+474	241	[15, 18]	dave
+475	242	[19, 20]	dave
+476	242	[48, 49]	dave
+477	243		
+478	244	[0, 6]	willow_rosenberg
+479	244	[23, 26]	buffy_summers
+480	245	[7, 8]	buffy_summers
+481	245	[34, 37]	dave
+482	245	[25, 28]	willow_rosenberg
+483	245	[49, 52]	willow_rosenberg
+484	246	[0, 3]	willow_rosenberg
+485	246	[9, 12]	willow_rosenberg
+486	247		
+487	248	[0, 4]	willow_rosenberg
+488	249	[0, 6]	willow_rosenberg
+489	250	[0, 4]	willow_rosenberg
+490	250	[7, 10]	willow_rosenberg
+491	251	[0, 1]	buffy_summers
+492	252		
+493	253	[0, 5]	buffy_summers
+494	254	[0, 1]	dave
+495	254	[17, 18]	dave
+496	255	[4, 7]	dave
+497	256	[0, 5]	buffy_summers
+498	256	[25, 28]	Moloch
+499	257	[33, 36]	dave
+500	258	[5, 6]	dave
+501	259	[0, 1]	Moloch
+502	259	[12, 15]	dave
+503	259	[30, 34]	dave
+504	259	[59, 60]	Moloch
+505	259	[70, 73]	dave
+506	259	[91, 92]	Moloch
+507	259	[101, 105]	dave
+508	260		
+509	261	[0, 1]	xander_harris
+510	261	[17, 21]	dave
+511	262	[17, 19]	buffy_summers
+512	262	[0, 2]	dave
+513	263	[5, 8]	buffy_summers
+514	263	[21, 24]	buffy_summers
+515	263	[14, 16]	dave
+516	263	[33, 36]	buffy_summers
+517	264	[0, 3]	buffy_summers
+518	264	[48, 51]	buffy_summers
+519	264	[75, 81]	buffy_summers
+520	265	[5, 7]	buffy_summers
+521	265	[27, 29]	buffy_summers
+522	266	[20, 24]	buffy_summers
+523	267		
+524	268	[0, 1]	buffy_summers
+525	268	[11, 12]	buffy_summers
+526	268	[47, 51]	dave
+527	269	[0, 1]	rupert_giles
+528	269	[16, 17]	rupert_giles
+529	270	[37, 40]	multiple_persons
+530	271		
+531	272	[0, 1]	xander_harris
+532	273	[173, 174]	rupert_giles
+533	273	[197, 203]	Moloch
+534	273	[210, 219]	Moloch
+535	273	[258, 260]	Moloch
+536	273	[277, 280]	Moloch
+537	274	[5, 9]	dave
+538	275	[0, 4]	dave
+539	276	[4, 10]	Moloch
+540	277		
+541	278	[13, 19]	Moloch
+542	278	[0, 3]	rupert_giles
+543	279		
+544	280	[0, 1]	rupert_giles
+545	280	[34, 42]	jenny_calendar
+546	281		
+547	282	[0, 1]	xander_harris
+548	282	[49, 53]	dave
+549	282	[56, 57]	xander_harris
+550	282	[92, 97]	buffy_summers
+551	282	[7, 9]	Moloch
+552	282	[77, 79]	Moloch
+553	282	[98, 105]	Moloch
+554	283	[0, 1]	rupert_giles
+555	283	[20, 21]	rupert_giles
+556	284		
+557	285		
+558	286		
+559	287	[5, 7]	Moloch
+560	287	[26, 28]	Moloch
+561	288		
+562	289	[21, 23]	multiple_persons
+563	289	[0, 2]	Moloch
+564	290	[20, 22]	multiple_persons
+565	290	[26, 29]	multiple_persons
+566	290	[56, 58]	xander_harris
+567	290	[61, 64]	multiple_persons
+568	290	[65, 69]	multiple_persons
+569	290	[86, 92]	Moloch
+570	291		
+571	292	[0, 2]	Moloch
+572	293	[9, 11]	multiple_persons
+573	294	[0, 6]	willow_rosenberg
+574	294	[72, 73]	rupert_giles
+575	294	[82, 84]	multiple_persons
+576	294	[15, 18]	Moloch
+577	294	[24, 27]	Moloch
+578	295		
+579	296		
+580	297	[49, 55]	willow_rosenberg
+581	297	[88, 89]	buffy_summers
+582	297	[31, 34]	multiple_persons
+583	298	[15, 21]	willow_rosenberg
+584	298	[38, 42]	buffy_summers
+585	299	[16, 23]	malcolm
+586	300		
+587	301		
+588	302	[4, 6]	multiple_persons
+589	302	[22, 24]	Moloch
+590	302	[53, 55]	Moloch
+591	303	[0, 3]	xander_harris
+592	303	[63, 65]	buffy_summers
+593	303	[68, 69]	buffy_summers
+594	304		
+595	305	[24, 27]	multiple_persons
+596	306		
+597	307	[0, 1]	buffy_summers
+598	307	[8, 9]	buffy_summers
+599	308	[8, 13]	buffy_summers
+600	309	[24, 25]	xander_harris
+601	309	[67, 69]	multiple_persons
+602	309	[7, 9]	Moloch
+603	310	[0, 1]	buffy_summers
+604	310	[24, 26]	multiple_persons
+605	310	[38, 44]	willow_rosenberg
+606	310	[108, 110]	buffy_summers
+607	310	[47, 50]	willow_rosenberg
+608	310	[74, 77]	Moloch
+609	310	[90, 93]	UNKNOWN
+610	311	[23, 29]	willow_rosenberg
+611	311	[10, 12]	Moloch
+612	312	[31, 32]	buffy_summers
+613	312	[86, 89]	Moloch
+614	312	[72, 75]	multiple_persons
+615	312	[76, 80]	multiple_persons
+616	313	[0, 6]	willow_rosenberg
+617	314		
+618	315		
+619	316	[35, 38]	willow_rosenberg
+620	317	[0, 3]	willow_rosenberg
+621	318	[9, 12]	buffy_summers
+622	319	[0, 6]	willow_rosenberg
+623	320	[0, 4]	dave
+624	320	[7, 9]	dave
+625	321		
+626	322		
+627	323	[24, 26]	xander_harris
+628	324	[0, 1]	buffy_summers
+629	324	[11, 16]	fritz
+630	324	[67, 68]	buffy_summers
+631	324	[86, 92]	willow_rosenberg
+632	324	[104, 109]	rupert_giles
+633	324	[59, 62]	xander_harris
+634	324	[112, 115]	rupert_giles
+635	325	[0, 1]	rupert_giles
+636	325	[4, 5]	rupert_giles
+637	326	[13, 21]	jenny_calendar
+638	326	[43, 46]	rupert_giles
+639	326	[30, 33]	jenny_calendar
+640	327	[34, 35]	rupert_giles
+641	327	[15, 18]	jenny_calendar
+642	327	[52, 55]	jenny_calendar
+643	328	[19, 22]	rupert_giles
+644	329	[6, 9]	willow_rosenberg's_father
+645	329	[0, 3]	willow_rosenberg's_mother
+646	330	[0, 3]	willow_rosenberg
+647	331	[25, 28]	willow_rosenberg
+648	331	[18, 19]	malcolm
+649	331	[36, 38]	malcolm
+650	332	[0, 3]	willow_rosenberg
+651	333	[0, 3]	willow_rosenberg's_father
+652	333	[10, 13]	willow_rosenberg's_father
+653	333	[21, 25]	willow_rosenberg's_father
+654	334		
+655	335		
+656	336		
+657	337		
+658	338	[5, 6]	jenny_calendar
+659	338	[11, 15]	rupert_giles
+660	339	[33, 34]	rupert_giles
+661	339	[40, 44]	jenny_calendar
+662	339	[75, 76]	rupert_giles
+663	339	[82, 85]	jenny_calendar
+664	339	[119, 122]	jenny_calendar
+665	340	[0, 1]	jenny_calendar
+666	341	[0, 6]	willow_rosenberg
+667	342		
+668	343	[0, 6]	willow_rosenberg
+669	344	[0, 6]	willow_rosenberg
+670	345		
+671	346	[20, 21]	buffy_summers
+672	346	[38, 40]	buffy_summers
+673	346	[49, 52]	Moloch
+674	346	[27, 30]	xander_harris
+675	347		
+676	348		
+677	349	[0, 1]	xander_harris
+678	349	[22, 28]	Moloch
+679	350	[17, 20]	multiple_persons
+680	350	[50, 55]	rupert_giles
+681	350	[65, 67]	multiple_persons
+682	351	[0, 3]	rupert_giles
+683	352	[45, 46]	jenny_calendar
+684	352	[92, 95]	rupert_giles
+685	352	[117, 118]	jenny_calendar
+686	352	[138, 139]	jenny_calendar
+687	352	[185, 186]	jenny_calendar
+688	352	[246, 252]	UNKNOWN
+689	353	[6, 12]	Moloch
+690	354	[27, 28]	jenny_calendar
+691	354	[50, 51]	jenny_calendar
+692	354	[4, 13]	Moloch
+693	355	[7, 10]	jenny_calendar
+694	355	[56, 59]	jenny_calendar
+695	356	[0, 1]	jenny_calendar
+696	357		
+697	358	[27, 30]	rupert_giles
+698	358	[18, 24]	rupert_giles
+699	359	[4, 7]	jenny_calendar
+700	360	[5, 6]	jenny_calendar
+701	361	[18, 20]	multiple_persons
+702	361	[26, 29]	rupert_giles
+703	362	[12, 15]	jenny_calendar
+704	362	[36, 38]	rupert_giles
+705	363	[0, 1]	rupert_giles
+706	363	[41, 42]	rupert_giles
+707	363	[64, 66]	rupert_giles
+708	364	[7, 8]	jenny_calendar
+709	364	[20, 21]	jenny_calendar
+710	364	[32, 33]	jenny_calendar
+711	364	[41, 42]	jenny_calendar
+712	364	[65, 67]	jenny_calendar
+713	364	[86, 89]	rupert_giles
+714	364	[99, 101]	Moloch
+715	365	[40, 41]	rupert_giles
+716	365	[0, 2]	Moloch
+717	366	[4, 7]	rupert_giles
+718	366	[13, 16]	Moloch
+719	367	[0, 5]	buffy_summers
+720	368		
+721	369	[0, 6]	willow_rosenberg
+722	370	[28, 31]	willow_rosenberg
+723	371	[10, 13]	buffy_summers
+724	372	[28, 34]	willow_rosenberg
+725	373	[4, 12]	jenny_calendar
+726	373	[17, 18]	rupert_giles
+727	373	[45, 51]	Moloch
+728	374		
+729	375	[10, 12]	Moloch
+730	376	[0, 1]	Moloch
+731	376	[14, 17]	willow_rosenberg
+732	376	[40, 43]	willow_rosenberg
+733	377	[9, 11]	Moloch
+734	378	[0, 6]	willow_rosenberg
+735	379	[0, 7]	malcolm
+736	380	[37, 38]	Moloch
+737	380	[84, 86]	Moloch
+738	380	[89, 90]	Moloch
+739	380	[111, 115]	multiple_persons
+740	381		
+741	382		
+742	383		
+743	384	[16, 18]	multiple_persons
+744	384	[52, 59]	UNKNOWN
+745	385	[41, 43]	multiple_persons
+746	386	[0, 3]	rupert_giles
+747	386	[25, 31]	rupert_giles
+748	386	[34, 36]	multiple_persons
+749	386	[70, 71]	jenny_calendar
+750	386	[97, 98]	jenny_calendar
+751	386	[119, 121]	jenny_calendar
+752	387	[24, 27]	jenny_calendar
+753	387	[7, 13]	Moloch
+754	388	[7, 8]	jenny_calendar
+755	388	[46, 48]	multiple_persons
+756	388	[20, 22]	Moloch
+757	389	[34, 36]	multiple_persons
+758	390	[0, 3]	rupert_giles
+759	390	[32, 34]	jenny_calendar
+760	391	[0, 1]	willow_rosenberg
+761	391	[44, 46]	willow_rosenberg
+762	391	[30, 33]	Moloch
+763	392	[0, 1]	Moloch
+764	392	[15, 18]	willow_rosenberg
+765	393		
+766	394	[0, 3]	willow_rosenberg
+767	394	[12, 14]	Moloch
+768	394	[17, 18]	Moloch
+769	394	[58, 60]	Moloch
+770	394	[76, 79]	willow_rosenberg
+771	394	[87, 89]	Moloch
+772	394	[102, 104]	Moloch
+773	394	[131, 133]	Moloch
+774	394	[136, 137]	Moloch
+775	394	[152, 155]	willow_rosenberg
+776	395	[12, 14]	willow_rosenberg
+777	395	[59, 62]	Moloch
+778	395	[69, 71]	willow_rosenberg
+779	396	[0, 1]	Moloch
+780	397	[5, 10]	buffy_summers
+781	398	[6, 9]	willow_rosenberg
+782	399		
+783	400	[17, 18]	Moloch
+784	400	[45, 46]	Moloch
+785	400	[162, 165]	UNKNOWN
+786	400	[192, 195]	UNKNOWN
+787	400	[7, 10]	willow_rosenberg
+788	400	[28, 31]	willow_rosenberg
+789	401	[0, 1]	buffy_summers
+790	402		
+791	403		
+792	404		
+793	405		
+794	406		
+795	407	[10, 13]	jenny_calendar
+796	407	[24, 30]	Moloch
+797	408	[0, 3]	rupert_giles
+798	408	[42, 44]	multiple_persons
+799	408	[54, 57]	rupert_giles
+800	408	[65, 66]	jenny_calendar
+801	409	[5, 6]	rupert_giles
+802	409	[70, 71]	rupert_giles
+803	409	[80, 83]	jenny_calendar
+804	410	[4, 6]	willow_rosenberg
+805	411	[4, 5]	Moloch
+806	411	[11, 14]	willow_rosenberg
+807	412	[35, 38]	Moloch
+808	413	[0, 3]	willow_rosenberg
+809	413	[8, 12]	Moloch
+810	414	[0, 1]	willow_rosenberg
+811	414	[17, 18]	willow_rosenberg
+812	414	[38, 43]	Moloch
+813	415		
+814	416	[40, 41]	rupert_giles
+815	416	[50, 53]	Moloch
+816	416	[58, 65]	UNKNOWN
+817	416	[30, 37]	UNKNOWN
+818	417	[0, 1]	Moloch
+819	417	[11, 14]	willow_rosenberg
+820	418	[0, 5]	Moloch
+821	419	[0, 1]	rupert_giles
+822	419	[10, 13]	Moloch
+823	420		
+824	421	[5, 6]	Moloch
+825	422	[0, 5]	Moloch
+826	423	[6, 7]	xander_harris
+827	424	[0, 2]	Moloch
+828	424	[25, 27]	Moloch
+829	425	[0, 2]	Moloch
+830	426	[0, 2]	Moloch
+831	426	[40, 42]	Moloch
+832	427		
+833	428		
+834	429	[0, 1]	Moloch
+835	429	[19, 20]	Moloch
+836	429	[42, 43]	Moloch
+837	430	[0, 7]	malcolm
+838	431	[9, 11]	willow_rosenberg
+839	431	[14, 18]	malcolm
+840	432	[7, 8]	willow_rosenberg
+841	432	[26, 28]	multiple_persons
+842	433	[9, 11]	multiple_persons
+843	434	[17, 18]	Moloch
+844	434	[57, 60]	multiple_persons
+845	435	[5, 9]	Moloch
+846	436	[37, 39]	jenny_calendar
+847	436	[48, 51]	rupert_giles
+848	437	[0, 1]	rupert_giles
+849	437	[39, 40]	rupert_giles
+850	437	[77, 78]	rupert_giles
+851	437	[124, 125]	rupert_giles
+852	437	[137, 140]	jenny_calendar
+853	438		
+854	439	[12, 13]	rupert_giles
+855	439	[20, 21]	rupert_giles
+856	439	[30, 33]	jenny_calendar
+857	440	[40, 43]	rupert_giles
+858	441	[13, 14]	rupert_giles
+859	441	[64, 65]	rupert_giles
+860	442	[14, 18]	rupert_giles
+861	443	[46, 49]	rupert_giles
+862	444		
+863	445	[27, 33]	rupert_giles
+864	446	[0, 1]	rupert_giles
+865	447	[7, 10]	rupert_giles
+866	447	[55, 58]	rupert_giles
+867	448	[7, 8]	rupert_giles
+868	448	[11, 12]	rupert_giles
+869	448	[44, 46]	rupert_giles
+870	449	[18, 19]	jenny_calendar
+871	450	[0, 2]	multiple_persons
+872	450	[37, 39]	multiple_persons
+873	451		
+874	452	[7, 13]	willow_rosenberg
+875	452	[54, 57]	willow_rosenberg
+876	453	[5, 6]	willow_rosenberg
+877	453	[23, 24]	willow_rosenberg
+878	454	[0, 7]	malcolm
+879	455	[0, 7]	malcolm
+880	455	[78, 80]	willow_rosenberg
+881	455	[134, 136]	willow_rosenberg
+882	455	[10, 16]	Moloch
+883	455	[30, 32]	Moloch
+884	455	[87, 89]	Moloch
+885	456	[31, 34]	willow_rosenberg
+886	457	[0, 1]	willow_rosenberg
+887	457	[9, 10]	willow_rosenberg
+888	457	[19, 20]	willow_rosenberg
+889	458	[10, 13]	willow_rosenberg
+890	458	[35, 36]	buffy_summers
+891	458	[64, 65]	buffy_summers
+892	459	[24, 25]	xander_harris
+893	460		
+894	461		
+895	462	[25, 27]	multiple_persons
+896	463	[0, 2]	multiple_persons
+897	464		

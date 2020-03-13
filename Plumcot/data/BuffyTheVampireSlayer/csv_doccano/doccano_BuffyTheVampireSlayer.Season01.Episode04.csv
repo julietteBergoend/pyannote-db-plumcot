@@ -1,0 +1,886 @@
+	idSent	idChar	label
+0	1	[4, 5]	xander_harris
+1	2	[0, 3]	buffy_summers
+2	3	[10, 13]	xander_harris
+3	4	[0, 3]	xander_harris
+4	4	[9, 13]	xander_harris
+5	4	[26, 29]	xander_harris
+6	5	[11, 13]	xander_harris
+7	5	[28, 31]	buffy_summers
+8	5	[37, 40]	buffy_summers
+9	6	[0, 3]	buffy_summers
+10	7	[0, 6]	xander_harris
+11	8	[0, 3]	xander_harris
+12	9	[38, 40]	multiple_persons
+13	9	[86, 88]	multiple_persons
+14	10	[9, 12]	multiple_persons
+15	10	[31, 34]	multiple_persons
+16	11	[5, 12]	buffy_summers
+17	12		
+18	13		
+19	14		
+20	15		
+21	16		
+22	17		
+23	18		
+24	19		
+25	20		
+26	21		
+27	22	[6, 9]	UNKNOWN
+28	23	[45, 52]	buffy_summers
+29	23	[83, 92]	willow_rosenberg
+30	23	[112, 115]	multiple_persons
+31	24	[64, 65]	dr_gregory
+32	24	[70, 73]	buffy_summers
+33	25	[0, 1]	dr_gregory
+34	25	[9, 12]	buffy_summers
+35	25	[35, 39]	buffy_summers
+36	26		
+37	27	[57, 66]	principal_bob_flutie
+38	27	[81, 83]	dr_gregory
+39	27	[84, 88]	buffy_summers
+40	27	[67, 73]	principal_bob_flutie
+41	28	[19, 20]	buffy_summers
+42	29	[24, 27]	buffy_summers
+43	30	[25, 27]	buffy_summers
+44	30	[0, 9]	buffy_summers
+45	30	[10, 14]	buffy_summers
+46	31	[4, 5]	dr_gregory
+47	32	[0, 3]	dr_gregory
+48	33	[0, 3]	buffy_summers
+49	33	[33, 36]	buffy_summers
+50	33	[50, 54]	buffy_summers
+51	33	[75, 78]	buffy_summers
+52	33	[99, 102]	buffy_summers
+53	34		
+54	35	[21, 22]	dr_gregory
+55	35	[34, 37]	buffy_summers
+56	35	[104, 105]	dr_gregory
+57	35	[120, 121]	dr_gregory
+58	35	[127, 130]	buffy_summers
+59	35	[164, 165]	dr_gregory
+60	36		
+61	37	[61, 70]	principal_bob_flutie
+62	37	[112, 115]	buffy_summers
+63	38		
+64	39		
+65	40	[27, 28]	blayne_moll
+66	40	[38, 41]	boy
+67	40	[18, 24]	UNKNOWN
+68	40	[53, 56]	UNKNOWN
+69	41	[6, 12]	UNKNOWN
+70	42	[46, 49]	UNKNOWN
+71	42	[57, 59]	blayne_moll
+72	42	[122, 124]	blayne_moll
+73	43		
+74	44	[0, 6]	xander_harris
+75	44	[24, 27]	xander_harris
+76	45		
+77	46		
+78	47	[4, 6]	multiple_persons
+79	48		
+80	49		
+81	50	[9, 12]	xander_harris
+82	51	[10, 12]	xander_harris
+83	51	[20, 26]	blayne_moll
+84	51	[53, 55]	xander_harris
+85	51	[68, 69]	xander_harris
+86	51	[90, 93]	blayne_moll
+87	52	[0, 2]	multiple_persons
+88	52	[12, 15]	blayne_moll
+89	53	[0, 1]	buffy_summers
+90	54	[0, 1]	xander_harris
+91	54	[23, 25]	xander_harris
+92	55		
+93	56	[13, 18]	angel
+94	56	[21, 22]	willow_rosenberg
+95	57	[27, 30]	buffy_summers
+96	58	[14, 15]	willow_rosenberg
+97	58	[24, 27]	xander_harris
+98	58	[8, 11]	angel
+99	59	[7, 9]	angel
+100	59	[20, 23]	buffy_summers
+101	59	[50, 53]	angel
+102	60	[0, 3]	xander_harris
+103	60	[10, 12]	angel
+104	61	[0, 2]	angel
+105	62		
+106	63		
+107	64	[0, 1]	buffy_summers
+108	64	[27, 30]	angel
+109	64	[42, 44]	multiple_persons
+110	65	[0, 1]	angel
+111	66	[5, 8]	angel
+112	66	[23, 25]	buffy_summers
+113	67	[0, 3]	buffy_summers
+114	68	[0, 3]	angel
+115	69	[0, 1]	angel
+116	69	[9, 12]	buffy_summers
+117	70	[22, 26]	angel
+118	70	[18, 21]	buffy_summers
+119	71	[16, 18]	buffy_summers
+120	72	[0, 1]	angel
+121	73		
+122	74	[0, 2]	UNKNOWN
+123	75	[0, 3]	UNKNOWN
+124	75	[4, 8]	UNKNOWN
+125	75	[9, 12]	UNKNOWN
+126	76	[11, 14]	UNKNOWN
+127	76	[22, 25]	buffy_summers
+128	76	[40, 43]	UNKNOWN
+129	76	[64, 66]	UNKNOWN
+130	76	[75, 79]	buffy_summers
+131	77	[7, 8]	buffy_summers
+132	77	[18, 21]	angel
+133	78	[0, 1]	angel
+134	79	[16, 19]	angel
+135	80	[22, 26]	UNKNOWN
+136	80	[27, 30]	UNKNOWN
+137	80	[12, 14]	angel
+138	81	[31, 35]	UNKNOWN
+139	81	[36, 39]	UNKNOWN
+140	82	[0, 1]	rupert_giles
+141	82	[39, 43]	buffy_summers
+142	83	[0, 1]	rupert_giles
+143	83	[15, 16]	rupert_giles
+144	83	[32, 35]	UNKNOWN
+145	84	[42, 44]	multiple_persons
+146	85		
+147	86		
+148	87	[22, 23]	xander_harris
+149	87	[58, 65]	dr_gregory
+150	87	[90, 92]	multiple_persons
+151	87	[106, 109]	multiple_persons
+152	87	[146, 148]	multiple_persons
+153	88	[19, 21]	dr_gregory
+154	89		
+155	90	[0, 2]	dr_gregory
+156	91	[11, 13]	xander_harris
+157	92		
+158	93		
+159	94	[51, 56]	buffy_summers
+160	94	[0, 2]	dr_gregory
+161	95	[0, 1]	xander_harris
+162	95	[20, 21]	xander_harris
+163	95	[30, 32]	dr_gregory
+164	96	[0, 1]	xander_harris
+165	97		
+166	98	[6, 9]	xander_harris
+167	98	[15, 17]	natalie_french
+168	99		
+169	100	[0, 1]	natalie_french
+170	101		
+171	102	[0, 1]	xander_harris
+172	103	[5, 8]	UNKNOWN
+173	104	[5, 11]	blayne_moll
+174	104	[19, 20]	blayne_moll
+175	104	[91, 92]	blayne_moll
+176	104	[12, 16]	blayne_moll
+177	105	[17, 23]	blayne_moll
+178	106	[54, 57]	multiple_persons
+179	106	[63, 66]	multiple_persons
+180	107		
+181	108	[4, 11]	dr_gregory
+182	108	[20, 23]	dr_gregory
+183	108	[50, 52]	dr_gregory
+184	109	[0, 2]	natalie_french
+185	109	[11, 18]	natalie_french
+186	109	[19, 25]	natalie_french
+187	109	[32, 33]	natalie_french
+188	109	[63, 70]	dr_gregory
+189	110	[3, 6]	natalie_french
+190	110	[17, 19]	dr_gregory
+191	111	[5, 6]	natalie_french
+192	111	[21, 26]	buffy_summers
+193	111	[53, 55]	natalie_french
+194	111	[72, 74]	natalie_french
+195	112	[0, 1]	blayne_moll
+196	112	[11, 14]	natalie_french
+197	112	[21, 22]	blayne_moll
+198	112	[28, 31]	natalie_french
+199	113	[7, 9]	natalie_french
+200	113	[12, 18]	blayne_moll
+201	114	[5, 6]	blayne_moll
+202	114	[63, 70]	dr_gregory
+203	114	[29, 32]	multiple_persons
+204	115	[21, 23]	natalie_french
+205	115	[6, 9]	dr_gregory
+206	115	[24, 27]	multiple_persons
+207	116	[83, 85]	natalie_french
+208	116	[92, 97]	buffy_summers
+209	117		
+210	118		
+211	119		
+212	120		
+213	121		
+214	122	[27, 30]	UNKNOWN
+215	122	[4, 14]	UNKNOWN
+216	122	[15, 21]	UNKNOWN
+217	123	[29, 31]	UNKNOWN
+218	123	[42, 45]	UNKNOWN
+219	123	[53, 56]	UNKNOWN
+220	123	[153, 156]	UNKNOWN
+221	123	[165, 168]	UNKNOWN
+222	123	[201, 204]	UNKNOWN
+223	124	[11, 13]	multiple_persons
+224	124	[93, 95]	natalie_french
+225	124	[0, 3]	multiple_persons
+226	125		
+227	126	[30, 32]	buffy_summers
+228	127	[5, 7]	willow_rosenberg
+229	127	[26, 27]	willow_rosenberg
+230	127	[62, 64]	willow_rosenberg
+231	128	[0, 1]	xander_harris
+232	128	[26, 28]	xander_harris
+233	128	[14, 17]	natalie_french
+234	129	[5, 11]	natalie_french
+235	129	[14, 17]	natalie_french
+236	130	[5, 6]	buffy_summers
+237	131		
+238	132	[77, 80]	natalie_french
+239	133		
+240	134	[7, 9]	xander_harris
+241	135		
+242	136		
+243	137	[19, 21]	blayne_moll
+244	137	[47, 53]	natalie_french
+245	137	[102, 105]	xander_harris
+246	137	[123, 124]	blayne_moll
+247	137	[70, 75]	xander_harris
+248	138		
+249	139	[7, 10]	buffy_summers
+250	140	[29, 31]	cordelia_chase
+251	140	[58, 59]	cordelia_chase
+252	140	[88, 89]	cordelia_chase
+253	140	[99, 101]	cordelia_chase
+254	141	[27, 29]	cordelia_chase
+255	141	[0, 3]	dr_gregory
+256	141	[11, 14]	dr_gregory
+257	141	[30, 33]	UNKNOWN
+258	141	[45, 48]	dr_gregory
+259	142		
+260	143		
+261	144	[0, 1]	xander_harris
+262	145	[0, 1]	xander_harris
+263	145	[9, 10]	xander_harris
+264	146	[25, 32]	dr_gregory
+265	147	[51, 52]	rupert_giles
+266	147	[92, 93]	rupert_giles
+267	147	[5, 7]	dr_gregory
+268	147	[67, 69]	dr_gregory
+269	147	[100, 103]	dr_gregory
+270	148	[7, 9]	buffy_summers
+271	149	[7, 9]	multiple_persons
+272	149	[45, 47]	multiple_persons
+273	149	[66, 68]	multiple_persons
+274	150		
+275	151	[8, 10]	multiple_persons
+276	152	[55, 56]	buffy_summers
+277	152	[82, 84]	multiple_persons
+278	152	[24, 26]	dr_gregory
+279	152	[89, 92]	dr_gregory
+280	153	[7, 10]	buffy_summers
+281	154	[0, 2]	dr_gregory
+282	154	[18, 21]	dr_gregory
+283	155	[87, 90]	dr_gregory
+284	156	[13, 14]	willow_rosenberg
+285	157	[0, 5]	angel
+286	157	[18, 20]	buffy_summers
+287	157	[8, 10]	angel
+288	158	[32, 33]	rupert_giles
+289	158	[39, 40]	rupert_giles
+290	158	[62, 63]	rupert_giles
+291	158	[117, 123]	the_master
+292	158	[126, 129]	multiple_persons
+293	158	[230, 236]	the_master
+294	158	[10, 12]	angel
+295	158	[27, 29]	angel
+296	158	[51, 53]	angel
+297	158	[245, 248]	UNKNOWN
+298	159	[8, 11]	UNKNOWN
+299	160	[0, 1]	rupert_giles
+300	160	[19, 21]	UNKNOWN
+301	161	[15, 17]	UNKNOWN
+302	161	[31, 38]	dr_gregory
+303	162	[0, 1]	rupert_giles
+304	162	[17, 19]	UNKNOWN
+305	163	[57, 59]	UNKNOWN
+306	163	[115, 122]	dr_gregory
+307	164	[0, 4]	UNKNOWN
+308	164	[5, 8]	UNKNOWN
+309	165		
+310	166	[8, 15]	dr_gregory
+311	167	[82, 84]	multiple_persons
+312	168	[0, 2]	multiple_persons
+313	169	[69, 71]	multiple_persons
+314	169	[122, 124]	UNKNOWN
+315	169	[134, 137]	multiple_persons
+316	170		
+317	171	[0, 5]	buffy_summers
+318	171	[8, 9]	rupert_giles
+319	171	[15, 18]	buffy_summers
+320	171	[84, 86]	multiple_persons
+321	171	[114, 116]	rupert_giles
+322	171	[117, 120]	buffy_summers
+323	172	[6, 8]	buffy_summers
+324	173	[41, 45]	buffy_summers
+325	174	[38, 39]	Voices
+326	174	[23, 26]	UNKNOWN
+327	175	[0, 1]	Voices
+328	176	[0, 3]	buffy_summers
+329	177		
+330	178	[5, 8]	buffy_summers
+331	178	[17, 19]	rupert_giles
+332	178	[20, 23]	buffy_summers
+333	179	[6, 7]	buffy_summers
+334	179	[15, 16]	buffy_summers
+335	180	[4, 7]	buffy_summers
+336	181		
+337	182	[26, 29]	buffy_summers
+338	183	[4, 5]	buffy_summers
+339	183	[64, 68]	rupert_giles
+340	184		
+341	185	[17, 23]	natalie_french
+342	185	[62, 69]	dr_gregory
+343	185	[3, 6]	rupert_giles
+344	186	[12, 15]	natalie_french
+345	187	[7, 8]	buffy_summers
+346	187	[118, 121]	natalie_french
+347	187	[20, 24]	UNKNOWN
+348	187	[25, 28]	UNKNOWN
+349	188	[0, 2]	UNKNOWN
+350	189	[0, 2]	UNKNOWN
+351	190	[8, 14]	natalie_french
+352	191	[14, 15]	buffy_summers
+353	191	[57, 59]	buffy_summers
+354	191	[88, 89]	buffy_summers
+355	192		
+356	193	[11, 14]	natalie_french
+357	194	[0, 1]	rupert_giles
+358	194	[43, 45]	multiple_persons
+359	194	[61, 64]	natalie_french
+360	195	[5, 6]	buffy_summers
+361	196	[0, 3]	buffy_summers
+362	196	[17, 20]	buffy_summers
+363	196	[29, 36]	dr_gregory
+364	196	[47, 50]	buffy_summers
+365	197	[5, 8]	principal_bob_flutie
+366	197	[46, 48]	multiple_persons
+367	197	[55, 58]	dr_gregory
+368	198	[52, 53]	principal_bob_flutie
+369	198	[99, 102]	buffy_summers
+370	199	[12, 13]	buffy_summers
+371	200	[17, 20]	buffy_summers
+372	201	[4, 5]	buffy_summers
+373	202	[0, 2]	multiple_persons
+374	202	[22, 25]	multiple_persons
+375	202	[47, 49]	multiple_persons
+376	202	[126, 127]	principal_bob_flutie
+377	202	[146, 148]	multiple_persons
+378	202	[178, 180]	multiple_persons
+379	202	[203, 204]	principal_bob_flutie
+380	202	[78, 81]	multiple_persons
+381	202	[223, 226]	buffy_summers
+382	203	[6, 7]	buffy_summers
+383	204	[5, 8]	buffy_summers
+384	204	[61, 64]	buffy_summers
+385	205	[17, 18]	buffy_summers
+386	205	[8, 14]	principal_bob_flutie
+387	206		
+388	207	[0, 1]	cordelia_chase
+389	207	[44, 45]	cordelia_chase
+390	207	[197, 198]	cordelia_chase
+391	207	[251, 252]	cordelia_chase
+392	207	[259, 260]	cordelia_chase
+393	207	[355, 357]	cordelia_chase
+394	207	[368, 369]	cordelia_chase
+395	207	[389, 391]	multiple_persons
+396	207	[432, 433]	cordelia_chase
+397	207	[452, 453]	cordelia_chase
+398	207	[492, 494]	multiple_persons
+399	207	[64, 67]	UNKNOWN
+400	207	[75, 79]	UNKNOWN
+401	207	[144, 147]	UNKNOWN
+402	207	[529, 532]	UNKNOWN
+403	208		
+404	209	[5, 9]	multiple_persons
+405	209	[33, 37]	multiple_persons
+406	210	[0, 1]	natalie_french
+407	210	[56, 57]	natalie_french
+408	210	[8, 11]	xander_harris
+409	210	[66, 69]	xander_harris
+410	211		
+411	212	[5, 6]	buffy_summers
+412	212	[43, 45]	multiple_persons
+413	212	[21, 24]	natalie_french
+414	212	[32, 35]	natalie_french
+415	213		
+416	214	[14, 16]	buffy_summers
+417	214	[28, 34]	blayne_moll
+418	214	[53, 56]	natalie_french
+419	215		
+420	216		
+421	217	[5, 6]	rupert_giles
+422	218		
+423	219		
+424	220	[73, 74]	buffy_summers
+425	220	[64, 67]	natalie_french
+426	220	[98, 101]	natalie_french
+427	221	[9, 12]	buffy_summers
+428	222	[0, 2]	buffy_summers
+429	223		
+430	224		
+431	225	[10, 11]	natalie_french
+432	225	[44, 45]	natalie_french
+433	225	[50, 53]	xander_harris
+434	226	[12, 13]	xander_harris
+435	226	[35, 36]	xander_harris
+436	227	[14, 17]	xander_harris
+437	228	[21, 23]	multiple_persons
+438	229	[5, 11]	xander_harris
+439	229	[14, 15]	natalie_french
+440	229	[51, 52]	natalie_french
+441	229	[58, 61]	xander_harris
+442	229	[74, 76]	natalie_french
+443	230	[20, 22]	xander_harris
+444	230	[73, 74]	xander_harris
+445	230	[95, 98]	natalie_french
+446	230	[122, 126]	natalie_french
+447	230	[59, 66]	xander_harris
+448	231	[0, 1]	natalie_french
+449	231	[53, 54]	natalie_french
+450	231	[99, 100]	natalie_french
+451	231	[116, 119]	xander_harris
+452	231	[139, 141]	natalie_french
+453	232	[17, 21]	natalie_french
+454	233	[15, 17]	natalie_french
+455	234	[0, 1]	natalie_french
+456	234	[10, 13]	xander_harris
+457	235		
+458	236		
+459	237		
+460	238	[12, 18]	natalie_french
+461	239	[4, 7]	natalie_french
+462	240	[83, 84]	girl_2
+463	240	[158, 161]	natalie_french
+464	240	[140, 143]	natalie_french
+465	241		
+466	242		
+467	243	[3, 6]	buffy_summers
+468	243	[106, 107]	rupert_giles
+469	243	[24, 27]	natalie_french
+470	243	[131, 138]	UNKNOWN
+471	244		
+472	245		
+473	246	[0, 1]	buffy_summers
+474	247	[3, 4]	rupert_giles
+475	247	[55, 57]	UNKNOWN
+476	247	[33, 40]	UNKNOWN
+477	248	[0, 5]	buffy_summers
+478	248	[14, 20]	blayne_moll
+479	248	[48, 50]	blayne_moll
+480	249	[29, 35]	natalie_french
+481	250	[15, 21]	natalie_french
+482	250	[45, 51]	xander_harris
+483	250	[78, 81]	natalie_french
+484	250	[94, 96]	xander_harris
+485	251	[22, 23]	buffy_summers
+486	251	[43, 44]	buffy_summers
+487	251	[50, 53]	willow_rosenberg
+488	251	[93, 95]	buffy_summers
+489	251	[33, 36]	xander_harris
+490	252	[16, 18]	multiple_persons
+491	253	[15, 22]	dr_gregory
+492	253	[25, 26]	buffy_summers
+493	253	[75, 76]	buffy_summers
+494	253	[99, 100]	buffy_summers
+495	253	[84, 87]	dr_gregory
+496	253	[212, 215]	rupert_giles
+497	254	[17, 18]	rupert_giles
+498	254	[105, 111]	willow_rosenberg
+499	255		
+500	256		
+501	257	[63, 66]	multiple_persons
+502	258		
+503	259		
+504	260		
+505	261	[28, 34]	natalie_french
+506	262	[83, 84]	xander_harris
+507	262	[35, 38]	natalie_french
+508	263	[0, 6]	xander_harris
+509	263	[9, 12]	natalie_french
+510	263	[25, 28]	natalie_french
+511	264	[0, 1]	xander_harris
+512	264	[9, 12]	natalie_french
+513	265	[14, 15]	buffy_summers
+514	265	[39, 42]	xander_harris
+515	265	[69, 70]	buffy_summers
+516	265	[86, 89]	xander_harris
+517	265	[59, 62]	natalie_french
+518	266		
+519	267	[0, 1]	buffy_summers
+520	267	[15, 18]	natalie_french
+521	268	[0, 1]	xander_harris
+522	268	[14, 17]	natalie_french
+523	268	[31, 34]	natalie_french
+524	269		
+525	270	[27, 28]	buffy_summers
+526	271	[33, 34]	xander_harris
+527	271	[59, 60]	xander_harris
+528	271	[83, 86]	buffy_summers
+529	272		
+530	273	[24, 25]	xander_harris
+531	273	[104, 110]	natalie_french
+532	273	[115, 117]	xander_harris
+533	274	[0, 1]	buffy_summers
+534	274	[9, 10]	buffy_summers
+535	275	[75, 78]	buffy_summers
+536	275	[115, 117]	xander_harris
+537	275	[131, 132]	xander_harris
+538	275	[202, 204]	multiple_persons
+539	275	[258, 263]	angel
+540	275	[0, 3]	natalie_french
+541	275	[23, 26]	natalie_french
+542	276		
+543	277	[29, 31]	xander_harris
+544	277	[41, 42]	xander_harris
+545	278		
+546	279		
+547	280	[7, 8]	natalie_french
+548	281	[53, 54]	xander_harris
+549	282	[43, 44]	natalie_french
+550	282	[62, 65]	xander_harris
+551	283	[0, 1]	natalie_french
+552	283	[32, 33]	natalie_french
+553	283	[58, 61]	xander_harris
+554	283	[64, 67]	xander_harris
+555	284	[0, 1]	xander_harris
+556	284	[71, 74]	natalie_french
+557	284	[93, 94]	xander_harris
+558	284	[131, 132]	xander_harris
+559	285		
+560	286	[13, 14]	natalie_french
+561	286	[19, 22]	xander_harris
+562	287	[5, 8]	xander_harris
+563	288	[0, 3]	natalie_french
+564	289	[0, 3]	xander_harris
+565	289	[14, 15]	natalie_french
+566	290	[32, 34]	xander_harris
+567	291		
+568	292	[0, 1]	xander_harris
+569	292	[75, 78]	UNKNOWN
+570	293	[0, 1]	natalie_french
+571	293	[9, 10]	natalie_french
+572	294	[0, 3]	natalie_french
+573	295	[5, 6]	natalie_french
+574	295	[17, 20]	xander_harris
+575	295	[33, 34]	natalie_french
+576	296		
+577	297	[3, 6]	natalie_french
+578	298		
+579	299		
+580	300	[0, 1]	natalie_french
+581	300	[25, 29]	xander_harris
+582	301	[5, 8]	xander_harris
+583	301	[14, 18]	xander_harris
+584	302	[0, 5]	buffy_summers
+585	302	[8, 9]	xander_harris
+586	302	[15, 20]	buffy_summers
+587	303		
+588	304	[3, 6]	natalie_french
+589	305	[6, 9]	xander_harris
+590	305	[24, 26]	natalie_french
+591	306	[0, 4]	natalie_french
+592	306	[75, 76]	xander_harris
+593	306	[83, 84]	xander_harris
+594	306	[98, 99]	xander_harris
+595	307	[9, 15]	natalie_french
+596	308	[14, 16]	natalie_french
+597	308	[17, 24]	natalie_french
+598	309	[18, 19]	rupert_giles
+599	309	[72, 73]	rupert_giles
+600	309	[94, 97]	UNKNOWN
+601	309	[113, 116]	UNKNOWN
+602	309	[129, 132]	UNKNOWN
+603	310		
+604	311		
+605	312	[7, 8]	willow_rosenberg
+606	312	[11, 12]	willow_rosenberg
+607	313		
+608	314	[21, 27]	xander_harris
+609	314	[33, 34]	willow_rosenberg
+610	314	[51, 52]	willow_rosenberg
+611	314	[67, 70]	buffy_summers
+612	314	[40, 43]	xander_harris
+613	314	[76, 79]	xander_harris
+614	314	[91, 94]	xander_harris
+615	314	[106, 109]	xander_harris
+616	315	[27, 33]	willow_rosenberg
+617	315	[36, 42]	xander_harris
+618	315	[76, 77]	buffy_summers
+619	315	[82, 85]	xander_harris
+620	315	[101, 103]	xander_harris
+621	316	[5, 11]	blayne_moll
+622	317	[5, 8]	UNKNOWN
+623	317	[16, 19]	UNKNOWN
+624	318	[4, 7]	blayne_moll
+625	319	[11, 14]	xander_harris
+626	319	[26, 28]	blayne_moll
+627	319	[42, 45]	xander_harris
+628	319	[5, 8]	UNKNOWN
+629	319	[55, 58]	natalie_french
+630	319	[61, 64]	natalie_french
+631	319	[67, 70]	natalie_french
+632	319	[76, 79]	xander_harris
+633	320		
+634	321	[11, 14]	natalie_french
+635	322	[10, 13]	natalie_french
+636	323	[5, 8]	UNKNOWN
+637	324	[0, 6]	blayne_moll
+638	324	[19, 22]	natalie_french
+639	325	[6, 9]	natalie_french
+640	325	[0, 3]	natalie_french
+641	325	[16, 19]	natalie_french
+642	325	[22, 25]	natalie_french
+643	325	[57, 60]	natalie_french
+644	325	[91, 94]	natalie_french
+645	325	[101, 104]	natalie_french
+646	325	[176, 179]	natalie_french
+647	325	[32, 35]	multiple_persons
+648	325	[66, 69]	multiple_persons
+649	326		
+650	327		
+651	328		
+652	329	[15, 18]	xander_harris
+653	329	[0, 3]	natalie_french
+654	330	[0, 6]	natalie_french
+655	331		
+656	332		
+657	333	[0, 3]	xander_harris
+658	333	[42, 45]	xander_harris
+659	333	[80, 81]	blayne_moll
+660	333	[98, 99]	blayne_moll
+661	333	[9, 12]	natalie_french
+662	333	[33, 36]	natalie_french
+663	333	[86, 89]	natalie_french
+664	334	[0, 6]	blayne_moll
+665	334	[9, 15]	blayne_moll
+666	334	[62, 64]	multiple_persons
+667	335	[0, 3]	xander_harris
+668	336	[16, 18]	xander_harris
+669	337	[5, 8]	UNKNOWN
+670	337	[20, 23]	UNKNOWN
+671	337	[35, 38]	UNKNOWN
+672	338	[0, 1]	rupert_giles
+673	338	[4, 5]	rupert_giles
+674	338	[37, 38]	rupert_giles
+675	338	[19, 26]	UNKNOWN
+676	338	[132, 135]	UNKNOWN
+677	338	[152, 155]	UNKNOWN
+678	338	[237, 241]	UNKNOWN
+679	338	[212, 215]	UNKNOWN
+680	339	[82, 84]	UNKNOWN
+681	339	[96, 98]	UNKNOWN
+682	339	[107, 114]	UNKNOWN
+683	339	[180, 182]	UNKNOWN
+684	339	[4, 10]	UNKNOWN
+685	339	[11, 18]	UNKNOWN
+686	340		
+687	341	[5, 7]	UNKNOWN
+688	341	[14, 17]	UNKNOWN
+689	341	[20, 23]	UNKNOWN
+690	341	[26, 32]	UNKNOWN
+691	341	[24, 25]	UNKNOWN
+692	342	[0, 5]	rupert_giles
+693	342	[14, 16]	multiple_persons
+694	343	[128, 131]	UNKNOWN
+695	343	[37, 40]	UNKNOWN
+696	343	[41, 42]	UNKNOWN
+697	343	[43, 49]	UNKNOWN
+698	344	[17, 23]	xander_harris
+699	344	[44, 45]	buffy_summers
+700	344	[53, 55]	xander_harris
+701	345		
+702	346	[44, 46]	multiple_persons
+703	347	[5, 12]	UNKNOWN
+704	348		
+705	349	[16, 19]	buffy_summers
+706	350	[7, 11]	rupert_giles
+707	350	[41, 43]	UNKNOWN
+708	350	[18, 25]	UNKNOWN
+709	351	[34, 37]	UNKNOWN
+710	352	[7, 14]	rupert_giles
+711	353		
+712	354	[0, 6]	xander_harris
+713	354	[21, 23]	xander_harris
+714	354	[29, 32]	xander_harris
+715	354	[37, 39]	xander_harris
+716	354	[53, 56]	xander_harris
+717	354	[57, 64]	natalie_french
+718	354	[105, 107]	xander_harris
+719	354	[121, 124]	xander_harris
+720	355	[7, 10]	willow_rosenberg
+721	355	[19, 22]	natalie_french
+722	355	[62, 65]	rupert_giles
+723	356		
+724	357		
+725	358	[9, 10]	rupert_giles
+726	359	[69, 72]	rupert_giles
+727	359	[103, 104]	buffy_summers
+728	359	[111, 112]	buffy_summers
+729	360	[27, 30]	natalie_french
+730	361	[20, 21]	blayne_moll
+731	361	[36, 38]	blayne_moll
+732	361	[67, 70]	xander_harris
+733	362		
+734	363	[0, 1]	blayne_moll
+735	363	[8, 11]	xander_harris
+736	364		
+737	365	[8, 13]	rupert_giles
+738	366		
+739	367		
+740	368	[18, 24]	natalie_french
+741	368	[48, 51]	natalie_french
+742	368	[71, 74]	natalie_french
+743	369		
+744	370	[65, 67]	blayne_moll
+745	370	[5, 8]	UNKNOWN
+746	370	[16, 18]	xander_harris
+747	370	[30, 32]	xander_harris
+748	370	[55, 58]	xander_harris
+749	370	[75, 78]	xander_harris
+750	371	[21, 23]	multiple_persons
+751	372		
+752	373	[15, 16]	natalie_french
+753	373	[25, 26]	natalie_french
+754	373	[73, 74]	natalie_french
+755	373	[119, 120]	natalie_french
+756	373	[41, 44]	multiple_persons
+757	373	[91, 94]	multiple_persons
+758	373	[109, 112]	multiple_persons
+759	374	[0, 1]	buffy_summers
+760	374	[22, 28]	natalie_french
+761	375	[0, 1]	natalie_french
+762	375	[10, 16]	natalie_french
+763	376	[0, 7]	natalie_french
+764	376	[8, 14]	natalie_french
+765	377	[19, 21]	natalie_french
+766	377	[24, 25]	natalie_french
+767	377	[57, 58]	natalie_french
+768	378	[0, 1]	buffy_summers
+769	378	[38, 44]	natalie_french
+770	378	[24, 27]	natalie_french
+771	378	[81, 84]	natalie_french
+772	379	[12, 13]	natalie_french
+773	380	[8, 11]	natalie_french
+774	381	[0, 1]	blayne_moll
+775	382	[0, 3]	xander_harris
+776	383	[0, 1]	xander_harris
+777	383	[15, 16]	xander_harris
+778	384	[8, 10]	multiple_persons
+779	385		
+780	386	[0, 1]	buffy_summers
+781	386	[6, 9]	natalie_french
+782	386	[38, 41]	natalie_french
+783	386	[57, 60]	natalie_french
+784	387	[0, 1]	willow_rosenberg
+785	388	[12, 14]	multiple_persons
+786	389	[0, 2]	multiple_persons
+787	390	[0, 2]	multiple_persons
+788	391	[0, 1]	buffy_summers
+789	392	[6, 11]	buffy_summers
+790	393		
+791	394		
+792	395	[7, 10]	xander_harris
+793	395	[16, 20]	xander_harris
+794	395	[28, 31]	xander_harris
+795	396	[7, 10]	natalie_french
+796	397	[4, 14]	UNKNOWN
+797	397	[15, 21]	UNKNOWN
+798	397	[27, 30]	UNKNOWN
+799	398	[10, 15]	buffy_summers
+800	399	[0, 3]	buffy_summers
+801	400	[0, 2]	buffy_summers
+802	401	[55, 56]	buffy_summers
+803	401	[86, 87]	buffy_summers
+804	401	[29, 32]	natalie_french
+805	401	[80, 83]	natalie_french
+806	401	[62, 65]	UNKNOWN
+807	401	[92, 95]	UNKNOWN
+808	402	[38, 41]	natalie_french
+809	402	[64, 67]	natalie_french
+810	403	[0, 5]	buffy_summers
+811	404	[5, 7]	natalie_french
+812	404	[15, 17]	natalie_french
+813	405	[4, 5]	xander_harris
+814	406		
+815	407	[4, 7]	xander_harris
+816	408	[5, 7]	blayne_moll
+817	408	[15, 17]	blayne_moll
+818	409		
+819	410	[11, 13]	blayne_moll
+820	410	[21, 23]	blayne_moll
+821	411	[13, 20]	dr_gregory
+822	411	[70, 72]	buffy_summers
+823	411	[23, 26]	natalie_french
+824	411	[35, 38]	dr_gregory
+825	411	[60, 62]	dr_gregory
+826	411	[75, 78]	multiple_persons
+827	411	[82, 86]	multiple_persons
+828	411	[98, 101]	multiple_persons
+829	411	[137, 141]	multiple_persons
+830	411	[162, 165]	multiple_persons
+831	412		
+832	413	[0, 5]	rupert_giles
+833	414	[0, 1]	rupert_giles
+834	415	[18, 22]	natalie_french
+835	415	[57, 60]	natalie_french
+836	416	[7, 8]	rupert_giles
+837	416	[13, 14]	rupert_giles
+838	417		
+839	418	[0, 3]	buffy_summers
+840	419		
+841	420	[39, 40]	xander_harris
+842	420	[22, 25]	buffy_summers
+843	420	[69, 72]	buffy_summers
+844	420	[59, 62]	UNKNOWN
+845	421	[10, 13]	multiple_persons
+846	421	[14, 18]	multiple_persons
+847	422		
+848	423		
+849	424	[0, 1]	willow_rosenberg
+850	424	[17, 20]	xander_harris
+851	424	[52, 55]	natalie_french
+852	425		
+853	426	[0, 1]	willow_rosenberg
+854	426	[96, 100]	xander_harris
+855	426	[14, 17]	multiple_persons
+856	426	[18, 22]	multiple_persons
+857	427	[32, 33]	blayne_moll
+858	428	[7, 10]	blayne_moll
+859	428	[66, 69]	UNKNOWN
+860	428	[29, 32]	UNKNOWN
+861	428	[35, 41]	UNKNOWN
+862	428	[33, 34]	UNKNOWN
+863	429		
+864	430	[0, 2]	blayne_moll
+865	430	[3, 6]	blayne_moll's_father
+866	431	[0, 6]	blayne_moll
+867	432	[0, 1]	willow_rosenberg
+868	432	[27, 28]	willow_rosenberg
+869	433	[36, 37]	willow_rosenberg
+870	434	[0, 1]	angel
+871	434	[86, 93]	UNKNOWN
+872	435	[17, 18]	buffy_summers
+873	435	[32, 35]	angel
+874	436	[12, 16]	angel
+875	437	[40, 41]	buffy_summers
+876	437	[72, 75]	angel
+877	438	[0, 1]	angel
+878	439	[7, 10]	angel
+879	440	[18, 21]	angel
+880	440	[31, 35]	angel
+881	441	[19, 22]	buffy_summers
+882	442		
+883	443	[85, 89]	multiple_persons
+884	444		
