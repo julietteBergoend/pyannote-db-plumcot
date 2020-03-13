@@ -11,14 +11,19 @@ image_features: Then extracts features off theses images.
 import json
 import numpy as np
 import os
+from pathlib import Path
 from image_scraping import main as scrap
 from image_features import main as compute_references
+
+import Plumcot as PC
+
 # Hyperparameters
 
 ## core
 N_COL=5#the CHARACTERS file should have 5 columns, separated by SEPARATOR
 SEPARATOR=","
-DATA_PATH=os.path.join("Plumcot","data")
+
+DATA_PATH=Path(PC.__file__).parent / "data"
 with open(os.path.join(DATA_PATH,"series.txt")) as file:
     series=file.readlines()
 IMAGE_FORMAT="jpg"
@@ -27,8 +32,6 @@ IMAGE_FORMAT="jpg"
 IMDB_URL="https://www.imdb.com"
 THUMBNAIL_CLASS="titlecharacters-image-grid__thumbnail-link"
 IMAGE_CLASS="pswp__img"
-
-## ML
 
 def main(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,CHARACTERS_PATH,N_COL,SEPARATOR,IMAGE_FORMAT):
     image_jsons=scrap(SERIE_URI,SERIE_IMDB_URL,IMAGE_PATH,CHARACTERS_PATH,N_COL,SEPARATOR,IMAGE_FORMAT)

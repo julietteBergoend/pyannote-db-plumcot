@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+raise NotImplementedError("this script is a work in progress and shouldn't be executed as is.")
+
 import re
 import os
 import pyannote.database
@@ -11,8 +13,9 @@ from pathlib import Path
 
 #pattern for multiple new lines
 #pattern=r'\n\n'
-SERIE_PATH=Path('Plumcot/data/TheOffice/')
-wav_path=Path('/vol/work3/lefevre/dvd_extracted/TheOffice')
+serie_uri="Lost"
+SERIE_PATH=Path(f'Plumcot/data/{serie_uri}/')
+wav_path=Path(f'/vol/work3/lefevre/dvd_extracted/{serie_uri}')
 transcript_path=Path(SERIE_PATH,'transcripts')
 with open(Path(SERIE_PATH,"episodes.txt"),'r') as file:
         episodes=file.read().split("\n")
@@ -93,6 +96,7 @@ def Decrement(transcript_path,with_ext=".txt",with_enc=None):
             print("\n",season_number)
             decrement=0
         if uri.split(".")[-1].isdigit():
+
             new_uri=".".join(uri.split(".")[:-1])
             new_uri=increment_episode_number(new_uri,decrement)
             #print(uri)
@@ -109,4 +113,4 @@ def Decrement(transcript_path,with_ext=".txt",with_enc=None):
                     old_path,
                     new_path
                 )
-Decrement(wav_path)
+Increment(transcript_path)
