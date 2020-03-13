@@ -1,0 +1,440 @@
+{"id": 31841, "text": "Demon I will be whole . I will be new .", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "Demon"], [24, 25, "Demon"]]}
+{"id": 31842, "text": "cordelia_chase Learning to love yourself is the greatest love of all . I decided long ago ... .", "meta": {}, "annotation_approver": null, "labels": [[71, 72, "cordelia_chase"], [32, 40, "UNKNOWN"]]}
+{"id": 31843, "text": "cordelia_chase ... .never to walk in anyone 's shadow . If I fail , if I succeed , at least ... .", "meta": {}, "annotation_approver": null, "labels": [[59, 60, "cordelia_chase"], [71, 72, "cordelia_chase"]]}
+{"id": 31844, "text": "rupert_giles Thank you , Cordelia . Tha - that 's going to be lovely .", "meta": {}, "annotation_approver": null, "labels": [[25, 33, "cordelia_chase"]]}
+{"id": 31845, "text": "cordelia_chase But I did n't do the part with the sparklers !", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "cordelia_chase"]]}
+{"id": 31846, "text": "rupert_giles Um , w - we'll , um ... save that for the dress rehearsal . Uh , Lisa ! Please !", "meta": {}, "annotation_approver": null, "labels": [[78, 82, "lisa"]]}
+{"id": 31847, "text": "cordelia_chase Uhhh !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31848, "text": "buffy_summers If it is n't the great producer !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31849, "text": "xander_harris Had to see this to believe it .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31850, "text": "rupert_giles Oh . You three .", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "multiple_persons"]]}
+{"id": 31851, "text": "buffy_summers The school talent show . How ever did you finagle such a primo assignment ?", "meta": {}, "annotation_approver": null, "labels": [[52, 55, "rupert_giles"]]}
+{"id": 31852, "text": "rupert_giles Our new Führer , Mr. Snyder .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"], [34, 40, "principal_snyder"], [21, 27, "principal_snyder"]]}
+{"id": 31853, "text": "willow_rosenberg I think they call 'em ' principals ' now .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "willow_rosenberg"]]}
+{"id": 31854, "text": "rupert_giles Mm . He thought it would behoove me to have more contact with the students . I did try to explain that my vocational choice of librarian was a deliberate attempt to minimize said contact , but , uh , he would have none of it .", "meta": {}, "annotation_approver": null, "labels": [[46, 48, "rupert_giles"], [90, 91, "rupert_giles"], [116, 118, "rupert_giles"], [18, 20, "principal_snyder"], [213, 215, "principal_snyder"]]}
+{"id": 31855, "text": "buffy_summers Giles , unto every generation is born one who must run the annual talentless show . You can not escape your destiny .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "rupert_giles"], [98, 101, "rupert_giles"], [117, 121, "rupert_giles"]]}
+{"id": 31856, "text": "rupert_giles If you had any shred of decency , you would have participated , or at least , um , helped .", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "multiple_persons"], [47, 50, "multiple_persons"]]}
+{"id": 31857, "text": "buffy_summers Nah ! I think I 'll take on your traditional role ... and watch !", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "buffy_summers"], [28, 29, "buffy_summers"], [42, 46, "rupert_giles"]]}
+{"id": 31858, "text": "xander_harris And mock !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31859, "text": "willow_rosenberg And laugh !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31860, "text": "buffy_summers O - kay . I think maybe we better leave our Mr. Giles to this business he calls a show .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "buffy_summers"], [38, 40, "multiple_persons"], [54, 57, "multiple_persons"], [62, 67, "rupert_giles"], [85, 87, "rupert_giles"]]}
+{"id": 31861, "text": "buffy_summers Principal Snyder !", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "principal_snyder"], [24, 30, "principal_snyder"]]}
+{"id": 31862, "text": "principal_snyder So . We think school events are stupid , and we think authority figures are to be made fun of .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "multiple_persons"], [62, 64, "multiple_persons"]]}
+{"id": 31863, "text": "buffy_summers No ! No , we do n't . W - unless you do .", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "multiple_persons"], [47, 50, "principal_snyder"]]}
+{"id": 31864, "text": "principal_snyder And we think our afternoon classes are optional . All three of you left campus yesterday .", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "multiple_persons"], [30, 33, "multiple_persons"], [80, 83, "multiple_persons"]]}
+{"id": 31865, "text": "buffy_summers Yeah , but we were fighting a demon ... .", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "multiple_persons"]]}
+{"id": 31866, "text": "principal_snyder Fighting ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31867, "text": "buffy_summers Not fighting .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31868, "text": "xander_harris No , we , uh , left to * avoid * fighting .", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "multiple_persons"]]}
+{"id": 31869, "text": "principal_snyder Real anti - social types . You need to integrate into this school , people . I think I just found three eager new participants for the talent show .", "meta": {}, "annotation_approver": null, "labels": [[94, 95, "principal_snyder"], [102, 103, "principal_snyder"], [44, 47, "multiple_persons"]]}
+{"id": 31870, "text": "buffy_summers What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31871, "text": "xander_harris No !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31872, "text": "willow_rosenberg Please ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31873, "text": "principal_snyder I 've been watching you three . Always getting into one scrape or another .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "principal_snyder"], [37, 40, "multiple_persons"]]}
+{"id": 31874, "text": "buffy_summers Well , we 're really , really sorry , but about the talent show , pleeease , you ca n't make us ... .", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "multiple_persons"], [91, 94, "principal_snyder"], [107, 109, "multiple_persons"]]}
+{"id": 31875, "text": "principal_snyder My predecessor , Mr. Flutie , may have gone in for all that touchy - feely relating nonsense , but he was eaten . You 're in * my * world now . And Sunnydale has touched and felt for the last time .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "principal_snyder"], [144, 146, "principal_snyder"], [38, 44, "principal_bob_flutie"], [116, 118, "principal_bob_flutie"], [131, 134, "multiple_persons"]]}
+{"id": 31876, "text": "xander_harris Can I just mention , that detention is a time - honored form of punishment ?", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "xander_harris"]]}
+{"id": 31877, "text": "principal_snyder I know the three of you will come up with a wonderful act for the school to watch . And mock . And laugh . At .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "principal_snyder"], [37, 40, "xander_harris"]]}
+{"id": 31878, "text": "xander_harris No !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31879, "text": "rupert_giles Thank you !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31880, "text": "buffy_summers Ewww , dummy !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31881, "text": "xander_harris Dyow ! Mime !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31882, "text": "willow_rosenberg I think dummies are cute . You do n't ?", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "willow_rosenberg"], [44, 47, "buffy_summers"]]}
+{"id": 31883, "text": "buffy_summers Uuuhhh . They give me the wig . Ever since I was little .", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "buffy_summers"], [57, 58, "buffy_summers"]]}
+{"id": 31884, "text": "willow_rosenberg What happened ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31885, "text": "buffy_summers I saw a dummy . It gave me the wig . There really was n't a story there .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [38, 40, "buffy_summers"]]}
+{"id": 31886, "text": "morgan_shay Hi . I 'm Morgan . And I 'm Sid !", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "morgan_shay"], [22, 28, "morgan_shay"], [40, 43, "sid"], [35, 36, "sid"]]}
+{"id": 31887, "text": "morgan_shay Hey Morgan , would you like to tell some jokes ? Would I ! As a matter of fact , it is ! It 's also a wood nose , and a wood mouth !", "meta": {}, "annotation_approver": null, "labels": [[16, 22, "morgan_shay"], [31, 34, "morgan_shay"], [67, 68, "morgan_shay"]]}
+{"id": 31888, "text": "morgan_shay I did n't sleep at all last night .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "morgan_shay"]]}
+{"id": 31889, "text": "sid Alright , time out . Let 's stop this before someone gets hurt . Kid , you are the worst . Even I can see your lips move .", "meta": {}, "annotation_approver": null, "labels": [[75, 78, "morgan_shay"], [100, 101, "sid"], [110, 114, "morgan_shay"]]}
+{"id": 31890, "text": "morgan_shay C'mon , Sid . You 're spoiling my act . I worked on these jokes for weeks .", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "sid"], [26, 29, "sid"], [43, 45, "morgan_shay"], [52, 53, "morgan_shay"]]}
+{"id": 31891, "text": "sid You call those jokes ? My jockey shorts are made out of better material .", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "sid"], [4, 7, "morgan_shay"]]}
+{"id": 31892, "text": "sid And they 're edible !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31893, "text": "rupert_giles There , you see ? I 'm sure you three can come up with something ... equally exciting .", "meta": {}, "annotation_approver": null, "labels": [[31, 32, "rupert_giles"], [21, 24, "multiple_persons"], [41, 44, "multiple_persons"]]}
+{"id": 31894, "text": "emily _ Is anybody there ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31895, "text": "emily _ Hello ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31896, "text": "emily _ Hello ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31897, "text": "Demon I will be flesh !", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "Demon"]]}
+{"id": 31898, "text": "marc I reach into the hat , and out ... . comes ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "marc"]]}
+{"id": 31899, "text": "marc Has anybody seen a rabbit ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31900, "text": "xander_harris I ca n't do this !", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "xander_harris"]]}
+{"id": 31901, "text": "buffy_summers Xander , come on .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "xander_harris"]]}
+{"id": 31902, "text": "xander_harris I , I ca n't ! I have my pride ! Okay , I do n't have a lot of my pride , but I have enough so that I ca n't do this !", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "xander_harris"], [18, 19, "xander_harris"], [29, 30, "xander_harris"], [36, 38, "xander_harris"], [54, 55, "xander_harris"], [77, 79, "xander_harris"], [92, 93, "xander_harris"], [114, 115, "xander_harris"]]}
+{"id": 31903, "text": "willow_rosenberg A dramatic scene is the easiest way to get through the talent show , because it does n't require an actual talent .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31904, "text": "xander_harris But we have talent . We can do stuff . Buffy , uh ... .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "multiple_persons"], [35, 37, "multiple_persons"], [53, 58, "buffy_summers"]]}
+{"id": 31905, "text": "buffy_summers What am I gon na do ? Slay vampires on stage ?", "meta": {}, "annotation_approver": null, "labels": [[22, 23, "buffy_summers"]]}
+{"id": 31906, "text": "willow_rosenberg Maybe in a funny way !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31907, "text": "xander_harris Willow , you can do stuff . Uh , the piano ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "willow_rosenberg"], [23, 26, "willow_rosenberg"]]}
+{"id": 31908, "text": "buffy_summers You play ?", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "willow_rosenberg"]]}
+{"id": 31909, "text": "willow_rosenberg A little .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31910, "text": "buffy_summers Well , that 's cool . You can accompany us and we can * attempt * to sing .", "meta": {}, "annotation_approver": null, "labels": [[36, 39, "willow_rosenberg"], [54, 56, "multiple_persons"], [61, 63, "multiple_persons"]]}
+{"id": 31911, "text": "willow_rosenberg Oh , i - in front of other people ? Then , no , I do n't play ... .", "meta": {}, "annotation_approver": null, "labels": [[65, 66, "willow_rosenberg"]]}
+{"id": 31912, "text": "xander_harris Whatever happened to corporal punishment ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31913, "text": "sid Mm , mm , mm . Look at the goodies !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31914, "text": "willow_rosenberg Morgan , you 're really getting good ! Where did you come up with that voice ?", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "morgan_shay"], [26, 29, "morgan_shay"], [66, 69, "morgan_shay"]]}
+{"id": 31915, "text": "morgan_shay It 's kind of an imitation of my dad .", "meta": {}, "annotation_approver": null, "labels": [[42, 44, "morgan_shay"], [45, 48, "morgan_shay's_father"]]}
+{"id": 31916, "text": "buffy_summers Sounds real !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31917, "text": "sid It is real . I 'm the one with the talent here . The kid 's dead weight . How about you and I do a little rehearsin ' on our own , honey ?", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "sid"], [96, 97, "sid"], [125, 128, "multiple_persons"], [88, 91, "willow_rosenberg"], [135, 140, "willow_rosenberg"]]}
+{"id": 31918, "text": "xander_harris Uh , hey !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31919, "text": "sid You know what they say : once you go wood , nothin 's as good !", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "xander_harris"], [34, 37, "xander_harris"]]}
+{"id": 31920, "text": "buffy_summers Okay , Morgan . We get the joke . Horny dummy , ha , ha , it 's very funny , but you might wanna consider getting some new schtick . Unless you want your prop ending up as a Duraflame log .", "meta": {}, "annotation_approver": null, "labels": [[21, 27, "morgan_shay"], [30, 32, "multiple_persons"], [95, 98, "morgan_shay"], [154, 157, "morgan_shay"], [163, 167, "morgan_shay"]]}
+{"id": 31921, "text": "principal_snyder Kids today need discipline . That 's an unpopular word these days , ' discipline ' . I know Principal Flutie would have said , ' Kids need understanding . Kids are human beings . ' That 's the kind of woolly - headed , liberal thinking that leads to being eaten .", "meta": {}, "annotation_approver": null, "labels": [[102, 103, "principal_snyder"], [109, 118, "principal_bob_flutie"], [119, 125, "principal_bob_flutie"]]}
+{"id": 31922, "text": "rupert_giles I , I think perhaps it was a little more complex than , um ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"], [17, 18, "rupert_giles"]]}
+{"id": 31923, "text": "principal_snyder This place has quite a reputation . Suicide , missing persons , spontaneous cheerleader combustion ... You ca n't put up with that . You 've got ta keep an eye on the bad element .", "meta": {}, "annotation_approver": null, "labels": [[120, 123, "multiple_persons"], [150, 153, "multiple_persons"]]}
+{"id": 31924, "text": "principal_snyder Like those three .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31925, "text": "principal_snyder Kids . I do n't like them . From now on you 're gon na see a very different Sunnydale High . Tight ship , clean , orderly , and quiet .", "meta": {}, "annotation_approver": null, "labels": [[24, 25, "principal_snyder"], [57, 60, "multiple_persons"]]}
+{"id": 31926, "text": "rupert_giles It was Emily .", "meta": {}, "annotation_approver": null, "labels": [[20, 25, "emily"]]}
+{"id": 31927, "text": "willow_rosenberg Emily . Dancer Emily ?", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "emily"], [32, 37, "emily"]]}
+{"id": 31928, "text": "xander_harris Oh , man ! I hate this school .", "meta": {}, "annotation_approver": null, "labels": [[25, 26, "xander_harris"]]}
+{"id": 31929, "text": "rupert_giles Uh , it must have happened just after , uh , dress rehearsals . There was a cross - country meet at Melville . She , she , she never showed up for it .", "meta": {}, "annotation_approver": null, "labels": [[124, 127, "emily"], [130, 133, "emily"], [136, 139, "emily"]]}
+{"id": 31930, "text": "buffy_summers Vampire ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31931, "text": "rupert_giles Um , I think not .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "rupert_giles"]]}
+{"id": 31932, "text": "buffy_summers Giles , share ! What happened ?", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "rupert_giles"]]}
+{"id": 31933, "text": "rupert_giles Her heart was removed .", "meta": {}, "annotation_approver": null, "labels": [[13, 16, "emily"]]}
+{"id": 31934, "text": "willow_rosenberg Yikes !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31935, "text": "buffy_summers Does that mean anything to you ? Besides ooooooo ?", "meta": {}, "annotation_approver": null, "labels": [[41, 44, "rupert_giles"]]}
+{"id": 31936, "text": "rupert_giles Uh ... . There are various demons which , which feed off human hearts , but ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31937, "text": "buffy_summers But demons have claws . And teeth .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31938, "text": "xander_harris They got no use for a big old knife .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31939, "text": "rupert_giles Which more than likely makes our murderer ... .", "meta": {}, "annotation_approver": null, "labels": [[42, 45, "multiple_persons"]]}
+{"id": 31940, "text": "buffy_summers Human .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31941, "text": "xander_harris Did I mention that I * hate * this school ?", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "xander_harris"], [33, 34, "xander_harris"]]}
+{"id": 31942, "text": "willow_rosenberg So Emily was killed by a regular human person .", "meta": {}, "annotation_approver": null, "labels": [[20, 25, "emily"]]}
+{"id": 31943, "text": "rupert_giles The evidence certainly points that way .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31944, "text": "buffy_summers No , wait . I - I'm not buying , you guys . Remember the Hellmouth ? Mystical activity is totally rife here . This to me says demon .", "meta": {}, "annotation_approver": null, "labels": [[26, 27, "buffy_summers"], [132, 134, "buffy_summers"], [47, 50, "multiple_persons"], [51, 55, "multiple_persons"]]}
+{"id": 31945, "text": "rupert_giles I 'd like to think you 're right . A demon is a creature of evil , pure and very simple . A person driven to kill is , is , um , it 's more complex .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"], [32, 35, "buffy_summers"]]}
+{"id": 31946, "text": "willow_rosenberg The creep factor is also heightened . It could be anyone . It could be me ! It 's not , though .", "meta": {}, "annotation_approver": null, "labels": [[88, 90, "willow_rosenberg"]]}
+{"id": 31947, "text": "rupert_giles Uh , demon or no , we have some investigating to do . I suggest we start with your ... your talent show compatriots . One of them may have been the last to see her alive .", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "multiple_persons"], [67, 68, "rupert_giles"], [77, 79, "multiple_persons"], [173, 176, "emily"], [100, 104, "multiple_persons"], [91, 95, "multiple_persons"]]}
+{"id": 31948, "text": "lisa I did n't know her too well . There 's that whole dancer / band rivalry , y'know ?", "meta": {}, "annotation_approver": null, "labels": [[0, 6, "lisa"], [20, 23, "emily"]]}
+{"id": 31949, "text": "buffy_summers I 've heard about that .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"]]}
+{"id": 31950, "text": "lisa But I did speak to her a little the day that ... yesterday .", "meta": {}, "annotation_approver": null, "labels": [[9, 10, "lisa"], [24, 27, "emily"]]}
+{"id": 31951, "text": "buffy_summers How did she seem ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "emily"]]}
+{"id": 31952, "text": "marc She was happy . I guess . She was psyched to be doing the show . She was a really good dancer . Here , pick a card .", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "marc"], [5, 8, "emily"], [31, 34, "emily"], [70, 73, "emily"]]}
+{"id": 31953, "text": "rupert_giles Uh , um ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31954, "text": "marc No , wai - wai - wai - wait . Not that one . Pick this one .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31955, "text": "rupert_giles Do you remember the last time you saw her ?", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "marc"], [43, 46, "marc"], [51, 54, "emily"]]}
+{"id": 31956, "text": "marc She was talkin ' to someone .", "meta": {}, "annotation_approver": null, "labels": [[5, 8, "emily"]]}
+{"id": 31957, "text": "rupert_giles Who ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31958, "text": "elliot That smart guy . The one with the dummy . What 's his name ?", "meta": {}, "annotation_approver": null, "labels": [[57, 60, "morgan_shay"]]}
+{"id": 31959, "text": "willow_rosenberg Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "morgan_shay"]]}
+{"id": 31960, "text": "elliot Yeah , that 's it . He was actin ' kinda strange .", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "morgan_shay"]]}
+{"id": 31961, "text": "willow_rosenberg Strange how ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31962, "text": "cordelia_chase It 's just such a tragedy for me . Emma was , like , my best friend .", "meta": {}, "annotation_approver": null, "labels": [[45, 47, "cordelia_chase"], [68, 70, "cordelia_chase"], [50, 54, "UNKNOWN"]]}
+{"id": 31963, "text": "xander_harris Emily .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "emily"]]}
+{"id": 31964, "text": "lisa Well , Morgan 's just strange . He 's always rubbing his head a lot and moaning . Especially the other day .", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "morgan_shay"], [37, 39, "morgan_shay"], [58, 61, "morgan_shay"]]}
+{"id": 31965, "text": "marc He seemed kinda paranoid ... . Lookin ' around at everyone ... .", "meta": {}, "annotation_approver": null, "labels": [[5, 7, "morgan_shay"]]}
+{"id": 31966, "text": "elliot And I think I saw him arguing ... with his dummy .", "meta": {}, "annotation_approver": null, "labels": [[11, 12, "elliot"], [19, 20, "elliot"], [25, 28, "morgan_shay"], [46, 49, "morgan_shay"]]}
+{"id": 31967, "text": "cordelia_chase All I can think is , it coulda been me !", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "cordelia_chase"], [51, 53, "cordelia_chase"]]}
+{"id": 31968, "text": "xander_harris We can dream .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"]]}
+{"id": 31969, "text": "sid Right now you and me got ta be on the lookout . Figure out who 's gon na be next .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "sid"], [14, 17, "morgan_shay"]]}
+{"id": 31970, "text": "morgan_shay How are we supposed to ... Oh , hi .", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "multiple_persons"]]}
+{"id": 31971, "text": "buffy_summers Hello .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31972, "text": "morgan_shay I was just working on throwing my voice .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "morgan_shay"], [43, 45, "morgan_shay"]]}
+{"id": 31973, "text": "buffy_summers Uh , Morgan , did you notice anything weird going on around here yesterday ?", "meta": {}, "annotation_approver": null, "labels": [[19, 25, "morgan_shay"], [32, 35, "morgan_shay"]]}
+{"id": 31974, "text": "morgan_shay Weird ? What d'you mean ?", "meta": {}, "annotation_approver": null, "labels": [[25, 30, "buffy_summers"]]}
+{"id": 31975, "text": "buffy_summers With Emily . Did she say anything to you , was she arguing with anyone ?", "meta": {}, "annotation_approver": null, "labels": [[19, 24, "emily"], [51, 54, "morgan_shay"], [31, 34, "emily"], [61, 64, "emily"]]}
+{"id": 31976, "text": "morgan_shay No . She was dancing . Sid and I were talking .", "meta": {}, "annotation_approver": null, "labels": [[35, 38, "sid"], [43, 44, "morgan_shay"], [17, 20, "emily"]]}
+{"id": 31977, "text": "buffy_summers Talking .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31978, "text": "morgan_shay Rehearsing .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31979, "text": "buffy_summers So , you did n't notice anything weird at ... .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "morgan_shay"]]}
+{"id": 31980, "text": "morgan_shay Ohhh !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31981, "text": "buffy_summers Morgan , are you okay ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "morgan_shay"], [27, 30, "morgan_shay"]]}
+{"id": 31982, "text": "sid Look , sweetheart ! He answered your question . Now leave him alone !", "meta": {}, "annotation_approver": null, "labels": [[36, 40, "buffy_summers"], [24, 26, "morgan_shay"], [62, 65, "morgan_shay"]]}
+{"id": 31983, "text": "buffy_summers Okay , Morgan , how 'bout talking to me yourself now ?", "meta": {}, "annotation_approver": null, "labels": [[21, 27, "morgan_shay"], [51, 53, "buffy_summers"], [54, 62, "morgan_shay"]]}
+{"id": 31984, "text": "sid He said all he 's gon na say .", "meta": {}, "annotation_approver": null, "labels": [[4, 6, "morgan_shay"], [16, 18, "morgan_shay"]]}
+{"id": 31985, "text": "morgan_shay It 's okay , Sid . We 're done .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "sid"], [31, 33, "multiple_persons"]]}
+{"id": 31986, "text": "buffy_summers I 'm sorry . Look , I did n't mean to make you mad .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [34, 35, "buffy_summers"], [57, 60, "morgan_shay"]]}
+{"id": 31987, "text": "morgan_shay No ! I 'm ... It 's him ! He 's ... We have to go .", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "morgan_shay"], [48, 50, "multiple_persons"], [32, 35, "sid"], [38, 40, "sid"]]}
+{"id": 31988, "text": "buffy_summers Cute couple .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 31989, "text": "xander_harris Okay , next time we split up someone else is on Cordy detail . Five more minutes with her and we woulda had another organ donor .", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "multiple_persons"], [108, 110, "multiple_persons"], [100, 103, "cordelia_chase"]]}
+{"id": 31990, "text": "willow_rosenberg I think I had a bit more luck . Everyone I talked to seemed to point their fingers at the same person .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "willow_rosenberg"], [25, 26, "willow_rosenberg"], [58, 59, "willow_rosenberg"]]}
+{"id": 31991, "text": "buffy_summers Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "morgan_shay"]]}
+{"id": 31992, "text": "willow_rosenberg Morgan .", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "morgan_shay"]]}
+{"id": 31993, "text": "xander_harris We have a winner !", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"]]}
+{"id": 31994, "text": "rupert_giles I fear I was led to the same conclusion .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"], [20, 21, "rupert_giles"]]}
+{"id": 31995, "text": "xander_harris Well , what do we do ? We do n't slay him , right ? We wanna bring him to justice .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "multiple_persons"], [37, 39, "multiple_persons"], [66, 68, "multiple_persons"], [52, 55, "morgan_shay"], [81, 84, "morgan_shay"]]}
+{"id": 31996, "text": "willow_rosenberg We could set up a complex sting operation where we get him to confess !", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "multiple_persons"], [65, 67, "multiple_persons"], [72, 75, "morgan_shay"]]}
+{"id": 31997, "text": "xander_harris Uh , I should wear a wire !", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "xander_harris"]]}
+{"id": 31998, "text": "buffy_summers Whoa , hey , you guys , all we know is that Morgan is a grade A large weirdo . That does n't lead directly to murderer .", "meta": {}, "annotation_approver": null, "labels": [[42, 44, "multiple_persons"], [58, 64, "morgan_shay"], [27, 30, "multiple_persons"], [31, 35, "multiple_persons"]]}
+{"id": 31999, "text": "xander_harris Guy talks to his puppet !", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "morgan_shay"]]}
+{"id": 32000, "text": "willow_rosenberg And for his puppet .", "meta": {}, "annotation_approver": null, "labels": [[25, 28, "morgan_shay"]]}
+{"id": 32001, "text": "buffy_summers Well , yeah , but what about the whole ' it 's a demon ' theory ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32002, "text": "rupert_giles I 'm looking into that , but , uh , my investigation is somewhat ... hampered by our life in the theater .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"], [49, 51, "rupert_giles"], [94, 97, "multiple_persons"]]}
+{"id": 32003, "text": "buffy_summers Uh , priority check , Giles ? Talent show , murder .", "meta": {}, "annotation_approver": null, "labels": [[36, 41, "rupert_giles"]]}
+{"id": 32004, "text": "xander_harris Yeah , we ca n't do the talent show , it 's unthinkable . I 'm not able to think it !", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "multiple_persons"], [72, 73, "xander_harris"]]}
+{"id": 32005, "text": "rupert_giles Principal Snyder is watching us all very closely . Now , if he chooses , he can make all our lives extremely difficult . A Slayer can not afford that ! We will find this murderer , but in the meantime ... the show must go on .", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "principal_snyder"], [23, 29, "principal_snyder"], [42, 44, "multiple_persons"], [102, 105, "multiple_persons"], [165, 167, "multiple_persons"], [73, 75, "principal_snyder"], [86, 88, "principal_snyder"]]}
+{"id": 32006, "text": "buffy_summers This is so unfair .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32007, "text": "rupert_giles Buffy , you , uh , watch Morgan . Check his locker , see if there 's anything there .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "buffy_summers"], [21, 24, "buffy_summers"], [38, 44, "morgan_shay"], [53, 56, "morgan_shay"]]}
+{"id": 32008, "text": "willow_rosenberg Like a heart ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32009, "text": "rupert_giles Or something .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32010, "text": "buffy_summers Alright .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32011, "text": "willow_rosenberg I 'll pull up his locker number .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "willow_rosenberg"], [31, 34, "morgan_shay"]]}
+{"id": 32012, "text": "xander_harris Can I still wear a wire ?", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "xander_harris"]]}
+{"id": 32013, "text": "buffy_summers Okay ... . Two to the left , three to the right ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32014, "text": "buffy_summers Principal Snyder !", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "principal_snyder"], [24, 30, "principal_snyder"]]}
+{"id": 32015, "text": "principal_snyder What are you doing ?", "meta": {}, "annotation_approver": null, "labels": [[26, 29, "buffy_summers"]]}
+{"id": 32016, "text": "buffy_summers Uh , looking for something .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32017, "text": "principal_snyder School hours are over . You , therefore , should be gone .", "meta": {}, "annotation_approver": null, "labels": [[41, 44, "buffy_summers"]]}
+{"id": 32018, "text": "buffy_summers And I 'm going any minute now .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "buffy_summers"]]}
+{"id": 32019, "text": "principal_snyder There are things I will not tolerate : students loitering on campus after school , horrible murders with hearts being removed . And also smoking .", "meta": {}, "annotation_approver": null, "labels": [[34, 35, "principal_snyder"]]}
+{"id": 32020, "text": "buffy_summers Well , I do n't do any of those things . Not ... ever .", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "buffy_summers"]]}
+{"id": 32021, "text": "principal_snyder There 's something going on with you . I 'll figure it out sooner or later . Do you need something here ?", "meta": {}, "annotation_approver": null, "labels": [[50, 53, "buffy_summers"], [56, 57, "principal_snyder"], [97, 100, "buffy_summers"]]}
+{"id": 32022, "text": "buffy_summers Oh ! Yeah ! Right ! Um , a friend wanted me to get something ... out of his case !", "meta": {}, "annotation_approver": null, "labels": [[55, 57, "buffy_summers"], [86, 89, "morgan_shay"]]}
+{"id": 32023, "text": "buffy_summers He must 've taken it and just forgotten to tell me .", "meta": {}, "annotation_approver": null, "labels": [[62, 64, "buffy_summers"], [14, 16, "morgan_shay"]]}
+{"id": 32024, "text": "principal_snyder Mm - hmm .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32025, "text": "principal_snyder Get along home now . It 's late .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32026, "text": "morgan_shay No , I ca n't do it !", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "morgan_shay"]]}
+{"id": 32027, "text": "sid It 's the only way .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32028, "text": "morgan_shay I do n't want ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "morgan_shay"]]}
+{"id": 32029, "text": "sid She 's the one .", "meta": {}, "annotation_approver": null, "labels": [[4, 7, "buffy_summers"]]}
+{"id": 32030, "text": "morgan_shay But ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32031, "text": "sid You saw what she did , how strong she is .", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "morgan_shay"], [17, 20, "buffy_summers"], [38, 41, "buffy_summers"]]}
+{"id": 32032, "text": "morgan_shay I know , but ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "morgan_shay"]]}
+{"id": 32033, "text": "sid She 's the last ! Just this one more , and I 'll be free .", "meta": {}, "annotation_approver": null, "labels": [[47, 48, "sid"], [4, 7, "buffy_summers"]]}
+{"id": 32034, "text": "morgan_shay I wo n't .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "morgan_shay"]]}
+{"id": 32035, "text": "sid I will !", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "sid"]]}
+{"id": 32036, "text": "joyce_summers Hi , hon . How 's it , uh , going with the talent show ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32037, "text": "buffy_summers It 'll be over soon .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32038, "text": "joyce_summers It ca n't be that bad ! I , for one , am looking forward to seeing your act .", "meta": {}, "annotation_approver": null, "labels": [[38, 39, "joyce_summers"], [81, 85, "buffy_summers"]]}
+{"id": 32039, "text": "buffy_summers Seeing ? I - in the sense of actually attending ?", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "buffy_summers"]]}
+{"id": 32040, "text": "joyce_summers Of course !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32041, "text": "buffy_summers Uh - uh ! No , Mom , y - y - you ca n't ! And , I mean , if I know you 're out there watching , I 'll freeze up , stage fright .", "meta": {}, "annotation_approver": null, "labels": [[43, 46, "joyce_summers"], [62, 63, "buffy_summers"], [74, 75, "buffy_summers"], [81, 84, "joyce_summers"], [110, 111, "buffy_summers"], [29, 32, "joyce_summers"]]}
+{"id": 32042, "text": "joyce_summers But I wanna support what you 're doing !", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "joyce_summers"], [39, 42, "buffy_summers"]]}
+{"id": 32043, "text": "buffy_summers Look , Mom , if you really love me , and wanna show your support , you 'll stay away . Far away .", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "joyce_summers"], [46, 48, "buffy_summers"], [66, 70, "joyce_summers"], [81, 84, "joyce_summers"], [21, 24, "joyce_summers"]]}
+{"id": 32044, "text": "joyce_summers Honey , is there , uh ... Is there something bothering you ? I - I mean , besides your fabulous debut .", "meta": {}, "annotation_approver": null, "labels": [[69, 72, "buffy_summers"], [75, 76, "joyce_summers"], [79, 80, "joyce_summers"], [96, 100, "buffy_summers"], [14, 19, "buffy_summers"]]}
+{"id": 32045, "text": "buffy_summers Nothing . There 's just a lot going on right now .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32046, "text": "joyce_summers Well . Get some sleep . You 'll feel better in the morning .", "meta": {}, "annotation_approver": null, "labels": [[38, 41, "buffy_summers"]]}
+{"id": 32047, "text": "buffy_summers Good plan .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32048, "text": "joyce_summers Honey , what is it ?", "meta": {}, "annotation_approver": null, "labels": [[14, 19, "buffy_summers"]]}
+{"id": 32049, "text": "buffy_summers In the bed , in the covers there 's something !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32050, "text": "joyce_summers Where ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32051, "text": "buffy_summers There 's something there .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32052, "text": "joyce_summers Well , well , there , there 's nothing there now . Are , are you sure you did n't have a nightmare ?", "meta": {}, "annotation_approver": null, "labels": [[75, 78, "buffy_summers"], [84, 87, "buffy_summers"]]}
+{"id": 32053, "text": "buffy_summers No ! There 's some ... There is ... Yeah ... You 're probably right . I 'm sorry I got you up .", "meta": {}, "annotation_approver": null, "labels": [[59, 62, "joyce_summers"], [84, 85, "buffy_summers"], [95, 96, "buffy_summers"], [101, 104, "joyce_summers"]]}
+{"id": 32054, "text": "joyce_summers Do n't worry about it . I was dreaming about bills . Sweetheart , you should n't go to sleep with the window open .", "meta": {}, "annotation_approver": null, "labels": [[38, 39, "joyce_summers"], [80, 83, "buffy_summers"], [67, 77, "buffy_summers"]]}
+{"id": 32055, "text": "buffy_summers I did n't .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"]]}
+{"id": 32056, "text": "marc And my lovely assistant steps into the box ... .", "meta": {}, "annotation_approver": null, "labels": [[9, 11, "marc"]]}
+{"id": 32057, "text": "marc And ... behold !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32058, "text": "marc You were supposed to leave !", "meta": {}, "annotation_approver": null, "labels": [[5, 8, "UNKNOWN"]]}
+{"id": 32059, "text": "cordelia_chase I do n't understand why I ... why I have to follow Brett and his stupid band .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "cordelia_chase"], [39, 40, "cordelia_chase"], [49, 50, "cordelia_chase"], [76, 79, "UNKNOWN"], [66, 71, "UNKNOWN"]]}
+{"id": 32060, "text": "rupert_giles Because we have to clear their equipment before the finale . I told you .", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "multiple_persons"], [74, 75, "rupert_giles"], [81, 84, "cordelia_chase"]]}
+{"id": 32061, "text": "cordelia_chase But the mood ! It 'll be all wrong ! My song is about dignity and human feelings and personal ... hygiene or something . Anyway , it 's sappy , and no one is gon na be feeling sappy after all that Rock and Roll .", "meta": {}, "annotation_approver": null, "labels": [[52, 54, "cordelia_chase"]]}
+{"id": 32062, "text": "cordelia_chase Uhhh , what ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32063, "text": "rupert_giles Oh ! I 'm sorry . Um , your hair , uh ... .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "rupert_giles"], [36, 40, "cordelia_chase"]]}
+{"id": 32064, "text": "cordelia_chase There 's something wrong with my hair ?", "meta": {}, "annotation_approver": null, "labels": [[45, 47, "cordelia_chase"]]}
+{"id": 32065, "text": "cordelia_chase Ohmigod !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32066, "text": "rupert_giles Xander was right . It worked like a charm .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "xander_harris"]]}
+{"id": 32067, "text": "rupert_giles Hello . You look a bit worse for , uh ... .", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "buffy_summers"]]}
+{"id": 32068, "text": "rupert_giles What exactly are you the worse for ?", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "buffy_summers"]]}
+{"id": 32069, "text": "buffy_summers Where 's Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[23, 29, "morgan_shay"]]}
+{"id": 32070, "text": "rupert_giles Uh , I , I ... have n't seen him .", "meta": {}, "annotation_approver": null, "labels": [[18, 19, "rupert_giles"], [22, 23, "rupert_giles"], [42, 45, "morgan_shay"]]}
+{"id": 32071, "text": "xander_harris Did he do something to you ?", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "morgan_shay"], [37, 40, "buffy_summers"]]}
+{"id": 32072, "text": "buffy_summers No , it was his ... Sid , the dummy .", "meta": {}, "annotation_approver": null, "labels": [[34, 37, "sid"], [26, 29, "morgan_shay"]]}
+{"id": 32073, "text": "buffy_summers Okay , everyone look at me like I 'm in a bunny suit , 'cause that 's how stupid I feel saying this ... I think Sid was in my room last night .", "meta": {}, "annotation_approver": null, "labels": [[38, 40, "buffy_summers"], [46, 47, "buffy_summers"], [95, 96, "buffy_summers"], [118, 119, "buffy_summers"], [126, 129, "sid"], [137, 139, "buffy_summers"]]}
+{"id": 32074, "text": "willow_rosenberg With Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[22, 28, "morgan_shay"]]}
+{"id": 32075, "text": "buffy_summers No . He was alone . And alive .", "meta": {}, "annotation_approver": null, "labels": [[19, 21, "sid"]]}
+{"id": 32076, "text": "xander_harris Did you see him ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "buffy_summers"], [26, 29, "sid"]]}
+{"id": 32077, "text": "buffy_summers Well , I saw something . I - it ran across my floor , under my bed and then it attacked me .", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "buffy_summers"], [39, 40, "buffy_summers"], [57, 59, "buffy_summers"], [74, 76, "buffy_summers"], [102, 104, "buffy_summers"]]}
+{"id": 32078, "text": "rupert_giles Attacked you ? How ?", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "buffy_summers"]]}
+{"id": 32079, "text": "buffy_summers It was like it pounced on my face .", "meta": {}, "annotation_approver": null, "labels": [[40, 42, "buffy_summers"]]}
+{"id": 32080, "text": "xander_harris Like a cat .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32081, "text": "buffy_summers Yeah , exactly ! But when I turned the lights on it was already gone . I - I think it went out my window .", "meta": {}, "annotation_approver": null, "labels": [[40, 41, "buffy_summers"], [85, 86, "buffy_summers"], [89, 90, "buffy_summers"], [109, 111, "buffy_summers"]]}
+{"id": 32082, "text": "xander_harris Like a cat .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32083, "text": "buffy_summers Yeah ! No ! It was Sid , the dummy .", "meta": {}, "annotation_approver": null, "labels": [[33, 36, "sid"]]}
+{"id": 32084, "text": "rupert_giles Or possibly the nightmare of somebody who had ... dummies on her mind .", "meta": {}, "annotation_approver": null, "labels": [[74, 77, "UNKNOWN"]]}
+{"id": 32085, "text": "willow_rosenberg You did say they creep you out .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "buffy_summers"], [40, 43, "buffy_summers"]]}
+{"id": 32086, "text": "buffy_summers Excuse me ? Can I have a * little * support here , please ? I 'm not just some crazy person , I 'm the Slayer .", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "buffy_summers"], [30, 31, "buffy_summers"], [74, 75, "buffy_summers"], [108, 109, "buffy_summers"], [117, 123, "buffy_summers"]]}
+{"id": 32087, "text": "xander_harris The dummy Slayer ? There 's nothing funny about that .", "meta": {}, "annotation_approver": null, "labels": [[18, 23, "sid"], [24, 30, "sid"]]}
+{"id": 32088, "text": "willow_rosenberg Well , on the side of the ' Morgan 's just crazy ' theory there is , well , Morgan .", "meta": {}, "annotation_approver": null, "labels": [[45, 51, "morgan_shay"], [93, 99, "morgan_shay"]]}
+{"id": 32089, "text": "buffy_summers I 'd like to see Morgan without his better half for a few minutes . Bet he could tell me something .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [31, 37, "morgan_shay"], [100, 102, "buffy_summers"], [46, 49, "morgan_shay"], [86, 88, "morgan_shay"]]}
+{"id": 32090, "text": "rupert_giles Oh , uh , i - if it 's any consolation , I ... I may have found a possible demon culprit . The - there 's a reference in here to a brotherhood of seven demons who take , uh , the form of young humans . Every seven years these demons need human organs , a - a - a brain and a heart , to maintain their humanity . Otherwise they , they , they revert back to their original form , which is , uh , uh , slightly less appealing .", "meta": {}, "annotation_approver": null, "labels": [[54, 55, "rupert_giles"], [60, 61, "rupert_giles"]]}
+{"id": 32091, "text": "willow_rosenberg So Morgan could still be the guy , only demon Morgan instead of crazy Morgan .", "meta": {}, "annotation_approver": null, "labels": [[20, 26, "morgan_shay"], [63, 69, "morgan_shay"], [87, 93, "morgan_shay"]]}
+{"id": 32092, "text": "rupert_giles It 's said that these demons are , are , are preternaturally strong , and , and , and ... Morgan is , is ... Well , he seems to be getting weaker every day .", "meta": {}, "annotation_approver": null, "labels": [[103, 109, "morgan_shay"], [129, 131, "morgan_shay"]]}
+{"id": 32093, "text": "mrs_jackson It was as a result of this that President Monroe put forth the eponymous , meaning named after one 's self , Monroe Doctrine , which in one sense established the U.S. as a local peacekeeper .", "meta": {}, "annotation_approver": null, "labels": [[121, 127, "UNKNOWN"], [44, 53, "UNKNOWN"], [54, 60, "UNKNOWN"]]}
+{"id": 32094, "text": "cordelia_chase Looks like someone digs you . That 's adorable . You and the dummy could tour in the freak show !", "meta": {}, "annotation_approver": null, "labels": [[39, 42, "morgan_shay"], [64, 67, "morgan_shay"]]}
+{"id": 32095, "text": "mrs_jackson Okay , who can tell me how Spain responded to this policy ?", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "mrs_jackson"]]}
+{"id": 32096, "text": "mrs_jackson Morgan ? Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "morgan_shay"], [21, 27, "morgan_shay"]]}
+{"id": 32097, "text": "morgan_shay What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32098, "text": "sid Morgan has other things on his mind .", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "morgan_shay"], [31, 34, "morgan_shay"]]}
+{"id": 32099, "text": "mrs_jackson Give me your puppet .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "mrs_jackson"], [20, 24, "morgan_shay"]]}
+{"id": 32100, "text": "morgan_shay I 'll put him away .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "morgan_shay"], [22, 25, "sid"]]}
+{"id": 32101, "text": "mrs_jackson You 'll get it back after school .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "morgan_shay"]]}
+{"id": 32102, "text": "mrs_jackson Okay , then . In the first part of the nineteenth century ... .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32103, "text": "sid I 'm still watchin ' you .", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "sid"], [25, 28, "mrs_jackson"]]}
+{"id": 32104, "text": "mrs_jackson Morgan , that is enough !", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "morgan_shay"]]}
+{"id": 32105, "text": "morgan_shay Mrs. Jackson .", "meta": {}, "annotation_approver": null, "labels": [[17, 24, "mrs_jackson"]]}
+{"id": 32106, "text": "mrs_jackson Morgan .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "morgan_shay"]]}
+{"id": 32107, "text": "morgan_shay You said you 'd give me ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "mrs_jackson"], [21, 24, "mrs_jackson"], [33, 35, "morgan_shay"]]}
+{"id": 32108, "text": "mrs_jackson Oh , of course .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32109, "text": "mrs_jackson Y'know , I wanted to ask you , is everything okay ? At home , here at school ?", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "mrs_jackson"], [37, 40, "morgan_shay"]]}
+{"id": 32110, "text": "morgan_shay Yeah , it 's great .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32111, "text": "mrs_jackson I feel like you 've become ... a little detached .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "mrs_jackson"], [24, 27, "morgan_shay"]]}
+{"id": 32112, "text": "morgan_shay Mm !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32113, "text": "mrs_jackson You 're one of the brightest kids I 've seen in a long time , but lately it seems like you 're not all there .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "morgan_shay"], [46, 47, "mrs_jackson"], [99, 102, "morgan_shay"]]}
+{"id": 32114, "text": "mrs_jackson Try not to let other things get in the way .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32115, "text": "morgan_shay Okay ! Can I get Sid now ?", "meta": {}, "annotation_approver": null, "labels": [[23, 24, "morgan_shay"], [29, 32, "sid"]]}
+{"id": 32116, "text": "mrs_jackson Sure .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32117, "text": "mrs_jackson It 's gone !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32118, "text": "morgan_shay Gone ? Whadaya mean , gone ? Where could he have gone ?", "meta": {}, "annotation_approver": null, "labels": [[53, 55, "sid"]]}
+{"id": 32119, "text": "mrs_jackson I put it right here .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "mrs_jackson"]]}
+{"id": 32120, "text": "morgan_shay He knew to wait for me . He knew I 'd be back .", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "morgan_shay"], [45, 46, "morgan_shay"], [12, 14, "sid"], [37, 39, "sid"]]}
+{"id": 32121, "text": "mrs_jackson What do you mean ' he ' ?", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "morgan_shay"], [31, 33, "sid"]]}
+{"id": 32122, "text": "morgan_shay What did you do with him ? Where is he ?", "meta": {}, "annotation_approver": null, "labels": [[33, 36, "sid"], [48, 50, "sid"], [21, 24, "mrs_jackson"]]}
+{"id": 32123, "text": "buffy_summers Where did you get that ?", "meta": {}, "annotation_approver": null, "labels": [[24, 27, "xander_harris"]]}
+{"id": 32124, "text": "xander_harris Oh , I , uh , took it out of Mrs. Jackson 's cupboard . I thought you said you wanted to be able to speak to Morgan alone , and uh ... well , Morgan 's alone , and , uh ... Sid 's with me .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "xander_harris"], [48, 55, "mrs_jackson"], [70, 71, "xander_harris"], [80, 83, "buffy_summers"], [89, 92, "buffy_summers"], [123, 129, "morgan_shay"], [156, 162, "morgan_shay"], [187, 190, "sid"], [199, 201, "xander_harris"]]}
+{"id": 32125, "text": "xander_harris Hi , Buffy ! Hi , Willow ! Would you like to hear some off - color jokes ?", "meta": {}, "annotation_approver": null, "labels": [[19, 24, "buffy_summers"], [32, 38, "willow_rosenberg"], [47, 50, "multiple_persons"]]}
+{"id": 32126, "text": "buffy_summers I really do n't think you should be doing that .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [36, 39, "xander_harris"]]}
+{"id": 32127, "text": "xander_harris What ? C'mon ... I 'm not real !", "meta": {}, "annotation_approver": null, "labels": [[31, 32, "xander_harris"]]}
+{"id": 32128, "text": "buffy_summers Xander , quit it !", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "xander_harris"]]}
+{"id": 32129, "text": "xander_harris He 's ... not ... real ! I think our demonstration proves that , uh , Sid is wood . Now , why do n't you go and find Morgan and prove he 's ... whatever he is ?", "meta": {}, "annotation_approver": null, "labels": [[39, 40, "xander_harris"], [47, 50, "multiple_persons"], [84, 87, "sid"], [115, 118, "buffy_summers"], [131, 137, "morgan_shay"], [14, 16, "sid"], [148, 150, "morgan_shay"], [167, 169, "morgan_shay"]]}
+{"id": 32130, "text": "rupert_giles I imagine he 's looking for his puppet .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"], [23, 25, "morgan_shay"], [41, 44, "morgan_shay"]]}
+{"id": 32131, "text": "buffy_summers I 'll go find Morgan . You watch the dummy .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [28, 34, "morgan_shay"], [37, 40, "xander_harris"]]}
+{"id": 32132, "text": "xander_harris Bye - bye , now . I 'm completely inanimate .", "meta": {}, "annotation_approver": null, "labels": [[32, 33, "xander_harris"]]}
+{"id": 32133, "text": "xander_harris Redrum ! Redruuum !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32134, "text": "willow_rosenberg What do we do with him ?", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "multiple_persons"], [36, 39, "sid"]]}
+{"id": 32135, "text": "xander_harris Eh , I 'll keep him company .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "xander_harris"], [30, 33, "sid"]]}
+{"id": 32136, "text": "rupert_giles Willow , we have some hunting of our own to do .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "willow_rosenberg"], [22, 24, "multiple_persons"], [46, 49, "multiple_persons"]]}
+{"id": 32137, "text": "willow_rosenberg Once again I 'm banished to the demon section of the card catalog .", "meta": {}, "annotation_approver": null, "labels": [[28, 29, "willow_rosenberg"]]}
+{"id": 32138, "text": "rupert_giles You concentrate on re - animation theory . I 'll peck about in organ harvesting . Unless , of course , you prefer ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "willow_rosenberg"], [56, 57, "rupert_giles"], [116, 119, "willow_rosenberg"]]}
+{"id": 32139, "text": "willow_rosenberg That 's okay , you can have the organs .", "meta": {}, "annotation_approver": null, "labels": [[32, 35, "rupert_giles"]]}
+{"id": 32140, "text": "xander_harris So , I guess it 's just ... you and me , huh ? That looks more comfortable .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "xander_harris"], [50, 52, "xander_harris"], [42, 45, "sid"]]}
+{"id": 32141, "text": "buffy_summers Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "morgan_shay"]]}
+{"id": 32142, "text": "buffy_summers Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "morgan_shay"]]}
+{"id": 32143, "text": "buffy_summers Principal Snyder !", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "principal_snyder"], [24, 30, "principal_snyder"]]}
+{"id": 32144, "text": "principal_snyder Looking for something ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32145, "text": "buffy_summers Have you seen Morgan Shay ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "principal_snyder"], [28, 34, "morgan_shay"], [35, 39, "morgan_shay"]]}
+{"id": 32146, "text": "principal_snyder You know , with everything that 's been going on recently , I 'm not sure how safe it is for a girl like yourself to be here ... alone .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "buffy_summers"], [77, 78, "principal_snyder"], [122, 130, "buffy_summers"]]}
+{"id": 32147, "text": "buffy_summers Well , I was just leaving . And I know how to take care of myself .", "meta": {}, "annotation_approver": null, "labels": [[21, 22, "buffy_summers"], [46, 47, "buffy_summers"], [73, 79, "buffy_summers"]]}
+{"id": 32148, "text": "principal_snyder Alright , then .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32149, "text": "willow_rosenberg Look what I found in the section on toys and magic : ' On rare occasions inanimate objects of human quality , such as dolls and mannequins , already mystically possessed of consciousness , have acted upon their desire to become human by harvesting organs . '", "meta": {}, "annotation_approver": null, "labels": [[27, 28, "willow_rosenberg"]]}
+{"id": 32150, "text": "rupert_giles Emily 's heart .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "emily"]]}
+{"id": 32151, "text": "willow_rosenberg Morgan 's dummy .", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "morgan_shay"]]}
+{"id": 32152, "text": "rupert_giles Mm .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32153, "text": "xander_harris Whoa !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32154, "text": "rupert_giles What is it ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32155, "text": "xander_harris He 's gone ! Sid 's gone !", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "sid"], [14, 16, "sid"]]}
+{"id": 32156, "text": "rupert_giles What ? Oh !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32157, "text": "willow_rosenberg Uhhh !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32158, "text": "buffy_summers Morgan ?", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "morgan_shay"]]}
+{"id": 32159, "text": "buffy_summers Morgan ! Demon 's got himself a brain .", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "morgan_shay"], [36, 43, "morgan_shay"], [23, 28, "Demon"]]}
+{"id": 32160, "text": "buffy_summers Who 's ever out there , I 'm gon na hurt you ! Badly ! If you 'll just gimme a minute ... .", "meta": {}, "annotation_approver": null, "labels": [[38, 39, "buffy_summers"], [55, 58, "sid"], [72, 75, "sid"]]}
+{"id": 32161, "text": "sid You win . Now you can take your heart and your brain and move on .", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "buffy_summers"], [18, 21, "buffy_summers"], [31, 35, "buffy_summers"], [46, 50, "buffy_summers"]]}
+{"id": 32162, "text": "buffy_summers I 'm sure they would have made great trophies for your case .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [64, 68, "sid"]]}
+{"id": 32163, "text": "sid That woulda been justice .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32164, "text": "buffy_summers Yeah , except for one thing : you lost , and now you 'll never be human .", "meta": {}, "annotation_approver": null, "labels": [[44, 47, "sid"], [63, 66, "sid"]]}
+{"id": 32165, "text": "sid Yeah , well , neither will you .", "meta": {}, "annotation_approver": null, "labels": [[31, 34, "buffy_summers"]]}
+{"id": 32166, "text": "Buffy_and_Sid What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32167, "text": "sid This is what I do . I hunt demons . Yeah , you would n't know it to look at me . Let 's just say there was me , there was a really mean demon , there was a curse , and the next thing I know I 'm not me anymore . I 'm sitting on some guy 's knee , with his hand up my shirt .", "meta": {}, "annotation_approver": null, "labels": [[17, 18, "sid"], [24, 25, "sid"], [80, 82, "sid"], [111, 113, "sid"], [187, 188, "sid"], [194, 195, "sid"], [203, 205, "sid"], [216, 217, "sid"], [256, 259, "UNKNOWN"], [268, 270, "sid"], [47, 50, "multiple_persons"]]}
+{"id": 32168, "text": "willow_rosenberg And ever since then you 've been a living dummy ?", "meta": {}, "annotation_approver": null, "labels": [[37, 40, "sid"]]}
+{"id": 32169, "text": "sid The kid here was right all along . I shoulda picked you to team up with . But I did n't because ... .", "meta": {}, "annotation_approver": null, "labels": [[39, 40, "sid"], [82, 83, "sid"], [56, 59, "multiple_persons"]]}
+{"id": 32170, "text": "buffy_summers Because you thought * I * was the demon .", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "sid"], [36, 37, "buffy_summers"]]}
+{"id": 32171, "text": "sid Who can blame me for thinking ? Look at you ! You 're strong , athletic , limber ... nubile ... I 'm back ! In any case , now that this demon 's got the heart and brain , he gets to keep the human form he 's in for another seven years .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "sid"], [44, 47, "buffy_summers"], [50, 53, "buffy_summers"], [100, 101, "sid"], [175, 177, "Demon"], [206, 208, "Demon"]]}
+{"id": 32172, "text": "rupert_giles I must say , it 's a welcome change to have someone else explain all these things .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"]]}
+{"id": 32173, "text": "sid There were seven of these guys . I 've killed six . If I can get the last one , the curse will be lifted and I 'll be free . I 'm sure it 's someone in that stupid talent show .", "meta": {}, "annotation_approver": null, "labels": [[37, 38, "sid"], [59, 60, "sid"], [113, 114, "sid"], [129, 130, "sid"]]}
+{"id": 32174, "text": "buffy_summers Yeah , but now that demon has what he wants . He 'll be moving on .", "meta": {}, "annotation_approver": null, "labels": [[49, 51, "Demon"], [60, 62, "Demon"]]}
+{"id": 32175, "text": "sid So , once we know who 's missing from the show ... .", "meta": {}, "annotation_approver": null, "labels": [[14, 16, "multiple_persons"]]}
+{"id": 32176, "text": "buffy_summers We 'll know who our demon is !", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"], [30, 33, "multiple_persons"]]}
+{"id": 32177, "text": "rupert_giles The show !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32178, "text": "buffy_summers What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32179, "text": "rupert_giles It 's gon na start ! I 'm supposed to be there !", "meta": {}, "annotation_approver": null, "labels": [[34, 35, "rupert_giles"]]}
+{"id": 32180, "text": "buffy_summers Okay , um , start pulling everyone 's addresses in the talent show . I - if they 're not there , maybe we can catch them at home .", "meta": {}, "annotation_approver": null, "labels": [[83, 84, "buffy_summers"], [117, 119, "multiple_persons"]]}
+{"id": 32181, "text": "sid And you , get 'em all on stage , form the power circle . Then we can see who 's a no - show .", "meta": {}, "annotation_approver": null, "labels": [[66, 68, "multiple_persons"], [8, 11, "rupert_giles"]]}
+{"id": 32182, "text": "rupert_giles Um , uh , the what ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32183, "text": "sid The power circle . You get everyone together , you get 'em , you know , revved up .", "meta": {}, "annotation_approver": null, "labels": [[23, 26, "rupert_giles"], [51, 54, "rupert_giles"], [65, 68, "rupert_giles"]]}
+{"id": 32184, "text": "rupert_giles Right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32185, "text": "sid How 'd * he * ever get that gig ?", "meta": {}, "annotation_approver": null, "labels": [[13, 15, "rupert_giles"]]}
+{"id": 32186, "text": "rupert_giles Fifteen minutes to curtain , everyone ! Uh , fifteen minutes !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32187, "text": "cordelia_chase I , I ca n't go out there . All those people staring at me and judging me like I 'm some kind of ... Buffy ! What if I mess up ?", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "cordelia_chase"], [19, 20, "cordelia_chase"], [71, 73, "cordelia_chase"], [86, 88, "cordelia_chase"], [94, 95, "cordelia_chase"], [116, 121, "buffy_summers"], [132, 133, "cordelia_chase"]]}
+{"id": 32188, "text": "rupert_giles Cordelia , there , uh , there - there 's , uh , uh , an adage , uh , that , uh , if you 're feeling nervous then , uh , you should imagine the entire audience are in their underwear .", "meta": {}, "annotation_approver": null, "labels": [[0, 21, "cordelia_chase"], [97, 100, "cordelia_chase"], [133, 136, "cordelia_chase"]]}
+{"id": 32189, "text": "cordelia_chase Eww ! Even Mrs. Franklin ? Uhhh !", "meta": {}, "annotation_approver": null, "labels": [[31, 39, "UNKNOWN"]]}
+{"id": 32190, "text": "rupert_giles Perhaps not .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32191, "text": "cordelia_chase Yeah .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32192, "text": "rupert_giles Um , alright , um , we 'll assemble on the stage in five minutes for the , um , uh , power thing .", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "multiple_persons"]]}
+{"id": 32193, "text": "sid So , what 's your deal , kid ? I do n't figure you for a demon hunter .", "meta": {}, "annotation_approver": null, "labels": [[35, 36, "sid"], [17, 21, "buffy_summers"], [51, 54, "buffy_summers"]]}
+{"id": 32194, "text": "buffy_summers I 'm a Vampire Slayer .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [21, 28, "buffy_summers"], [29, 35, "buffy_summers"]]}
+{"id": 32195, "text": "sid You ? ! You 're the Slayer ? Damn ! I knew a Slayer in the 30 's . Korean chick . Very hot . We 're talking * muscle * tone . Man , we had some times . Hey , that was pre - dummy , alright ? Now , I was a guy !", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "buffy_summers"], [12, 15, "buffy_summers"], [40, 41, "sid"], [97, 99, "multiple_persons"], [136, 138, "multiple_persons"], [201, 202, "sid"], [24, 30, "buffy_summers"]]}
+{"id": 32196, "text": "buffy_summers So , you kill the demon and the curse is lifted , right ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "sid"]]}
+{"id": 32197, "text": "sid That 's the drill .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32198, "text": "buffy_summers You do n't actually turn into a prince , do you ? I - I mean , your body ... .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sid"], [58, 61, "sid"], [64, 65, "buffy_summers"], [68, 69, "buffy_summers"], [77, 81, "sid"]]}
+{"id": 32199, "text": "sid Is dust and bones . When I say free ... .", "meta": {}, "annotation_approver": null, "labels": [[29, 30, "sid"]]}
+{"id": 32200, "text": "buffy_summers You mean dead .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sid"]]}
+{"id": 32201, "text": "sid Do n't get sniffly on me , sis . I 've lived a lot longer than most demon hunters . Or Slayers , for that matter .", "meta": {}, "annotation_approver": null, "labels": [[26, 28, "sid"], [37, 38, "sid"]]}
+{"id": 32202, "text": "sid Of course , if you want to snuggle up and comfort me ... .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "buffy_summers"], [54, 56, "sid"]]}
+{"id": 32203, "text": "buffy_summers So , that horny dummy thing really * is n't * an act , is it ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32204, "text": "sid Nope !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32205, "text": "buffy_summers Yuk !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32206, "text": "rupert_giles I - is everybody here ?", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rupert_giles"]]}
+{"id": 32207, "text": "sid Okay , here comes our line - up .", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "multiple_persons"]]}
+{"id": 32208, "text": "rupert_giles Quickly , everyone ! Uh ... um , power circle .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32209, "text": "rupert_giles Well , that 's that , then . Um , everybody , uh , get ready !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32210, "text": "buffy_summers Hold on .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32211, "text": "rupert_giles No one 's missing .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32212, "text": "buffy_summers So the demon is n't in the show .", "meta": {}, "annotation_approver": null, "labels": [[21, 26, "Demon"]]}
+{"id": 32213, "text": "rupert_giles It seems not . Uh , tell the others . Look , it 's nearly curtain . I must get the show rolling .", "meta": {}, "annotation_approver": null, "labels": [[81, 82, "rupert_giles"]]}
+{"id": 32214, "text": "buffy_summers Right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32215, "text": "rupert_giles Right .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32216, "text": "buffy_summers Sid ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sid"]]}
+{"id": 32217, "text": "buffy_summers Sid ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sid"]]}
+{"id": 32218, "text": "buffy_summers I 'm never gon na stop washing my hands .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "buffy_summers"], [45, 47, "buffy_summers"]]}
+{"id": 32219, "text": "xander_harris So , the dummy tells us that he 's a demon hunter . And we 're , like , fine , la la la la . He takes off , and now there 's a brain . Does anybody else feel like they 've been Keyser Soze'd ?", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "multiple_persons"], [70, 72, "multiple_persons"], [43, 45, "sid"], [107, 109, "sid"]]}
+{"id": 32220, "text": "buffy_summers Sid 's on the level , I 'm sure of it . But why would the demon have rejected the brain ? I - I mean , I thought Morgan was the smartest kid in school .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "sid"], [36, 37, "buffy_summers"], [104, 105, "buffy_summers"], [108, 109, "buffy_summers"], [117, 118, "buffy_summers"], [127, 133, "morgan_shay"]]}
+{"id": 32221, "text": "willow_rosenberg He was , look at his grades : all A 's . He was even taking college classes . Wait a second .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "morgan_shay"], [34, 37, "morgan_shay"], [58, 60, "morgan_shay"]]}
+{"id": 32222, "text": "buffy_summers What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32223, "text": "willow_rosenberg All these sick days .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32224, "text": "xander_harris He was off for , like , half the year !", "meta": {}, "annotation_approver": null, "labels": [[14, 16, "morgan_shay"]]}
+{"id": 32225, "text": "buffy_summers Check the school nurse 's file .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32226, "text": "willow_rosenberg Look at this ! ' In case of emergency , contact Dr. Dale Leggett , California Institute of Neurosurgery , Cancer Ward . '", "meta": {}, "annotation_approver": null, "labels": [[69, 73, "UNKNOWN"], [74, 81, "UNKNOWN"]]}
+{"id": 32227, "text": "xander_harris Brain cancer ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32228, "text": "willow_rosenberg That 's why he had all the headaches .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "morgan_shay"]]}
+{"id": 32229, "text": "buffy_summers This means that whatever 's out there still needs a healthy , intelligent brain .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32230, "text": "xander_harris In other words , I 'm safe !", "meta": {}, "annotation_approver": null, "labels": [[31, 32, "xander_harris"]]}
+{"id": 32231, "text": "buffy_summers And it 's gon na be looking for the smartest person around .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32232, "text": "willow_rosenberg What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32233, "text": "rupert_giles Yes , if you , you calibrated the units of weight then you could calculate the , uh , specific maximum velocity achieved before the point of impact .", "meta": {}, "annotation_approver": null, "labels": [[22, 25, "marc"], [28, 31, "marc"], [68, 71, "marc"]]}
+{"id": 32234, "text": "marc Gee , Mr. Giles , you 're really ... smart ! Could you do me a favor ?", "meta": {}, "annotation_approver": null, "labels": [[15, 20, "rupert_giles"], [23, 26, "rupert_giles"], [63, 65, "marc"], [56, 59, "rupert_giles"]]}
+{"id": 32235, "text": "willow_rosenberg What could a demon possibly want from me ?", "meta": {}, "annotation_approver": null, "labels": [[55, 57, "willow_rosenberg"]]}
+{"id": 32236, "text": "xander_harris What 's the square root of 841 ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32237, "text": "willow_rosenberg 29 . Oh , yeah .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32238, "text": "buffy_summers Do n't worry , Willow . As long as you 're with us there 's absolutely no way that demon is gon na get what he wants .", "meta": {}, "annotation_approver": null, "labels": [[29, 35, "willow_rosenberg"], [49, 52, "willow_rosenberg"], [62, 64, "multiple_persons"], [122, 124, "Demon"]]}
+{"id": 32239, "text": "rupert_giles Oh , my !", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "rupert_giles"]]}
+{"id": 32240, "text": "marc Pretty cool , huh ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32241, "text": "rupert_giles Are you sure there 's no one else who could help you out ?", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "marc"], [62, 65, "marc"]]}
+{"id": 32242, "text": "marc My assistant got sick . You wo n't have to say anything . I 'll , I 'll show you . Lie down .", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "marc"], [29, 32, "rupert_giles"], [63, 64, "marc"], [71, 72, "marc"], [82, 85, "rupert_giles"]]}
+{"id": 32243, "text": "rupert_giles Uh , uh , how , how exactly does it work ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32244, "text": "marc A good magician never tells his secrets .", "meta": {}, "annotation_approver": null, "labels": [[33, 36, "UNKNOWN"]]}
+{"id": 32245, "text": "marc C'mon . We have n't got much time .", "meta": {}, "annotation_approver": null, "labels": [[13, 15, "multiple_persons"]]}
+{"id": 32246, "text": "buffy_summers This is ridiculous . We ca n't just sit here and wait for him to come to us . We have to figure out who we 're dealing with .", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "multiple_persons"], [87, 89, "multiple_persons"], [92, 94, "multiple_persons"], [118, 120, "multiple_persons"], [72, 75, "Demon"]]}
+{"id": 32247, "text": "xander_harris I still vote dummy .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "xander_harris"]]}
+{"id": 32248, "text": "buffy_summers No . Okay , so we ruled out all the people in the talent show ... .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "multiple_persons"]]}
+{"id": 32249, "text": "willow_rosenberg That 's because they were all there . But that 's before we found the brain .", "meta": {}, "annotation_approver": null, "labels": [[74, 76, "multiple_persons"]]}
+{"id": 32250, "text": "buffy_summers Right . So it probably * is * one of them . And , and Giles does n't know ! He 's with them all right now !", "meta": {}, "annotation_approver": null, "labels": [[68, 73, "rupert_giles"], [90, 92, "rupert_giles"]]}
+{"id": 32251, "text": "xander_harris Uch ! Giles can handle himself . I mean , he * is * really ... smart !", "meta": {}, "annotation_approver": null, "labels": [[20, 25, "rupert_giles"], [47, 48, "xander_harris"], [37, 44, "rupert_giles"], [56, 58, "rupert_giles"]]}
+{"id": 32252, "text": "buffy_summers GILES !", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "rupert_giles"]]}
+{"id": 32253, "text": "rupert_giles Sh - sh - shouldn't it be aimed at my neck ?", "meta": {}, "annotation_approver": null, "labels": [[48, 50, "rupert_giles"]]}
+{"id": 32254, "text": "marc No . No , this way your scalp gets sliced off and your brains just ... come pouring out .", "meta": {}, "annotation_approver": null, "labels": [[24, 28, "rupert_giles"], [55, 59, "rupert_giles"]]}
+{"id": 32255, "text": "rupert_giles What exactly is the trick ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32256, "text": "marc Trick ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32257, "text": "rupert_giles Marc ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "marc"]]}
+{"id": 32258, "text": "rupert_giles M - Marc ?", "meta": {}, "annotation_approver": null, "labels": [[17, 21, "marc"]]}
+{"id": 32259, "text": "buffy_summers Ewww !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32260, "text": "willow_rosenberg Where are the keys ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32261, "text": "rupert_giles Marc 's got it !", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "marc"]]}
+{"id": 32262, "text": "xander_harris Willow !", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "willow_rosenberg"]]}
+{"id": 32263, "text": "rupert_giles Hurry !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32264, "text": "buffy_summers How do you lock this thing ?", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "multiple_persons"]]}
+{"id": 32265, "text": "rupert_giles What 's happening ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32266, "text": "sid I found you !", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "sid"], [12, 15, "buffy_summers"]]}
+{"id": 32267, "text": "buffy_summers Let go !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32268, "text": "rupert_giles Uh ... I must say , all of you ... Your t - timing is impeccable .", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "rupert_giles"], [40, 43, "multiple_persons"], [48, 52, "multiple_persons"]]}
+{"id": 32269, "text": "sid And now for the big finish .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32270, "text": "buffy_summers What are you doing ?", "meta": {}, "annotation_approver": null, "labels": [[23, 26, "sid"]]}
+{"id": 32271, "text": "sid It 's not enough . He 'll come back . You have to get the heart . Then all of this'll be over .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "Demon"], [42, 45, "multiple_persons"]]}
+{"id": 32272, "text": "buffy_summers Let me .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "buffy_summers"]]}
+{"id": 32273, "text": "sid I got it . Thanks .", "meta": {}, "annotation_approver": null, "labels": [[0, 5, "sid"]]}
+{"id": 32274, "text": "buffy_summers It 's over .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32275, "text": "principal_snyder I do n't get it . What is it ? Avant - garde ?", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "principal_snyder"]]}
+{"id": 32276, "text": "willow_rosenberg Oh , ruler of my country , Oedipus , you see our company around the Altar , and I , the priest of Zeus !", "meta": {}, "annotation_approver": null, "labels": [[31, 33, "willow_rosenberg"], [62, 65, "multiple_persons"], [97, 98, "willow_rosenberg"], [44, 51, "UNKNOWN"], [54, 57, "UNKNOWN"], [85, 90, "UNKNOWN"], [115, 119, "UNKNOWN"]]}
+{"id": 32277, "text": "xander_harris Ha , ha ! They prophesize that I should kill my father . But he is dead . And hidden deep in the soil . But surely I must fear my mother 's bed .", "meta": {}, "annotation_approver": null, "labels": [[45, 46, "xander_harris"], [59, 61, "xander_harris"], [75, 77, "UNKNOWN"], [129, 130, "xander_harris"], [141, 143, "xander_harris"]]}
+{"id": 32278, "text": "buffy_summers Oh , Oedipus , Oedipus , unhappy Oedipus , that is all I can call you , and all that I ever shall call you .", "meta": {}, "annotation_approver": null, "labels": [[69, 70, "buffy_summers"], [99, 100, "buffy_summers"], [19, 26, "UNKNOWN"], [29, 36, "UNKNOWN"], [47, 54, "UNKNOWN"], [80, 83, "UNKNOWN"], [117, 120, "UNKNOWN"]]}
+{"id": 32279, "text": "xander_harris Darkness ! And horror of darkness . Unfolding , restless , visitant , sped by an ill wind in haste .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 32280, "text": "xander_harris Madness , and ... Madness a - and stabbing pain , and , a - and , uh ... oh ... oh ... memory of , uh , i - ill deeds I have done .", "meta": {}, "annotation_approver": null, "labels": [[132, 133, "xander_harris"]]}

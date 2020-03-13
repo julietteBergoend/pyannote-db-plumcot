@@ -1,0 +1,264 @@
+{"id": 2606, "text": "andrea_harrison I 'm going after them .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "andrea_harrison"]]}
+{"id": 2607, "text": "lori_grimes Do n't . They could be anywhere . And if Randall comes back , we 're gon na need you here .", "meta": {}, "annotation_approver": null, "labels": [[74, 76, "multiple_persons"], [93, 96, "andrea_harrison"], [53, 60, "randall_culver"]]}
+{"id": 2608, "text": "daryl_dixon rick and Shane ai n't back ?", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "rick_grimes"], [21, 26, "shane_walsh"]]}
+{"id": 2609, "text": "lori_grimes No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2610, "text": "daryl_dixon We heard a shot .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2611, "text": "lori_grimes Maybe they found Randall .", "meta": {}, "annotation_approver": null, "labels": [[29, 36, "randall_culver"]]}
+{"id": 2612, "text": "daryl_dixon We found him .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"], [21, 24, "randall_culver"]]}
+{"id": 2613, "text": "maggie_greene Is he back in the shed ?", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "randall_culver"]]}
+{"id": 2614, "text": "daryl_dixon He 's a walker .", "meta": {}, "annotation_approver": null, "labels": [[12, 14, "randall_culver"]]}
+{"id": 2615, "text": "hershel_greene Did you find the walker that bit him ?", "meta": {}, "annotation_approver": null, "labels": [[48, 51, "randall_culver"], [19, 22, "multiple_persons"]]}
+{"id": 2616, "text": "glenn_rhee No , the weird thing is he was n't bit .", "meta": {}, "annotation_approver": null, "labels": [[35, 37, "randall_culver"]]}
+{"id": 2617, "text": "daryl_dixon His neck was broke .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "randall_culver"]]}
+{"id": 2618, "text": "patricia So he fought back .", "meta": {}, "annotation_approver": null, "labels": [[12, 14, "randall_culver"]]}
+{"id": 2619, "text": "daryl_dixon The thing is , Shane and Randall 's tracks were right on top of each other . And Shane ai n't no tracker , so he did n't come up behind him . They were together .", "meta": {}, "annotation_approver": null, "labels": [[27, 32, "shane_walsh"], [37, 44, "randall_culver"], [93, 98, "shane_walsh"], [122, 124, "shane_walsh"], [148, 151, "randall_culver"]]}
+{"id": 2620, "text": "lori_grimes Would you please get back out there , find rick and Shane and find out what on earth is going on ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "daryl_dixon"], [55, 59, "rick_grimes"], [64, 69, "shane_walsh"]]}
+{"id": 2621, "text": "daryl_dixon You got it .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "lori_grimes"]]}
+{"id": 2622, "text": "lori_grimes Thank you .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2623, "text": "carl_grimes You bit too ?", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "rick_grimes"]]}
+{"id": 2624, "text": "rick_grimes No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2625, "text": "carl_grimes Shane was .", "meta": {}, "annotation_approver": null, "labels": [[12, 17, "shane_walsh"]]}
+{"id": 2626, "text": "rick_grimes That was n't Shane . You know that .", "meta": {}, "annotation_approver": null, "labels": [[25, 30, "shane_walsh"], [33, 36, "carl_grimes"]]}
+{"id": 2627, "text": "carl_grimes Used to be . What happened ? You guys attacked ? I mean , I -- I heard a gunshot , but I did n't see any walkers nearby . How did Shane die ?", "meta": {}, "annotation_approver": null, "labels": [[61, 62, "carl_grimes"], [70, 71, "carl_grimes"], [75, 76, "carl_grimes"], [99, 100, "carl_grimes"], [41, 44, "multiple_persons"], [45, 49, "multiple_persons"], [142, 147, "shane_walsh"]]}
+{"id": 2628, "text": "rick_grimes Oh my god . Go go go go go go go go .", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "rick_grimes"]]}
+{"id": 2629, "text": "carl_grimes We -- we got ta get to the house , tell the others .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"], [18, 20, "multiple_persons"]]}
+{"id": 2630, "text": "rick_grimes We 'll never get through that . Ca n't go around . Carl , Gray , stay close . Go !", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"], [63, 67, "carl_grimes"]]}
+{"id": 2631, "text": "hershel_greene Patricia , kill the lights .", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "patricia"]]}
+{"id": 2632, "text": "andrea_harrison I 'll get the guns .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "andrea_harrison"]]}
+{"id": 2633, "text": "glenn_rhee Maybe they 're just passing , like the herd on the highway . Should we just go inside ?", "meta": {}, "annotation_approver": null, "labels": [[79, 81, "multiple_persons"]]}
+{"id": 2634, "text": "daryl_dixon Not unless there 's a tunnel downstairs I do n't know about . A herd that size would rip the house down .", "meta": {}, "annotation_approver": null, "labels": [[52, 53, "daryl_dixon"]]}
+{"id": 2635, "text": "lori_grimes Carl 's gone .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "carl_grimes"]]}
+{"id": 2636, "text": "daryl_dixon What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2637, "text": "lori_grimes He -- he was upstairs . I ca n't find him anywhere .", "meta": {}, "annotation_approver": null, "labels": [[36, 37, "lori_grimes"], [12, 14, "carl_grimes"], [18, 20, "carl_grimes"], [50, 53, "carl_grimes"]]}
+{"id": 2638, "text": "glenn_rhee Maybe he 's hiding .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "carl_grimes"]]}
+{"id": 2639, "text": "lori_grimes He 's supposed to be upstairs . I 'm not leaving without my boy .", "meta": {}, "annotation_approver": null, "labels": [[44, 45, "lori_grimes"], [69, 71, "lori_grimes"], [12, 14, "carl_grimes"]]}
+{"id": 2640, "text": "carol_peletier We 're not . We 're gon na look again . We 're gon na find him .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "multiple_persons"], [28, 30, "multiple_persons"], [55, 57, "multiple_persons"], [74, 77, "carl_grimes"]]}
+{"id": 2641, "text": "glenn_rhee maggie .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "maggie_greene"]]}
+{"id": 2642, "text": "maggie_greene You grow up country , you pick up a thing or two .", "meta": {}, "annotation_approver": null, "labels": [[14, 17, "multiple_persons"], [36, 39, "multiple_persons"]]}
+{"id": 2643, "text": "daryl_dixon I got the number -- it 's no use .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "daryl_dixon"]]}
+{"id": 2644, "text": "hershel_greene You can go if you want .", "meta": {}, "annotation_approver": null, "labels": [[15, 18, "multiple_persons"], [29, 32, "multiple_persons"]]}
+{"id": 2645, "text": "daryl_dixon You gon na take 'em all on ?", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "hershel_greene"]]}
+{"id": 2646, "text": "hershel_greene We have guns . We have cars .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "multiple_persons"], [30, 32, "multiple_persons"]]}
+{"id": 2647, "text": "andrea_harrison Kill as many as we can , and we 'll use the cars to lead the rest of them off the farm .", "meta": {}, "annotation_approver": null, "labels": [[32, 34, "multiple_persons"], [45, 47, "multiple_persons"]]}
+{"id": 2648, "text": "daryl_dixon Are you serious ?", "meta": {}, "annotation_approver": null, "labels": [[16, 19, "hershel_greene"]]}
+{"id": 2649, "text": "hershel_greene This is my farm . I 'll die here .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "hershel_greene"], [33, 34, "hershel_greene"]]}
+{"id": 2650, "text": "daryl_dixon All right . It 's as good a night as any .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2651, "text": "rick_grimes All right , here we go . Come on . Hurry . Oh shit . All right . Okay . Up there . Hurry .", "meta": {}, "annotation_approver": null, "labels": [[29, 31, "multiple_persons"]]}
+{"id": 2652, "text": "carl_grimes Well , what about you ?", "meta": {}, "annotation_approver": null, "labels": [[30, 33, "rick_grimes"]]}
+{"id": 2653, "text": "rick_grimes I 'll be right here . Drop the lighter when I say . We 'll stop some of them from reaching the house and distract the others , so at least we 'll have a chance . Hey hey hey , look at me . You can do this . Carl . I love you . All right , go go go . Hey ! Hey ! You want some ? ! Come and get it ! Come on ! Come on ! Come on ! Over here ! Come on , over here . Come on , over here ! Carl , now !", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "rick_grimes"], [56, 57, "rick_grimes"], [64, 66, "multiple_persons"], [151, 153, "multiple_persons"], [196, 198, "rick_grimes"], [201, 204, "carl_grimes"], [219, 223, "carl_grimes"], [226, 227, "rick_grimes"], [233, 236, "carl_grimes"], [274, 277, "carl_grimes"], [396, 400, "carl_grimes"]]}
+{"id": 2654, "text": "glenn_rhee Keep it steady !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2655, "text": "maggie_greene I 'm trying !", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "maggie_greene"]]}
+{"id": 2656, "text": "glenn_rhee Damn it .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2657, "text": "beth_greene The barn 's on fire .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2658, "text": "patricia They 're headed for it . Maybe rick set it to draw 'em in .", "meta": {}, "annotation_approver": null, "labels": [[40, 44, "rick_grimes"]]}
+{"id": 2659, "text": "lori_grimes I ca n't find him anywhere .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "lori_grimes"], [26, 29, "carl_grimes"]]}
+{"id": 2660, "text": "carol_peletier So maybe he snuck outside .", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "carl_grimes"]]}
+{"id": 2661, "text": "lori_grimes What do I do ?", "meta": {}, "annotation_approver": null, "labels": [[20, 21, "lori_grimes"]]}
+{"id": 2662, "text": "carol_peletier He was here . He must 've run off , maybe looking for rick or went after Randall himself .", "meta": {}, "annotation_approver": null, "labels": [[69, 73, "rick_grimes"], [15, 17, "carl_grimes"], [29, 31, "carl_grimes"], [88, 95, "randall_culver"], [96, 103, "carl_grimes"]]}
+{"id": 2663, "text": "patricia Maybe he set the fire .", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "carl_grimes"]]}
+{"id": 2664, "text": "daryl_dixon Yo ! Must 've been rick or Shane who started that fire . Maybe they 're trying to get out back ! Why do n't you circle around ? Go !", "meta": {}, "annotation_approver": null, "labels": [[31, 35, "rick_grimes"], [39, 44, "shane_walsh"], [120, 123, "jimmy"]]}
+{"id": 2665, "text": "jimmy Got it !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2666, "text": "rick_grimes Hey ! Here ! Get in here ! Put it right there ! Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2667, "text": "jimmy Oh no !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2668, "text": "rick_grimes Carl , now ! All right , go .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "carl_grimes"]]}
+{"id": 2669, "text": "rick_grimes This way . This way !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2670, "text": "andrea_harrison They 're all over the place . There 's no corralling them . We 're gon na run out of ammo before we even make a dent .", "meta": {}, "annotation_approver": null, "labels": [[76, 78, "multiple_persons"], [113, 115, "multiple_persons"]]}
+{"id": 2671, "text": "theodore_douglas We need a new game plan .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "multiple_persons"]]}
+{"id": 2672, "text": "rick_grimes There . Head for the woods now , as fast as you guys can . Come on .", "meta": {}, "annotation_approver": null, "labels": [[56, 59, "multiple_persons"], [60, 64, "multiple_persons"]]}
+{"id": 2673, "text": "hershel_greene Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2674, "text": "lori_grimes I checked the shed . I ca n't find him anywhere .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "lori_grimes"], [33, 34, "lori_grimes"], [47, 50, "carl_grimes"]]}
+{"id": 2675, "text": "carol_peletier Not in the cellar or the attic .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2676, "text": "lori_grimes Why ca n't he listen for once ? Okay okay , if he followed his daddy , he went that way .", "meta": {}, "annotation_approver": null, "labels": [[23, 25, "carl_grimes"], [59, 61, "carl_grimes"], [71, 74, "carl_grimes"], [75, 80, "rick_grimes"], [83, 85, "carl_grimes"]]}
+{"id": 2677, "text": "carol_peletier No , you 'll lead 'em right to him . We ca n't stay here !", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "lori_grimes"], [52, 54, "multiple_persons"], [46, 49, "carl_grimes"]]}
+{"id": 2678, "text": "lori_grimes That 's my boy !", "meta": {}, "annotation_approver": null, "labels": [[20, 22, "lori_grimes"]]}
+{"id": 2679, "text": "carol_peletier You 're gon na have to trust . If we find him , he 's gon na need his mother . We 've got ta go .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "lori_grimes"], [49, 51, "multiple_persons"], [94, 96, "multiple_persons"], [57, 60, "carl_grimes"], [63, 65, "carl_grimes"], [81, 84, "carl_grimes"], [85, 91, "lori_grimes"]]}
+{"id": 2680, "text": "lori_grimes Get the others . Carl !", "meta": {}, "annotation_approver": null, "labels": [[29, 33, "carl_grimes"]]}
+{"id": 2681, "text": "carol_peletier Beth , Patricia , come on . We 've got ta go now . lori .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "beth_greene"], [22, 30, "patricia"], [43, 45, "multiple_persons"], [66, 70, "lori_grimes"]]}
+{"id": 2682, "text": "lori_grimes Hershel . Hershel . Hershel ! Hershel , it 's time to go !", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "hershel_greene"], [22, 29, "hershel_greene"], [32, 39, "hershel_greene"], [42, 49, "hershel_greene"]]}
+{"id": 2683, "text": "carol_peletier Come on ! Now !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2684, "text": "lori_grimes Hershel ! Hershel !", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "hershel_greene"], [22, 29, "hershel_greene"]]}
+{"id": 2685, "text": "carol_peletier We got ta go . We got ta get out of here . We got ta go .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "multiple_persons"], [30, 32, "multiple_persons"], [58, 60, "multiple_persons"]]}
+{"id": 2686, "text": "lori_grimes Stay behind me . Stay behind me . Come on , girls . Come on .", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "lori_grimes"], [41, 43, "lori_grimes"]]}
+{"id": 2687, "text": "carol_peletier No ! No !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2688, "text": "beth_greene Dad .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "hershel_greene"]]}
+{"id": 2689, "text": "andrea_harrison Get in !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2690, "text": "beth_greene Dad !", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "hershel_greene"]]}
+{"id": 2691, "text": "lori_grimes Get Carol -- she ran that way .", "meta": {}, "annotation_approver": null, "labels": [[16, 21, "carol_peletier"], [25, 28, "carol_peletier"]]}
+{"id": 2692, "text": "theodore_douglas Get in !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2693, "text": "carol_peletier Look out !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2694, "text": "lori_grimes They got her ! We got ta go ! Dog , come on !", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "multiple_persons"], [21, 24, "carol_peletier"], [42, 45, "theodore_douglas-hershel_greene"]]}
+{"id": 2695, "text": "maggie_greene Where the hell are they going ? Should I follow them ?", "meta": {}, "annotation_approver": null, "labels": [[53, 54, "maggie_greene"]]}
+{"id": 2696, "text": "glenn_rhee I 'd say yes . Swing it around . Swing it around here . Whoa whoa whoa whoa .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "glenn_rhee"]]}
+{"id": 2697, "text": "maggie_greene Oh my god .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "maggie_greene"]]}
+{"id": 2698, "text": "maggie_greene I ca n't get through .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "maggie_greene"]]}
+{"id": 2699, "text": "glenn_rhee Head out .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2700, "text": "maggie_greene What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2701, "text": "glenn_rhee Get off the farm now .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2702, "text": "maggie_greene Do n't say that .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2703, "text": "glenn_rhee Maggie , it 's lost !", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "maggie_greene"]]}
+{"id": 2704, "text": "maggie_greene The others -- we ca n't leave them .", "meta": {}, "annotation_approver": null, "labels": [[28, 30, "multiple_persons"]]}
+{"id": 2705, "text": "glenn_rhee Get off the farm now !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2706, "text": "hershel_greene Come on ! Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2707, "text": "hershel_greene Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2708, "text": "rick_grimes Where 's Lori ? Did you see Lori ?", "meta": {}, "annotation_approver": null, "labels": [[21, 25, "lori_grimes"], [40, 44, "lori_grimes"], [32, 35, "hershel_greene"]]}
+{"id": 2709, "text": "hershel_greene I do n't know what happened , Rick . They just keep coming . It 's like a plague . They 're everywhere .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "hershel_greene"], [45, 49, "rick_grimes"]]}
+{"id": 2710, "text": "rick_grimes Lori ! Did you see her ?", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "lori_grimes"], [31, 34, "lori_grimes"], [23, 26, "hershel_greene"]]}
+{"id": 2711, "text": "hershel_greene No !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2712, "text": "rick_grimes We have to go . Find mom and the others .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"], [33, 36, "lori_grimes"]]}
+{"id": 2713, "text": "hershel_greene It 's my farm !", "meta": {}, "annotation_approver": null, "labels": [[21, 23, "hershel_greene"]]}
+{"id": 2714, "text": "rick_grimes Not anymore ! Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2715, "text": "hershel_greene Come on ! Come on ! Come on !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2716, "text": "rick_grimes Hershel ! Come on !", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "hershel_greene"]]}
+{"id": 2717, "text": "hershel_greene Go .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2718, "text": "andrea_harrison Rick ! Rick ! Wait !", "meta": {}, "annotation_approver": null, "labels": [[0, 20, "rick_grimes"], [23, 27, "rick_grimes"]]}
+{"id": 2719, "text": "daryl_dixon Come on . I ai n't got all day !", "meta": {}, "annotation_approver": null, "labels": [[22, 23, "daryl_dixon"]]}
+{"id": 2720, "text": "carol_peletier Let 's go !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2721, "text": "maggie_greene Oh my god . Oh my god .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "maggie_greene"], [29, 31, "maggie_greene"]]}
+{"id": 2722, "text": "glenn_rhee All right , let 's just -- let 's just circle back to the highway .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2723, "text": "maggie_greene Did you see my dad ? Did -- did he make it ? Did you see ?", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "glenn_rhee"], [26, 28, "maggie_greene"], [63, 66, "glenn_rhee"], [29, 32, "hershel_greene"], [46, 48, "hershel_greene"]]}
+{"id": 2724, "text": "glenn_rhee I could n't see anything .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "glenn_rhee"]]}
+{"id": 2725, "text": "maggie_greene And Beth -- I lost Beth . We 've got ta go back there .", "meta": {}, "annotation_approver": null, "labels": [[18, 22, "beth_greene"], [26, 27, "maggie_greene"], [33, 37, "beth_greene"], [40, 42, "multiple_persons"]]}
+{"id": 2726, "text": "glenn_rhee We ca n't go back , okay ? There 's nothing to go back to .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "multiple_persons"]]}
+{"id": 2727, "text": "maggie_greene But Beth-- .", "meta": {}, "annotation_approver": null, "labels": [[18, 24, "hershel_greene"]]}
+{"id": 2728, "text": "glenn_rhee I - I -- I think she was with Lori , Mazie , Zach & amp ; Felix .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "glenn_rhee"], [15, 16, "glenn_rhee"], [20, 21, "glenn_rhee"], [41, 45, "lori_grimes"], [28, 31, "beth_greene"], [48, 53, "UNKNOWN"], [56, 60, "UNKNOWN"], [69, 74, "UNKNOWN"]]}
+{"id": 2729, "text": "maggie_greene Did they make it ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2730, "text": "glenn_rhee I do n't know .", "meta": {}, "annotation_approver": null, "labels": [[0, 12, "glenn_rhee"]]}
+{"id": 2731, "text": "maggie_greene Patricia ? Jimmy ? What if they did n't make it ? What if nobody made it ?", "meta": {}, "annotation_approver": null, "labels": [[0, 22, "patricia"], [25, 30, "jimmy"]]}
+{"id": 2732, "text": "glenn_rhee They made it , okay ? They had to . All right , let 's just circle around to the highway where we left supplies for Sophia .", "meta": {}, "annotation_approver": null, "labels": [[106, 108, "multiple_persons"], [127, 133, "sophia"]]}
+{"id": 2733, "text": "maggie_greene No , the herd came from that direction .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2734, "text": "glenn_rhee Just stop . Stop the car . Stop the car .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2735, "text": "glenn_rhee Let me drive .", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "glenn_rhee"]]}
+{"id": 2736, "text": "glenn_rhee Hey hey hey hey . Hey , Maggie , look at me . Look at me . Hey , we 're alive . We made it . Okay ? I 'm sure they are too . Right ? I love you . Maggie , I love you . I should 've said it a long time ago and it 's been true for a long time . We 're gon na be all right , okay ? We 'll be all right .", "meta": {}, "annotation_approver": null, "labels": [[35, 41, "maggie_greene"], [52, 54, "glenn_rhee"], [65, 67, "glenn_rhee"], [76, 78, "multiple_persons"], [91, 93, "multiple_persons"], [111, 112, "glenn_rhee"], [144, 145, "glenn_rhee"], [151, 154, "maggie_greene"], [157, 163, "maggie_greene"], [166, 167, "glenn_rhee"], [173, 176, "maggie_greene"], [179, 180, "glenn_rhee"], [254, 256, "multiple_persons"], [290, 292, "multiple_persons"]]}
+{"id": 2737, "text": "maggie_greene Okay . Yeah .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2738, "text": "carl_grimes Wait , where 's mom ? You said she 'd be here . W -- we got ta go back for her .", "meta": {}, "annotation_approver": null, "labels": [[43, 46, "lori_grimes"], [65, 67, "multiple_persons"], [87, 90, "lori_grimes"], [28, 31, "lori_grimes"], [34, 37, "rick_grimes"]]}
+{"id": 2739, "text": "rick_grimes Carl-- .", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "carl_grimes"]]}
+{"id": 2740, "text": "carl_grimes No . Why are we running ? What are you doing ? It's -- it is mom . We need to get her and not be safe a mile away .", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "multiple_persons"], [47, 50, "rick_grimes"], [79, 81, "multiple_persons"], [94, 97, "lori_grimes"], [73, 76, "lori_grimes"]]}
+{"id": 2741, "text": "rick_grimes Shh . You need to be quiet , all right ? Please .", "meta": {}, "annotation_approver": null, "labels": [[18, 21, "carl_grimes"]]}
+{"id": 2742, "text": "carl_grimes Please . It 's mom .", "meta": {}, "annotation_approver": null, "labels": [[27, 30, "lori_grimes"]]}
+{"id": 2743, "text": "rick_grimes Look , Carl , listen-- .", "meta": {}, "annotation_approver": null, "labels": [[19, 23, "carl_grimes"]]}
+{"id": 2744, "text": "carl_grimes No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2745, "text": "hershel_greene Rick . You 've got to get your boy to safety . I 'll wait here for my girls and the others . I know a few places . We 'll meet up at one of them later .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "rick_grimes"], [62, 63, "hershel_greene"], [82, 84, "hershel_greene"], [108, 109, "hershel_greene"], [130, 132, "multiple_persons"], [22, 25, "rick_grimes"], [41, 45, "rick_grimes"]]}
+{"id": 2746, "text": "rick_grimes Where ? Where is safe ? We 're not splitting up .", "meta": {}, "annotation_approver": null, "labels": [[36, 38, "multiple_persons"]]}
+{"id": 2747, "text": "hershel_greene Please , keep your boy safe . I 'll hide in one of the cars . If a walker gets me , so be it . I 've lost my farm . I 've lost my wife and maybe my daughters .", "meta": {}, "annotation_approver": null, "labels": [[29, 33, "rick_grimes"], [45, 46, "hershel_greene"], [94, 96, "hershel_greene"], [110, 111, "hershel_greene"], [121, 123, "hershel_greene"], [131, 132, "hershel_greene"], [142, 144, "hershel_greene"], [160, 162, "hershel_greene"]]}
+{"id": 2748, "text": "rick_grimes You do n't know that . They 'll be here .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "hershel_greene"]]}
+{"id": 2749, "text": "hershel_greene And you do n't know that .", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "rick_grimes"]]}
+{"id": 2750, "text": "rick_grimes You 're a man of god . Have some faith .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "hershel_greene"]]}
+{"id": 2751, "text": "hershel_greene I ca n't profess to understand god 's plan , but christ promised the resurrection of the dead . I just thought he had something a little different in mind .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "hershel_greene"], [111, 112, "hershel_greene"], [126, 128, "UNKNOWN"]]}
+{"id": 2752, "text": "rick_grimes We stick together .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2753, "text": "lori_grimes Hey , we got ta turn around .", "meta": {}, "annotation_approver": null, "labels": [[18, 20, "multiple_persons"]]}
+{"id": 2754, "text": "theodore_douglas Straight back to that herd ? Um , no .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2755, "text": "lori_grimes The highway 's back there . That 's where they 'll be . rick will go back to where we first broke down and glenn too .", "meta": {}, "annotation_approver": null, "labels": [[68, 72, "rick_grimes"], [95, 97, "multiple_persons"], [119, 124, "glenn_rhee"]]}
+{"id": 2756, "text": "theodore_douglas We 're headed east , get to the coast . We should 've done that from the jump . Look , we 've got a shot to get out of here in one piece .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "multiple_persons"], [57, 59, "multiple_persons"], [104, 106, "multiple_persons"]]}
+{"id": 2757, "text": "lori_grimes I got ta find Carl . He may have escaped with somebody .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "lori_grimes"], [26, 30, "carl_grimes"], [33, 35, "carl_grimes"]]}
+{"id": 2758, "text": "theodore_douglas I hate to say it , but he 's on his own . There 's no way to even begin to start looking .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "theodore_douglas"], [40, 42, "carl_grimes"], [49, 52, "carl_grimes"]]}
+{"id": 2759, "text": "lori_grimes You 're wrong .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "theodore_douglas"]]}
+{"id": 2760, "text": "theodore_douglas Look , we ca n't go back . I 'm sorry . It 's suicide .", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "multiple_persons"], [44, 45, "theodore_douglas"]]}
+{"id": 2761, "text": "lori_grimes All right , then let me out .", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "lori_grimes"]]}
+{"id": 2762, "text": "theodore_douglas Hey ! Whoa !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2763, "text": "lori_grimes Then turn around , or you let us out right now .", "meta": {}, "annotation_approver": null, "labels": [[34, 37, "theodore_douglas"], [42, 44, "multiple_persons"]]}
+{"id": 2764, "text": "theodore_douglas I should do it , you know . Okay ?", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "theodore_douglas"], [34, 37, "lori_grimes"]]}
+{"id": 2765, "text": "lori_grimes T - dog .", "meta": {}, "annotation_approver": null, "labels": [[12, 13, "theodore_douglas-hershel_greene"], [14, 15, "theodore_douglas-hershel_greene"], [16, 19, "theodore_douglas-hershel_greene"]]}
+{"id": 2766, "text": "theodore_douglas You 're out of your damn minds .", "meta": {}, "annotation_approver": null, "labels": [[17, 20, "multiple_persons"], [32, 36, "multiple_persons"]]}
+{"id": 2767, "text": "rick_grimes Okay . Come come come come .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2768, "text": "hershel_greene I do n't know how much longer we can stay here .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "hershel_greene"], [45, 47, "multiple_persons"]]}
+{"id": 2769, "text": "carl_grimes I -- I'm not leaving without mom .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "carl_grimes"], [41, 44, "lori_grimes"], [17, 20, "carl_grimes"]]}
+{"id": 2770, "text": "rick_grimes So we 're just gon na walk away ? Not knowing if my wife , your girls are still out there ? How do we live with that ?", "meta": {}, "annotation_approver": null, "labels": [[15, 17, "multiple_persons"], [61, 63, "rick_grimes"], [111, 113, "multiple_persons"], [71, 75, "hershel_greene"]]}
+{"id": 2771, "text": "hershel_greene You 've only got one concern now -- just one -- keeping him alive . Nature may be throwing us a curveball , but that law is still true .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "rick_grimes"], [106, 108, "multiple_persons"], [71, 74, "carl_grimes"]]}
+{"id": 2772, "text": "rick_grimes Carl . It 's not safe here . I 'm sorry . We'll-- .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "carl_grimes"], [41, 42, "rick_grimes"]]}
+{"id": 2773, "text": "lori_grimes Oh thank god !", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2774, "text": "rick_grimes Where 'd you find everyone ?", "meta": {}, "annotation_approver": null, "labels": [[21, 24, "multiple_persons"]]}
+{"id": 2775, "text": "daryl_dixon Well , those guys ' tail lights zigzagging all over the road -- figured he had to be Asian , driving like that .", "meta": {}, "annotation_approver": null, "labels": [[84, 86, "glenn_rhee"]]}
+{"id": 2776, "text": "glenn_rhee Good one .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2777, "text": "daryl_dixon Where 's the rest of us ?", "meta": {}, "annotation_approver": null, "labels": [[33, 35, "multiple_persons"]]}
+{"id": 2778, "text": "rick_grimes We 're the only ones who made it so far .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2779, "text": "lori_grimes Shane ?", "meta": {}, "annotation_approver": null, "labels": [[12, 17, "shane_walsh"]]}
+{"id": 2780, "text": "glenn_rhee Andrea ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "andrea_harrison"]]}
+{"id": 2781, "text": "carol_peletier She saved me , then I lost her .", "meta": {}, "annotation_approver": null, "labels": [[25, 27, "carol_peletier"], [35, 36, "carol_peletier"], [15, 18, "andrea_harrison"], [42, 45, "andrea_harrison"]]}
+{"id": 2782, "text": "theodore_douglas We saw her go down .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "multiple_persons"], [24, 27, "andrea_harrison"]]}
+{"id": 2783, "text": "hershel_greene Patricia ?", "meta": {}, "annotation_approver": null, "labels": [[0, 23, "patricia"]]}
+{"id": 2784, "text": "beth_greene They got her too , took her right in front of me . I was-- I was holdin ' onto her daddy . She just -- What about Jimmy ? Did you see Jimmy ?", "meta": {}, "annotation_approver": null, "labels": [[58, 60, "beth_greene"], [63, 64, "beth_greene"], [71, 72, "beth_greene"], [126, 131, "jimmy"], [146, 151, "jimmy"], [21, 24, "patricia"], [36, 39, "patricia"], [91, 94, "patricia"], [95, 100, "hershel_greene"], [103, 106, "patricia"], [138, 141, "multiple_persons"]]}
+{"id": 2785, "text": "rick_grimes He was in the RV . It got overrun .", "meta": {}, "annotation_approver": null, "labels": [[12, 14, "jimmy"]]}
+{"id": 2786, "text": "carol_peletier You definitely saw Andrea ?", "meta": {}, "annotation_approver": null, "labels": [[34, 40, "andrea_harrison"], [15, 18, "multiple_persons"]]}
+{"id": 2787, "text": "lori_grimes There were walkers everywhere .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2788, "text": "carol_peletier Did you see her ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "multiple_persons"], [27, 30, "andrea_harrison"]]}
+{"id": 2789, "text": "daryl_dixon I 'm gon na go back .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "daryl_dixon"]]}
+{"id": 2790, "text": "rick_grimes No .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2791, "text": "daryl_dixon We ca n't just leave her .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"], [33, 36, "andrea_harrison"]]}
+{"id": 2792, "text": "lori_grimes We do n't even know if she 's there .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"], [35, 38, "andrea_harrison"]]}
+{"id": 2793, "text": "rick_grimes She is n't there . She is n't . She 's somewhere else or she 's dead . There 's no way to find her .", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "andrea_harrison"], [31, 34, "andrea_harrison"], [44, 47, "andrea_harrison"], [69, 72, "andrea_harrison"], [107, 110, "andrea_harrison"]]}
+{"id": 2794, "text": "glenn_rhee So we 're not even gon na look for her ?", "meta": {}, "annotation_approver": null, "labels": [[14, 16, "multiple_persons"], [46, 49, "andrea_harrison"]]}
+{"id": 2795, "text": "rick_grimes We got ta keep moving . There have been walkers crawling all over here .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2796, "text": "theodore_douglas I say head east .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "theodore_douglas"]]}
+{"id": 2797, "text": "daryl_dixon Stay off the main roads . The bigger the road , the more walkers , more asshole like this one . I got him .", "meta": {}, "annotation_approver": null, "labels": [[108, 109, "daryl_dixon"], [114, 117, "UNKNOWN"]]}
+{"id": 2798, "text": "andrea_harrison Damn it .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2799, "text": "andrea_harrison Oh shit .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2800, "text": "rick_grimes Damn .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2801, "text": "lori_grimes What 's wrong ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2802, "text": "rick_grimes We 've been riding red for the past hour .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2803, "text": "theodore_douglas Better make sure we do n't get forgot .", "meta": {}, "annotation_approver": null, "labels": [[34, 36, "multiple_persons"]]}
+{"id": 2804, "text": "daryl_dixon You out ?", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "rick_grimes"]]}
+{"id": 2805, "text": "rick_grimes Running on fumes .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2806, "text": "maggie_greene We ca n't stay here .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"]]}
+{"id": 2807, "text": "glenn_rhee We ca n't all fit in one car .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "multiple_persons"]]}
+{"id": 2808, "text": "rick_grimes We 'll have to make a run for some gas in the morning .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2809, "text": "carol_peletier Spend the night here ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2810, "text": "carl_grimes I 'm freezing .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "carl_grimes"]]}
+{"id": 2811, "text": "lori_grimes We 'll build a fire , yeah ?", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2812, "text": "daryl_dixon You go out looking for firewood , stay close . Only got so many arrows . How you doing on ammo ?", "meta": {}, "annotation_approver": null, "labels": [[12, 15, "multiple_persons"], [89, 92, "rick_grimes"]]}
+{"id": 2813, "text": "rick_grimes Not enough .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2814, "text": "maggie_greene We ca n't just sit here with our asses hanging out .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "multiple_persons"], [43, 46, "multiple_persons"]]}
+{"id": 2815, "text": "hershel_greene Watch your mouth . Everyone stop panicking and listen to rick .", "meta": {}, "annotation_approver": null, "labels": [[21, 25, "maggie_greene"], [72, 76, "rick_grimes"]]}
+{"id": 2816, "text": "rick_grimes All right , we 'll set up a perimeter . In the morning , we 'll find gas and some supplies . We 'll keep pushing on .", "meta": {}, "annotation_approver": null, "labels": [[24, 26, "multiple_persons"], [69, 71, "multiple_persons"], [105, 107, "multiple_persons"]]}
+{"id": 2817, "text": "maggie_greene glenn and I can go make a run now , try and scrounge up some gas .", "meta": {}, "annotation_approver": null, "labels": [[0, 19, "glenn_rhee"], [24, 25, "maggie_greene"]]}
+{"id": 2818, "text": "rick_grimes No , we stay together . God forbid something happens and people get stranded without a car .", "meta": {}, "annotation_approver": null, "labels": [[17, 19, "multiple_persons"]]}
+{"id": 2819, "text": "glenn_rhee Rick , we 're stranded now .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "rick_grimes"], [18, 20, "multiple_persons"]]}
+{"id": 2820, "text": "rick_grimes I know it looks bad , we 've all been through hell and worse , but at least we found each other . I was n't sure -- I really wasn't -- but we did . We 're together . We keep it that way . We 'll find shelter somewhere . There 's got ta be a place .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "rick_grimes"], [34, 36, "multiple_persons"], [88, 90, "multiple_persons"], [110, 111, "rick_grimes"], [128, 129, "rick_grimes"], [151, 153, "multiple_persons"], [160, 162, "multiple_persons"], [178, 180, "multiple_persons"], [200, 202, "multiple_persons"]]}
+{"id": 2821, "text": "glenn_rhee Rick , look around . Okay ? There 's walkers everywhere . They 're migrating or something .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "rick_grimes"]]}
+{"id": 2822, "text": "rick_grimes There 's got ta be a place not just where we hole up , but that we fortify , hunker down , pull ourselves together , build a life for each other . I know it 's out there . We just have to find it .", "meta": {}, "annotation_approver": null, "labels": [[54, 56, "multiple_persons"], [76, 78, "multiple_persons"], [159, 160, "rick_grimes"], [184, 186, "multiple_persons"]]}
+{"id": 2823, "text": "maggie_greene Even if we do find a place and we think it 's safe , we can never be sure . For how long ? Look what happened with the farm . We fooled ourselves into thinking that that was safe .", "meta": {}, "annotation_approver": null, "labels": [[22, 24, "multiple_persons"], [45, 47, "multiple_persons"], [67, 69, "multiple_persons"], [140, 142, "multiple_persons"]]}
+{"id": 2824, "text": "hershel_greene We wo n't make that mistake again .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "multiple_persons"]]}
+{"id": 2825, "text": "rick_grimes We 'll make camp tonight over there , get on the road at the break of day .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2826, "text": "carol_peletier Does this feel right to you ?", "meta": {}, "annotation_approver": null, "labels": [[39, 42, "daryl_dixon"]]}
+{"id": 2827, "text": "beth_greene What if walkers come through , or another group like Randall 's ?", "meta": {}, "annotation_approver": null, "labels": [[65, 72, "randall_culver"]]}
+{"id": 2828, "text": "daryl_dixon You know I found Randall , right ? He had turned , but he was n't bit .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "beth_greene"], [21, 22, "daryl_dixon"], [29, 36, "randall_culver"], [47, 49, "randall_culver"], [67, 69, "randall_culver"]]}
+{"id": 2829, "text": "beth_greene How 's that possible ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2830, "text": "lori_grimes Rick , what the hell happened ?", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "rick_grimes"]]}
+{"id": 2831, "text": "daryl_dixon Shane killed Randall . Just like he always wanted to .", "meta": {}, "annotation_approver": null, "labels": [[12, 17, "shane_walsh"], [25, 32, "randall_culver"], [45, 47, "shane_walsh"]]}
+{"id": 2832, "text": "lori_grimes And then the herd got him ?", "meta": {}, "annotation_approver": null, "labels": [[34, 37, "shane_walsh"]]}
+{"id": 2833, "text": "rick_grimes We 're all infected .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "multiple_persons"]]}
+{"id": 2834, "text": "daryl_dixon What ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2835, "text": "rick_grimes At the CDC , Jenner told me . Whatever it is , we all carry it .", "meta": {}, "annotation_approver": null, "labels": [[37, 39, "rick_grimes"], [59, 61, "multiple_persons"], [25, 31, "edwin_jenner"]]}
+{"id": 2836, "text": "carol_peletier And you never said anything ?", "meta": {}, "annotation_approver": null, "labels": [[19, 22, "rick_grimes"]]}
+{"id": 2837, "text": "daryl_dixon Would it have made a difference ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2838, "text": "glenn_rhee You know this whole time ?", "meta": {}, "annotation_approver": null, "labels": [[11, 14, "rick_grimes"]]}
+{"id": 2839, "text": "rick_grimes How could I have known for sure ? You saw how crazy that mo-- .", "meta": {}, "annotation_approver": null, "labels": [[22, 23, "rick_grimes"], [46, 49, "daryl_dixon"]]}
+{"id": 2840, "text": "glenn_rhee That is n't your call . Okay , when I found out about the walkers in the barn , I told , for the good of everyone .", "meta": {}, "annotation_approver": null, "labels": [[23, 27, "rick_grimes"], [47, 48, "glenn_rhee"], [91, 92, "glenn_rhee"]]}
+{"id": 2841, "text": "rick_grimes Well , I thought it best that people did n't know .", "meta": {}, "annotation_approver": null, "labels": [[19, 20, "rick_grimes"]]}
+{"id": 2842, "text": "lori_grimes I 'm sure you had your reasons is there anything that-- .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "lori_grimes"], [22, 25, "rick_grimes"], [30, 34, "rick_grimes"]]}
+{"id": 2843, "text": "rick_grimes I killed him . I killed Shane . He came at me . He killed Randall to get me into the woods . He planned it . I had -- I had no choice . I gave him every chance and he kept leading me further out . He pushed me , and I let him . And after awhile , I knew -- I knew what he was doing , what he was up to . And I kept going . I did n't stop . I could have , but . I just wanted it over . Dogging me every step of the way . Acting like I stole you and Carl , like -- like I was in the way . I just wanted it over . I wanted him dead . I killed him . He turned . That 's how I knew Jenner -- Jenner was right . carl put him down .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "rick_grimes"], [27, 28, "rick_grimes"], [55, 57, "rick_grimes"], [85, 87, "rick_grimes"], [121, 122, "rick_grimes"], [130, 131, "rick_grimes"], [148, 149, "rick_grimes"], [192, 194, "rick_grimes"], [219, 221, "rick_grimes"], [228, 229, "rick_grimes"], [259, 260, "rick_grimes"], [269, 270, "rick_grimes"], [320, 321, "rick_grimes"], [335, 336, "rick_grimes"], [352, 353, "rick_grimes"], [373, 374, "rick_grimes"], [405, 407, "rick_grimes"], [444, 445, "rick_grimes"], [452, 455, "lori_grimes"], [460, 464, "carl_grimes"], [480, 481, "rick_grimes"], [499, 500, "rick_grimes"], [523, 524, "rick_grimes"], [543, 544, "rick_grimes"], [582, 583, "rick_grimes"], [618, 622, "carl_grimes"], [21, 24, "shane_walsh"], [36, 41, "shane_walsh"], [44, 46, "shane_walsh"], [60, 62, "shane_walsh"], [70, 77, "randall_culver"], [105, 107, "shane_walsh"], [155, 158, "shane_walsh"], [176, 178, "shane_walsh"], [209, 211, "shane_walsh"], [234, 237, "shane_walsh"], [281, 283, "shane_walsh"], [301, 303, "shane_walsh"], [532, 535, "shane_walsh"], [552, 555, "shane_walsh"], [558, 560, "shane_walsh"], [589, 595, "edwin_jenner"], [599, 605, "edwin_jenner"], [627, 630, "shane_walsh"]]}
+{"id": 2844, "text": "lori_grimes Ooh .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2845, "text": "carol_peletier We 're not safe with him -- keeping something like that from us . Why do you need him ? He 's just gon na pull you down .", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "multiple_persons"], [76, 78, "multiple_persons"], [36, 39, "rick_grimes"], [97, 100, "rick_grimes"], [103, 105, "rick_grimes"], [88, 91, "daryl_dixon"], [126, 129, "daryl_dixon"]]}
+{"id": 2846, "text": "daryl_dixon No . Rick 's done all right by me .", "meta": {}, "annotation_approver": null, "labels": [[17, 21, "rick_grimes"], [43, 45, "daryl_dixon"]]}
+{"id": 2847, "text": "carol_peletier You 're his henchman and I 'm a burden . You deserve better .", "meta": {}, "annotation_approver": null, "labels": [[0, 18, "daryl_dixon"], [40, 41, "carol_peletier"], [56, 59, "daryl_dixon"], [23, 26, "rick_grimes"]]}
+{"id": 2848, "text": "daryl_dixon What do you want ?", "meta": {}, "annotation_approver": null, "labels": [[20, 23, "carol_peletier"]]}
+{"id": 2849, "text": "carol_peletier A man of honor .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2850, "text": "daryl_dixon rick has honor .", "meta": {}, "annotation_approver": null, "labels": [[0, 16, "rick_grimes"]]}
+{"id": 2851, "text": "maggie_greene I think we should take our chances .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "maggie_greene"], [22, 24, "multiple_persons"], [37, 40, "multiple_persons"]]}
+{"id": 2852, "text": "hershel_greene Do n't be foolish . There 's no food , no fuel , no ammo .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2853, "text": "beth_greene What was that ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2854, "text": "daryl_dixon Could be anything . Could be a raccoon , could be a possum .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2855, "text": "glenn_rhee Walker .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2856, "text": "carol_peletier We need to leave . What are we waiting for ?", "meta": {}, "annotation_approver": null, "labels": [[0, 17, "multiple_persons"], [43, 45, "multiple_persons"]]}
+{"id": 2857, "text": "glenn_rhee Which way ?", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2858, "text": "maggie_greene It came from over there .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2859, "text": "beth_greene Back from where we came .", "meta": {}, "annotation_approver": null, "labels": [[28, 30, "multiple_persons"]]}
+{"id": 2860, "text": "maggie_greene Yeah .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2861, "text": "rick_grimes The last thing we need is for everyone to be running off in the dark . We do n't have the vehicles . No one 's traveling on foot .", "meta": {}, "annotation_approver": null, "labels": [[27, 29, "multiple_persons"], [83, 85, "multiple_persons"]]}
+{"id": 2862, "text": "hershel_greene Do n't panic .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2863, "text": "maggie_greene I 'm not -- I'm not sitting here , waiting for another herd to blow through . We need to move , now .", "meta": {}, "annotation_approver": null, "labels": [[0, 15, "maggie_greene"], [92, 94, "multiple_persons"], [26, 29, "maggie_greene"]]}
+{"id": 2864, "text": "rick_grimes No one is going anywhere .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2865, "text": "carol_peletier Do something .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2866, "text": "rick_grimes I am doing something ! I 'm keeping this group together , alive . I 've been doing that all along , no matter what . I did n't ask for this . I killed my best friend for you people for Christ 's sake ! You saw what he was like , how he pushed me , how he compromised us , how he threatened us . He staged the whole Randall thing , led me out to put a bullet in my back . He gave me no choice . He was my friend , but he came after me .", "meta": {}, "annotation_approver": null, "labels": [[0, 13, "rick_grimes"], [35, 36, "rick_grimes"], [78, 79, "rick_grimes"], [129, 130, "rick_grimes"], [154, 155, "rick_grimes"], [163, 165, "rick_grimes"], [255, 257, "rick_grimes"], [279, 281, "multiple_persons"], [302, 304, "multiple_persons"], [347, 349, "rick_grimes"], [373, 375, "rick_grimes"], [391, 393, "rick_grimes"], [413, 415, "rick_grimes"], [443, 445, "rick_grimes"], [182, 185, "multiple_persons"], [197, 203, "UNKNOWN"], [214, 217, "multiple_persons"], [227, 229, "shane_walsh"], [245, 247, "shane_walsh"], [264, 266, "shane_walsh"], [288, 290, "shane_walsh"], [307, 309, "shane_walsh"], [327, 334, "randall_culver"], [383, 385, "shane_walsh"], [406, 408, "shane_walsh"], [429, 431, "shane_walsh"]]}
+{"id": 2867, "text": "rick_grimes My hands are clean .", "meta": {}, "annotation_approver": null, "labels": [[0, 14, "rick_grimes"]]}
+{"id": 2868, "text": "lori_grimes Shh shh shh shh shh .", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 2869, "text": "rick_grimes Maybe you people are better off without me . Go ahead . I say there 's a place for us , but maybe -- maybe it 's just another pipe dream . Maybe -- maybe I 'm fooling myself again . Why do n't you -- why do n't you go and find out yourself ? Send me a postcard . Go on , there 's the door . You can do better ? Let 's see how far you get . No takers ? Fine . But get one thing straight -- you're staying , this is n't a democracy anymore .", "meta": {}, "annotation_approver": null, "labels": [[52, 54, "rick_grimes"], [68, 69, "rick_grimes"], [95, 97, "multiple_persons"], [166, 167, "rick_grimes"], [179, 185, "rick_grimes"], [259, 261, "rick_grimes"], [18, 21, "multiple_persons"], [205, 208, "multiple_persons"], [223, 226, "multiple_persons"], [243, 251, "multiple_persons"], [303, 306, "multiple_persons"], [342, 345, "multiple_persons"]]}
