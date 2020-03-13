@@ -1,504 +1,605 @@
-#unknown Well, we've come a long way, Walt.
-#unknown Here at the end of round one l'm gonna recommend cautious optimism.
-#unknown We'll check back in two months, see how you've responded reassess and decide our next move, if any.
-#unknown That's right around the time the baby's due, correct? Yeah.
-#unknown Well, try to think of this as good timing.
-#unknown You'll start feeling better soon, more like yourself.
-#unknown And your hair should start to come back.
-#unknown Kind of gotten used to the old cueball look.
-#unknown I prefer to think of it as streamlined.
-#unknown Right.
-#unknown Aerodynamic.
-#unknown So no more confusion? No more? No.
-#unknown No.
-#unknown Absolutely none.
-#unknown How are you two holding up? Fine.
-#unknown I mean, you know, we're busy but we're good.
-#unknown Absolutely.
-#unknown It's all good.
-#unknown So we're not going through an insurer.
-#unknown Is that correct? Yes.
-#unknown Direct bill.
-#unknown Just need to print it out for you.
-#unknown Thank you.
-#unknown I thought we had discussed a cash discount.
-#unknown Absolutely.
-#unknown It's included.
-#unknown Just a reminder.
-#unknown We do have a payment plan available, should you be interested.
-#unknown Oh, yeah.
-#unknown Okay.
-#unknown Congratulations.
-#unknown Thank you.
-#unknown Okay, well, then what about the MRI? Can you? Can you please explain to me the distinction between diagnostic and exploratory? Yeah, but either way, his doctor ordered it.
-#unknown Okay, you know, it should be covered.
-#unknown You bet I will.
-#unknown Yeah, in triplicate.
-#unknown Okay.
-#unknown Well, I'm sorry you couldn't be of more help too.
-#unknown Yeah.
-#unknown Okay.
-#unknown Bitch.
-#unknown Hi.
-#unknown Been around someone who smokes? No.
-#unknown The hospital bill came.
-#unknown That was fast.
-#unknown Yeah.
-#unknown Threeday stay, Is this something that Gretchen and Elliott might cover? I mean I know it's strictly your domain, but.
-#unknown They will.
-#unknown I'm sure they will.
-#unknown I'll handle it.
-#unknown Oh, God.
-#unknown Bring me up to speed on Tuco Salamanca.
-#unknown Dead.
-#unknown Still? Completely.
-#unknown Okay, then.
-#unknown Well, thanks for stopping by.
-#unknown Okay.
-#unknown So things are quiet, you know.
-#unknown Not a lot of crystal on the streets now.
-#unknown Good.
-#unknown Of course, that's not gonna last.
-#unknown Wait to see who rallies the roaches now that turf's up for grabs.
-#unknown No takers so far? Well, we keep hearing a name.
-#unknown Heisenberg.
-#unknown Lately pretty much every dimebagger we come across.
-#unknown Heisenberg? Yeah, I know.
-#unknown Maybe it's a tweaker urban legend.
-#unknown Still, somebody somewhere is cooking that big blue we keep finding.
-#unknown Anyway, we'll stay on it.
-#unknown Know why sharks are at the top of the food chain, Hank? Because they have three sets of teeth and will take a bite out of anything? Some of those suckers travel thousands of miles in pursuit of their prey.
-#unknown Yeah, I think I heard that.
-#unknown You, my friend, are a great white.
-#unknown How does Albuquerque liaison TriState Border Interdiction Task Force sound? Like one hell of a promotion.
-#unknown As of the 1 st, I want you to split your time between here and El Paso.
-#unknown Thank you, sir.
-#unknown Thank you.
-#unknown What you gonna do without me, Gomey? Celebrate.
-#unknown I won't have to look at your ugly mug six days a week.
-#unknown Hey, buddy, I am the brains and the brawn.
-#unknown I'm the whole package.
-#unknown I'm glad I didn't just eat.
-#unknown I'm surprised your head still fits through the door.
-#unknown You wanna grab lunch? Hell, yeah.
-#unknown Because you're buying.
-#unknown Done.
-#unknown I'll meet you morons downstairs.
-#unknown Try not to get lost on the way.
-#unknown Schrader.
-#unknown Yeah.
-#unknown Hey, Ricky.
-#unknown How you doing? Yeah, I'm stoked too.
-#unknown Yeah, El Paso.
-#unknown Here's the man.
-#unknown Hey, congratulations, Hank.
-#unknown Thanks.
-#unknown Gets two in the sand, two in the forest, you know? And then he says, "Give me a four," you know? Hey.
-#unknown Hey.
-#unknown Hey.
-#unknown Got some nerve coming back here.
-#unknown Or you're even dumber than I thought.
-#unknown Yeah, well, maybe both.
-#unknown Balance for the tow, the repairs and extra for damages and stuff, the gate the toilet.
-#unknown Look, like I said my word is my bond.
-#unknown What would you charge me to store this here? A millionfive.
-#unknown Come on, yo.
-#unknown Your sister.
-#unknown Dog, I'm serious, all right? I got storage needs.
-#unknown And I got scratch up front.
-#unknown We could, you know, negotiate.
-#unknown Five hundred.
-#unknown A month? A week.
-#unknown For real? See you.
-#unknown Wait, wait, wait.
-#unknown Just hold on.
-#unknown Just chill.
-#unknown Okay.
-#unknown Sounds good.
-#unknown Totally doable.
-#unknown Outside.
-#unknown Inside.
-#unknown Forget it.
-#unknown Man, come on.
-#unknown Your fence is too easy to climb.
-#unknown Inside, padlocked, plus gate privileges.
-#unknown Come again? Gate, in and out, privileges.
-#unknown Month to month.
-#unknown Cash up front.
-#unknown Inside.
-#unknown And I don't know you.
-#unknown I don't know jack.
-#unknown Yeah.
-#unknown You selling? I'll let you take it for nine Gs.
-#unknown What about that one? Serious? It's Jane, right? Well, Jane, I gotta say, this place is awesome.
-#unknown Really? Does it inspire awe? No.
-#unknown I mean, you know, it's great.
-#unknown Just what I've been looking for.
-#unknown That's what I meant.
-#unknown I had an entire house before, detached and all but I was just tired of the lawn care, upkeep and whatnot.
-#unknown You know? Well, the blinds are new.
-#unknown Everything's been painted.
-#unknown Jesus.
-#unknown Utilities are included.
-#unknown Stacking.
-#unknown Sweet.
-#unknown You got cable? Already wired.
-#unknown Just call to activate.
-#unknown High speed, whatever.
-#unknown Bathroom, cool tile.
-#unknown Bedroom.
-#unknown Nice.
-#unknown I'm a fan of the hardwood.
-#unknown So you're interested? Definitely.
-#unknown Definitely, yeah.
-#unknown And you're good with NP, NS? Sorry.
-#unknown What? In the ad? No smoking, no pets.
-#unknown You wanna smoke, you do it outside.
-#unknown No.
-#unknown Yeah, yeah, yeah, no.
-#unknown It's cool.
-#unknown No worries.
-#unknown All right, the usual drill.
-#unknown I'll need a W2 or recent pay stub, current employer former address, you know, the yadda yadda.
-#unknown And if it's all copacetic, I'll call.
-#unknown Yeah.
-#unknown Look the thing is I can.
-#unknown Unbelievable.
-#unknown I'm just currently between situations.
-#unknown Then I'm currently not renting.
-#unknown Look, look, I got the money and I'm totally good for it for, like, ever.
-#unknown Come on, yo, can you please, please just help a brother out? Yo, my dad's not really a makeexceptions kind of guy.
-#unknown Trust me.
-#unknown Your dad? Owns the place.
-#unknown I manage it.
-#unknown Pen on paper.
-#unknown That's what I need.
-#unknown Or go run your game somewhere else.
-#unknown Dude, I got nowhere else to go.
-#unknown This is it.
-#unknown And I got no game, all right? I just need a chance.
-#unknown Look, my folks, they kicked me out.
-#unknown I'm a disappointment, apparently.
-#unknown Didn't meet their expectations again.
-#unknown So you know, now I'm persona non gratis or whatever.
-#unknown But you know what? I'm a good person and I work hard.
-#unknown I will pay you every month and I will pay you on time.
-#unknown I will not mess this up, okay? I swear.
-#unknown Rent just went up.
-#unknown A hundred more a month.
-#unknown That's the cash price.
-#unknown Yes.
-#unknown Okay.
-#unknown Yes.
-#unknown Hey, you rock.
-#unknown Thank you.
-#unknown Thank you.
-#unknown You won't regret this.
-#unknown And in addition to first and last, I want two more months.
-#unknown DBAA fee, nonrefundable.
-#unknown Yeah, of course.
-#unknown No problem.
-#unknown DBAA.
-#unknown Obviously, yeah.
-#unknown All right.
-#unknown So, what's DBAA? Don't be an asshole.
-#unknown Gotcha.
-#unknown I live next door.
-#unknown Really? Don't think for one second you have squatter's rights, because you don't.
-#unknown If you blow this, I want you gone.
-#unknown I know guys that'll have your skinny ass out back by the Dumpster faster than you can blink.
-#unknown I'll fill it in.
-#unknown Just sign your name.
-#unknown Which is what, by the way? It's Jesse.
-#unknown Jesse Jackson.
-#unknown Seriously? What? What are you doing? Beating off.
-#unknown What's it look like? That is in fact exactly what it looks like to me.
-#unknown Brewing is an art form, Marie.
-#unknown I think you'd appreciate that by now.
-#unknown Christmas, batch of '06? Come on.
-#unknown So let me get this straight.
-#unknown You call in sick the day after receiving a longawaited careerboosting promotion so you can play Oktoberfest in your man cave? I don't get it.
-#unknown Really, I don't.
-#unknown Babe, relax.
-#unknown Please, don't tell me to relax.
-#unknown Sorry, I forgot.
-#unknown You know I hate that.
-#unknown Right.
-#unknown Dave said I should express that.
-#unknown All I'm saying is everything's fine.
-#unknown I can take a day.
-#unknown No big deal.
-#unknown Now get that sweet ass out of here so I can concentrate.
-#unknown Okay, so, what's the plan? The plan is we cook.
-#unknown Why are we cooking when we can't even move what we cook? Well, how much do you think you can sell on your own? Say if I cook during the days and you work the nights.
-#unknown Dude.
-#unknown What? Prior to Tuco, that was your plan, wasn't it? I understand it'll be a fraction of what we brought in before but still, what choice do we have? First of all, there's no we.
-#unknown Okay? You're talking me, solo, busting hump slinging shards.
-#unknown I got profile now.
-#unknown Don't you get that? DEA's up my ass.
-#unknown No, I'm not exposing myself to that level of risk for chump change.
-#unknown No way.
-#unknown Then what do you suggest? I don't think either of us are eager to jump into bed with another Tuco.
-#unknown I got bills, man.
-#unknown You've got bills? Rent, yo.
-#unknown Responsibilities.
-#unknown I've already lost more than I've made and I am tired of dicking around out here.
-#unknown You wanna know how much I've got left? After completing my first round of treatment and financing the world's most expensive alibi? Zero.
-#unknown Zip.
-#unknown Nothing.
-#unknown I've got nothing to show for all of this.
-#unknown Nothing for my family which, as you might remember, was the whole damn point.
-#unknown But seeing as throwing in the towel is not an option that leaves us with a total of two choices.
-#unknown We go into business with yet another homicidal lunatic or you and I start You selling whatever you can.
-#unknown There's a third way.
-#unknown And what would that be? We got to be Tuco.
-#unknown All right? Cut out the middleman.
-#unknown Run our own game.
-#unknown So you're going to what? Snort meth off a bowie knife? You gonna beat your homeys to death when they "dis" you? Look, I know some guys.
-#unknown All right? I can create a network.
-#unknown Look, we control production and distribution.
-#unknown That way, we stay off the front lines while moving some serious glass.
-#unknown I mean, the point here is to make money, right? Skyhigh stacks.
-#unknown No.
-#unknown No? That's not the point? No, I am not willing to do that.
-#unknown Who said anything about you? I don't vote for this plan.
-#unknown I'm not comfortable bringing in unknown entities into our operation.
-#unknown Yeah? Well, you don't get to vote.
-#unknown I beg your pardon? This is a partnership, remember? I rem Oh, I remember.
-#unknown Yeah, you cook, I sell.
-#unknown That was the division of labour when we started all this.
-#unknown And that's exactly how we should have kept it.
-#unknown Because I sure as hell didn't find myself locked in a trunk or on my knees with a gun to my head before your greedy old ass came along.
-#unknown All right? All right, I will admit to a bit of a learning curve.
-#unknown And perhaps I was overly ambitious.
-#unknown In any case, it's not gonna happen that way anymore.
-#unknown Yeah, damn straight.
-#unknown Know why? Because we do things my way this time or I walk.
-#unknown You need me more than I need you, Walt.
-#unknown Yo, enter my casa.
-#unknown Yo, Skinny Pete.
-#unknown What's up, brother? What up with it, yo? Hey, Combo.
-#unknown Good to see you.
-#unknown Welcome to my humble abode.
-#unknown Good deal, mover.
-#unknown Good deal.
-#unknown Yo, Badge, hey.
-#unknown Cool crib, man.
-#unknown Hey, it echoes.
-#unknown Hello.
-#unknown Hello.
-#unknown Hello, hello, hello.
-#unknown Let me give you the virtual tour, okay? So plasma is gonna go right here.
-#unknown Probably like 50inch, you know, wallmounted.
-#unknown Plasma rocks it over LCD, yo.
-#unknown No.
-#unknown They burn in, yo.
-#unknown But the picture's, like, way sharper.
-#unknown Blacks are deeper too.
-#unknown They got 3D coming out, like, any day now.
-#unknown That's what I'm waiting for.
-#unknown Porn, coz.
-#unknown You know? Jesus.
-#unknown Like 3D tatas, like right in your face.
-#unknown Yeah.
-#unknown So, I'm gonna get a couple of those zerogravity chairs for, like, right here, for your ultimate viewing comfort.
-#unknown Those are buck.
-#unknown It's gonna be pretty much sparse.
-#unknown Very Asiany, modern stuff.
-#unknown Feng shui, yo.
-#unknown I can dig it.
-#unknown Yeah.
-#unknown I'm thinking, you know, just a bunch of candles maybe one of those little fountain jobs right here.
-#unknown It's gonna be chill.
-#unknown The ladies they cream up real nice for, like, candles and shit.
-#unknown You are going to score, big time.
-#unknown All right, so how about we get, you know, down to it? There's some refreshments over here if you wanna partake.
-#unknown You got any other refreshments? I could kick it.
-#unknown It's been a while.
-#unknown Yes, yes.
-#unknown I could totally go for a loving spoonful.
-#unknown No, no, no.
-#unknown No bomb, no beer, no weed.
-#unknown All right? You smoke it up on your own time.
-#unknown We're talking business here.
-#unknown Okay? So listen up.
-#unknown This is how it goes.
-#unknown I front each of you an ounce.
-#unknown You sell it for 2,500.
-#unknown I keep the two, you keep the five.
-#unknown No cutting it.
-#unknown You sell it as is, all right? Twentyfive hundred an ounce? That's kind of hopeful, bro.
-#unknown Yeah, Jesse, street's maybe 17, 18.
-#unknown Seventeen.
-#unknown Okay, A, this is the best shiz ever.
-#unknown All right? Everybody and their mother's gonna want a taste.
-#unknown And second who else is selling right now, huh? It's dry out there, that's for sure.
-#unknown Church.
-#unknown So you point it how you want, okay? Quarter, half, teener, whatever.
-#unknown But I make what I make.
-#unknown Two large.
-#unknown No exceptions.
-#unknown Short me, you're out.
-#unknown Cut it, you're out.
-#unknown Period.
-#unknown This is a big opportunity I am giving you.
-#unknown Understand? Badger, what is this? A big opportunity.
-#unknown Exactly.
-#unknown All right? This is the ground floor.
-#unknown Gentlemen, how far you go is up to you.
-#unknown So bring out the product, yo.
-#unknown No, no, no.
-#unknown Not here, all right? Not ever.
-#unknown Blind drop.
-#unknown I will let you know when and where.
-#unknown All right? So you'll be hearing from me.
-#unknown Now, I got mad volume.
-#unknown So you move it quick, you move it right there is always more.
-#unknown Okay, DBAA, mofos.
-#unknown All right? Apply yourselves.
-#unknown Hell, yeah.
-#unknown Hell, yeah.
-#unknown Hey, there's the big guy.
-#unknown Congratulations, Uncle Hank.
-#unknown Hey, Hank.
-#unknown It's an armpit.
-#unknown It's not an armpit.
-#unknown Oh, excuse me.
-#unknown You're right.
-#unknown It's the Paris of the Southwest.
-#unknown Please, it's Texas, for God's sake.
-#unknown Right on the border of lawless Mexican hell.
-#unknown Human heads, they leave.
-#unknown The cartels, they litter the place with human heads.
-#unknown Yeah, well, pretty sure that's why I'm going there.
-#unknown It's like a calling card or a shoutout or something.
-#unknown Now, D.
-#unknown C.
-#unknown , on the other hand, I could get behind.
-#unknown You just do your time like a good boy and I could see us in a cute little condo in Georgetown in a couple of years.
-#unknown I went online to this fantastic real estate website for D.
-#unknown C.
-#unknown There's just so much, I don't know, culture there.
-#unknown I was talking to Melinda, Hank's boss's wife.
-#unknown I told you about the one with helmet hair and permanent lip liner.
-#unknown Anyway, she was saying that when they were there Apologise.
-#unknown What? I will not listen to one more word until you apologise.
-#unknown For? You know perfectly well, Marie.
-#unknown Well, obviously I don't Your lies.
-#unknown To me.
-#unknown The shoplifting.
-#unknown All of it.
-#unknown Did you really think it was all just neatly gonna go away? Well, if you hadn't tried to return it Apologise.
-#unknown Now or never.
-#unknown I mean it.
-#unknown Or it'll never be the same.
-#unknown Why are you punishing me? If you don't respect me enough to apologise, to tell me the truth, then I need my sister back.
-#unknown I'm sorry.
-#unknown I'm sorry.
-#unknown What, do you want the gory details? Yeah.
-#unknown Oh, yeah.
-#unknown No, you don't.
-#unknown Keep you up at night.
-#unknown So was it scary? Hell, yeah, it was freaking scary, you little punk.
-#unknown Jesus.
-#unknown But you were way faster than him.
-#unknown Well, I'm here, aren't I? Yeah.
-#unknown Hell, yeah.
-#unknown Kick ass and take names.
-#unknown Son.
-#unknown No, it's fine.
-#unknown You know what it is? A cockroach comes out from under a fridge, what do you do? I mean, you don't think about it.
-#unknown You stomp them down.
-#unknown Where do they come from? Criminals, like the one you.
-#unknown I mean, what do you think it is that makes them who they are? Buddy, you might as well be asking me about the roaches.
-#unknown All I know is there's a whole world of them out there.
-#unknown Man, I gotta piss like a racehorse.
-#unknown Cops.
-#unknown Cops! Wasn't sure it was you.
-#unknown New car? Yeah, keeping things on the DL.
-#unknown I'm guessing this one doesn't bounce.
-#unknown Your half.
-#unknown Fifteen K.
-#unknown That's what I'm talking about.
-#unknown You're welcome.
-#unknown Jesus.
-#unknown Help me understand the math, okay? I gave you 1 pound, correct? You and I split $2,000 per ounce.
-#unknown $1,000 each.
-#unknown One pound, that's 16 ounces.
-#unknown Sixteen ounces should net to me $16,000.
-#unknown Sixteen.
-#unknown Not 15.
-#unknown Something came up.
-#unknown Something came up? One of my guys got held up by a couple junkies.
-#unknown Lost an ounce.
-#unknown But it's cool, okay? Skinny Pete's cool.
-#unknown So you're saying that your guy got robbed Or rather you got robbed.
-#unknown but it doesn't matter.
-#unknown Dude, it's called breakage, okay? Like Kmart.
-#unknown Shit breaks.
-#unknown And you're thinking this is acceptable? It's the cost of business, yo.
-#unknown You're sweating me over a grand? Hey, look, I'm just the chemist here.
-#unknown I'm not the street guy, yo.
-#unknown But it seems to me that what you call breakage is just you making a fool of yourself.
-#unknown I've got another technical term for you.
-#unknown Nonsustainable business model.
-#unknown You're focusing on the negative.
-#unknown Six grand a day we're making.
-#unknown What's your problem? What happens when word gets out and it's open season on these clowns you've hired? Once everyone knows that Jesse Pinkman drug lord, can be robbed with impunity.
-#unknown Man, come on.
-#unknown You think Tuco had breakage? I guess it's true, he did.
-#unknown He broke bones.
-#unknown He broke the skull of anybody who tried to rip him off.
-#unknown You want another grand? Is that it? That's not my point.
-#unknown Take it.
-#unknown Here.
-#unknown Look, you got 15,000 you didn't have yesterday.
-#unknown Hey, we're making bank.
-#unknown Shit happens.
-#unknown My guys get what they're up against and they're careful.
-#unknown So am I.
-#unknown And you're all tucked in at night with your precious family.
-#unknown So why don't you just stop being such a freak about everything? You've made the division of labour very clear.
-#unknown Yo, I mean, seriously what the hell do you want me to do, huh? Hey.
-#unknown Sorry.
-#unknown Wow, you snuck in.
-#unknown Didn't even know you were home.
-#unknown What you eating? A panini.
-#unknown There's another one in the freezer if you want it.
-#unknown I thought we nixed those, huh? Did we? Yeah.
-#unknown I mean, aren't those the ones with the offthechart sodium? I had a craving.
-#unknown Once in a while is no big deal.
-#unknown So where's Jr.
-#unknown ? Out.
-#unknown With whom? Louis.
-#unknown Out where? Somewhere.
-#unknown I don't know.
-#unknown He'll be back by 9.
-#unknown Okay.
-#unknown Yeah, I just thought you might have a clue where your son is.
-#unknown Why don't you? Why am I the only one who needs to keep track of our son? I'll tell you what.
-#unknown Wanna know where he is, ask him.
-#unknown Just pick up the phone like I do.
-#unknown Great.
-#unknown Perhaps you might know something about this.
-#unknown Perhaps.
-#unknown And then again perhaps I don't, Walt.
-#unknown Perhaps I smoked them in a fugue state.
-#unknown I'd like an explanation, please.
-#unknown You don't wanna go down that road.
-#unknown Why would you do this? You're pregnant, for God's sakes.
-#unknown Three and a half cigarettes won't do a thing to the baby.
-#unknown Nothing.
-#unknown I'm glad you're so sure, doctor.
-#unknown Three and a half.
-#unknown That was it.
-#unknown I tossed the rest.
-#unknown And I'm sure you'll be very glad to hear that, yes, I feel ashamed.
-#unknown Skyler, this I mean, this is something that This is so unlike you.
-#unknown Why? Really? How would you know? No, thank you.
-#unknown Hank.
-#unknown Jesus.
-#unknown Yo.
-#unknown You asked me what I want you to do.
-#unknown I want you to handle it.
-#unknown 
+dr._delcavoli  Here at the end of round one l'm gonna recommend cautious optimism.
+dr._delcavoli  We'll check back in two months, see how you've responded reassess and decide our next move, if any.
+dr._delcavoli  That's right around the time the baby's due, correct?
+dr._delcavoli  Well, try to think of this as good timing.
+dr._delcavoli  You'll start feeling better soon, more like yourself.
+dr._delcavoli  And your hair should start to come
+walter_white  Kind of gotten used to the old cueball look.
+dr._delcavoli  prefer to think of it as streamlined.
+walter_white  Right.
+walter_white  Aerodynamic.
+dr._delcavoli  So no more confusion?
+dr._delcavoli  more? No. No
+walter_white  No.
+walter_white  Absolutely none.
+dr._delcavoli  are you two holding up?
+walter_white  I
+walter_white  I mean, you know, we're busy but we're good.
+walter_white  Absolutely.
+walter_white  good.
+clinic's_clerk  So we're not going through an insurer.
+clinic's_clerk  Is that correct?
+walter_white  Yes.
+walter_white  Direct bill.
+clinic's_clerk  Just need to print it out for you. Thank you.
+clinic's_clerk  Absolutely.
+clinic's_clerk  It's included.
+clinic's_clerk  Just a reminder.
+clinic's_clerk  We do have a payment plan available, should you be interested.
+walter_white  Oh,
+clinic's_clerk  Congratulations.
+walter_white  Thank you.
+skyler_white  Okay, well, then what about the MRI?
+skyler_white  Can you
+skyler_white  Can you please explain to me the distinction between diagnostic and exploratory?
+skyler_white  Yeah, but either way, his doctor ordered it
+skyler_white  Okay, you know, it should be covered.
+skyler_white  You bet I will.
+skyler_white  Yeah, in triplicate.
+skyler_white  Okay.
+skyler_white  Well, I'm sorry you couldn't be of more help too
+skyler_white  Okay.
+walter_white  Been around someone who smokes?
+skyler_white  The hospital bill came.
+walter_white  fast. Yeah
+skyler_white  Yeah.
+skyler_white  Threeday stay,
+skyler_white  Is this something that Gretchen and Elliott might cover?
+skyler_white  I mean I know it's strictly your domain, but.
+walter_white  They will.
+walter_white  I'm sure they will.
+george_merkert  Bring me up to speed on Tuco Salamanca.
+hank_schrader  Dead.
+george_merkert  Still?
+hank_schrader  Completely.
+george_merkert  Okay, then.
+george_merkert  Well, thanks for stopping by.
+hank_schrader  Okay.
+hank_schrader  So things are quiet, you know.
+hank_schrader  a lot of crystal on the streets now.
+george_merkert  Good.
+hank_schrader  Of course, that's not gonna last.
+hank_schrader  Wait to see who rallies the roaches now that turf's up for grabs.
+george_merkert  No takers so
+hank_schrader  far? Well, we keep hearing a name.
+hank_schrader  Heisenberg.
+hank_schrader  Lately pretty much every dimebagger we come across.
+george_merkert  Heisenberg? Yeah
+hank_schrader  know.
+hank_schrader  Maybe it's a tweaker urban legend.
+hank_schrader  Still, somebody somewhere is cooking that big blue we keep finding.
+hank_schrader  Anyway, we'll stay on it.
+george_merkert  Know why sharks are at the top of the food chain, Hank?
+hank_schrader  Because they have three sets of teeth and will take a bite out of anything?
+george_merkert  Some of those suckers travel thousands of miles in pursuit of their
+hank_schrader  prey. Yeah, I think I heard that
+george_merkert  You, my friend, are a great white.
+george_merkert  How does Albuquerque liaison TriState Border Interdiction Task Force sound
+hank_schrader  one hell of a promotion.
+george_merkert  As of the 1 st, I want you to split your time between here and El Paso.
+hank_schrader  Thank you, sir.
+hank_schrader  Thank you.
+hank_schrader  What you gonna do without me, Gomey?
+steven_gomez  Celebrate.
+steven_gomez  I won't have to look at your ugly mug six days a week.
+hank_schrader  Hey, buddy, I am the brains and the brawn.
+hank_schrader  I'm the whole package.
+steven_gomez  I'm glad I didn't just eat.
+agent_buddy  I'm surprised your head still fits through the door.
+hank_schrader  You wanna grab lunch?
+steven_gomez  Hell, yeah.
+steven_gomez  Because you're buying. Done.
+hank_schrader  I'll meet you morons downstairs.
+hank_schrader  Try not to get lost on the way
+hank_schrader  Schrader.
+hank_schrader  Yeah.
+hank_schrader  Hey, Ricky.
+hank_schrader  How you doing?
+hank_schrader  Yeah, I'm stoked too.
+hank_schrader  Yeah, El Paso.
+unknown  Here's the man.
+unknown  Hey, congratulations, Hank. Thanks. Gets
+steven_gomez  two in the sand, two in the forest, you know
+steven_gomez  then he says," Give me a four," you know? Hey. Hey. Hey.
+clovis  Got some nerve coming back here.
+clovis  Or you're even dumber than I thought
+jesse_pinkman  Yeah, well, maybe both.
+jesse_pinkman  Balance for the tow, the repairs and extra for damages and stuff, the gate the toilet.
+jesse_pinkman  Look, like I said my word is my bond.
+jesse_pinkman  What would you charge me to store this here?
+clovis  on,
+clovis  Your sister.
+jesse_pinkman  Dog, I'm serious, all right?
+jesse_pinkman  I got storage needs.
+jesse_pinkman  And I got scratch up front.
+jesse_pinkman  could, you know, negotiate.
+jesse_pinkman  month?
+clovis  A week.
+jesse_pinkman  For real?
+clovis  Wait
+jesse_pinkman  Wait, wait, wait.
+jesse_pinkman  Just hold on.
+jesse_pinkman  Just chill.
+jesse_pinkman  Sounds
+jesse_pinkman  Sounds good.
+jesse_pinkman  Totally doable.
+clovis  Outside.
+jesse_pinkman  Inside.
+clovis  Forget it
+jesse_pinkman  Man, come on.
+jesse_pinkman  Your fence is too easy to climb.
+jesse_pinkman  Inside, padlocked, plus gate privileges.
+clovis  Come again?
+jesse_pinkman  Gate, in and out, privileges.
+clovis  Month to month.
+clovis  Cash up front.
+clovis  Inside.
+clovis  don't know you
+clovis  I don't know jack.
+jesse_pinkman  selling?
+clovis  take it for nine Gs.
+jesse_pinkman  about that one?
+clovis  Serious?
+jesse_pinkman  Jane,
+jesse_pinkman  I gotta say, this place is awesome.
+jane_margolis  Really?
+jane_margolis  Does it inspire awe?
+jesse_pinkman  No. I
+jesse_pinkman  I mean, you know, it's great.
+jesse_pinkman  Just what I've been looking for.
+jesse_pinkman  That's what I meant.
+jesse_pinkman  I had an entire house before, detached and all but I was just tired of the lawn care, upkeep and whatnot.
+jesse_pinkman  You know?
+jane_margolis  Well, the blinds are new.
+jane_margolis  Everything's been painted.
+jesse_pinkman  Jesus.
+jane_margolis  Utilities are included.
+jesse_pinkman  Stacking.
+jesse_pinkman  Sweet. You
+jesse_pinkman  got cable?
+jane_margolis  Already wired.
+jane_margolis  Just call to activate.
+jane_margolis  High speed, whatever.
+jesse_pinkman  Bathroom, cool tile.
+jesse_pinkman  Nice
+jesse_pinkman  a fan of the hardwood.
+jane_margolis  So you're interested?
+jesse_pinkman  Definitely.
+jesse_pinkman  Definitely, yeah. And
+jane_margolis  And you're good with NP, NS?
+jesse_pinkman  Sorry.
+jesse_pinkman  What
+jane_margolis  In the ad?
+jane_margolis  No smoking, no pets.
+jane_margolis  You wanna smoke, you do it outside.
+jesse_pinkman  No.
+jesse_pinkman  Yeah, yeah, yeah, no.
+jesse_pinkman  cool.
+jesse_pinkman  No worries. All
+jane_margolis  All right, the usual drill.
+jane_margolis  I'll need a W2 or recent pay stub, current employer former address, you know, the yadda yadda.
+jane_margolis  And if it's all copacetic, I'll call.
+jesse_pinkman  Yeah.
+jesse_pinkman  Look the thing is I can.
+jane_margolis  Unbelievable.
+jesse_pinkman  I'm just currently between situations. Then I'm
+jane_margolis  I'm currently not renting.
+jesse_pinkman  Look, look, I got the money and I'm totally good for it for, like, ever.
+jesse_pinkman  Come on, yo, can you please, please just help a brother out?
+jane_margolis  Yo, my dad's not really a makeexceptions kind of guy.
+jane_margolis  Trust me.
+jesse_pinkman  Your dad?
+jane_margolis  Owns the place.
+jane_margolis  I manage it.
+jane_margolis  Pen on paper.
+jane_margolis  That's what I need.
+jane_margolis  Or go run your game somewhere else.
+jesse_pinkman  Dude, I got nowhere else to go.
+jesse_pinkman  This is it. And
+jesse_pinkman  And I got no game, all right?
+jesse_pinkman  I just need a chance.
+jesse_pinkman  Look, my folks, they kicked me out.
+jesse_pinkman  I'm a disappointment, apparently.
+jesse_pinkman  Didn't meet their expectations again.
+jesse_pinkman  So you know, now I'm persona non gratis or whatever.
+jesse_pinkman  But you know what?
+jesse_pinkman  I'm a good person and I work hard.
+jesse_pinkman  I will pay you every month and I will pay you on time.
+jesse_pinkman  I will not mess this up, okay?
+jesse_pinkman  I swear.
+jane_margolis  Rent just went up.
+jane_margolis  A hundred more a month.
+jane_margolis  That's the cash price.
+jesse_pinkman  Yes
+jesse_pinkman  Okay.
+jesse_pinkman  Yes.
+jesse_pinkman  Hey, you rock.
+jesse_pinkman  Thank you.
+jesse_pinkman  Thank you.
+jesse_pinkman  You won't regret this. And
+jane_margolis  And in addition to first and last, I want two more months.
+jane_margolis  DBAA fee, nonrefundable.
+jesse_pinkman  Yeah, of course.
+jesse_pinkman  No problem.
+jesse_pinkman  DBAA.
+jesse_pinkman  Obviously,
+jesse_pinkman  yeah. All
+jesse_pinkman  All right. So, what's DBAA?
+jane_margolis  Don't be an asshole.
+jesse_pinkman  Gotcha.
+jane_margolis  I live next door.
+jesse_pinkman  Really?
+jane_margolis  Don't think for one second you have squatter's rights, because you don't.
+jane_margolis  If you blow this, I want you gone.
+jane_margolis  I know guys that'll have your skinny ass out back by the Dumpster faster than you can blink.
+jane_margolis  I'll fill it in.
+jane_margolis  Just sign your name.
+jane_margolis  Which is what, by the way?
+jesse_pinkman  It's Jesse.
+jesse_pinkman  Jesse Jackson.
+jane_margolis  Seriously?
+marie_schrader  What are you doing?
+hank_schrader  Beating off.
+hank_schrader  What's it look like?
+marie_schrader  That is in fact exactly what it looks like to me.
+hank_schrader  Brewing is an art form, Marie. I
+hank_schrader  I think you'd appreciate that by now. Christmas
+hank_schrader  Christmas, batch of '06?
+hank_schrader  Come on
+marie_schrader  So let me get this straight.
+marie_schrader  You call in sick the day after receiving a longawaited careerboosting promotion so you can play Oktoberfest in your man cave?
+marie_schrader  I don't get it.
+marie_schrader  Really, I don't.
+hank_schrader  relax.
+marie_schrader  Please, don't tell me to relax.
+hank_schrader  Sorry, I forgot. You
+marie_schrader  You know I hate that. Right
+hank_schrader  Right.
+marie_schrader  Dave said I should express that.
+hank_schrader  All I'm saying is everything's fine.
+hank_schrader  I can take a day.
+hank_schrader  No big deal.
+hank_schrader  Now get that sweet ass out of here so I can concentrate.
+jesse_pinkman  Okay, so, what's the plan?
+walter_white  The plan is we cook.
+jesse_pinkman  Why are we cooking when we can't even move what we cook?
+walter_white  Well, how much do you think you can sell on your own?
+walter_white  Say if I cook during the days and you work the nights.
+jesse_pinkman  What?
+walter_white  Prior to Tuco, that was your plan, wasn't it?
+walter_white  I understand it'll be a fraction of what we brought in before but still, what choice do we have?
+jesse_pinkman  First of all, there's no we.
+jesse_pinkman  Okay?
+jesse_pinkman  You're talking me, solo, busting hump slinging shards.
+jesse_pinkman  I got profile now.
+jesse_pinkman  Don't you get that?
+jesse_pinkman  DEA's up my ass.
+jesse_pinkman  No, I'm not exposing myself to that level of risk for chump change. No
+jesse_pinkman  No way. Then
+walter_white  Then what do you suggest?
+walter_white  I don't think either of us are eager to jump into bed with another Tuco.
+jesse_pinkman  I got bills, man.
+walter_white  You've got bills?
+jesse_pinkman  Rent, yo.
+jesse_pinkman  Responsibilities.
+jesse_pinkman  I've already lost more than I've made and I am tired of dicking around out here.
+walter_white  You wanna know how much I've got left?
+walter_white  After completing my first round of treatment and financing the world's most expensive alibi?
+walter_white  Zero.
+walter_white  Zip.
+walter_white  Nothing.
+walter_white  I've got nothing to show for all of this.
+walter_white  Nothing for my family which, as you might remember, was the whole damn point.
+walter_white  But seeing as throwing in the towel is not an option that leaves us with a total of two choices.
+walter_white  We go into business with yet another homicidal lunatic or you and I start
+walter_white  You selling whatever you can.
+jesse_pinkman  There's a third way.
+walter_white  And what would that be?
+jesse_pinkman  We got to be Tuco. All
+jesse_pinkman  Cut
+jesse_pinkman  Cut out the middleman. Run
+jesse_pinkman  Run our own game.
+walter_white  So you're going to what?
+walter_white  Snort meth off a bowie knife?
+walter_white  You gonna beat your homeys to death when they" dis" you?
+jesse_pinkman  Look, I know some guys.
+jesse_pinkman  All right?
+jesse_pinkman  I can create a network.
+jesse_pinkman  Look, we control production and distribution.
+jesse_pinkman  That way, we stay off the front lines while moving some serious glass. I
+jesse_pinkman  I mean, the point here is to make money, right?
+jesse_pinkman  Skyhigh stacks.
+jesse_pinkman  No?
+jesse_pinkman  That's not the point?
+walter_white  No, I am not willing to do that.
+jesse_pinkman  Who said anything about you?
+walter_white  I don't vote for this plan.
+walter_white  I'm not comfortable bringing in unknown entities into our operation.
+jesse_pinkman  Yeah?
+jesse_pinkman  Well, you don't get to vote.
+walter_white  your pardon
+walter_white  This is a partnership, remember?
+jesse_pinkman  I rem Oh, I remember.
+jesse_pinkman  Yeah, you cook, I sell.
+jesse_pinkman  That was the division of labour when we started all this.
+jesse_pinkman  And that's exactly how we should have kept it.
+jesse_pinkman  Because I sure as hell didn't find myself locked in a trunk or on my knees with a gun to my head before your greedy old ass came along.
+jesse_pinkman  All right,
+walter_white  I will admit to a bit of a learning curve.
+walter_white  And perhaps I was overly ambitious.
+walter_white  In any case, it's not gonna happen that way anymore.
+jesse_pinkman  Yeah, damn straight.
+jesse_pinkman  Know why?
+jesse_pinkman  Because we do things my way this time or I walk.
+jesse_pinkman  You need
+jesse_pinkman  I need you, Walt. Yo, enter my casa. Yo,
+jesse_pinkman  Skinny Pete. What's up
+jesse_pinkman  up, brother?
+skinny_pete  What up with it, yo? Hey
+jesse_pinkman  Hey, Combo.
+jesse_pinkman  Good to see you.
+jesse_pinkman  Welcome to my humble abode.
+christian_"combo"_ortega  Good deal, mover.
+christian_"combo"_ortega  Good deal.
+jesse_pinkman  Yo, Badge, hey.
+badger  Cool crib, man.
+badger  Hey, it echoes. Hello
+badger  Hello. Hello
+badger  Hello, hello
+badger  hello,
+jesse_pinkman  Let me give you the virtual tour, okay?
+jesse_pinkman  So plasma is gonna go right here.
+jesse_pinkman  Probably like 50inch, you know, wallmounted.
+skinny_pete  Plasma rocks it over LCD, yo.
+christian_"combo"_ortega  No.
+christian_"combo"_ortega  They burn in, yo.
+skinny_pete  But the picture's, like, way sharper.
+skinny_pete  Blacks are deeper too.
+badger  They got 3D coming out, like, any day now.
+badger  That's what I'm waiting for.
+badger  Porn, coz. You know
+badger  know? Jesus
+jesse_pinkman  Jesus.
+badger  Like 3D tatas, like right in your face. Yeah
+jesse_pinkman  Yeah.
+jesse_pinkman  So, I'm gonna get a couple of those zerogravity chairs for, like, right here, for your ultimate viewing comfort. Those
+christian_"combo"_ortega  Those are buck.
+jesse_pinkman  It's gonna be pretty much sparse. Very
+jesse_pinkman  Very Asiany, modern stuff.
+skinny_pete  Feng shui, yo. I
+skinny_pete  I can dig it.
+skinny_pete  Yeah
+jesse_pinkman  you know, just a bunch of candles maybe one of those little fountain jobs right here.
+jesse_pinkman  It's gonna be chill.
+christian_"combo"_ortega  The ladies they cream up real nice for, like, candles and shit.
+badger  You are going to score, big time.
+jesse_pinkman  All right, so how about we get, you know, down to it?
+jesse_pinkman  some refreshments over here if you wanna partake.
+christian_"combo"_ortega  You got any other refreshments?
+jesse_pinkman  I could kick it.
+skinny_pete  It's been a while. Yes
+badger  Yes, yes.
+badger  I could totally go for a loving spoonful. No,
+jesse_pinkman  no, no. No
+jesse_pinkman  No bomb, no beer, no weed.
+jesse_pinkman  All right? You
+jesse_pinkman  You smoke it up on your own time.
+jesse_pinkman  We're talking business here.
+jesse_pinkman  Okay?
+jesse_pinkman  So listen up. This
+jesse_pinkman  is how it goes.
+jesse_pinkman  I front each of you an ounce.
+jesse_pinkman  You sell it for 2,500.
+jesse_pinkman  I keep the two, you keep the five. No
+jesse_pinkman  No cutting it. You
+jesse_pinkman  You sell it as is, all right?
+christian_"combo"_ortega  Twentyfive hundred an ounce?
+christian_"combo"_ortega  That's kind of hopeful, bro.
+skinny_pete  Yeah, Jesse, street's maybe 17, 18.
+badger  Seventeen. Okay
+jesse_pinkman  Okay, A, this is the best shiz ever.
+jesse_pinkman  All right?
+jesse_pinkman  Everybody and their mother's gonna want a taste.
+jesse_pinkman  And second who else is selling right now, huh?
+skinny_pete  out there, that's for sure.
+christian_"combo"_ortega  Church.
+jesse_pinkman  So you point it how you want, okay?
+jesse_pinkman  Quarter, half, teener, whatever.
+jesse_pinkman  But I make what I make.
+jesse_pinkman  Two large.
+jesse_pinkman  No exceptions.
+jesse_pinkman  Short me, you're out.
+jesse_pinkman  Cut it, you're out.
+jesse_pinkman  Period.
+jesse_pinkman  This is a big opportunity I am giving you.
+jesse_pinkman  Understand?
+jesse_pinkman  Badger, what is this?
+badger  A big opportunity.
+jesse_pinkman  Exactly. All
+jesse_pinkman  All right? This
+jesse_pinkman  This is the ground floor.
+jesse_pinkman  Gentlemen, how far you go is up to you.
+badger  So bring out the product, yo.
+jesse_pinkman  No, no, no.
+jesse_pinkman  Not here, all right?
+jesse_pinkman  Not ever.
+jesse_pinkman  Blind drop. I
+jesse_pinkman  I will let you know when and where.
+jesse_pinkman  right?
+jesse_pinkman  So you'll be hearing from me.
+jesse_pinkman  I got mad volume.
+jesse_pinkman  So you move it quick, you move it right there is always more.
+jesse_pinkman  Okay, DBAA, mofos.
+jesse_pinkman  All right?
+jesse_pinkman  Apply yourselves.
+badger  Hell, yeah.
+hank_schrader  Hell, yeah. Hey, there's the big guy. Congratulations
+walter_white_jr.  Congratulations, Uncle Hank.
+skyler_white  Hey, Hank.
+marie_schrader  It's an armpit.
+hank_schrader  It's not an armpit.
+marie_schrader  Oh, excuse me.
+marie_schrader  You're right.
+marie_schrader  It's the Paris of the Southwest. Please
+marie_schrader  Please, it's Texas, for God's sake.
+marie_schrader  Right on the border of lawless Mexican hell.
+marie_schrader  Human heads, they leave.
+marie_schrader  The cartels, they litter the place with human heads.
+hank_schrader  Yeah, well, pretty sure that's why I'm going
+marie_schrader  there. It's like a calling card or a shoutout or something.
+marie_schrader  Now, D. C., on the other hand, I could get behind.
+marie_schrader  You just do your time like a good boy and I could see us in a cute little condo in Georgetown in a couple of years.
+marie_schrader  I went online to this fantastic real estate website for D.
+marie_schrader  There's just so much, I don't know, culture there.
+marie_schrader  I was talking to Melinda, Hank's boss's wife. I
+marie_schrader  I told you about the one with helmet hair and permanent lip liner.
+marie_schrader  Anyway, she was saying that when they were there Apologise
+skyler_white  I will not listen to one more word until you apologise.
+marie_schrader  For?
+skyler_white  You know perfectly well, Marie.
+marie_schrader  Well, obviously I don't Your
+skyler_white  Your lies.
+skyler_white  me.
+skyler_white  shoplifting.
+skyler_white  All of it.
+skyler_white  Did you really think it was all just neatly gonna go away?
+marie_schrader  Well, if you hadn't tried to return it
+skyler_white  Apologise.
+skyler_white  Now or never.
+skyler_white  mean it.
+skyler_white  Or it'll never be the same.
+marie_schrader  punishing me
+skyler_white  you don't respect me enough to apologise, to tell me the truth,
+skyler_white  sister back.
+marie_schrader  sorry.
+hank_schrader  want the gory details?
+walter_white_jr.  Yeah.
+walter_white_jr.  Oh, yeah.
+hank_schrader  No, you don't
+hank_schrader  Keep you up at night.
+walter_white_jr.  So was it scary?
+hank_schrader  yeah, it was freaking scary, you little punk.
+hank_schrader  Jesus.
+walter_white_jr.  But you were way faster than him
+hank_schrader  I'm here
+walter_white_jr.  Yeah.
+walter_white_jr.  Hell, yeah.
+walter_white_jr.  Kick ass and take names.
+walter_white  Son.
+hank_schrader  it's fine
+hank_schrader  You know what it is?
+hank_schrader  cockroach comes out from under a fridge, what do you do?
+hank_schrader  I mean, you don't think about it.
+hank_schrader  them down.
+walter_white  do they come from?
+walter_white  Criminals, like the one you. I mean, what do you think it is that makes them who they are?
+hank_schrader  Buddy, you might as well be asking me about the roaches.
+hank_schrader  All I know is there's a whole world of them out
+hank_schrader  I gotta piss like a racehorse.
+walter_white  Wasn't sure it was you.
+walter_white  New car?
+jesse_pinkman  Yeah, keeping things on the DL.
+walter_white  I'm guessing this one doesn't bounce.
+jesse_pinkman  Fifteen K.
+jesse_pinkman  That's what I'm talking about.
+jesse_pinkman  You're welcome.
+jesse_pinkman  Jesus.
+walter_white  Help me understand the math,
+walter_white  I gave you 1 pound, correct?
+walter_white  You and I split $2,000 per ounce.
+walter_white  $1,000 each.
+walter_white  One pound, that's 16 ounces.
+walter_white  Sixteen ounces should net to me $16,000.
+walter_white  Not 15.
+jesse_pinkman  Something came up.
+walter_white  Something came up? One
+jesse_pinkman  my guys got held up by a couple junkies.
+jesse_pinkman  Lost an ounce. But
+jesse_pinkman  But it's cool, okay?
+jesse_pinkman  Skinny Pete's cool.
+walter_white  So you're saying that your guy got robbed Or
+walter_white  Or rather you got robbed.
+walter_white  but it doesn't matter.
+walter_white  Dude, it's called breakage, okay?
+jesse_pinkman  Like Kmart.
+jesse_pinkman  Shit breaks.
+walter_white  And you're thinking this is acceptable?
+jesse_pinkman  It's the cost of business, yo.
+jesse_pinkman  You're sweating me over a grand?
+walter_white  Hey, look, I'm just the chemist here.
+walter_white  I'm not the street guy, yo.
+walter_white  it seems to me that what you call breakage is just you making a fool of yourself.
+walter_white  I've got another technical term for you.
+walter_white  Nonsustainable business model.
+jesse_pinkman  You're focusing on the negative.
+jesse_pinkman  Six grand a day we're making.
+jesse_pinkman  What's your problem?
+walter_white  What happens when word gets out and it's open season on these clowns you've hired?
+walter_white  Once everyone knows that Jesse Pinkman drug lord, can be robbed with impunity.
+jesse_pinkman  come on.
+walter_white  You think Tuco had breakage?
+walter_white  I guess it's true, he did.
+walter_white  He broke bones.
+walter_white  He broke the skull of anybody who tried to rip him off.
+jesse_pinkman  want another grand? Is
+jesse_pinkman  that it
+walter_white  my point.
+jesse_pinkman  Take it.
+jesse_pinkman  Here.
+jesse_pinkman  Look, you got 15,000 you didn't have yesterday.
+jesse_pinkman  Hey, we're making bank.
+jesse_pinkman  Shit happens.
+jesse_pinkman  My guys get what they're up against and they're careful.
+jesse_pinkman  So am I.
+jesse_pinkman  And you're all tucked in at night with your precious family.
+jesse_pinkman  So why don't you just stop being such a freak about everything?
+walter_white  You've made the division of labour very clear.
+jesse_pinkman  Yo, I mean, seriously what the hell do you want me to do, huh?
+skyler_white  Wow, you snuck in.
+skyler_white  Didn't even know you were home.
+walter_white  What you eating?
+skyler_white  A panini. There's
+skyler_white  There's another one in the freezer if you want it.
+walter_white  I thought we nixed those, huh?
+skyler_white  we?
+walter_white  I mean
+walter_white  mean, aren't those the ones with the offthechart sodium?
+skyler_white  I had a craving.
+skyler_white  Once in a while is no big deal.
+walter_white  So where's Jr.
+walter_white  With whom?
+skyler_white  Louis.
+walter_white  Out where?
+skyler_white  Somewhere.
+skyler_white  I don't know.
+skyler_white  He'll be back by 9.
+walter_white  Okay.
+walter_white  Yeah, I just thought you might have a clue where your son is.
+skyler_white  Why don't you?
+skyler_white  Why am I the only one who needs to keep track of our son?
+skyler_white  I'll tell you what. Wanna
+skyler_white  Wanna know where he is, ask him.
+skyler_white  Just pick up the phone like I do.
+walter_white  Perhaps you might know something about this.
+skyler_white  Perhaps.
+skyler_white  then again perhaps I don't, Walt.
+skyler_white  Perhaps I smoked them in a fugue state.
+walter_white  I'd like an explanation, please.
+skyler_white  You don't wanna go down that road. Why would
+walter_white  would you do this?
+walter_white  You're pregnant, for God's sakes.
+skyler_white  Three and a half cigarettes won't do a thing to the baby.
+skyler_white  Nothing.
+walter_white  I'm glad you're so sure, doctor.
+skyler_white  Three and a half
+skyler_white  half. That was it
+skyler_white  I tossed the rest.
+skyler_white  And I'm sure you'll be very glad to hear that, yes, I feel ashamed.
+walter_white  Skyler, this I mean, this is something that
+walter_white  This is so unlike you.
+walter_white  Why?
+skyler_white  Really?
+skyler_white  How would you know?
+skyler_white  No, thank you.
+walter_white  You asked me what I want you to do.
+walter_white  I want you to handle it.

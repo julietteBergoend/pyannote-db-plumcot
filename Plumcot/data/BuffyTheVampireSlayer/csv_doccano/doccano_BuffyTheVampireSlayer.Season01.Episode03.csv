@@ -1,0 +1,947 @@
+	idSent	idChar	label
+0	1	[97, 98]	rupert_giles
+1	1	[136, 137]	rupert_giles
+2	1	[91, 94]	buffy_summers
+3	1	[64, 70]	buffy_summers
+4	2	[0, 3]	rupert_giles
+5	3	[0, 1]	rupert_giles
+6	3	[11, 14]	buffy_summers
+7	3	[27, 30]	buffy_summers
+8	3	[49, 50]	rupert_giles
+9	4	[5, 6]	buffy_summers
+10	4	[23, 27]	rupert_giles
+11	5	[0, 1]	buffy_summers
+12	5	[7, 10]	rupert_giles
+13	5	[13, 14]	buffy_summers
+14	6	[0, 3]	buffy_summers
+15	6	[31, 36]	buffy_summers
+16	6	[39, 42]	buffy_summers
+17	6	[132, 133]	rupert_giles
+18	7	[4, 7]	rupert_giles
+19	7	[24, 26]	buffy_summers
+20	8	[7, 8]	rupert_giles
+21	8	[29, 33]	buffy_summers
+22	9	[0, 1]	buffy_summers
+23	9	[60, 61]	buffy_summers
+24	9	[87, 88]	buffy_summers
+25	10	[0, 5]	rupert_giles
+26	11	[28, 30]	multiple_persons
+27	11	[72, 73]	buffy_summers
+28	11	[0, 2]	rupert_giles
+29	11	[16, 19]	rupert_giles
+30	11	[81, 83]	rupert_giles
+31	11	[111, 113]	rupert_giles
+32	12	[7, 9]	multiple_persons
+33	12	[21, 24]	buffy_summers
+34	13		
+35	14	[27, 28]	xander_harris
+36	15	[0, 3]	xander_harris
+37	16	[9, 10]	xander_harris
+38	17		
+39	18		
+40	19		
+41	20	[0, 1]	xander_harris
+42	21	[35, 38]	UNKNOWN
+43	21	[45, 48]	UNKNOWN
+44	21	[18, 23]	UNKNOWN
+45	22	[0, 1]	willow_rosenberg
+46	22	[8, 11]	UNKNOWN
+47	23	[37, 42]	UNKNOWN
+48	23	[43, 48]	UNKNOWN
+49	23	[54, 57]	multiple_persons
+50	24	[0, 3]	amy_madison
+51	25		
+52	26	[0, 1]	willow_rosenberg
+53	26	[15, 18]	amy_madison
+54	26	[48, 51]	amy_madison
+55	27		
+56	28	[3, 6]	amy_madison
+57	28	[12, 17]	buffy_summers
+58	29		
+59	30		
+60	31	[9, 10]	amy_madison
+61	31	[27, 29]	amy_madison
+62	32	[26, 28]	UNKNOWN
+63	32	[0, 3]	UNKNOWN
+64	32	[17, 23]	UNKNOWN
+65	33		
+66	34	[19, 22]	buffy_summers
+67	34	[30, 31]	amy_madison
+68	34	[43, 45]	amy_madison
+69	34	[46, 49]	amy_madison's_mother
+70	35	[34, 36]	buffy_summers
+71	35	[37, 40]	joyce_summers
+72	36	[5, 6]	amy_madison
+73	36	[30, 33]	amy_madison's_mother
+74	37		
+75	38		
+76	39		
+77	40		
+78	41	[26, 29]	rupert_giles
+79	41	[55, 58]	UNKNOWN
+80	42	[0, 1]	buffy_summers
+81	42	[59, 60]	buffy_summers
+82	43	[0, 1]	rupert_giles
+83	44		
+84	45		
+85	46		
+86	47		
+87	48	[61, 66]	buffy_summers
+88	49	[5, 7]	multiple_persons
+89	50	[146, 148]	rupert_giles
+90	51		
+91	52		
+92	53	[41, 48]	UNKNOWN
+93	53	[9, 14]	UNKNOWN
+94	54	[0, 1]	buffy_summers
+95	54	[48, 51]	UNKNOWN
+96	54	[28, 33]	UNKNOWN
+97	55	[88, 89]	willow_rosenberg
+98	56	[0, 1]	xander_harris
+99	56	[23, 26]	UNKNOWN
+100	57	[4, 8]	multiple_persons
+101	57	[0, 3]	multiple_persons
+102	58	[17, 19]	multiple_persons
+103	58	[41, 43]	multiple_persons
+104	59	[32, 34]	multiple_persons
+105	59	[7, 10]	buffy_summers
+106	59	[19, 25]	buffy_summers
+107	60	[0, 1]	buffy_summers
+108	60	[27, 30]	multiple_persons
+109	60	[31, 35]	multiple_persons
+110	61	[11, 12]	xander_harris
+111	61	[48, 49]	xander_harris
+112	62	[41, 43]	multiple_persons
+113	62	[65, 66]	buffy_summers
+114	62	[118, 125]	UNKNOWN
+115	63	[12, 14]	multiple_persons
+116	64		
+117	65		
+118	66		
+119	67		
+120	68	[7, 9]	multiple_persons
+121	69		
+122	70	[0, 1]	buffy_summers
+123	71	[5, 6]	joyce_summers
+124	71	[12, 15]	buffy_summers
+125	72	[0, 3]	joyce_summers
+126	73		
+127	74	[9, 10]	buffy_summers
+128	75	[28, 29]	joyce_summers
+129	75	[45, 46]	joyce_summers
+130	76	[15, 19]	joyce_summers
+131	77	[0, 1]	joyce_summers
+132	77	[69, 71]	joyce_summers
+133	77	[102, 105]	buffy_summers
+134	77	[142, 145]	buffy_summers
+135	77	[154, 156]	joyce_summers
+136	78		
+137	79	[10, 11]	joyce_summers
+138	79	[20, 23]	buffy_summers
+139	79	[63, 66]	buffy_summers
+140	80	[0, 1]	buffy_summers
+141	81		
+142	82	[0, 1]	joyce_summers
+143	82	[9, 12]	buffy_summers
+144	82	[74, 77]	buffy_summers
+145	83		
+146	84		
+147	85	[23, 26]	buffy_summers
+148	86	[30, 33]	amy_madison
+149	86	[47, 50]	amy_madison
+150	86	[63, 66]	amy_madison
+151	86	[67, 70]	amy_madison's_mother
+152	87		
+153	88	[12, 15]	amy_madison
+154	88	[16, 19]	amy_madison's_mother
+155	89	[12, 15]	amy_madison
+156	89	[16, 19]	amy_madison's_mother
+157	90		
+158	91	[51, 53]	multiple_persons
+159	91	[95, 98]	multiple_persons
+160	91	[113, 116]	multiple_persons
+161	91	[126, 130]	multiple_persons
+162	92	[7, 9]	amy_madison
+163	92	[35, 36]	amy_madison
+164	93	[15, 18]	amy_madison
+165	94		
+166	95	[24, 26]	multiple_persons
+167	95	[40, 42]	multiple_persons
+168	96	[36, 38]	cordelia_chase
+169	96	[0, 3]	multiple_persons
+170	96	[41, 44]	multiple_persons
+171	97	[8, 10]	amy_madison
+172	97	[11, 14]	amy_madison's_mother
+173	98	[5, 14]	catherine_madison
+174	98	[15, 22]	catherine_madison
+175	98	[39, 43]	amy_madison
+176	99	[19, 28]	catherine_madison
+177	99	[163, 165]	amy_madison
+178	99	[166, 169]	amy_madison's_father
+179	99	[0, 3]	catherine_madison
+180	99	[43, 46]	catherine_madison
+181	99	[155, 158]	catherine_madison
+182	100		
+183	101	[88, 89]	amy_madison
+184	101	[7, 9]	amy_madison's_father
+185	102	[36, 38]	buffy_summers
+186	103	[26, 28]	amy_madison
+187	103	[100, 102]	amy_madison
+188	103	[114, 115]	amy_madison
+189	103	[29, 32]	catherine_madison
+190	103	[48, 51]	catherine_madison
+191	103	[56, 63]	catherine_madison
+192	103	[18, 20]	amy_madison's_father
+193	104	[31, 34]	amy_madison
+194	104	[72, 75]	amy_madison
+195	104	[5, 8]	catherine_madison
+196	105	[23, 24]	amy_madison
+197	105	[36, 38]	amy_madison
+198	105	[68, 69]	amy_madison
+199	105	[0, 3]	catherine_madison
+200	106	[5, 8]	amy_madison
+201	106	[11, 14]	amy_madison
+202	107	[0, 1]	amy_madison
+203	108		
+204	109	[6, 9]	amy_madison
+205	109	[15, 18]	amy_madison
+206	110	[5, 8]	amy_madison
+207	110	[14, 17]	amy_madison
+208	110	[36, 39]	amy_madison
+209	110	[40, 43]	catherine_madison
+210	111	[7, 10]	amy_madison
+211	111	[11, 14]	catherine_madison
+212	112		
+213	113	[10, 13]	catherine_madison
+214	113	[29, 32]	catherine_madison
+215	114	[5, 10]	catherine_madison
+216	114	[33, 38]	catherine_madison
+217	115	[31, 34]	amy_madison
+218	115	[45, 47]	multiple_persons
+219	115	[137, 139]	willow_rosenberg
+220	115	[150, 152]	multiple_persons
+221	115	[83, 86]	amy_madison
+222	115	[87, 90]	catherine_madison
+223	116	[18, 23]	UNKNOWN
+224	117		
+225	118		
+226	119		
+227	120	[3, 5]	multiple_persons
+228	120	[28, 30]	multiple_persons
+229	121	[0, 1]	cordelia_chase
+230	121	[23, 25]	cordelia_chase
+231	121	[111, 113]	multiple_persons
+232	121	[130, 133]	multiple_persons
+233	121	[143, 146]	amy_madison
+234	121	[159, 161]	multiple_persons
+235	122	[7, 8]	amy_madison
+236	123	[10, 14]	amy_madison
+237	123	[56, 58]	cordelia_chase
+238	123	[80, 83]	amy_madison
+239	124	[0, 1]	willow_rosenberg
+240	124	[7, 12]	buffy_summers
+241	124	[19, 24]	UNKNOWN
+242	125	[91, 93]	multiple_persons
+243	125	[11, 14]	buffy_summers
+244	125	[44, 47]	buffy_summers
+245	126	[41, 44]	buffy_summers
+246	127	[3, 4]	xander_harris
+247	127	[31, 32]	xander_harris
+248	127	[44, 47]	buffy_summers
+249	128	[0, 3]	xander_harris
+250	128	[21, 24]	xander_harris
+251	129	[12, 15]	willow_rosenberg
+252	129	[30, 33]	willow_rosenberg
+253	129	[51, 54]	willow_rosenberg
+254	129	[59, 61]	xander_harris
+255	130	[13, 14]	willow_rosenberg
+256	131		
+257	132	[0, 1]	amy_madison
+258	133		
+259	134	[6, 8]	xander_harris
+260	134	[11, 12]	xander_harris
+261	135	[0, 3]	amy_madison
+262	136	[0, 1]	amy_madison
+263	137	[2, 3]	cordelia_chase
+264	138	[23, 25]	xander_harris
+265	138	[126, 133]	buffy_summers
+266	138	[166, 169]	amy_madison
+267	138	[40, 43]	UNKNOWN
+268	138	[91, 94]	mr_pole
+269	139		
+270	140	[0, 6]	xander_harris
+271	141	[7, 9]	buffy_summers
+272	142	[4, 5]	xander_harris
+273	142	[9, 15]	xander_harris
+274	142	[70, 72]	xander_harris
+275	142	[18, 22]	xander_harris
+276	142	[23, 25]	xander_harris
+277	142	[26, 33]	xander_harris
+278	143	[40, 41]	buffy_summers
+279	143	[48, 50]	multiple_persons
+280	143	[92, 94]	buffy_summers
+281	143	[26, 29]	amy_madison
+282	144	[41, 42]	amy_madison
+283	144	[81, 82]	amy_madison
+284	144	[115, 117]	amy_madison
+285	144	[118, 124]	catherine_madison
+286	145	[5, 7]	amy_madison
+287	145	[25, 27]	amy_madison
+288	146	[0, 1]	amy_madison
+289	146	[10, 13]	UNKNOWN
+290	147	[33, 35]	amy_madison
+291	147	[4, 8]	UNKNOWN
+292	148	[28, 36]	cordelia_chase
+293	148	[47, 50]	cordelia_chase
+294	149	[10, 11]	joyce_summers
+295	149	[26, 28]	joyce_summers
+296	149	[75, 76]	joyce_summers
+297	150	[6, 7]	buffy_summers
+298	150	[26, 29]	joyce_summers
+299	150	[44, 45]	buffy_summers
+300	150	[72, 75]	joyce_summers
+301	150	[0, 3]	joyce_summers
+302	150	[80, 86]	UNKNOWN
+303	151	[40, 43]	buffy_summers
+304	151	[8, 14]	UNKNOWN
+305	152	[31, 32]	buffy_summers
+306	153	[7, 8]	joyce_summers
+307	153	[24, 25]	joyce_summers
+308	153	[81, 84]	buffy_summers
+309	153	[133, 134]	joyce_summers
+310	154	[11, 13]	buffy_summers
+311	154	[20, 23]	joyce_summers
+312	155	[0, 1]	joyce_summers
+313	155	[28, 29]	joyce_summers
+314	155	[61, 63]	joyce_summers
+315	155	[92, 93]	joyce_summers
+316	156	[9, 12]	joyce_summers
+317	157	[23, 24]	joyce_summers
+318	158	[20, 21]	buffy_summers
+319	158	[29, 32]	joyce_summers
+320	158	[35, 36]	buffy_summers
+321	158	[45, 47]	buffy_summers
+322	159	[69, 71]	multiple_persons
+323	159	[0, 4]	buffy_summers
+324	159	[38, 41]	buffy_summers
+325	159	[129, 132]	buffy_summers
+326	160	[0, 5]	buffy_summers
+327	161	[0, 8]	cordelia_chase
+328	161	[37, 39]	xander_harris
+329	161	[66, 67]	xander_harris
+330	161	[115, 116]	xander_harris
+331	161	[11, 14]	cordelia_chase
+332	161	[94, 97]	cordelia_chase
+333	162	[0, 1]	willow_rosenberg
+334	163	[51, 59]	cordelia_chase
+335	163	[81, 86]	buffy_summers
+336	164	[0, 3]	xander_harris
+337	164	[25, 30]	buffy_summers
+338	165	[14, 15]	xander_harris
+339	165	[86, 89]	willow_rosenberg
+340	166	[39, 42]	xander_harris
+341	166	[48, 51]	xander_harris
+342	166	[79, 82]	xander_harris
+343	166	[103, 106]	xander_harris
+344	166	[137, 140]	xander_harris
+345	167	[34, 37]	willow_rosenberg
+346	167	[70, 72]	xander_harris
+347	167	[102, 103]	xander_harris
+348	167	[119, 123]	willow_rosenberg
+349	168	[3, 4]	willow_rosenberg
+350	168	[28, 31]	xander_harris
+351	169	[6, 7]	xander_harris
+352	169	[51, 52]	xander_harris
+353	169	[32, 35]	buffy_summers
+354	169	[72, 75]	buffy_summers
+355	169	[144, 147]	buffy_summers
+356	169	[240, 243]	buffy_summers
+357	170	[19, 20]	xander_harris
+358	170	[32, 35]	xander_harris
+359	170	[52, 54]	xander_harris
+360	170	[40, 43]	buffy_summers
+361	171	[11, 13]	xander_harris
+362	171	[23, 28]	buffy_summers
+363	171	[37, 40]	buffy_summers
+364	172	[13, 21]	cordelia_chase
+365	173	[11, 12]	xander_harris
+366	173	[32, 33]	xander_harris
+367	173	[57, 59]	xander_harris
+368	174	[0, 6]	xander_harris
+369	174	[9, 10]	buffy_summers
+370	174	[28, 30]	multiple_persons
+371	174	[77, 80]	xander_harris
+372	174	[56, 59]	xander_harris
+373	175	[20, 22]	multiple_persons
+374	175	[25, 33]	cordelia_chase
+375	175	[36, 38]	multiple_persons
+376	175	[82, 84]	multiple_persons
+377	175	[8, 11]	cordelia_chase
+378	175	[52, 55]	cordelia_chase
+379	175	[93, 97]	cordelia_chase
+380	176	[0, 1]	cordelia_chase
+381	176	[33, 37]	mr_pole
+382	177	[52, 54]	mr_pole
+383	177	[0, 3]	cordelia_chase
+384	177	[71, 74]	cordelia_chase
+385	178		
+386	179		
+387	180		
+388	181		
+389	182		
+390	183		
+391	184	[5, 7]	cordelia_chase
+392	184	[14, 15]	cordelia_chase
+393	184	[18, 19]	cordelia_chase
+394	184	[8, 11]	UNKNOWN
+395	185	[34, 37]	UNKNOWN
+396	186	[20, 21]	cordelia_chase
+397	187	[22, 26]	multiple_persons
+398	188	[41, 44]	multiple_persons
+399	189	[32, 40]	cordelia_chase
+400	190	[33, 34]	willow_rosenberg
+401	190	[23, 26]	cordelia_chase
+402	191	[12, 17]	UNKNOWN
+403	192		
+404	193		
+405	194		
+406	195		
+407	196	[0, 3]	amy_madison
+408	197	[0, 3]	amy_madison
+409	198	[34, 37]	amy_madison
+410	198	[5, 8]	multiple_persons
+411	198	[9, 13]	multiple_persons
+412	199	[43, 44]	buffy_summers
+413	199	[66, 69]	amy_madison
+414	199	[0, 3]	amy_madison
+415	199	[104, 107]	amy_madison
+416	199	[108, 111]	catherine_madison
+417	200	[9, 11]	rupert_giles
+418	200	[22, 23]	rupert_giles
+419	200	[104, 107]	amy_madison
+420	201	[0, 1]	buffy_summers
+421	201	[8, 11]	rupert_giles
+422	201	[75, 78]	rupert_giles
+423	201	[84, 87]	rupert_giles
+424	202	[25, 28]	amy_madison
+425	202	[29, 32]	catherine_madison
+426	203	[7, 9]	multiple_persons
+427	203	[29, 32]	amy_madison
+428	203	[35, 37]	multiple_persons
+429	203	[50, 53]	amy_madison
+430	204	[0, 1]	rupert_giles
+431	204	[8, 10]	multiple_persons
+432	204	[50, 52]	multiple_persons
+433	204	[26, 29]	amy_madison
+434	204	[60, 63]	amy_madison
+435	204	[86, 89]	amy_madison
+436	204	[77, 80]	amy_madison
+437	205	[22, 25]	rupert_giles
+438	205	[47, 50]	rupert_giles
+439	205	[93, 97]	rupert_giles
+440	205	[107, 110]	rupert_giles
+441	205	[156, 159]	rupert_giles
+442	206		
+443	207	[48, 51]	multiple_persons
+444	207	[63, 66]	multiple_persons
+445	208		
+446	209	[0, 2]	multiple_persons
+447	209	[55, 60]	buffy_summers
+448	209	[136, 144]	cordelia_chase
+449	209	[174, 176]	multiple_persons
+450	209	[76, 79]	buffy_summers
+451	209	[107, 110]	buffy_summers
+452	209	[154, 157]	buffy_summers
+453	209	[188, 191]	buffy_summers
+454	210	[0, 6]	xander_harris
+455	211		
+456	212	[75, 81]	xander_harris
+457	212	[65, 74]	xander_harris
+458	213	[37, 46]	xander_harris
+459	214	[35, 38]	multiple_persons
+460	215	[0, 3]	xander_harris
+461	216	[17, 18]	xander_harris
+462	216	[21, 22]	xander_harris
+463	216	[44, 47]	multiple_persons
+464	217	[30, 32]	multiple_persons
+465	217	[5, 8]	multiple_persons
+466	217	[127, 130]	multiple_persons
+467	217	[148, 151]	amy_madison
+468	218	[46, 49]	multiple_persons
+469	219	[140, 143]	multiple_persons
+470	220	[9, 12]	multiple_persons
+471	220	[36, 40]	multiple_persons
+472	221	[9, 12]	multiple_persons
+473	221	[31, 35]	multiple_persons
+474	221	[58, 62]	multiple_persons
+475	221	[111, 115]	multiple_persons
+476	222		
+477	223	[0, 1]	xander_harris
+478	224	[19, 20]	dr_gregory
+479	224	[41, 44]	multiple_persons
+480	225		
+481	226		
+482	227	[7, 12]	buffy_summers
+483	228		
+484	229	[12, 15]	amy_madison
+485	229	[23, 25]	buffy_summers
+486	230		
+487	231		
+488	232		
+489	233	[13, 16]	buffy_summers
+490	234	[12, 15]	amy_madison
+491	235	[0, 2]	multiple_persons
+492	235	[20, 23]	buffy_summers
+493	236	[0, 8]	lishanne
+494	236	[24, 26]	dr_gregory
+495	236	[15, 18]	lishanne
+496	237	[0, 8]	lishanne
+497	238	[17, 19]	dr_gregory
+498	238	[4, 7]	lishanne
+499	238	[20, 23]	UNKNOWN
+500	239	[14, 17]	amy_madison
+501	239	[52, 54]	multiple_persons
+502	239	[4, 7]	willow_rosenberg
+503	240	[13, 16]	amy_madison
+504	241	[31, 34]	multiple_persons
+505	241	[45, 46]	buffy_summers
+506	241	[24, 27]	amy_madison
+507	241	[35, 42]	UNKNOWN
+508	241	[65, 68]	amy_madison
+509	241	[83, 86]	amy_madison
+510	242	[14, 16]	multiple_persons
+511	242	[25, 28]	amy_madison
+512	243	[6, 8]	multiple_persons
+513	243	[37, 38]	buffy_summers
+514	243	[24, 27]	amy_madison
+515	243	[28, 34]	catherine_madison
+516	243	[51, 54]	amy_madison
+517	243	[68, 71]	amy_madison
+518	244	[10, 13]	catherine_madison
+519	245		
+520	246	[0, 1]	amy_madison
+521	247	[0, 1]	amy_madison
+522	247	[53, 58]	buffy_summers
+523	247	[110, 112]	amy_madison
+524	248	[0, 1]	amy_madison
+525	249		
+526	250	[22, 23]	buffy_summers
+527	251	[0, 3]	buffy_summers
+528	252	[0, 1]	buffy_summers
+529	252	[7, 8]	buffy_summers
+530	252	[51, 52]	buffy_summers
+531	253	[35, 36]	joyce_summers
+532	253	[9, 14]	buffy_summers
+533	254	[55, 58]	joyce_summers
+534	254	[81, 82]	buffy_summers
+535	254	[113, 114]	buffy_summers
+536	255	[8, 9]	joyce_summers
+537	255	[20, 23]	buffy_summers
+538	255	[60, 63]	buffy_summers
+539	255	[74, 75]	joyce_summers
+540	256	[6, 9]	joyce_summers
+541	256	[45, 47]	buffy_summers
+542	256	[50, 53]	joyce_summers
+543	256	[0, 3]	joyce_summers
+544	257		
+545	258		
+546	259	[0, 5]	buffy_summers
+547	259	[12, 15]	buffy_summers
+548	260	[12, 13]	buffy_summers
+549	260	[19, 20]	buffy_summers
+550	260	[54, 55]	buffy_summers
+551	260	[176, 177]	buffy_summers
+552	260	[203, 204]	buffy_summers
+553	260	[250, 251]	buffy_summers
+554	261		
+555	262		
+556	263	[21, 26]	buffy_summers
+557	263	[29, 31]	multiple_persons
+558	264	[0, 6]	willow_rosenberg
+559	264	[9, 15]	xander_harris
+560	264	[18, 20]	buffy_summers
+561	264	[37, 38]	buffy_summers
+562	264	[44, 46]	buffy_summers
+563	265	[6, 8]	xander_harris
+564	265	[17, 22]	buffy_summers
+565	266	[0, 2]	multiple_persons
+566	266	[14, 17]	buffy_summers
+567	267	[14, 17]	buffy_summers
+568	268		
+569	269	[4, 5]	buffy_summers
+570	270	[0, 3]	buffy_summers
+571	271	[10, 13]	buffy_summers
+572	272	[0, 3]	buffy_summers
+573	273		
+574	274	[37, 40]	multiple_persons
+575	274	[63, 66]	amy_madison
+576	274	[69, 72]	amy_madison
+577	275	[15, 18]	cheerleader_joy
+578	275	[31, 34]	amy_madison
+579	275	[37, 40]	amy_madison
+580	276		
+581	277	[0, 3]	amy_madison
+582	278	[0, 5]	buffy_summers
+583	279	[0, 1]	buffy_summers
+584	279	[41, 42]	buffy_summers
+585	280	[0, 1]	xander_harris
+586	280	[22, 26]	buffy_summers
+587	281	[6, 7]	buffy_summers
+588	281	[49, 51]	buffy_summers
+589	281	[69, 71]	buffy_summers
+590	281	[72, 78]	xander_harris
+591	281	[100, 103]	xander_harris
+592	281	[122, 123]	buffy_summers
+593	281	[129, 132]	xander_harris
+594	281	[138, 144]	xander_harris
+595	281	[13, 16]	multiple_persons
+596	281	[41, 44]	multiple_persons
+597	281	[61, 64]	xander_harris
+598	282	[0, 2]	multiple_persons
+599	282	[17, 20]	buffy_summers
+600	283	[4, 7]	buffy_summers
+601	284	[0, 1]	buffy_summers
+602	284	[11, 14]	xander_harris
+603	284	[17, 20]	xander_harris
+604	285		
+605	286	[0, 3]	xander_harris
+606	286	[52, 53]	buffy_summers
+607	286	[73, 76]	xander_harris
+608	287		
+609	288	[26, 28]	buffy_summers
+610	288	[67, 69]	buffy_summers
+611	289	[5, 6]	buffy_summers
+612	289	[9, 10]	buffy_summers
+613	290	[0, 5]	buffy_summers
+614	291	[0, 2]	multiple_persons
+615	291	[18, 21]	buffy_summers
+616	292	[17, 20]	buffy_summers
+617	293	[56, 61]	buffy_summers
+618	293	[25, 28]	buffy_summers
+619	294	[17, 18]	buffy_summers
+620	294	[7, 10]	amy_madison
+621	294	[24, 27]	amy_madison
+622	295	[48, 51]	buffy_summers
+623	295	[11, 14]	amy_madison
+624	295	[52, 55]	amy_madison
+625	296		
+626	297	[17, 19]	multiple_persons
+627	298	[10, 11]	rupert_giles
+628	299		
+629	300		
+630	301	[14, 16]	multiple_persons
+631	302	[5, 6]	rupert_giles
+632	302	[9, 10]	rupert_giles
+633	302	[50, 52]	multiple_persons
+634	302	[96, 98]	multiple_persons
+635	302	[112, 115]	multiple_persons
+636	302	[130, 133]	amy_madison
+637	303	[7, 9]	multiple_persons
+638	304		
+639	305		
+640	306	[10, 13]	amy_madison
+641	306	[25, 28]	amy_madison
+642	306	[60, 63]	amy_madison
+643	306	[64, 70]	catherine_madison
+644	307	[7, 8]	xander_harris
+645	307	[27, 28]	xander_harris
+646	307	[44, 47]	buffy_summers
+647	308	[0, 5]	rupert_giles
+648	308	[20, 23]	amy_madison
+649	309	[5, 8]	amy_madison
+650	310	[23, 25]	buffy_summers
+651	310	[0, 3]	amy_madison
+652	311	[0, 2]	multiple_persons
+653	311	[32, 34]	multiple_persons
+654	311	[18, 21]	amy_madison
+655	311	[43, 46]	amy_madison
+656	312	[7, 9]	multiple_persons
+657	312	[22, 25]	buffy_summers
+658	313	[48, 51]	amy_madison
+659	313	[10, 13]	multiple_persons
+660	313	[14, 18]	multiple_persons
+661	314	[41, 43]	multiple_persons
+662	314	[64, 67]	multiple_persons
+663	314	[9, 12]	amy_madison
+664	315	[8, 11]	multiple_persons
+665	316	[5, 12]	catherine_madison
+666	316	[15, 17]	multiple_persons
+667	316	[34, 37]	catherine_madison
+668	316	[44, 48]	catherine_madison
+669	316	[49, 57]	amy_madison
+670	317	[0, 1]	catherine_madison
+671	317	[19, 22]	rupert_giles
+672	318	[7, 9]	rupert_giles
+673	319		
+674	320	[0, 3]	catherine_madison
+675	320	[29, 33]	catherine_madison
+676	320	[91, 94]	catherine_madison
+677	320	[34, 42]	amy_madison
+678	321	[5, 6]	catherine_madison
+679	321	[24, 27]	rupert_giles
+680	322	[5, 6]	rupert_giles
+681	322	[13, 16]	catherine_madison
+682	323	[0, 3]	rupert_giles
+683	323	[53, 56]	rupert_giles
+684	323	[20, 23]	amy_madison
+685	324	[29, 32]	catherine_madison
+686	324	[50, 53]	catherine_madison
+687	324	[69, 71]	rupert_giles
+688	324	[74, 78]	catherine_madison
+689	324	[143, 147]	catherine_madison
+690	324	[79, 87]	amy_madison
+691	325	[0, 1]	catherine_madison
+692	325	[45, 47]	catherine_madison
+693	325	[54, 57]	amy_madison
+694	326	[14, 17]	catherine_madison
+695	326	[3, 6]	amy_madison
+696	326	[7, 13]	catherine_madison
+697	326	[56, 59]	amy_madison
+698	327	[7, 10]	rupert_giles
+699	327	[37, 38]	catherine_madison
+700	327	[102, 103]	catherine_madison
+701	327	[43, 46]	amy_madison
+702	327	[57, 60]	amy_madison
+703	327	[85, 88]	amy_madison
+704	327	[79, 82]	catherine_madison's_father
+705	327	[89, 92]	amy_madison's_father
+706	327	[119, 122]	amy_madison
+707	328	[0, 3]	catherine_madison
+708	328	[18, 21]	amy_madison
+709	329	[0, 3]	amy_madison
+710	330	[8, 11]	amy_madison
+711	330	[4, 7]	catherine_madison
+712	331	[0, 1]	rupert_giles
+713	332	[0, 3]	amy_madison
+714	332	[15, 18]	amy_madison
+715	332	[28, 32]	multiple_persons
+716	332	[50, 53]	amy_madison
+717	333		
+718	334	[0, 3]	amy_madison
+719	334	[21, 24]	amy_madison
+720	335	[9, 10]	catherine_madison
+721	335	[23, 25]	catherine_madison
+722	335	[0, 3]	amy_madison
+723	335	[37, 40]	amy_madison
+724	336	[0, 1]	catherine_madison
+725	336	[43, 44]	catherine_madison
+726	336	[138, 139]	catherine_madison
+727	336	[147, 148]	catherine_madison
+728	336	[207, 208]	catherine_madison
+729	336	[260, 262]	catherine_madison
+730	336	[287, 288]	catherine_madison
+731	336	[370, 372]	catherine_madison
+732	336	[383, 385]	catherine_madison
+733	336	[386, 387]	catherine_madison
+734	336	[434, 435]	catherine_madison
+735	336	[489, 490]	catherine_madison
+736	336	[508, 510]	catherine_madison
+737	336	[30, 33]	amy_madison
+738	336	[57, 60]	amy_madison's_father
+739	336	[100, 102]	amy_madison's_father
+740	336	[118, 121]	amy_madison
+741	336	[170, 172]	amy_madison's_father
+742	336	[199, 201]	amy_madison's_father
+743	336	[227, 230]	amy_madison's_father
+744	336	[237, 240]	amy_madison
+745	336	[270, 273]	amy_madison
+746	336	[296, 299]	amy_madison
+747	336	[308, 315]	amy_madison
+748	336	[340, 343]	amy_madison
+749	336	[475, 478]	amy_madison
+750	336	[497, 500]	amy_madison
+751	337	[0, 3]	amy_madison
+752	338	[19, 20]	catherine_madison
+753	338	[50, 51]	catherine_madison
+754	338	[71, 72]	catherine_madison
+755	338	[94, 95]	catherine_madison
+756	338	[40, 43]	amy_madison
+757	339	[0, 3]	amy_madison
+758	339	[11, 18]	amy_madison
+759	340		
+760	341		
+761	342	[26, 27]	catherine_madison
+762	342	[55, 57]	catherine_madison
+763	342	[12, 15]	amy_madison
+764	342	[42, 45]	amy_madison
+765	343	[0, 2]	rupert_giles
+766	343	[9, 10]	rupert_giles
+767	343	[19, 21]	multiple_persons
+768	343	[34, 38]	catherine_madison
+769	343	[3, 6]	UNKNOWN
+770	344	[0, 3]	multiple_persons
+771	344	[21, 24]	multiple_persons
+772	345	[0, 2]	multiple_persons
+773	345	[16, 19]	amy_madison
+774	345	[57, 60]	amy_madison
+775	346		
+776	347	[36, 39]	UNKNOWN
+777	348	[4, 6]	multiple_persons
+778	349	[0, 2]	multiple_persons
+779	350	[14, 17]	multiple_persons
+780	351	[0, 2]	multiple_persons
+781	352	[24, 26]	multiple_persons
+782	352	[4, 7]	catherine_madison
+783	353	[0, 1]	rupert_giles
+784	353	[24, 25]	rupert_giles
+785	354	[0, 3]	buffy_summers
+786	355	[7, 10]	buffy_summers
+787	356	[0, 2]	multiple_persons
+788	357		
+789	358	[13, 15]	multiple_persons
+790	359	[116, 118]	rupert_giles
+791	360		
+792	361	[49, 51]	multiple_persons
+793	362	[5, 7]	rupert_giles
+794	363	[0, 3]	amy_madison
+795	363	[14, 18]	amy_madison
+796	364	[0, 3]	amy_madison
+797	365	[0, 3]	amy_madison
+798	366	[11, 13]	amy_madison
+799	367	[11, 12]	willow_rosenberg
+800	367	[15, 16]	willow_rosenberg
+801	367	[19, 20]	willow_rosenberg
+802	367	[37, 40]	amy_madison
+803	367	[43, 44]	willow_rosenberg
+804	367	[47, 48]	willow_rosenberg
+805	367	[58, 61]	amy_madison
+806	368	[5, 7]	amy_madison
+807	369	[25, 29]	willow_rosenberg
+808	369	[43, 44]	willow_rosenberg
+809	369	[47, 48]	willow_rosenberg
+810	370	[3, 6]	willow_rosenberg
+811	371	[0, 6]	xander_harris
+812	372	[93, 97]	rupert_giles
+813	372	[0, 8]	UNKNOWN
+814	372	[13, 19]	UNKNOWN
+815	373		
+816	374		
+817	375		
+818	376		
+819	377	[0, 5]	buffy_summers
+820	378	[0, 3]	amy_madison
+821	379	[0, 3]	catherine_madison
+822	379	[10, 13]	catherine_madison
+823	380	[0, 3]	amy_madison
+824	380	[6, 9]	amy_madison
+825	381	[0, 3]	catherine_madison
+826	382	[9, 12]	amy_madison
+827	382	[19, 23]	amy_madison
+828	382	[32, 36]	amy_madison
+829	382	[46, 47]	catherine_madison
+830	382	[53, 56]	amy_madison
+831	382	[65, 66]	catherine_madison
+832	382	[75, 77]	catherine_madison
+833	382	[86, 89]	amy_madison
+834	382	[152, 155]	amy_madison
+835	382	[194, 195]	catherine_madison
+836	382	[212, 215]	amy_madison
+837	382	[222, 225]	amy_madison
+838	382	[37, 43]	catherine_madison
+839	383		
+840	384	[0, 1]	buffy_summers
+841	385	[14, 18]	catherine_madison
+842	385	[21, 25]	catherine_madison
+843	386		
+844	387	[0, 1]	catherine_madison
+845	387	[18, 20]	catherine_madison
+846	388	[0, 1]	catherine_madison
+847	388	[18, 21]	buffy_summers
+848	388	[51, 54]	buffy_summers
+849	389	[0, 8]	UNKNOWN
+850	389	[16, 19]	buffy_summers
+851	390		
+852	391	[0, 3]	multiple_persons
+853	391	[4, 8]	multiple_persons
+854	392	[0, 1]	amy_madison
+855	393	[0, 1]	rupert_giles
+856	393	[57, 59]	rupert_giles
+857	393	[83, 84]	rupert_giles
+858	394	[0, 3]	rupert_giles
+859	394	[10, 12]	buffy_summers
+860	394	[20, 23]	rupert_giles
+861	395	[7, 8]	amy_madison
+862	395	[23, 26]	rupert_giles
+863	396	[0, 1]	xander_harris
+864	396	[12, 13]	xander_harris
+865	396	[6, 9]	amy_madison
+866	396	[18, 21]	amy_madison
+867	396	[28, 31]	amy_madison
+868	397	[0, 6]	xander_harris
+869	397	[18, 21]	xander_harris
+870	398	[7, 10]	buffy_summers
+871	399	[4, 8]	xander_harris
+872	399	[22, 25]	amy_madison
+873	400	[4, 7]	amy_madison
+874	401	[19, 22]	amy_madison
+875	402	[0, 1]	amy_madison
+876	402	[6, 8]	amy_madison
+877	402	[9, 12]	catherine_madison
+878	403		
+879	404	[9, 12]	amy_madison
+880	405	[9, 15]	willow_rosenberg
+881	406		
+882	407	[7, 8]	xander_harris
+883	408	[0, 1]	joyce_summers
+884	409		
+885	410	[0, 1]	joyce_summers
+886	410	[51, 54]	buffy_summers
+887	410	[90, 93]	buffy_summers
+888	410	[102, 103]	joyce_summers
+889	410	[143, 144]	joyce_summers
+890	411	[0, 1]	buffy_summers
+891	412	[0, 3]	buffy_summers
+892	412	[18, 19]	joyce_summers
+893	412	[71, 72]	joyce_summers
+894	412	[91, 94]	buffy_summers
+895	412	[103, 104]	joyce_summers
+896	413	[3, 6]	joyce_summers
+897	413	[17, 20]	joyce_summers
+898	414	[84, 86]	joyce_summers
+899	414	[98, 101]	buffy_summers
+900	415	[0, 1]	buffy_summers
+901	415	[7, 10]	joyce_summers
+902	415	[13, 16]	joyce_summers
+903	416	[0, 1]	joyce_summers
+904	417	[0, 2]	amy_madison
+905	417	[3, 6]	amy_madison's_father
+906	417	[52, 54]	amy_madison
+907	417	[125, 126]	amy_madison
+908	417	[141, 144]	amy_madison's_father
+909	417	[147, 148]	amy_madison
+910	417	[230, 232]	amy_madison
+911	417	[238, 240]	amy_madison
+912	417	[30, 32]	amy_madison's_father
+913	417	[72, 74]	amy_madison's_father
+914	417	[241, 244]	catherine_madison
+915	417	[251, 253]	amy_madison's_father
+916	417	[191, 193]	amy_madison's_father
+917	418	[0, 3]	amy_madison
+918	419		
+919	420	[85, 87]	amy_madison
+920	420	[20, 22]	amy_madison's_father
+921	421	[6, 7]	cordelia_chase
+922	421	[86, 87]	cordelia_chase
+923	421	[24, 27]	multiple_persons
+924	421	[28, 32]	multiple_persons
+925	422	[7, 8]	amy_madison
+926	422	[19, 20]	amy_madison
+927	422	[81, 83]	amy_madison
+928	423		
+929	424	[5, 6]	amy_madison
+930	424	[18, 19]	amy_madison
+931	424	[32, 35]	buffy_summers
+932	425	[70, 72]	buffy_summers
+933	426		
+934	427	[0, 9]	catherine_madison
+935	428	[29, 32]	catherine_madison
+936	429	[29, 30]	amy_madison
+937	429	[77, 78]	amy_madison
+938	429	[92, 94]	multiple_persons
+939	429	[20, 23]	catherine_madison
+940	429	[70, 73]	catherine_madison
+941	430		
+942	431	[0, 1]	amy_madison
+943	431	[24, 26]	amy_madison
+944	431	[39, 40]	amy_madison
+945	432	[9, 10]	buffy_summers

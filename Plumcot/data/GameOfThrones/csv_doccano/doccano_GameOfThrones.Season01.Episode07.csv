@@ -1,0 +1,603 @@
+	idSent	idChar	label
+0	1	[72, 79]	gregor_clegane
+1	1	[65, 71]	gregor_clegane
+2	1	[86, 94]	gregor_clegane
+3	2	[10, 13]	gregor_clegane
+4	3		
+5	4	[0, 7]	catelyn_stark
+6	4	[19, 21]	jaime_lannister
+7	4	[8, 13]	catelyn_stark
+8	4	[22, 29]	tyrion_lannister
+9	5	[7, 9]	eddard_stark
+10	6	[0, 6]	tyrion_lannister
+11	7	[0, 3]	eddard_stark
+12	7	[4, 9]	eddard_stark
+13	8	[7, 10]	multiple_persons
+14	8	[63, 64]	jaime_lannister
+15	8	[36, 39]	eddard_stark
+16	8	[78, 81]	eddard_stark
+17	9	[7, 9]	eddard_stark
+18	10		
+19	11		
+20	12	[0, 3]	jaime_lannister
+21	12	[66, 69]	jaime_lannister
+22	13	[0, 1]	jaime_lannister
+23	13	[40, 42]	jaime_lannister
+24	14	[17, 20]	jaime_lannister
+25	14	[45, 48]	jaime_lannister
+26	15		
+27	16	[5, 8]	jaime_lannister
+28	16	[58, 62]	jaime_lannister
+29	16	[89, 92]	jaime_lannister
+30	17	[21, 23]	jaime_lannister
+31	18	[26, 33]	UNKNOWN
+32	18	[4, 8]	UNKNOWN
+33	19	[0, 1]	jaime_lannister
+34	19	[18, 21]	tywin_lannister
+35	19	[50, 52]	jaime_lannister
+36	19	[53, 60]	tyrion_lannister
+37	20	[80, 82]	multiple_persons
+38	20	[0, 2]	tyrion_lannister
+39	20	[20, 22]	tyrion_lannister
+40	20	[67, 69]	tyrion_lannister
+41	21	[25, 32]	UNKNOWN
+42	21	[7, 11]	UNKNOWN
+43	22		
+44	23		
+45	24	[0, 3]	eddard_stark
+46	25	[0, 1]	eddard_stark
+47	25	[18, 20]	eddard_stark
+48	25	[21, 25]	cersei_lannister
+49	26		
+50	27	[38, 41]	cersei_lannister
+51	28	[0, 1]	eddard_stark
+52	28	[21, 26]	jon_arryn
+53	28	[17, 20]	jon_arryn
+54	29	[3, 6]	eddard_stark
+55	29	[34, 37]	eddard_stark
+56	29	[45, 47]	cersei_lannister
+57	29	[63, 65]	cersei_lannister
+58	29	[9, 13]	eddard_stark
+59	29	[14, 19]	eddard_stark
+60	30	[4, 6]	robert_baratheon
+61	31	[0, 5]	jaime_lannister
+62	31	[24, 27]	robert_baratheon
+63	32	[0, 2]	cersei_lannister
+64	32	[34, 38]	eddard_stark
+65	32	[3, 10]	jaime_lannister
+66	33	[0, 4]	cersei_lannister
+67	33	[16, 20]	cersei_lannister
+68	34	[15, 17]	multiple_persons
+69	35	[0, 5]	jaime_lannister
+70	35	[10, 11]	cersei_lannister
+71	35	[47, 49]	multiple_persons
+72	35	[66, 68]	multiple_persons
+73	35	[101, 103]	multiple_persons
+74	36	[0, 2]	eddard_stark
+75	36	[11, 14]	cersei_lannister
+76	36	[20, 23]	jaime_lannister
+77	36	[3, 6]	bran_stark
+78	37	[3, 6]	eddard_stark
+79	37	[12, 16]	eddard_stark
+80	38	[9, 11]	eddard_stark
+81	39	[13, 14]	cersei_lannister
+82	39	[20, 24]	cersei_lannister
+83	40	[17, 22]	jaime_lannister
+84	41	[10, 14]	UNKNOWN
+85	42	[0, 3]	cersei_lannister
+86	42	[21, 24]	robert_baratheon
+87	43	[12, 13]	cersei_lannister
+88	43	[6, 9]	robert_baratheon
+89	43	[24, 27]	robert_baratheon
+90	44	[38, 39]	eddard_stark
+91	44	[27, 30]	robert_baratheon
+92	44	[49, 52]	robert_baratheon
+93	45	[12, 14]	cersei_lannister
+94	45	[36, 39]	eddard_stark
+95	45	[72, 80]	eddard_stark
+96	45	[23, 27]	eddard_stark
+97	45	[28, 33]	eddard_stark
+98	46	[0, 1]	eddard_stark
+99	46	[28, 30]	eddard_stark
+100	47		
+101	48		
+102	49	[97, 100]	ros
+103	49	[130, 133]	ros
+104	49	[152, 155]	ros
+105	49	[180, 181]	petyr_baelish
+106	49	[38, 41]	multiple_persons
+107	49	[79, 82]	ros
+108	50	[6, 8]	ros
+109	50	[9, 13]	petyr_baelish
+110	51	[26, 28]	multiple_persons
+111	51	[31, 34]	UNKNOWN
+112	51	[50, 53]	ros
+113	52	[11, 14]	petyr_baelish
+114	52	[20, 22]	multiple_persons
+115	52	[25, 27]	ros
+116	52	[28, 32]	petyr_baelish
+117	53	[0, 1]	petyr_baelish
+118	53	[12, 18]	petyr_baelish
+119	54	[5, 8]	UNKNOWN
+120	54	[35, 38]	UNKNOWN
+121	55		
+122	56	[0, 3]	UNKNOWN
+123	57		
+124	58	[0, 1]	ros
+125	58	[13, 15]	ros
+126	58	[16, 20]	petyr_baelish
+127	59	[25, 27]	petyr_baelish
+128	60	[3, 6]	UNKNOWN
+129	60	[24, 27]	UNKNOWN
+130	61	[8, 10]	UNKNOWN
+131	61	[15, 22]	UNKNOWN
+132	62	[12, 15]	petyr_baelish
+133	63	[18, 20]	petyr_baelish
+134	64	[0, 3]	osha
+135	64	[31, 34]	osha
+136	65	[12, 15]	theon_greyjoy
+137	66		
+138	67		
+139	68	[0, 3]	osha
+140	69	[6, 8]	osha
+141	69	[11, 14]	theon_greyjoy
+142	69	[37, 38]	osha
+143	70	[6, 8]	theon_greyjoy
+144	70	[11, 13]	theon_greyjoy
+145	70	[21, 24]	osha
+146	71		
+147	72		
+148	73		
+149	74	[14, 17]	osha
+150	74	[29, 31]	theon_greyjoy
+151	74	[32, 38]	balon_greyjoy
+152	74	[42, 47]	balon_greyjoy
+153	74	[48, 55]	balon_greyjoy
+154	74	[58, 62]	balon_greyjoy
+155	74	[63, 65]	balon_greyjoy
+156	74	[66, 69]	balon_greyjoy
+157	74	[70, 74]	balon_greyjoy
+158	74	[75, 82]	balon_greyjoy
+159	75	[28, 31]	theon_greyjoy
+160	75	[37, 41]	theon_greyjoy
+161	75	[67, 70]	theon_greyjoy
+162	75	[42, 48]	balon_greyjoy
+163	76	[0, 1]	theon_greyjoy
+164	76	[21, 23]	theon_greyjoy
+165	76	[24, 30]	balon_greyjoy
+166	77	[3, 6]	theon_greyjoy
+167	78	[5, 8]	osha
+168	78	[13, 16]	osha
+169	78	[32, 34]	theon_greyjoy
+170	79	[0, 1]	osha
+171	79	[29, 32]	theon_greyjoy
+172	80	[0, 1]	theon_greyjoy
+173	81	[0, 3]	theon_greyjoy
+174	81	[44, 47]	theon_greyjoy
+175	81	[64, 66]	osha
+176	82	[0, 3]	osha
+177	82	[43, 46]	osha
+178	83	[16, 18]	osha
+179	83	[19, 23]	theon_greyjoy
+180	84		
+181	85	[0, 5]	theon_greyjoy
+182	85	[6, 13]	theon_greyjoy
+183	85	[28, 31]	multiple_persons
+184	85	[20, 24]	osha
+185	86	[0, 1]	theon_greyjoy
+186	86	[18, 21]	multiple_persons
+187	86	[10, 13]	osha
+188	87	[34, 38]	theon_greyjoy
+189	88	[12, 13]	maester_luwin
+190	89	[0, 1]	osha
+191	89	[24, 27]	theon_greyjoy
+192	90	[0, 1]	osha
+193	90	[70, 73]	theon_greyjoy
+194	91	[8, 11]	osha
+195	92		
+196	93	[15, 18]	osha
+197	94		
+198	95		
+199	96	[0, 1]	osha
+200	97	[21, 24]	osha
+201	98	[20, 23]	maester_luwin
+202	98	[24, 27]	maester_luwin
+203	99	[0, 1]	samwell_tarly
+204	100	[7, 9]	UNKNOWN
+205	101		
+206	102		
+207	103		
+208	104	[8, 10]	jon_snow
+209	104	[17, 23]	benjen_stark
+210	104	[11, 16]	benjen_stark
+211	105	[0, 3]	eddard_stark
+212	105	[12, 18]	robert_baratheon
+213	106	[0, 1]	robert_baratheon
+214	106	[35, 38]	joffrey_baratheon
+215	106	[47, 50]	joffrey_baratheon
+216	107	[0, 2]	robert_baratheon
+217	107	[34, 36]	robert_baratheon
+218	108	[0, 6]	robert_baratheon
+219	108	[9, 11]	cersei_lannister
+220	109	[13, 16]	multiple_persons
+221	110	[0, 3]	robert_baratheon
+222	111	[45, 46]	robert_baratheon
+223	112	[29, 30]	robert_baratheon
+224	113	[0, 1]	eddard_stark
+225	114	[4, 6]	robert_baratheon
+226	114	[22, 25]	eddard_stark
+227	114	[49, 51]	robert_baratheon
+228	114	[7, 10]	joffrey_baratheon
+229	114	[16, 19]	joffrey_baratheon
+230	114	[33, 36]	joffrey_baratheon
+231	115	[0, 1]	eddard_stark
+232	115	[8, 9]	eddard_stark
+233	115	[28, 29]	eddard_stark
+234	115	[43, 47]	robert_baratheon
+235	116	[0, 2]	robert_baratheon
+236	117	[5, 8]	robert_baratheon
+237	118	[0, 2]	robert_baratheon
+238	119	[28, 31]	robert_baratheon
+239	119	[37, 44]	robert_baratheon
+240	120	[0, 1]	lord_varys
+241	120	[15, 24]	barristan_selmy
+242	120	[11, 14]	barristan_selmy
+243	121	[0, 3]	robert_baratheon
+244	122	[0, 3]	robert_baratheon
+245	122	[17, 26]	jaime_lannister
+246	122	[27, 30]	jaime_lannister
+247	123	[32, 35]	robert_baratheon
+248	123	[36, 41]	robert_baratheon
+249	124	[47, 55]	daenerys_targaryen
+250	124	[0, 3]	robert_baratheon
+251	124	[4, 9]	robert_baratheon
+252	124	[56, 65]	daenerys_targaryen
+253	125	[0, 1]	lord_varys
+254	126		
+255	127		
+256	128		
+257	129		
+258	130		
+259	131		
+260	132		
+261	133		
+262	134		
+263	135		
+264	136	[43, 45]	UNKNOWN
+265	137	[16, 18]	daenerys_targaryen
+266	137	[7, 10]	jorah_mormont
+267	137	[24, 27]	khal_drogo
+268	138		
+269	139	[0, 2]	daenerys_targaryen
+270	139	[24, 25]	daenerys_targaryen
+271	139	[3, 10]	viserys_targaryen
+272	139	[37, 39]	viserys_targaryen
+273	140	[8, 10]	jorah_mormont
+274	140	[13, 21]	daenerys_targaryen
+275	140	[28, 32]	daenerys_targaryen
+276	140	[114, 117]	UNKNOWN
+277	140	[42, 47]	UNKNOWN
+278	140	[48, 51]	UNKNOWN
+279	140	[52, 61]	UNKNOWN
+280	141	[12, 14]	UNKNOWN
+281	142		
+282	143	[0, 3]	jorah_mormont
+283	144	[5, 8]	daenerys_targaryen
+284	144	[30, 38]	daenerys_targaryen
+285	144	[41, 42]	jorah_mormont
+286	144	[56, 58]	jorah_mormont
+287	145	[7, 8]	daenerys_targaryen
+288	145	[23, 26]	jorah_mormont
+289	146	[23, 31]	daenerys_targaryen
+290	146	[53, 54]	jorah_mormont
+291	146	[66, 69]	daenerys_targaryen
+292	147	[7, 12]	jorah_mormont
+293	147	[13, 16]	jorah_mormont
+294	147	[17, 22]	jorah_mormont
+295	148		
+296	149	[16, 24]	daenerys_targaryen
+297	149	[27, 28]	wine_merchant
+298	149	[59, 61]	wine_merchant
+299	149	[62, 66]	daenerys_targaryen
+300	150	[0, 2]	daenerys_targaryen
+301	150	[34, 35]	daenerys_targaryen
+302	150	[44, 48]	wine_merchant
+303	150	[3, 6]	rhaego
+304	150	[19, 22]	rhaego
+305	151	[0, 2]	wine_merchant
+306	151	[10, 13]	daenerys_targaryen
+307	151	[3, 7]	daenerys_targaryen
+308	152	[0, 3]	wine_merchant
+309	152	[33, 41]	daenerys_targaryen
+310	153	[0, 8]	daenerys_targaryen
+311	154	[7, 8]	daenerys_targaryen
+312	155		
+313	156	[0, 3]	wine_merchant
+314	156	[10, 12]	daenerys_targaryen
+315	156	[15, 18]	wine_merchant
+316	157	[31, 35]	wine_merchant
+317	158		
+318	159	[0, 3]	daenerys_targaryen
+319	159	[27, 31]	daenerys_targaryen
+320	159	[55, 59]	daenerys_targaryen
+321	159	[69, 77]	daenerys_targaryen
+322	160	[0, 1]	daenerys_targaryen
+323	160	[16, 20]	wine_merchant
+324	161	[0, 7]	rakharo
+325	162		
+326	163		
+327	164		
+328	165	[0, 1]	jorah_mormont
+329	166	[20, 28]	daenerys_targaryen
+330	166	[58, 61]	jorah_mormont
+331	167		
+332	168		
+333	169		
+334	170	[6, 8]	wine_merchant
+335	171	[7, 15]	daenerys_targaryen
+336	172	[24, 27]	jorah_mormont
+337	172	[63, 65]	wine_merchant
+338	172	[46, 49]	jorah_mormont
+339	172	[66, 70]	jorah_mormont
+340	173	[0, 3]	wine_merchant
+341	174	[0, 2]	wine_merchant
+342	174	[5, 6]	wine_merchant
+343	174	[17, 18]	wine_merchant
+344	175	[0, 3]	wine_merchant
+345	176	[0, 8]	daenerys_targaryen
+346	176	[16, 19]	wine_merchant
+347	177		
+348	178	[12, 14]	multiple_persons
+349	178	[0, 3]	multiple_persons
+350	179	[0, 3]	jon_snow
+351	180	[0, 1]	jon_snow
+352	180	[15, 17]	jon_snow
+353	180	[18, 23]	benjen_stark
+354	181	[0, 1]	samwell_tarly
+355	181	[7, 8]	samwell_tarly
+356	181	[30, 31]	samwell_tarly
+357	181	[20, 23]	jon_snow
+358	182		
+359	183	[5, 8]	multiple_persons
+360	184	[0, 1]	jon_snow
+361	184	[7, 9]	jon_snow
+362	184	[10, 14]	jeor_mormont
+363	185	[0, 3]	jon_snow
+364	185	[21, 25]	jon_snow
+365	185	[53, 57]	jon_snow
+366	185	[58, 63]	benjen_stark
+367	186	[6, 8]	jon_snow
+368	186	[9, 13]	jeor_mormont
+369	187	[0, 3]	jon_snow
+370	187	[64, 68]	UNKNOWN
+371	187	[55, 59]	jon_snow
+372	188	[0, 2]	samwell_tarly
+373	188	[16, 17]	samwell_tarly
+374	188	[3, 7]	jeor_mormont
+375	189	[30, 34]	UNKNOWN
+376	190	[5, 7]	samwell_tarly
+377	190	[8, 12]	jeor_mormont
+378	191	[22, 24]	samwell_tarly
+379	192	[3, 6]	samwell_tarly
+380	192	[14, 17]	samwell_tarly
+381	193	[13, 15]	jaremy_rykker
+382	194		
+383	195	[0, 7]	samwell_tarly
+384	195	[26, 28]	maester_aemon
+385	195	[10, 13]	samwell_tarly
+386	196	[5, 6]	jon_snow
+387	196	[17, 21]	jeor_mormont
+388	196	[22, 31]	jeor_mormont
+389	196	[65, 68]	jeor_mormont
+390	197	[39, 42]	jeor_mormont
+391	198	[3, 6]	maester_aemon
+392	198	[12, 14]	jon_snow
+393	199	[0, 2]	multiple_persons
+394	199	[8, 11]	jon_snow
+395	200	[4, 5]	jon_snow
+396	201	[3, 6]	jon_snow
+397	202	[0, 3]	jon_snow
+398	202	[20, 23]	jon_snow
+399	203	[0, 1]	jon_snow
+400	203	[10, 17]	alliser_thorne
+401	203	[6, 9]	alliser_thorne
+402	204	[7, 8]	pypar
+403	204	[56, 58]	UNKNOWN
+404	204	[63, 66]	UNKNOWN
+405	204	[75, 77]	pypar
+406	204	[86, 88]	UNKNOWN
+407	204	[103, 105]	pypar
+408	205	[0, 1]	samwell_tarly
+409	205	[10, 13]	pypar
+410	205	[57, 61]	pypar
+411	206	[0, 3]	samwell_tarly
+412	206	[10, 11]	pypar
+413	206	[80, 82]	pypar
+414	207	[15, 17]	samwell_tarly
+415	207	[33, 34]	samwell_tarly
+416	207	[6, 9]	pypar
+417	207	[27, 30]	pypar
+418	208	[14, 16]	samwell_tarly
+419	208	[38, 42]	jeor_mormont
+420	208	[43, 52]	jeor_mormont
+421	209	[0, 1]	jon_snow
+422	209	[9, 10]	jon_snow
+423	210	[0, 1]	samwell_tarly
+424	211	[0, 4]	eddard_stark
+425	211	[5, 10]	eddard_stark
+426	212	[0, 2]	robert_baratheon
+427	212	[9, 12]	eddard_stark
+428	213	[0, 3]	cersei_lannister
+429	214	[16, 17]	eddard_stark
+430	215		
+431	216	[11, 18]	stannis_baratheon
+432	217	[31, 37]	cersei_lannister
+433	217	[61, 68]	stannis_baratheon
+434	218	[11, 15]	renly_baratheon
+435	218	[0, 7]	stannis_baratheon
+436	219		
+437	220	[0, 7]	stannis_baratheon
+438	220	[25, 27]	stannis_baratheon
+439	221	[58, 64]	robert_baratheon
+440	221	[72, 74]	renly_baratheon
+441	221	[88, 91]	eddard_stark
+442	221	[6, 8]	stannis_baratheon
+443	222	[0, 1]	eddard_stark
+444	222	[20, 26]	robert_baratheon
+445	222	[62, 65]	robert_baratheon
+446	223	[0, 3]	tomard
+447	224	[6, 8]	tomard
+448	224	[9, 13]	eddard_stark
+449	225	[10, 12]	multiple_persons
+450	226	[0, 2]	petyr_baelish
+451	226	[3, 7]	eddard_stark
+452	227		
+453	228		
+454	229	[21, 24]	robert_baratheon
+455	229	[33, 37]	stannis_baratheon
+456	229	[38, 45]	stannis_baratheon
+457	230		
+458	231		
+459	232	[39, 43]	eddard_stark
+460	232	[4, 6]	stannis_baratheon
+461	233	[3, 6]	petyr_baelish
+462	234	[0, 3]	eddard_stark
+463	234	[12, 16]	eddard_stark
+464	234	[17, 19]	eddard_stark
+465	234	[20, 23]	eddard_stark
+466	234	[24, 28]	eddard_stark
+467	234	[33, 42]	eddard_stark
+468	234	[43, 45]	eddard_stark
+469	234	[46, 49]	eddard_stark
+470	234	[50, 55]	eddard_stark
+471	235	[0, 2]	multiple_persons
+472	236	[0, 3]	eddard_stark
+473	236	[46, 47]	petyr_baelish
+474	236	[55, 58]	eddard_stark
+475	236	[61, 63]	petyr_baelish
+476	237	[5, 8]	petyr_baelish
+477	238	[8, 10]	multiple_persons
+478	239	[33, 36]	petyr_baelish
+479	239	[79, 81]	eddard_stark
+480	239	[88, 93]	petyr_baelish
+481	239	[94, 101]	petyr_baelish
+482	239	[102, 104]	multiple_persons
+483	239	[126, 129]	multiple_persons
+484	239	[140, 142]	eddard_stark
+485	239	[143, 147]	petyr_baelish
+486	240	[5, 6]	eddard_stark
+487	241	[14, 21]	stannis_baratheon
+488	242	[27, 29]	stannis_baratheon
+489	243	[11, 14]	eddard_stark
+490	243	[20, 22]	petyr_baelish
+491	243	[38, 40]	petyr_baelish
+492	244	[0, 3]	petyr_baelish
+493	244	[13, 20]	catelyn_stark
+494	244	[21, 24]	petyr_baelish
+495	244	[36, 38]	eddard_stark
+496	245	[8, 11]	eddard_stark
+497	245	[14, 17]	eddard_stark
+498	245	[28, 31]	eddard_stark
+499	245	[37, 39]	petyr_baelish
+500	246	[5, 7]	jon_snow@samwell_tarly
+501	246	[34, 36]	jon_snow@samwell_tarly
+502	247	[0, 3]	multiple_persons
+503	248		
+504	249	[8, 10]	UNKNOWN
+505	250		
+506	251	[21, 24]	wine_merchant
+507	252	[9, 11]	wine_merchant
+508	253	[5, 11]	robert_baratheon
+509	253	[24, 26]	daenerys_targaryen
+510	254	[0, 1]	daenerys_targaryen
+511	254	[22, 24]	daenerys_targaryen
+512	254	[42, 44]	daenerys_targaryen
+513	254	[10, 12]	robert_baratheon
+514	254	[45, 52]	viserys_targaryen
+515	255	[17, 19]	daenerys_targaryen
+516	255	[0, 2]	robert_baratheon
+517	256	[8, 10]	khal_drogo
+518	256	[22, 25]	daenerys_targaryen
+519	257	[0, 5]	jorah_mormont
+520	257	[18, 19]	khal_drogo
+521	257	[6, 9]	jorah_mormont
+522	257	[10, 15]	jorah_mormont
+523	257	[31, 34]	jorah_mormont
+524	258	[5, 10]	eddard_stark
+525	258	[0, 4]	eddard_stark
+526	259		
+527	260		
+528	261	[18, 25]	joffrey_baratheon
+529	261	[55, 59]	eddard_stark
+530	261	[0, 4]	eddard_stark
+531	261	[5, 10]	eddard_stark
+532	261	[13, 17]	joffrey_baratheon
+533	261	[34, 39]	cersei_lannister
+534	261	[40, 46]	cersei_lannister
+535	262	[5, 12]	joffrey_baratheon
+536	262	[0, 4]	joffrey_baratheon
+537	263	[5, 11]	robert_baratheon
+538	263	[0, 4]	robert_baratheon
+539	264	[40, 45]	eddard_stark
+540	265	[15, 20]	renly_baratheon
+541	265	[29, 31]	multiple_persons
+542	265	[10, 14]	renly_baratheon
+543	266	[0, 1]	lord_varys
+544	266	[12, 17]	renly_baratheon
+545	266	[7, 11]	renly_baratheon
+546	267	[0, 2]	multiple_persons
+547	267	[16, 19]	eddard_stark
+548	267	[22, 26]	eddard_stark
+549	267	[27, 32]	eddard_stark
+550	268	[21, 28]	joffrey_baratheon
+551	268	[9, 12]	joffrey_baratheon
+552	268	[13, 18]	joffrey_baratheon
+553	268	[78, 81]	joffrey_baratheon
+554	268	[89, 93]	joffrey_baratheon
+555	268	[94, 96]	joffrey_baratheon
+556	268	[97, 100]	joffrey_baratheon
+557	268	[101, 107]	joffrey_baratheon
+558	268	[128, 132]	joffrey_baratheon
+559	268	[133, 135]	joffrey_baratheon
+560	268	[136, 139]	joffrey_baratheon
+561	268	[140, 145]	joffrey_baratheon
+562	268	[146, 154]	joffrey_baratheon
+563	268	[159, 168]	joffrey_baratheon
+564	268	[169, 171]	joffrey_baratheon
+565	268	[172, 175]	joffrey_baratheon
+566	268	[176, 181]	joffrey_baratheon
+567	269	[0, 1]	joffrey_baratheon
+568	269	[61, 63]	joffrey_baratheon
+569	270	[4, 13]	barristan_selmy
+570	270	[16, 17]	eddard_stark
+571	270	[0, 3]	barristan_selmy
+572	270	[58, 62]	barristan_selmy
+573	271	[5, 11]	robert_baratheon
+574	271	[0, 4]	robert_baratheon
+575	272	[4, 5]	cersei_lannister
+576	272	[28, 37]	barristan_selmy
+577	272	[24, 27]	barristan_selmy
+578	273		
+579	274	[0, 2]	multiple_persons
+580	275		
+581	276	[0, 3]	eddard_stark
+582	276	[12, 20]	eddard_stark
+583	276	[26, 30]	eddard_stark
+584	276	[43, 47]	eddard_stark
+585	276	[48, 53]	eddard_stark
+586	277	[4, 13]	barristan_selmy
+587	277	[0, 3]	barristan_selmy
+588	277	[47, 50]	barristan_selmy
+589	278	[0, 3]	eddard_stark
+590	278	[10, 12]	barristan_selmy
+591	279	[30, 31]	joffrey_baratheon
+592	279	[5, 8]	eddard_stark
+593	280	[0, 9]	jeor_mormont
+594	280	[21, 26]	cersei_lannister
+595	280	[31, 34]	cersei_lannister
+596	281		
+597	282	[0, 1]	eddard_stark
+598	283		
+599	284	[0, 1]	petyr_baelish
+600	284	[28, 30]	petyr_baelish
+601	284	[11, 14]	eddard_stark

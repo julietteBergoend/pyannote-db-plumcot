@@ -1,0 +1,798 @@
+	idSent	idChar	label
+0	1	[4, 7]	boy
+1	2		
+2	3	[3, 6]	boy
+3	4	[0, 1]	boy
+4	4	[46, 49]	darla
+5	5	[0, 1]	darla
+6	5	[4, 5]	darla
+7	5	[8, 9]	darla
+8	5	[12, 13]	darla
+9	6	[5, 8]	darla
+10	7	[0, 2]	multiple_persons
+11	8	[7, 10]	darla
+12	9		
+13	10		
+14	11	[0, 1]	darla
+15	12		
+16	13		
+17	14		
+18	15		
+19	16		
+20	17	[4, 7]	boy
+21	18	[6, 7]	boy
+22	19		
+23	20		
+24	21	[0, 5]	buffy_summers
+25	22	[0, 1]	buffy_summers
+26	22	[10, 13]	joyce_summers
+27	23	[25, 29]	buffy_summers
+28	24		
+29	25		
+30	26	[19, 20]	joyce_summers
+31	26	[26, 29]	joyce_summers
+32	27	[4, 9]	buffy_summers
+33	28		
+34	29	[0, 1]	buffy_summers
+35	30		
+36	31	[8, 10]	xander_harris
+37	31	[38, 40]	xander_harris
+38	31	[51, 53]	xander_harris
+39	31	[71, 73]	xander_harris
+40	31	[128, 130]	xander_harris
+41	32	[0, 3]	UNKNOWN
+42	33	[0, 1]	xander_harris
+43	33	[12, 13]	xander_harris
+44	34	[0, 6]	willow_rosenberg
+45	34	[9, 12]	willow_rosenberg
+46	34	[46, 47]	xander_harris
+47	35		
+48	36	[7, 10]	willow_rosenberg
+49	36	[18, 19]	xander_harris
+50	37		
+51	38	[15, 18]	willow_rosenberg
+52	38	[24, 26]	xander_harris
+53	38	[56, 58]	xander_harris
+54	38	[65, 70]	willow_rosenberg
+55	39	[25, 27]	willow_rosenberg
+56	40		
+57	41	[10, 13]	xander_harris
+58	41	[42, 45]	xander_harris
+59	42		
+60	43		
+61	44	[8, 9]	xander_harris
+62	44	[27, 28]	xander_harris
+63	45		
+64	46	[6, 11]	jesse
+65	47	[4, 8]	buffy_summers
+66	48	[16, 17]	xander_harris
+67	48	[22, 25]	buffy_summers
+68	49	[0, 1]	willow_rosenberg
+69	50		
+70	51		
+71	52	[28, 30]	jesse
+72	52	[42, 45]	buffy_summers
+73	53	[4, 8]	buffy_summers
+74	54	[7, 10]	jesse
+75	55	[0, 5]	buffy_summers
+76	55	[6, 13]	buffy_summers
+77	56	[39, 44]	buffy_summers
+78	56	[60, 63]	buffy_summers
+79	56	[98, 100]	multiple_persons
+80	57	[4, 10]	principal_bob_flutie
+81	58	[35, 37]	principal_bob_flutie
+82	58	[38, 41]	principal_bob_flutie
+83	59	[0, 3]	principal_bob_flutie
+84	60		
+85	61	[0, 1]	buffy_summers
+86	61	[7, 9]	buffy_summers
+87	62	[10, 12]	multiple_persons
+88	62	[44, 47]	buffy_summers
+89	63		
+90	64	[0, 3]	buffy_summers
+91	65	[0, 1]	buffy_summers
+92	65	[8, 9]	buffy_summers
+93	65	[31, 34]	principal_bob_flutie
+94	65	[73, 74]	buffy_summers
+95	66	[0, 5]	buffy_summers
+96	66	[63, 67]	buffy_summers
+97	66	[82, 84]	multiple_persons
+98	66	[101, 104]	buffy_summers
+99	66	[155, 157]	multiple_persons
+100	66	[174, 178]	buffy_summers
+101	66	[196, 199]	buffy_summers
+102	66	[211, 214]	multiple_persons
+103	66	[230, 234]	buffy_summers
+104	66	[245, 248]	multiple_persons
+105	67		
+106	68		
+107	69		
+108	70	[4, 5]	xander_harris
+109	70	[11, 14]	buffy_summers
+110	71	[12, 13]	xander_harris
+111	71	[19, 22]	buffy_summers
+112	72		
+113	73	[0, 1]	xander_harris
+114	73	[14, 17]	buffy_summers
+115	73	[23, 24]	xander_harris
+116	74	[0, 1]	buffy_summers
+117	74	[5, 10]	buffy_summers
+118	74	[13, 14]	buffy_summers
+119	75	[0, 6]	xander_harris
+120	75	[17, 19]	xander_harris
+121	76		
+122	77	[18, 19]	xander_harris
+123	77	[28, 31]	buffy_summers
+124	77	[69, 71]	multiple_persons
+125	78	[28, 31]	xander_harris
+126	79	[0, 2]	multiple_persons
+127	80	[17, 20]	buffy_summers
+128	80	[28, 32]	buffy_summers
+129	81		
+130	82	[38, 41]	multiple_persons
+131	82	[84, 87]	multiple_persons
+132	83		
+133	84	[53, 58]	UNKNOWN
+134	85	[5, 6]	cordelia_chase
+135	85	[10, 18]	cordelia_chase
+136	86	[0, 1]	buffy_summers
+137	86	[5, 10]	buffy_summers
+138	87	[3, 6]	buffy_summers
+139	87	[37, 41]	buffy_summers
+140	88		
+141	89	[0, 1]	cordelia_chase
+142	89	[11, 14]	buffy_summers
+143	89	[30, 33]	buffy_summers
+144	90		
+145	91	[5, 6]	cordelia_chase
+146	92	[7, 10]	buffy_summers
+147	92	[33, 36]	buffy_summers
+148	92	[47, 49]	cordelia_chase
+149	92	[54, 58]	cordelia_chase
+150	92	[61, 64]	buffy_summers
+151	92	[106, 108]	multiple_persons
+152	92	[125, 129]	buffy_summers
+153	92	[148, 151]	buffy_summers
+154	92	[171, 174]	buffy_summers
+155	93		
+156	94	[10, 15]	UNKNOWN
+157	94	[16, 22]	UNKNOWN
+158	95	[0, 2]	UNKNOWN
+159	95	[17, 19]	buffy_summers
+160	96		
+161	97		
+162	98	[0, 4]	UNKNOWN
+163	98	[5, 9]	UNKNOWN
+164	99		
+165	100	[39, 42]	buffy_summers
+166	101		
+167	102	[0, 6]	willow_rosenberg
+168	102	[35, 38]	willow_rosenberg
+169	103	[17, 19]	willow_rosenberg
+170	103	[20, 23]	willow_rosenberg's_mother
+171	104	[10, 13]	willow_rosenberg
+172	104	[42, 45]	willow_rosenberg
+173	105		
+174	106	[0, 3]	buffy_summers
+175	106	[49, 53]	buffy_summers
+176	106	[68, 71]	buffy_summers
+177	107	[7, 10]	buffy_summers
+178	107	[48, 51]	buffy_summers
+179	108		
+180	109		
+181	110		
+182	111	[50, 52]	multiple_persons
+183	111	[103, 106]	buffy_summers
+184	112	[7, 8]	buffy_summers
+185	113	[17, 18]	cordelia_chase
+186	113	[27, 30]	buffy_summers
+187	113	[44, 47]	buffy_summers
+188	113	[57, 59]	cordelia_chase
+189	113	[105, 108]	buffy_summers
+190	114		
+191	115		
+192	116		
+193	117	[4, 5]	rupert_giles
+194	117	[11, 14]	buffy_summers
+195	118	[0, 1]	buffy_summers
+196	118	[40, 41]	buffy_summers
+197	119	[5, 12]	buffy_summers
+198	120	[18, 19]	buffy_summers
+199	121	[0, 1]	rupert_giles
+200	121	[9, 14]	rupert_giles
+201	121	[33, 34]	rupert_giles
+202	121	[44, 47]	buffy_summers
+203	122	[18, 19]	buffy_summers
+204	123	[0, 1]	rupert_giles
+205	123	[12, 15]	buffy_summers
+206	124	[17, 18]	buffy_summers
+207	125	[4, 7]	buffy_summers
+208	126	[0, 1]	buffy_summers
+209	127	[0, 2]	rupert_giles
+210	128	[16, 19]	buffy_summers
+211	129	[41, 43]	aphrodesia
+212	129	[67, 72]	buffy_summers
+213	129	[14, 17]	buffy_summers
+214	130	[6, 16]	aphrodesia
+215	131		
+216	132	[38, 41]	buffy_summers
+217	132	[75, 78]	buffy_summers
+218	132	[79, 82]	joyce_summers
+219	133		
+220	134	[6, 9]	buffy_summers
+221	135		
+222	136	[5, 6]	aura
+223	136	[18, 22]	UNKNOWN
+224	136	[29, 32]	UNKNOWN
+225	137	[10, 16]	willow_rosenberg
+226	138	[6, 7]	willow_rosenberg
+227	138	[10, 11]	willow_rosenberg
+228	138	[33, 36]	buffy_summers
+229	138	[42, 44]	willow_rosenberg
+230	139	[11, 13]	multiple_persons
+231	139	[34, 35]	buffy_summers
+232	139	[39, 44]	buffy_summers
+233	139	[92, 94]	buffy_summers
+234	139	[102, 105]	willow_rosenberg
+235	139	[186, 188]	buffy_summers
+236	140	[12, 15]	buffy_summers
+237	140	[33, 41]	cordelia_chase
+238	141	[0, 1]	buffy_summers
+239	142		
+240	143	[7, 8]	buffy_summers
+241	143	[51, 59]	cordelia_chase
+242	143	[87, 89]	buffy_summers
+243	143	[114, 115]	buffy_summers
+244	143	[164, 166]	buffy_summers
+245	143	[181, 182]	buffy_summers
+246	143	[202, 205]	willow_rosenberg
+247	143	[236, 237]	buffy_summers
+248	144	[5, 6]	willow_rosenberg
+249	144	[30, 33]	buffy_summers
+250	144	[48, 51]	buffy_summers
+251	144	[75, 77]	multiple_persons
+252	145	[12, 14]	multiple_persons
+253	145	[88, 90]	buffy_summers
+254	146	[39, 40]	willow_rosenberg
+255	147	[0, 2]	rupert_giles
+256	148	[100, 101]	willow_rosenberg
+257	148	[211, 212]	willow_rosenberg
+258	148	[7, 9]	rupert_giles
+259	148	[25, 27]	rupert_giles
+260	148	[120, 122]	rupert_giles
+261	148	[146, 148]	rupert_giles
+262	149		
+263	150		
+264	151	[20, 22]	multiple_persons
+265	151	[38, 40]	multiple_persons
+266	151	[0, 3]	multiple_persons
+267	151	[4, 8]	multiple_persons
+268	152		
+269	153		
+270	154		
+271	155	[0, 5]	buffy_summers
+272	155	[16, 21]	jesse
+273	155	[34, 40]	xander_harris
+274	156	[5, 7]	xander_harris
+275	156	[12, 17]	buffy_summers
+276	156	[109, 110]	xander_harris
+277	156	[117, 119]	multiple_persons
+278	156	[163, 165]	multiple_persons
+279	156	[189, 190]	xander_harris
+280	157	[6, 8]	jesse
+281	157	[18, 21]	xander_harris
+282	158	[28, 31]	jesse
+283	159	[37, 38]	buffy_summers
+284	159	[26, 29]	multiple_persons
+285	159	[30, 34]	multiple_persons
+286	160	[7, 10]	buffy_summers
+287	160	[18, 20]	multiple_persons
+288	160	[39, 41]	buffy_summers
+289	160	[49, 51]	buffy_summers
+290	160	[74, 77]	buffy_summers
+291	161	[36, 37]	xander_harris
+292	161	[56, 59]	multiple_persons
+293	162		
+294	163	[36, 39]	buffy_summers
+295	163	[55, 58]	buffy_summers
+296	163	[11, 14]	buffy_summers
+297	164	[51, 53]	multiple_persons
+298	164	[3, 6]	buffy_summers
+299	164	[39, 42]	buffy_summers
+300	165	[35, 37]	buffy_summers
+301	166	[65, 68]	buffy_summers
+302	167	[0, 1]	buffy_summers
+303	168	[25, 28]	buffy_summers
+304	169		
+305	170	[28, 30]	multiple_persons
+306	170	[0, 3]	buffy_summers
+307	171	[6, 14]	cordelia_chase
+308	172	[14, 15]	cordelia_chase
+309	172	[70, 71]	cordelia_chase
+310	172	[41, 45]	buffy_summers
+311	172	[92, 95]	buffy_summers
+312	172	[101, 104]	buffy_summers
+313	172	[123, 128]	UNKNOWN
+314	172	[129, 135]	UNKNOWN
+315	173		
+316	174	[9, 12]	cordelia_chase
+317	175	[24, 28]	aura
+318	176		
+319	177		
+320	178		
+321	179	[7, 10]	xander_harris
+322	180	[12, 15]	cordelia_chase
+323	181	[8, 10]	UNKNOWN
+324	182	[0, 1]	cordelia_chase
+325	183		
+326	184	[14, 15]	cordelia_chase
+327	185	[5, 6]	buffy_summers
+328	185	[21, 22]	buffy_summers
+329	185	[29, 30]	buffy_summers
+330	185	[39, 42]	multiple_persons
+331	185	[43, 47]	multiple_persons
+332	186	[8, 11]	buffy_summers
+333	187		
+334	188		
+335	189		
+336	190	[0, 3]	rupert_giles
+337	191		
+338	192	[36, 38]	UNKNOWN
+339	192	[75, 78]	UNKNOWN
+340	192	[94, 97]	UNKNOWN
+341	192	[152, 155]	rupert_giles
+342	193	[0, 1]	rupert_giles
+343	194	[9, 10]	buffy_summers
+344	194	[29, 31]	buffy_summers
+345	194	[44, 45]	buffy_summers
+346	194	[62, 63]	buffy_summers
+347	194	[92, 94]	buffy_summers
+348	194	[110, 111]	buffy_summers
+349	194	[146, 147]	buffy_summers
+350	194	[180, 181]	buffy_summers
+351	194	[233, 234]	buffy_summers
+352	195	[13, 16]	buffy_summers
+353	196	[8, 11]	rupert_giles
+354	196	[21, 22]	buffy_summers
+355	196	[47, 48]	buffy_summers
+356	196	[80, 83]	rupert_giles
+357	197	[3, 5]	UNKNOWN
+358	197	[17, 19]	UNKNOWN
+359	198		
+360	199		
+361	200	[5, 7]	UNKNOWN
+362	201	[4, 7]	buffy_summers
+363	202	[8, 11]	rupert_giles
+364	202	[40, 44]	rupert_giles
+365	202	[62, 65]	rupert_giles
+366	202	[165, 168]	rupert_giles
+367	202	[178, 179]	buffy_summers
+368	202	[197, 200]	rupert_giles
+369	203	[0, 3]	buffy_summers
+370	203	[46, 49]	buffy_summers
+371	203	[52, 55]	buffy_summers
+372	203	[82, 86]	buffy_summers
+373	204	[16, 19]	rupert_giles
+374	204	[38, 40]	buffy_summers
+375	205	[8, 11]	buffy_summers
+376	206	[107, 108]	buffy_summers
+377	207	[0, 1]	rupert_giles
+378	207	[43, 46]	buffy_summers
+379	207	[49, 52]	buffy_summers
+380	207	[66, 70]	buffy_summers
+381	207	[78, 81]	buffy_summers
+382	207	[84, 87]	buffy_summers
+383	208	[11, 12]	buffy_summers
+384	208	[53, 54]	buffy_summers
+385	209	[8, 11]	buffy_summers
+386	210	[36, 42]	UNKNOWN
+387	210	[43, 49]	UNKNOWN
+388	211	[41, 44]	buffy_summers
+389	211	[108, 109]	rupert_giles
+390	211	[219, 222]	buffy_summers
+391	212		
+392	213	[58, 61]	buffy_summers
+393	213	[89, 93]	buffy_summers
+394	213	[109, 117]	buffy_summers
+395	214	[7, 10]	rupert_giles
+396	215		
+397	216	[4, 7]	rupert_giles
+398	217		
+399	218	[35, 36]	buffy_summers
+400	218	[74, 75]	buffy_summers
+401	218	[95, 96]	buffy_summers
+402	218	[115, 118]	rupert_giles
+403	219	[0, 1]	rupert_giles
+404	219	[20, 21]	rupert_giles
+405	219	[24, 25]	rupert_giles
+406	220		
+407	221		
+408	222		
+409	223	[54, 57]	buffy_summers
+410	223	[11, 13]	rupert_giles
+411	223	[16, 18]	rupert_giles
+412	223	[26, 29]	rupert_giles
+413	223	[32, 34]	rupert_giles
+414	223	[37, 39]	rupert_giles
+415	223	[42, 44]	rupert_giles
+416	224	[9, 11]	buffy_summers
+417	224	[76, 78]	buffy_summers
+418	224	[116, 118]	buffy_summers
+419	224	[137, 139]	buffy_summers
+420	224	[186, 187]	buffy_summers
+421	224	[229, 231]	buffy_summers
+422	225		
+423	226		
+424	227		
+425	228		
+426	229	[116, 119]	buffy_summers
+427	230	[24, 26]	buffy_summers
+428	230	[27, 30]	joyce_summers
+429	231		
+430	232	[10, 13]	rupert_giles
+431	232	[32, 34]	buffy_summers
+432	233	[22, 23]	rupert_giles
+433	234		
+434	235		
+435	236	[5, 6]	buffy_summers
+436	236	[83, 84]	buffy_summers
+437	236	[43, 46]	UNKNOWN
+438	237	[5, 8]	buffy_summers
+439	238		
+440	239	[4, 7]	buffy_summers
+441	240	[7, 8]	buffy_summers
+442	241		
+443	242	[5, 8]	joyce_summers
+444	243		
+445	244	[0, 1]	buffy_summers
+446	245	[0, 3]	buffy_summers
+447	245	[11, 12]	joyce_summers
+448	245	[19, 21]	multiple_persons
+449	245	[46, 47]	joyce_summers
+450	245	[56, 58]	joyce_summers
+451	245	[87, 88]	joyce_summers
+452	245	[141, 143]	multiple_persons
+453	246		
+454	247	[78, 81]	buffy_summers
+455	248		
+456	249	[25, 26]	joyce_summers
+457	249	[34, 37]	buffy_summers
+458	249	[52, 53]	joyce_summers
+459	250	[51, 53]	joyce_summers
+460	250	[62, 63]	joyce_summers
+461	250	[92, 93]	joyce_summers
+462	251	[0, 1]	buffy_summers
+463	252	[5, 8]	buffy_summers
+464	252	[27, 32]	buffy_summers
+465	252	[35, 38]	buffy_summers
+466	252	[98, 100]	multiple_persons
+467	253	[20, 21]	buffy_summers
+468	253	[66, 67]	buffy_summers
+469	254	[13, 16]	buffy_summers
+470	255	[32, 37]	buffy_summers
+471	256	[36, 39]	angel
+472	256	[50, 52]	buffy_summers
+473	257	[0, 1]	angel
+474	257	[12, 15]	buffy_summers
+475	257	[46, 47]	angel
+476	258	[11, 12]	angel
+477	258	[21, 24]	buffy_summers
+478	258	[73, 76]	buffy_summers
+479	259	[8, 11]	angel
+480	260	[15, 18]	buffy_summers
+481	261	[15, 16]	buffy_summers
+482	262		
+483	263	[32, 35]	angel
+484	263	[103, 104]	buffy_summers
+485	264	[3, 6]	buffy_summers
+486	264	[48, 51]	buffy_summers
+487	265	[12, 16]	buffy_summers
+488	265	[32, 35]	buffy_summers
+489	266		
+490	267		
+491	268	[8, 11]	angel
+492	269	[20, 21]	angel
+493	270	[20, 21]	buffy_summers
+494	271	[0, 1]	angel
+495	271	[14, 15]	angel
+496	271	[20, 25]	buffy_summers
+497	272		
+498	273		
+499	274		
+500	275	[5, 8]	willow_rosenberg
+501	276	[5, 6]	willow_rosenberg
+502	276	[22, 23]	willow_rosenberg
+503	276	[32, 38]	xander_harris
+504	277	[9, 12]	multiple_persons
+505	277	[13, 17]	multiple_persons
+506	278	[5, 7]	multiple_persons
+507	278	[27, 29]	multiple_persons
+508	278	[51, 53]	multiple_persons
+509	279		
+510	280	[9, 11]	willow_rosenberg
+511	280	[26, 28]	multiple_persons
+512	280	[0, 2]	xander_harris
+513	281		
+514	282	[0, 1]	willow_rosenberg
+515	282	[4, 5]	willow_rosenberg
+516	282	[8, 9]	willow_rosenberg
+517	283		
+518	284	[12, 13]	willow_rosenberg
+519	284	[28, 29]	willow_rosenberg
+520	284	[52, 54]	willow_rosenberg
+521	284	[106, 107]	willow_rosenberg
+522	284	[110, 111]	willow_rosenberg
+523	284	[159, 160]	willow_rosenberg
+524	285		
+525	286	[17, 18]	willow_rosenberg
+526	287	[0, 3]	willow_rosenberg
+527	288	[24, 27]	buffy_summers
+528	289		
+529	290	[0, 1]	willow_rosenberg
+530	290	[4, 5]	willow_rosenberg
+531	290	[11, 14]	buffy_summers
+532	291	[7, 9]	buffy_summers
+533	291	[26, 29]	willow_rosenberg
+534	291	[41, 43]	buffy_summers
+535	292	[7, 8]	willow_rosenberg
+536	293		
+537	294		
+538	295	[15, 16]	buffy_summers
+539	295	[27, 30]	willow_rosenberg
+540	295	[50, 53]	willow_rosenberg
+541	295	[149, 152]	willow_rosenberg
+542	295	[190, 193]	willow_rosenberg
+543	295	[127, 129]	UNKNOWN
+544	296		
+545	297	[5, 6]	buffy_summers
+546	298	[26, 29]	buffy_summers
+547	299	[0, 1]	buffy_summers
+548	300		
+549	301	[5, 8]	rupert_giles
+550	302	[21, 23]	rupert_giles
+551	302	[84, 86]	rupert_giles
+552	302	[105, 106]	rupert_giles
+553	303	[0, 3]	rupert_giles
+554	304	[98, 99]	rupert_giles
+555	304	[105, 108]	buffy_summers
+556	304	[138, 139]	rupert_giles
+557	304	[153, 156]	buffy_summers
+558	305	[29, 30]	buffy_summers
+559	305	[38, 42]	rupert_giles
+560	305	[55, 57]	buffy_summers
+561	306	[9, 12]	buffy_summers
+562	307	[37, 40]	rupert_giles
+563	307	[50, 51]	buffy_summers
+564	308	[0, 1]	rupert_giles
+565	308	[36, 39]	buffy_summers
+566	309	[60, 61]	buffy_summers
+567	309	[70, 73]	rupert_giles
+568	310	[23, 25]	angel
+569	311	[36, 37]	buffy_summers
+570	311	[62, 65]	angel
+571	312		
+572	313		
+573	314	[11, 14]	buffy_summers
+574	314	[111, 114]	buffy_summers
+575	315	[0, 2]	cordelia_chase
+576	315	[3, 6]	cordelia_chase's_mother
+577	315	[93, 94]	cordelia_chase
+578	315	[181, 182]	cordelia_chase
+579	316	[6, 14]	cordelia_chase
+580	317	[17, 19]	cordelia_chase
+581	318	[6, 9]	cordelia_chase
+582	318	[17, 20]	cordelia_chase
+583	319	[7, 8]	cordelia_chase
+584	319	[17, 19]	multiple_persons
+585	320	[14, 17]	cordelia_chase
+586	320	[25, 28]	cordelia_chase
+587	320	[43, 46]	cordelia_chase
+588	321	[5, 8]	jesse
+589	322		
+590	323		
+591	324	[53, 54]	jesse
+592	324	[85, 87]	jesse
+593	325	[0, 1]	buffy_summers
+594	325	[14, 15]	buffy_summers
+595	325	[63, 64]	buffy_summers
+596	325	[115, 116]	buffy_summers
+597	325	[184, 185]	buffy_summers
+598	325	[201, 202]	buffy_summers
+599	325	[170, 173]	rupert_giles
+600	326	[5, 8]	buffy_summers
+601	326	[37, 40]	buffy_summers
+602	326	[72, 76]	buffy_summers
+603	327	[0, 3]	rupert_giles
+604	327	[36, 37]	buffy_summers
+605	328	[101, 104]	buffy_summers
+606	328	[110, 112]	rupert_giles
+607	329		
+608	330	[0, 3]	buffy_summers
+609	330	[60, 63]	buffy_summers
+610	330	[123, 127]	buffy_summers
+611	330	[135, 138]	buffy_summers
+612	330	[152, 156]	buffy_summers
+613	330	[201, 204]	buffy_summers
+614	330	[213, 216]	buffy_summers
+615	330	[219, 222]	buffy_summers
+616	331		
+617	332		
+618	333		
+619	334	[0, 3]	buffy_summers
+620	335	[22, 25]	UNKNOWN
+621	335	[35, 37]	UNKNOWN
+622	336		
+623	337	[27, 29]	buffy_summers
+624	338	[4, 7]	buffy_summers
+625	339		
+626	340		
+627	341	[0, 6]	willow_rosenberg
+628	342	[8, 11]	willow_rosenberg
+629	343		
+630	344	[0, 8]	cordelia_chase
+631	345	[14, 18]	buffy_summers
+632	345	[0, 3]	UNKNOWN
+633	346	[19, 25]	willow_rosenberg
+634	346	[5, 8]	multiple_persons
+635	346	[9, 13]	multiple_persons
+636	346	[32, 35]	willow_rosenberg
+637	347	[28, 31]	willow_rosenberg
+638	347	[9, 12]	buffy_summers
+639	348	[7, 9]	cordelia_chase
+640	348	[12, 13]	cordelia_chase
+641	348	[40, 41]	cordelia_chase
+642	349	[33, 34]	rupert_giles
+643	349	[37, 38]	rupert_giles
+644	350	[0, 1]	buffy_summers
+645	351		
+646	352	[9, 11]	buffy_summers
+647	353	[13, 15]	multiple_persons
+648	354	[0, 1]	buffy_summers
+649	355	[0, 1]	rupert_giles
+650	355	[4, 5]	rupert_giles
+651	355	[8, 9]	rupert_giles
+652	355	[28, 31]	buffy_summers
+653	356	[27, 28]	buffy_summers
+654	357	[19, 22]	darla
+655	357	[27, 31]	darla
+656	358	[0, 5]	darla
+657	359	[0, 5]	darla
+658	359	[8, 11]	darla
+659	359	[19, 20]	jesse
+660	359	[35, 38]	darla
+661	359	[59, 62]	darla
+662	360	[9, 10]	darla
+663	361	[5, 6]	jesse
+664	362	[0, 3]	jesse
+665	363	[0, 6]	the_master
+666	364	[0, 1]	the_master
+667	365	[19, 21]	the_master
+668	366		
+669	367	[0, 2]	multiple_persons
+670	367	[27, 30]	the_master
+671	368	[0, 1]	the_master
+672	368	[18, 19]	the_master
+673	368	[25, 27]	the_master
+674	369	[0, 1]	luke
+675	369	[11, 15]	the_master
+676	369	[34, 37]	the_master
+677	370	[7, 11]	luke
+678	371		
+679	372	[6, 8]	the_master
+680	373		
+681	374		
+682	375	[53, 54]	willow_rosenberg
+683	375	[76, 77]	willow_rosenberg
+684	375	[112, 115]	thomas
+685	375	[125, 132]	UNKNOWN
+686	375	[93, 96]	thomas
+687	376		
+688	377	[0, 1]	thomas
+689	378	[6, 9]	buffy_summers
+690	379	[5, 11]	xander_harris
+691	379	[19, 22]	xander_harris
+692	379	[28, 34]	willow_rosenberg
+693	380		
+694	381	[0, 3]	willow_rosenberg
+695	382	[0, 2]	multiple_persons
+696	382	[21, 27]	willow_rosenberg
+697	383	[5, 6]	buffy_summers
+698	383	[20, 23]	willow_rosenberg
+699	383	[46, 49]	willow_rosenberg
+700	383	[38, 40]	thomas
+701	384	[17, 18]	xander_harris
+702	384	[59, 62]	buffy_summers
+703	384	[24, 26]	thomas
+704	384	[82, 85]	thomas
+705	385	[111, 112]	buffy_summers
+706	386	[5, 6]	xander_harris
+707	386	[22, 25]	buffy_summers
+708	386	[41, 44]	buffy_summers
+709	386	[81, 82]	xander_harris
+710	387	[49, 51]	buffy_summers
+711	387	[66, 72]	willow_rosenberg
+712	388	[0, 3]	buffy_summers
+713	389	[0, 2]	multiple_persons
+714	389	[15, 18]	willow_rosenberg
+715	390	[50, 53]	buffy_summers
+716	391		
+717	392		
+718	393	[19, 22]	willow_rosenberg
+719	394		
+720	395	[0, 1]	willow_rosenberg
+721	395	[8, 9]	willow_rosenberg
+722	396	[13, 16]	willow_rosenberg
+723	397	[17, 20]	thomas
+724	398	[0, 3]	willow_rosenberg
+725	399		
+726	400	[12, 15]	darla
+727	400	[22, 26]	darla
+728	401	[0, 1]	darla
+729	402		
+730	403	[5, 7]	willow_rosenberg
+731	403	[14, 19]	jesse
+732	403	[8, 11]	UNKNOWN
+733	404	[18, 20]	jesse
+734	404	[9, 12]	darla
+735	405	[0, 1]	darla
+736	406	[0, 5]	jesse
+737	407	[5, 8]	multiple_persons
+738	408	[6, 8]	multiple_persons
+739	409	[33, 35]	multiple_persons
+740	409	[0, 3]	multiple_persons
+741	410	[22, 23]	buffy_summers
+742	411	[17, 20]	buffy_summers
+743	412	[0, 3]	darla
+744	412	[102, 103]	buffy_summers
+745	412	[115, 118]	darla
+746	413	[0, 5]	buffy_summers
+747	413	[8, 10]	multiple_persons
+748	414		
+749	415	[73, 76]	multiple_persons
+750	415	[87, 94]	UNKNOWN
+751	416	[6, 8]	multiple_persons
+752	417	[18, 20]	darla
+753	418	[4, 7]	darla
+754	418	[52, 54]	multiple_persons
+755	419	[22, 25]	darla
+756	420	[0, 2]	thomas
+757	421	[0, 6]	xander_harris
+758	422		
+759	423	[0, 3]	darla
+760	423	[11, 12]	buffy_summers
+761	423	[122, 125]	darla
+762	423	[145, 148]	darla
+763	424	[8, 11]	buffy_summers
+764	425	[7, 10]	darla
+765	426	[0, 1]	luke
+766	427	[0, 3]	darla
+767	427	[53, 59]	the_master
+768	427	[62, 64]	multiple_persons
+769	427	[93, 96]	darla
+770	428	[0, 2]	multiple_persons
+771	428	[48, 54]	thomas
+772	428	[57, 61]	luke
+773	428	[26, 29]	buffy_summers
+774	428	[37, 40]	boy
+775	428	[64, 67]	buffy_summers
+776	429	[9, 10]	luke
+777	429	[22, 23]	luke
+778	429	[0, 3]	darla
+779	430	[0, 3]	buffy_summers
+780	431	[0, 1]	luke
+781	432	[0, 2]	multiple_persons
+782	433	[16, 18]	luke
+783	433	[0, 3]	buffy_summers
+784	434	[6, 7]	buffy_summers
+785	435	[23, 25]	luke
+786	435	[33, 35]	multiple_persons
+787	435	[0, 3]	buffy_summers
+788	435	[10, 13]	buffy_summers
+789	436	[0, 3]	buffy_summers
+790	436	[22, 25]	buffy_summers
+791	437		
+792	438		
+793	439	[11, 17]	the_master
+794	440		
+795	441		
+796	442		
