@@ -110,8 +110,8 @@ class Plumcot(Database):
         ep_name = id_series
         if season_number:
             ep_name += f".Season{season_number}"
-            if episode_number:
-                ep_name += f".Episode{episode_number}"
+        if episode_number:
+            ep_name += f".Episode{episode_number}"
 
         parent = Path(__file__).parent
         credits_file = parent / f'data/{id_series}/credits.txt'
