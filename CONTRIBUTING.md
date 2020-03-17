@@ -76,15 +76,14 @@ TheBigBangTheory/
 
 This file provides the list of characters (gathered from TV.com or IMDB.com). It contains one line per character with the following information: underscore-separated identifier, actor's normalized name, character's full name, actor's full name, IMDB.com character page.
 
+Note that this script is done so that there's a 1-1 mapping between actor and character, i.e. an actor can only play one character and a character can only be played by one actor.
+
 ```
 leonard_hofstadter,johnny_galecki,Leonard Hofstadter,Johnny Galecki,https://www.imdb.com/title/tt0898266/characters/nm0301959
 ```
 
-The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `characters.txt` file at once (or just one if an optional series identifier is provided)
-`-v fileName` creates a file with `characters.txt` to easily verify the characters normalization.
-
 ```bash
-characters.py series.txt TheBigBangTheory -v normVerif.txt
+characters.py series.txt TheBigBangTheory
 ```
 
 ### `episodes.txt`
@@ -237,7 +236,7 @@ Note: Leo has a script to do that, though the (automatic) output will need a man
 
 ## images
 
-The script is `images.py`. It scraps all images of a given serie and infers the label from the IMDB caption. Note that, since the IMDB caption only contains info about the characters, it does a 1-1 mapping between actor and character. Thus it's not functional if one actor plays several character, as the `characters.py` script which only extracts the main character that an actor plays.
+The script is `images.py`. It scraps all images of a given serie and infers the label from the IMDB caption. Note that, since the IMDB caption only contains info about the actors, it does a 1-1 mapping between actor and character. Thus it's not functional if one actor plays several character, as the `characters.py` script only extracts the main character that an actor plays.
 
 Images are stored in the `images/` folder, each character gets its own directory, e.g. `images/leonard_hofstadter`.
 Thus images are duplicated if there are several characters on the same picture.
