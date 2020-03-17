@@ -1,13 +1,13 @@
 walter_white,bryan_cranston,Walter White,Bryan Cranston,https://www.imdb.com/title/tt0903747/characters/nm0186505
 skyler_white,anna_gunn,Skyler White,Anna Gunn,https://www.imdb.com/title/tt0903747/characters/nm0348152
 jesse_pinkman,aaron_paul,Jesse Pinkman,Aaron Paul,https://www.imdb.com/title/tt0903747/characters/nm0666739
-hank_schrader,dean_norris,Hank Schrader,Dean Norris,https://www.imdb.com/title/tt0903747/characters/nm0606487
 marie_schrader,betsy_brandt,Marie Schrader,Betsy Brandt,https://www.imdb.com/title/tt0903747/characters/nm1336827
 walter_white_jr,rj_mitte,Walter White Jr.,RJ Mitte,https://www.imdb.com/title/tt0903747/characters/nm2666409
+hank_schrader,dean_norris,Hank Schrader,Dean Norris,https://www.imdb.com/title/tt0903747/characters/nm0606487
 saul_goodman,bob_odenkirk,Saul Goodman,Bob Odenkirk,https://www.imdb.com/title/tt0903747/characters/nm0644022
 steven_gomez,steven_michael_quezada,Steven Gomez,Steven Michael Quezada,https://www.imdb.com/title/tt0903747/characters/nm2366374
 mike_ehrmantraut,jonathan_banks,Mike Ehrmantraut,Jonathan Banks,https://www.imdb.com/title/tt0903747/characters/nm0052186
-gustavo_fring,giancarlo_esposito,Gustavo 'Gus' Fring,Giancarlo Esposito,https://www.imdb.com/title/tt0903747/characters/nm0002064
+gus_fring,giancarlo_esposito,Gus Fring,Giancarlo Esposito,https://www.imdb.com/title/tt0903747/characters/nm0002064
 skinny_pete,charles_baker,Skinny Pete,Charles Baker,https://www.imdb.com/title/tt0903747/characters/nm1889973
 todd,jesse_plemons,Todd,Jesse Plemons,https://www.imdb.com/title/tt0903747/characters/nm0687146
 ted_beneke,christopher_cousins,Ted Beneke,Christopher Cousins,https://www.imdb.com/title/tt0903747/characters/nm0184086
@@ -18,17 +18,18 @@ huell,lavell_crawford,Huell,Lavell Crawford,https://www.imdb.com/title/tt0903747
 tyrus_kitt,ray_campbell,Tyrus Kitt,Ray Campbell,https://www.imdb.com/title/tt0903747/characters/nm1530474
 jane_margolis,krysten_ritter,Jane Margolis,Krysten Ritter,https://www.imdb.com/title/tt0903747/characters/nm1269983
 carmen_molina,carmen_serano,Carmen Molina,Carmen Serano,
-andrea_cantillo,emily_rios,Andrea Cantillo,Emily Rios,
+andrea_cantillo,emily_rios,Andrea Cantillo,Emily Rios,https://www.imdb.com/title/tt0903747/characters/nm1986960
 francesca,tina_parker,Francesca,Tina Parker,
 tio_salamanca,mark_margolis,Tio Salamanca,Mark Margolis,https://www.imdb.com/title/tt0903747/characters/nm0546797
 victor,jeremiah_bitsui,Victor,Jeremiah Bitsui,https://www.imdb.com/title/tt0903747/characters/nm0084497
-brock_cantillo,ian_posada,Brock Cantillo,Ian Posada,
+brock_cantillo,ian_posada,Brock Cantillo,Ian Posada,https://www.imdb.com/title/tt0903747/characters/nm3970678
 gale_boetticher,david_costabile,Gale Boetticher,David Costabile,https://www.imdb.com/title/tt0903747/characters/nm0182345
 uncle_jack,michael_bowen,Uncle Jack,Michael Bowen,https://www.imdb.com/title/tt0903747/characters/nm0100889
 dr_delcavoli,david_house,Dr. Delcavoli,David House,
 kenny,kevin_rankin,Kenny,Kevin Rankin,https://www.imdb.com/title/tt0903747/characters/nm0710271
 leonel_salamanca,daniel_moncada,Leonel Salamanca,Daniel Moncada,https://www.imdb.com/title/tt0903747/characters/nm3718379
 frankie,patrick_sane,Frankie,Patrick Sane,
+holly_white,moira_bryg_macdonald,Holly White,Moira Bryg MacDonald,
 gretchen_schwartz,jessica_hecht,Gretchen Schwartz,Jessica Hecht,https://www.imdb.com/title/tt0903747/characters/nm0372961
 kuby,bill_burr,Kuby,Bill Burr,https://www.imdb.com/title/tt0903747/characters/nm0122987
 bogdan_wolynetz,marius_stan,Bogdan Wolynetz,Marius Stan,https://www.imdb.com/title/tt0903747/characters/nm2256387
@@ -54,7 +55,7 @@ pamela,julie_dretzin,Pamela,Julie Dretzin,
 nodoze,jesus_jr,No-Doze,Jesus Jr.,
 declan,louis_ferreira,Declan,Louis Ferreira,https://www.imdb.com/title/tt0903747/characters/nm0274371
 gonzo,cesar_garcia,Gonzo,Cesar Garcia,
-wendy,julia_minesci,Wendy,Julia Minesci,
+wendy,julia_minesci,Wendy,Julia Minesci,https://www.imdb.com/title/tt0903747/characters/nm2928008
 dennis_markowski,mike_batayeh,Dennis Markowski,Mike Batayeh,
 juan_bolsa,javier_grajeda,Juan Bolsa,Javier Grajeda,https://www.imdb.com/title/tt0903747/characters/nm0334462
 tomas,angelo_martinez,Tomas,Angelo Martinez,
@@ -66,7 +67,7 @@ janice,mary_sue_evans,Janice,Mary Sue Evans,
 detective_munn,jason_douglas,Detective Munn,Jason Douglas,https://www.imdb.com/title/tt0903747/characters/nm0235103
 rival_dealer_2,antonio_leyba,Rival Dealer #2,Antonio Leyba,
 er_doctor_1,christopher_dempsey,ER Doctor #1,Christopher Dempsey,
-emilio_koyama,john_koyama,Emilio Koyama,John Koyama,
+emilio_koyama,john_koyama,Emilio Koyama,John Koyama,https://www.imdb.com/title/tt0903747/characters/nm0468697
 tortuga,danny_trejo,Tortuga,Danny Trejo,https://www.imdb.com/title/tt0903747/characters/nm0001803
 spooges_woman,dale_dickey,Spooge's Woman,Dale Dickey,https://www.imdb.com/title/tt0903747/characters/nm0225460
 spooge,david_ury,Spooge,David Ury,https://www.imdb.com/title/tt0903747/characters/nm1352845
@@ -97,7 +98,6 @@ dea_agent,matt_berlin,DEA Agent,Matt Berlin,
 anchor_4,dana_cortez,Anchor #4,Dana Cortez,
 dea_agent_scott,joe_nemmers,DEA Agent Scott,Joe Nemmers,
 dea_point_man,david_priemazon,DEA Point Man,David Priemazon,
-lucy,monique_candelaria,Lucy,Monique Candelaria,https://www.imdb.com/title/tt0903747/characters/nm3156214
 jacks_henchman,mark_vasconcellos,Jack's Henchman,Mark Vasconcellos,
 dr_chavez,harry_groener,Dr. Chavez,Harry Groener,
 getz,dj_qualls,Getz,DJ Qualls,https://www.imdb.com/title/tt0903747/characters/nm0702809
@@ -189,6 +189,7 @@ morning_after_girl,brittany_gustin,Morning After Girl,Brittany Gustin,
 truck_guard_1,jason_e_hill,Truck Guard 1,Jason E. Hill,
 colleen,fran_martone,Colleen,Fran Martone,
 dorothy_yobs,kathleen_brady,Dorothy Yobs,Kathleen Brady,
+lucy,monique_candelaria,Lucy,Monique Candelaria,https://www.imdb.com/title/tt0903747/characters/nm3156214
 carol,cheryl_fordmente,Carol,Cheryl Ford-Mente,
 native_american_man,saginaw_grant,Native American Man,Saginaw Grant,
 carpet_cleaner,manny_rey,Carpet Cleaner,Manny Rey,
@@ -221,12 +222,12 @@ lookout,dennis_keiffer,Lookout,Dennis Keiffer,
 irving,allan_pacheco,Irving,Allan Pacheco,
 dr_soper,kat_sawyer,Dr. Soper,Kat Sawyer,
 local_correspondant,kieran_sequoia,Local Correspondant,Kieran Sequoia,
-cartel_gunman_2,ben_hernandez_bray,Cartel Gunman #2,Ben Hernandez Bray,
 orderly,steve_corona,Orderly,Steve Corona,
 stripper_1,erin_elliott,Stripper #1,Erin Elliott,
 commercial_narrator,fernando_escandon,Commercial Narrator,Fernando Escandon,
 preppy_shopper,matthew_feight,Preppy Shopper,Matthew Feight,
 burnout,mark_hanson,Burnout,Mark Hanson,
+cartel_gunman_2,ben_hernandez_bray,Cartel Gunman #2,Ben Hernandez Bray,
 wide_eyed_boy,galen_hutchison,Wide Eyed Boy,Galen Hutchison,
 first_realtor,ralph_alderman,First Realtor,Ralph Alderman,https://www.imdb.com/title/tt0903747/characters/nm0017556
 miguel,stephen_eiland,Miguel,Stephen Eiland,
@@ -345,8 +346,6 @@ barfly,leslie_ocarroll,Barfly,Leslie O'Carroll,
 charlie_rose,charlie_rose,Charlie Rose,Charlie Rose,
 look_out,jon_reigle,Look out,Jon Reigle,
 carwash_patron,martin_palmer,CarWash Patron,Martin Palmer,
-senior_dea_agent,bill_peterson,Senior DEA Agent,Bill Peterson,
-holly_white,moira_bryg_macdonald,Holly White,Moira Bryg MacDonald,
 laundry_worker,andrea_good,Laundry Worker,Andrea Good,
 office_worker,karen_m_hudson,Office Worker,Karen M. Hudson,
 dea_agent,jamie_haqqani,DEA Agent,Jamie Haqqani,
@@ -377,6 +376,7 @@ restaurant_patron,phil_arnold,Restaurant Patron,Phil Arnold,
 rehab_patient,erik_beacham,Rehab Patient,Erik Beacham,
 nurse,angela_blake,Nurse,Angela Blake,
 teacher,kathryn_dove,Teacher,Kathryn Dove,
+high_school_student,lorena_fernandez,High School Student,Lorena Fernández,
 the_assassin,joe_freeman,The Assassin,Joe Freeman,
 bar_fighter,keith_jardine,Bar Fighter,Keith Jardine,
 rehab_group_girl,laina_loucks,Rehab Group Girl,Laina Loucks,
@@ -384,6 +384,7 @@ high_school_student,will_ontiveros,High School Student,Will Ontiveros,
 skell,gary_ray_stearns,Skell,Gary Ray Stearns,
 hospital_patient,ricardo_andres,Hospital Patient,Ricardo Andres,
 carwash_customer,richard_barela,Carwash Customer,Richard Barela,
+police_officer,ruben_barela,Police Officer,Ruben Barela,
 amber,michelle_greathouse,Amber,Michelle Greathouse,
 banger_1,anthony_martins,Banger #1,Anthony Martins,
 gunman_1,anthony_molinari,Gunman #1,Anthony Molinari,
@@ -395,6 +396,7 @@ female_employee,tenaya_torres,Female Employee,Tenaya Torres,
 carwash_customer,viola_valdez,Carwash Customer,Viola Valdez,
 gang_member,alexander_aleynikov,Gang member,Alexander Aleynikov,
 woman_in_dennys,breanna_perera,Woman in Denny's,Breanna Perera,
+senior_dea_agent,bill_peterson,Senior DEA Agent,Bill Peterson,
 dea_agent,frank_sandoval,DEA Agent,Frank Sandoval,
 madrigal_suit,ryan_schaefer,Madrigal Suit,Ryan Schaefer,
 magnet_guy_2,todd_sopher,Magnet Guy #2,Todd Sopher,

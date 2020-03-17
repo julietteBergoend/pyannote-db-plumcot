@@ -9,9 +9,9 @@ jack_geller,elliott_gould,Jack Geller,Elliott Gould,https://www.imdb.com/title/t
 judy_geller,christina_pickles,Judy Geller,Christina Pickles,https://www.imdb.com/title/tt0108778/characters/nm0681943
 janice,maggie_wheeler,Janice,Maggie Wheeler,https://www.imdb.com/title/tt0108778/characters/nm0923909
 mike_hannigan,paul_rudd,Mike Hannigan,Paul Rudd,https://www.imdb.com/title/tt0108778/characters/nm0748620
-carol_willick,jane_sibbett,Carol Willick,Jane Sibbett,https://www.imdb.com/title/tt0108778/characters/nm0796235
+carol,jane_sibbett,Carol,Jane Sibbett,https://www.imdb.com/title/tt0108778/characters/nm0796235
 emily_waltham,helen_baxendale,Emily Waltham,Helen Baxendale,https://www.imdb.com/title/tt0108778/characters/nm0062636
-susan_bunch,jessica_hecht,Susan Bunch,Jessica Hecht,https://www.imdb.com/title/tt0108778/characters/nm0372961
+susan,jessica_hecht,Susan,Jessica Hecht,https://www.imdb.com/title/tt0108778/characters/nm0372961
 estelle_leonard,june_gable,Estelle Leonard,June Gable,https://www.imdb.com/title/tt0108778/characters/nm0300096
 dr_richard_burke,tom_selleck,Dr. Richard Burke,Tom Selleck,https://www.imdb.com/title/tt0108778/characters/nm0000633
 charlie_wheeler,aisha_tyler,Charlie Wheeler,Aisha Tyler,https://www.imdb.com/title/tt0108778/characters/nm0878768
@@ -49,7 +49,7 @@ emily,heather_sims,Emily,Heather Sims,https://www.imdb.com/title/tt0108778/chara
 sandra_green,marlo_thomas,Sandra Green,Marlo Thomas,https://www.imdb.com/title/tt0108778/characters/nm0005486
 joanna,alison_la_placa,Joanna,Alison La Placa,
 paul_stevens,bruce_willis,Paul Stevens,Bruce Willis,https://www.imdb.com/title/tt0108778/characters/nm0000246
-eddie_menuek,adam_goldberg,Eddie Menuek,Adam Goldberg,https://www.imdb.com/title/tt0108778/characters/nm0004965
+eddie,adam_goldberg,Eddie,Adam Goldberg,https://www.imdb.com/title/tt0108778/characters/nm0004965
 bonnie,christine_taylor,Bonnie,Christine Taylor,https://www.imdb.com/title/tt0108778/characters/nm0852132
 charles_bing,kathleen_turner,Charles Bing,Kathleen Turner,https://www.imdb.com/title/tt0108778/characters/nm0000678
 gavin_mitchell,dermot_mulroney,Gavin Mitchell,Dermot Mulroney,https://www.imdb.com/title/tt0108778/characters/nm0000551
@@ -96,7 +96,7 @@ jake,troy_norton,Jake,Troy Norton,
 bitsy_hannigan,cristine_rose,Bitsy Hannigan,Cristine Rose,
 ken,brian_chenoweth,Ken,Brian Chenoweth,
 claudia,monique_edwards,Claudia,Monique Edwards,
-dr_mike_horton,roark_critchlow,Dr. Mike Horton,Roark Critchlow,https://www.imdb.com/title/tt0108778/characters/nm0188220
+dr_horton,roark_critchlow,Dr. Horton,Roark Critchlow,https://www.imdb.com/title/tt0108778/characters/nm0188220
 al_zebooker,ej_callahan,Al Zebooker,E.J. Callahan,
 andrea_waltham,jennifer_saunders,Andrea Waltham,Jennifer Saunders,https://www.imdb.com/title/tt0108778/characters/nm0766837
 the_nurse,evie_peck,The Nurse,Evie Peck,
@@ -123,6 +123,7 @@ ticket_agent,manao_demuth,Ticket Agent,Manao DeMuth,
 airline_representative,brian_palermo,Airline Representative,Brian Palermo,
 female_passenger,michelle_pereira,Female Passenger,Michelle Pereira,
 another_passenger,vincent_boyle,Another Passenger,Vincent Boyle,
+lurker,jeanette_miller,Lurker,Jeanette Miller,
 customer,baillie_gerstein,Customer,Baillie Gerstein,
 wayne,andrew_bilgore,Wayne,Andrew Bilgore,
 sid,maurice_godin,Sid,Maurice Godin,
@@ -140,7 +141,7 @@ joey_tribbiani_sr,robert_costanzo,Joey Tribbiani Sr.,Robert Costanzo,
 aunt_iris,beverly_garland,Aunt Iris,Beverly Garland,https://www.imdb.com/title/tt0108778/characters/nm0307500
 mindy,jennifer_grey,Mindy,Jennifer Grey,
 celia,melora_hardin,Celia,Melora Hardin,https://www.imdb.com/title/tt0108778/characters/nm0002124
-stephanie_schiffer,chrissie_hynde,Stephanie Schiffer,Chrissie Hynde,https://www.imdb.com/title/tt0108778/characters/nm0005038
+stephanie,chrissie_hynde,Stephanie,Chrissie Hynde,https://www.imdb.com/title/tt0108778/characters/nm0005038
 ethan,stan_kirsch,Ethan,Stan Kirsch,https://www.imdb.com/title/tt0108778/characters/nm0456909
 frances,audra_lindley,Frances,Audra Lindley,https://www.imdb.com/title/tt0108778/characters/nm0511964
 jade,brittney_powell,Jade,Brittney Powell,
@@ -149,9 +150,9 @@ dr_franzblau,jonathan_silverman,Dr. Franzblau,Jonathan Silverman,https://www.imd
 malcolm,david_arquette,Malcolm,David Arquette,
 carl,peter_deluise,Carl,Peter DeLuise,https://www.imdb.com/title/tt0108778/characters/nm0217938
 sherman_whitfield,peter_dennis,Sherman Whitfield,Peter Dennis,
-rob_donnen,chris_isaak,Rob Donnen,Chris Isaak,https://www.imdb.com/title/tt0108778/characters/nm0001389
+rob,chris_isaak,Rob,Chris Isaak,https://www.imdb.com/title/tt0108778/characters/nm0001389
 margha,susanna_midnight,Margha,Susanna Midnight,https://www.imdb.com/title/tt0108778/characters/nm0901810
-susie_moss,julia_roberts,Susie Moss,Julia Roberts,https://www.imdb.com/title/tt0108778/characters/nm0000210
+susie,julia_roberts,Susie,Julia Roberts,https://www.imdb.com/title/tt0108778/characters/nm0000210
 isabella_rossellini,isabella_rossellini,Isabella Rossellini,Isabella Rossellini,https://www.imdb.com/title/tt0108778/characters/nm0000618
 sarah_tuttle,mae_whitman,Sarah Tuttle,Mae Whitman,https://www.imdb.com/title/tt0108778/characters/nm0926165
 rick,jason_brooks,Rick,Jason Brooks,
@@ -212,8 +213,8 @@ arthur,nicky_katt,Arthur,Nicky Katt,https://www.imdb.com/title/tt0108778/charact
 the_restaurant_manager,patrick_kerr,The Restaurant Manager,Patrick Kerr,
 eric,john_lehr,Eric,John Lehr,
 emily,audrie_neenan,Emily,Audrie Neenan,
-record_producer,deedee_rescher,Record Producer,DeeDee Rescher,
-erika_ford,brooke_shields,Erika Ford,Brooke Shields,https://www.imdb.com/title/tt0108778/characters/nm0000222
+the_record_producer,deedee_rescher,The Record Producer,DeeDee Rescher,
+erika,brooke_shields,Erika,Brooke Shields,https://www.imdb.com/title/tt0108778/characters/nm0000222
 jeanclaude_van_damme,jeanclaude_van_damme,Jean-Claude Van Damme,Jean-Claude Van Damme,https://www.imdb.com/title/tt0108778/characters/nm0000241
 the_director,obba_babatunde,The Director,Obba Babatundé,
 hoshi,james_hong,Hoshi,James Hong,
@@ -237,7 +238,6 @@ the_casting_director,daniel_hagen,The Casting Director,Daniel Hagen,
 stephanie,alex_kapp,Stephanie,Alex Kapp,
 stanley,john_kassir,Stanley,John Kassir,
 ralph_lauren,ralph_lauren,Ralph Lauren,Ralph Lauren,https://www.imdb.com/title/tt0108778/characters/nm0491073
-the_elderly_woman,jeanette_miller,The Elderly Woman,Jeanette Miller,
 the_smoking_woman,nicole_robinson,The Smoking Woman,NiCole Robinson,
 the_window_woman,samantha_smith,The Window Woman,Samantha Smith,https://www.imdb.com/title/tt0108778/characters/nm0809860
 hope_brady,kristian_alfonso,Hope Brady,Kristian Alfonso,
@@ -288,7 +288,7 @@ buddy_doyle,danny_dayton,Buddy Doyle,Danny Dayton,
 phone_guy,barry_diamond,Phone Guy,Barry Diamond,https://www.imdb.com/title/tt0108778/characters/nm0224588
 frankie,buck_kartalian,Frankie,Buck Kartalian,
 kristen,heather_medway,Kristen,Heather Medway,https://www.imdb.com/title/tt0108778/characters/nm0575977
-doctor_karl,victor_raiderwexler,Doctor Karl,Victor Raider-Wexler,https://www.imdb.com/title/tt0108778/characters/nm0706838
+the_doctor,victor_raiderwexler,The Doctor,Victor Raider-Wexler,https://www.imdb.com/title/tt0108778/characters/nm0706838
 coma_guy,david_sederholm,Coma Guy,David Sederholm,https://www.imdb.com/title/tt0108778/characters/nm0781269
 dr_baldharar,harry_shearer,Dr. Baldharar,Harry Shearer,https://www.imdb.com/title/tt0108778/characters/nm0733427
 office_worker_3,darryl_sivad,Office Worker #3,Darryl Sivad,
@@ -594,11 +594,11 @@ lelani_mayolanofavich,emily_osment,Lelani Mayolanofavich,Emily Osment,
 marc,tim_dekay,Marc,Tim DeKay,
 uncle_dan,john_c_moskoff,Uncle Dan,John C. Moskoff,
 the_receptionist,greta_sesheta,The Receptionist,Greta Sesheta,
-leslie_buffay,allisyn_ashley_arm,Leslie Buffay,Allisyn Ashley Arm,
 matthew_ashford,matthew_ashford,Matthew Ashford,Matthew Ashford,https://www.imdb.com/title/tt0108778/characters/nm0038932
 the_casting_director,michelle_anne_johnson,the Casting Director,Michelle Anne Johnson,
 jeanette,cynthia_newman,Jeanette,Cynthia Newman,
 customer_3,johnny_sneed,Customer #3,Johnny Sneed,
+leslie_buffay,allisyn_snyder,Leslie Buffay,Allisyn Snyder,
 adrienne_turner,kimberley_davies,Adrienne Turner,Kimberley Davies,
 james_campbell,brent_spiner,James Campbell,Brent Spiner,
 dr_oberman,joan_pringle,Dr. Oberman,Joan Pringle,https://www.imdb.com/title/tt0108778/characters/nm0697824
@@ -696,8 +696,6 @@ woman_giving_birth,laura_margolis,Woman Giving Birth,Laura Margolis,
 woman_with_mild_contractions,karin_co,Woman with Mild Contractions,Karin Co,
 sick_bastard,jimmy_palumbo,Sick Bastard,Jimmy Palumbo,
 nurse_3,sarah_rush,Nurse #3,Sarah Rush,
-counter_dancer,jill_melody,Counter Dancer,Jill Melody,
-business_news_anchor,richard_saxton,Business News Anchor,Richard Saxton,
 girl_scout,julie_grady_thomas,Girl Scout,Julie Grady Thomas,
 party_guest,ferdinand_mehlinger,Party Guest,Ferdinand Mehlinger,
 the_latte_guy,alex_boling,The Latte Guy,Alex Boling,
@@ -708,6 +706,7 @@ the_guy_on_the_tape,andre_fortin,The Guy on the Tape,André Fortin,
 marcel_the_monkey,katie,Marcel the Monkey,Katie,https://www.imdb.com/title/tt0108778/characters/nm1442174
 emma_gellergreen,cali_sheldon,Emma Geller-Green,Cali Sheldon,https://www.imdb.com/title/tt0108778/characters/nm1344400
 emma_gellergreen,noelle_sheldon,Emma Geller-Green,Noelle Sheldon,https://www.imdb.com/title/tt0108778/characters/nm1343484
+emma_gellergreen,elizabeth_davidson,Emma Geller-Green,Elizabeth Davidson,https://www.imdb.com/title/tt0108778/characters/nm0203309
 airplane_passenger,tony_sagastizado_i,Airplane Passenger,Tony Sagastizado I,
 director,marta_kauffman,Director,Marta Kauffman,https://www.imdb.com/title/tt0108778/characters/nm0442035
 coffee_shop_patron,anthony_backman,Coffee Shop Patron,Anthony Backman,
@@ -738,6 +737,8 @@ studio_engineer,willie_basse,Studio Engineer,Willie Basse,
 monkeyshines_beer_announcer,jim_cummings,Monkeyshines Beer Announcer,Jim Cummings,
 groomsman,richard_lawrence,Groomsman,Richard Lawrence,
 coffee_shop_patron,darin_mangan,Coffee Shop Patron,Darin Mangan,
+counter_dancer,jill_melody,Counter Dancer,Jill Melody,
+business_news_anchor,richard_saxton,Business News Anchor,Richard Saxton,
 tank_abbott,david_abbott,Tank Abbott,David Abbott,
 video_store_customer,robert_aguilar_jr,Video Store Customer,Robert Aguilar Jr.,
 coffee_house_patron,laura_bennecke,Coffee House Patron,Laura Bennecke,

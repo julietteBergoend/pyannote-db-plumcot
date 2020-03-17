@@ -1,49 +1,49 @@
-voice_of_the_ring,alan_howard,Voice of the Ring,Alan Howard,https://www.imdb.com/title/tt0120737/characters/nm0397102
-everard_proudfoot,noel_appleby,Everard Proudfoot,Noel Appleby,https://www.imdb.com/title/tt0120737/characters/nm0032370
-sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0120737/characters/nm0000276
-sauron,sala_baker,Sauron,Sala Baker,https://www.imdb.com/title/tt0120737/characters/nm1019674
-boromir,sean_bean,Boromir,Sean Bean,https://www.imdb.com/title/tt0120737/characters/nm0000293
-galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0120737/characters/nm0000949
-legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0120737/characters/nm0089217
-pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0120737/characters/nm0101710
-celeborn,marton_csokas,Celeborn,Marton Csokas,https://www.imdb.com/title/tt0120737/characters/nm0190744
+voice_of_the_ring,alan_howard,Voice of the Ring,Alan Howard,
+everard_proudfoot,noel_appleby,Everard Proudfoot,Noel Appleby,https://www.imdb.com/title/tt0167260/characters/nm0032370
+sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0167260/characters/nm0000276
+featured_orc,sala_baker,Featured Orc,Sala Baker,https://www.imdb.com/title/tt0167260/characters/nm1019674
+boromir,sean_bean,Boromir,Sean Bean,
+galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0167260/characters/nm0000949
+legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0167260/characters/nm0089217
+pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0167260/characters/nm0101710
+celeborn,marton_csokas,Celeborn,Marton Csokas,https://www.imdb.com/title/tt0167260/characters/nm0190744
 mrs_proudfoot,megan_edwards,Mrs. Proudfoot,Megan Edwards,https://www.imdb.com/title/tt0120737/characters/nm1104283
-gondorian_archivist,michael_elsworth,Gondorian Archivist,Michael Elsworth,
+cirdan_the_shipwright,michael_elsworth,Cirdan the Shipwright,Michael Elsworth,https://www.imdb.com/title/tt0167260/characters/nm1096480
 gilgalad,mark_ferguson,Gil-galad,Mark Ferguson,https://www.imdb.com/title/tt0120737/characters/nm0272527
-bilbo,ian_holm,Bilbo,Ian Holm,https://www.imdb.com/title/tt0120737/characters/nm0000453
-saruman,christopher_lee,Saruman,Christopher Lee,https://www.imdb.com/title/tt0120737/characters/nm0000489
-lurtz,lawrence_makoare,Lurtz,Lawrence Makoare,https://www.imdb.com/title/tt0120737/characters/nm0538692
-gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0120737/characters/nm0785227
-witchking,brent_mcintyre,Witch-king,Brent McIntyre,https://www.imdb.com/title/tt0120737/characters/nm1098595
-gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0120737/characters/nm0005212
+bilbo,ian_holm,Bilbo,Ian Holm,https://www.imdb.com/title/tt0167260/characters/nm0000453
+saruman_,christopher_lee,Saruman (extended edition),Christopher Lee,https://www.imdb.com/title/tt0167260/characters/nm0000489
+witchking,lawrence_makoare,Witchking,Lawrence Makoare,https://www.imdb.com/title/tt0167260/characters/nm0538692
+gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0167260/characters/nm0785227
+witchking,brent_mcintyre,Witch-king,Brent McIntyre,
+gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0167260/characters/nm0005212
 elendil,peter_mckenzie,Elendil,Peter McKenzie,https://www.imdb.com/title/tt0120737/characters/nm1013159
-rosie_cotton,sarah_mcleod,Rosie Cotton,Sarah McLeod,https://www.imdb.com/title/tt0120737/characters/nm0572867
-merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0120737/characters/nm0597480
-aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0120737/characters/nm0001557
+rosie_cotton,sarah_mcleod,Rosie Cotton,Sarah McLeod,https://www.imdb.com/title/tt0167260/characters/nm0572867
+merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0167260/characters/nm0597480
+aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0167260/characters/nm0001557
 bounder,ian_mune,Bounder,Ian Mune,https://www.imdb.com/title/tt0120737/characters/nm0612786
-haldir,craig_parker,Haldir,Craig Parker,https://www.imdb.com/title/tt0120737/characters/nm0662164
+gothmog_,craig_parker,Gothmog /,Craig Parker,
 farmer_maggot,cameron_rhodes,Farmer Maggot,Cameron Rhodes,https://www.imdb.com/title/tt0120737/characters/nm0722397
-gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0120737/characters/nm0722636
+gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0167260/characters/nm0722636
 gate_keeper,martyn_sanderson,Gate Keeper,Martyn Sanderson,
-isildur,harry_sinclair,Isildur,Harry Sinclair,https://www.imdb.com/title/tt0120737/characters/nm0801625
-arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0120737/characters/nm0000239
+isildur,harry_sinclair,Isildur,Harry Sinclair,
+arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0167260/characters/nm0000239
 barliman_butterbur,david_weatherley,Barliman Butterbur,David Weatherley,https://www.imdb.com/title/tt0120737/characters/nm0915750
-elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0120737/characters/nm0915989
-frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0120737/characters/nm0000704
-hero_orcs,victoria_beynoncole,Hero Orcs,Victoria Beynon-Cole,https://www.imdb.com/title/tt0120737/characters/nm1113484
-hero_orcs,lee_hartley,Hero Orcs,Lee Hartley,https://www.imdb.com/title/tt0120737/characters/nm1101755
-hero_orcs_,sam_la_hood,Hero Orcs /,Sam La Hood,
+elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0167260/characters/nm0915989
+frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0167260/characters/nm0000704
+hero_orc,victoria_beynoncole,Hero Orc,Victoria Beynon-Cole,
+featured_orc,lee_hartley,Featured Orc,Lee Hartley,
+orc_pitmaster,sam_la_hood,Orc Pitmaster,Sam La Hood,https://www.imdb.com/title/tt0167261/characters/nm1114489
 hero_orcs_,chris_streeter,Hero Orcs /,Chris Streeter,
 hero_orcs_,jonathan_jordan,Hero Orcs /,Jonathan Jordan,
 hero_orcs_,semi_kuresa,Hero Orcs /,Semi Kuresa,
 hero_orcs_,clinton_ulyatt,Hero Orcs /,Clinton Ulyatt,
 hero_orcs_,paul_bryson,Hero Orcs /,Paul Bryson,
 hero_orcs_,lance_fabian_kemp,Hero Orcs /,Lance Fabian Kemp,
-hero_orcs,jono_manks,Hero Orcs,Jono Manks,https://www.imdb.com/title/tt0120737/characters/nm1115930
+twilight_ringwraith,jono_manks,Twilight Ringwraith,Jono Manks,
 hero_orcs_,ben_price,Hero Orcs /,Ben Price,
-hero_orcs,phil_grieve,Hero Orcs,Phil Grieve,https://www.imdb.com/title/tt0120737/characters/nm1115856
-cute_hobbit_child,billy_jackson,Cute Hobbit Child,Billy Jackson,https://www.imdb.com/title/tt0120737/characters/nm0413309
-cute_hobbit_child,katie_jackson,Cute Hobbit Child,Katie Jackson,https://www.imdb.com/title/tt0120737/characters/nm1116175
+orc_commander_,phil_grieve,Orc commander (Extended Edition),Phil Grieve,https://www.imdb.com/title/tt0167260/characters/nm1115856
+featured_child,billy_jackson,Featured Child,Billy Jackson,
+featured_child,katie_jackson,Featured Child,Katie Jackson,
 otho_,peter_corrigan,Otho (extended edition),Peter Corrigan,
 mrs_bracegirdle_,lori_dungey,Mrs. Bracegirdle (extended edition),Lori Dungey,https://www.imdb.com/title/tt0120737/characters/nm0242256
 gaffer_gamgee_,norman_forsey,Gaffer Gamgee (extended edition),Norman Forsey,
@@ -52,19 +52,19 @@ hero_orcs_,thomas_mcginty,Hero Orcs /,Thomas McGinty,
 lobelia_,elizabeth_moody,Lobelia (extended edition),Elizabeth Moody,
 hero_orcs,kate_orourke,Hero Orcs,Kate O'Rourke,https://www.imdb.com/title/tt0120737/characters/nm1225722
 ted_sandyman_,brian_sergent,Ted Sandyman (extended edition),Brian Sergent,https://www.imdb.com/title/tt0120737/characters/nm0785082
-ring_dwarflord,gino_acevedo,Ring Dwarf-lord,Gino Acevedo,
+corsair_of_umbar,gino_acevedo,Corsair of Umbar,Gino Acevedo,
 hobbit,betty_adams,Hobbit,Betty Adams,
-orc_,daniel_andrews,Orc /,Daniel Andrews,
+gondorian_soldier_,daniel_andrews,Gondorian Soldier /,Daniel Andrews,
 council_elf,matt_appleton,Council Elf,Matt Appleton,https://www.imdb.com/title/tt0120737/characters/nm0032434
 orc,rodney_bane,Orc,Rodney Bane,
 hobbit,timothy_bartlett,Hobbit,Timothy Bartlett,
-last_alliance_elf,jarl_benzon,Last Alliance Elf,Jarl Benzon,
-lothlorien_elf,jorn_benzon,Lothlorien Elf,Jørn Benzon,
+coronation_elf,jarl_benzon,Coronation Elf,Jarl Benzon,https://www.imdb.com/title/tt0167260/characters/nm1400476
+rivendell_elf,jorn_benzon,Rivendell Elf,Jørn Benzon,
 uruk_at_amon_hen,lynden_berryman,Uruk at Amon Hen,Lynden Berryman,
 hobbit,bob_blackwell,Hobbit,Bob Blackwell,
-last_alliance_elf,ben_britton,Last Alliance Elf,Ben Britton,https://www.imdb.com/title/tt0120737/characters/nm1401687
-ringwraith,jed_brophy,Ringwraith,Jed Brophy,https://www.imdb.com/title/tt0120737/characters/nm0112400
-cute_hobbit_child,riley_brophy,Cute Hobbit Child,Riley Brophy,https://www.imdb.com/title/tt0120737/characters/nm2666895
+elf_warrior_,ben_britton,Elf Warrior /,Ben Britton,
+featured_orc,jed_brophy,Featured Orc,Jed Brophy,
+cute_rohan_refugee_child,riley_brophy,Cute Rohan Refugee Child,Riley Brophy,
 urukhai,ryan_carey,Uruk-hai,Ryan Carey,
 party_hobbit,norman_cates,Party Hobbit,Norman Cates,
 goblin,rachel_clentworth,Goblin,Rachel Clentworth,
@@ -72,176 +72,130 @@ cave_troll,randall_william_cook,Cave Troll,Randall William Cook,https://www.imdb
 rivendell_elf,sabine_crossen,Rivendell Elf,Sabine Crossen,
 urukhai,tack_daniel,Uruk-hai,Tack Daniel,
 khai,peter_daube,Khai,Peter Daube,
-goblin_,mana_hira_davis,Goblin /,Mana Hira Davis,
-urukhai,shane_dawson,Uruk-hai,Shane Dawson,
+gondorian_soldier_,mana_hira_davis,Gondorian Soldier /,Mana Hira Davis,
+harad_warrior_,shane_dawson,Harad Warrior /,Shane Dawson,
 urukhai,branko_dordevich,Uruk-hai,Branko Dordevich,
-orc_,siosa_fonua,Orc /,Siosa Fonua,
-last_alliance_elf_,kester_fordham,Last Alliance Elf /,Kester Fordham,
+orc_,siaosi_fonua,Orc /,Siaosi Fonua,
+elf_warrior,kester_fordham,Elf Warrior,Kester Fordham,
 ring_dwarflord,xander_forterie,Ring Dwarf-lord,Xander Forterie,
-goblin_,ben_fransham,Goblin /,Ben Fransham,
+elven_warrior,ben_fransham,Elven Warrior,Ben Fransham,
 cute_hobbit_child,phoebe_gittins,Cute Hobbit Child,Phoebe Gittins,
 isengard_orc_blacksmith,warren_green,Isengard Orc Blacksmith,Warren Green,
-goblin_,winham_hammond,Goblin /,Winham Hammond,
-council_elf,jonathan_harding,Council Elf,Jonathan Harding,https://www.imdb.com/title/tt0120737/characters/nm1400563
-kissing_hobbit,zo_hartley,Kissing Hobbit,Zo Hartley,https://www.imdb.com/title/tt0120737/characters/nm0366899
+urukhai,winham_hammond,Uruk-hai,Winham Hammond,
+elf_warrior,jonathan_harding,Elf Warrior,Jonathan Harding,
+orc_helper,zo_hartley,Orc Helper,Zo Hartley,
 cute_hobbit_child,taea_hartwell,Cute Hobbit Child,Taea Hartwell,https://www.imdb.com/title/tt0120737/characters/nm0367290
 council_man,ray_henwood,Council Man,Ray Henwood,https://www.imdb.com/title/tt0120737/characters/nm0378309
 hobbit,dave_houma,Hobbit,Dave Houma,
-goblin,lani_jackson,Goblin,Lani Jackson,
-albert_dreary,peter_jackson,Albert Dreary,Peter Jackson,https://www.imdb.com/title/tt0120737/characters/nm0001392
-rivendell_elf,gareth_jensen,Rivendell Elf,Gareth Jensen,
-council_man,ralph_johnson,Council Man,Ralph Johnson,https://www.imdb.com/title/tt0120737/characters/nm4317270
+urukhai,lani_jackson,Uruk-hai,Lani Jackson,
+corsair_bosun,peter_jackson,Corsair Bosun,Peter Jackson,https://www.imdb.com/title/tt0167260/characters/nm0001392
+elf_warrior,gareth_jensen,Elf Warrior,Gareth Jensen,
+orc_,ralph_johnson,Orc /,Ralph Johnson,
 isengard_orc_blacksmith,stu_johnson,Isengard Orc Blacksmith,Stu Johnson,
 gondorian_citizen,tim_kano,Gondorian Citizen,Tim Kano,
-council_elf,sam_kelly,Council Elf,Sam Kelly,https://www.imdb.com/title/tt0120737/characters/nm1262711
+elf_warrior_,sam_kelly,Elf Warrior /,Sam Kelly,
 party_hobbit,jeff_kingsfordbrown,Party Hobbit,Jeff Kingsford-Brown,
-urukhai,greg_lane,Uruk-hai,Greg Lane,
-ring_king_of_men,alan_lee,Ring King of Men,Alan Lee,https://www.imdb.com/title/tt0120737/characters/nm0496769
+berserker_torchbearer,greg_lane,Berserker Torch-Bearer,Greg Lane,https://www.imdb.com/title/tt0167261/characters/nm1677583
+rohan_recruit,alan_lee,Rohan Recruit,Alan Lee,
 arms_of_gollum,sacha_lee,Arms of Gollum,Sacha Lee,https://www.imdb.com/title/tt0120737/characters/nm0498184
 isengard_orc_blacksmith,peter_lyon,Isengard Orc Blacksmith,Peter Lyon,
 village_female_hobbit,marta_marti,Village Female Hobbit,Marta Martí,
 goblin,sharon_maxwell,Goblin,Sharon Maxwell,
 ring_dwarflord,richard_maybery,Ring Dwarf-lord,Richard Maybery,
-figwit,bret_mckenzie,Figwit,Bret McKenzie,https://www.imdb.com/title/tt0120737/characters/nm1235366
+elf_escort,bret_mckenzie,Elf Escort,Bret McKenzie,https://www.imdb.com/title/tt0167260/characters/nm1235366
 urukhai,tim_mclachlan,Uruk-hai,Tim McLachlan,
 hobbit_band_member,liz_merton,Hobbit Band Member,Liz Merton,
-urukhai,dean_morganty,Uruk-hai,Dean Morganty,
+rohan_recruit,arnold_montey,Rohan Recruit,Arnold Montey,
+haradrim_warrior_,dean_morganty,Haradrim Warrior /,Dean Morganty,
 urukhai,greg_morrison,Uruk-hai,Greg 'Danger' Morrison,
 council_elf,blair_morton,Council Elf,Blair Morton,https://www.imdb.com/title/tt0120737/characters/nm1400645
 urukhai,andrew_munro,Uruk-hai,Andrew Munro,
 goblin,david_j_muzzerall,Goblin,David J. Muzzerall,
 hobbit_,timothy_patrick,Hobbit /,Timothy Patrick,
 galadriels_elf,christy_qulliam,Galadriel's Elf,Christy Qulliam,
-witchking,shane_rangi,Witch-king,Shane Rangi,https://www.imdb.com/title/tt0120737/characters/nm1432313
+harad_leader_2,shane_rangi,Harad Leader 2,Shane Rangi,https://www.imdb.com/title/tt0167260/characters/nm1432313
 orc,chris_reid,Orc,Chris Reid,
 goblin,steve_reinsfield,Goblin,Steve Reinsfield,
 ring_king_of_men,larry_rew,Ring King of Men,Larry Rew,https://www.imdb.com/title/tt0120737/characters/nm1659162
 urukhai,grant_roa,Uruk-hai,Grant Roa,
-hand_of_gollum,thomas_robins,Hand of Gollum,Thomas Robins,
+deagol,thomas_robins,Deagol,Thomas Robins,https://www.imdb.com/title/tt0167260/characters/nm0992718
 urukhai,vincent_roxburgh,Uruk-hai,Vincent Roxburgh,
 breelander,chris_ryan,Breelander,Chris Ryan,
 burning_ringwraith,paul_shapcott,Burning Ringwraith,Paul Shapcott,
-refugee_,samuel_e_shore,Refugee /,Samuel E. Shore,
+rohan_refugee_elf,samuel_e_shore,Rohan Refugee Elf,Samuel E. Shore,
 urukhai,mike_stearne,Uruk-hai,Mike Stearne,
 urukhai,andrew_stehlin,Uruk-hai,Andrew Stehlin,
-isengard_orc_,ken_stratton,Isengard Orc /,Ken Stratton,
+easterling_,ken_stratton,Easterling /,Ken Stratton,
 hobbit,jo_surgison,Hobbit,Jo Surgison,
 goblin,james_waterhousebrown,Goblin,James Waterhouse-Brown,
 urukhai,tim_wong,Uruk-hai,Tim Wong,
-goblin,robert_young,Goblin,Robert Young,
+urukhai,robert_young,Uruk-hai,Robert Young,
 aldor,bruce_allpress,Aldor,Bruce Allpress,https://www.imdb.com/title/tt0167261/characters/nm0021600
-sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0167261/characters/nm0000276
-madril,john_bach,Madril,John Bach,https://www.imdb.com/title/tt0167261/characters/nm0045324
-man_flesh_uruk,sala_baker,Man Flesh Uruk,Sala Baker,https://www.imdb.com/title/tt0167261/characters/nm1019674
-galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0167261/characters/nm0000949
-legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0167261/characters/nm0089217
-pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0167261/characters/nm0101710
-sharku,jed_brophy,Sharku,Jed Brophy,https://www.imdb.com/title/tt0167261/characters/nm0112400
+madril,john_bach,Madril,John Bach,
 eothain,sam_comery,Eothain,Sam Comery,https://www.imdb.com/title/tt0167261/characters/nm1275186
-wormtongue,brad_dourif,Wormtongue,Brad Dourif,https://www.imdb.com/title/tt0167261/characters/nm0000374
+wormtongue_,brad_dourif,Wormtongue (extended edition),Brad Dourif,https://www.imdb.com/title/tt0167260/characters/nm0000374
 haleth,calum_gittins,Haleth,Calum Gittins,https://www.imdb.com/title/tt0167261/characters/nm1275727
-theoden,bernard_hill,Theoden,Bernard Hill,https://www.imdb.com/title/tt0167261/characters/nm0384060
-gamling,bruce_hopkins,Gamling,Bruce Hopkins,https://www.imdb.com/title/tt0167261/characters/nm0394126
+theoden,bernard_hill,Theoden,Bernard Hill,https://www.imdb.com/title/tt0167260/characters/nm0384060
+gamling,bruce_hopkins,Gamling,Bruce Hopkins,https://www.imdb.com/title/tt0167260/characters/nm0394126
 theodred,paris_howe_strewe,Theodred,Paris Howe Strewe,https://www.imdb.com/title/tt0167261/characters/nm1277591
-saruman,christopher_lee,Saruman,Christopher Lee,https://www.imdb.com/title/tt0167261/characters/nm0000489
 ugluk,nathaniel_lees,Ugluk,Nathaniel Lees,https://www.imdb.com/title/tt0167261/characters/nm0498731
 hama,john_leigh,Háma,John Leigh,https://www.imdb.com/title/tt0167261/characters/nm0500237
 mauhur,robbie_magasiva,Mauhur,Robbie Magasiva,https://www.imdb.com/title/tt0167261/characters/nm0535741
 morwen,robyn_malcolm,Morwen,Robyn Malcolm,https://www.imdb.com/title/tt0167261/characters/nm0539137
-gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0167261/characters/nm0005212
-merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0167261/characters/nm0597480
-aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0167261/characters/nm0001557
-eowyn,miranda_otto,Eowyn,Miranda Otto,https://www.imdb.com/title/tt0167261/characters/nm0001584
-haldir,craig_parker,Haldir,Craig Parker,https://www.imdb.com/title/tt0167261/characters/nm0662164
-rohan_soldier,bruce_phillips,Rohan Soldier,Bruce Phillips,
-mordor_orc,robert_pollock,Mordor Orc,Robert Pollock,
-gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0167261/characters/nm0722636
-gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0167261/characters/nm0785227
+eowyn,miranda_otto,Eowyn,Miranda Otto,https://www.imdb.com/title/tt0167260/characters/nm0001584
+grimbold,bruce_phillips,Grimbold,Bruce Phillips,https://www.imdb.com/title/tt0167260/characters/nm0680273
+featured_orc,robert_pollock,Featured Orc,Robert Pollock,
 freda,olivia_tennet,Freda,Olivia Tennet,https://www.imdb.com/title/tt0167261/characters/nm0855092
 bereg,ray_trickitt,Bereg,Ray Trickitt,
-arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0167261/characters/nm0000239
-eomer,karl_urban,Eomer,Karl Urban,https://www.imdb.com/title/tt0167261/characters/nm0881631
-grishnakh,stephen_ure,Grishnakh,Stephen Ure,https://www.imdb.com/title/tt0167261/characters/nm0881831
-elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0167261/characters/nm0915989
-faramir,david_wenham,Faramir,David Wenham,https://www.imdb.com/title/tt0167261/characters/nm0920992
-frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0167261/characters/nm0000704
-hero_orc,victoria_beynoncole,Hero Orc,Victoria Beynon-Cole,
-hero_orc,lee_hartley,Hero Orc,Lee Hartley,https://www.imdb.com/title/tt0167261/characters/nm1101755
-hero_orc,phil_grieve,Hero Orc,Phil Grieve,https://www.imdb.com/title/tt0167261/characters/nm1115856
-cute_rohan_refugee_child,billy_jackson,Cute Rohan Refugee Child,Billy Jackson,
-cute_rohan_refugee_child,katie_jackson,Cute Rohan Refugee Child,Katie Jackson,
-boromir_,sean_bean,Boromir (extended edition),Sean Bean,https://www.imdb.com/title/tt0167261/characters/nm0000293
+eomer,karl_urban,Eomer,Karl Urban,https://www.imdb.com/title/tt0167260/characters/nm0881631
+gorbag,stephen_ure,Gorbag,Stephen Ure,https://www.imdb.com/title/tt0167260/characters/nm0881831
+faramir,david_wenham,Faramir,David Wenham,https://www.imdb.com/title/tt0167260/characters/nm0920992
 ranger_1_,phillip_spencer_harris,Ranger 1 (extended edition),Phillip Spencer Harris,https://www.imdb.com/title/tt0167261/characters/nm0365207
 wildman_,timothy_lee,Wildman (extended edition),Timothy Lee,https://www.imdb.com/title/tt0167261/characters/nm0498368
-denethor_,john_noble,Denethor (extended edition),John Noble,https://www.imdb.com/title/tt0167261/characters/nm0633604
+denethor,john_noble,Denethor,John Noble,https://www.imdb.com/title/tt0167260/characters/nm0633604
 urukhai,richard_alexander,Uruk-hai,Richard Alexander,
 gondorian_soldier_,geoff_allen,Gondorian Soldier /,Geoff Allen,
 orc_,frazer_anderson,Orc /,Frazer Anderson,
-gondorian_soldier_,daniel_andrews,Gondorian Soldier /,Daniel Andrews,
 gondorian_soldier_,ben_barrington,Gondorian Soldier /,Ben Barrington,
-elven_warrior_,jarl_benzon,Elven Warrior /,Jarl Benzon,
-elven_warrior,jorn_benzon,Elven Warrior,Jørn Benzon,
 rivendell_elf,owen_black,Rivendell Elf,Owen Black,
 rohan_woman,dorothy_anne_bonner,Rohan Woman,Dorothy Anne Bonner,
-elf_warrior_,ben_britton,Elf Warrior /,Ben Britton,
-cute_rohan_refugee_child,riley_brophy,Cute Rohan Refugee Child,Riley Brophy,
 damrod,alistair_browning,Damrod,Alistair Browning,
 rohan_refugee,alix_bushnell,Rohan Refugee,Alix Bushnell,
 urukhai,sean_button,Uruk-hai,Sean Button,
-urukhai,ryan_carey,Uruk-hai,Ryan Carey,
-elf,robert_catto,Elf,Robert Catto,
+gondorian_,robert_catto,Gondorian /,Robert Catto,
 urukhai,rodney_cook,Uruk-hai,Rodney Cook,
 rohan_refugee,kelly_corbishley,Rohan Refugee,Kelly Corbishley,
-urukhai,tack_daniel,Uruk-hai,Tack Daniel,
 urukhai,augie_davis,Uruk-hai,Augie Davis,
-gondorian_soldier_,mana_hira_davis,Gondorian Soldier /,Mana Hira Davis,
-harad_warrior_,shane_dawson,Harad Warrior /,Shane Dawson,
 easterling_warrior,karlos_drinkwater,Easterling Warrior,Karlos Drinkwater,
 rohan_soldier,aron_eastwood,Rohan Soldier,Aron Eastwood,
 rohan_man,frank_edwards,Rohan Man,Frank Edwards,
-harad_warrior,clint_elvy,Harad Warrior,Clint Elvy,
+haradrim_warrior,clint_elvy,Haradrim Warrior,Clint Elvy,
 elven_warrior,alexia_fairbrother,Elven Warrior,Alexia Fairbrother,
 elven_warrior_,daniel_falconer,Elven Warrior /,Daniel Falconer,
 urukhai,david_gatward_ferguson,Uruk-hai,David Gatward Ferguson,
-orc_,siosa_fonua,Orc /,Siosa Fonua,
-elf_warrior,kester_fordham,Elf Warrior,Kester Fordham,
 elf,michael_fowler,Elf,Michael Fowler,
-elven_warrior,ben_fransham,Elven Warrior,Ben Fransham,
 rohan_refugee,frank_goldingham,Rohan Refugee,Frank Goldingham,
-urukhai,winham_hammond,Uruk-hai,Winham Hammond,
 rohan_woman,june_hancock,Rohan Woman,June Hancock,
-elf_warrior,jonathan_harding,Elf Warrior,Jonathan Harding,
 rohan_boy,lucas_hayward,Rohan Boy,Lucas Hayward,
 rohan_recruit,dan_hennah,Rohan Recruit,Dan Hennah,
 fighting_elf_,liz_hewson,Fighting Elf /,Liz Hewson,
 orc,paul_holmes,Orc,Paul Holmes,
 theodens_royal_guard,jason_hood,Theoden's Royal Guard,Jason Hood,
 rohan_soldier,davey_hughes,Rohan Soldier,Davey Hughes,
-urukhai,lani_jackson,Uruk-hai,Lani Jackson,
-spearthrowing_rohan_soldier,peter_jackson,Spear-Throwing Rohan Soldier,Peter Jackson,https://www.imdb.com/title/tt0167261/characters/nm0001392
-elf_warrior,gareth_jensen,Elf Warrior,Gareth Jensen,
-orc_,ralph_johnson,Orc /,Ralph Johnson,
 harad_warrior,are_manea_karati,Harad Warrior,Are Manea Karati,
-elf_warrior_,sam_kelly,Elf Warrior /,Sam Kelly,
 easterling_,ron_kerkmeester,Easterling /,Ron Kerkmeester,
 rohan_soldier,richard_knowles,Rohan Soldier,Richard Knowles,
-elven_warrior,sandro_kopp,Elven Warrior,Sandro Kopp,
-orc_pitmaster,sam_la_hood,Orc Pitmaster,Sam La Hood,https://www.imdb.com/title/tt0167261/characters/nm1114489
-berserker_torchbearer,greg_lane,Berserker Torch-Bearer,Greg Lane,https://www.imdb.com/title/tt0167261/characters/nm1677583
+coronation_elf,sandro_kopp,Coronation Elf,Sandro Kopp,
 rohan_guard,don_langridge,Rohan Guard,Don Langridge,
 elf_,jaime_lawrence,Elf /,Jaime Lawrence,
 wildman,michael_lawrence,Wildman,Michael Lawrence,
-rohan_recruit,alan_lee,Rohan Recruit,Alan Lee,
 rohan_refugee,cameron_lemon,Rohan Refugee,Cameron Lemon,
 orc_,lance_louez,Orc /,Lance Louez,
-twilight_ringwraith,jono_manks,Twilight Ringwraith,Jono Manks,
-witchking,brent_mcintyre,Witch-king,Brent McIntyre,
 rohan_woman,dra_mckay,Rohan Woman,Dra McKay,
-urukhai_,joseph_mikahunt,Uruk-hai /,Joseph Mika-Hunt,
-haradrim_warrior_,dean_morganty,Haradrim Warrior /,Dean Morganty,
-rohan_boy_recruit,henry_mortensen,Rohan Boy Recruit,Henry Mortensen,
+orc,joseph_mikahunt,Orc,Joseph Mika-Hunt,
+pelennor_orc,henry_mortensen,Pelennor Orc,Henry Mortensen,
 elf_,francis_mountjoy,Elf /,Francis Mountjoy,
-easterling,paul_norell,Easterling,Paul Norell,https://www.imdb.com/title/tt0167261/characters/nm0635264
+king_of_the_dead,paul_norell,King of the Dead,Paul Norell,https://www.imdb.com/title/tt0167260/characters/nm0635264
 rohan_boy,james_ordish,Rohan Boy,James Ordish,
 rockthrowing_rohan_soldier,barrie_m_osborne,Rock-throwing Rohan Soldier,Barrie M. Osborne,
 captain_of_the_guards,wayne_phillips,Captain of the Guards,Wayne Phillips,
@@ -253,94 +207,35 @@ treecutting_orc,campbell_rousselle,Tree-cutting Orc,Campbell Rousselle,
 gondorian_soldier,matthew_saville,Gondorian Soldier,Matthew Saville,
 harad_warrior,jeremy_sciascia,Harad Warrior,Jeremy Sciascia,
 rohan_man,tony_shaw,Rohan Man,Tony Shaw,
-rohan_refugee_elf,samuel_e_shore,Rohan Refugee Elf,Samuel E. Shore,
 orc,shaneel_sidal,Orc,Shaneel Sidal,
 dead_marshes_elf,allan_smith,Dead Marshes Elf,Allan Smith,https://www.imdb.com/title/tt0167261/characters/nm1397129
 rohan_woman,dianne_smith,Rohan Woman,Dianne Smith,
-easterling_,ken_stratton,Easterling /,Ken Stratton,
 rohan_refugee,sarah_thomas,Rohan Refugee,Sarah Thomas,
 featured_orc,marcus_thorne,Featured Orc,Marcus Thorne,
 easterling_,robbie_titchener,Easterling /,Robbie Titchener,
 conscripting_rohan_soldier,greg_tozer,Conscripting Rohan Soldier,Greg Tozer,
 urukhai_warrior,piripi_waretini,Uruk-hai Warrior,Piripi Waretini,
-urukhai,tim_wong,Uruk-hai,Tim Wong,
 rohan_woman_in_cave,hannah_wood,Rohan Woman in Cave,Hannah Wood,
 stable_hand,john_wraight,Stable Hand,John Wraight,
 rohan_refugee,kelley_kerr_young,Rohan Refugee,Kelley Kerr Young,
-urukhai,robert_young,Uruk-hai,Robert Young,
-everard_proudfoot,noel_appleby,Everard Proudfoot,Noel Appleby,https://www.imdb.com/title/tt0167260/characters/nm0032370
 elanor_gamgee,ali_astin,Elanor Gamgee,Ali Astin,https://www.imdb.com/title/tt0167260/characters/nm0040012
-sam,sean_astin,Sam,Sean Astin,https://www.imdb.com/title/tt0167260/characters/nm0000276
 gondorian_soldier_3,david_aston,Gondorian Soldier 3,David Aston,
-madril,john_bach,Madril,John Bach,
-boromir,sean_bean,Boromir,Sean Bean,
-galadriel,cate_blanchett,Galadriel,Cate Blanchett,https://www.imdb.com/title/tt0167260/characters/nm0000949
-legolas,orlando_bloom,Legolas,Orlando Bloom,https://www.imdb.com/title/tt0167260/characters/nm0089217
-pippin,billy_boyd,Pippin,Billy Boyd,https://www.imdb.com/title/tt0167260/characters/nm0101710
 eldarion,sadwyn_brophy,Eldarion,Sadwyn Brophy,
-damrod,alistair_browning,Damrod,Alistair Browning,
-celeborn,marton_csokas,Celeborn,Marton Csokas,https://www.imdb.com/title/tt0167260/characters/nm0190744
 gondorian_soldier_1,richard_edge,Gondorian Soldier 1,Richard Edge,https://www.imdb.com/title/tt0167260/characters/nm1480102
 uruk_2,jason_fitch,Uruk 2,Jason Fitch,
-theoden,bernard_hill,Theoden,Bernard Hill,https://www.imdb.com/title/tt0167260/characters/nm0384060
-bilbo,ian_holm,Bilbo,Ian Holm,https://www.imdb.com/title/tt0167260/characters/nm0000453
-gamling,bruce_hopkins,Gamling,Bruce Hopkins,https://www.imdb.com/title/tt0167260/characters/nm0394126
 irolas,ian_hughes,Irolas,Ian Hughes,https://www.imdb.com/title/tt0167260/characters/nm0400655
-witchking,lawrence_makoare,Witchking,Lawrence Makoare,https://www.imdb.com/title/tt0167260/characters/nm0538692
-gandalf,ian_mckellen,Gandalf,Ian McKellen,https://www.imdb.com/title/tt0167260/characters/nm0005212
-elf_escort,bret_mckenzie,Elf Escort,Bret McKenzie,https://www.imdb.com/title/tt0167260/characters/nm1235366
-rosie_cotton,sarah_mcleod,Rosie Cotton,Sarah McLeod,https://www.imdb.com/title/tt0167260/characters/nm0572867
 baby_gamgee,maisy_mcleodriera,Baby Gamgee,Maisy McLeod-Riera,https://www.imdb.com/title/tt0167260/characters/nm1480155
-merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt0167260/characters/nm0597480
-aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0167260/characters/nm0001557
-denethor,john_noble,Denethor,John Noble,https://www.imdb.com/title/tt0167260/characters/nm0633604
-king_of_the_dead,paul_norell,King of the Dead,Paul Norell,https://www.imdb.com/title/tt0167260/characters/nm0635264
-eowyn,miranda_otto,Eowyn,Miranda Otto,https://www.imdb.com/title/tt0167260/characters/nm0001584
-grimbold,bruce_phillips,Grimbold,Bruce Phillips,https://www.imdb.com/title/tt0167260/characters/nm0680273
-harad_leader_2,shane_rangi,Harad Leader 2,Shane Rangi,https://www.imdb.com/title/tt0167260/characters/nm1432313
-gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0167260/characters/nm0722636
 harad_leader_1,todd_rippon,Harad Leader 1,Todd Rippon,https://www.imdb.com/title/tt0167260/characters/nm0728119
-deagol,thomas_robins,Deagol,Thomas Robins,https://www.imdb.com/title/tt0167260/characters/nm0992718
-gollum,andy_serkis,Gollum,Andy Serkis,https://www.imdb.com/title/tt0167260/characters/nm0785227
-isildur,harry_sinclair,Isildur,Harry Sinclair,
 shagrat,peter_tait,Shagrat,Peter Tait,https://www.imdb.com/title/tt0167260/characters/nm0846913
 orc_lieutenant_1,joel_tobeck,Orc Lieutenant 1,Joel Tobeck,https://www.imdb.com/title/tt0167260/characters/nm0864835
-arwen,liv_tyler,Arwen,Liv Tyler,https://www.imdb.com/title/tt0167260/characters/nm0000239
-eomer,karl_urban,Eomer,Karl Urban,https://www.imdb.com/title/tt0167260/characters/nm0881631
-gorbag,stephen_ure,Gorbag,Stephen Ure,https://www.imdb.com/title/tt0167260/characters/nm0881831
-elrond,hugo_weaving,Elrond,Hugo Weaving,https://www.imdb.com/title/tt0167260/characters/nm0915989
-faramir,david_wenham,Faramir,David Wenham,https://www.imdb.com/title/tt0167260/characters/nm0920992
-frodo,elijah_wood,Frodo,Elijah Wood,https://www.imdb.com/title/tt0167260/characters/nm0000704
-voice_of_the_ring,alan_howard,Voice of the Ring,Alan Howard,
-featured_orc,sala_baker,Featured Orc,Sala Baker,https://www.imdb.com/title/tt0167260/characters/nm1019674
-featured_orc,robert_pollock,Featured Orc,Robert Pollock,
 featured_orc,ross_duncan,Featured Orc,Ross Duncan,
 featured_orc,pete_smith,Featured Orc,Pete Smith,
-featured_orc,jed_brophy,Featured Orc,Jed Brophy,
-featured_orc,lee_hartley,Featured Orc,Lee Hartley,
-featured_child,billy_jackson,Featured Child,Billy Jackson,
-featured_child,katie_jackson,Featured Child,Katie Jackson,
-orc_commander_,phil_grieve,Orc commander (Extended Edition),Phil Grieve,https://www.imdb.com/title/tt0167260/characters/nm1115856
-wormtongue_,brad_dourif,Wormtongue (extended edition),Brad Dourif,
-saruman_,christopher_lee,Saruman (extended edition),Christopher Lee,https://www.imdb.com/title/tt0167260/characters/nm0000489
 black_lieutenant_,bruce_spence,Black Lieutenant (extended edition),Bruce Spence,https://www.imdb.com/title/tt0167260/characters/nm0817748
 coronation_elf,jane_abbott,Coronation Elf,Jane Abbott,https://www.imdb.com/title/tt0167260/characters/nm2136051
-corsair_of_umbar,gino_acevedo,Corsair of Umbar,Gino Acevedo,
 orc,aidan_bell,Orc,Aidan Bell,
-coronation_elf,jarl_benzon,Coronation Elf,Jarl Benzon,https://www.imdb.com/title/tt0167260/characters/nm1400476
-rivendell_elf,jorn_benzon,Rivendell Elf,Jørn Benzon,
 orc,luke_burnyeat,Orc,Luke Burnyeat,
-gondorian_,robert_catto,Gondorian /,Robert Catto,
 diamond_of_long_cleave,emma_deakin,Diamond of Long Cleave,Emma Deakin,
-cirdan_the_shipwright,michael_elsworth,Cirdan the Shipwright,Michael Elsworth,https://www.imdb.com/title/tt0167260/characters/nm1096480
-haradrim_warrior,clint_elvy,Haradrim Warrior,Clint Elvy,
-orc_helper,zo_hartley,Orc Helper,Zo Hartley,
-corsair_bosun,peter_jackson,Corsair Bosun,Peter Jackson,https://www.imdb.com/title/tt0167260/characters/nm0001392
-coronation_elf,sandro_kopp,Coronation Elf,Sandro Kopp,
 corsair_of_umbar,andrew_lesnie,Corsair of Umbar,Andrew Lesnie,
-orc,joseph_mikahunt,Orc,Joseph Mika-Hunt,
-pelennor_orc,henry_mortensen,Pelennor Orc,Henry Mortensen,
-gothmog_,craig_parker,Gothmog /,Craig Parker,
 corsair_of_umbar_,rick_porras,Corsair of Umbar /,Rick Porras,
 corsair_of_umbar_,christian_rivers,Corsair of Umbar /,Christian Rivers,
 drinking_rohan_soldier,michael_semanick,Drinking Rohan Soldier,Michael Semanick,

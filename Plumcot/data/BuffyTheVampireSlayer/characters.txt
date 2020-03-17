@@ -44,6 +44,7 @@ larry_blaisdell,larry_bagby,Larry Blaisdell,Larry Bagby,https://www.imdb.com/tit
 ubervamp,camden_toy,Ubervamp,Camden Toy,https://www.imdb.com/title/tt0118276/characters/nm0870262
 murk,todd_duffey,Murk,Todd Duffey,
 chaoahn,kristy_wu,Chao-Ahn,Kristy Wu,
+mason,neil_daly,Mason,Neil Daly,
 parker_abrams,adam_kaufman,Parker Abrams,Adam Kaufman,https://www.imdb.com/title/tt0118276/characters/nm0442066
 caleb,nathan_fillion,Caleb,Nathan Fillion,https://www.imdb.com/title/tt0118276/characters/nm0277213
 mr_trick,k_todd_freeman,Mr. Trick,K. Todd Freeman,https://www.imdb.com/title/tt0118276/characters/nm0293461
@@ -116,7 +117,6 @@ tom,mace_lombard,Tom,Mace Lombard,
 nikki_wood,kd_aubert,Nikki Wood,K.D. Aubert,
 aphrodesia,amy_chance,Aphrodesia,Amy Chance,
 demon,roger_w_morrissey,Demon,Roger W. Morrissey,https://www.imdb.com/title/tt0118276/characters/nm0605703
-mason,neil_daly,Mason,Neil Daly,
 chloe,lalaine,Chloe,Lalaine,
 mr_ward,bob_fimiani,Mr. Ward,Bob Fimiani,
 roy,bryan_cuprill,Roy,Bryan Cuprill,
@@ -232,7 +232,7 @@ genevive_holt,kathryn_joosten,Genevive Holt,Kathryn Joosten,
 cheese_man,david_wells,Cheese Man,David Wells,https://www.imdb.com/title/tt0118276/characters/nm0920169
 mandraz,fleming_brooks,Mandraz,Fleming Brooks,
 april,shonda_farr,April,Shonda Farr,https://www.imdb.com/title/tt0118276/characters/nm0268062
-janice,amber_tamblyn,Janice,Amber Tamblyn,https://www.imdb.com/title/tt0118276/characters/nm0848554
+janice_penshaw,amber_tamblyn,Janice Penshaw,Amber Tamblyn,https://www.imdb.com/title/tt0118276/characters/nm0848554
 vamp_1,geordie_white,Vamp #1,Geordie White,
 general_gregor,wade_williams,General Gregor,Wade Williams,https://www.imdb.com/title/tt0118276/characters/nm0931898
 sister,nicholette_dixon,Sister,Nicholette Dixon,

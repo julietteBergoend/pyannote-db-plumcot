@@ -32,7 +32,7 @@ BattlestarGalactica.Season02.Episode18,Downloaded,https://www.imdb.com/title/tt0
 BattlestarGalactica.Season02.Episode19,Lay Down Your Burdens: Part 1,https://www.imdb.com/title/tt0519776/,
 BattlestarGalactica.Season02.Episode20,Lay Down Your Burdens: Part 2,https://www.imdb.com/title/tt0519777/,
 BattlestarGalactica.Season03.Episode01,Occupation,https://www.imdb.com/title/tt0793695/,
-BattlestarGalactica.Season03.Episode02,Occupation/Precipice,https://www.imdb.com/title/tt0801850/,
+BattlestarGalactica.Season03.Episode02,Precipice,https://www.imdb.com/title/tt0801850/,
 BattlestarGalactica.Season03.Episode03,Exodus: Part 1,https://www.imdb.com/title/tt0801849/,
 BattlestarGalactica.Season03.Episode04,Exodus: Part 2,https://www.imdb.com/title/tt0867671/,
 BattlestarGalactica.Season03.Episode05,Collaborators,https://www.imdb.com/title/tt0811218/,

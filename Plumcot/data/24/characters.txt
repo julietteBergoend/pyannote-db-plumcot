@@ -60,7 +60,7 @@ keith_palmer,vicellous_shannon,Keith Palmer,Vicellous Shannon,https://www.imdb.c
 cheng_zhi,tzi_ma,Cheng Zhi,Tzi Ma,https://www.imdb.com/title/tt0285331/characters/nm0002245
 henry_taylor,colm_feore,Henry Taylor,Colm Feore,https://www.imdb.com/title/tt0285331/characters/nm0272173
 behrooz_araz,jonathan_ahdout,Behrooz Araz,Jonathan Ahdout,https://www.imdb.com/title/tt0285331/characters/nm1332975
-ira_gaines,michael_massee,Ira Gaines,Michael Massee,
+ira_gaines,michael_massee,Ira Gaines,Michael Massee,https://www.imdb.com/title/tt0285331/characters/nm0557219
 rob_weiss,chris_diamantopoulos,Rob Weiss,Chris Diamantopoulos,https://www.imdb.com/title/tt0285331/characters/nm0224565
 sarah_gavin,lana_parrilla,Sarah Gavin,Lana Parrilla,
 ramon_salazar,joaquim_de_almeida,Ramon Salazar,Joaquim de Almeida,https://www.imdb.com/title/tt0285331/characters/nm0021835
@@ -114,7 +114,7 @@ dmitri_gredenko,rade_serbedzija,Dmitri Gredenko,Rade Serbedzija,https://www.imdb
 farhad_hassan,akbar_kurtha,Farhad Hassan,Akbar Kurtha,https://www.imdb.com/title/tt0285331/characters/nm0475988
 nabeel,hrach_titizian,Nabeel,Hrach Titizian,
 robin_powers,tony_wayne,Robin Powers,Tony Wayne,
-rasheed,henry_kingi_jr,Rasheed,Henry Kingi Jr.,
+rasheed,henry_kingi_jr,Rasheed,Henry Kingi Jr.,https://www.imdb.com/title/tt0285331/characters/nm0455436
 gary_matheson,billy_burke,Gary Matheson,Billy Burke,https://www.imdb.com/title/tt0285331/characters/nm0121605
 greg_seaton,rory_cochrane,Greg Seaton,Rory Cochrane,https://www.imdb.com/title/tt0285331/characters/nm0168262
 sergei_bazhaev,jurgen_prochnow,Sergei Bazhaev,Jürgen Prochnow,https://www.imdb.com/title/tt0285331/characters/nm0001638
@@ -132,22 +132,22 @@ mandy,mia_kirshner,Mandy,Mia Kirshner,https://www.imdb.com/title/tt0285331/chara
 general_benjamin_juma,tony_todd,General Benjamin Juma,Tony Todd,https://www.imdb.com/title/tt0285331/characters/nm0865302
 kevin,ryan_moore,Kevin,Ryan Moore,
 ctu_agent_brian_pierson,brian_durkin,CTU Agent Brian Pierson,Brian Durkin,
-alberta_green,tamara_tunie,Alberta Green,Tamara Tunie,
-dan_mounts,matthew_carey,Dan Mounts,Matthew Carey,
+alberta_green,tamara_tunie,Alberta Green,Tamara Tunie,https://www.imdb.com/title/tt0285331/characters/nm0876645
+dan_mounts,matthew_carey,Dan Mounts,Matthew Carey,https://www.imdb.com/title/tt0285331/characters/nm0137001
 richard_heller,logan_marshallgreen,Richard Heller,Logan Marshall-Green,
 yusuf_auda,donnie_keshawarz,Yusuf Auda,Donnie Keshawarz,
 diane_huxley,connie_britton,Diane Huxley,Connie Britton,https://www.imdb.com/title/tt0285331/characters/nm0110168
-janet_york,jacqui_maxwell,Janet York,Jacqui Maxwell,
+janet_york,jacqui_maxwell,Janet York,Jacqui Maxwell,https://www.imdb.com/title/tt0285331/characters/nm1098541
 ule_matobo,isaach_de_bankole,Ule Matobo,Isaach De Bankolé,https://www.imdb.com/title/tt0285331/characters/nm0207218
 kyle_singer,riley_smith,Kyle Singer,Riley Smith,https://www.imdb.com/title/tt0285331/characters/nm0809720
 derek_huxley,brady_corbet,Derek Huxley,Brady Corbet,https://www.imdb.com/title/tt0285331/characters/nm1227232
 james_nathanson,geraint_wyn_davies,James Nathanson,Geraint Wyn Davies,
 vice_president_hal_gardner,ray_wise,Vice President Hal Gardner,Ray Wise,
 agent_owen,julian_morris,Agent Owen,Julian Morris,
-nicole_palmer,megalyn_echikunwoke,Nicole Palmer,Megalyn Echikunwoke,
+nicole_palmer,megalyn_echikunwoke,Nicole Palmer,Megalyn Echikunwoke,https://www.imdb.com/title/tt0285331/characters/nm0248461
 cara_bowden,amy_pricefrancis,Cara Bowden,Amy Price-Francis,https://www.imdb.com/title/tt0285331/characters/nm0697201
 spenser_wolff,jonah_lotan,Spenser Wolff,Jonah Lotan,https://www.imdb.com/title/tt0285331/characters/nm0521416
-melanie,navi_rawat,Melanie,Navi Rawat,
+melanie,navi_rawat,Melanie,Navi Rawat,https://www.imdb.com/title/tt0285331/characters/nm0712550
 meredith_reed,jennifer_westfeldt,Meredith Reed,Jennifer Westfeldt,https://www.imdb.com/title/tt0285331/characters/nm0922724
 josef_bazhaev,david_anders,Josef Bazhaev,David Anders,
 ivan_erwich,mark_sheppard,Ivan Erwich,Mark Sheppard,https://www.imdb.com/title/tt0285331/characters/nm0791968
@@ -160,9 +160,9 @@ melinda,jolene_kim,Melinda,Jolene Kim,
 rick_garcia,rick_garcia,Rick Garcia,Rick Garcia,
 walid_alrezani,harry_lennix,Walid Al-Rezani,Harry Lennix,https://www.imdb.com/title/tt0285331/characters/nm0502015
 nick_coughlin,michael_filipowich,Nick Coughlin,Michael Filipowich,
-jonathan_matijevich,rudolf_martin,Jonathan Matijevich,Rudolf Martin,
+jonathan_matijevich,rudolf_martin,Jonathan Matijevich,Rudolf Martin,https://www.imdb.com/title/tt0285331/characters/nm0553020
 jane_saunders,alexandra_lydon,Jane Saunders,Alexandra Lydon,https://www.imdb.com/title/tt0285331/characters/nm1605097
-eli_stram,silas_weir_mitchell,Eli Stram,Silas Weir Mitchell,
+eli_stram,silas_weir_mitchell,Eli Stram,Silas Weir Mitchell,https://www.imdb.com/title/tt0285331/characters/nm0593734
 shari_rothenberg,kate_mara,Shari Rothenberg,Kate Mara,
 erika,ever_carradine,Erika,Ever Carradine,https://www.imdb.com/title/tt0285331/characters/nm0139936
 paula_schaeffer,sara_gilbert,Paula Schaeffer,Sara Gilbert,https://www.imdb.com/title/tt0285331/characters/nm0004960
@@ -197,8 +197,8 @@ jim_ricker,michael_madsen,Jim Ricker,Michael Madsen,https://www.imdb.com/title/t
 eric_rayburn,timothy_carhart,Eric Rayburn,Timothy Carhart,
 jibraan_alzarian,omid_abtahi,Jibraan Al-Zarian,Omid Abtahi,https://www.imdb.com/title/tt0285331/characters/nm1859475
 jonathan_wallace,gregg_henry,Jonathan Wallace,Gregg Henry,
-elizabeth_nash,kara_zediker,Elizabeth Nash,Kara Zediker,
-dr_phil_parslow,vincent_angell,Dr. Phil Parslow,Vincent Angell,
+elizabeth_nash,kara_zediker,Elizabeth Nash,Kara Zediker,https://www.imdb.com/title/tt0285331/characters/nm0954150
+dr_phil_parslow,vincent_angell,Dr. Phil Parslow,Vincent Angell,https://www.imdb.com/title/tt0285331/characters/nm0029646
 scott_wallace,michael_angarano,Scott Wallace,Michael Angarano,
 stokes,michael_rodrick,Stokes,Michael Rodrick,
 davros,doug_hutchison,Davros,Doug Hutchison,https://www.imdb.com/title/tt0285331/characters/nm0006535
@@ -229,7 +229,7 @@ helen_singer,lucinda_jenney,Helen Singer,Lucinda Jenney,
 ostroff,aleksandr_kuznetsov,Ostroff,Aleksandr Kuznetsov,
 rita_brady,missy_crider,Rita Brady,Missy Crider,
 agent_samuels,scott_william_winters,Agent Samuels,Scott William Winters,
-maureen_kingsley,devika_parikh,Maureen Kingsley,Devika Parikh,
+maureen_kingsley,devika_parikh,Maureen Kingsley,Devika Parikh,https://www.imdb.com/title/tt0285331/characters/nm0661490
 agent_king,matthew_yang_king,Agent King,Matthew Yang King,
 debbie_pendleton,leighton_meester,Debbie Pendleton,Leighton Meester,
 chengs_operative,kenneth_choi,Cheng's Operative,Kenneth Choi,
@@ -246,11 +246,11 @@ sergio,julian_rodriguez,Sergio,Julian Rodriguez,
 jane,alicia_bien,Jane,Alicia Bien,
 ctu_security_guard,ariel_mirabalramos,CTU Security Guard,Ariel Mirabal-Ramos,
 ctu_agent_jim,sterling_sulieman,CTU Agent Jim,Sterling Sulieman,
-jovan_myovic,henri_lubatti,Jovan Myovic,Henri Lubatti,
+jovan_myovic,henri_lubatti,Jovan Myovic,Henri Lubatti,https://www.imdb.com/title/tt0285331/characters/nm0523825
 carla_matheson,tracy_middendorf,Carla Matheson,Tracy Middendorf,
 justin_adams,tracy_howe,Justin Adams,Tracy Howe,
 jenny_mcgill,penny_balfour,Jenny McGill,Penny Balfour,
-serge,endre_hules,Serge,Endre Hules,
+serge,endre_hules,Serge,Endre Hules,https://www.imdb.com/title/tt0285331/characters/nm0401352
 tim_moran,matt_mctighe,Tim Moran,Matt McTighe,
 dwayne_thompkins,matthew_boylan,Dwayne Thompkins,Matthew Boylan,
 agent_lynch,dr_lewis,Agent Lynch,D.R. Lewis,
@@ -264,14 +264,14 @@ michael_latham,john_billingsley,Michael Latham,John Billingsley,
 ken_dellao,tim_guinee,Ken Dellao,Tim Guinee,
 tomas_sherek,faran_tahir,Tomas Sherek,Faran Tahir,
 marcus,nick_offerman,Marcus,Nick Offerman,
-steve_goodrich,max_martini,Steve Goodrich,Max Martini,
+steve_goodrich,max_martini,Steve Goodrich,Max Martini,https://www.imdb.com/title/tt0285331/characters/nm0242882
 lonnie_mcrae,kevin_dillon,Lonnie McRae,Kevin Dillon,https://www.imdb.com/title/tt0285331/characters/nm0001143
 muhtadi_gohar,ravi_kapoor,Muhtadi Gohar,Ravi Kapoor,https://www.imdb.com/title/tt0285331/characters/nm0438500
 rachel_forrester,maria_del_mar,Rachel Forrester,Maria del Mar,
-warden_kevin_mitchell,kevin_chapman,Warden Kevin Mitchell,Kevin Chapman,
-harris,christian_svensson,Harris,Christian Svensson,
+warden_kevin_mitchell,kevin_chapman,Warden Kevin Mitchell,Kevin Chapman,https://www.imdb.com/title/tt0285331/characters/nm0152430
+harris,christian_svensson,Harris,Christian Svensson,https://www.imdb.com/title/tt0285331/characters/nm0841112
 mark_bishop,michael_shanks,Mark Bishop,Michael Shanks,
-krugman,darin_heames,Krugman,Darin Heames,
+krugman,darin_heames,Krugman,Darin Heames,https://www.imdb.com/title/tt0285331/characters/nm0372396
 agent_mizelli,reynaldo_gallegos,Agent Mizelli,Reynaldo Gallegos,
 collette_stenger,stana_katic,Collette Stenger,Stana Katic,
 nest_tech_1,dylan_haggerty,N.E.S.T. Tech #1,Dylan Haggerty,
@@ -300,7 +300,7 @@ dr_linzer,andy_umberger,Dr. Linzer,Andy Umberger,
 kevin,kevin_alejandro,Kevin,Kevin Alejandro,
 litvak,steve_cell,Litvak,Steve Cell,
 emt_waltrip,karim_prince,EMT Waltrip,Karim Prince,
-jim_koernig,joe_nieves,Jim Koernig,Joe Nieves,
+jim_koernig,joe_nieves,Jim Koernig,Joe Nieves,https://www.imdb.com/title/tt0285331/characters/nm0631381
 chris,jimmi_simpson,Chris,Jimmi Simpson,
 dimitri,jordan_marder,Dimitri,Jordan Marder,
 deborah,heather_salmon,Deborah,Heather Salmon,
@@ -320,7 +320,7 @@ alan_tanner,dameon_clarke,Alan Tanner,Dameon Clarke,
 jeff_breeher,sam_ayers,Jeff Breeher,Sam Ayers,
 reporter,pamela_stollings,Reporter,Pamela Stollings,
 heather_nauert,heather_nauert,Heather Nauert,Heather Nauert,
-frank_allard,edoardo_ballerini,Frank Allard,Edoardo Ballerini,
+frank_allard,edoardo_ballerini,Frank Allard,Edoardo Ballerini,https://www.imdb.com/title/tt0285331/characters/nm0050737
 cole,maurice_compte,Cole,Maurice Compte,
 ted_packard,conor_ofarrell,Ted Packard,Conor O'Farrell,
 bierkos_technician,ravil_isyanov,Bierko's Technician,Ravil Isyanov,
@@ -342,7 +342,7 @@ jesper_isberg,gregory_j_barnett,Jesper Isberg,Gregory J. Barnett,
 andre,mathew_lorenceau,Andre,Mathew Lorenceau,
 nicole,dagmara_dominczyk,Nicole,Dagmara Dominczyk,
 ronnie_lobell,shawn_doyle,Ronnie Lobell,Shawn Doyle,
-richard_walsh,michael_oneill,Richard Walsh,Michael O'Neill,
+richard_walsh,michael_oneill,Richard Walsh,Michael O'Neill,https://www.imdb.com/title/tt0285331/characters/nm0642259
 mark_bledsoe,db_sweeney,Mark Bledsoe,D.B. Sweeney,
 max,thomas_kretschmann,Max,Thomas Kretschmann,https://www.imdb.com/title/tt0285331/characters/nm0470981
 un_secretary_general,eriq_la_salle,UN Secretary General,Eriq La Salle,https://www.imdb.com/title/tt0285331/characters/nm0005113
@@ -350,7 +350,7 @@ deputy_raynes,sterling_macer_jr,Deputy Raynes,Sterling Macer Jr.,
 doug_knowles,chris_mulkey,Doug Knowles,Chris Mulkey,
 robert_morrison,keith_szarabajka,Robert Morrison,Keith Szarabajka,
 theo_stoller,henry_ian_cusick,Theo Stoller,Henry Ian Cusick,
-greg_penticoff,john_hawkes,Greg Penticoff,John Hawkes,
+greg_penticoff,john_hawkes,Greg Penticoff,John Hawkes,https://www.imdb.com/title/tt0285331/characters/nm0370035
 dave_conlon,tomas_arana,Dave Conlon,Tomas Arana,
 admiral_kirkland,tom_wright,Admiral Kirkland,Tom Wright,
 john_quinn,sebastian_roche,John Quinn,Sebastian Roché,https://www.imdb.com/title/tt0285331/characters/nm0003067
@@ -358,12 +358,12 @@ general_david_brucker,michael_gaston,General David Brucker,Michael Gaston,https:
 ronnie_stark,peter_outerbridge,Ronnie Stark,Peter Outerbridge,
 barry_landes,c_thomas_howell,Barry Landes,C. Thomas Howell,
 agent_reynolds,terrell_tilford,Agent Reynolds,Terrell Tilford,
-ted_cofell,currie_graham,Ted Cofell,Currie Graham,
+ted_cofell,currie_graham,Ted Cofell,Currie Graham,https://www.imdb.com/title/tt0285331/characters/nm0333982
 alex_hewitt,rick_d_wasserman,Alex Hewitt,Rick D. Wasserman,
 william_cole,patrick_fabian,William Cole,Patrick Fabian,
 melissa_rabb,gwendoline_yeo,Melissa Rabb,Gwendoline Yeo,
 vice_president_mitchell_hayworth,cameron_daddo,Vice President Mitchell Hayworth,Cameron Daddo,
-alan_hayes,jesse_d_goins,Alan Hayes,Jesse D. Goins,
+alan_hayes,jesse_d_goins,Alan Hayes,Jesse D. Goins,https://www.imdb.com/title/tt0285331/characters/nm0324795
 ramon_garcia,lombardo_boyar,Ramon Garcia,Lombardo Boyar,
 danny_dessler,louis_ferreira,Danny Dessler,Louis Ferreira,
 scott_evans,andrew_hawkes,Scott Evans,Andrew Hawkes,
@@ -381,11 +381,11 @@ sergeant_cadden,diego_klattenhoff,Sergeant Cadden,Diego Klattenhoff,
 derek_watts,johnathan_mcclain,Derek Watts,Johnathan McClain,
 bob_peluso,don_mcmanus,Bob Peluso,Don McManus,
 nate_burke,jamie_martz,Nate Burke,Jamie Martz,
-bridget,kim_murphy,Bridget,Kim Murphy,
-frank_simes,michael_bryan_french,Frank Simes,Michael Bryan French,
+bridget,kim_murphy,Bridget,Kim Murphy,https://www.imdb.com/title/tt0285331/characters/nm0614448
+frank_simes,michael_bryan_french,Frank Simes,Michael Bryan French,https://www.imdb.com/title/tt0285331/characters/nm0294153
 teddy_hanlin,kirk_baltz,Teddy Hanlin,Kirk Baltz,https://www.imdb.com/title/tt0285331/characters/nm0051257
-tanya,pauley_perrette,Tanya,Pauley Perrette,
-ted_paulson,kevin_ramsey,Ted Paulson,Kevin Ramsey,
+tanya,pauley_perrette,Tanya,Pauley Perrette,https://www.imdb.com/title/tt0285331/characters/nm0005306
+ted_paulson,kevin_ramsey,Ted Paulson,Kevin Ramsey,https://www.imdb.com/title/tt0285331/characters/nm0709021
 susan_cole,jenni_blong,Susan Cole,Jenni Blong,
 dalton_furrelle,david_herman,Dalton Furrelle,David Herman,
 john_reiss,albie_selznick,John Reiss,Albie Selznick,
@@ -400,7 +400,7 @@ rouse,raymond_cruz,Rouse,Raymond Cruz,
 randy_murdoch,val_lauren,Randy Murdoch,Val Lauren,
 jen_slater,roxanne_day,Jen Slater,Roxanne Day,
 gary_klausner,thomas_ryan,Gary Klausner,Thomas Ryan,
-mark_desalvo,lou_diamond_phillips,Mark DeSalvo,Lou Diamond Phillips,
+mark_desalvo,lou_diamond_phillips,Mark DeSalvo,Lou Diamond Phillips,https://www.imdb.com/title/tt0285331/characters/nm0001617
 deputy_sheriff,paco_farias,Deputy Sheriff,Paco Farias,
 sam_singer,ted_marcoux,Sam Singer,Ted Marcoux,
 lapd_officer_1,kevin_mccorkle,LAPD Officer #1,Kevin McCorkle,
@@ -426,13 +426,13 @@ pablo,gonzalo_menendez,Pablo,Gonzalo Menendez,
 ben_landry,scott_lawrence,Ben Landry,Scott Lawrence,
 donnie_fox,maximiliano_hernandez,Donnie Fox,Maximiliano Hernández,
 sid_paulson,william_oleary,Sid Paulson,William O'Leary,
-alan_morgan,david_franco,Alan Morgan,David Franco,
-dj_graves,neal_matarazzo,D.J. Graves,Neal Matarazzo,
+alan_morgan,david_franco,Alan Morgan,David Franco,https://www.imdb.com/title/tt0285331/characters/nm0290529
+dj_graves,neal_matarazzo,D.J. Graves,Neal Matarazzo,https://www.imdb.com/title/tt0285331/characters/nm0558126
 brandon,brandon_barash,Brandon,Brandon Barash,
 field_reporter,bob_decastro,Field Reporter,Bob DeCastro,
 agent_peter,john_griffin,Agent Peter,John Griffin,
 christina_hillinger,marina_black,Christina Hillinger,Marina Black,
-maggie_koernig,sandra_purpuro,Maggie Koernig,Sandra Purpuro,https://www.imdb.com/title/tt0285331/characters/nm0700944
+maggie_koernig,sandra_purpuro,Maggie Koernig,Sandra Purpuro,
 ziya_dakhilov,jon_sklaroff,Ziya Dakhilov,Jon Sklaroff,
 dr_mark_kaylis,michael_bofshever,Dr. Mark Kaylis,Michael Bofshever,
 stan,eric_bruskotter,Stan,Eric Bruskotter,
@@ -530,11 +530,11 @@ james,benjamin_burdick,James,Benjamin Burdick,
 lydia,brittainy_parrett,Lydia,Brittainy Parrett,
 todd,chris_flanders,Todd,Chris Flanders,
 8_year_old_boy,zachary_gordon,8 Year Old Boy,Zachary Gordon,
-robert_ellis,wade_williams,Robert Ellis,Wade Williams,
+robert_ellis,wade_williams,Robert Ellis,Wade Williams,https://www.imdb.com/title/tt0285331/characters/nm0931898
 frank_davies,brent_sexton,Frank Davies,Brent Sexton,
 joe_prado,john_thaddeus,Joe Prado,John Thaddeus,
 polakov,timothy_omundson,Polakov,Timothy Omundson,
-mohsen,aki_avni,Mohsen,Aki Avni,
+mohsen,aki_avni,Mohsen,Aki Avni,https://www.imdb.com/title/tt0285331/characters/nm0043259
 brett,jason_padgett,Brett,Jason Padgett,
 joseph_fayed,adam_aleximalle,Joseph Fayed,Adam Alexi-Malle,
 store_customer,tina_holmes,Store Customer,Tina Holmes,
@@ -564,23 +564,23 @@ don_ashton,denis_arndt,Don Ashton,Denis Arndt,
 mila_luminovic,juliette_marquis,Mila Luminovic,Juliette Marquis,
 dr_george_ferragamo,john_prosky,Dr. George Ferragamo,John Prosky,
 george_avila,kirk_acevedo,George Avila,Kirk Acevedo,
-dana,christina_moore,Dana,Christina Moore,
+dana,christina_moore,Dana,Christina Moore,https://www.imdb.com/title/tt0285331/characters/nm0601041
 gene_mclennen,bill_smitrovich,Gene McLennen,Bill Smitrovich,
 jason_girard,tj_thyne,Jason Girard,T.J. Thyne,
 stan_cotter,richard_gilliland,Stan Cotter,Richard Gilliland,
 attorney_general,dan_ziskie,Attorney General,Dan Ziskie,
 stuart_pressman,chris_kramer,Stuart Pressman,Chris Kramer,
-nikola_luminovic,evgeniy_lazarev,Nikola Luminovic,Evgeniy Lazarev,
+nikola_luminovic,evgeniy_lazarev,Nikola Luminovic,Evgeniy Lazarev,https://www.imdb.com/title/tt0285331/characters/nm0493738
 naseem,michael_benyaer,Naseem,Michael Benyaer,
 david_weiss,evan_handler,David Weiss,Evan Handler,
 marshal_holtzman,john_lacy,Marshal Holtzman,John Lacy,
 hans_meyer,kirk_br_woller,Hans Meyer,Kirk B.R. Woller,
 gabriel_schector,tommy_flanagan,Gabriel Schector,Tommy Flanagan,
 carl_gadsen,connor_trinneer,Carl Gadsen,Connor Trinneer,
-jessie_hampton,yolonda_ross,Jessie Hampton,Yolonda Ross,
-jessica_abrams,jackie_debatin,Jessica Abrams,Jackie Debatin,
+jessie_hampton,yolonda_ross,Jessie Hampton,Yolonda Ross,https://www.imdb.com/title/tt0285331/characters/nm0743931
+jessica_abrams,jackie_debatin,Jessica Abrams,Jackie Debatin,https://www.imdb.com/title/tt0285331/characters/nm0213339
 agent_ron,paul_webster,Agent Ron,Paul Webster,
-lauren_proctor,kathleen_wilhoite,Lauren Proctor,Kathleen Wilhoite,
+lauren_proctor,kathleen_wilhoite,Lauren Proctor,Kathleen Wilhoite,https://www.imdb.com/title/tt0285331/characters/nm0001849
 theresa_ortega,kamala_lopez,Theresa Ortega,Kamala Lopez,
 ali,dariush_kashani,Ali,Dariush Kashani,
 lucy_stiles,nancy_linehan_charles,Lucy Stiles,Nancy Linehan Charles,
@@ -590,7 +590,7 @@ sam,brett_rickaby,Sam,Brett Rickaby,https://www.imdb.com/title/tt0285331/charact
 connell_johnson,jr_bourne,Connell Johnson,JR Bourne,
 patricia_eames,kathryn_gordon,Patricia Eames,Kathryn Gordon,
 agent_winnick,brad_fleischer,Agent Winnick,Brad Fleischer,
-philips,david_barrera,Philips,David Barrera,
+philips,david_barrera,Philips,David Barrera,https://www.imdb.com/title/tt0285331/characters/nm0056876
 susan_collier,kim_miyori,Susan Collier,Kim Miyori,
 serbian_doctor,josip_kuchan,Serbian Doctor,Josip Kuchan,
 kevin_kelly,jack_kehler,Kevin Kelly,Jack Kehler,
@@ -606,7 +606,7 @@ sergei_bazhaevs_attorney,joseph_kamal,Sergei Bazhaev's Attorney,Joseph Kamal,
 erica_vasquez,christine_avila,Erica Vasquez,Christine Avila,
 reporter,yvette_fernandez,Reporter,Yvette Fernandez,
 john_mason,eric_christian_olsen,John Mason,Eric Christian Olsen,
-dr_rose_kent,judith_scott,Dr. Rose Kent,Judith Scott,
+dr_rose_kent,judith_scott,Dr. Rose Kent,Judith Scott,https://www.imdb.com/title/tt0285331/characters/nm0779399
 sgt_amis,victor_rivers,Sgt. Amis,Victor Rivers,
 kathy_mccartney,brigid_brannagh,Kathy McCartney,Brigid Brannagh,
 arthur_rabens,salvator_xuereb,Arthur Rabens,Salvator Xuereb,
@@ -630,7 +630,7 @@ brian,ryan_alosio,Brian,Ryan Alosio,
 john_mazoni,domenick_lombardozzi,John Mazoni,Domenick Lombardozzi,
 frank_haynam,chris_mcgarry,Frank Haynam,Chris McGarry,
 judge_ruffin,jack_shearer,Judge Ruffin,Jack Shearer,
-larry_rogow,keram_malickisanchez,Larry Rogow,Keram Malicki-Sánchez,
+larry_rogow,keram_malickisanchez,Larry Rogow,Keram Malicki-Sánchez,https://www.imdb.com/title/tt0285331/characters/nm0539537
 frank_ames,ivar_brogger,Frank Ames,Ivar Brogger,
 karris,tico_wells,Karris,Tico Wells,
 secret_service_agent,emile_williams,Secret Service Agent,Emile Williams,
@@ -658,14 +658,14 @@ agent_park,tom_choi,Agent Park,Tom Choi,https://www.imdb.com/title/tt0285331/cha
 deputy_attorney_general,robin_thomas,Deputy Attorney General,Robin Thomas,
 nantz,alex_carter,Nantz,Alex Carter,
 kristen_smith,merle_dandridge,Kristen Smith,Merle Dandridge,https://www.imdb.com/title/tt0285331/characters/nm1617568
-officer_imary38,james_macdonald,Officer I-Mary-38,James MacDonald,
+officer_imary38,james_macdonald,Officer I-Mary-38,James MacDonald,https://www.imdb.com/title/tt0285331/characters/nm0531762
 lenny,logan_alexander,Lenny,Logan Alexander,
 karima_naiyeer,yareli_arizmendi,Karima Naiyeer,Yareli Arizmendi,
-henry_martin,andre_canty,Henry Martin,Andre Canty,
+henry_martin,andre_canty,Henry Martin,Andre Canty,https://www.imdb.com/title/tt0285331/characters/nm1186777
 joseph_wald,jon_gries,Joseph Wald,Jon Gries,
 general_gratz,carmen_argenziano,General Gratz,Carmen Argenziano,
 military_officer_1,steven_arthur,Military Officer #1,Steven Arthur,
-agent_gibson,paul_terrell_clayton,Agent Gibson,Paul Terrell Clayton,
+agent_gibson,paul_terrell_clayton,Agent Gibson,Paul Terrell Clayton,https://www.imdb.com/title/tt0285331/characters/nm0165760
 anna,susan_gibney,Anna,Susan Gibney,
 angry_man,michael_jannetta,Angry Man,Michael Jannetta,
 steve_hillenburg,michael_mantell,Steve Hillenburg,Michael Mantell,
@@ -695,15 +695,15 @@ general_vincent,rocky_mcmurray,General Vincent,Rocky McMurray,
 fbi_policeman_1,christopher_michael,FBI Policeman #1,Christopher Michael,
 carol_vossler,jacqueline_pinol,Carol Vossler,Jacqueline Pinol,
 captain_walleki,joe_sabatino,Captain Walleki,Joe Sabatino,
-scott_baylor,scott_denny,Scott Baylor,Scott Denny,
-claude_davenport,todd_jeffries,Claude Davenport,Todd Jeffries,
+scott_baylor,scott_denny,Scott Baylor,Scott Denny,https://www.imdb.com/title/tt0285331/characters/nm0219673
+claude_davenport,todd_jeffries,Claude Davenport,Todd Jeffries,https://www.imdb.com/title/tt0285331/characters/nm0420408
 agent_bundy,ricardo_chavira,Agent Bundy,Ricardo Chavira,
 hassan_naiyeer,shaun_duke,Hassan Naiyeer,Shaun Duke,
 newman,randy_j_goodwin,Newman,Randy J. Goodwin,
 field_reporter,jane_yamamoto,Field Reporter,Jane Yamamoto,
 female_reporter,claudia_difolco,Female Reporter,Claudia DiFolco,
 deputy_prime_minister_barghouti,christopher_maher,Deputy Prime Minister Barghouti,Christopher Maher,
-male_driver,james_aaron_oliver,Male Driver,James Aaron Oliver,
+male_driver,james_aaron_oliver,Male Driver,James Aaron Oliver,https://www.imdb.com/title/tt0285331/characters/nm1064550
 ranger_mike_kramer,miguel_perez,Ranger Mike Kramer,Miguel Pérez,
 foreman,michael_james_reed,Foreman,Michael James Reed,
 peel,lobo_sebastian,Peel,Lobo Sebastian,https://www.imdb.com/title/tt0285331/characters/nm0780957
@@ -741,19 +741,19 @@ linda_gadsen,meredith_salenger,Linda Gadsen,Meredith Salenger,
 commando_1,john_antonini,Commando #1,John Antonini,
 phil_holden,john_eric_bentley,Phil Holden,John Eric Bentley,
 gerrard,charlie_bodin,Gerrard,Charlie Bodin,
-sergeant_kiley,john_cothran,Sergeant Kiley,John Cothran,
+sergeant_kiley,john_cothran,Sergeant Kiley,John Cothran,https://www.imdb.com/title/tt0285331/characters/nm0182824
 vincent,gary_murphy,Vincent,Gary Murphy,
 ben,chuck_walczak,Ben,Chuck Walczak,
 agent_holmes,mina_badie,Agent Holmes,Mina Badie,
-bus_stop_man,mark_clayman,Bus Stop Man,Mark Clayman,
-charles_mclemore,jesse_corti,Charles McLemore,Jesse Corti,
+bus_stop_man,mark_clayman,Bus Stop Man,Mark Clayman,https://www.imdb.com/title/tt0285331/characters/nm0165623
+charles_mclemore,jesse_corti,Charles McLemore,Jesse Corti,https://www.imdb.com/title/tt0285331/characters/nm0181425
 fire_marshal,richard_gross,Fire Marshal,Richard Gross,
 cam_strocker,antonio_david_lyons,Cam Strocker,Antonio David Lyons,
 dockerty,christopher_murray,Dockerty,Christopher Murray,https://www.imdb.com/title/tt0285331/characters/nm0614887
 anna,talitha_peters,Anna,Talitha Peters,
 dave,gregory_sporleder,Dave,Gregory Sporleder,
 first_waiter,john_tague,First Waiter,John Tague,
-nancy,tracy_e_wilson,Nancy,Tracy E. Wilson,
+nancy,tracy_e_wilson,Nancy,Tracy E. Wilson,https://www.imdb.com/title/tt0285331/characters/nm1222388
 colonel_lamb,edward_edwards,Colonel Lamb,Edward Edwards,
 male_reporter,rick_lozano,Male Reporter,Rick Lozano,
 trap_door_agent,dane_northcutt,Trap Door Agent,Dane Northcutt,
@@ -803,9 +803,9 @@ agent_trask,joseph_will,Agent Trask,Joseph Will,
 bellow,john_t_woods,Bellow,John T. Woods,https://www.imdb.com/title/tt0285331/characters/nm1555255
 nurse,norma_maldonado,Nurse,Norma Maldonado,
 victor_rovner,jeff_ricketts,Victor Rovner,Jeff Ricketts,
-kid,desmond_bull,Kid,Desmond Bull,
+kid,desmond_bull,Kid,Desmond Bull,https://www.imdb.com/title/tt0285331/characters/nm1133587
 phil,steve_oconnor,Phil,Steve O'Connor,
-jared,ron_rogge,Jared,Ron Roggé,
+jared,ron_rogge,Jared,Ron Roggé,https://www.imdb.com/title/tt0285331/characters/nm0737318
 prime_minister,michael_saad,Prime Minister,Michael Saad,
 fareed_ali,ike_bram,Fareed Ali,Ike Bram,
 nurse_clara,misty_carlisle,Nurse Clara,Misty Carlisle,
@@ -854,7 +854,7 @@ suvarovs_aide,adam_tsekhman,Suvarov's Aide,Adam Tsekhman,
 rocco,steph_duvall,Rocco,Steph DuVall,
 flight_attendant,petra_wright,Flight Attendant,Petra Wright,
 mina,esther_chae,Mina,Esther Chae,
-craig,noel_gugliemi,Craig,Noel Gugliemi,
+craig,noel_gugliemi,Craig,Noel Gugliemi,https://www.imdb.com/title/tt0285331/characters/nm0346595
 lewis,martin_morales,Lewis,Martin Morales,
 military_official,david_ursin,Military Official,David Ursin,
 news_reporter,daphne_bloomer,News Reporter,Daphne Bloomer,
@@ -894,14 +894,14 @@ ctu_worker,kevin_kelly,CTU Worker,Kevin Kelly,
 soldier_3,inna_korobkina,Soldier #3,Inna Korobkina,
 davros_sniper,cliff_simon,Davros' Sniper,Cliff Simon,
 female_reporter,nayo_wallace,Female Reporter,Nayo Wallace,
-teenager_1,marcus_brown,Teenager #1,Marcus Brown,
+teenager_1,marcus_brown,Teenager #1,Marcus Brown,https://www.imdb.com/title/tt0285331/characters/nm0114175
 anesthesiologist,ariel_felix,Anesthesiologist,Ariel Felix,
 flight_attendant,karen_kim,Flight Attendant,Karen Kim,
-douglas_newman,tony_perez,Douglas Newman,Tony Perez,
+douglas_newman,tony_perez,Douglas Newman,Tony Perez,https://www.imdb.com/title/tt0285331/characters/nm0673637
 agent_rosser,billy_mayo,Agent Rosser,Billy Mayo,
 cop,manny_perry,Cop,Manny Perry,
 female_worker,shirin_sharif,Female Worker,Shirin Sharif,
-chris,jason_matthew_smith,Chris,Jason Matthew Smith,
+chris,jason_matthew_smith,Chris,Jason Matthew Smith,https://www.imdb.com/title/tt0285331/characters/nm0808843
 lyons,gwen_stewart,Lyons,Gwen Stewart,
 district_medic,josh_clark,District Medic,Josh Clark,
 asad_ali,raja_fenske,Asad Ali,Raja Fenske,
@@ -940,9 +940,9 @@ phillips,james_jordan,Phillips,James Jordan,
 general_wasim,bashar_rahal,General Wasim,Bashar Rahal,
 ruth_scott,becky_wahlstrom,Ruth Scott,Becky Wahlstrom,
 surgical_nurse,linda_klein,Surgical Nurse,Linda Klein,
-receptionist,sharon_madden,Receptionist,Sharon Madden,
+receptionist,sharon_madden,Receptionist,Sharon Madden,https://www.imdb.com/title/tt0285331/characters/nm0534642
 field_reporter,john_sterling_carter,Field Reporter,John Sterling Carter,
-bob_jorgensen,lewis_dauber,Bob Jorgensen,Lewis Dauber,
+bob_jorgensen,lewis_dauber,Bob Jorgensen,Lewis Dauber,https://www.imdb.com/title/tt0285331/characters/nm0202228
 security_guard,maurice_dunster,Security Guard,Maurice Dunster,
 nurse,michelle_anne_johnson,Nurse,Michelle Anne Johnson,
 reporter,lisa_joyner,Reporter,Lisa Joyner,
@@ -990,13 +990,13 @@ police_officer,david_j_odonnell,Police Officer,David J. O'Donnell,
 teshon,sam_sarpong,Teshon,Sam Sarpong,
 arabic_girl,talin_silva,Arabic Girl,Talin Silva,
 father_gregor,matthew_wolf,Father Gregor,Matthew Wolf,
-woman,kathy_byron,Woman,Kathy Byron,
-dr_kinnard,james_healy_jr,Dr. Kinnard,James Healy Jr.,
+woman,kathy_byron,Woman,Kathy Byron,https://www.imdb.com/title/tt0285331/characters/nm1483928
+dr_kinnard,james_healy_jr,Dr. Kinnard,James Healy Jr.,https://www.imdb.com/title/tt0285331/characters/nm0372289
 colonel_ted_graham,ra_buck,Colonel Ted Graham,R.A. Buck,
 rick,brad_grunberg,Rick,Brad Grunberg,
 lapd_officer,benjamin_koldyke,LAPD Officer,Benjamin Koldyke,
 security_guard,marty_ryan,Security Guard,Marty Ryan,
-mark,burke_stuart,Mark,Burke Stuart,
+mark,burke_stuart,Mark,Burke Stuart,https://www.imdb.com/title/tt0285331/characters/nm1484288
 chuck,mark_arnott,Chuck,Mark Arnott,
 officer_brooks,henry_leblanc,Officer Brooks,Henry LeBlanc,
 virologist,keith_mackechnie,Virologist,Keith MacKechnie,
@@ -1030,11 +1030,11 @@ ivan,michael_petrone,Ivan,Michael Petrone,
 agent_swofford,tripp_pickell,Agent Swofford,Tripp Pickell,
 woman,tania_verafield,Woman,Tania Verafield,
 ctu_swat_sniper,jerald_vincent,CTU SWAT Sniper,Jerald Vincent,
-secret_service_agent,mike_siegel,Secret Service Agent,Mike Siegel,
+secret_service_agent,mike_siegel,Secret Service Agent,Mike Siegel,https://www.imdb.com/title/tt0285331/characters/nm0796987
 jason_park,boyuen,Jason Park,Boyuen,
 doug_sloan,stan_carlson,Doug Sloan,Stan Carlson,
 secret_service_agent,michael_nagy,Secret Service Agent,Michael Nagy,
-sams_partner,mariah_pasos,Sam's Partner,Mariah Pasos,
+sams_partner,mariah_pasos,Sam's Partner,Mariah Pasos,https://www.imdb.com/title/tt0285331/characters/nm1484206
 mall_security_guard,michael_g_canaan,Mall Security Guard,Michael G. Canaan,
 salazar_guard,frank_alvarez,Salazar Guard,Frank Alvarez,
 sam_tyler,sean_smith,Sam Tyler,Sean Smith,
@@ -1056,7 +1056,7 @@ robert,richard_roat,Robert,Richard Roat,
 oniel,jim_staples,O'Niel,Jim Staples,
 nypd_patrolman,chris_caldovino,NYPD Patrolman,Chris Caldovino,
 rabinowitz,robert_dolan,Rabinowitz,Robert Dolan,
-abbott,nynno_ahli,Abbott,Nynno Ahli,
+abbott,nynno_ahli,Abbott,Nynno Ahli,https://www.imdb.com/title/tt0285331/characters/nm0014023
 janitor,jose_vasquez,Janitor,Jose Vasquez,
 marshall_goren,carl_ciarfalio,Marshall Goren,Carl Ciarfalio,
 hazmat_paramedic,max_delgado,Hazmat Paramedic,Max Delgado,
@@ -1104,7 +1104,6 @@ assads_man,herzl_tobey,Assad's Man,Herzl Tobey,
 fbi_agent_2,anthony_desantis,FBI Agent #2,Anthony DeSantis,
 attorney_2,daver_morrison,Attorney #2,Daver Morrison,
 irk_aide,sashi_bommakanty,IRK Aide,Sashi Bommakanty,
-emt,scott_ferrara,EMT,Scott Ferrara,
 emt,scott_ferrara,EMT,Scott Ferrara,
 dr_joyner,george_alan,Dr. Joyner,George Alan,
 lieutenant_colonel,michael_broderick,Lieutenant Colonel,Michael Broderick,
@@ -1154,7 +1153,7 @@ agent_boorman,alton_demore,Agent Boorman,Alton Demore,
 fbi_agent_2,brian_waller,FBI Agent #2,Brian Waller,
 secret_service_agent,bruce_holman,Secret Service Agent,Bruce Holman,
 2_separate_ctu_staffers,tony_donno,2 Separate CTU Staffers,Tony Donno,
-lucy,melanee_murray,Lucy,Melanee Murray,
+lucy,melanee_murray,Lucy,Melanee Murray,https://www.imdb.com/title/tt0285331/characters/nm0615171
 fbi_helicopter_gunner,jj_perry,FBI Helicopter Gunner,J.J. Perry,
 fbi_swat_agent,erik_stabenau,FBI SWAT Agent,Erik Stabenau,
 nest_tech_3,john_dalton,N.E.S.T. Tech #3,John Dalton,
@@ -1173,7 +1172,7 @@ ctu_office_worker,kristina_sutton_salazar,CTU Office Worker,Kristina Sutton Sala
 officer_barber,kevin_beard,Officer Barber,Kevin Beard,
 ctu_staffer,william_h_burton_jr,CTU Staffer,William H. Burton Jr.,
 band_member,sean_callery,Band Member,Sean Callery,
-principal,jenny_gago,Principal,Jenny Gago,
+principal,jenny_gago,Principal,Jenny Gago,https://www.imdb.com/title/tt0285331/characters/nm0301083
 ctu_employee,julie_marie_hassett,CTU Employee,Julie Marie Hassett,
 ralph_rosen,robert_scott_kyker,Ralph Rosen,Robert Scott Kyker,
 ctu_staffer,angela_meryl,CTU Staffer,Angela Meryl,

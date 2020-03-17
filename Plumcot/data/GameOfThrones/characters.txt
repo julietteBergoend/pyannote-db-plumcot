@@ -303,7 +303,7 @@ leo_lefford,vinnie_mccabe,Leo Lefford,Vinnie McCabe,
 ironborn_2,robert_render,Ironborn #2,Robert Render,
 brother_ray,ian_mcshane,Brother Ray,Ian McShane,https://www.imdb.com/title/tt0944947/characters/nm0574534
 nora,laura_elphinstone,Nora,Laura Elphinstone,
-kings_landing_citizen,alexis_raben,King's Landing Citizen,Alexis Raben,
+xela,alexis_raben,Xela,Alexis Raben,
 lannister_soldier,matthew_wolf,Lannister Soldier,Matthew Wolf,
 karsi,birgitte_hjort_sorensen,Karsi,Birgitte Hjort Sørensen,https://www.imdb.com/title/tt0944947/characters/nm2171898
 noras_daughter,tipper_seifertcleveland,Nora's Daughter,Tipper Seifert-Cleveland,
@@ -319,10 +319,10 @@ imry_florent,gordon_mahon,Imry Florent,Gordon Mahon,https://www.imdb.com/title/t
 captain_of_the_bolton_archers,rory_mullen,Captain of the Bolton Archers,Rory Mullen,
 koner,joseph_quinn,Koner,Joseph Quinn,
 ironborn_lord,noel_harron,Ironborn Lord,Noel Harron,
-young_woman,mairi_hawthorn,Young Woman,Mairi Hawthorn,
+young_woman,rori_hawthorn,Young Woman,Rori Hawthorn,
 mandon_moore,james_doran,Mandon Moore,James Doran,https://www.imdb.com/title/tt0944947/characters/nm0243696
 bolton_general,mark_tankersley,Bolton General,Mark Tankersley,
-lannister_soldier,oliver_devoti,Lannister Soldier,Oliver Devoti,
+northerner_in_alley,oliver_devoti,Northerner in Alley,Oliver Devoti,
 dornish_prince,toby_osmond,Dornish Prince,Toby Osmond,
 jhiqui,sarita_piotrowski,Jhiqui,Sarita Piotrowski,https://www.imdb.com/title/tt0944947/characters/nm4424689
 baratheon_officer,kieran_cunningham,Baratheon Officer,Kieran Cunningham,
@@ -380,7 +380,7 @@ slaver,michael_yare,Slaver,Michael Yare,
 bear_island_maester,louis_rolston,Bear Island Maester,Louis Rolston,
 rhaegar_targaryen,wilf_scolding,Rhaegar Targaryen,Wilf Scolding,https://www.imdb.com/title/tt0944947/characters/nm6251140
 fergus_friend,thomas_finnegan,Fergus' Friend,Thomas Finnegan,
-sarra,danielle_galligan,Sarra,Danielle Galligan,
+sarra,danielle_galligan,Sarra,Danielle Galligan,https://www.imdb.com/title/tt0944947/characters/nm8442705
 lannister_soldier,brian_patrick_kennedy,Lannister Soldier,Brian Patrick Kennedy,
 villager_1,lorcan_strain,Villager 1,Lorcan Strain,
 wine_merchant,simon_lowe,Wine Merchant,Simon Lowe,https://www.imdb.com/title/tt0944947/characters/nm0523047
@@ -545,7 +545,7 @@ farmer_hamlet,finbar_lynch,Farmer Hamlet,Finbar Lynch,
 mully,andy_moore,Mully,Andy Moore,
 tyrell_guard,nikola_bace,Tyrell Guard,Nikola Bace,
 sellsword_2,eddie_elks,Sellsword #2,Eddie Elks,
-lannister_guard_1,danny_oconner,Lannister Guard #1,Danny O'Conner,
+lannister_guard_1,danny_oconnor,Lannister Guard #1,Danny O'Connor,
 lead_kingsguard,paddy_wallace,Lead Kingsguard,Paddy Wallace,
 arthur_dayne,luke_roberts,Arthur Dayne,Luke Roberts,https://www.imdb.com/title/tt0944947/characters/nm1074361
 frey_lord,brendan_morrissey,Frey Lord,Brendan Morrissey,
@@ -684,13 +684,14 @@ brotherhood_member,tyrone_kearns,Brotherhood Member,Tyrone Kearns,https://www.im
 knight_of_the_vale,micheal_fitzgerald,Knight of the Vale,Micheal Fitzgerald,https://www.imdb.com/title/tt0944947/characters/nm4232488
 unsullied,stephen_presley,Unsullied,Stephen Presley,
 unsullied,andrew_watson,Unsullied,Andrew Watson,
+northern_lord,robert_brown,Northern Lord,Robert Brown,
 knight,frederic_andre,Knight,Frédéric André,
 crasters_wife,kristy_robinson,Craster's Wife,Kristy Robinson,
+wildling,jessica_odell,Wildling,Jessica Odell,
 stark_archer,patrick_kelly,Stark Archer,Patrick Kelly,
 kings_landing_nobleman,frank_cannon,King's Landing Nobleman,Frank Cannon,
 dothraki_woman,mariola_sanz,Dothraki woman,Mariola Sanz,
 meereen_guard,juan_carlos_martinez_antuna,Meereen Guard,Juan Carlos Martínez Antuña,
-dothraki_rider,spencer_collings,Dothraki Rider,Spencer Collings,
 unsullied_soldier,jaryd_headley,Unsullied Soldier,Jaryd Headley,
 lord_galbart_glover,mark_coney,Lord Galbart Glover,Mark Coney,
 mikken,boyd_rankin,Mikken,Boyd Rankin,
@@ -713,6 +714,7 @@ braavosi_theatre_sound_artist,kiran_shah,Braavosi Theatre Sound Artist,Kiran Sha
 meereen_guard,hugh_yeaman,Meereen Guard,Hugh Yeaman,
 captured_wight,michael_byrch,Captured Wight,Michael Byrch,
 lady_of_winterfell,canan_avsar,Lady of Winterfell,Canan Avsar,
+dothraki_rider,spencer_collings,Dothraki Rider,Spencer Collings,
 baratheon_guard,phil_barnhill,Baratheon Guard,Phil Barnhill,
 prostitute,caroline_davis,Prostitute,Caroline Davis,
 winterfell_beekeeper,owen_dickey,Winterfell Beekeeper,Owen Dickey,
@@ -763,6 +765,7 @@ wildling,bill_kelliher,Wildling,Bill Kelliher,https://www.imdb.com/title/tt09449
 nights_watch_recruit,christopher_kinkead,Night's Watch Recruit,Christopher Kinkead,
 wildling_archer,chelsea_mainwaring,Wildling Archer,Chelsea Mainwaring,https://www.imdb.com/title/tt0944947/characters/nm9314541
 wight,barrie_martin,Wight,Barrie Martin,
+wildling,elaine_odwyer,Wildling,Elaine O'Dwyer,
 wildling,royd_tolkien,Wildling,Royd Tolkien,
 passerby,kerim_topcic,Passerby,Kerim Topcic,
 unsullied_guard,pablo_verdejo,Unsullied Guard,Pablo Verdejo,
@@ -779,6 +782,7 @@ volantene_whore,sophia_smith,Volantene Whore,Sophia Smith,
 healtor_troop,gary_wales,Healtor Troop,Gary Wales,
 howland_reed,leo_woodruff,Howland Reed,Leo Woodruff,https://www.imdb.com/title/tt0944947/characters/nm4547262
 dothraki_rider,charlie_barrett,Dothraki Rider,Charlie Barrett,
+traveller,dario_cannizzaro,Traveller,Dario Cannizzaro,
 woman_in_kings_landing,carolina_castellano,Woman in King's Landing,Carolina Castellano,https://www.imdb.com/title/tt0944947/characters/nm3083406
 wildling,dan_euston,Wildling,Dan Euston,
 lannister_guard,christian_gimse,Lannister Guard,Christian Gimse,
@@ -792,9 +796,11 @@ unsullied,louis_agbodo,Unsullied,Louis Agbodo,
 kings_landing_citizen,lorenzo_antonucci,King's Landing Citizen,Lorenzo Antonucci,
 wildling_2,david_benioff,Wildling #2,David Benioff,https://www.imdb.com/title/tt0944947/characters/nm1125275
 lannister_archer,brian_black,Lannister Archer,Brian Black,
-alanna,kim_chapman,Alanna,Kim Chapman,https://www.imdb.com/title/tt0944947/characters/nm4735890
+alanna,kim_chapman,Alanna,Kim Chapman,https://www.imdb.com/title/tt0944947/characters/nm3884872
+soldier,sophie_ellisbextor,Soldier,Sophie Ellis-Bextor,
 ironborn_3,dave_hill,Ironborn #3,Dave Hill,
 wight,jack_hudson,Wight,Jack Hudson,
+soldier,richard_jones,Soldier,Richard Jones,
 ironborn_1,rob_mcelhenney,Ironborn #1,Rob McElhenney,https://www.imdb.com/title/tt0944947/characters/nm0568390
 kings_landing_citizen,patrick_mcgilligan,King's Landing Citizen,Patrick McGilligan,
 stark_guard,jesse_morris,Stark Guard,Jesse Morris,

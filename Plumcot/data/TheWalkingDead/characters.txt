@@ -4,8 +4,8 @@ michonne,danai_gurira,Michonne,Danai Gurira,https://www.imdb.com/title/tt1520211
 rick_grimes,andrew_lincoln,Rick Grimes,Andrew Lincoln,https://www.imdb.com/title/tt1520211/characters/nm0511088
 maggie_greene,lauren_cohan,Maggie Greene,Lauren Cohan,https://www.imdb.com/title/tt1520211/characters/nm1659348
 carl_grimes,chandler_riggs,Carl Grimes,Chandler Riggs,https://www.imdb.com/title/tt1520211/characters/nm3385128
-rosita_espinosa,christian_serratos,Rosita Espinosa,Christian Serratos,https://www.imdb.com/title/tt1520211/characters/nm1589312
 eugene_porter,josh_mcdermitt,Eugene Porter,Josh McDermitt,https://www.imdb.com/title/tt1520211/characters/nm3129311
+rosita_espinosa,christian_serratos,Rosita Espinosa,Christian Serratos,https://www.imdb.com/title/tt1520211/characters/nm1589312
 gabriel_stokes,seth_gilliam,Gabriel Stokes,Seth Gilliam,https://www.imdb.com/title/tt1520211/characters/nm0319121
 tara_chambler,alanna_masterson,Tara Chambler,Alanna Masterson,https://www.imdb.com/title/tt1520211/characters/nm1315153
 aaron,ross_marquand,Aaron,Ross Marquand,https://www.imdb.com/title/tt1520211/characters/nm2739851
@@ -13,98 +13,99 @@ glenn_rhee,steven_yeun,Glenn Rhee,Steven Yeun,https://www.imdb.com/title/tt15202
 sasha_williams,sonequa_martingreen,Sasha Williams,Sonequa Martin-Green,https://www.imdb.com/title/tt1520211/characters/nm2792296
 negan,jeffrey_dean_morgan,Negan,Jeffrey Dean Morgan,https://www.imdb.com/title/tt1520211/characters/nm0604742
 morgan_jones,lennie_james,Morgan Jones,Lennie James,https://www.imdb.com/title/tt1520211/characters/nm0416694
-beth_greene,emily_kinney,Beth Greene,Emily Kinney,https://www.imdb.com/title/tt1520211/characters/nm2782162
 ezekiel,khary_payton,Ezekiel,Khary Payton,https://www.imdb.com/title/tt1520211/characters/nm1146051
+beth_greene,emily_kinney,Beth Greene,Emily Kinney,https://www.imdb.com/title/tt1520211/characters/nm2782162
 enid,katelyn_nacon,Enid,Katelyn Nacon,https://www.imdb.com/title/tt1520211/characters/nm5393649
-paul_rovia,tom_payne,Paul 'Jesus' Rovia,Tom Payne,https://www.imdb.com/title/tt1520211/characters/nm2092835
 jerry,cooper_andrews,Jerry,Cooper Andrews,https://www.imdb.com/title/tt1520211/characters/nm2415276
+paul_rovia,tom_payne,Paul 'Jesus' Rovia,Tom Payne,https://www.imdb.com/title/tt1520211/characters/nm2092835
+alden,callan_mcauliffe,Alden,Callan McAuliffe,https://www.imdb.com/title/tt1520211/characters/nm2786608
 abraham_ford,michael_cudlitz,Abraham Ford,Michael Cudlitz,https://www.imdb.com/title/tt1520211/characters/nm0191044
 hershel_greene,scott_wilson,Hershel Greene,Scott Wilson,https://www.imdb.com/title/tt1520211/characters/nm0934113
-alden,callan_mcauliffe,Alden,Callan McAuliffe,https://www.imdb.com/title/tt1520211/characters/nm2786608
-siddiq,avi_nash,Siddiq,Avi Nash,https://www.imdb.com/title/tt1520211/characters/nm5696980
 lori_grimes,sarah_wayne_callies,Lori Grimes,Sarah Wayne Callies,https://www.imdb.com/title/tt1520211/characters/nm0915637
 dwight,austin_amelio,Dwight,Austin Amelio,https://www.imdb.com/title/tt1520211/characters/nm3994184
 andrea_harrison,laurie_holden,Andrea Harrison,Laurie Holden,https://www.imdb.com/title/tt1520211/characters/nm0390229
 gregory,xander_berkeley,Gregory,Xander Berkeley,https://www.imdb.com/title/tt1520211/characters/nm0075359
+siddiq,avi_nash,Siddiq,Avi Nash,https://www.imdb.com/title/tt1520211/characters/nm5696980
 tyreese_williams,chad_l_coleman,Tyreese Williams,Chad L. Coleman,https://www.imdb.com/title/tt1520211/characters/nm0170968
+dianne,kerry_cahill,Dianne,Kerry Cahill,https://www.imdb.com/title/tt1520211/characters/nm2684369
+yumiko,eleanor_matsuura,Yumiko,Eleanor Matsuura,https://www.imdb.com/title/tt1520211/characters/nm1915282
 spencer_monroe,austin_nichols,Spencer Monroe,Austin Nichols,https://www.imdb.com/title/tt1520211/characters/nm0629538
 magna,nadia_hilker,Magna,Nadia Hilker,https://www.imdb.com/title/tt1520211/characters/nm3758734
 tobin,jason_douglas,Tobin,Jason Douglas,https://www.imdb.com/title/tt1520211/characters/nm0235103
-dianne,kerry_cahill,Dianne,Kerry Cahill,https://www.imdb.com/title/tt1520211/characters/nm2684369
-yumiko,eleanor_matsuura,Yumiko,Eleanor Matsuura,https://www.imdb.com/title/tt1520211/characters/nm1915282
-jadis,pollyanna_mcintosh,Jadis,Pollyanna McIntosh,https://www.imdb.com/title/tt1520211/characters/nm1717573
-alpha,samantha_morton,Alpha,Samantha Morton,https://www.imdb.com/title/tt1520211/characters/nm0608090
 scott,kenric_green,Scott,Kenric Green,https://www.imdb.com/title/tt1520211/characters/nm3320623
-judith_grimes,chloe_garciafrizzi,Judith Grimes,Chloe Garcia-Frizzi,https://www.imdb.com/title/tt1520211/characters/nm8603597
-lydia,cassady_mcclincy,Lydia,Cassady McClincy,https://www.imdb.com/title/tt1520211/characters/nm4198889
 connie,lauren_ridloff,Connie,Lauren Ridloff,https://www.imdb.com/title/tt1520211/characters/nm4248765
+alpha,samantha_morton,Alpha,Samantha Morton,https://www.imdb.com/title/tt1520211/characters/nm0608090
+jadis,pollyanna_mcintosh,Jadis,Pollyanna McIntosh,https://www.imdb.com/title/tt1520211/characters/nm1717573
+lydia,cassady_mcclincy,Lydia,Cassady McClincy,https://www.imdb.com/title/tt1520211/characters/nm4198889
+judith_grimes,cailey_fleming,Judith Grimes,Cailey Fleming,https://www.imdb.com/title/tt1520211/characters/nm7282126
+judith_grimes,chloe_garciafrizzi,Judith Grimes,Chloe Garcia-Frizzi,https://www.imdb.com/title/tt1520211/characters/nm8603597
 shane_walsh,jon_bernthal,Shane Walsh,Jon Bernthal,https://www.imdb.com/title/tt1520211/characters/nm1256532
 simon,steven_ogg,Simon,Steven Ogg,https://www.imdb.com/title/tt1520211/characters/nm1476804
 philip_blake,david_morrissey,Philip 'The Governor' Blake,David Morrissey,https://www.imdb.com/title/tt1520211/characters/nm0607375
+beta,ryan_hurst,Beta,Ryan Hurst,https://www.imdb.com/title/tt1520211/characters/nm0403652
 theodore_douglas,irone_singleton,Theodore 'T-Dog' Douglas,Irone Singleton,https://www.imdb.com/title/tt1520211/characters/nm1533036
 bob_stookey,lawrence_gilliard_jr,Bob Stookey,Lawrence Gilliard Jr.,https://www.imdb.com/title/tt1520211/characters/nm0319142
+laura,lindsley_register,Laura,Lindsley Register,https://www.imdb.com/title/tt1520211/characters/nm5855489
 dale_horvath,jeffrey_demunn,Dale Horvath,Jeffrey DeMunn,https://www.imdb.com/title/tt1520211/characters/nm0218810
 kal,james_chen,Kal,James Chen,https://www.imdb.com/title/tt1520211/characters/nm1429853
-beta,ryan_hurst,Beta,Ryan Hurst,https://www.imdb.com/title/tt1520211/characters/nm0403652
-judith_grimes,cailey_fleming,Judith Grimes,Cailey Fleming,https://www.imdb.com/title/tt1520211/characters/nm7282126
-merle_dixon,michael_rooker,Merle Dixon,Michael Rooker,https://www.imdb.com/title/tt1520211/characters/nm0740264
-laura,lindsley_register,Laura,Lindsley Register,https://www.imdb.com/title/tt1520211/characters/nm5855489
-barbara,mandi_christine_kerr,Barbara,Mandi Christine Kerr,https://www.imdb.com/title/tt1520211/characters/nm4760840
-eric,jordan_woodsrobinson,Eric,Jordan Woods-Robinson,https://www.imdb.com/title/tt1520211/characters/nm3336310
 nabila,nadine_marissa,Nabila,Nadine Marissa,https://www.imdb.com/title/tt1520211/characters/nm5802417
+barbara,mandi_christine_kerr,Barbara,Mandi Christine Kerr,https://www.imdb.com/title/tt1520211/characters/nm4760840
+merle_dixon,michael_rooker,Merle Dixon,Michael Rooker,https://www.imdb.com/title/tt1520211/characters/nm0740264
+luke,dan_fogler,Luke,Dan Fogler,https://www.imdb.com/title/tt1520211/characters/nm0283945
+eric,jordan_woodsrobinson,Eric,Jordan Woods-Robinson,https://www.imdb.com/title/tt1520211/characters/nm3336310
+kelly,angel_theory,Kelly,Angel Theory,https://www.imdb.com/title/tt1520211/characters/nm10212119
 eduardo,peter_luis_zimmerman,Eduardo,Peter Luis Zimmerman,https://www.imdb.com/title/tt1520211/characters/nm3622307
 dj,matt_mangum,D.J.,Matt Mangum,https://www.imdb.com/title/tt1520211/characters/nm1035704
-distillery_owner,quandae_stewart,Distillery Owner,Quandae Stewart,https://www.imdb.com/title/tt1520211/characters/nm8666592
 jessie_anderson,alexandra_breckenridge,Jessie Anderson,Alexandra Breckenridge,https://www.imdb.com/title/tt1520211/characters/nm1020036
 deanna_monroe,tovah_feldshuh,Deanna Monroe,Tovah Feldshuh,https://www.imdb.com/title/tt1520211/characters/nm0271165
-caesar_martinez,jose_pablo_cantillo,Caesar Martinez,Jose Pablo Cantillo,https://www.imdb.com/title/tt1520211/characters/nm1504678
 oscar,anthony_michael_lopez,Oscar,Anthony Michael Lopez,https://www.imdb.com/title/tt1520211/characters/nm7692696
+militia,maria_z_wilson,Militia,Maria Z. Wilson,
+caesar_martinez,jose_pablo_cantillo,Caesar Martinez,Jose Pablo Cantillo,https://www.imdb.com/title/tt1520211/characters/nm1504678
+cyndie,sydney_park,Cyndie,Sydney Park,https://www.imdb.com/title/tt1520211/characters/nm2193008
+gamma,thora_birch,Gamma,Thora Birch,https://www.imdb.com/title/tt1520211/characters/nm0000301
 olivia,ann_mahoney,Olivia,Ann Mahoney,https://www.imdb.com/title/tt1520211/characters/nm1736710
+bertie,karen_ceesay,Bertie,Karen Ceesay,https://www.imdb.com/title/tt1520211/characters/nm1957798
 francine,dahlia_legault,Francine,Dahlia Legault,https://www.imdb.com/title/tt1520211/characters/nm1573029
 gary,mike_seal,Gary,Mike Seal,https://www.imdb.com/title/tt1520211/characters/nm2608171
 regina,thunderbird_dinwiddie,Regina,Thunderbird Dinwiddie,https://www.imdb.com/title/tt1520211/characters/nm0227867
-kelly,angel_theory,Kelly,Angel Theory,https://www.imdb.com/title/tt1520211/characters/nm10212119
 bowman,travis_love,Bowman,Travis Love,
 patricia,jane_mcneill,Patricia,Jane McNeill,https://www.imdb.com/title/tt1520211/characters/nm4435266
-cyndie,sydney_park,Cyndie,Sydney Park,https://www.imdb.com/title/tt1520211/characters/nm2193008
+earl_sutton,john_finn,Earl Sutton,John Finn,https://www.imdb.com/title/tt1520211/characters/nm0278125
 henry,matt_lintz,Henry,Matt Lintz,https://www.imdb.com/title/tt1520211/characters/nm3292692
 jimmy,james_allen_mccune,Jimmy,James Allen McCune,https://www.imdb.com/title/tt1520211/characters/nm4372483
 arat,elizabeth_faith_ludlow,Arat,Elizabeth Faith Ludlow,https://www.imdb.com/title/tt1520211/characters/nm6018082
-bertie,karen_ceesay,Bertie,Karen Ceesay,https://www.imdb.com/title/tt1520211/characters/nm1957798
 henry,macsen_lintz,Henry,Macsen Lintz,https://www.imdb.com/title/tt1520211/characters/nm3978751
+rj,antony_azor,RJ,Antony Azor,https://www.imdb.com/title/tt1520211/characters/nm10253055
 jared,joshua_mikel,Jared,Joshua Mikel,https://www.imdb.com/title/tt1520211/characters/nm2282254
 bruce,ted_huckabee,Bruce,Ted Huckabee,https://www.imdb.com/title/tt1520211/characters/nm1126197
 kent,david_silverman,Kent,David Silverman,https://www.imdb.com/title/tt1520211/characters/nm2603498
-hilltop_survivor,maria_z_wilson,Hilltop Survivor,Maria Z. Wilson,
 noah,tyler_james_williams,Noah,Tyler James Williams,https://www.imdb.com/title/tt1520211/characters/nm1927701
-gamma,thora_birch,Gamma,Thora Birch,https://www.imdb.com/title/tt1520211/characters/nm0000301
 milton_mamet,dallas_roberts,Milton Mamet,Dallas Roberts,https://www.imdb.com/title/tt1520211/characters/nm1316767
 sam_anderson,major_dodson,Sam Anderson,Major Dodson,https://www.imdb.com/title/tt1520211/characters/nm4161282
 daniel,daniel_newman,Daniel,Daniel Newman,https://www.imdb.com/title/tt1520211/characters/nm1649096
 kathy,nicole_barre,Kathy,Nicole Barré,https://www.imdb.com/title/tt1520211/characters/nm1219336
+beatrice,briana_venskus,Beatrice,Briana Venskus,https://www.imdb.com/title/tt1520211/characters/nm2633241
 lizzie_samuels,brighton_sharbino,Lizzie Samuels,Brighton Sharbino,https://www.imdb.com/title/tt1520211/characters/nm3276835
-luke,dan_fogler,Luke,Dan Fogler,https://www.imdb.com/title/tt1520211/characters/nm0283945
 denise_cloyd,merritt_wever,Denise Cloyd,Merritt Wever,https://www.imdb.com/title/tt1520211/characters/nm0923266
-earl_sutton,john_finn,Earl Sutton,John Finn,https://www.imdb.com/title/tt1520211/characters/nm0278125
 ron_anderson,austin_abrams,Ron Anderson,Austin Abrams,https://www.imdb.com/title/tt1520211/characters/nm3641002
 alvaro,carlos_navarro,Alvaro,Carlos Navarro,https://www.imdb.com/title/tt1520211/characters/nm2005616
-beatrice,briana_venskus,Beatrice,Briana Venskus,https://www.imdb.com/title/tt1520211/characters/nm2633241
+marco,gustavo_gomez,Marco,Gustavo Gomez,https://www.imdb.com/title/tt1520211/characters/nm3966113
+gracie,anabelle_holloway,Gracie,Anabelle Holloway,
 walker,robert_tinsley,Walker,Robert Tinsley,
 axel,lew_temple,Axel,Lew Temple,https://www.imdb.com/title/tt1520211/characters/nm0854702
 sophia,madison_lintz,Sophia,Madison Lintz,https://www.imdb.com/title/tt1520211/characters/nm3994956
 gavin,jayson_warner_smith,Gavin,Jayson Warner Smith,https://www.imdb.com/title/tt1520211/characters/nm1842948
 nicholas,michael_traynor,Nicholas,Michael Traynor,https://www.imdb.com/title/tt1520211/characters/nm1290115
-marco,gustavo_gomez,Marco,Gustavo Gomez,https://www.imdb.com/title/tt1520211/characters/nm3966113
-alexandria_resident,david_l_marston,Alexandria Resident,David L. Marston,https://www.imdb.com/title/tt1520211/characters/nm2119390
 karen,melissa_ponzio,Karen,Melissa Ponzio,https://www.imdb.com/title/tt1520211/characters/nm0690754
 oscar,vincent_m_ward,Oscar,Vincent M. Ward,https://www.imdb.com/title/tt1520211/characters/nm1027309
 allen,daniel_thomas_may,Allen,Daniel Thomas May,
 brion,thomas_francis_murphy,Brion,Thomas Francis Murphy,https://www.imdb.com/title/tt1520211/characters/nm2958419
 tamiel,sabrina_gennarino,Tamiel,Sabrina Gennarino,https://www.imdb.com/title/tt1520211/characters/nm0312905
-rj,antony_azor,RJ,Antony Azor,https://www.imdb.com/title/tt1520211/characters/nm10253055
+nora,tamara_austin,Nora,Tamara Austin,
 rachel,mimi_kirkland,Rachel,Mimi Kirkland,https://www.imdb.com/title/tt1520211/characters/nm5122514
 gage,jackson_pace,Gage,Jackson Pace,https://www.imdb.com/title/tt1520211/characters/nm2093138
 frankie,elyse_dufour,Frankie,Elyse Dufour,https://www.imdb.com/title/tt1520211/characters/nm5320953
+dante,juan_javier_cardenas,Dante,Juan Javier Cardenas,https://www.imdb.com/title/tt1520211/characters/nm3619505
 norris,aaron_farb,Norris,Aaron Farb,https://www.imdb.com/title/tt1520211/characters/nm3289599
 amy_harrison,emma_bell,Amy Harrison,Emma Bell,https://www.imdb.com/title/tt1520211/characters/nm0068187
 jacqui,jeryl_prescott,Jacqui,Jeryl Prescott,https://www.imdb.com/title/tt1520211/characters/nm1367802
@@ -113,10 +114,8 @@ mika_samuels,kyla_kenedy,Mika Samuels,Kyla Kenedy,https://www.imdb.com/title/tt1
 heath,corey_hawkins,Heath,Corey Hawkins,https://www.imdb.com/title/tt1520211/characters/nm3659660
 tammy_rose_sutton,brett_butler,Tammy Rose Sutton,Brett Butler,https://www.imdb.com/title/tt1520211/characters/nm0124843
 dr_carson,r_keith_harris,Dr. Carson,R. Keith Harris,https://www.imdb.com/title/tt1520211/characters/nm0364931
-nora,tamara_austin,Nora,Tamara Austin,
-tanya,chloe_aktas,Tanya,Chloe Aktas,
+tanya,chloe_aktas,Tanya,Chloe Aktas,https://www.imdb.com/title/tt1520211/characters/nm4248261
 andy,jeremy_palko,Andy,Jeremy Palko,https://www.imdb.com/title/tt1520211/characters/nm2699133
-militia,joey_renfroe,Militia,Joey Renfroe,
 jim,andrew_rothenberg,Jim,Andrew Rothenberg,https://www.imdb.com/title/tt1520211/characters/nm0745139
 ben,tyler_chase,Ben,Tyler Chase,
 owen,benedict_samuel,Owen,Benedict Samuel,https://www.imdb.com/title/tt1520211/characters/nm4301412
@@ -126,7 +125,6 @@ freddie,brett_gentile,Freddie,Brett Gentile,https://www.imdb.com/title/tt1520211
 addy,kelley_mack,Addy,Kelley Mack,https://www.imdb.com/title/tt1520211/characters/nm2965015
 kevin,jason_burkey,Kevin,Jason Burkey,
 dean,adam_fristoe,Dean,Adam Fristoe,
-dante,juan_javier_cardenas,Dante,Juan Javier Cardenas,
 randall_culver,michael_zegen,Randall Culver,Michael Zegen,https://www.imdb.com/title/tt1520211/characters/nm1652433
 caleb_subramanian,sunkrish_bala,Caleb Subramanian,Sunkrish Bala,
 joe,jeff_kober,Joe,Jeff Kober,https://www.imdb.com/title/tt1520211/characters/nm0462116
@@ -142,15 +140,15 @@ reg,steve_coulter,Reg,Steve Coulter,https://www.imdb.com/title/tt1520211/charact
 david,martinez,David,Martinez,https://www.imdb.com/title/tt1520211/characters/nm1827416
 potter,jon_eyez,Potter,Jon Eyez,https://www.imdb.com/title/tt1520211/characters/nm1208510
 anna,vanessa_cloke,Anna,Vanessa Cloke,
-gracie,anabelle_holloway,Gracie,Anabelle Holloway,
 wesley,ilan_muallem,Wesley,Ilan Muallem,
 jeanette,sherry_richards,Jeanette,Sherry Richards,
 harley,jd_evermore,Harley,J.D. Evermore,
 sherry,christine_evangelista,Sherry,Christine Evangelista,https://www.imdb.com/title/tt1520211/characters/nm2237471
+rachel,avianna_mynhier,Rachel,Avianna Mynhier,https://www.imdb.com/title/tt1520211/characters/nm9316626
+jules,alex_sgambati,Jules,Alex Sgambati,https://www.imdb.com/title/tt1520211/characters/nm3285199
 crying_mom,erin_hunter,Crying Mom,Erin Hunter,https://www.imdb.com/title/tt1520211/characters/nm1705659
-jules,alex_sgambati,Jules,Alex Sgambati,
-militia,timothy_carr,Militia,Timothy Carr,
-whisperer,flanagan_john,Whisperer,Flanagan John,
+oceansider,renah_gallagher,Oceansider,Renah Gallagher,
+kingdom_survivor,joey_renfroe,Kingdom Survivor,Joey Renfroe,
 lilly_chambler,audrey_marie_anderson,Lilly Chambler,Audrey Marie Anderson,https://www.imdb.com/title/tt1520211/characters/nm1017524
 haley,alexa_nikolas,Haley,Alexa Nikolas,
 andrew,markice_moore,Andrew,Markice Moore,https://www.imdb.com/title/tt1520211/characters/nm2116604
@@ -173,9 +171,11 @@ officer_shepherd,teri_wyble,Officer Shepherd,Teri Wyble,https://www.imdb.com/tit
 justin,zach_mcgowan,Justin,Zach McGowan,https://www.imdb.com/title/tt1520211/characters/nm2090702
 david,jay_huguley,David,Jay Huguley,https://www.imdb.com/title/tt1520211/characters/nm0401132
 brandon_rose,blaine_kern_iii,Brandon Rose,Blaine Kern III,https://www.imdb.com/title/tt1520211/characters/nm7138719
+cheryl,rebecca_koon,Cheryl,Rebecca Koon,
 erin,tiffany_morgan,Erin,Tiffany Morgan,
-amber,autumn_dial,Amber,Autumn Dial,
+amber,autumn_dial,Amber,Autumn Dial,https://www.imdb.com/title/tt1520211/characters/nm3860085
 cafe_savior,jason_davis,Café Savior,Jason Davis,
+alfred,david_shae,Alfred,David Shae,https://www.imdb.com/title/tt1520211/characters/nm1869788
 margo,jerri_tubbs,Margo,Jerri Tubbs,https://www.imdb.com/title/tt1520211/characters/nm2424977
 rodney,joe_andohirsh,Rodney,Joe Ando-Hirsh,https://www.imdb.com/title/tt1520211/characters/nm8753176
 jose,jose_miguel_vasquez,Jose,Jose Miguel Vasquez,
@@ -192,6 +192,7 @@ brooke,brooke_jaye_taylor,Brooke,Brooke Jaye Taylor,
 miranda_morales,viviana_chavez,Miranda Morales,Viviana Chavez,
 hershels_walker_wife,amber_chaney,Hershel's Walker Wife,Amber Chaney,
 car_window_walker,wallace_krebs,Car Window Walker,Wallace Krebs,
+militia,timothy_carr,Militia,Timothy Carr,
 edwin_jenner,noah_emmerich,Edwin Jenner,Noah Emmerich,https://www.imdb.com/title/tt1520211/characters/nm0001187
 otis,pruitt_taylor_vince,Otis,Pruitt Taylor Vince,https://www.imdb.com/title/tt1520211/characters/nm0898546
 big_tiny,theodus_crane,Big Tiny,Theodus Crane,https://www.imdb.com/title/tt1520211/characters/nm4297645
@@ -210,9 +211,11 @@ roman,stuart_greer,Roman,Stuart Greer,https://www.imdb.com/title/tt1520211/chara
 ryan_samuels,victor_mccay,Ryan Samuels,Victor McCay,
 ozzy,angus_sampson,Ozzy,Angus Sampson,https://www.imdb.com/title/tt1520211/characters/nm0760151
 greg,travis_young,Greg,Travis Young,
+captured_whisperer,james_parks,Captured Whisperer,James Parks,https://www.imdb.com/title/tt1520211/characters/nm0662960
 paul,e_roger_mitchell,Paul,E. Roger Mitchell,https://www.imdb.com/title/tt1520211/characters/nm0593301
 male_survivor,kevin_patrick_murphy,Male Survivor,Kevin Patrick Murphy,
 yago,charles_halford,Yago,Charles Halford,https://www.imdb.com/title/tt1520211/characters/nm0355155
+stephanie,margot_bingham,Stephanie,Margot Bingham,
 motorcycle_savior,jimmy_gonzales,Motorcycle Savior,Jimmy Gonzales,https://www.imdb.com/title/tt1520211/characters/nm1281943
 negans_scout,christopher_berry,Negan's Scout,Christopher Berry,https://www.imdb.com/title/tt1520211/characters/nm0077512
 annie,beth_keener,Annie,Beth Keener,https://www.imdb.com/title/tt1520211/characters/nm2363977
@@ -223,11 +226,10 @@ sturgess,jonathan_kleitman,Sturgess,Jonathan Kleitman,https://www.imdb.com/title
 female_whisperer,kristin_erickson,Female Whisperer,Kristin Erickson,
 mark,griffin_freeman,Mark,Griffin Freeman,
 isabelle,aerli_austen,Isabelle,Aerli Austen,https://www.imdb.com/title/tt1520211/characters/nm1954447
-rachel,avianna_mynhier,Rachel,Avianna Mynhier,
+chanting_whisperer,william_gregory_lee,Chanting Whisperer,William Gregory Lee,
 alex,austin_freeman,Alex,Austin Freeman,
 mrs_neudermeyer,susie_spear_purcell,Mrs. Neudermeyer,Susie Spear Purcell,
 six_yearold_judith,kinsley_isla_dillon,Six Year-Old Judith,Kinsley Isla Dillon,
-alfred,david_shae,Alfred,David Shae,https://www.imdb.com/title/tt1520211/characters/nm1869788
 todd,lee_norris,Todd,Lee Norris,
 katy,katy_m_obrian,Katy,Katy M. O'Brian,
 mel,courtney_patterson,Mel,Courtney Patterson,
@@ -244,6 +246,7 @@ ethan,justin_kucsulain,Ethan,Justin Kucsulain,https://www.imdb.com/title/tt15202
 machine_gun_savior,cuyle_carvin,Machine Gun Savior,Cuyle Carvin,
 satellite_guard_2,timothy_douglas_perez,Satellite Guard #2,Timothy Douglas Perez,https://www.imdb.com/title/tt1520211/characters/nm3450008
 walker,stephanie_mcintyre,Walker,Stephanie McIntyre,
+rufus,mark_sivertsen,Rufus,Mark Sivertsen,
 felipe,noel_gugliemi,Felipe,Noel Gugliemi,
 morgans_wife,keisha_tillis,Morgan's Wife,Keisha Tillis,
 duane,adrian_kali_turner,Duane,Adrian Kali Turner,https://www.imdb.com/title/tt1520211/characters/nm2648101
@@ -306,22 +309,20 @@ bat_smock_man,adam_boyer,Bat Smock Man,Adam Boyer,https://www.imdb.com/title/tt1
 40s_man,chris_gann,40's Man,Chris Gann,
 tina,liz_e_morgan,Tina,Liz E. Morgan,https://www.imdb.com/title/tt1520211/characters/nm5579791
 savior_guard_1,carlos_aviles,Savior Guard #1,Carlos Aviles,https://www.imdb.com/title/tt1520211/characters/nm5712643
-hilltop_resident,c_thomas_howell,Hilltop Resident,C. Thomas Howell,
+hilltop_resident,c_thomas_howell,Hilltop Resident,C. Thomas Howell,https://www.imdb.com/title/tt1520211/characters/nm0001367
 10_year_old_lydia,havana_blum,10 Year Old Lydia,Havana Blum,https://www.imdb.com/title/tt1520211/characters/nm7946303
-captured_whisperer,james_parks,Captured Whisperer,James Parks,
+virgil,kevin_carroll,Virgil,Kevin Carroll,https://www.imdb.com/title/tt1520211/characters/nm0140887
 donna,cherie_gierhart,Donna,Cherie Gierhart,
 corporal,gary_weeks,Corporal,Gary Weeks,
 crazed_man,owen_harn,Crazed Man,Owen Harn,https://www.imdb.com/title/tt1520211/characters/nm3791144
 young_woman,bethany_anne_lind,Young Woman,Bethany Anne Lind,
 savior_guard_2,ian_casselberry,Savior Guard #2,Ian Casselberry,https://www.imdb.com/title/tt1520211/characters/nm3182681
 reilly,lane_miller,Reilly,Lane Miller,
-stephanie,margot_bingham,Stephanie,Margot Bingham,
 male_whisperer,seth_dousman,Male Whisperer,Seth Dousman,
 red_haired_man,noah_benjamin,Red Haired Man,Noah Benjamin,
 george,brian_f_durkin,George,Brian F. Durkin,
 gunther,whitmer_thomas,Gunther,Whitmer Thomas,
 sean,benjamin_keepers,Sean,Benjamin Keepers,
-cheryl,rebecca_koon,Cheryl,Rebecca Koon,
 guard_1,russell_towery,Guard #1,Russell Towery,
 terminus_guard,nelson_bonilla,Terminus Guard,Nelson Bonilla,
 laundry_woman_1,jaqueline_fleming,Laundry Woman #1,Jaqueline Fleming,
@@ -338,11 +339,13 @@ laundry_woman_2,lane_carlock,Laundry Woman #2,Lane Carlock,
 worker,tyshon_freeman,Worker,Tyshon Freeman,
 midge,misty_ormiston,Midge,Misty Ormiston,
 matias,javier_carrasquillo,Matias,Javier Carrasquillo,https://www.imdb.com/title/tt1520211/characters/nm2583280
+guard,nick_dekay,Guard,Nick DeKay,
 large_savior,gabriel_rodriguez,Large Savior,Gabriel 'G-Rod' Rodriguez,
 bike_park_savior,stephan_jones,Bike Park Savior,Stephan Jones,
 cyrus,quinn_bozza,Cyrus,Quinn Bozza,
 helen,allie_mcculloch,Helen,Allie McCulloch,
 brianna,camille_robinson,Brianna,Camille Robinson,
+panicked_woman,pamela_gold,Panicked Woman,Pamela Gold,
 craig,myke_holmes,Craig,Myke Holmes,
 mrs_robinson,jennifer_riker,Mrs. Robinson,Jennifer Riker,
 amelia,virginia_newcomb,Amelia,Virginia Newcomb,
@@ -353,7 +356,7 @@ rudy,keith_hudson,Rudy,Keith Hudson,
 rose,caroline_arapoglou,Rose,Caroline Arapoglou,
 linus,luke_david_blumm,Linus,Luke David Blumm,
 whisperer_guard_1,evan_cleaver,Whisperer Guard #1,Evan Cleaver,
-milo,roman_spink,Milo,Roman Spink,
+milo,roman_spink,Milo,Roman Spink,https://www.imdb.com/title/tt1520211/characters/nm6902164
 satchel_wolf,elena_sanchez,Satchel Wolf,Elena Sanchez,
 choir,jule_culotta,Choir,Jule Culotta,
 evan,mark_ashworth,Evan,Mark Ashworth,
@@ -393,8 +396,10 @@ choir,will_nichols,Choir,Will Nichols,
 savior_pow_2,sean_freeland,Savior POW #2,Sean Freeland,
 mara,lindsey_garrett,Mara,Lindsey Garrett,
 tough_grizzled_savior,craig_gellis,Tough Grizzled Savior,Craig Gellis,
+jen,rae_olivier,Jen,Rae Olivier,
 farron,anja_akstin,Farron,Anja Akstin,
 savior_pow_3,matthew_rimmer,Savior POW #3,Matthew Rimmer,
+wayne,vince_foster,Wayne,Vince Foster,
 teacher,heather_gilliland,Teacher,Heather Gilliland,
 miles,brian_sheppard,Miles,Brian Sheppard,https://www.imdb.com/title/tt1520211/characters/nm4188783
 large_savior,joshua_lamboy,Large Savior,Joshua Lamboy,
@@ -410,50 +415,49 @@ savior_6,cc_castillo,Savior #6,CC Castillo,
 savior_7,chad_joyce,Savior #7,Chad Joyce,
 savior,alan_heckner,Savior,Alan Heckner,
 neil,karl_funk,Neil,Karl Funk,
-wayne,vince_foster,Wayne,Vince Foster,
-jen,rae_olivier,Jen,Rae Olivier,
-oceanside_male,ryan_l_price,Oceanside male,Ryan L. Price,
 whisper,landon_brooks,Whisper,Landon Brooks,
-guard,nick_dekay,Guard,Nick DeKay,
 rifle_whisperer,stefan_rollins,Rifle Whisperer,Stefan Rollins,
-rufus,mark_sivertsen,Rufus,Mark Sivertsen,
-lucy,olivia_stambouliah,Lucy,Olivia Stambouliah,
+walker,bennett_tarr,Walker,Bennett Tarr,
 herd_walker,jaclyn_white,Herd Walker,Jaclyn White,
+savior,jimmy_mcafee,Savior,Jimmy Mcafee,
 walker,stephen_vining,Walker,Stephen Vining,https://www.imdb.com/title/tt1520211/characters/nm7197071
 walker,jon_buckhouse,Walker,Jon Buckhouse,
 walker,michael_koske,Walker,Michael Koske,https://www.imdb.com/title/tt1520211/characters/nm4995103
-savior,jimmy_mcafee,Savior,Jimmy Mcafee,
 kyle,lee_marvin,Kyle,Lee Marvin,
-walker,anthony_j_sacco,Walker,Anthony J Sacco,https://www.imdb.com/title/tt1520211/characters/nm6377106
 hilltop_millwright,wf_bell,Hilltop Millwright,W.F. Bell,https://www.imdb.com/title/tt1520211/characters/nm7908134
+walker,anthony_j_sacco,Walker,Anthony J Sacco,https://www.imdb.com/title/tt1520211/characters/nm6377106
 tattooed_savior,josh_turner,Tattooed Savior,Josh Turner,
 savior,indiana_sifuentes,Savior,Indiana Sifuentes,
+alexandria_resident,mario_williams,Alexandria Resident,Mario Williams,
 walker,kevin_galbraith,Walker,Kevin Galbraith,https://www.imdb.com/title/tt1520211/characters/nm5310392
 red_beanie_savior,rogelio_lorenzo,Red Beanie Savior,Rogelio Lorenzo,
-bob_miller,curtis_jackson,Bob Miller,Curtis Jackson,
 cdc_walker,andrew_s_mcmillan,CDC Walker,Andrew S. McMillan,https://www.imdb.com/title/tt1520211/characters/nm5009680
+bob_miller,curtis_jackson,Bob Miller,Curtis Jackson,
+distillery_owner,quandae_stewart,Distillery Owner,Quandae Stewart,https://www.imdb.com/title/tt1520211/characters/nm8666592
 walker,john_jaret,Walker,John Jaret,
 walker,lauren_henneberg,Walker,Lauren Henneberg,https://www.imdb.com/title/tt1520211/characters/nm2674401
 alexandria_resident,jennifer_davis_brennan,Alexandria Resident,Jennifer Davis Brennan,
 walker,michelle_flanaganhelmeczy,Walker,Michelle Flanagan-Helmeczy,https://www.imdb.com/title/tt1520211/characters/nm6144957
-savior,zach_ball,Savior,Zach Ball,
 oceanside_sentry_female,marisol_correa,Oceanside Sentry Female,Marisol Correa,
+savior,zach_ball,Savior,Zach Ball,
 hilltop_member,perry_johnson,Hilltop Member,Perry Johnson,
 hilltop_member,earl_david_jones,Hilltop Member,Earl David Jones,
+highwayman,bruce_w_greene,Highwayman,Bruce W Greene,
 walker,matthew_lyda,Walker,Matthew Lyda,https://www.imdb.com/title/tt1520211/characters/nm4792959
 walker,ashton_lee_woolen,Walker,Ashton Lee Woolen,https://www.imdb.com/title/tt1520211/characters/nm6444850
 walker,amanda_elizabeth_adams,Walker,Amanda Elizabeth Adams,https://www.imdb.com/title/tt1520211/characters/nm3858485
+walker,gregory_french,Walker,Gregory French,
 walker,ellie_decker,Walker,Ellie Decker,
 woodbury_resident,andrew_gostel,Woodbury Resident,Andrew Gostel,
 walker,corey_champagne,Walker,Corey Champagne,
 kingdom_guard,michael_layman,Kingdom Guard,Michael Layman,
 kingdom_guard_survivor,lewis_johnson_iii,Kingdom Guard Survivor,Lewis 'Lj' Johnson III,
 kingdom_soldier,zachary_vazquez,Kingdom Soldier,Zachary Vazquez,
-graveyard_walker,renee_compton,Graveyard Walker,Renee Compton,
-walker,gregory_french,Walker,Gregory French,
+graveyard_walker,renee_compton,Graveyard Walker,Renee Compton,https://www.imdb.com/title/tt1520211/characters/nm10361244
 woodbury_resident,denny_ainsworth,Woodbury Resident,Denny Ainsworth,
 woodbury_resident,royce_munn,Woodbury Resident,Royce Munn,
 guard,dango_nu_yen,Guard,Dango Nu Yen,
+alexandria_resident,david_l_marston,Alexandria Resident,David L. Marston,https://www.imdb.com/title/tt1520211/characters/nm2119390
 bearded_walker,louie_g_maldonado,Bearded Walker,Louie g Maldonado,
 alexandrian,scott_lomas,Alexandrian,Scott Lomas,
 walker,james_sterling,Walker,James Sterling,
@@ -468,6 +472,7 @@ fence_walker,frederick_carpenter,Fence Walker,Frederick Carpenter,
 kingdom_soldier,melissa_eastwood,Kingdom Soldier,Melissa Eastwood,
 art_teacher,carol_parente,Art Teacher,Carol Parente,
 oceanside_sentry_survivor,lara_lee_slaughter,Oceanside Sentry Survivor,Lara Lee Slaughter,
+militia,john_gettier,Militia,John Gettier,
 hilltop_resident,marc_demeter,Hilltop Resident,Marc Demeter,
 savior,adam_hicks,Savior,Adam Hicks,
 amys_walker,greg_nicotero,Amy's Walker,Greg Nicotero,https://www.imdb.com/title/tt1520211/characters/nm0630524
@@ -489,7 +494,9 @@ savior,shawn_south,Savior,Shawn South,
 sanctuary_vendor,corey_jason_thomas,Sanctuary Vendor,Corey Jason Thomas,
 hilltop_distiller,jamel_vaughn,Hilltop Distiller,Jamel Vaughn,https://www.imdb.com/title/tt1520211/characters/nm9719579
 savior,corey_thouviner,Savior,Corey Thouviner,
+alexandrean_kid,tyler_thouviner,Alexandrean Kid,Tyler Thouviner,
 walker,joe_hernandez,Walker,Joe Hernandez,
+walker,marty_brotzge,Walker,Marty Brotzge,
 walker,alexyz_danine_kemp,Walker,Alexyz Danine Kemp,
 walker,derrick_mcleod,Walker,Derrick McLeod,
 bigeyed_walker_woman,ashleigh_jo_sizemore,Big-Eyed Walker Woman,Ashleigh Jo Sizemore,https://www.imdb.com/title/tt1520211/characters/nm5053147
@@ -504,11 +511,10 @@ natalie_miller,helen_jackson,Natalie Miller,Helen Jackson,
 hilltop_member,cassidy_balkcom,Hilltop Member,Cassidy Balkcom,
 savior,nm_garcia,Savior,NM Garcia,
 savior,hunter_watson,Savior,Hunter Watson,https://www.imdb.com/title/tt1520211/characters/nm7854818
-walker,jack_kidd,Walker,Jack Kidd,
 savior,van_marten,Savior,Van Marten,
 savior,barden_revelle_iv,Savior,Barden Revelle IV,
+kingdom_soldier,james_stacey,Kingdom Soldier,James Stacey,
 nabilas_daughter,autumn_azul,Nabila's Daughter,Autumn Azul,
-alexandrean_kid,tyler_thouviner,Alexandrean Kid,Tyler Thouviner,
 atlanta_suit_walker,joe_giles,Atlanta Suit Walker,Joe Giles,https://www.imdb.com/title/tt1520211/characters/nm1912126
 walker,eddie_rattanasouk,Walker,Eddie Rattanasouk,
 walker,steve_warren,Walker,Steve Warren,
@@ -532,10 +538,10 @@ hilltop_member,tyler_j_shaw,Hilltop Member,Tyler J. Shaw,
 savior,stacey_crowder,Savior,Stacey Crowder,https://www.imdb.com/title/tt1520211/characters/nm8022642
 savior,angela_gay,Savior,Angela Gay,
 pick_axe_savior,whit_whitman,Pick Axe Savior,Whit Whitman,
-oceansider,renah_gallagher,Oceansider,Renah Gallagher,
 walker,dimitri_hale,Walker,Dimitri Hale,
 nelson,jake_kearney,Nelson,Jake Kearney,
 savior,mark_smith,Savior,Mark Smith,
+alexandrian,john_flanagan,Alexandrian,John Flanagan,
 savior,john_kaler,Savior,John Kaler,
 savior,chris_goad,Savior,Chris Goad,
 savior,anthony_b_harris,Savior,Anthony B. Harris,
@@ -554,7 +560,8 @@ walker,larry_mainland,Walker,Larry Mainland,
 tank_walker,brian_stretch,Tank Walker,Brian Stretch,https://www.imdb.com/title/tt1520211/characters/nm3617761
 tank_soldier,sam_witwer,Tank Soldier,Sam Witwer,
 walker,scott_m_yaffee,Walker,Scott M. Yaffee,
-covered_bridge_walker,kayla_thompson,Covered Bridge Walker,Kayla Thompson,
+covered_bridge_walker,kayla_thompson,Covered Bridge Walker,Kayla Thompson,https://www.imdb.com/title/tt1520211/characters/nm10584535
+crawling_cot_walker,eric_graise,Crawling Cot Walker,Eric Graise,
 farm_walker,jeremy_ambler,Farm 'Here' Walker,Jeremy Ambler,https://www.imdb.com/title/tt1520211/characters/nm1923536
 barn_walker,amanda_dyar,Barn Walker,Amanda Dyar,
 young_boy,grayson_riggs,Young Boy,Grayson Riggs,
@@ -595,12 +602,11 @@ kingdom_soldier,michelle_morano,Kingdom Soldier,Michelle Morano,
 heapster,tim_wollack,Heapster,Tim Wollack,
 hilltop_resident,darren_baylor,Hilltop Resident,Darren Baylor,
 ritch_darber,roger_berard,Ritch Darber,Roger Berard,
-savior,bruce_w_greene,Savior,Bruce W Greene,
 kingdom_resident,michelle_hardwick,Kingdom Resident,Michelle Hardwick,
 whisperer_1,bret_mckee,Whisperer #1,Bret McKee,
 hilltop_blacksmith,bob_melton,Hilltop Blacksmith,Bob Melton,
 alexandria_wrangler,corky_turvey,Alexandria Wrangler,Corky Turvey,
-walker,jennifer_russell,Walker,Jennifer 'Ms Fer' Russell,
+walker,jennifer_russell,Walker,Jennifer Russell,
 savior,forrest_briggs,Savior,Forrest Briggs,
 bow_savior,andy_field,Bow Savior,Andy Field,
 savior_leader,jr_francis,Savior Leader,J.R. Francis,
@@ -640,7 +646,6 @@ pajama_walker,gary_whitta,Pajama Walker,Gary Whitta,
 walker,christopher_w_brantley,Walker,Christopher W. Brantley,
 creek_walker_3,graeme_ford,Creek Walker 3,Graeme Ford,
 walker,ali_fussell,Walker,Ali Fussell,
-crawling_cot_walker,eric_graise,Crawling Cot Walker,Eric Graise,
 woodchuck_walker,charlie_leach,Woodchuck Walker,Charlie Leach,
 walker,josh_mcclenney,Walker,Josh McClenney,
 walker,omer_mughal,Walker,Omer Mughal,
@@ -750,9 +755,7 @@ savior,david_dunston,Savior,David Dunston,
 savior_walker,gregory_dean_french,Savior Walker,Gregory Dean French,
 oceansider,chatejah_george,Oceansider,Chatejah George,
 walker,jason_gerrard,Walker,Jason Gerrard,
-walker,john_gettier,Walker,John Gettier,
 hilltop_survivor,melissa_kay_glaze,Hilltop Survivor,Melissa Kay Glaze,
-scavenger,emelita_t_gonzalez,Scavenger,Emelita T. Gonzalez,
 alexandrian,bobby_hoskins,Alexandrian,Bobby Hoskins,
 savior,bob_jennings,Savior,Bob Jennings,
 male_survivor,preston_kameka,Male Survivor,Preston Kameka,
@@ -788,7 +791,6 @@ hilltop_resident,jessica_marshall,Hilltop Resident,Jessica Marshall,
 savior,shaun_mcmillan,Savior,Shaun McMillan,
 savior,jessica_medina,Savior,Jessica Medina,
 walker,aaron_reynolds,Walker,Aaron Reynolds,
-walker,jennifer_russell,Walker,Jennifer Russell,
 walker,elizabeth_sparks,Walker,Elizabeth Sparks,
 savior_spec_soldier,ta_stanton,Savior SPEC Soldier,TA Stanton,
 ahk_soldier,benjamin_weaver,AHK Soldier,Benjamin Weaver,https://www.imdb.com/title/tt1520211/characters/nm5234677
@@ -800,6 +802,7 @@ alexandria_resident,thomas_downing,Alexandria Resident,Thomas Downing,
 kingdom_soldier,corey_gupton,Kingdom Soldier,Corey Gupton,
 walker,chris_hardwick,Walker,Chris Hardwick,
 oceanside_resident,rachel_hernandez,Oceanside Resident,Rachel Hernandez,
+alexandria_resident,chris_hodge,Alexandria Resident,Chris Hodge,
 kingdom_resident,cathy_hope,Kingdom Resident,Cathy Hope,
 walker,kevin_kedgley,Walker,Kevin Kedgley,
 hilltop_resident,alan_kidd,Hilltop Resident,Alan Kidd,
@@ -810,7 +813,9 @@ kingdom_resident,bob_lusher,Kingdom Resident,Bob Lusher,
 breakfast_girl,london_riley_pigott,Breakfast Girl,London Riley Pigott,
 kingdom_resident,dana_rampy,Kingdom Resident,Dana Rampy,
 kingdom_resident,brandon_stoker,Kingdom Resident,Brandon Stoker,
-covered_bridge_walker,michael_a_thompson,Covered Bridge Walker,Michael A. Thompson,
+covered_bridge_walker,michael_a_thompson,Covered Bridge Walker,Michael A. Thompson,https://www.imdb.com/title/tt1520211/characters/nm10584574
 kingdom_orphan,bissette_williams,Kingdom Orphan,Bissette Williams,
 highwayman,valdez_williams,Highwayman,Valdez Williams,
 unmasked_whisperer,lewis_wright,Unmasked Whisperer,Lewis Wright,
+felix,gianni_biasetti_jr,Felix,Gianni Biasetti Jr.,
+penny,kristin_reyelt,Penny,Kristin Reyelt,
