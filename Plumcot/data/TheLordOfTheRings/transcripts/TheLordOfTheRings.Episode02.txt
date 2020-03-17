@@ -101,29 +101,29 @@ aragorn Rohan. Home of the Horse-lords. There's something strange at work here.S
 aragorn Legolas! What do your Elf-eyes see?
 legolas The Uruks turn northeast. They are taking the Hobbits to lsengard.
 aragorn Saruman.
-saruman The world is changing. Who now has the strength to stand against the armies of Isengard......and Mordor? To stand against the might of Sauron and Saruman......and the union of the two towers?
-saruman Together, my Lord Sauron...... we shall rule this Middle-earth.
-saruman The Old World will burn in the fires of industry. The forests will fall. A new order will rise. We will drive the machine of war with the sword and the spear...... and the iron fists of the Orc. We have only to remove those who oppose us.
-saruman I want them armed and ready to march within two weeks!
+saruman_ The world is changing. Who now has the strength to stand against the armies of Isengard......and Mordor? To stand against the might of Sauron and Saruman......and the union of the two towers?
+saruman_ Together, my Lord Sauron...... we shall rule this Middle-earth.
+saruman_ The Old World will burn in the fires of industry. The forests will fall. A new order will rise. We will drive the machine of war with the sword and the spear...... and the iron fists of the Orc. We have only to remove those who oppose us.
+saruman_ I want them armed and ready to march within two weeks!
 ORC#unknown#TheLordOfTheRings.Episode02 But, my lord, there are too many! They cannot all be armed in time, we don't have the means.
-saruman Build a dam, block the stream, work the furnaces night and day.
+saruman_ Build a dam, block the stream, work the furnaces night and day.
 ORC#unknown#TheLordOfTheRings.Episode02 We don't have enough fuel to feed the fires.
-saruman The Forest of Fangorn lies on our doorstep. Burn it.
+saruman_ The Forest of Fangorn lies on our doorstep. Burn it.
 ORC#unknown#TheLordOfTheRings.Episode02 Yes.
 wildman_ We will fight for you.
-saruman Swear it. The Wildman cuts his palm
+saruman_ Swear it. The Wildman cuts his palm
 wildman_ We will die for Saruman.
-saruman The Horse-Men took your lands. They drove your people into the hills to scratch a living off rocks.
+saruman_ The Horse-Men took your lands. They drove your people into the hills to scratch a living off rocks.
 wildman_ Murderers!
-saruman Take back the lands they stole from you. Burn every village!
-saruman We have only to remove those who oppose us. It will begin in Rohan. Too long have these peasants stood against you. But no more.
+saruman_ Take back the lands they stole from you. Burn every village!
+saruman_ We have only to remove those who oppose us. It will begin in Rohan. Too long have these peasants stood against you. But no more.
 morwen Eothain! Eothain! You take your sister. You'll go faster with just two. FREDA Papa says Eothain must not ride Garulf. He is too big for him.
 morwen Listen to me. You must ride to Edoras and raise the alarm. Do you understand me?
 eothain Yes, Mama.
 freda I don't want to leave. I don't want to go, Mama.
 morwen Freda, I will find you there. Morwen glances at the running people and sees the masses of Wildmen coming into the village
 morwen Quickly! Go, child. As the children look back they see the village being burnt and the villagers being attacked by Wildmen and Uruk-hai
-saruman Rohan, my lord......is ready to fall.
+saruman_ Rohan, my lord......is ready to fall.
 eomer Theodred. Find the king's son!
 ROHAN#unknown#TheLordOfTheRings.Episode02 HORSEMAN Mordor will pay for this
 eomer These Orcs are not from Mordor.
@@ -132,16 +132,16 @@ eomer He's alive.
 eowyn Theodred.
 eowyn Your son is badly wounded, my lord.
 eomer He was ambushed by Orcs. If we don't defend our country, Saruman will take it by force
-wormtongue That is a lie. Saruman the White has ever been our friend and ally.
+wormtongue_ That is a lie. Saruman the White has ever been our friend and ally.
 theoden Grima. Grima. Grima.
 eomer Orcs are roaming freely across our lands. Unchecked. Unchallenged. Killing at will. Orcs bearing the White Hand of Saruman
-wormtongue Why do you lay these troubles on an already troubled mind? Can you not see? Your uncle is wearied by your malcontent......your warmongering.
+wormtongue_ Why do you lay these troubles on an already troubled mind? Can you not see? Your uncle is wearied by your malcontent......your warmongering.
 eomer Warmongering? How long is it since Saruman bought you? What was the promised price, Grima? When all the Men are dead, you will take your share of the treasure?
 eomer Too long have you watched my sister.Too long have you haunted her steps.
-wormtongue You see much, Eomer, son of Eomund.
-wormtongue Too much. You are banished forthwith from the kingdom of Rohan......and all its domains under pain of death.
+wormtongue_ You see much, Eomer, son of Eomund.
+wormtongue_ Too much. You are banished forthwith from the kingdom of Rohan......and all its domains under pain of death.
 eomer You have no authority here. Your orders mean nothing.
-wormtongue This order does not come from me. It comes from the king. He signed it this morning.
+wormtongue_ This order does not come from me. It comes from the king. He signed it this morning.
 gimli Keep breathing. That's the key. Breathe.
 legolas They've run as if the very whips of their masters were behind them.
 ORC#unknown#TheLordOfTheRings.Episode02 We're not going no further......until we've had a breather.
@@ -383,22 +383,22 @@ treebeard I don't remember now.
 gandalf Edoras and the Golden Hall of Meduseld. There dwells Theoden, King of Rohan...... whose mind is overthrown. Saruman's hold over King Theoden is now very strong.
 eowyn My lord, your son......he is dead. My lord? Uncle? Will you not go to him? Will you do nothing?
 gandalf Be careful what you say.Do not look for welcome here.
-wormtongue Oh, he must have died sometime in the night. What a tragedy for the king......to lose his only son and heir. He sits on the bed and puts a hand on her shoulder
-wormtongue I understand. His passing is hard to accept. Especially now that your brother has deserted you.
+wormtongue_ Oh, he must have died sometime in the night. What a tragedy for the king......to lose his only son and heir. He sits on the bed and puts a hand on her shoulder
+wormtongue_ I understand. His passing is hard to accept. Especially now that your brother has deserted you.
 eowyn Leave me alone, snake!
-wormtongue Oh, but you are alone. Who knows what you've spoken to the darkness ......in the bitter watches of the night......when all your life seems to shrink. The walls of your bower closing in about you. A hutch to trammel some wild thing in. So fair. So cold. Like a morning of pale spring......still clinging to winter's chill.
+wormtongue_ Oh, but you are alone. Who knows what you've spoken to the darkness ......in the bitter watches of the night......when all your life seems to shrink. The walls of your bower closing in about you. A hutch to trammel some wild thing in. So fair. So cold. Like a morning of pale spring......still clinging to winter's chill.
 eowyn Your words are poison.
 gimli You'll find more cheer in a graveyard.
 hama I cannot allow you before Theoden King so armed, Gandalf Greyhame. By order of Grima Wormtongue.
 hama Your staff
 gandalf Hmmm You would not part an old man from his walking stick.
-wormtongue My lord, Gandalf the Grey is coming. He's a herald of woe.
+wormtongue_ My lord, Gandalf the Grey is coming. He's a herald of woe.
 gandalf The courtesy of your hall is somewhat lessened of late......Theoden King.
-wormtongue He's not welcome.
+wormtongue_ He's not welcome.
 theoden Why should I welcome you......Gandalf Stormcrow?
-wormtongue A just question, my liege. Late is the hour......in which this conjurer chooses to appear. Lathspell I name him.Ill news is an ill guest.
+wormtongue_ A just question, my liege. Late is the hour......in which this conjurer chooses to appear. Lathspell I name him.Ill news is an ill guest.
 gandalf Be silent. Keep your forked tongue behind your teeth. I have not passed through fire and death......to bandy crooked words with a witless worm.
-wormtongue His staff. I told you to take the wizard's staff.
+wormtongue_ His staff. I told you to take the wizard's staff.
 gandalf Theoden......son of Thengel......too long have you sat in the Shadows.
 gimli I would stay still if I were you.
 gandalf Hearken to me! I release you......from the spell.
@@ -413,11 +413,11 @@ theoden I know your face. Eowyn. Eowyn. Gandalf?
 gandalf Breathe the free air again, my friend.
 theoden Dark have been my dreams of late.
 gandalf Your fingers would remember their old strength better......if they grasped your sword.
-wormtongue I've only......ever served you, my lord.
+wormtongue_ I've only......ever served you, my lord.
 theoden Your leechcraft would have had me crawling on all fours like a beast!
-wormtongue Send me not from your sight.
+wormtongue_ Send me not from your sight.
 aragorn No, my lord! No, my lord. Let him go. Enough blood has been spilt on his account.
-wormtongue Get out of my way!
+wormtongue_ Get out of my way!
 hama Hail, Theoden King!
 theoden Where is Theodred? Where is my son?
 eowyn The tomb in which Theodred lays is shown. In front of it a single Simelmyne flower. It falls to the ground
@@ -450,11 +450,11 @@ aragorn Brego. 'in nama is cynglic. ( )
 aragorn Man le trasta, Brego? Man cenich? ( )
 eowyn I have heard of the magic of Elves......but I did not look for it in a Ranger from the North.You speak as one of their own.
 aragorn I was raised in Rivendell......for a time.Turn this fellow free. He's seen enough of war.
-saruman Gandalf the White. Gandalf the Fool! Does he seek to humble me with his newfound piety?
-wormtongue There were three who followed the wizard. An Elf, a Dwarf and a Man.
-saruman You stink of horse. The Man......was he from Gondor?
-wormtongue No, from the North. One of the Dunedain Rangers, I thought he was. His cloth was poor. And yet he bore a strange ring Two serpents with emerald eyes.. One devouring, the other crowned with golden flowers.
-saruman The Ring of Barahir. So Gandalf Greyhame thinks he has found lsildur's heir. The lost king of Gondor. He is a fool. The line was broken years ago. It matters not. The world of Men shall fall. It will begin at Edoras.
+saruman_ Gandalf the White. Gandalf the Fool! Does he seek to humble me with his newfound piety?
+wormtongue_ There were three who followed the wizard. An Elf, a Dwarf and a Man.
+saruman_ You stink of horse. The Man......was he from Gondor?
+wormtongue_ No, from the North. One of the Dunedain Rangers, I thought he was. His cloth was poor. And yet he bore a strange ring Two serpents with emerald eyes.. One devouring, the other crowned with golden flowers.
+saruman_ The Ring of Barahir. So Gandalf Greyhame thinks he has found lsildur's heir. The lost king of Gondor. He is a fool. The line was broken years ago. It matters not. The world of Men shall fall. It will begin at Edoras.
 theoden I am ready, Gamling. Bring my horse.
 theoden This is not a defeat. We will return. We will return.
 aragorn You have some skill with a blade.
@@ -463,8 +463,8 @@ Women#unknown#TheLordOfTheRings.Episode02 of this country learned long ago Those
 aragorn What do you fear, my lady?
 eowyn A cage. To stay behind bars until use and old age accept them. And all chance of valor has gone beyond recall or desire.
 aragorn You're a daughter of kings......a shieldmaiden of Rohan. I do not think that would be your fate.
-wormtongue Theoden will not stay at Edoras. It's vulnerable. He knows this. He will expect an attack on the city. They will flee to Helm's Deep......the great fortress of Rohan. It is a dangerous road to take through the mountains. They will be slow. They will have women and children with them.
-saruman Send out your Warg-riders. Smeagol is swimming along in a rocky stream, trying to catch a jumping fish. Sam and Frodo follow him
+wormtongue_ Theoden will not stay at Edoras. It's vulnerable. He knows this. He will expect an attack on the city. They will flee to Helm's Deep......the great fortress of Rohan. It is a dangerous road to take through the mountains. They will be slow. They will have women and children with them.
+saruman_ Send out your Warg-riders. Smeagol is swimming along in a rocky stream, trying to catch a jumping fish. Sam and Frodo follow him
 sam Hey, stinker, don't go getting too far ahead.
 frodo Why do you do that?
 sam What?
@@ -617,17 +617,17 @@ gimli He fell.
 theoden Draw all our forces behind the wall. Bar the gate. And set a watch on the surround.
 gamling What of those who cannot fight, my lord? The women and children?
 theoden Get them into the caves. Saruman's arm will have grown long indeed if he thinks he can reach us here.
-wormtongue Helm's Deep has one weakness. Its outer wall is solid rock......but for a small culvert at its base...... which is little more than a drain.
-wormtongue How? How can fire undo stone?
-wormtongue What kind of device could bring down the wall?
-saruman If the wall is breached, Helm's Deep will fall.
-wormtongue Even if it is breached, it would take a number beyond reckoning......thousands, to storm the Keep.
-saruman Tens of thousands.
-wormtongue But, my lord, there is no such force.
-saruman A new power is rising. Its victory is at hand.
-saruman This night......the land will be stained with the blood of Rohan! March to Helm's Deep! Leave none alive!
-saruman To war!
-saruman There will be no dawn for Men.
+wormtongue_ Helm's Deep has one weakness. Its outer wall is solid rock......but for a small culvert at its base...... which is little more than a drain.
+wormtongue_ How? How can fire undo stone?
+wormtongue_ What kind of device could bring down the wall?
+saruman_ If the wall is breached, Helm's Deep will fall.
+wormtongue_ Even if it is breached, it would take a number beyond reckoning......thousands, to storm the Keep.
+saruman_ Tens of thousands.
+wormtongue_ But, my lord, there is no such force.
+saruman_ A new power is rising. Its victory is at hand.
+saruman_ This night......the land will be stained with the blood of Rohan! March to Helm's Deep! Leave none alive!
+saruman_ To war!
+saruman_ There will be no dawn for Men.
 pippin Look. There's smoke to the south.
 treebeard There is always smoke rising......from lsengard these days.
 merry Isengard?

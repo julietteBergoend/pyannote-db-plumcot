@@ -234,33 +234,33 @@ sam Everywhere I lie there's a dirty great root sticking into my back
 frodo Just shut your eyes and imagine you're back in your own bed, with a soft matress and a lovely feather pillow
 sam Its not working Mr Frodo Oh! I'm never going to be able to sleep out here
 frodo Me neither Sam
-saruman VOICE Smoke rises from the Mountain of Doom The hour grows late and Gandalf the Grey rides to Isengard seeking my Council
-saruman For that is why you have come, is it not ? My old friend
+saruman_ VOICE Smoke rises from the Mountain of Doom The hour grows late and Gandalf the Grey rides to Isengard seeking my Council
+saruman_ For that is why you have come, is it not ? My old friend
 gandalf Saruman
-saruman You are sure of this ?
+saruman_ You are sure of this ?
 gandalf Beyond any doubt
-saruman So the Ring of Power has been found
+saruman_ So the Ring of Power has been found
 gandalf All these long years it was in The Shire under my very nose
-saruman and yet you did not have the wits to see it. Your love of the Halflings leaf has clearly slowed your mind
+saruman_ and yet you did not have the wits to see it. Your love of the Halflings leaf has clearly slowed your mind
 gandalf But we still have time. Time enough to counter Sauron if we act quickly
-saruman Time! What time do you think we have ?
-saruman Sauron has regained much of his former strength. He cannot yet take physical form but his spirit has lost none of its potency. Concealed within his fortress, the Lord of Mordor sees all. His gaze pierces cloud, shadow, earth and flesh. You know of what I speak Gandalf. A great eye, lidless, wreathed in flame.
+saruman_ Time! What time do you think we have ?
+saruman_ Sauron has regained much of his former strength. He cannot yet take physical form but his spirit has lost none of its potency. Concealed within his fortress, the Lord of Mordor sees all. His gaze pierces cloud, shadow, earth and flesh. You know of what I speak Gandalf. A great eye, lidless, wreathed in flame.
 gandalf The Eye of Sauron
-saruman He is gathering all evil to him. Very soon he will have summoned an army great enough to launch an assault upon Middle Earth
+saruman_ He is gathering all evil to him. Very soon he will have summoned an army great enough to launch an assault upon Middle Earth
 gandalf You know this ? How ?
-saruman I have seen it.
+saruman_ I have seen it.
 gandalf A palantir is a dangerous tool Saruman.
-saruman Why ? Why should we fear to use it ?
+saruman_ Why ? Why should we fear to use it ?
 gandalf They are not all accounted for. The lost seeing stones. We do not know who else maybe watching.
-saruman The hour is later than you think. Sauron's forces are already moving. The Nine have left Minas Morgul
+saruman_ The hour is later than you think. Sauron's forces are already moving. The Nine have left Minas Morgul
 gandalf The Nine!
-saruman The crossed the River Isen on Midsummer's Eve disguised as riders in black.
+saruman_ The crossed the River Isen on Midsummer's Eve disguised as riders in black.
 gandalf They've reached The Shire?
-saruman They will find the Ring and kill the one who carries it.
+saruman_ They will find the Ring and kill the one who carries it.
 gandalf Frodo
-saruman You did not seriously think that a hobbit could contend with the will of Sauron ? There are none who can. Against the power of Mordor there can be no victory. We must join with him Gandalf. We must join with Sauron. It would be wise my friend
+saruman_ You did not seriously think that a hobbit could contend with the will of Sauron ? There are none who can. Against the power of Mordor there can be no victory. We must join with him Gandalf. We must join with Sauron. It would be wise my friend
 gandalf Tell me. Friend... When did Saruman the Wise abandon reason for madness ?
-saruman I gave you the chance of aiding me willingly. But you.. have elected.. the way of pain!
+saruman_ I gave you the chance of aiding me willingly. But you.. have elected.. the way of pain!
 .#unknown#TheLordOfTheRings.Episode01
 sam Mr Frodo ? Frodo! Frodo! I thought I'd lost you
 frodo What are you talking about ?
@@ -378,13 +378,13 @@ frodo Who is she ? This woman you sing of ?
 aragorn Tis the Lady of L'thien. The Elf Maiden who gave her love to Beren ... a mortal
 frodo What happened to her?
 aragorn She died.
-saruman The power of Isengard is at your command
-saruman Sauron. Lord of the Earth
+saruman_ The power of Isengard is at your command
+saruman_ Sauron. Lord of the Earth
 sauron VOICE Build me an army worthy of Mordor
 ORC#unknown#TheLordOfTheRings.Episode01 What orders from Mordor my Lord? What does the Eye command?
-saruman We have work to do
+saruman_ We have work to do
 ORC#unknown#TheLordOfTheRings.Episode01 The trees are strong my Lord. The roots go deep
-saruman Rip them all down
+saruman_ Rip them all down
 aragorn This was the great watch tower of Amon
 aragorn These are for you. Keep them close, I'm going to have a look round Stay here
 merry My tomato's burst!
@@ -448,11 +448,11 @@ gandalf Yes, I am here and you're lucky to be here too. A few more hours and you
 frodo What happened Gandalf ?
 frodo Why didn't you meet us ?
 gandalf Oh, I'm sorry Frodo I was delayed
-saruman The friendship of Sauron is not lightly thrown aside
-saruman One ill turn deserves another it is over
-saruman Embrace the power of the Ring, or embrace your own destruction
+saruman_ The friendship of Sauron is not lightly thrown aside
+saruman_ One ill turn deserves another it is over
+saruman_ Embrace the power of the Ring, or embrace your own destruction
 gandalf There is only Lord of the Ring Only one who can bend it to his will and he does not share power
-saruman So you have chosen death
+saruman_ So you have chosen death
 frodo Gandalf ? What is it ?
 gandalf hmm Nothing Frodo
 sam Frodo! Frodo!
@@ -593,21 +593,21 @@ aragorn Boromir
 boromir It is a strange fate that we should suffer so much fear and doubt over so small a thing such a little thing
 aragorn Boromir! Give the Ring to Frodo
 boromir as you wish! I care not
-saruman So Gandalf, you try to lead them over Caradhras. And if that fails, where then will you go ?
-saruman If the mountain defeats you will you risk a more dangerous road
-saruman Cuiva nwalca Carnirasse; nai yarvaxea rasselya!
+saruman_ So Gandalf, you try to lead them over Caradhras. And if that fails, where then will you go ?
+saruman_ If the mountain defeats you will you risk a more dangerous road
+saruman_ Cuiva nwalca Carnirasse; nai yarvaxea rasselya!
 legolas There is a fell voice on the air
 gandalf It's Saruman!
 aragorn He's trying to bring down the mountain! Gandalf! We must turn back!
 gandalf No! Losto Caradhras, sedho, hodo, nuitho i 'ruith!
-saruman Cuiva nwalca Carnirasse; Nai yarvaxea rasselya; taltuva notto-carinnar!
+saruman_ Cuiva nwalca Carnirasse; Nai yarvaxea rasselya; taltuva notto-carinnar!
 boromir We must get off the mountain! Make for the Gap of Rohan and take the west road to my city!
 aragorn The Gap of Rohan takes us too close to Isengard!
 gimli If we cannot pass over the mountain, let us go under it! Let us go through the Mines of Moria
-saruman Moria... you fear to go into those mines.
-saruman the dwarves delved too greadily and too deep
-saruman You know what they woke in the dark of Khazad-d'm
-saruman Shadow, flame
+saruman_ Moria... you fear to go into those mines.
+saruman_ the dwarves delved too greadily and too deep
+saruman_ You know what they woke in the dark of Khazad-d'm
+saruman_ Shadow, flame
 gandalf Let the Ringbearer decide
 boromir We cannot stay here! This will be the death of the hobbits!
 gandalf Frodo ?
