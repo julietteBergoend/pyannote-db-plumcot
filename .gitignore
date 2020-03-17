@@ -36,6 +36,9 @@ images/
 
 #video (features)
 video/
+#video (ad-hoc scripts for LIMSI)
+scripts/video.sh
+scripts/video_per_season.sh
 
 #manually-corrected JSON files
 !*.manual.json
