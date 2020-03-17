@@ -20,6 +20,9 @@ from collections import OrderedDict
 import unidecode
 import re
 import numpy as np
+import pyannote.database
+import Plumcot as PC
+DATA_PATH=Path(PC.__file__).parent / "data"
 
 def normalizeName(fullName):
     """Normalizes characters and actors names.
@@ -168,7 +171,7 @@ def writeData(series, data, file):
         Data to write.
     """
 
-    with codecs.open("Plumcot/data/"+series+"/" + file, "w", "utf-8") as chars:
+    with codecs.open(DATA_PATH / series / file, "w", "utf-8") as chars:
         chars.write(data)
 
 
@@ -191,7 +194,7 @@ def initDicChars(idSeries):
     """
     dicChars = OrderedDict()
 
-    with open("Plumcot/data/"+idSeries+"/characters.txt", 'r') as chars:
+    with open(DATA_PATH/idSeries/"characters.txt", 'r') as chars:
         for charLine in chars:
             charSp = charLine.split(',')
             key = charSp[1]
@@ -227,7 +230,7 @@ def main(args):
                     writeData(idSeries, dataCredits, "credits.txt")
 
             if credit and isMovie and (not onlyOne or idSeries == series):
-                with open("Plumcot/data/"+idSeries+"/episodes.txt", 'r') as movies:
+                with open(DATA_PATH/idSeries/"episodes.txt", 'r') as movies:
                     dataMovie = ""
                     for movie in movies:
                         movieSp = movie.split(',')

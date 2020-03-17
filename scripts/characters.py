@@ -19,6 +19,9 @@ import unidecode
 import re
 from docopt import docopt
 import numpy as np
+import pyannote.database
+import Plumcot as PC
+DATA_PATH=Path(PC.__file__).parent / "data"
 
 def normalizeName(fullName):
     """Normalizes characters and actors names.
@@ -141,7 +144,7 @@ def writeData(series, data):
         Data to write.
     """
 
-    with codecs.open("Plumcot/data/"+series+"/characters.txt", "w", "utf-8") as chars:
+    with codecs.open(DATA_PATH/series/"characters.txt", "w", "utf-8") as chars:
         chars.write(data)
 
 
@@ -158,7 +161,7 @@ def verifNorm(idSeries, fileName, data):
         Data to write.
     """
 
-    file = "Plumcot/data/" + idSeries + "/" + fileName
+    file = DATA_PATH / idSeries / fileName
     with open(file, mode="w", encoding="utf-8") as f:
         for char in data:
             charSp = char.split(',')
@@ -191,7 +194,7 @@ def main(args):
 
                 else:
                     sagaChars = []
-                    with open("Plumcot/data/"+idSeries+"/episodes.txt", 'r') as fMovie:
+                    with open(DATA_PATH/idSeries/"episodes.txt", 'r') as fMovie:
                         for lineMovie in fMovie:
                             link = lineMovie.split(',')[2]
                             movieChars = getData(link + "fullcredits/")

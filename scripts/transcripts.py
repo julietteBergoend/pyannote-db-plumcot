@@ -7,6 +7,9 @@ import re
 import os
 import pyannote.database
 from pathlib import Path
+import pyannote.database
+import Plumcot as PC
+DATA_PATH=Path(PC.__file__).parent / "data"
 
 #pattern for '#' which is not unk
 #pattern=r'\n.*(?<!unknown)#(?!unk).*'
@@ -14,7 +17,7 @@ from pathlib import Path
 #pattern for multiple new lines
 #pattern=r'\n\n'
 serie_uri="Lost"
-SERIE_PATH=Path(f'Plumcot/data/{serie_uri}/')
+SERIE_PATH=DATA_PATH/serie_uri
 wav_path=Path(f'/vol/work3/lefevre/dvd_extracted/{serie_uri}')
 transcript_path=Path(SERIE_PATH,'transcripts')
 with open(Path(SERIE_PATH,"episodes.txt"),'r') as file:
