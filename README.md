@@ -35,3 +35,23 @@ See also `CONTRIBUTING.md` for technical details.
 Transcripts, diarization and entities annotation can be found as text file in `Plumcot/data` sub-directory.
 
 The IMDb images dataset is provided from an external link : **[TODO](TODO)**. Alternatively, you can scrap the images yourself using `scripts/images_scraping.py` (see `CONTRIBUTING.md`).
+
+### DVDs
+
+Episode numbering relies on [IMDb](https://www.imdb.com/).
+
+We acquired zone 2 (i.e. Europe) DVDs. DVDs were converted to mkv and wav using [dvd_extraction](https://github.com/PaulLerner/dvd_extraction).
+
+`durations.csv` provides the audio duration of the resulting wav files.
+
+Some (double) episodes are numbered as two different episodes in the DVDs although they're numbered as one in IMDb. These are listed in the `double_episodes/` folder of the relevant serie, if needed.
+
+TODO: automate the creation of `double_episodes/` files so that the user doesn't have to replace `/vol/work3/lefevre/dvd_extracted/` manually.
+
+The episodes are then concatenated using ffmpeg:
+```bash
+cd pyannote-db-plumcot/
+bash scripts/concat_double_episodes.sh <serie_uri> </path/to/wavs>
+```
+
+Note that this will only create a new wav file resulting of the concatenation of `<episode.i>` and `<episode.j>` named like `<episode.i.j>` but it will not fix the numbering of the others episodes (TODO: add code to do it ?)

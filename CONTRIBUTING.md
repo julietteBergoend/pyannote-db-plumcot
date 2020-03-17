@@ -122,6 +122,12 @@ The ith binary column corresponds to the ith line in characters.txt
 episodes.py series.txt TheBigBangTheory -c
 ```
 
+#### The friends case
+
+TODO: find out a way to automate this or instead split the wav in two and describe it in README
+
+One episode double episode in Friends, was, unlike usual (see README), split in half in IMDb and merged as one in the DVDs. Thus the credits were manually corrected in [this commit](https://github.com/PaulLerner/pyannote-db-plumcot/commit/b9a8ea8188f2e381a3c39e36705629b378db6285) to match the DVDs.
+
 ### `transcripts/ folder`
 
 The transcripts folder contains 2 files for all episodes in `episodes.txt`:
