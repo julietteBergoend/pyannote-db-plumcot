@@ -184,7 +184,7 @@ Forced alignment was done using VRBS (closed-source), the rest of the code (e.g.
 We save :
 - RTTM files for diarization/identification : `<SERIE_URI>_<FORCED_ALIGNMENT_COLLAR>collar.rttm`. We merge tracks with same label and separated by less than `FORCED_ALIGNMENT_COLLAR` seconds, as forced-alignment output is usually over-segmented
 - UEM file : `<SERIE_URI>_<VRBS_CONFIDENCE_THRESHOLD>confidence.uem`. Keeps track of the "annotated" parts of the file (i.e. discard the parts were VRBS is not confident)
-- train, dev and test lists : `<set>.lst` for reproducible results.
+- train, dev and test lists : `<set>.lst` for reproducible results. If transcripts with speaker name is not available, forced-alignment still provides speech turn segmentation. If the serie has mixed transcripts (some episodes named, and some anonymous) then another list `<set>.SAD.lst` is used for the anonymous episodes.
 
 #### `<file_uri>.aligned`
 Inspired by [`stm`](http://www1.icsi.berkeley.edu/Speech/docs/sctk-1.2/infmts.htm#stm_fmt_name_0) the `aligned` format provides additionally the confidence of the model in the transcription :
