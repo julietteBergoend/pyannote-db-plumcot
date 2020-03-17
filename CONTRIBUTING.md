@@ -27,7 +27,7 @@ For each entries in `series.txt`, there is a corresponding sub-directory called 
 # Scripts
 
 All the scripts need to put on the `scripts` folder into the corresponding serie's name.
-We assume that we launch all the script from this root directory where README is stored.
+We assume that we launch all the script from this root directory where README is stored (TODO: update this shouldn't be necessary anymore since we rely on the `__init__` path -> TODO rely on `__init__` path everywhere).
 
 ```
 characters.py
@@ -85,10 +85,8 @@ The creation of this file should be automated as much as possible. Ideally, a sc
 `-v fileName` creates a file with `characters.txt` to easily verify the characters normalization.
 
 ```bash
-python characters.py series.txt TheBigBangTheory -v normVerif.txt
+characters.py series.txt TheBigBangTheory -v normVerif.txt
 ```
-
-Note: Leo is in charge of creating this script.
 
 ### `episodes.txt`
 
@@ -101,12 +99,10 @@ TheBigBangTheory.Season01.Episode01,Pilot,https://www.imdb.com/title/tt0775431/,
 The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `episodes.txt` file at once (or just one if an optional series identifier is provided)
 
 ```bash
-python episodes.py series.txt TheBigBangTheory
+episodes.py series.txt TheBigBangTheory
 ```
 
-For movies, we can use something like `HarryPotter.Episode01` as "episode" unique identifier.
-
-Note: Leo can probably do this script.
+For movies, we use `<serie_uri>.<episode_number>` as "episode" unique identifier (e.g. `HarryPotter.Episode01`).
 
 ### `credits.txt`
 
@@ -122,13 +118,9 @@ TheBigBangTheory.Season01.Episode01,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0...
 
 The ith binary column corresponds to the ith line in characters.txt
 
-The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `credits.txt` at once (or just one if an optional series identifier is provided)
-
 ```bash
-python episodes.py series.txt TheBigBangTheory -c
+episodes.py series.txt TheBigBangTheory -c
 ```
-
-Note: Leo is in charge of creating this script
 
 ### `transcripts/ folder`
 
@@ -144,21 +136,6 @@ The expected file format is the following: character identifier, followed by the
 Sheldon How are you, Leonard?
 Leonard Good, and you?
 ```
-
-It is unlikely that we will be able to code *one script to rule them all* generic enough to process all series. It will most likely need a lot of manual cleaning.
-
-This is why we will start by focusing on a sub-sample of the (eventually bigger) corpus.
-
-Note: here is a "who is doing what" split
-
-* Harry Potter : Ruiqing
-* The Big Bang Theory : Leo
-* Friends : Leo
-* Lost : Benjamin
-* Game of Thrones : Aman
-* Buffy the Vampire Slayer : Hervé
-* Battlestar Galactica : Benjamin
-* The Good Wife : Claude
 
 #### `{idEpisode}.txt`
 
@@ -177,7 +154,11 @@ When several characters speak at the same time, we concatenate normalized names 
 
 *all@* is used as the "all" tag.
 
-To normalize names, you can use the script normalizeTranscriptsNames.py like that: *python normalizeTranscriptsNames.py TheBigBangTheory*.
+To normalize names, you can use the script normalizeTranscriptsNames.py like that:
+
+```bash
+normalizeTranscriptsNames.py TheBigBangTheory
+```
 
 You can precise a season with -s option and an episode with -e option.
 
