@@ -15,6 +15,7 @@ from pathlib import Path
 from image_scraping import main as scrap
 from image_features import main as compute_references
 
+import pyannote.database
 import Plumcot as PC
 
 # Hyperparameters

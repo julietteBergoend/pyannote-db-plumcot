@@ -22,6 +22,7 @@ import re
 import numpy as np
 import pyannote.database
 import Plumcot as PC
+from pathlib import Path
 DATA_PATH=Path(PC.__file__).parent / "data"
 
 def normalizeName(fullName):

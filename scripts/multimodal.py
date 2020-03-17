@@ -30,6 +30,7 @@ from pyannote.database.util import load_rttm
 from pyannote.video.face.clustering import FaceClustering
 from pyannote.metrics.diarization import DiarizationErrorRate
 from images import CLUSTERING_THRESHOLD
+import pyannote.database
 import Plumcot as PC
 DATA_PATH=Path(PC.__file__).parent / "data"
 
