@@ -1,14 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: characters.py SOURCEFILE [SERIES] [-v FILE]
+"""Usage: characters.py SOURCEFILE [SERIES]
 
 Arguments:
     SOURCEFILE    input series list file
     SERIES        optionnal normalized name of a series
-
-Options:
-    -v FILE  creates normalization verification for names in FILE
 
 """
 
@@ -76,7 +73,7 @@ def scrapPage(pageIMDB):
     soup = BeautifulSoup(urlIDMB, 'lxml')
     seriesTable = soup.find('table', {'class': 'cast_list'}).find_all('tr')
 
-    cast = []
+    cast = {}
 
     for char in seriesTable:
         charInfo = char.find_all('td')
@@ -98,23 +95,20 @@ def scrapPage(pageIMDB):
             normActorName = normalizeName(actorName)
             normCharName = normalizeName(charName)
             if normCharName and normActorName:
-                cast.append((normCharName, normActorName, charName,
-                             actorName, charLink))
-
+                cast[normActorName] = (normCharName, normActorName, charName,
+                                        actorName, charLink)
     return cast
 
 
-def getData(pageIDMB):
-    """Extracts characters list of a series.
-
-    Given an IMDB page, extracts characters information in this format:
+def formatData(cast):
+    """Formats IMDb cast in the following format:
     actor's normalized name, character's full name, actor's full name,
-    IMDB.com character page, separated with commas.
+    IMDb.com character page, separated with commas.
 
     Parameters
     ----------
-    pageIMDB : `str`
-        IMDB page with the list of characters.
+    cast : `dict`
+        IMDB cast with actor normalized names as keys.
 
     Returns
     -------
@@ -123,9 +117,7 @@ def getData(pageIDMB):
     """
 
     textFile = []
-    cast = scrapPage(pageIDMB)
-
-    for normCharName, normActorName, charName, actorName, charLink in cast:
+    for normCharName, normActorName, charName, actorName, charLink in cast.values():
         text = normCharName + ',' + normActorName + ',' + charName + ',' + \
             actorName + ',' + charLink + '\n'
         text = text.encode('utf-8')
@@ -188,24 +180,17 @@ def main(args):
             if not onlyOne or idSeries == series:
                 if not isMovie:
                     link = sp[2]
-                    data = set(getData(link + "fullcredits/"))
-                    if args["-v"]:
-                        verifNorm(idSeries, args["-v"], data)
-                    finalText = "".join(data)
-                    writeData(idSeries, finalText)
-
+                    data = scrapPage(link + "fullcredits/")
                 else:
-                    sagaChars = set()
+                    data = {}
                     with open(DATA_PATH/idSeries/"episodes.txt", 'r') as fMovie:
                         for lineMovie in fMovie:
                             link = lineMovie.split(',')[2]
-                            movieChars = set(getData(link + "fullcredits/"))
-                            sagaChars.update(movieChars)
-                    # sagaChars = list(set(sagaChars)) to remove duplicates
-                    if args["-v"]:
-                        verifNorm(idSeries, args["-v"], sagaChars)
-                    finalText = "".join(sagaChars)
-                    writeData(idSeries, finalText)
+                            movieChars = scrapPage(link + "fullcredits/")
+                            data.update(movieChars)
+                formatted_data=formatData(data)
+                finalText = "".join(formatted_data)
+                writeData(idSeries, finalText)
 
 
 if __name__ == '__main__':
