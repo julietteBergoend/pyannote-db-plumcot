@@ -16,7 +16,11 @@ $ pip install pyannote-db-plumcot
 See [pyannote.database](https://github.com/pyannote/pyannote-database#custom-protocols)
 
 ```bash
+#TODO implement relative path in pyannote.database
+#until then, launch stuff from pyannote-db-plumcot/Plumcot/data/
+cd pyannote-db-plumcot/Plumcot/data/
 export PYANNOTE_DATABASE_CONFIG=pyannote-db-plumcot/Plumcot/data/database.yml
+python
 ```
 
 ```python

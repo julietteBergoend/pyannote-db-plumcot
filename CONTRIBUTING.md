@@ -27,7 +27,7 @@ For each entries in `series.txt`, there is a corresponding sub-directory called 
 # Scripts
 
 All the scripts need to put on the `scripts` folder into the corresponding serie's name.
-We assume that we launch all the script from this root directory where README is stored (TODO: update this shouldn't be necessary anymore since we rely on the `__init__` path -> TODO rely on `__init__` path everywhere).
+We assume that we launch all the script from this root directory where README is stored (TODO: update this shouldn't be necessary anymore for python scripts since we rely on the `__init__` path -> TODO rely on `__init__` path everywhere).
 
 ```
 characters.py
@@ -279,6 +279,9 @@ I also added a `characters` object (i.e. python `dict`) in `image_jsons['charact
 }
 ```
 
+## multimodal
+
+TODO: document multimodal when upscale experiments will be done.
 
 ## scene / narrative stuff
 
