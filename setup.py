@@ -40,6 +40,16 @@ setup(
     cmdclass=versioneer.get_cmdclass(),
     packages=find_packages(),
 
+    scripts=[
+        "scripts/characters.py",
+        "scripts/episodes.py",
+        "scripts/image_features.py",
+        "scripts/image_scraping.py",
+        "scripts/images.py",
+        "scripts/multimodal.py",
+        "scripts/normalizeTranscriptsNames.py",
+        "scripts/transcripts.py"
+    ],
     package_data={
         'Plumcot': [
             'data/*',
