@@ -21,6 +21,8 @@ from docopt import docopt
 import numpy as np
 import pyannote.database
 import Plumcot as PC
+from pathlib import Path
+
 DATA_PATH=Path(PC.__file__).parent / "data"
 
 def normalizeName(fullName):
@@ -186,19 +188,19 @@ def main(args):
             if not onlyOne or idSeries == series:
                 if not isMovie:
                     link = sp[2]
-                    data = getData(link + "fullcredits/")
+                    data = set(getData(link + "fullcredits/"))
                     if args["-v"]:
                         verifNorm(idSeries, args["-v"], data)
                     finalText = "".join(data)
                     writeData(idSeries, finalText)
 
                 else:
-                    sagaChars = []
+                    sagaChars = set()
                     with open(DATA_PATH/idSeries/"episodes.txt", 'r') as fMovie:
                         for lineMovie in fMovie:
                             link = lineMovie.split(',')[2]
-                            movieChars = getData(link + "fullcredits/")
-                            sagaChars.extend(movieChars)
+                            movieChars = set(getData(link + "fullcredits/"))
+                            sagaChars.update(movieChars)
                     # sagaChars = list(set(sagaChars)) to remove duplicates
                     if args["-v"]:
                         verifNorm(idSeries, args["-v"], sagaChars)
