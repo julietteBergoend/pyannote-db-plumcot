@@ -76,7 +76,7 @@ TheBigBangTheory/
 
 This file provides the list of characters (gathered from TV.com or IMDB.com). It contains one line per character with the following information: underscore-separated identifier, actor's normalized name, character's full name, actor's full name, IMDB.com character page.
 
-Note that this script is done so that there's a 1-1 mapping between actor and character, i.e. an actor can only play one character and a character can only be played by one actor.
+Note that this script is actor-centric, an actor can only play one character.
 
 ```
 leonard_hofstadter,johnny_galecki,Leonard Hofstadter,Johnny Galecki,https://www.imdb.com/title/tt0898266/characters/nm0301959
