@@ -57,9 +57,17 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'pyannote.database >= 1.5.4',
+        'pyannote.database >= 1.5.5',
         'affinegap',
-        'termcolor'
+        'termcolor',
+        'Unidecode>=1.0.23',
+        'docopt>=0.6.2',
+        'affinegap>=1.10',
+        'scipy>=1.1.0',
+        'requests>=2.18.4',
+        'numpy>=1.15.4',
+        'beautifulsoup4>=4.7.1',
+        'lxml'
     ],
     classifiers=[
         "Development Status :: 4 - Beta",
