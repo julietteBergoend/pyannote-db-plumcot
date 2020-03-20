@@ -3,59 +3,99 @@ Protocols:
     SpeakerDiarization:
       Plumcot:
         test:
-          24.SpeakerDiarization.0 : [test]
           BattlestarGalactica.SpeakerDiarization.0 : [test]
           BreakingBad.SpeakerDiarization.0 : [test]
           BuffyTheVampireSlayer.SpeakerDiarization.0 : [test]
-          Friends.SpeakerDiarization.FA-UNK : [test]
+          Friends.SpeakerDiarization.0 : [test]
           GameOfThrones.SpeakerDiarization.0 : [test]
-          Homeland.SpeakerDiarization.0 : [test]
           Lost.SpeakerDiarization.0 : [test]
-          SixFeetUnder.SpeakerDiarization.0 : [test]
           TheBigBangTheory.SpeakerDiarization.0 : [test]
           TheOffice.SpeakerDiarization.0 : [test]
           TheWalkingDead.SpeakerDiarization.0 : [test]
-          ER.SpeakerDiarization.0 : [test]
           HarryPotter.SpeakerDiarization.0 : [test]
           StarWars.SpeakerDiarization.0 : [test]
           TheLordOfTheRings.SpeakerDiarization.0 : [test]
         development:
-          24.SpeakerDiarization.0 : [development]
           BattlestarGalactica.SpeakerDiarization.0 : [development]
           BreakingBad.SpeakerDiarization.0 : [development]
           BuffyTheVampireSlayer.SpeakerDiarization.0 : [development]
-          Friends.SpeakerDiarization.FA-UNK : [development]
+          Friends.SpeakerDiarization.0 : [development]
           GameOfThrones.SpeakerDiarization.0 : [development]
-          Homeland.SpeakerDiarization.0 : [development]
           Lost.SpeakerDiarization.0 : [development]
-          SixFeetUnder.SpeakerDiarization.0 : [development]
           TheBigBangTheory.SpeakerDiarization.0 : [development]
           TheOffice.SpeakerDiarization.0 : [development]
           TheWalkingDead.SpeakerDiarization.0 : [development]
-          ER.SpeakerDiarization.0 : [development]
           HarryPotter.SpeakerDiarization.0 : [development]
           StarWars.SpeakerDiarization.0 : [development]
           TheLordOfTheRings.SpeakerDiarization.0 : [development]
         train:
-          24.SpeakerDiarization.0 : [train]
           BattlestarGalactica.SpeakerDiarization.0 : [train]
           BreakingBad.SpeakerDiarization.0 : [train]
           BuffyTheVampireSlayer.SpeakerDiarization.0 : [train]
-          Friends.SpeakerDiarization.FA-UNK : [train]
+          Friends.SpeakerDiarization.0 : [train]
           GameOfThrones.SpeakerDiarization.0 : [train]
-          Homeland.SpeakerDiarization.0 : [train]
           Lost.SpeakerDiarization.0 : [train]
-          SixFeetUnder.SpeakerDiarization.0 : [train]
           TheBigBangTheory.SpeakerDiarization.0 : [train]
           TheOffice.SpeakerDiarization.0 : [train]
           TheWalkingDead.SpeakerDiarization.0 : [train]
-          ER.SpeakerDiarization.0 : [train]
           HarryPotter.SpeakerDiarization.0 : [train]
+          StarWars.SpeakerDiarization.0 : [train]
+          TheLordOfTheRings.SpeakerDiarization.0 : [train]
+      SAD:
+        test:
+          24.SpeakerDiarization.SAD : [test]
+          BattlestarGalactica.SpeakerDiarization.SAD : [test]
+          BreakingBad.SpeakerDiarization.0 : [test]
+          BuffyTheVampireSlayer.SpeakerDiarization.0 : [test]
+          Friends.SpeakerDiarization.0 : [test]
+          GameOfThrones.SpeakerDiarization.0 : [test]
+          Homeland.SpeakerDiarization.SAD : [test]
+          Lost.SpeakerDiarization.0 : [test]
+          SixFeetUnder.SpeakerDiarization.SAD : [test]
+          TheBigBangTheory.SpeakerDiarization.0 : [test]
+          TheOffice.SpeakerDiarization.0 : [test]
+          TheWalkingDead.SpeakerDiarization.SAD : [test]
+          ER.SpeakerDiarization.SAD : [test]
+          HarryPotter.SpeakerDiarization.SAD : [test]
+          StarWars.SpeakerDiarization.0 : [test]
+          TheLordOfTheRings.SpeakerDiarization.0 : [test]
+        development:
+          24.SpeakerDiarization.SAD : [development]
+          BattlestarGalactica.SpeakerDiarization.SAD : [development]
+          BreakingBad.SpeakerDiarization.0 : [development]
+          BuffyTheVampireSlayer.SpeakerDiarization.0 : [development]
+          Friends.SpeakerDiarization.0 : [development]
+          GameOfThrones.SpeakerDiarization.0 : [development]
+          Homeland.SpeakerDiarization.SAD : [development]
+          Lost.SpeakerDiarization.0 : [development]
+          SixFeetUnder.SpeakerDiarization.SAD : [development]
+          TheBigBangTheory.SpeakerDiarization.0 : [development]
+          TheOffice.SpeakerDiarization.0 : [development]
+          TheWalkingDead.SpeakerDiarization.SAD : [development]
+          ER.SpeakerDiarization.SAD : [development]
+          HarryPotter.SpeakerDiarization.SAD : [development]
+          StarWars.SpeakerDiarization.0 : [development]
+          TheLordOfTheRings.SpeakerDiarization.0 : [development]
+        train:
+          24.SpeakerDiarization.SAD : [train]
+          BattlestarGalactica.SpeakerDiarization.SAD : [train]
+          BreakingBad.SpeakerDiarization.0 : [train]
+          BuffyTheVampireSlayer.SpeakerDiarization.0 : [train]
+          Friends.SpeakerDiarization.0 : [train]
+          GameOfThrones.SpeakerDiarization.0 : [train]
+          Homeland.SpeakerDiarization.SAD : [train]
+          Lost.SpeakerDiarization.0 : [train]
+          SixFeetUnder.SpeakerDiarization.SAD : [train]
+          TheBigBangTheory.SpeakerDiarization.0 : [train]
+          TheOffice.SpeakerDiarization.0 : [train]
+          TheWalkingDead.SpeakerDiarization.SAD : [train]
+          ER.SpeakerDiarization.SAD : [train]
+          HarryPotter.SpeakerDiarization.SAD : [train]
           StarWars.SpeakerDiarization.0 : [train]
           TheLordOfTheRings.SpeakerDiarization.0 : [train]
   24:
     SpeakerDiarization:
-      0:
+      SAD:
         train:
           annotation: 24/forced-alignment/24_0.15collar.rttm
           annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
@@ -73,15 +113,28 @@ Protocols:
         0:
           train:
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
-            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.UNK.uem
-            uris: BattlestarGalactica/train_list.SAD.lst
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
+            uris: BattlestarGalactica/train_list.lst
           development:
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
-            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.UNK.uem
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
             uris: BattlestarGalactica/dev_list.lst
           test:
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
-            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.UNK.uem
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
+            uris: BattlestarGalactica/test_list.lst
+        SAD:
+          train:
+            annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
+            uris: BattlestarGalactica/train_list.SAD.lst
+          development:
+            annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
+            uris: BattlestarGalactica/dev_list.lst
+          test:
+            annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
+            annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
             uris: BattlestarGalactica/test_list.lst
   BreakingBad:
       SpeakerDiarization:
@@ -103,30 +156,30 @@ Protocols:
         0:
           train:
             annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
-            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
             uris: BuffyTheVampireSlayer/train_list.lst
           development:
             annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
-            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
             uris: BuffyTheVampireSlayer/dev_list.lst
           test:
             annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
-            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.uem
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
             uris: BuffyTheVampireSlayer/test_list.lst
   Friends:
     SpeakerDiarization:
-      FA-UNK:
+      0:
         train:
           annotation: Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: Friends/forced-alignment/Friends_0.5confidence.UNK.uem
+          annotated: Friends/forced-alignment/Friends_0.5confidence.SAD.uem
           uris: Friends/train_list.lst
         development:
           annotation: Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: Friends/forced-alignment/Friends_0.5confidence.UNK.uem
+          annotated: Friends/forced-alignment/Friends_0.5confidence.SAD.uem
           uris: Friends/dev_list.lst
         test:
           annotation: Friends/forced-alignment/Friends_0.15collar.rttm
-          annotated: Friends/forced-alignment/Friends_0.5confidence.UNK.uem
+          annotated: Friends/forced-alignment/Friends_0.5confidence.SAD.uem
           uris: Friends/test_list.lst
   GameOfThrones:
       SpeakerDiarization:
@@ -145,7 +198,7 @@ Protocols:
             uris: GameOfThrones/test_list.lst
   Homeland:
       SpeakerDiarization:
-        0:
+        SAD:
           train:
             annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
             annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
@@ -163,19 +216,19 @@ Protocols:
         0:
           train:
             annotation: Lost/forced-alignment/Lost_0.15collar.rttm
-            annotated: Lost/forced-alignment/Lost_0.5confidence.uem
+            annotated: Lost/forced-alignment/Lost_0.5confidence.SAD.uem
             uris: Lost/train_list.lst
           development:
             annotation: Lost/forced-alignment/Lost_0.15collar.rttm
-            annotated: Lost/forced-alignment/Lost_0.5confidence.uem
+            annotated: Lost/forced-alignment/Lost_0.5confidence.SAD.uem
             uris: Lost/dev_list.lst
           test:
             annotation: Lost/forced-alignment/Lost_0.15collar.rttm
-            annotated: Lost/forced-alignment/Lost_0.5confidence.uem
+            annotated: Lost/forced-alignment/Lost_0.5confidence.SAD.uem
             uris: Lost/test_list.lst
   SixFeetUnder:
       SpeakerDiarization:
-        0:
+        SAD:
           train:
             annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
             annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
@@ -233,9 +286,22 @@ Protocols:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
             uris: TheWalkingDead/test_list.lst
+        SAD:
+          train:
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uris: TheWalkingDead/train_list.lst
+          development:
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uris: TheWalkingDead/dev_list.SAD.lst
+          test:
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uris: TheWalkingDead/test_list.SAD.lst
   ER:
       SpeakerDiarization:
-        0:
+        SAD:
           train:
             annotation: ER/forced-alignment/ER_0.15collar.rttm
             annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
@@ -259,6 +325,19 @@ Protocols:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
             uris: HarryPotter/dev_list.lst
+          test:
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uris: HarryPotter/test_list.lst
+        SAD:
+          train:
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uris: HarryPotter/train_list.SAD.lst
+          development:
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uris: HarryPotter/dev_list.SAD.lst
           test:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
