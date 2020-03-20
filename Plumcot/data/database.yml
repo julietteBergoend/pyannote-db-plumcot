@@ -290,7 +290,7 @@ Protocols:
           train:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/train_list.lst
+            uris: TheWalkingDead/train_list.SAD.lst
           development:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
@@ -298,7 +298,7 @@ Protocols:
           test:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/test_list.SAD.lst
+            uris: TheWalkingDead/test_list.lst
   ER:
       SpeakerDiarization:
         SAD:
