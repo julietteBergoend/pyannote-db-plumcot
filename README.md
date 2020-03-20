@@ -1,8 +1,8 @@
-# PLUMCOT corpus (not ready for prime time)
+# PLUMCOT 0
 
-This repository provides a Python API to access the PLUMCOT corpus programmatically.
+TODO update with entity linking stuff
 
-The PLUMCOT corpus provides annotation for speech activity detection, speaker diarization, speaker identification on 16 TV (or movie) series :
+The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification on 16 TV (or movie) series :
 - [24](https://www.imdb.com/title/tt0285331/)*
 - [BattlestarGalactica](https://www.imdb.com/title/tt0407362/)
 - [BreakingBad](https://www.imdb.com/title/tt0903747/)
@@ -21,11 +21,15 @@ The PLUMCOT corpus provides annotation for speech activity detection, speaker di
 - [TheWalkingDead](https://www.imdb.com/title/tt1520211/)**
 
 
->\*only provides speech activity detection annotations  
+>\*doesn't provide speaker diarization and speaker identification annotations  
 \*\*partially provides speaker diarization and speaker identification annotations
 
 
-Annotations come from forced-alignment on series transcripts except for Breaking Bad and Game Of Thrones which were manually annotated by Bost et al.
+Speaker annotations come from forced-alignment on series transcripts except for Breaking Bad and Game Of Thrones which were manually annotated by Bost et al.
+
+Face recognition annotations consists of a dataset of images labeled with the featured characters, scrapped from [IMDb](https://www.imdb.com/). No bounding box nor video identification annotations are provided (for now).
+
+In addition, this repository provides a Python API to access the corpus programmatically.
 
 ## Installation
 
@@ -48,18 +52,43 @@ export PYANNOTE_DATABASE_CONFIG=pyannote-db-plumcot/Plumcot/data/database.yml
 python
 ```
 
+### Speaker Diarization / Identification
+
 ```python
 from pyannote.database import get_protocol
 
 # you can access the whole dataset using the meta-protocol 'X'
-plumcot = get_protocol('X.SpeakerDiarization.Plumcot')
-print(plumcot.stats('train'))
+>>> plumcot = get_protocol('X.SpeakerDiarization.Plumcot')
+# Note : this might take a while...
+>>> plumcot.stats('train')
+{'annotated': 710303.0550000002, 'annotation': 383730.8849999984, 'n_files': 681, 'labels': {...}}
 
-# or access each serie individually, e.g. 'BuffyTheVampireSlayer'
-buffy = get_protocol('BuffyTheVampireSlayer.SpeakerDiarization.0')
-print(buffy.stats('train'))
+# or access each serie individually, e.g. 'HarryPotter'
+>>> from pyannote.database import get_protocol
+>>> harry = get_protocol('HarryPotter.SpeakerDiarization.0')
+>>> harry.stats('train')
+{'annotated': 5281.429999999969, 'annotation': 2836.8099999998867, 'n_files': 2, 'labels': {...}}
+
 ```
 
+### Speech Activity Detection
+
+Note that the previous dataset is also suitable for Speech Activity Detection but is smaller.
+
+```python
+from pyannote.database import get_protocol
+
+# you can access the whole dataset using the meta-protocol 'X'
+>>> plumcot = get_protocol('X.SpeakerDiarization.SAD')
+# Note : this might take a while...
+>>> plumcot.stats('train')
+{'annotated': 1240787.6950000003, 'annotation': 700932.564999995, 'n_files': 1096, 'labels': {...}}
+
+# or access each serie individually, e.g. 'HarryPotter'
+>>> harry = get_protocol('HarryPotter.SpeakerDiarization.SAD')
+>>> harry.stats('train')
+{'annotated': 12864.489999999932, 'annotation': 5853.799999999804, 'n_files': 5, 'labels': {...}}
+```
 Note: we don't provide for the series audio or video files! You'll need to acquire them yourself then set the path to the wav files in `pyannote-db-plumcot/Plumcot/data/database.yml` ('Databases' field).
 
 
@@ -67,7 +96,7 @@ Note: we don't provide for the series audio or video files! You'll need to acqui
 
 Transcripts, diarization and entities annotation can be found as text file in `Plumcot/data` sub-directory. Formats etc. are described in `CONTRIBUTING.md`.
 
-The IMDb images dataset is provided from an external link : **[TODO](TODO)**. Alternatively, you can scrap the images yourself using `scripts/images_scraping.py` (see `CONTRIBUTING.md`).
+The face recognition dataset is provided from an external link : **[TODO](TODO)**. Alternatively, you can scrap the images yourself using `scripts/images_scraping.py` (see `CONTRIBUTING.md`).
 
 ### DVDs
 
