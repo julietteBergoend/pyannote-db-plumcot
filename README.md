@@ -2,6 +2,8 @@
 
 TODO update with entity linking stuff
 
+![annotation_durations](./annotation_durations.png)
+
 The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification on 16 TV (or movie) series :
 - [24](https://www.imdb.com/title/tt0285331/)*
 - [BattlestarGalactica](https://www.imdb.com/title/tt0407362/)
@@ -55,7 +57,7 @@ python
 ### Speaker Diarization / Identification
 
 ```python
-from pyannote.database import get_protocol
+>>> from pyannote.database import get_protocol
 
 # you can access the whole dataset using the meta-protocol 'X'
 >>> plumcot = get_protocol('X.SpeakerDiarization.Plumcot')
@@ -76,13 +78,13 @@ from pyannote.database import get_protocol
 Note that the previous dataset is also suitable for Speech Activity Detection but is smaller.
 
 ```python
-from pyannote.database import get_protocol
+>>> from pyannote.database import get_protocol
 
 # you can access the whole dataset using the meta-protocol 'X'
 >>> plumcot = get_protocol('X.SpeakerDiarization.SAD')
 # Note : this might take a while...
 >>> plumcot.stats('train')
-{'annotated': 1240787.6950000003, 'annotation': 700932.564999995, 'n_files': 1096, 'labels': {...}}
+{'annotated': 1286065.3450000014, 'annotation': 716507.5149999945, 'n_files': 1144, 'labels': {...}}
 
 # or access each serie individually, e.g. 'HarryPotter'
 >>> harry = get_protocol('HarryPotter.SpeakerDiarization.SAD')
