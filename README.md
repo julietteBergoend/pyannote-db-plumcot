@@ -47,10 +47,7 @@ $ pip install pyannote-db-plumcot
 Please refer to [pyannote.database](https://github.com/pyannote/pyannote-database#custom-protocols) for a complete documentation.
 
 ```bash
-#TODO implement relative path in pyannote.database
-#until then, launch stuff from pyannote-db-plumcot/Plumcot/data/
-cd pyannote-db-plumcot/Plumcot/data/
-export PYANNOTE_DATABASE_CONFIG=pyannote-db-plumcot/Plumcot/data/database.yml
+export PYANNOTE_DATABASE_CONFIG=$PWD/pyannote-db-plumcot/Plumcot/data/database.yml
 python
 ```
 
@@ -91,7 +88,7 @@ Note that the previous dataset is also suitable for Speech Activity Detection bu
 >>> harry.stats('train')
 {'annotated': 12864.489999999932, 'annotation': 5853.799999999804, 'n_files': 5, 'labels': {...}}
 ```
-Note: we don't provide for the series audio or video files! You'll need to acquire them yourself then set the path to the wav files in `pyannote-db-plumcot/Plumcot/data/database.yml` ('Databases' field).
+> Note: we don't provide for the series audio or video files! You'll need to acquire them yourself then place them in the relevant serie directory (e.g. `HarryPotter/wavs`) with file name formatted as `<file_uri>.en16kHz.wav`. See also [DVD section](#DVDs).
 
 
 ## Raw data
