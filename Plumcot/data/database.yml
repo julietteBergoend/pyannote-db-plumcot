@@ -373,20 +373,19 @@ Protocols:
             annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
             uris: TheLordOfTheRings/test_list.lst
 Databases:
-  24: /path/to/wavs/24/{uri}.en16kHz.wav
-  BattlestarGalactica: /path/to/wavs/BattlestarGalactica/{uri}.en16kHz.wav
-  Caprica: /path/to/wavs/Caprica/{uri}.en16kHz.wav
-  BreakingBad: /path/to/wavs/BreakingBad/{uri}.en16kHz.wav
-  BuffyTheVampireSlayer: /path/to/wavs/BuffyTheVampireSlayer/{uri}.en16kHz.wav
-  Friends: /path/to/wavs/Friends/{uri}.en16kHz.wav
-  GameOfThrones: /path/to/wavs/GameOfThrones/{uri}.en16kHz.wav
-  Homeland: /path/to/wavs/Homeland/{uri}.en16kHz.wav
-  Lost: /path/to/wavs/Lost/{uri}.en16kHz.wav
-  SixFeetUnder: /path/to/wavs/SixFeetUnder/{uri}.en16kHz.wav
-  TheBigBangTheory: /path/to/wavs/TheBigBangTheory/{uri}.en16kHz.wav
-  TheOffice: /path/to/wavs/TheOffice/{uri}.en16kHz.wav
-  TheWalkingDead: /path/to/wavs/TheWalkingDead/{uri}.en16kHz.wav
-  ER: /path/to/wavs/ER/{uri}.en16kHz.wav
-  HarryPotter: /path/to/wavs/HarryPotter/{uri}.en16kHz.wav
-  StarWars: /path/to/wavs/StarWars/{uri}.en16kHz.wav
-  TheLordOfTheRings: /path/to/wavs/TheLordOfTheRings/{uri}.en16kHz.wav
+  24: 24/wavs/{uri}.en16kHz.wav
+  BattlestarGalactica: BattlestarGalactica/wavs/{uri}.en16kHz.wav
+  BreakingBad: BreakingBad/wavs/{uri}.en16kHz.wav
+  BuffyTheVampireSlayer: BuffyTheVampireSlayer/wavs/{uri}.en16kHz.wav
+  Friends: Friends/wavs/{uri}.en16kHz.wav
+  GameOfThrones: GameOfThrones/wavs/{uri}.en16kHz.wav
+  Homeland: Homeland/wavs/{uri}.en16kHz.wav
+  Lost: Lost/wavs/{uri}.en16kHz.wav
+  SixFeetUnder: SixFeetUnder/wavs/{uri}.en16kHz.wav
+  TheBigBangTheory: TheBigBangTheory/wavs/{uri}.en16kHz.wav
+  TheOffice: TheOffice/wavs/{uri}.en16kHz.wav
+  TheWalkingDead: TheWalkingDead/wavs/{uri}.en16kHz.wav
+  ER: ER/wavs/{uri}.en16kHz.wav
+  HarryPotter: HarryPotter/wavs/{uri}.en16kHz.wav
+  StarWars: StarWars/wavs/{uri}.en16kHz.wav
+  TheLordOfTheRings: TheLordOfTheRings/wavs/{uri}.en16kHz.wav
