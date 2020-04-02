@@ -84,7 +84,7 @@ leonard_hofstadter,johnny_galecki,Leonard Hofstadter,Johnny Galecki,https://www.
 
 Usage:
 ```bash
-characters.py Plumcot/data/series.txt TheBigBangTheory
+characters.py --serie=TheBigBangTheory
 ```
 
 ### `episodes.txt`
@@ -97,7 +97,7 @@ TheBigBangTheory.Season01.Episode01,Pilot,https://www.imdb.com/title/tt0775431/,
 
 Usage:
 ```bash
-episodes.py Plumcot/data/series.txt TheBigBangTheory
+episodes.py --serie=TheBigBangTheory
 ```
 
 For movies, we use `<serie_uri>.<episode_number>` as "episode" unique identifier (e.g. `HarryPotter.Episode01`).
@@ -117,7 +117,7 @@ TheBigBangTheory.Season01.Episode01,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0...
 The ith binary column corresponds to the ith line in characters.txt
 
 ```bash
-episodes.py Plumcot/data/series.txt TheBigBangTheory -c
+episodes.py --serie=TheBigBangTheory -c
 ```
 
 ### `transcripts/ folder`
