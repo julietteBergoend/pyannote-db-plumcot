@@ -117,6 +117,14 @@ bash scripts/concat_double_episodes.sh <serie_uri> </path/to/wavs>
 
 Note that this will only create a new wav file resulting of the concatenation of `<episode.i>` and `<episode.j>` named like `<episode.i.j>` but it will not fix the numbering of the others episodes (TODO: add code to do it ?)
 
+## Ambiguous labels
+
+Some labels are ambiguous depending on whether we focus on the speaker or on the entity.
+
+We decided to focus on the entity as much as possible, e.g. 'Obiwan Kenobi' has the same label in the old and the new Star Wars movies, although it is not the same actor (i.e. speaker).
+
+However, we annotated following the IMDb credits which are not always consistent, e.g. the emperor in Star Wars doesn't have the same label in the old and the new episodes.
+
 ## References
 
 Bost, X., Labatut, V., Linares, G., 2020. Serial speakers: a dataset of tv series. arXiv preprint arXiv:2002.06923.
