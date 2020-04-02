@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: characters.py SOURCEFILE [SERIES]
+"""Scrap character list from IMDb
+Usage: characters.py [--series=<series> --serie=<serie>]
+characters.py count [--series=<series> --serie=<serie>]
+characters.py duplicates [--series=<series> --serie=<serie>]
 
-Arguments:
-    SOURCEFILE    input series list file
-    SERIES        optionnal normalized name of a series
-
+Options:
+    --series=<series>    Path to a file containing information about the series
+                         formatted as 'Plumcot/data/series.txt' (see CONTRIBUTING).
+                         Defaults to 'Plumcot/data/series.txt'
+    --serie=<serie>      Process only this `serie`.
+                         Defaults to processing all `series`
 """
 
 import requests
@@ -14,6 +19,7 @@ from bs4 import BeautifulSoup
 import codecs  # for encoding the data as utf-8
 import unidecode
 import re
+import json
 from docopt import docopt
 import numpy as np
 import pyannote.database
@@ -164,20 +170,14 @@ def verifNorm(idSeries, fileName, data):
 
             f.write(normName + ";" + name + "\n")
 
-
-def main(args):
-    sourceFile = args["SOURCEFILE"]
-    onlyOne = args["SERIES"]
-    if onlyOne:
-        series = args["SERIES"]
-
-    with open(sourceFile, 'r') as f:
+def scrap(series,serie):
+    with open(series, 'r') as f:
         for line in f:
             sp = line.split(',')
             idSeries = sp[0]
             isMovie = int(sp[4])
 
-            if not onlyOne or idSeries == series:
+            if not serie or idSeries == serie:
                 if not isMovie:
                     link = sp[2]
                     data = scrapPage(link + "fullcredits/")
@@ -191,6 +191,72 @@ def main(args):
                 formatted_data=formatData(data)
                 finalText = "".join(formatted_data)
                 writeData(idSeries, finalText)
+
+def find_duplicates(series,serie,actors=False,write = False):
+    unique_per_series, unique_actor_per_series = {}, {}
+    series = np.loadtxt(series, dtype=str, delimiter=',', usecols=(0,))
+    for idSeries in series:
+        if not serie or idSeries == serie:
+            serie_characters=np.loadtxt(DATA_PATH/idSeries/"characters.txt",
+                              dtype=str, delimiter=',', usecols=(0,1))
+            serie_characters_dict = {}
+            for character, actor in serie_characters:
+                serie_characters_dict.setdefault(character,[]).append(actor)
+            serie_characters_dict = {character: actors for character, actors in serie_characters_dict.items() if len(actors)>1}
+
+            for character in serie_characters_dict.keys():
+                unique_per_series.setdefault(character,[]).append(idSeries)
+            for actor in set(serie_characters[:,1]):
+                unique_actor_per_series.setdefault(actor,[]).append(idSeries)
+            if not write:
+                continue
+            with open(DATA_PATH/idSeries/"not_unique.json",'w') as file:
+                json.dump(serie_characters_dict,file,indent=4,sort_keys=True)
+    unique_per_series = {character: series for character, series in unique_per_series.items() if len(series) > 1}
+    unique_actor_per_series = {actor: series for actor, series in unique_actor_per_series.items() if len(series) > 1}
+    with open(DATA_PATH/"not_unique_across_series.json",'w') as file:
+        json.dump(unique_per_series,file,indent=4,sort_keys=True)
+    with open(DATA_PATH/"not_unique_actors_across_series.json",'w') as file:
+        json.dump(unique_actor_per_series,file,indent=4,sort_keys=True)
+
+def count(series,serie,actors=False,write = False):
+    unique_per_series = []
+    index = 1 if actors else 0
+    series = np.loadtxt(series, dtype=str, delimiter=',', usecols=(0,))
+    for idSeries in series:
+        if not serie or idSeries == serie:
+            serie_characters=np.loadtxt(DATA_PATH/idSeries/"characters.txt",
+                              dtype=str, delimiter=',', usecols=(index,))
+            unique,indices,counts=np.unique(serie_characters,return_index=True, return_counts=True)
+            unique_per_series.append(unique)
+            if not write :
+                continue
+            name = "not_unique_actors.csv" if actors else "not_unique.csv"
+            with open(DATA_PATH/idSeries/name,'w') as file:
+                for name, count in zip(unique,counts):
+                    if count == 1:
+                        continue
+                    file.write(f'{name},{count}\n')
+    unique_per_series = np.concatenate(unique_per_series)
+    unique,indices,counts=np.unique(unique_per_series,return_index=True, return_counts=True)
+    name = "not_unique_actors_across_series.csv" if actors else "not_unique_across_series.csv"
+    with open(DATA_PATH/name,'w') as file:
+        for name, count in zip(unique,counts):
+            if count == 1:
+                continue
+            file.write(f'{name},{count}\n')
+
+
+def main(args):
+    series = args["--series"] if args["--series"] else DATA_PATH / 'series.txt'
+    serie = args["--serie"]
+    if args['count']:
+        count(series,serie)
+    elif args['duplicates']:
+        find_duplicates(series,serie)
+    else:
+        scrap(series,serie)
+
 
 
 if __name__ == '__main__':
