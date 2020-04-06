@@ -24,6 +24,7 @@ from docopt import docopt
 import numpy as np
 import pyannote.database
 import Plumcot as PC
+from Plumcot import Plumcot
 from pathlib import Path
 
 DATA_PATH=Path(PC.__file__).parent / "data"
@@ -219,39 +220,30 @@ def find_duplicates(series,serie,actors=False,write = False):
     with open(DATA_PATH/"not_unique_actors_across_series.json",'w') as file:
         json.dump(unique_actor_per_series,file,indent=4,sort_keys=True)
 
-def count(series,serie,actors=False,write = False):
-    unique_per_series = []
-    index = 1 if actors else 0
-    series = np.loadtxt(series, dtype=str, delimiter=',', usecols=(0,))
-    for idSeries in series:
+def count(serie,actors=False):
+    db = Plumcot()
+    counter = {}
+    for idSeries in db.get_protocols("Collection"):
         if not serie or idSeries == serie:
-            serie_characters=np.loadtxt(DATA_PATH/idSeries/"characters.txt",
-                              dtype=str, delimiter=',', usecols=(index,))
-            unique,indices,counts=np.unique(serie_characters,return_index=True, return_counts=True)
-            unique_per_series.append(unique)
-            if not write :
-                continue
-            name = "not_unique_actors.csv" if actors else "not_unique.csv"
-            with open(DATA_PATH/idSeries/name,'w') as file:
-                for name, count in zip(unique,counts):
-                    if count == 1:
-                        continue
-                    file.write(f'{name},{count}\n')
-    unique_per_series = np.concatenate(unique_per_series)
-    unique,indices,counts=np.unique(unique_per_series,return_index=True, return_counts=True)
-    name = "not_unique_actors_across_series.csv" if actors else "not_unique_across_series.csv"
+            field = 'actor_uri' if actors else 'character_uri'
+            serie_characters=db.get_characters(idSeries, field=field)
+            #loop through episodes
+            for character_list in serie_characters.values():
+                #loop through characters in episode
+                for character in character_list:
+                    counter.setdefault(character,{})
+                    counter[character].setdefault(idSeries,0)
+                    counter[character][idSeries]+=1
+    counter = {character: series for character, series in counter.items() if len(series) > 1}
+    name = "actor_counter.json" if actors else "counter.json"
     with open(DATA_PATH/name,'w') as file:
-        for name, count in zip(unique,counts):
-            if count == 1:
-                continue
-            file.write(f'{name},{count}\n')
-
+        json.dump(counter,file,indent=4,sort_keys=True)
 
 def main(args):
     series = args["--series"] if args["--series"] else DATA_PATH / 'series.txt'
     serie = args["--serie"]
     if args['count']:
-        count(series,serie)
+        count(serie)
     elif args['duplicates']:
         find_duplicates(series,serie)
     else:
