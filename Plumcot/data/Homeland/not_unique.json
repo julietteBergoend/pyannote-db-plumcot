@@ -1,0 +1,453 @@
+{
+    "admiral": [
+        "lawrence_clayton",
+        "stephen_jennings"
+    ],
+    "aide": [
+        "bradley_nnadi",
+        "chi_mhende",
+        "laura_morgan"
+    ],
+    "analyst": [
+        "stacey_swift",
+        "casey_brancato"
+    ],
+    "anesthesiologist": [
+        "thom_scott_ii",
+        "brian_lafontaine"
+    ],
+    "audience_member": [
+        "john_s_howell_sr",
+        "derrick_worsley",
+        "reese_langlois",
+        "janae_palmer"
+    ],
+    "bar_patron": [
+        "blair_landon_dimmick",
+        "laura_avnaim",
+        "jake_crocker",
+        "shawn_everett_jones"
+    ],
+    "bbq_guest": [
+        "jennifer_russoli",
+        "justin_wheelon"
+    ],
+    "cashier": [
+        "elizabeth_potthast",
+        "bonnie_cole"
+    ],
+    "chaplin": [
+        "seth_gilliam",
+        "clay_heatley"
+    ],
+    "cia_agent": [
+        "scott_alms",
+        "giovanna_braund"
+    ],
+    "cia_analyst": [
+        "ron_stafford",
+        "mark_wijsman",
+        "kalina_vanska",
+        "lane_lovegrove",
+        "karen_boles",
+        "brian_patrick_walsh"
+    ],
+    "cia_senior_analyst": [
+        "miller_carbon",
+        "fred_galle"
+    ],
+    "cia_tech": [
+        "jason_davis",
+        "dennis_layden",
+        "brent_gribble"
+    ],
+    "clerk": [
+        "bridget_gethins",
+        "buzz_bovshow",
+        "brandon_gregory"
+    ],
+    "cnb_news_anchor": [
+        "kristen_mcfann",
+        "diana_perez"
+    ],
+    "cnb_reporter": [
+        "todd_alan_crain",
+        "shelby_brown"
+    ],
+    "colton_prep_student": [
+        "madison_drew_barrett",
+        "sabrina_battiston"
+    ],
+    "courtroom_observer": [
+        "derwin_frank",
+        "keya_hamilton"
+    ],
+    "demonstrator": [
+        "robert_crayton",
+        "cabrenna_h_burks"
+    ],
+    "detective": [
+        "kim_sykes",
+        "jon_kohler",
+        "paul_urcioli",
+        "willie_tyrone_ferguson",
+        "darrick_claiborne",
+        "chris_vaber"
+    ],
+    "doctor": [
+        "erik_dellums",
+        "kevin_otto",
+        "anas_bensalama",
+        "kysionia_daye"
+    ],
+    "driver": [
+        "james_g_martin_jr",
+        "rob_priester",
+        "korey_jackson",
+        "andrei_zayats",
+        "hisham_suliman",
+        "gary_ayash",
+        "peter_chiamardas"
+    ],
+    "er_nurse": [
+        "dreah_marie",
+        "yvonne_valadez"
+    ],
+    "fbi_agent": [
+        "brian_brightman",
+        "parker_madison",
+        "jb_torres_medina",
+        "gordon_dillard_jr",
+        "chino_garnett",
+        "jc_oakley_iii",
+        "mike_scerbo",
+        "christopher_zmuda"
+    ],
+    "fbi_tech": [
+        "alan_boell",
+        "vince_pisani"
+    ],
+    "female_reporter": [
+        "christina_bach",
+        "rachael_thompson"
+    ],
+    "franny": [
+        "claire_keane",
+        "mckenna_keane",
+        "luna_pfitzer",
+        "lotta_pfitzer"
+    ],
+    "grad_student": [
+        "lucky_harmon",
+        "jesse_milliner",
+        "brendan_petak",
+        "mars_xexelia"
+    ],
+    "guard": [
+        "hakim_callender",
+        "dean_johnson",
+        "heanon_tate"
+    ],
+    "hearing_spectator": [
+        "angel_verde",
+        "dan_verkman"
+    ],
+    "homeless_man": [
+        "arthur_french",
+        "mcpherson",
+        "jibril_goodman",
+        "thor_macht"
+    ],
+    "hotel_guest": [
+        "brant_casey",
+        "amanda_mcnulty",
+        "elisabeth_daley",
+        "brent_moorer_gaskins",
+        "penny_nichols",
+        "kevin_pitcairn"
+    ],
+    "imam": [
+        "rafael_fuentes",
+        "haythem_noor"
+    ],
+    "interviewer": [
+        "bhavna_singh",
+        "l_derek_leonidoff"
+    ],
+    "jeff": [
+        "daniel_newman",
+        "james_allen_mccune"
+    ],
+    "josh": [
+        "alex_hurt",
+        "josh_segarra"
+    ],
+    "josie": [
+        "tal_raviv",
+        "lorrie_odom"
+    ],
+    "lawyer": [
+        "aaron_farb",
+        "peter_sweet",
+        "janet_devine_smith",
+        "stephanie_green",
+        "greg_puckett",
+        "rick_tyler"
+    ],
+    "male_reporter": [
+        "james_edward_thomas",
+        "casey_ford_alexander",
+        "paul_ryden"
+    ],
+    "man": [
+        "michael_mccauley",
+        "hichame_ouraqa"
+    ],
+    "marine": [
+        "nic_rasenti",
+        "harley_castro",
+        "joey_duckworth",
+        "bill_bennett"
+    ],
+    "marine_2": [
+        "aaron_rosendary",
+        "michael_wix"
+    ],
+    "marine_sergeant": [
+        "anton_david_jeftha",
+        "craig_hawks",
+        "mzu_ntantiso"
+    ],
+    "mental_patient": [
+        "kathy_walton",
+        "steven_smith"
+    ],
+    "midgawker": [
+        "linda_phannareth",
+        "memi_west"
+    ],
+    "mourner": [
+        "george_ludden",
+        "bobbie_peterson",
+        "grace_van_eps",
+        "devin_albert",
+        "rick_reeder"
+    ],
+    "navy_seal_2": [
+        "peter_allende",
+        "scott_puckett"
+    ],
+    "news_anchor": [
+        "laura_french",
+        "danielle_nottingham",
+        "genevive_barker"
+    ],
+    "newscaster": [
+        "katharina_schlothauer",
+        "kim_dean",
+        "sasha_rionda"
+    ],
+    "nurse": [
+        "nicole_sherwin",
+        "elisha_mudly",
+        "sharon_conley",
+        "trina_dong",
+        "meg_watson",
+        "candice_kimbrough",
+        "stephanie_cookie_carson"
+    ],
+    "olivia": [
+        "francesca_faridany",
+        "autumn_dial"
+    ],
+    "omar": [
+        "ash_goldeh",
+        "raja_deka"
+    ],
+    "onlooker": [
+        "grace_layden",
+        "ebony_wilson"
+    ],
+    "orderly": [
+        "stephen_caudill",
+        "jamie_renell",
+        "james_gray_griffin"
+    ],
+    "party_guest": [
+        "trey_taylor",
+        "cody_lowe"
+    ],
+    "pedestrian": [
+        "preslaysa_edwards",
+        "leroy_phillips_jr"
+    ],
+    "photographer": [
+        "chris_rogus",
+        "ozzy_ojito"
+    ],
+    "police_officer": [
+        "adam_vernier",
+        "carolyn_baeumler",
+        "scott_thomas",
+        "lynn_marocola",
+        "evan_d_anderson",
+        "marko_caka",
+        "kelsey_saunders"
+    ],
+    "press": [
+        "kerry_mccoy",
+        "william_shipman",
+        "treava"
+    ],
+    "prison_guard": [
+        "jose_guns_alves",
+        "byan_anteer"
+    ],
+    "protester": [
+        "kevin_wayne",
+        "mehmet_korhan",
+        "lynn_golden",
+        "april_eliza",
+        "rigo_nova",
+        "ellen_k_beagle",
+        "david_cooke",
+        "mark_c_fullhardt",
+        "nicole_victoria_galletta",
+        "sara_harman",
+        "michael_kollias",
+        "zachary_leipert",
+        "nicole_mayer",
+        "genoveva_rossi",
+        "geordy_skolnick"
+    ],
+    "protestor": [
+        "elizabeth_ashley_lawson",
+        "chris_ecclestone",
+        "arthur_shaffer",
+        "elizabeth_thorp"
+    ],
+    "rehab_teen": [
+        "jasmin_morin",
+        "rebecca_shrom",
+        "shelby_townsend"
+    ],
+    "reporter": [
+        "israel_balderas",
+        "greg_mckenzie",
+        "fiona_choi",
+        "jeff_wicker",
+        "elena_bargo",
+        "elle_emerson",
+        "kelly_l_moran",
+        "kerry_cashion",
+        "darian_drescher"
+    ],
+    "reporter_1": [
+        "jenna_wolfe",
+        "steven_fabian",
+        "todd_truley",
+        "samantha_hines",
+        "david_loyn"
+    ],
+    "reporter_2": [
+        "roxana_saberi",
+        "chris_bretscher",
+        "jamie_boll",
+        "ramita_navai",
+        "harry_sutton_jr"
+    ],
+    "reporter_3": [
+        "obaid_kadwani",
+        "amy_holmes",
+        "ashlea_kosikowski",
+        "siobhan_darrow"
+    ],
+    "secret_service": [
+        "william_g_tomek",
+        "bill_martin",
+        "chad_kurtz",
+        "frank_bliss",
+        "jt_talley"
+    ],
+    "secret_service_agent": [
+        "kendrick_cross",
+        "nik_meinzer",
+        "rajab_croswell",
+        "ulysses_e_campbell",
+        "charles_d_clark",
+        "darin_moore"
+    ],
+    "security_guard": [
+        "vaughn_lucas",
+        "anas_el_akil",
+        "fernando_martinez",
+        "jeremy_bonham",
+        "manley_henry"
+    ],
+    "security_officer": [
+        "christian_keiber",
+        "moutaouakil_mohammed"
+    ],
+    "sergeant": [
+        "zeeko_zaki",
+        "adam_neill",
+        "sebastian_stielke"
+    ],
+    "tac_team_agent": [
+        "scott_parks",
+        "jason_wesley"
+    ],
+    "tac_team_leader": [
+        "dane_northcutt",
+        "judd_lormand"
+    ],
+    "taliban_fighter": [
+        "ernest_stclair",
+        "amine_ennaji"
+    ],
+    "teacher": [
+        "guy_olivieri",
+        "susan_williams"
+    ],
+    "tech": [
+        "gary_green",
+        "lexie_huber"
+    ],
+    "tom": [
+        "lance_elliot",
+        "todd_cerveris"
+    ],
+    "us_marshal": [
+        "michael_alban",
+        "jeffrey_s_smith"
+    ],
+    "viktor": [
+        "elya_baskin",
+        "ronald_guttman"
+    ],
+    "waitress": [
+        "lisa_greenstein",
+        "nneoma_nkuku",
+        "gezell_fleming",
+        "kristi_booher",
+        "beth_adams"
+    ],
+    "white_house_staff": [
+        "jamaal_burcher",
+        "yamanee_coleman",
+        "paul_ron_cruz",
+        "lisa_edmondson"
+    ],
+    "white_house_staffer": [
+        "kathryn_j_hatam",
+        "aaron_t_mott"
+    ],
+    "woman": [
+        "claire_berlein",
+        "esperanzia_adonis"
+    ],
+    "young_man": [
+        "gabe_begneaud",
+        "bryan_adrian"
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "car_wash_customer": [
+        "scott_sharot",
+        "michael_anthony_stone",
+        "moira_walleybeckett"
+    ],
+    "carwash_customer": [
+        "richard_barela",
+        "viola_valdez"
+    ],
+    "concerned_parent": [
+        "lorri_oliver",
+        "kristen_loree",
+        "dave_colon"
+    ],
+    "customer": [
+        "millard_drexler",
+        "merritt_c_glover"
+    ],
+    "dea_agent": [
+        "phil_duran",
+        "matt_berlin",
+        "jon_kristian_moore",
+        "phillip_hart",
+        "victoria_lease",
+        "steve_stafford",
+        "jamie_haqqani",
+        "lawrence_gilligan",
+        "michaeldavid_aragon",
+        "jt_richardson",
+        "frank_sandoval"
+    ],
+    "detective": [
+        "vic_browder",
+        "brennan_foster"
+    ],
+    "doctor": [
+        "michael_bryan_french",
+        "mark_harelik",
+        "rosa_estrada"
+    ],
+    "high_school_student": [
+        "lorena_fernandez",
+        "will_ontiveros"
+    ],
+    "homeless_man": [
+        "jack_burning",
+        "wayne_dehart"
+    ],
+    "homeowner": [
+        "brett_shane_cooley",
+        "mike_ostroski"
+    ],
+    "locksmith": [
+        "john_lawlor",
+        "wray_crawford"
+    ],
+    "louis": [
+        "caleb_landry_jones",
+        "kyle_swimmer"
+    ],
+    "mother": [
+        "maria_bethke",
+        "jiji_hise"
+    ],
+    "neighbor": [
+        "john_barbour",
+        "taber_cross"
+    ],
+    "nurse": [
+        "wendy_scott",
+        "gail_starr",
+        "ravenna_fahey",
+        "trina_e_siopy",
+        "angela_blake"
+    ],
+    "police_officer": [
+        "geoffrey_rivas",
+        "ruben_barela"
+    ],
+    "public_defender": [
+        "eric_price",
+        "scott_ward"
+    ],
+    "realtor": [
+        "beth_bailey",
+        "louis_herthum",
+        "frank_bond"
+    ],
+    "restaurant_patron": [
+        "phil_arnold",
+        "michael_r_tafoya",
+        "angela_joseph",
+        "paula_ray",
+        "louise_stangewahl"
+    ],
+    "teacher": [
+        "cliff_gravel",
+        "kathryn_dove"
+    ],
+    "waiter": [
+        "rick_a_ortega_jr",
+        "alex_gianopoulos"
+    ],
+    "waitress": [
+        "amanda_schofield",
+        "victoria_aultman",
+        "caroline_patz",
+        "julianne_flores"
+    ],
+    "young_boy": [
+        "dylan_carr",
+        "brandon_carr"
+    ]
+}

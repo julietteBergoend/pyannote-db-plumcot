@@ -1,0 +1,134 @@
+{
+    "announcer": [
+        "ed_lieberman",
+        "robert_clotworthy",
+        "ulf_bjorlin"
+    ],
+    "bar_patron": [
+        "cici_leah_campbell",
+        "alberto_dfonseca",
+        "priya_gopalan"
+    ],
+    "cafeteria_patron": [
+        "erin_pickett",
+        "rachel_steele"
+    ],
+    "claire": [
+        "alessandra_torresani",
+        "janelle_marra"
+    ],
+    "clerk": [
+        "tiffany_daniels",
+        "nicole_j_butler"
+    ],
+    "cynthia": [
+        "megan_mcgown",
+        "hira_ambrosino"
+    ],
+    "dan": [
+        "stephen_root",
+        "ronald_hunter"
+    ],
+    "denise": [
+        "lauren_lapkus",
+        "brooke_baumer"
+    ],
+    "doug": [
+        "allen_nabors",
+        "joel_murray"
+    ],
+    "employee": [
+        "paul_michael_bair",
+        "efrain_gomez"
+    ],
+    "eric": [
+        "travis_schuldt",
+        "eric_petersen"
+    ],
+    "grace": [
+        "sophie_oda",
+        "patrika_darbo"
+    ],
+    "greg": [
+        "luis_aldana",
+        "shay_ali"
+    ],
+    "halley_wolowitz": [
+        "pamela_adlon",
+        "sailah_nicol"
+    ],
+    "hostess": [
+        "angela_relucio",
+        "dkia_anderson"
+    ],
+    "jeremy": [
+        "will_deutsch",
+        "dusan_brown"
+    ],
+    "man": [
+        "eric_normington",
+        "anil_margsahayam",
+        "joey_rich"
+    ],
+    "maria": [
+        "elena_campbellmartinez",
+        "monica_garcia"
+    ],
+    "marta": [
+        "laura_ceron",
+        "kaliko_kauahi"
+    ],
+    "mike": [
+        "andrew_w_walker",
+        "matt_barr"
+    ],
+    "movie_goer": [
+        "kristen_kimmick",
+        "louis_fasanaro"
+    ],
+    "mrs_fowler": [
+        "kathy_bates",
+        "annie_odonnell"
+    ],
+    "nathan": [
+        "nathan_fillion",
+        "andrew_daly"
+    ],
+    "rebecca": [
+        "jade_zdanow",
+        "april_bowlby"
+    ],
+    "sandy": [
+        "yeardley_smith",
+        "stacey_travis"
+    ],
+    "scientist": [
+        "ayumi_iizuka",
+        "aaron_takahashi"
+    ],
+    "tom": [
+        "mark_hames",
+        "riccardo_lebron"
+    ],
+    "travis": [
+        "wayne_wilderson",
+        "casper_smart"
+    ],
+    "waiter": [
+        "david_trice",
+        "alex_ball",
+        "matt_knudsen",
+        "jeff_blum"
+    ],
+    "waitress": [
+        "treisa_gary",
+        "tiffany_giddens"
+    ],
+    "woman": [
+        "sandra_marquez",
+        "christine_corpuz",
+        "tonja_kahlens",
+        "hilda_boulware",
+        "jannette_bloom"
+    ]
+}

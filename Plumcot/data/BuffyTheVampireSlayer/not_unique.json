@@ -1,0 +1,371 @@
+{
+    "adam": [
+        "george_hertzberg",
+        "jeffrey_steven_smith"
+    ],
+    "band_member": [
+        "erika_amato",
+        "arif",
+        "tony_delocht",
+        "timo_ellis",
+        "rob_grad",
+        "miho_hatori",
+        "yuka_honda",
+        "kevin_keller",
+        "sean_lennon",
+        "ernie_longoria",
+        "kane_mcgee",
+        "jeff_mince",
+        "william_riley",
+        "jeff_stacy",
+        "mike_summers",
+        "steve_summers",
+        "dan_wistrom"
+    ],
+    "bartender": [
+        "ezra_buzzington",
+        "clint_culp"
+    ],
+    "ben": [
+        "charlie_weber",
+        "ryan_tasz"
+    ],
+    "bouncer": [
+        "kevin_daniels",
+        "teddy_lane_jr",
+        "jeff_pruitt"
+    ],
+    "bud_1": [
+        "john_knight",
+        "karim_oliver"
+    ],
+    "cheryl": [
+        "jessica_townsend",
+        "riki_lindhome"
+    ],
+    "christy": [
+        "dawn_worrall",
+        "danielle_pessis"
+    ],
+    "clerk": [
+        "suzanne_krull",
+        "julie_hermelin"
+    ],
+    "construction_worker": [
+        "don_dowe",
+        "fritz_greve"
+    ],
+    "cop": [
+        "vaughn_armstrong",
+        "adam_clark",
+        "ron_rogge"
+    ],
+    "cordette": [
+        "nicole_bilderback",
+        "kristen_winnicki"
+    ],
+    "creature": [
+        "barbara_c_adside",
+        "debbie_lee_carrington"
+    ],
+    "customer": [
+        "staci_lawrence",
+        "andrea_gall"
+    ],
+    "cute_boy": [
+        "robert_vito",
+        "mitch_morris"
+    ],
+    "dancer": [
+        "suzanne_mackay",
+        "randi_cee"
+    ],
+    "demon": [
+        "roger_w_morrissey",
+        "lisa_hoyle",
+        "zachary_woodlee",
+        "mark_gantt",
+        "noelle_hannibal",
+        "alex_baik"
+    ],
+    "demon_1": [
+        "clayton_j_barber",
+        "bryan_friday"
+    ],
+    "doctor": [
+        "michael_warren",
+        "william_forward",
+        "dom_magwili",
+        "mueen_jahan_ahmad",
+        "jack_esformes",
+        "pat_skipper"
+    ],
+    "driver": [
+        "joshua_wheeler",
+        "paul_darrigo"
+    ],
+    "freshman": [
+        "david_tuchman",
+        "wayne_sable"
+    ],
+    "gentleman": [
+        "doug_jones",
+        "don_lewis",
+        "charlie_brumbly"
+    ],
+    "girl": [
+        "abigail_gershman",
+        "deborah_brown",
+        "sabrina_speer",
+        "ginger_williams"
+    ],
+    "guy": [
+        "nick_cornish",
+        "chad_erickson"
+    ],
+    "halo_friendlies": [
+        "ginger",
+        "judita",
+        "natalie"
+    ],
+    "helpless_girl": [
+        "joanie_pleasant",
+        "christie_abbott"
+    ],
+    "henchman": [
+        "scot_zeller",
+        "timothy_anderson",
+        "alejandro_estornel"
+    ],
+    "herself_band_member": [
+        "lisa_rae_black",
+        "cami_elen",
+        "gerry_sutyak",
+        "toni_valenta"
+    ],
+    "high_school_student": [
+        "stephen_silberkraus",
+        "christa_engelskirch"
+    ],
+    "himself_band_member": [
+        "atto_attie",
+        "bill_ferguson",
+        "jim_ferguson",
+        "steve_mcmanus",
+        "jesse_tobias",
+        "rob_youngberg",
+        "tony_zajkowski"
+    ],
+    "intern": [
+        "robert_munic",
+        "brian_tee"
+    ],
+    "jonathan_levinson": [
+        "danny_strong",
+        "brad_kane"
+    ],
+    "josh": [
+        "marc_rose",
+        "kevin_christy"
+    ],
+    "karen": [
+        "erica_luttrell",
+        "megan_vint"
+    ],
+    "kevin": [
+        "scott_gurney",
+        "j_evan_bonifant"
+    ],
+    "lab_tech": [
+        "michael_r_bowman",
+        "raymond_roswell"
+    ],
+    "lisa": [
+        "natasha_pearce",
+        "raeven_kelly"
+    ],
+    "little_boy": [
+        "jb_gaynor",
+        "shawn_pyfrom",
+        "lyndon_smith"
+    ],
+    "little_girl": [
+        "lindsay_taylor",
+        "melina_webberley",
+        "elizabeth_thuax"
+    ],
+    "man": [
+        "john_patrick_clerkin",
+        "john_bellucci",
+        "kavan_smith"
+    ],
+    "monk": [
+        "ravil_isyanov",
+        "larry_clarke"
+    ],
+    "mother": [
+        "michelle_ferrara",
+        "edie_caggiano"
+    ],
+    "nancy": [
+        "kaarina_aufranc",
+        "mariah_obrien"
+    ],
+    "nurse": [
+        "sarah_scivier",
+        "susan_chuang",
+        "mary_sheldon"
+    ],
+    "old_man": [
+        "ian_abercrombie",
+        "george_wallace",
+        "harrison_young"
+    ],
+    "orderly": [
+        "rodney_charles",
+        "brian_hawley"
+    ],
+    "paramedic": [
+        "kate_rodger",
+        "michael_matthys"
+    ],
+    "paramedic_2": [
+        "tony_sago",
+        "david_adefeso"
+    ],
+    "police_officer": [
+        "dorian_missick",
+        "john_colella"
+    ],
+    "potential": [
+        "julia_morizawa",
+        "sonni_paisley"
+    ],
+    "potential_slayer": [
+        "ana_maria_lagasca",
+        "anna_lauren_long",
+        "jennifer_lutheran"
+    ],
+    "pretty_girl": [
+        "monica_serene_garnich",
+        "hila_levy"
+    ],
+    "priest": [
+        "joe_howard",
+        "jim_jenkins"
+    ],
+    "rachel": [
+        "jennifer_shon",
+        "michele_nordin"
+    ],
+    "reporter": [
+        "amy_powell",
+        "rick_garcia"
+    ],
+    "roy": [
+        "bryan_cuprill",
+        "grant_garrison"
+    ],
+    "ryan": [
+        "andrew_ducote",
+        "jordan_belfi"
+    ],
+    "security_guard": [
+        "willie_garson",
+        "dwight_bacquie"
+    ],
+    "security_guard_2": [
+        "seth_coltan",
+        "kenny_apel"
+    ],
+    "soldier": [
+        "ryan_francis",
+        "rob_boltin"
+    ],
+    "stoner": [
+        "cameron_bender",
+        "jerome_elston_scott"
+    ],
+    "student": [
+        "greg_wayne",
+        "parry_shen",
+        "brett_moses",
+        "rich_muller",
+        "simon_chernin",
+        "paul_mcmichael",
+        "adena_bjork",
+        "anthony_steven_giordano",
+        "andy_hallett",
+        "tanya_raisa",
+        "johnny_guerra",
+        "mark_weathers",
+        "john_w_beach",
+        "anne_zogby"
+    ],
+    "teacher": [
+        "elizabeth_cazenave",
+        "david_ghilardi",
+        "michael_ross_verona",
+        "natalie_strauss",
+        "gary_imhoff",
+        "tia_matza",
+        "nina_gervitz",
+        "ed_francis_martin"
+    ],
+    "the_breeders": [
+        "kelley_deal",
+        "kim_deal",
+        "mando_lopez",
+        "richard_presley_jr"
+    ],
+    "themselves": [
+        "royal_crown_revue",
+        "the_breeders"
+    ],
+    "vamp_lackey": [
+        "keith_brunsmann",
+        "samuel_bliss_cooper"
+    ],
+    "vampire": [
+        "jeff_langton",
+        "tom_kiesche",
+        "john_michael_herndon",
+        "jeffrey_nicholas_brown",
+        "jeff_denton",
+        "michael_worth",
+        "james_lew",
+        "todd_mcintosh",
+        "michiko_nishiwaki",
+        "phil_mallon",
+        "devin_reeve",
+        "louis_e_rosas",
+        "marcus_salgado",
+        "christian_vincent",
+        "thom_williams"
+    ],
+    "vampire_1": [
+        "steve_heinze",
+        "brian_j_williams"
+    ],
+    "waitress": [
+        "elizabeth_payne",
+        "anna_maria_maccarrone",
+        "nell_shanahan",
+        "beth_aylward"
+    ],
+    "woman": [
+        "patrice_walters",
+        "carla_sofia",
+        "patricia_place"
+    ],
+    "young_buffy": [
+        "alexandra_lee",
+        "candice_nicole"
+    ],
+    "young_woman": [
+        "stacey_scowley",
+        "benita_krista_nall",
+        "patrese_borem",
+        "kate_luhr"
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "agent_davis": [
+        "david_fabrizio",
+        "eric_steinberg",
+        "eric_nenninger",
+        "tom_mccafferty"
+    ],
+    "agent_drake": [
+        "angelo_pagan",
+        "leesa_severyn"
+    ],
+    "agent_smith": [
+        "michael_roddy",
+        "kurt_meyer"
+    ],
+    "ali": [
+        "iman_nazemzadeh",
+        "dariush_kashani"
+    ],
+    "anna": [
+        "susan_gibney",
+        "talitha_peters"
+    ],
+    "attorney_general": [
+        "dan_ziskie",
+        "ned_bellamy"
+    ],
+    "businessman": [
+        "carmen_mormino",
+        "lou_richards",
+        "scott_dawson"
+    ],
+    "chris": [
+        "jimmi_simpson",
+        "jason_matthew_smith"
+    ],
+    "chuck": [
+        "mark_arnott",
+        "peter_smith"
+    ],
+    "ctu_agent": [
+        "kelly_gullett",
+        "tohoru_masamune",
+        "michael_eric_strickland",
+        "patrick_obell",
+        "dalia_phillips",
+        "thomas_sobel",
+        "tony_morgan",
+        "shaun_paul_piccinino",
+        "kat_venuti"
+    ],
+    "ctu_agent_1": [
+        "jr_ramirez",
+        "kaitlyn_benson"
+    ],
+    "ctu_doctor": [
+        "reggie_jordan",
+        "natalija_nogulich",
+        "fred_griffith"
+    ],
+    "ctu_employee": [
+        "julie_marie_hassett",
+        "taylor_neil_thomas"
+    ],
+    "ctu_field_agent": [
+        "brian_johnson",
+        "jerome_ro_brooks"
+    ],
+    "ctu_guard": [
+        "richy_b_jacobs",
+        "chaz_fatur"
+    ],
+    "ctu_security_guard": [
+        "ariel_mirabalramos",
+        "dan_warner",
+        "brian_david_jones",
+        "blaine_pate",
+        "bryan_irzyk",
+        "monte_hunter",
+        "martin_taylor"
+    ],
+    "ctu_staffer": [
+        "dana_bunch",
+        "kavita_patil",
+        "william_h_burton_jr",
+        "angela_meryl",
+        "vladimir_tevlovski",
+        "john_mccain",
+        "stephen_merchant"
+    ],
+    "ctu_swat_agent": [
+        "brian_silverman",
+        "michael_placencia",
+        "brandon_fisher"
+    ],
+    "ctu_worker": [
+        "naomi_morales",
+        "kevin_kelly",
+        "ajay_nayyar"
+    ],
+    "dan": [
+        "philip_lester",
+        "danny_arroyo"
+    ],
+    "ed": [
+        "norm_compton",
+        "matt_flanagan"
+    ],
+    "emt": [
+        "adam_leclair",
+        "francisco_viana",
+        "scott_ferrara"
+    ],
+    "emt_1": [
+        "jade_carter",
+        "tony_elias"
+    ],
+    "fbi_agent": [
+        "christian_macchio",
+        "kevin_gregg",
+        "robert_duncan_mcneill"
+    ],
+    "fbi_agent_1": [
+        "brett_deluca",
+        "burt_bulos",
+        "matthew_scanlon",
+        "david_j_law"
+    ],
+    "fbi_agent_2": [
+        "anthony_desantis",
+        "ryan_christiansen",
+        "brian_waller"
+    ],
+    "fbi_helicopter_gunner": [
+        "jj_perry",
+        "charles_a_tamburro"
+    ],
+    "federal_marshal": [
+        "matthew_jones",
+        "glenn_davis"
+    ],
+    "female_reporter": [
+        "claudia_difolco",
+        "nayo_wallace"
+    ],
+    "field_reporter": [
+        "bob_decastro",
+        "jane_yamamoto",
+        "john_sterling_carter",
+        "robb_weller"
+    ],
+    "flight_attendant": [
+        "petra_wright",
+        "karen_kim"
+    ],
+    "gary": [
+        "lawrence_monoson",
+        "jake_muxworthy"
+    ],
+    "gus": [
+        "david_grant_wright",
+        "adam_vernier"
+    ],
+    "helicopter_pilot": [
+        "vincent_duvall",
+        "boo_arnold"
+    ],
+    "hotel_guest": [
+        "paris_tanaka",
+        "sue_jin_song",
+        "orlando_ortega"
+    ],
+    "ian": [
+        "jonathan_del_arco",
+        "rueben_grundy"
+    ],
+    "james": [
+        "benjamin_burdick",
+        "rob_mars"
+    ],
+    "kevin": [
+        "ryan_moore",
+        "kevin_fry",
+        "kevin_alejandro"
+    ],
+    "male_reporter": [
+        "rick_lozano",
+        "kevin_ashworth"
+    ],
+    "man": [
+        "bob_jesser",
+        "michael_atlas_lane"
+    ],
+    "marcus": [
+        "nick_offerman",
+        "pat_healy"
+    ],
+    "marcy": [
+        "michael_hyatt",
+        "neisha_folkeslemelle"
+    ],
+    "medic": [
+        "taneka_johnson",
+        "joseph_griffin"
+    ],
+    "melanie": [
+        "navi_rawat",
+        "brittany_ishibashi"
+    ],
+    "middle_eastern_man": [
+        "kahlil_joseph",
+        "michael_karawia"
+    ],
+    "mikhail": [
+        "yorgo_constantine",
+        "roman_mitichyan"
+    ],
+    "nerve_gas_victim_shopping_mall": [
+        "chuck_hicks",
+        "kaye_wade"
+    ],
+    "news_anchor": [
+        "john_beard",
+        "steve_edwards",
+        "mark_joyella"
+    ],
+    "nurse": [
+        "liz_loza",
+        "norma_maldonado",
+        "janora_mcduffie",
+        "michelle_anne_johnson",
+        "detra_payne",
+        "mary_wickliffe",
+        "kt_thangavelu",
+        "patty_onagan",
+        "presciliana_esparolini"
+    ],
+    "omar": [
+        "tony_plana",
+        "marc_casabani",
+        "adrian_rmante"
+    ],
+    "phil": [
+        "david_chisum",
+        "chris_williams",
+        "steve_oconnor"
+    ],
+    "phillips_assistant": [
+        "roger_ranney",
+        "matt_kaminsky"
+    ],
+    "pilot": [
+        "lou_glenn",
+        "oscar_nunez"
+    ],
+    "reporter": [
+        "mark_thompson",
+        "pamela_stollings",
+        "michelle_c_bonilla",
+        "maria_quiban",
+        "yvette_fernandez",
+        "christine_devine",
+        "lisa_joyner",
+        "rick_l_dean",
+        "erin_pickett",
+        "jackeline_olivier",
+        "maria_zambrana"
+    ],
+    "sam": [
+        "brett_rickaby",
+        "mark_bramhall"
+    ],
+    "sarah": [
+        "mary_page_keller",
+        "jaclyn_sara_silvers"
+    ],
+    "secret_service_agent": [
+        "emile_williams",
+        "clint_jung",
+        "mike_siegel",
+        "michael_nagy",
+        "bruce_holman"
+    ],
+    "security_guard": [
+        "james_calvert",
+        "maurice_dunster",
+        "marty_ryan"
+    ],
+    "surgeon": [
+        "gabrielle_made",
+        "rolando_boyce",
+        "geoff_stevenson"
+    ],
+    "terrorist": [
+        "michael_hilow",
+        "laurence_todd_rosenthal",
+        "marco_khan",
+        "jimmy_n_roberts",
+        "scott_waugh"
+    ],
+    "woman": [
+        "liann_pattison",
+        "kathy_byron",
+        "tania_verafield"
+    ],
+    "zhous_team_member_2": [
+        "arnold_chon",
+        "simon_rhee"
+    ]
+}

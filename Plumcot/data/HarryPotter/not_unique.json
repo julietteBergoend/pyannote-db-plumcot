@@ -1,0 +1,487 @@
+{
+    "alicia_spinnet": [
+        "leilah_sutherland",
+        "rochelle_douglas"
+    ],
+    "angelina_johnson": [
+        "danielle_tabor",
+        "tiana_benjamin"
+    ],
+    "augusta_longbottom": [
+        "leila_hoffman",
+        "ninette_finch"
+    ],
+    "auror": [
+        "nicholas_dare",
+        "tim_mcgill_grieveson"
+    ],
+    "ballroom_dancer": [
+        "maximus_marcantonio",
+        "jonathan_schwerzmann"
+    ],
+    "beauxbatons_student": [
+        "lucy_casson",
+        "alexandra_craig",
+        "janine_craig",
+        "roxanne_ricketts"
+    ],
+    "centaur": [
+        "jason_piper",
+        "michael_wildman"
+    ],
+    "commuter": [
+        "ian_maden",
+        "martin_alexander",
+        "jamie_anderson",
+        "chris_bowe"
+    ],
+    "death_eater": [
+        "peter_best",
+        "philip_rham",
+        "olivia_higginbottom",
+        "ashley_artus",
+        "alex_palmer",
+        "paschal_friel",
+        "richard_rosson",
+        "barry_dowden",
+        "natalie_hallam",
+        "tim_hope",
+        "jamie_mcleodross",
+        "tim_secrett",
+        "richard_cubison",
+        "tav_macdougall",
+        "graham_duff",
+        "adrian_annis",
+        "emil_hostina",
+        "paul_khanna",
+        "richard_strange",
+        "anthony_john_crocker",
+        "peter_g_reed",
+        "granville_saxton",
+        "judith_sharp",
+        "ashley_mcguire",
+        "penelope_mcghie",
+        "bob_yves_van_hellenberg_hubar",
+        "tony_kirwood",
+        "simon_grover",
+        "serena_catapano",
+        "zarene_dallas",
+        "jay_de_silva",
+        "rakesh_jhalli",
+        "neil_shroot",
+        "joshua_jo",
+        "ashley_beaver",
+        "matt_da_silva",
+        "courtney_fearon",
+        "chloe_franks",
+        "rich_goble",
+        "joe_kallis",
+        "mason_kayne",
+        "hrvoje_klecz",
+        "chris_knight",
+        "jeff_lipman",
+        "sandeep_mohan",
+        "elisabeth_roberts",
+        "charlie_ryall",
+        "timothy_shieff",
+        "glen_stanway",
+        "alain_stash",
+        "michael_thompson",
+        "nick_turner",
+        "kelvin_wise"
+    ],
+    "deatheater": [
+        "paul_davies",
+        "johann_benet"
+    ],
+    "dragon_handler": [
+        "aaron_heffernan",
+        "roy_owens",
+        "andy_smart"
+    ],
+    "dumbledores_army_member_": [
+        "siobhan_ellen_williams",
+        "louisa_bettine"
+    ],
+    "durmstrang_student": [
+        "mark_franks",
+        "greg_kolpakchi",
+        "oliver_miceli",
+        "aaron_sillis",
+        "anthony_trahearn"
+    ],
+    "elphias_doge": [
+        "peter_cartwright",
+        "david_ryall"
+    ],
+    "extra": [
+        "christopher_oshea",
+        "tabatha_st_vincent"
+    ],
+    "giant": [
+        "phil_wright",
+        "garry_sayer",
+        "tony_adkins"
+    ],
+    "goblin": [
+        "andy_herd",
+        "melanie_dixon",
+        "scott_english",
+        "paul_grant",
+        "darren_horan",
+        "mark_lisle",
+        "peter_mandell",
+        "franky_mwangi",
+        "nicholas_read",
+        "kiran_shah",
+        "gerald_staddon",
+        "jimmy_vee",
+        "nathan_phillips"
+    ],
+    "gringotts_goblin": [
+        "adam_alderman",
+        "karen_anderson",
+        "alan_bennett",
+        "sarah_bennett",
+        "peter_burroughs",
+        "mike_edmonds",
+        "aimee_holden",
+        "phil_holden",
+        "lisa_osmond",
+        "katie_purvis",
+        "mark_sealey",
+        "brian_wheeler",
+        "george_appleby",
+        "michael_henbury_ballan",
+        "lauren_barrand",
+        "josh_bennett",
+        "nikki_bond",
+        "hayley_burroughs",
+        "annabelle_davis",
+        "harrison_davis",
+        "samantha_davis",
+        "greg_doherty",
+        "craig_garner",
+        "andrew_herd",
+        "binde_johal",
+        "jamie_john",
+        "kieran_jones",
+        "maxwell_laird",
+        "steve_redford",
+        "keijo_salmela",
+        "arti_shah",
+        "ryan_webb",
+        "laura_whitfield"
+    ],
+    "gringotts_guard": [
+        "anthony_allgood",
+        "nasir_mohamed"
+    ],
+    "griphook": [
+        "warwick_davis",
+        "verne_troyer"
+    ],
+    "gryffindor_senior": [
+        "david_william_james_elliott",
+        "aaron_virdee"
+    ],
+    "gryffindor_student": [
+        "sara_bispham",
+        "jamal_hue_bonner",
+        "melanie_bright",
+        "paul_chiedozie",
+        "gabriella_munro_douglas",
+        "daniel_larner",
+        "montana_manning",
+        "nathan_clarke",
+        "natalie_harrison",
+        "river_hawkins",
+        "persephone_hulewicz",
+        "will_jeffs",
+        "ifeoma_oboko",
+        "jack_romero",
+        "george_sesay",
+        "vinnie_clarke",
+        "paul_bailey",
+        "ryan_butcher",
+        "jordan_coulson"
+    ],
+    "healer_in_portrait": [
+        "tim_lewis",
+        "lorne_orleans",
+        "lionel_wigram"
+    ],
+    "hedwig": [
+        "gizmo",
+        "oh_oh",
+        "ook"
+    ],
+    "hogsmeade_death_eater": [
+        "ian_peck",
+        "benn_northover"
+    ],
+    "hogwarts_pupil": [
+        "amy_domenica",
+        "katie_healy",
+        "oliver_laveryfarag",
+        "lily_lovett",
+        "emma_murphy"
+    ],
+    "hogwarts_schoolboy": [
+        "mark_ballas",
+        "lukas_bennett",
+        "liam_elcoat",
+        "derek_hough",
+        "darren_tough"
+    ],
+    "hogwarts_schoolgirl": [
+        "julianne_hough",
+        "sarah_rorbach"
+    ],
+    "hogwarts_student": [
+        "dani_harmer",
+        "maude_hirst",
+        "will_howes",
+        "cath_peakin",
+        "jason_porter",
+        "bianca_sowerby",
+        "dolly_thompson",
+        "bernadette_jane_vanderkar",
+        "louisa_worley",
+        "kelsey_gallagher",
+        "carly_houston",
+        "hazel_keech",
+        "paije_richardson",
+        "georgia_clarkeday",
+        "clive_elkington",
+        "samuel_gaukroger",
+        "ellen_howard",
+        "shaira_yasmin_berg",
+        "ryan_laskey",
+        "israr_azam",
+        "jada_brevett",
+        "jade_callard",
+        "lucy_chappell",
+        "daniella_farley",
+        "robin_harvey",
+        "matthew_hodgkin",
+        "johnny_massahi",
+        "gabriella_pond",
+        "jade_stanger",
+        "tobi_stubbs",
+        "gideon_tekeste",
+        "thomas_williamson"
+    ],
+    "hufflepuff_senior": [
+        "louisa_warren",
+        "kamilla_woodburn"
+    ],
+    "katie_bell": [
+        "emily_dale",
+        "georgina_leonidas"
+    ],
+    "kreacher": [
+        "timothy_bateson",
+        "simon_mcburney"
+    ],
+    "lavender_brown": [
+        "jennifer_smith",
+        "jessie_cave"
+    ],
+    "mafalda_hopkirk": [
+        "jessica_hynes",
+        "sophie_thompson"
+    ],
+    "marcus_flint": [
+        "will_theakston",
+        "jamie_yeates"
+    ],
+    "ministry_of_magic_employee": [
+        "jordan_adriano_brown",
+        "jamie_clark"
+    ],
+    "ministry_of_magic_policeman": [
+        "jim_goldstone",
+        "aaron_king",
+        "pete_noakes"
+    ],
+    "ministry_of_magic_witch": [
+        "guinevere_edwards",
+        "deborah_wise"
+    ],
+    "ministry_witch": [
+        "sheila_allen",
+        "su_elliot",
+        "anne_lacy",
+        "flip_webster"
+    ],
+    "ministry_wizard": [
+        "david_sterne",
+        "christopher_whittingham",
+        "liam_mckenna",
+        "campbell_graham",
+        "greg_bennett",
+        "kas_graham",
+        "sarah_lowe",
+        "paul_redfern",
+        "paul_warren"
+    ],
+    "mr_granger": [
+        "tom_knight",
+        "ian_kelly"
+    ],
+    "mrs_granger": [
+        "heather_bleasdale",
+        "michelle_fairley"
+    ],
+    "mrs_norris": [
+        "alanis",
+        "maximus"
+    ],
+    "muggle": [
+        "yvonne_quenet",
+        "michael_thomson",
+        "simon_john_wilson"
+    ],
+    "muggle_": [
+        "mehmet_mahmut",
+        "marta_royles"
+    ],
+    "pansy_parkinson": [
+        "genevieve_gaunt",
+        "lauren_shotton",
+        "scarlett_hefner"
+    ],
+    "parent": [
+        "paul_vigrass",
+        "augustina_amoa",
+        "ben_champniss"
+    ],
+    "pedestrian": [
+        "abbi_collins",
+        "sarah_franzl",
+        "andy_merchant",
+        "rocky_taylor",
+        "tony_van_silva"
+    ],
+    "quidditch_supporter": [
+        "jo_osmond",
+        "cheri_darbon",
+        "shona_kay"
+    ],
+    "ravenclaw_student": [
+        "emily_aitcheson",
+        "jessica_foden",
+        "katie_amess",
+        "oli_warrilow",
+        "christina_low",
+        "jessica_niles"
+    ],
+    "schoolgirl": [
+        "hollyann_filtness",
+        "sarah_harrison"
+    ],
+    "slytherin_girl": [
+        "poppy_carter",
+        "shaori_morris"
+    ],
+    "slytherin_keeper": [
+        "natalie_klamar",
+        "david_churchyard"
+    ],
+    "slytherin_student": [
+        "maceo_bhardwaj",
+        "greta_bellamacina",
+        "reece_mack",
+        "gemma_boyle",
+        "tom_nunez",
+        "sonny_gill",
+        "roseanna_brown",
+        "leila_kotori",
+        "amy_wiles"
+    ],
+    "snatcher": [
+        "samuel_roukin",
+        "chase_armitage",
+        "charlotte_atkinson",
+        "adam_brashaw",
+        "chloe_bruce",
+        "grace_bruce",
+        "nicholas_lewis",
+        "lewis_young",
+        "nathan_barris",
+        "christian_black",
+        "jennifer_clegg",
+        "collet_collins",
+        "christoph_cordell",
+        "curtis_rowland_small",
+        "samuel_supple"
+    ],
+    "student": [
+        "stefan_pejic",
+        "christina_cuttell",
+        "james_marinos",
+        "andrew_osbourne",
+        "charlotte_ritchie",
+        "joanne_sandi",
+        "harrison_james",
+        "sarah_alexandra_marks",
+        "blake_curtiswoodcock",
+        "zoltan_adorjan",
+        "victor_akintunde",
+        "charlie_hobbs",
+        "sammy_measom",
+        "lily_tello"
+    ],
+    "tom_riddle_": [
+        "hero_fiennes_tiffin",
+        "frank_dillane",
+        "calum_sivyer"
+    ],
+    "waitress": [
+        "elarica_johnson",
+        "eva_alexander"
+    ],
+    "witch": [
+        "melita_clarke",
+        "petia_pavlova",
+        "lorraine_malby"
+    ],
+    "wizard": [
+        "gary_wronecki",
+        "sean_cronin",
+        "alex_argenti",
+        "peter_roy",
+        "michael_hennessy",
+        "stephen_leddington",
+        "mark_saint_john_ridley",
+        "alfred_camp"
+    ],
+    "wizard_parent": [
+        "paul_bateman",
+        "sarahjane_de_crespigny",
+        "michael_aston",
+        "andy_callaghan",
+        "gioacchino_jim_cuffaro",
+        "valerie_dane",
+        "sean_francis_george",
+        "nick_hopper",
+        "mark_dusty_miller"
+    ],
+    "wizard_teacher": [
+        "debra_leightaylor",
+        "steve_poulsen"
+    ],
+    "young_james_potter": [
+        "robbie_jarvis",
+        "alfie_mcilwain"
+    ],
+    "young_severus_snape": [
+        "alec_hopkins",
+        "benedict_clarke"
+    ],
+    "young_sirius_black": [
+        "james_walters",
+        "rohan_gotobed"
+    ]
+}
