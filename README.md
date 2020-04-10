@@ -1,10 +1,10 @@
 # PLUMCOT 0
 
-TODO update with entity linking stuff
+> TODO update with entity linking stuff
 
 ![annotation_durations](./annotation_durations.png)
 
-The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification on 16 TV (or movie) series :
+The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification of 16 TV (or movie) series :
 - [24](https://www.imdb.com/title/tt0285331/)*
 - [BattlestarGalactica](https://www.imdb.com/title/tt0407362/)
 - [BreakingBad](https://www.imdb.com/title/tt0903747/)
@@ -107,7 +107,7 @@ We acquired zone 2 (i.e. Europe) DVDs. DVDs were converted to mkv and wav using 
 
 Some (double) episodes are numbered as two different episodes in the DVDs although they're numbered as one in IMDb. These are listed in the `double_episodes/` folder of the relevant serie, if needed.
 
-TODO: automate the creation of `double_episodes/` files so that the user doesn't have to replace `/vol/work3/lefevre/dvd_extracted/` manually.
+> TODO: automate the creation of `double_episodes/` files so that the user doesn't have to replace `/vol/work3/lefevre/dvd_extracted/` manually.
 
 The episodes are then concatenated using ffmpeg:
 ```bash
@@ -124,6 +124,10 @@ Some labels are ambiguous depending on whether we focus on the speaker or on the
 We decided to focus on the entity as much as possible, e.g. 'Obiwan Kenobi' has the same label in the old and the new Star Wars movies, although it is not the same actor (i.e. speaker).
 
 However, we annotated following the IMDb credits which are not always consistent, e.g. the emperor in Star Wars doesn't have the same label in the old and the new episodes.
+
+> Disclaimer : we do not intend to use the whole `X.SpeakerDiarization.Plumcot` corpus to train or evaluate speaker diarization systems! Indeed, the classes are largely imbalanced, a lot of actors (i.e. speakers) play in multiple series and a lot of characters share labels across series!
+
+Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in `not_unique.json` and should be removed from the evaluation (TODO).
 
 ## References
 
