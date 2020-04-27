@@ -125,7 +125,11 @@ We decided to focus on the entity as much as possible, e.g. 'Obiwan Kenobi' has 
 
 However, we annotated following the IMDb credits which are not always consistent, e.g. the emperor in Star Wars doesn't have the same label in the old and the new episodes.
 
-> Disclaimer : we do not intend to use the whole `X.SpeakerDiarization.Plumcot` corpus to train or evaluate speaker diarization systems! Indeed, the classes are largely imbalanced, a lot of actors (i.e. speakers) play in multiple series and a lot of characters share labels across series!
+> Disclaimer : we do not intend to use the whole `X.SpeakerDiarization.Plumcot` corpus
+> to train or evaluate speaker diarization systems! Indeed, the classes are largely
+> imbalanced, a lot of actors (i.e. speakers) play in multiple series and a lot of
+> characters share labels across series (see `actor_counter` and `counter
+>`, respectively).
 
 Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in `not_unique.json` and should be removed from the evaluation (TODO).
 
