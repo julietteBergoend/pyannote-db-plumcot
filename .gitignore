@@ -51,3 +51,6 @@ scripts/video_per_season.sh
 
 #colors (used in gecko)
 colors/
+
+#PyCharm stuff
+.idea/
