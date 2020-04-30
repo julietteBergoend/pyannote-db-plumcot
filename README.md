@@ -133,6 +133,24 @@ However, we annotated following the IMDb credits which are not always consistent
 
 Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in `not_unique.json` and should be removed from the evaluation (TODO).
 
+## LICENSE
+
+### Speech annotations
+
+All speech annotations, regarding speaker identity or speech regions are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Textual content
+
+All textual content, dialogues and derived annotations are held by their respective owners and their use is allowed under the Fair Use Clause of the Copyright Law.
+We only share them for research purposes.
+
+They were scraped from various fan websites:
+- https://www.fandom.com/
+- http://transcripts.foreverdreaming.org/
+- https://www.springfieldspringfield.co.uk/
+- http://www.ageofthering.com/
+- https://bsg.hypnoweb.net/
+
 ## References
 
 Bost, X., Labatut, V., Linares, G., 2020. Serial speakers: a dataset of tv series. arXiv preprint arXiv:2002.06923.
