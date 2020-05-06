@@ -74,7 +74,7 @@ TheBigBangTheory/
 ## text
 ### `characters.txt`
 
-This file provides the list of characters (gathered from TV.com or IMDB.com). It contains one line per character with the following information: underscore-separated identifier, actor's normalized name, character's full name, actor's full name, IMDB.com character page.
+This file provides the list of characters (gathered from IMDb). It contains one line per character with the following information: underscore-separated identifier, actor's normalized name, character's full name, actor's full name, IMDb character page.
 
 Note that this script is actor-centric, an actor can only play one character.
 
@@ -82,22 +82,22 @@ Note that this script is actor-centric, an actor can only play one character.
 leonard_hofstadter,johnny_galecki,Leonard Hofstadter,Johnny Galecki,https://www.imdb.com/title/tt0898266/characters/nm0301959
 ```
 
+Usage:
 ```bash
-characters.py series.txt TheBigBangTheory
+characters.py --serie=TheBigBangTheory
 ```
 
 ### `episodes.txt`
 
-This file provides the list of episodes (gathered from TV.com or IMDB.com). It contains one line per episode with the following information: unique episode identifier, name of the episode, IMDB.com episode page, TV.com episode page.
+This file provides the list of episodes (gathered from IMDb). It contains one line per episode with the following information: unique episode identifier, name of the episode, IMDb episode page, TV.com episode page.
 
 ```
 TheBigBangTheory.Season01.Episode01,Pilot,https://www.imdb.com/title/tt0775431/,http://www.tv.com/shows/the-big-bang-theory/pilot-939386/
 ```
 
-The creation of this file should be automated as much as possible. Ideally, a script would take `series.txt` as input and generate all `episodes.txt` file at once (or just one if an optional series identifier is provided)
-
+Usage:
 ```bash
-episodes.py series.txt TheBigBangTheory
+episodes.py --serie=TheBigBangTheory
 ```
 
 For movies, we use `<serie_uri>.<episode_number>` as "episode" unique identifier (e.g. `HarryPotter.Episode01`).
@@ -117,7 +117,7 @@ TheBigBangTheory.Season01.Episode01,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0...
 The ith binary column corresponds to the ith line in characters.txt
 
 ```bash
-episodes.py series.txt TheBigBangTheory -c
+episodes.py --serie=TheBigBangTheory -c
 ```
 
 ### `transcripts/ folder`

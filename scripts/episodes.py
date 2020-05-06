@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""Usage: episodes.py SOURCEFILE [SERIES] [-c]
-
-Arguments:
-    SOURCEFILE    input series list file
-    SERIES        optionnal normalized name of a series
+"""Usage: episodes.py [--series=<series> --serie=<serie> -c]
 
 Options:
-    -c       creates credits.txt file (needs characters.txt)
-
+    --series=<series>    Path to a file containing information about the series
+                         formatted as 'Plumcot/data/series.txt' (see CONTRIBUTING).
+                         Defaults to 'Plumcot/data/series.txt'
+    --serie=<serie>      Process only this `serie`.
+                         Defaults to processing all `series`
+    -c                   creates credits.txt file (needs characters.txt)
 """
 
 from docopt import docopt
@@ -206,19 +206,17 @@ def initDicChars(idSeries):
 
 
 def main(args):
-    sourceFile = args["SOURCEFILE"]
-    onlyOne = args["SERIES"]
-    if onlyOne:
-        series = args["SERIES"]
+    series = args["--series"] if args["--series"] else DATA_PATH / 'series.txt'
+    serie = args["--serie"]
     credit = True if args['-c'] else False
 
-    with open(sourceFile, 'r') as f:
+    with open(series, 'r') as f:
         for line in f:
             sp = line.split(',')
             idSeries = sp[0]
             isMovie = int(sp[4])
 
-            if not isMovie and (not onlyOne or idSeries == series):
+            if not isMovie and (not serie or idSeries == serie):
                 if args['-c']:
                     dicChars = initDicChars(idSeries)
                 link = sp[2]
@@ -230,7 +228,7 @@ def main(args):
                 if credit:
                     writeData(idSeries, dataCredits, "credits.txt")
 
-            if credit and isMovie and (not onlyOne or idSeries == series):
+            if credit and isMovie and (not serie or idSeries == serie):
                 with open(DATA_PATH/idSeries/"episodes.txt", 'r') as movies:
                     dataMovie = ""
                     for movie in movies:

@@ -57,7 +57,7 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'pyannote.database >= 1.5.5',
+        'pyannote.database >= 3.0',
         'affinegap',
         'termcolor',
         'Unidecode>=1.0.23',

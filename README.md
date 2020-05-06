@@ -1,8 +1,10 @@
 # PLUMCOT 0
 
-TODO update with entity linking stuff
+> TODO update with entity linking stuff
 
-The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification on 16 TV (or movie) series :
+![annotation_durations](./annotation_durations.png)
+
+The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification of 16 TV (or movie) series :
 - [24](https://www.imdb.com/title/tt0285331/)*
 - [BattlestarGalactica](https://www.imdb.com/title/tt0407362/)
 - [BreakingBad](https://www.imdb.com/title/tt0903747/)
@@ -45,17 +47,14 @@ $ pip install pyannote-db-plumcot
 Please refer to [pyannote.database](https://github.com/pyannote/pyannote-database#custom-protocols) for a complete documentation.
 
 ```bash
-#TODO implement relative path in pyannote.database
-#until then, launch stuff from pyannote-db-plumcot/Plumcot/data/
-cd pyannote-db-plumcot/Plumcot/data/
-export PYANNOTE_DATABASE_CONFIG=pyannote-db-plumcot/Plumcot/data/database.yml
+export PYANNOTE_DATABASE_CONFIG=$PWD/pyannote-db-plumcot/Plumcot/data/database.yml
 python
 ```
 
 ### Speaker Diarization / Identification
 
 ```python
-from pyannote.database import get_protocol
+>>> from pyannote.database import get_protocol
 
 # you can access the whole dataset using the meta-protocol 'X'
 >>> plumcot = get_protocol('X.SpeakerDiarization.Plumcot')
@@ -76,20 +75,20 @@ from pyannote.database import get_protocol
 Note that the previous dataset is also suitable for Speech Activity Detection but is smaller.
 
 ```python
-from pyannote.database import get_protocol
+>>> from pyannote.database import get_protocol
 
 # you can access the whole dataset using the meta-protocol 'X'
 >>> plumcot = get_protocol('X.SpeakerDiarization.SAD')
 # Note : this might take a while...
 >>> plumcot.stats('train')
-{'annotated': 1240787.6950000003, 'annotation': 700932.564999995, 'n_files': 1096, 'labels': {...}}
+{'annotated': 1286065.3450000014, 'annotation': 716507.5149999945, 'n_files': 1144, 'labels': {...}}
 
 # or access each serie individually, e.g. 'HarryPotter'
 >>> harry = get_protocol('HarryPotter.SpeakerDiarization.SAD')
 >>> harry.stats('train')
 {'annotated': 12864.489999999932, 'annotation': 5853.799999999804, 'n_files': 5, 'labels': {...}}
 ```
-Note: we don't provide for the series audio or video files! You'll need to acquire them yourself then set the path to the wav files in `pyannote-db-plumcot/Plumcot/data/database.yml` ('Databases' field).
+> Note: we don't provide for the series audio or video files! You'll need to acquire them yourself then place them in the relevant serie directory (e.g. `HarryPotter/wavs`) with file name formatted as `<file_uri>.en16kHz.wav`. See also [DVD section](#DVDs).
 
 
 ## Raw data
@@ -108,7 +107,7 @@ We acquired zone 2 (i.e. Europe) DVDs. DVDs were converted to mkv and wav using 
 
 Some (double) episodes are numbered as two different episodes in the DVDs although they're numbered as one in IMDb. These are listed in the `double_episodes/` folder of the relevant serie, if needed.
 
-TODO: automate the creation of `double_episodes/` files so that the user doesn't have to replace `/vol/work3/lefevre/dvd_extracted/` manually.
+> TODO: automate the creation of `double_episodes/` files so that the user doesn't have to replace `/vol/work3/lefevre/dvd_extracted/` manually.
 
 The episodes are then concatenated using ffmpeg:
 ```bash
@@ -117,6 +116,40 @@ bash scripts/concat_double_episodes.sh <serie_uri> </path/to/wavs>
 ```
 
 Note that this will only create a new wav file resulting of the concatenation of `<episode.i>` and `<episode.j>` named like `<episode.i.j>` but it will not fix the numbering of the others episodes (TODO: add code to do it ?)
+
+## Ambiguous labels
+
+Some labels are ambiguous depending on whether we focus on the speaker or on the entity.
+
+We decided to focus on the entity as much as possible, e.g. 'Obiwan Kenobi' has the same label in the old and the new Star Wars movies, although it is not the same actor (i.e. speaker).
+
+However, we annotated following the IMDb credits which are not always consistent, e.g. the emperor in Star Wars doesn't have the same label in the old and the new episodes.
+
+> Disclaimer : we do not intend to use the whole `X.SpeakerDiarization.Plumcot` corpus
+> to train or evaluate speaker diarization systems! Indeed, the classes are largely
+> imbalanced, a lot of actors (i.e. speakers) play in multiple series and a lot of
+> characters share labels across series (see `actor_counter` and `counter
+>`, respectively).
+
+Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in `not_unique.json` and should be removed from the evaluation (TODO).
+
+## LICENSE
+
+### Speech annotations
+
+All speech annotations, regarding speaker identity or speech regions are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+### Textual content
+
+All textual content, dialogues and derived annotations are held by their respective owners and their use is allowed under the Fair Use Clause of the Copyright Law.
+We only share them for research purposes.
+
+They were scraped from various fan websites:
+- https://www.fandom.com/
+- http://transcripts.foreverdreaming.org/
+- https://www.springfieldspringfield.co.uk/
+- http://www.ageofthering.com/
+- https://bsg.hypnoweb.net/
 
 ## References
 
