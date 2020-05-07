@@ -135,6 +135,10 @@ Moreover, some secondary characters (most don't have proper names) are played by
 
 ## LICENSE
 
+### Source code
+
+The source code (or "Software") if freely available under the [MIT License](./LICENSE)
+
 ### Speech annotations
 
 All speech annotations, regarding speaker identity or speech regions are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
