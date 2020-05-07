@@ -93,9 +93,9 @@ Note that the previous dataset is also suitable for Speech Activity Detection bu
 
 ## Raw data
 
-Transcripts, diarization and entities annotation can be found as text file in `Plumcot/data` sub-directory. Formats etc. are described in `CONTRIBUTING.md`.
+Transcripts, diarization and entities annotation can be found as text file in `Plumcot/data` sub-directory. Formats etc. are described in [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
-The face recognition dataset is provided from an external link : **[TODO](TODO)**. Alternatively, you can scrap the images yourself using `scripts/images_scraping.py` (see `CONTRIBUTING.md`).
+The face recognition dataset is provided from an external link : **[TODO](TODO)**. Alternatively, you can scrap the images yourself using [`scripts/images_scraping.py`](./scripts/image_scraping.py) (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
 
 ### DVDs
 
@@ -103,7 +103,7 @@ Episode numbering relies on [IMDb](https://www.imdb.com/).
 
 We acquired zone 2 (i.e. Europe) DVDs. DVDs were converted to mkv and wav using [dvd_extraction](https://github.com/PaulLerner/dvd_extraction).
 
-`durations.csv` provides the audio duration of the resulting wav files.
+[`durations.csv`](Plumcot/data/durations.csv) provides the audio duration of the resulting wav files.
 
 Some (double) episodes are numbered as two different episodes in the DVDs although they're numbered as one in IMDb. These are listed in the `double_episodes/` folder of the relevant serie, if needed.
 
@@ -128,10 +128,10 @@ However, we annotated following the IMDb credits which are not always consistent
 > Disclaimer : we do not intend to use the whole `X.SpeakerDiarization.Plumcot` corpus
 > to train or evaluate speaker diarization systems! Indeed, the classes are largely
 > imbalanced, a lot of actors (i.e. speakers) play in multiple series and a lot of
-> characters share labels across series (see `actor_counter` and `counter
->`, respectively).
+> characters share labels across series (see [`actor_counter`](Plumcot/data/actor_counter.json) and [`counter
+>`](Plumcot/data/counter.json), respectively).
 
-Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in `not_unique.json` and should be removed from the evaluation (TODO).
+Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in [`not_unique.json`](./Plumcot/data/TheOffice/not_unique.json) and should be removed from the evaluation (TODO).
 
 ## LICENSE
 
