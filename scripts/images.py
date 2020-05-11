@@ -61,7 +61,7 @@ if __name__ == '__main__':
         else:  # only one but turn it to a list so we can iterate it
             SERIE_IMDB_URL = [SERIE_IMDB_URL]
         CHARACTERS_PATH = os.path.join(DATA_PATH, SERIE_URI, 'characters.txt')
-        IMAGE_PATH = os.path.join(DATA_PATH, SERIE_URI, 'images')
+        IMAGE_PATH = Path(DATA_PATH, SERIE_URI, 'images')
         if args['scrap'] or main:
             scrap(SERIE_URI, SERIE_IMDB_URL, IMAGE_PATH, CHARACTERS_PATH, N_COL, SEPARATOR, IMAGE_FORMAT)
         if args['features'] or main:

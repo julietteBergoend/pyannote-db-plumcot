@@ -12,6 +12,7 @@ Extracts features from images given IMDB-compliant JSON file,
 import numpy as np
 import os
 from shutil import copyfile
+from pathlib import Path
 
 ## ML/image processing
 import imageio
@@ -200,14 +201,14 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
             continue
         if KEEP_IMAGE_TYPES is not None and image['imageType'] not in KEEP_IMAGE_TYPES:
             continue
-        if not (IMAGE_PATH / image['features'][0]).is_file():
+        if not Path(image['features'][0]).exists():
             continue
         if keep_faces:
-            rgb = imageio.imread(IMAGE_PATH / image['path'][0])
+            rgb = imageio.imread(image['path'][0])
             frame_height = rgb.shape[0]
             frame_width = rgb.shape[1]
         # this way we skip those that are empty (because no (frontal) face was detected)
-        for feature in np.load(IMAGE_PATH / image['features'][0]):
+        for feature in np.load(image['features'][0]):
             features.append(feature["embeddings"])
             save_labels.append(image['label'])
             if keep_faces:
@@ -272,9 +273,11 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
                 grid_path = os.path.join(IMAGE_PATH, cluster_label,
                                          f'{str_KEEP_IMAGE_TYPES}.{MODEL_NAME}.{cluster_label}.{method}.{t}.grid.png')
                 cols = int(np.sqrt(len(cluster_i))) + 1
-                for i, face in enumerate(faces[cluster_i]):
+                for i, j in enumerate(cluster_i):
+                    if faces[j].size == 0:
+                        continue
                     plt.subplot(cols, cols, i + 1)
-                    plt.imshow(face)
+                    plt.imshow(faces[j])
                     plt.axis('off')
                 plt.savefig(grid_path)
     print(f"assigned {len(assigned_labels)} labels over {len(unique)} clusters")
