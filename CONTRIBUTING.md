@@ -230,7 +230,27 @@ Note: Leo has a script to do that, though the (automatic) output will need a man
 
 ## images
 
-The script is `images.py`. It scraps all images of a given serie and infers the label from the IMDB caption. Note that, since the IMDB caption only contains info about the actors, it does a 1-1 mapping between actor and character. Thus it's not functional if one actor plays several character, as the `characters.py` script only extracts the main character that an actor plays.
+Usage:
+```
+images.py [options]
+images.py scrap [options]
+images.py features [options]
+images.py references [options]
+images.py visualize [options]
+
+
+Options:
+--uri=<uri> Only process this serie, defaults to process all
+```
+* `main`: do `scrap`, `features` and `references`
+* `scrap`: Get images from IMDB character's page given a list of urls and character's names
+   
+* `features`: Then extracts features off theses images.
+* `references`: Then cluster image features, tag clusters based on image caption
+           and compute average embedding for (labelled) cluster to keep as reference
+* `visualize`: same as `references` but saves figure with cropped faces
+
+Note that, since the IMDB caption only contains info about the actors, it does a 1-1 mapping between actor and character. Thus it's not functional if one actor plays several character, as the `characters.py` script only extracts the main character that an actor plays.
 
 Images are stored in the `images/` folder, each character gets its own directory, e.g. `images/leonard_hofstadter`.
 Thus images are duplicated if there are several characters on the same picture.
