@@ -162,7 +162,7 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
     -----------
     image_jsons: dict
         described in `CONTRIBUTING.md`, it contains the path towards precomputed features for every character
-    IMAGE_PATH : str or Path
+    IMAGE_PATH : Path
         something like '/path/to/data/serie/images'
     t: float, str, optional
         Threshold to apply when forming flat clusters.
@@ -195,20 +195,19 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
 
     # Clusters over every image in image_jsons
     for i, image in enumerate(image_jsons['allImages']):
-        print((
-            f"\rimage {i + 1}/{image_jsons['totalImageCount']}."
-        ), end="                    ")
+        print((f"\rimage {i + 1}/{image_jsons['totalImageCount']}."), end="                    ")
         if 'features' not in image:
             continue
-        if KEEP_IMAGE_TYPES is not None:
-            if image['imageType'] not in KEEP_IMAGE_TYPES:
-                continue
+        if KEEP_IMAGE_TYPES is not None and image['imageType'] not in KEEP_IMAGE_TYPES:
+            continue
+        if not (IMAGE_PATH / image['features'][0]).is_file():
+            continue
         if keep_faces:
-            rgb = imageio.imread(image['path'][0])
+            rgb = imageio.imread(IMAGE_PATH / image['path'][0])
             frame_height = rgb.shape[0]
             frame_width = rgb.shape[1]
-        for feature in np.load(image['features'][
-                                   0]):  # this way we skip those that are empty (because no (frontal) face was detected)
+        # this way we skip those that are empty (because no (frontal) face was detected)
+        for feature in np.load(IMAGE_PATH / image['features'][0]):
             features.append(feature["embeddings"])
             save_labels.append(image['label'])
             if keep_faces:

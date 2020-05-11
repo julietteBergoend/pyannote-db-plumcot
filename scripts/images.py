@@ -25,8 +25,8 @@ Options:
 from docopt import docopt
 import json
 from pathlib import Path
-from .image_scraping import main as scrap
-from .image_features import *
+from image_scraping import main as scrap
+from image_features import *
 
 import Plumcot as PC
 

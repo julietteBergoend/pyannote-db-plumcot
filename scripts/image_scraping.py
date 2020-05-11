@@ -181,9 +181,6 @@ def main(SERIE_URI, SERIE_IMDB_URL, IMAGE_PATH, CHARACTERS_PATH, N_COL, SEPARATO
     for url in SERIE_IMDB_URL:
         media_viewer_url = get_url_from_serie_page(url)
         image_jsons = get_image_jsons_from_url(media_viewer_url, image_jsons)
-        # imdb_id=url.split('/')[-2]
-        # with open(f"{imdb_id}.json","w") as file:
-        #     json.dump(image_jsons,file)
     image_jsons = query_image_from_json(image_jsons, IMAGE_PATH, actor2character,
                                         SEPARATOR, IMAGE_FORMAT)
     with open(os.path.join(IMAGE_PATH, "images.json"), "w") as file:
