@@ -11,8 +11,6 @@ Extracts features from images given IMDB-compliant JSON file,
 ## core
 import numpy as np
 import os
-import json
-import warnings
 from shutil import copyfile
 
 ## ML/image processing
@@ -22,7 +20,7 @@ from pyannote.video.utils.scale_frame import scale_up_bbox, rectangle_to_bbox, \
     parts_to_landmarks
 
 ## clustering
-from pyannote.core.utils.distance import cdist, pdist
+from pyannote.core.utils.distance import pdist
 from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import fcluster
 from pyannote.core.utils.hierarchy import linkage, fcluster_auto
@@ -232,12 +230,13 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
     sorted_counts = np.sort(np.unique(counts))[::-1]
     keep_centroid = []
 
+    # start with the biggest clusters
     for count in sorted_counts:
-        for cluster in np.where(counts == count)[0]:  # start with the biggest clusters
-            cluster_i = np.where(clustering == unique[cluster])[
-                0]  # get the indexes of the cluster
-            cluster_labels = np.array(save_labels)[
-                cluster_i]  # get the labels associated to the cluster
+        for cluster in np.where(counts == count)[0]:
+            # get the indexes of the cluster
+            cluster_i = np.where(clustering == unique[cluster])[0]
+            # get the labels associated to the cluster
+            cluster_labels = np.array(save_labels)[cluster_i]
             # flatten the labels
             flat_cluster_labels = np.array(
                 [label for labels in cluster_labels for label in labels])
@@ -263,13 +262,26 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
                 image_jsons['characters'][cluster_label]["references"] = [output_path]
             assigned_labels.append(cluster_label)
             if keep_faces:
+                # 1. keep centroid
                 distance_from_cluster = np.mean(
                     squareform(pdist(features[cluster_i], metric='euclidean')), axis=0)
                 centroid_face = faces[cluster_i[np.argmin(distance_from_cluster)]]
                 keep_centroid.append(centroid_face)
+
+                # 2. save face grid
+                plt.figure(figsize=(16, 16))
+                grid_path = os.path.join(IMAGE_PATH, cluster_label,
+                                         f'{str_KEEP_IMAGE_TYPES}.{MODEL_NAME}.{cluster_label}.{method}.{t}.grid.png')
+                cols = int(np.sqrt(len(cluster_i))) + 1
+                for i, face in enumerate(faces[cluster_i]):
+                    plt.subplot(cols, cols, i + 1)
+                    plt.imshow(face)
+                    plt.axis('off')
+                plt.savefig(grid_path)
     print(f"assigned {len(assigned_labels)} labels over {len(unique)} clusters")
     print(f"those cluster were not assigned any label :\n{unassigned_clusters}")
     if keep_faces:
+        # save centroids
         plt.figure(figsize=(16, 16))
         cols = int(np.sqrt(len(assigned_labels))) + 1
         for i, label in enumerate(assigned_labels):

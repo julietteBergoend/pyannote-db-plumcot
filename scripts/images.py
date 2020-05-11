@@ -24,8 +24,6 @@ Options:
 # Dependencies
 from docopt import docopt
 import json
-import numpy as np
-import os
 from pathlib import Path
 from .image_scraping import main as scrap
 from .image_features import *
