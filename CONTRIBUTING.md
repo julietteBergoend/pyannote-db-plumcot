@@ -120,6 +120,7 @@ The ith binary column corresponds to the ith line in characters.txt
 episodes.py --serie=TheBigBangTheory -c
 ```
 
+> The Friends case: weirdly, in IMDb, the serie final is split in 2 episodes. I merged those manually so I recommend you don't rerun the episodes/credits scripts 
 ### `transcripts/ folder`
 
 The transcripts folder contains 2 files for all episodes in `episodes.txt`:
