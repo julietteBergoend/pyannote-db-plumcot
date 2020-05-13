@@ -5,6 +5,7 @@
 ![wav-got](./wav-got.png)
 ![annotation-got](./annotation-got.png)
 ![grid-got](./grid-got.png)
+
 The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification of 16 TV (or movie) series :
 
 | title                    | episodes | duration | episodes | sentences | episodes | duration | episodes | duration |
