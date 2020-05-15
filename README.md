@@ -2,29 +2,31 @@
 
 > TODO update with entity linking stuff
 
-![annotation_durations](./annotation_durations.png)
+![wav-got](./wav-got.png)
+![annotation-got](./annotation-got.png)
+![grid-got](./grid-got.png)
 
 The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification of 16 TV (or movie) series :
-- [24](https://www.imdb.com/title/tt0285331/)*
-- [BattlestarGalactica](https://www.imdb.com/title/tt0407362/)
-- [BreakingBad](https://www.imdb.com/title/tt0903747/)
-- [BuffyTheVampireSlayer](https://www.imdb.com/title/tt0118276/)
-- [ER](https://www.imdb.com/title/tt0108757/)*
-- [Friends](https://www.imdb.com/title/tt0108778/)
-- [GameOfThrones](https://www.imdb.com/title/tt0944947/)
-- [HarryPotter](https://www.imdb.com/title/tt0241527/)**
-- [Homeland](https://www.imdb.com/title/tt1796960/)*
-- [Lost](https://www.imdb.com/title/tt0411008/)
-- [SixFeetUnder](https://www.imdb.com/title/tt0248654/)*
-- [StarWars](https://www.imdb.com/title/tt0076759/)
-- [TheBigBangTheory](https://www.imdb.com/title/tt0898266/)
-- [TheLordOfTheRings](https://www.imdb.com/title/tt0120737/)
-- [TheOffice](https://www.imdb.com/title/tt0386676/)
-- [TheWalkingDead](https://www.imdb.com/title/tt1520211/)**
 
-
->\*doesn't provide speaker diarization and speaker identification annotations  
-\*\*partially provides speaker diarization and speaker identification annotations
+| title                    | episodes | duration | episodes | sentences | episodes | duration | episodes | duration |
+|--------------------------|----------|----------|----------|-----------|----------|----------|----------|----------|
+| 24                       | 195      | 142:45   | \-       | \-        | 195      | 36:17    | \-       | \-       |
+| Battlestar Galactica     | 71       | 52:16    | \-       | \-        | 71       | 10:53    | 61       | 08:49    |
+| Breaking Bad             | 61       | 47:15    | \-       | \-        | 61       | 17:06    | 61       | 17:06    |
+| Buffy The Vampire Slayer | 143      | 101:18   | 12       | 5109      | 143      | 25:55    | 143      | 25:55    |
+| ER                       | 283      | 235:29   | \-       | \-        | 283      | 63:06    | \-       | \-       |
+| Friends                  | 233      | 84:56    | \-       | \-        | 233      | 28:04    | 233      | 28:04    |
+| Game Of Thrones          | 60       | 53:09    | 10       | 3400      | 60       | 19:13    | 60       | 19:13    |
+| Harry Potter             | 8        | 18:51    | 1        | 845       | 8        | 02:44    | 4        | 01:28    |
+| Homeland                 | 70       | 59:27    | \-       | \-        | 70       | 12:24    | \-       | \-       |
+| Lost                     | 66       | 74:36    | 7        | 2104      | 66       | 07:12    | 66       | 07:12    |
+| Six Feet Under           | 63       | 56:43    | \-       | \-        | 63       | 15:11    | \-       | \-       |
+| Star Wars                | 7        | 15:05    | 1        | 1185      | 7        | 02:13    | 7        | 02:13    |
+| The Big Bang Theory      | 207      | 68:41    | 17       | 4159      | 207      | 25:23    | 207      | 25:23    |
+| The Lord Of The Rings    | 3        | 08:56    | \-       | \-        | 3        | 00:47    | 3        | 00:47    |
+| The Office               | 188      | 71:45    | 6        | 1495      | 188      | 30:15    | 188      | 30:15    |
+| The Walking Dead         | 89       | 72:09    | 19       | 5363      | 89       | 08:32    | 25       | 02:46    |
+| *TOTAL*                  | 1747     | 1163:29  | \-       | \-        | 1747     | 305:25   | 1058     | 169:19   |
 
 
 Speaker annotations come from forced-alignment on series transcripts except for Breaking Bad and Game Of Thrones which were manually annotated by Bost et al.
