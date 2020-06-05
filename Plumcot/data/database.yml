@@ -97,281 +97,347 @@ Protocols:
     SpeakerDiarization:
       SAD:
         train:
+          transcription: _24/forced-alignment/{uri}.aligned
           annotation: 24/forced-alignment/24_0.15collar.rttm
           annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
-          uris: 24/train_list.lst
+          uri: 24/train_list.lst
         development:
+          transcription: _24/forced-alignment/{uri}.aligned
           annotation: 24/forced-alignment/24_0.15collar.rttm
           annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
-          uris: 24/dev_list.lst
+          uri: 24/dev_list.lst
         test:
+          transcription: _24/forced-alignment/{uri}.aligned
           annotation: 24/forced-alignment/24_0.15collar.rttm
           annotated: 24/forced-alignment/24_0.5confidence.SAD.uem
-          uris: 24/test_list.lst
+          uri: 24/test_list.lst
   BattlestarGalactica:
       SpeakerDiarization:
         0:
           train:
+            transcription: _BattlestarGalactica/forced-alignment/{uri}.aligned
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
             annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
-            uris: BattlestarGalactica/train_list.lst
+            uri: BattlestarGalactica/train_list.lst
           development:
+            transcription: _BattlestarGalactica/forced-alignment/{uri}.aligned
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
             annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
-            uris: BattlestarGalactica/dev_list.lst
+            uri: BattlestarGalactica/dev_list.lst
           test:
+            transcription: _BattlestarGalactica/forced-alignment/{uri}.aligned
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
             annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
-            uris: BattlestarGalactica/test_list.lst
+            uri: BattlestarGalactica/test_list.lst
         SAD:
           train:
+            transcription: _BattlestarGalactica/forced-alignment/{uri}.aligned
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
             annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
-            uris: BattlestarGalactica/train_list.SAD.lst
+            uri: BattlestarGalactica/train_list.SAD.lst
           development:
+            transcription: _BattlestarGalactica/forced-alignment/{uri}.aligned
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
             annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
-            uris: BattlestarGalactica/dev_list.lst
+            uri: BattlestarGalactica/dev_list.lst
           test:
+            transcription: _BattlestarGalactica/forced-alignment/{uri}.aligned
             annotation: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.15collar.rttm
             annotated: BattlestarGalactica/forced-alignment/BattlestarGalactica_0.5confidence.SAD.uem
-            uris: BattlestarGalactica/test_list.lst
+            uri: BattlestarGalactica/test_list.lst
   BreakingBad:
       SpeakerDiarization:
         0:
           train:
+            transcription: _BreakingBad/forced-alignment/{uri}.aligned
             annotation: BreakingBad/serial_speakers/BreakingBad.rttm
             annotated: BreakingBad/serial_speakers/BreakingBad.uem
-            uris: BreakingBad/train_list.lst
+            uri: BreakingBad/train_list.lst
           development:
+            transcription: _BreakingBad/forced-alignment/{uri}.aligned
             annotation: BreakingBad/serial_speakers/BreakingBad.rttm
             annotated: BreakingBad/serial_speakers/BreakingBad.uem
-            uris: BreakingBad/dev_list.lst
+            uri: BreakingBad/dev_list.lst
           test:
+            transcription: _BreakingBad/forced-alignment/{uri}.aligned
             annotation: BreakingBad/serial_speakers/BreakingBad.rttm
             annotated: BreakingBad/serial_speakers/BreakingBad.uem
-            uris: BreakingBad/test_list.lst
+            uri: BreakingBad/test_list.lst
   BuffyTheVampireSlayer:
       SpeakerDiarization:
         0:
           train:
+            transcription: _BuffyTheVampireSlayer/forced-alignment/{uri}.aligned
             annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
             annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
-            uris: BuffyTheVampireSlayer/train_list.lst
+            uri: BuffyTheVampireSlayer/train_list.lst
           development:
+            transcription: _BuffyTheVampireSlayer/forced-alignment/{uri}.aligned
             annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
             annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
-            uris: BuffyTheVampireSlayer/dev_list.lst
+            uri: BuffyTheVampireSlayer/dev_list.lst
           test:
             annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
             annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
-            uris: BuffyTheVampireSlayer/test_list.lst
+            uri: BuffyTheVampireSlayer/test_list.lst
+            entity: _BuffyTheVampireSlayer/annotated_transcripts/merge_{uri}.csv
+            transcription: _BuffyTheVampireSlayer/forced-alignment/{uri}.aligned
   Friends:
     SpeakerDiarization:
       0:
         train:
+          transcription: _Friends/forced-alignment/{uri}.aligned
           annotation: Friends/forced-alignment/Friends_0.15collar.rttm
           annotated: Friends/forced-alignment/Friends_0.5confidence.SAD.uem
-          uris: Friends/train_list.lst
+          uri: Friends/train_list.lst
         development:
+          transcription: _Friends/forced-alignment/{uri}.aligned
           annotation: Friends/forced-alignment/Friends_0.15collar.rttm
           annotated: Friends/forced-alignment/Friends_0.5confidence.SAD.uem
-          uris: Friends/dev_list.lst
+          uri: Friends/dev_list.lst
         test:
+          transcription: _Friends/forced-alignment/{uri}.aligned
           annotation: Friends/forced-alignment/Friends_0.15collar.rttm
           annotated: Friends/forced-alignment/Friends_0.5confidence.SAD.uem
-          uris: Friends/test_list.lst
+          uri: Friends/test_list.lst
   GameOfThrones:
       SpeakerDiarization:
         0:
           train:
+            transcription: _GameOfThrones/forced-alignment/{uri}.aligned
             annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
             annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
-            uris: GameOfThrones/train_list.lst
+            uri: GameOfThrones/train_list.lst
           development:
+            transcription: _GameOfThrones/forced-alignment/{uri}.aligned
             annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
             annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
-            uris: GameOfThrones/dev_list.lst
+            uri: GameOfThrones/dev_list.lst
           test:
             annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
             annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
-            uris: GameOfThrones/test_list.lst
+            uri: GameOfThrones/test_list.lst
+            entity: _GameOfThrones/annotated_transcripts/merge_{uri}.csv
+            transcription: _GameOfThrones/forced-alignment/{uri}.aligned
   Homeland:
       SpeakerDiarization:
         SAD:
           train:
+            transcription: _Homeland/forced-alignment/{uri}.aligned
             annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
             annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
-            uris: Homeland/train_list.lst
+            uri: Homeland/train_list.lst
           development:
+            transcription: _Homeland/forced-alignment/{uri}.aligned
             annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
             annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
-            uris: Homeland/dev_list.lst
+            uri: Homeland/dev_list.lst
           test:
+            transcription: _Homeland/forced-alignment/{uri}.aligned
             annotation: Homeland/forced-alignment/Homeland_0.15collar.rttm
             annotated: Homeland/forced-alignment/Homeland_0.5confidence.SAD.uem
-            uris: Homeland/test_list.lst
+            uri: Homeland/test_list.lst
   Lost:
       SpeakerDiarization:
         0:
           train:
             annotation: Lost/forced-alignment/Lost_0.15collar.rttm
             annotated: Lost/forced-alignment/Lost_0.5confidence.SAD.uem
-            uris: Lost/train_list.lst
+            uri: Lost/train_list.lst
+            transcription: _Lost/forced-alignment/{uri}.aligned
           development:
             annotation: Lost/forced-alignment/Lost_0.15collar.rttm
             annotated: Lost/forced-alignment/Lost_0.5confidence.SAD.uem
-            uris: Lost/dev_list.lst
+            uri: Lost/dev_list.lst
+            transcription: _Lost/forced-alignment/{uri}.aligned
           test:
             annotation: Lost/forced-alignment/Lost_0.15collar.rttm
             annotated: Lost/forced-alignment/Lost_0.5confidence.SAD.uem
-            uris: Lost/test_list.lst
+            uri: Lost/test_list.lst
+            transcription: _Lost/forced-alignment/{uri}.aligned
   SixFeetUnder:
       SpeakerDiarization:
         SAD:
           train:
+            transcription: _SixFeetUnder/forced-alignment/{uri}.aligned
             annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
             annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
-            uris: SixFeetUnder/train_list.lst
+            uri: SixFeetUnder/train_list.lst
           development:
+            transcription: _SixFeetUnder/forced-alignment/{uri}.aligned
             annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
             annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
-            uris: SixFeetUnder/dev_list.lst
+            uri: SixFeetUnder/dev_list.lst
           test:
+            transcription: _SixFeetUnder/forced-alignment/{uri}.aligned
             annotation: SixFeetUnder/forced-alignment/SixFeetUnder_0.15collar.rttm
             annotated: SixFeetUnder/forced-alignment/SixFeetUnder_0.5confidence.SAD.uem
-            uris: SixFeetUnder/test_list.lst
+            uri: SixFeetUnder/test_list.lst
   TheBigBangTheory:
       SpeakerDiarization:
         0:
           train:
+            transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
             annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
             annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
-            uris: TheBigBangTheory/train_list.lst
+            uri: TheBigBangTheory/train_list.lst
           development:
+            transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
             annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
             annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
-            uris: TheBigBangTheory/dev_list.lst
+            uri: TheBigBangTheory/dev_list.lst
           test:
             annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
             annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
-            uris: TheBigBangTheory/test_list.lst
+            uri: TheBigBangTheory/test_list.lst
+            entity: _TheBigBangTheory/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
   TheOffice:
       SpeakerDiarization:
         0:
           train:
+            transcription: _TheOffice/forced-alignment/{uri}.aligned
             annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
             annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
-            uris: TheOffice/train_list.lst
+            uri: TheOffice/train_list.lst
           development:
+            transcription: _TheOffice/forced-alignment/{uri}.aligned
             annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
             annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
-            uris: TheOffice/dev_list.lst
+            uri: TheOffice/dev_list.lst
           test:
             annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
             annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
-            uris: TheOffice/test_list.lst
+            uri: TheOffice/test_list.lst
+            entity: _TheOffice/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheOffice/forced-alignment/{uri}.aligned
+
   TheWalkingDead:
       SpeakerDiarization:
         0:
           train:
+            transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/train_list.lst
+            uri: TheWalkingDead/train_list.lst
           development:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/dev_list.lst
+            uri: TheWalkingDead/dev_list.lst
+            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
           test:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/test_list.lst
+            uri: TheWalkingDead/test_list.lst
+            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
         SAD:
           train:
+            transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/train_list.SAD.lst
+            uri: TheWalkingDead/train_list.SAD.lst
           development:
+            transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/dev_list.SAD.lst
+            uri: TheWalkingDead/dev_list.SAD.lst
           test:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uris: TheWalkingDead/test_list.lst
+            uri: TheWalkingDead/test_list.lst
+            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
   ER:
       SpeakerDiarization:
         SAD:
           train:
+            transcription: _ER/forced-alignment/{uri}.aligned
             annotation: ER/forced-alignment/ER_0.15collar.rttm
             annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
-            uris: ER/train_list.lst
+            uri: ER/train_list.lst
           development:
+            transcription: _ER/forced-alignment/{uri}.aligned
             annotation: ER/forced-alignment/ER_0.15collar.rttm
             annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
-            uris: ER/dev_list.lst
+            uri: ER/dev_list.lst
           test:
+            transcription: _ER/forced-alignment/{uri}.aligned
             annotation: ER/forced-alignment/ER_0.15collar.rttm
             annotated: ER/forced-alignment/ER_0.5confidence.SAD.uem
-            uris: ER/test_list.lst
+            uri: ER/test_list.lst
   HarryPotter:
       SpeakerDiarization:
         0:
           train:
+            transcription: _HarryPotter/forced-alignment/{uri}.aligned
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
-            uris: HarryPotter/train_list.lst
+            uri: HarryPotter/train_list.lst
           development:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
-            uris: HarryPotter/dev_list.lst
+            uri: HarryPotter/dev_list.lst
+            transcription: _HarryPotter/forced-alignment/{uri}.aligned
           test:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
-            uris: HarryPotter/test_list.lst
+            uri: HarryPotter/test_list.lst
+            entity: _HarryPotter/annotated_transcripts/merge_{uri}.csv
+            transcription: _HarryPotter/forced-alignment/{uri}.aligned
         SAD:
           train:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
-            uris: HarryPotter/train_list.SAD.lst
+            uri: HarryPotter/train_list.SAD.lst
+            transcription: _HarryPotter/forced-alignment/{uri}.aligned
           development:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
-            uris: HarryPotter/dev_list.SAD.lst
+            uri: HarryPotter/dev_list.SAD.lst
+            transcription: _HarryPotter/forced-alignment/{uri}.aligned
           test:
             annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
             annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
-            uris: HarryPotter/test_list.lst
+            uri: HarryPotter/test_list.lst
+            transcription: _HarryPotter/forced-alignment/{uri}.aligned
   StarWars:
       SpeakerDiarization:
         0:
           train:
             annotation: StarWars/forced-alignment/StarWars_0.15collar.rttm
             annotated: StarWars/forced-alignment/StarWars_0.5confidence.SAD.uem
-            uris: StarWars/train_list.lst
+            uri: StarWars/train_list.lst
+            transcription: _StarWars/forced-alignment/{uri}.aligned
           development:
             annotation: StarWars/forced-alignment/StarWars_0.15collar.rttm
             annotated: StarWars/forced-alignment/StarWars_0.5confidence.SAD.uem
-            uris: StarWars/dev_list.lst
+            uri: StarWars/dev_list.lst
+            transcription: _StarWars/forced-alignment/{uri}.aligned
           test:
             annotation: StarWars/forced-alignment/StarWars_0.15collar.rttm
             annotated: StarWars/forced-alignment/StarWars_0.5confidence.SAD.uem
-            uris: StarWars/test_list.lst
+            uri: StarWars/test_list.lst
+            transcription: _StarWars/forced-alignment/{uri}.aligned
   TheLordOfTheRings:
       SpeakerDiarization:
         0:
           train:
             annotation: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
             annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
-            uris: TheLordOfTheRings/train_list.lst
+            uri: TheLordOfTheRings/train_list.lst
+            transcription: _TheLordOfTheRings/forced-alignment/{uri}.aligned
           development:
             annotation: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
             annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
-            uris: TheLordOfTheRings/dev_list.lst
+            uri: TheLordOfTheRings/dev_list.lst
+            transcription: _TheLordOfTheRings/forced-alignment/{uri}.aligned
           test:
             annotation: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.15collar.rttm
             annotated: TheLordOfTheRings/forced-alignment/TheLordOfTheRings_0.5confidence.SAD.uem
-            uris: TheLordOfTheRings/test_list.lst
+            uri: TheLordOfTheRings/test_list.lst
+            transcription: _TheLordOfTheRings/forced-alignment/{uri}.aligned
 Databases:
   24: 24/wavs/{uri}.en16kHz.wav
   BattlestarGalactica: BattlestarGalactica/wavs/{uri}.en16kHz.wav
