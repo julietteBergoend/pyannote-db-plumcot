@@ -1,6 +1,7 @@
 from pyannote.database import ProtocolFile
 from pathlib import Path
 
+from spacy.gold import align
 from spacy.vocab import Vocab
 from spacy.tokens import Doc, Token
 
@@ -136,36 +137,30 @@ def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes)
     current_transcription: Doc
         same as input `current_transcription` with extra attributes
     """
-    i = 0
-    for t_token in current_transcription:
-        token = e_tokens[i]
-        pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[i]
 
-        # handle tokenization
-        skip_text = False
-        while token != t_token.text and i + 1 < len(e_tokens):
-            # handle weird '"' corner-case
-            if '"' in token:
-                break
-            # handle punctuation
-            elif token == '.':
-                i += 1
-                token = e_tokens[i]
-                pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[i]
-            elif token.replace('.','') == t_token.text.replace('.',''):
-                break
-            elif t_token.text == '.':
-                skip_text = True
-                break
-            # token was split by a tokenizer at some point
-            else:
-                token += e_tokens[i + 1]
-                i += 1
-        if skip_text:
+    tokens = [token.text for token in current_transcription]
+
+    # 1. align weirdly tokenized e_tokens with current_transcription
+    _, one2one, _, _, one2multi = align(tokens, e_tokens)
+
+    # 2. add named-entity to perfectly mapped tokens
+    for i, j in enumerate(one2one):
+        if j < 0:
             continue
-        i += 1
-
-        t_token.pos_, t_token.tag_, t_token.dep_, t_token.lemma_, t_token.ent_type_, t_token.ent_kb_id_ = \
+        pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[j]
+        current_transcription[i].pos_, current_transcription[i].tag_, current_transcription[i].dep_, \
+        current_transcription[i].lemma_, current_transcription[i].ent_type_, current_transcription[i].ent_kb_id_ = \
             pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_
+
+    # 3. try to add named-entity to multiply mapped tokens
+    for j, i in one2multi.items():
+        pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[j]
+        # try not to overwrite current_transcription[i].ent_kb_id_
+        # with '' when there's multiple alignment
+        if ent_kb_id_ != '':
+            current_transcription[i].pos_, current_transcription[i].tag_, \
+            current_transcription[i].dep_, current_transcription[i].lemma_, \
+            current_transcription[i].ent_type_, current_transcription[i].ent_kb_id_ = \
+                pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_
 
     return current_transcription
