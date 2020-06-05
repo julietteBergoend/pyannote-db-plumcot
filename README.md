@@ -53,7 +53,7 @@ export PYANNOTE_DATABASE_CONFIG=$PWD/pyannote-db-plumcot/Plumcot/data/database.y
 python
 ```
 
-### Speaker Diarization / Identification
+### Speaker Diarization / Identification and Entity Linking
 
 ```python
 >>> from pyannote.database import get_protocol
@@ -69,10 +69,38 @@ python
 >>> harry = get_protocol('HarryPotter.SpeakerDiarization.0')
 >>> harry.stats('train')
 {'annotated': 5281.429999999969, 'annotation': 2836.8099999998867, 'n_files': 2, 'labels': {...}}
-
+# get the first file of HarryPotter.SpeakerDiarization.0's test set
+>>> first_file = next(harry.test()) 
+>>> first_file['uri']                                                                                                                                                                                   
+'HarryPotter.Episode01'
+# top 5 speakers of HarryPotter.Episode01
+>>> first_file['annotation'].chart()[:5]                                                                                                                                                                
+[('harry_potter', 417.1699999999951),
+ ('rubeus_hagrid', 321.49000000000785),
+ ('ron_weasley', 259.1599999999926),
+ ('hermione_granger', 217.5499999999979),
+ ('albus_dumbledore', 186.04999999999941)]
+# On some files we provide entity linking annotation in a SpaCy Doc
+# Beware, this might lead to a KeyError
+>>> entity = first_file['entity'] 
+>>> from pyannote.core import Segment 
+>>> for token in entity[:11]: 
+>>>     segment = Segment(token._.time_start, token._.time_end) 
+>>>     print(f'{segment} {token._.speaker}: {token.text} -> {token.ent_kb_id_}')                                                                                                                        
+[ 00:01:18.740 -->  00:01:18.790] albus_dumbledore: I -> albus_dumbledore
+[ 00:01:18.830 -->  00:01:18.980] albus_dumbledore: should -> 
+[ 00:01:18.980 -->  00:01:19.100] albus_dumbledore: have -> 
+[ 00:01:19.160 -->  00:01:19.430] albus_dumbledore: known -> 
+[ 00:01:19.460 -->  00:01:19.580] albus_dumbledore: that -> 
+[ 00:01:19.600 -->  00:01:19.700] albus_dumbledore: you -> professor_mcgonagall
+[ 00:01:19.700 -->  00:01:19.820] albus_dumbledore: would -> 
+[ 00:01:19.820 -->  00:01:19.940] albus_dumbledore: be -> 
+[ 00:01:19.940 -->  00:01:20.380] albus_dumbledore: here -> 
+[ 00:01:21.660 -->  00:01:22.130] albus_dumbledore: ...Professor -> 
+[ 00:01:22.380 -->  00:01:22.600] albus_dumbledore: mcgonagall -> professor_mcgonagall
 ```
 
-### Speech Activity Detection
+### Speech Activity Detection and transcription
 
 Note that the previous dataset is also suitable for Speech Activity Detection but is smaller.
 
@@ -89,9 +117,29 @@ Note that the previous dataset is also suitable for Speech Activity Detection bu
 >>> harry = get_protocol('HarryPotter.SpeakerDiarization.SAD')
 >>> harry.stats('train')
 {'annotated': 12864.489999999932, 'annotation': 5853.799999999804, 'n_files': 5, 'labels': {...}}
+# get the first file of HarryPotter.SpeakerDiarization.0's test set
+>>> first_file = next(harry.test()) 
+>>> first_file['uri']                                                                                                                                                                                   
+'HarryPotter.Episode01'
+# The 'transcription' key should *always* be available, even when speaker identity is not
+>>> transcription = first_file['transcription']
+>>> from pyannote.core import Segment 
+>>> for token in transcription[:11]: 
+>>>     s = Segment(token._.time_start, token._.time_end) 
+>>>     print(f'{s}: {token.text}') 
+[ 00:01:18.740 -->  00:01:18.790]: I
+[ 00:01:18.830 -->  00:01:18.980]: should
+[ 00:01:18.980 -->  00:01:19.100]: have
+[ 00:01:19.160 -->  00:01:19.430]: known
+[ 00:01:19.460 -->  00:01:19.580]: that
+[ 00:01:19.600 -->  00:01:19.700]: you
+[ 00:01:19.700 -->  00:01:19.820]: would
+[ 00:01:19.820 -->  00:01:19.940]: be
+[ 00:01:19.940 -->  00:01:20.380]: here
+[ 00:01:21.660 -->  00:01:22.130]: ...Professor
+[ 00:01:22.380 -->  00:01:22.600]: mcgonagall
 ```
 > Note: we don't provide for the series audio or video files! You'll need to acquire them yourself then place them in the relevant serie directory (e.g. `HarryPotter/wavs`) with file name formatted as `<file_uri>.en16kHz.wav`. See also [DVD section](#DVDs).
-
 
 ## Raw data
 
