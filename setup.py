@@ -57,7 +57,7 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'pyannote.database >= 3.0',
+        'pyannote.database >= 4.0',
         'affinegap',
         'termcolor',
         'Unidecode>=1.0.23',
@@ -79,9 +79,14 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Topic :: Scientific/Engineering"
     ],
-
-    entry_points="""
-        [pyannote.database.databases]
-        Plumcot=Plumcot:Plumcot
-    """
+    entry_points={
+        "pyannote.database.databases": [
+            "Plumcot = Plumcot:Plumcot",
+            ],
+        "pyannote.database.loader": [
+            ".txt = Plumcot.loader:TxtLoader",
+            ".aligned = Plumcot.loader:AlignedLoader",
+            ".csv = Plumcot.loader:CsvLoader",
+        ],
+    },
 )
