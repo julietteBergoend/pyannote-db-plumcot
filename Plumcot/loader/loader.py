@@ -157,7 +157,7 @@ def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes)
         pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[j]
         # try not to overwrite current_transcription[i].ent_kb_id_
         # with '' when there's multiple alignment
-        if ent_kb_id_ != '':
+        if current_transcription[i].ent_kb_id_ == '':
             current_transcription[i].pos_, current_transcription[i].tag_, \
             current_transcription[i].dep_, current_transcription[i].lemma_, \
             current_transcription[i].ent_type_, current_transcription[i].ent_kb_id_ = \
