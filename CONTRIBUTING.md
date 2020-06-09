@@ -294,7 +294,25 @@ I also added a `characters` object (i.e. python `dict`) in `image_jsons['charact
 
 ## multimodal
 
-TODO: document multimodal when upscale experiments will be done.
+Fuses outputs of `pyannote.audio` and `pyannote.video` models
+
+Requires that you first ran speaker diarization as described in [pyannote.audio tutorials](https://github.com/pyannote/pyannote-audio/tree/develop/tutorials/pipelines/speaker_diarization) and face identification using [pyannote.video](https://github.com/PaulLerner/pyannote-video/blob/feat/identify/scripts/pyannote-face.py) (the latter output path should be like `Plumcot/data/<serie_uri>/video/<file_uri>.npy`).
+
+### fuse
+`multimodal.py fuse <serie_uri.task.protocol> <validate_dir> [--set=<set>]`
+
+1. computes optimal mapping between speaker diarization output (i.e. speech clusters) and face identification tracks.
+2. keep only parts where the character is *speaking* and *visible*
+
+> FIXME this relies on https://github.com/pyannote/pyannote-core/pull/33
+
+### map (i.e. identify)
+`multimodal.py map <serie_uri.task.protocol> <validate_dir> [--set=<set> --ier]`
+
+maps speaker diarization output (i.e. speech clusters) and face identification tracks, either by:
+- using `pyannote.metrics` optimal mapping like in `fuse` (one-to-one mapping between cluster and face id)
+- else, if `--ier`, mapping whatever face id co-occurs the most with the cluster in order to minimize IER
+ 
 
 ## scene / narrative stuff
 
