@@ -287,6 +287,8 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
         plt.figure(figsize=(16, 16))
         cols = int(np.sqrt(len(assigned_labels))) + 1
         for i, label in enumerate(assigned_labels):
+            if keep_centroid[i].size == 0:
+                continue
             plt.subplot(cols, cols, i + 1)
             plt.title(label[:12] + str(image_jsons['characters'][label]['count']))
             centroid_path = os.path.join(IMAGE_PATH, label,
