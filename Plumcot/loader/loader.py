@@ -153,7 +153,7 @@ def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes)
     # 2. add named-entity to perfectly mapped tokens
     # and try to map with surrounding tokens for the unmatched as spacy.gold.align
     # doesn't handle insertions
-    previous = None
+    previous = 0
     for i, j in enumerate(one2one):
         if j < 0:
             # HACK if not matched then should be previous+1
