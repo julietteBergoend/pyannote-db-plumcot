@@ -104,9 +104,13 @@ class CsvLoader(BaseLoader):
             # HACK: using ';' as csv delimiter was a bad idea :)
             if len(line.split(';')) == 16:
                 _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+            elif len(line.split(';')) == 18:
+                _, _, token, _, _, pos_, tag_, dep_, _, lemma_, _, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+                token, lemma_ = ';', ';'
             else:
-                _, _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
-                token = ';'
+                msg = (f'The following line of {self.path} has an incorrect number of fields '
+                       f'(expected 16, got {len(line.split(";"))}):\n{line}')
+                raise ValueError(msg)
             # remove empty lines
             if token == '':
                 continue
