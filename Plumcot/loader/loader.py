@@ -101,7 +101,12 @@ class CsvLoader(BaseLoader):
         for line in current_entities[1:]:
             if line == '':
                 continue
-            _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+            # HACK: using ';' as csv delimiter was a bad idea :)
+            if len(line.split(';')) == 16:
+                _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+            else:
+                _, _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+                token = ';'
             # remove empty lines
             if token == '':
                 continue
