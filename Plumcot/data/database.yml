@@ -165,6 +165,12 @@ Protocols:
             uri: BreakingBad/test_list.lst
   BuffyTheVampireSlayer:
       SpeakerDiarization:
+        EL:
+          test:
+            annotation: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.15collar.rttm
+            annotated: BuffyTheVampireSlayer/forced-alignment/BuffyTheVampireSlayer_0.5confidence.SAD.uem
+            uri: BuffyTheVampireSlayer/test_list.lst
+            entity: _BuffyTheVampireSlayer/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _BuffyTheVampireSlayer/forced-alignment/{uri}.aligned
@@ -202,6 +208,12 @@ Protocols:
           uri: Friends/test_list.lst
   GameOfThrones:
       SpeakerDiarization:
+        EL:
+          test:
+            annotation: GameOfThrones/serial_speakers/GameOfThrones.rttm
+            annotated: GameOfThrones/serial_speakers/GameOfThrones.uem
+            uri: GameOfThrones/test_list.lst
+            entity: _GameOfThrones/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _GameOfThrones/forced-alignment/{uri}.aligned
@@ -275,6 +287,12 @@ Protocols:
             uri: SixFeetUnder/test_list.lst
   TheBigBangTheory:
       SpeakerDiarization:
+        EL:
+          test:
+            annotation: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.15collar.rttm
+            annotated: TheBigBangTheory/forced-alignment/TheBigBangTheory_0.5confidence.SAD.uem
+            uri: TheBigBangTheory/test_list.lst
+            entity: _TheBigBangTheory/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
@@ -294,6 +312,12 @@ Protocols:
             transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
   TheOffice:
       SpeakerDiarization:
+        EL:
+          test:
+            annotation: TheOffice/forced-alignment/TheOffice_0.15collar.rttm
+            annotated: TheOffice/forced-alignment/TheOffice_0.5confidence.SAD.uem
+            uri: TheOffice/test_list.lst
+            entity: _TheOffice/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _TheOffice/forced-alignment/{uri}.aligned
@@ -314,6 +338,17 @@ Protocols:
 
   TheWalkingDead:
       SpeakerDiarization:
+        EL:
+          development:
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uri: TheWalkingDead/dev_list.lst
+            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
+          test:
+            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
+            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
+            uri: TheWalkingDead/test_list.lst
+            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
@@ -369,6 +404,12 @@ Protocols:
             uri: ER/test_list.lst
   HarryPotter:
       SpeakerDiarization:
+        EL:
+          test:
+            annotation: HarryPotter/forced-alignment/HarryPotter_0.15collar.rttm
+            annotated: HarryPotter/forced-alignment/HarryPotter_0.5confidence.SAD.uem
+            uri: HarryPotter/test_list.lst
+            entity: _HarryPotter/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _HarryPotter/forced-alignment/{uri}.aligned
