@@ -83,8 +83,13 @@ class CsvLoader(BaseLoader):
     """Loads named entities annotations in the .csv format
     described in pyannote.db.plumcot in a spaCy Doc
 
+    Since we assume that we only annotate person-named entities, the entity type is always
+    set to "PERSON" when entity label is not empty and to "" otherwise.
+
     Also merges named entities annotations with forced-alignment when available
-    (see AlignedLoader)
+    (see AlignedLoader). Note that some attributes may be lost in the process as the
+    output will follow the tokenization of forced-alignment.
+    Do not set the "transcription" key in database.yml if you want to avoid that.
     """
 
     def __call__(self, current_file: ProtocolFile) -> Doc:
@@ -103,18 +108,21 @@ class CsvLoader(BaseLoader):
             # first token of each line includes speaker names
             token = token[token.find(' ') + 1:]
             tokens.append(token)
+
+            # HACK: we only annotated person-named entities
+            # but ent_type was set automatically, so we always set it to 'PERSON'
+            # when the entity was labeled
+            if ent_kb_id_ != '':
+                ent_type_ = 'PERSON'
+            # and reset it to '' otherwise
+            else:
+                ent_type_ = ''
             attributes.append((pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker))
 
         # if forced-alignment annotation is available in current_file
         # then add named-entities attributes to current_transcription
         current_transcription = current_file.get('transcription')
         if current_transcription:
-            warn('Merging "entity" with "transcription". This will add named-entities '
-                 'attributes to "transcription" (which should contain timestamps).\n'
-                 'However some attributes may be lost in the process as the output will '
-                 'follow the tokenization of "transcription".\n'
-                 'If you do not want to merge "entity" and "transcription", '
-                 'remove the "transcription" key from database.yml')
             return merge_transcriptions_entities(current_transcription,
                                                  tokens,
                                                  attributes)
