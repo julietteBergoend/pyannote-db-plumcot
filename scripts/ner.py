@@ -1,9 +1,10 @@
 # coding: utf-8
 """
 Usage:
-ner.py [--uri=<uri>]
+ner.py [--uri=<uri> -v -vv]
 
 --uri=<uri> Only process this serie, defaults to process all
+-v          Sets the verbosity level: more Vs, more verbose. Defaults to quiet.
 """
 
 from pathlib import Path
@@ -14,21 +15,23 @@ from pyannote.database import get_protocol
 import pyannote.database
 import Plumcot as PC
 
+import spacy
+spacy.prefer_gpu()
 from spacy.gold import align
 try:
-    import en_core_web_lg
-except ImportError:
-    msg = 'ImportError: Seems like you did not install spaCy model "en_core_web_lg".\n' \
+    model = spacy.load('en_core_web_lg')
+except Exception:
+    msg = 'Exception: Seems like you did not install spaCy model "en_core_web_lg".\n' \
           'Try running "python -m spacy download en_core_web_lg"'
     sys.exit(msg)
 
 args = docopt(__doc__)
 uri = args['--uri']
+verbosity = args['-v']
 DATA_PATH = Path(PC.__file__).parent / 'data'
 PERSON = 'PERSON'
-model = en_core_web_lg.load()
 with open(DATA_PATH / "series.txt") as file:
-    series = file.readlines()
+    series = sorted(file.readlines())
 
 
 def return_metrics(tp, tn, fp, fn):
@@ -44,6 +47,8 @@ def return_metrics(tp, tn, fp, fn):
     f_score = (2 * precision * recall) / (precision + recall)
     return accuracy, recall, specificity, precision, npv, f_score
 
+if verbosity > 0:
+    print('uri & F-score & Precision & Recall \\\\')
 
 for serie_ in series:
     serie = serie_[:serie_.find(',')]
@@ -61,11 +66,11 @@ for serie_ in series:
 
     TP, TN, FP, FN = 0, 0, 0, 0
     with open(experiment / "confusion.csv", "a") as file:
-        file.write("TP,TN,FP,FN\n")
-    print(f"Processing {protocol_name}'s test set.")
+        file.write("uri,TP,TN,FP,FN\n")
+    if verbosity > 1:
+        print(f"Processing {protocol_name}'s test set.")
     short = ''.join([letter for letter in serie if
                      letter.isupper() or not letter.isalpha()])
-    print('uri & F-score & Precision & Recall \\\\')
     for current_file in protocol.test():
         entity = current_file['entity']
         file_uri = current_file['uri']
@@ -97,15 +102,17 @@ for serie_ in series:
                     fp += 1
         # 4. save confusion matrix
         with open(experiment / "confusion.csv", "a") as file:
-            file.write(','.join(map(str, [tp, tn, fp, fn])) + '\n')
+            file.write(','.join(map(str, [file_uri, tp, tn, fp, fn])) + '\n')
         # 5. compute F-score, Precision and Recall
         _, recall, _, precision, _, f_score = return_metrics(tp, tn, fp, fn)
-        print(f'{file_uri} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
-        TP += TP
+        if verbosity > 1:
+            print(f'{file_uri} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
+        TP += tp
         TN += tn
         FP += fp
         FN += fn
     with open(experiment / "confusion.csv", "a") as file:
-        file.write(','.join(map(str, [TP, TN, FP, FN])) + '\n')
+        file.write(','.join(map(str, [serie, TP, TN, FP, FN])) + '\n')
     _, recall, _, precision, _, f_score = return_metrics(TP, TN, FP, FN)
-    print(f'{short} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
+    if verbosity > 0:
+        print(f'{short} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
