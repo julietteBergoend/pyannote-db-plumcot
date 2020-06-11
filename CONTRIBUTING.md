@@ -196,38 +196,63 @@ TheBigBangTheory.Season01.Episode01 leonard_hofstadter 13.37 13.37 , 0.100
 TheBigBangTheory.Season01.Episode01 leonard_hofstadter 14.03 14.25 what's 0.990
 ```
 
-### `entities.txt`
+### `merge_{idEpisode}.csv`
+You'll find these in the `annotated_transcripts/` folder of the serie, if available. 
+See [#15](https://github.com/PaulLerner/pyannote-db-plumcot/issues/15) for a brief description of temporary formats 
+(located in `conll_semi-auto-annotation/`, `csv_doccano/`, `csv_semi-auto-annotation/`).
 
-This file contains named entities annotation of `alignment.stm`.
+See also issues [#13](https://github.com/PaulLerner/pyannote-db-plumcot/issues/13) for thoughts about a better annotation 
+and [#15](https://github.com/PaulLerner/pyannote-db-plumcot/issues/15) for thoughts about a better [entities.py](./scripts/entities.py) script.
 
-The proposed file format is the following:
+This only describes the current format and annotation process.
 
-```
-word_id file_id channel_id speaker_id start_time end_time <> word named_entity_type normalized_name coreference_id
-```
+#### .csv Format
+The file is a semi-colon (`;`)-separated csv with a lot of useless fields. POS, tag, dep, lemma and entity type have been set automatically.
 
-```
-1 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> How     <>     <>                  <>
-2 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> are     <>     <>                  <>
-3 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> you     <>     <>                  5/6
-4 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> ,       <>     <>                  <>
-5 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> Leonard PERSON leonard_hofstadter  <>
-6 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> Hofstadter PERSON leonard_hofstadter  <>
-7 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> ?       <>     <>                  <>
-```
+The ground truth fields are "token", "speaker" and "labelDoccano". I recommand using `Plumcot.loader.CsvLoader` to load the file in a `spaCy Doc`
+.
 
-```
-1 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> How     <>     <>                  <>
-2 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> are     <>     <>                  <>
-3 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> you     <>     <>                  5/7
-4 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> ,       <>     <>                  <>
-5 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> Sheldon PERSON sheldon_cooper  <>
-6 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> and <> <>  <>
-7 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> Leonard PERSON leonard_hofstadter  <>
-8 TheBigBangTheory.Season01.Episode01 1 sheldon_cooper start_time end_time <> ?       <>     <>                  <>
-```
+#### linguistic rules for semi-automatic annotation
 
-Note: Leo has a script to do that, though the (automatic) output will need a manual correction pass.
+- "you", "ya", "your", "yourself", "yours" processing:
+    - If the name of the speaker in the previous sentence = the name of the speaker in the next sentence &rarr; name of the speaker in the next sentence
+    - If "you/your/etc." followed by a character name &rarr; that character's standard name
+    - If "you/your/etc." is in a query sentence and preceded or followed by "do" or "did" &rarr; standardized name of the speaker of the next sentence,
+    - If "you" is followed by "guys" &rarr; "multiple_persons" (see below)
+    - Otherwise &rarr; name of the speaker of sentence -1
+    - If the name of the speaker of the current sentence is the same as that of previous sentence &rarr; name of the speaker of the next sentence
+    - If the name of the speaker of the current sentence is the same as the name of the speaker of the next sentence &rarr; name of the speaker of the next-next sentence.
+- "i", "my", "me", "myself", "mine" processing &rarr; name of the speaker of the current sentence.
+- "she", "her", "herself" processing &rarr; "UNKNOWN"
+- "he", "his", "him", "himself" processing &rarr; "UNKNOWN"
+- parents processing:
+    Two lists are established: masculine_parents / feminine_parents containing the standardized names of the parents,
+    - If the word is in the list ["mommy", "mom", "daddy", "dad", "papa", "mother", "father"], and if the word is preceded by "my", then we look at the surname of the current speaker and that of the father/mother in the masculine_parents and feminine_parents lists, if it matches &rarr; normalized name of the detected father or mother
+    - If you don't know the parents and you have "my dad" annotated with the name of the current speaker + "'s_father", e.g "sheldon_cooper's_father"
+    - Otherwise if you have "your dad" &rarr; "PARENTS".
+- "we", "us", "our" processing &rarr; "multiple_persons".
+
+#### manual annotation (i.e. correction) instructions
+See also [#15](https://github.com/PaulLerner/pyannote-db-plumcot/issues/15) for technical instructions
+
+**We only annotate person named-entites, others (e.g. organizations) are not annotated.**
+
+In Doccano, if you come across entities composed of multiple units, you will need to annotate 
+entity by entity so that the character identifiers match the tokenization of the .csv files "semi-auto-annot". 
+E.g. "Buffy Summers" &rarr;
+- "Buffy" &rarr; "buffy_summers"
+- "Summers" &rarr; "buffy_summers"
+
+Special entites: "UNKNOWN" and "multiple_persons":
+- Names of persons which are not present in the IMDb credits of the serie are annotated as "UNKNOWN" 
+- Mentions refering to multiple persons (e.g. "you guys") are annotated as "multiple_persons".
+
+We do not annotate the following pronouns: 
+- "them" 
+- "they" 
+- "You" from "thank you" (unless the turn of phrase means that it needs to be annotated, for example, "I thank you"), 
+- "you" from "you're welcome." 
+- In GameOfThrones, we can have this form: "the Lannisters", "the Starks", to name the houses. These cases are not annotated.
 
 ## images
 
