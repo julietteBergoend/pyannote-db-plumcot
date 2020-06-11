@@ -1,33 +1,36 @@
 # PLUMCOT 0
 
-> TODO update with entity linking stuff
-
 ![wav-got](./wav-got.png)
 ![annotation-got](./annotation-got.png)
 ![grid-got](./grid-got.png)
 
-The PLUMCOT corpus provides annotation for face recognition, speech activity detection, speaker diarization and speaker identification of 16 TV (or movie) series :
+The PLUMCOT corpus provides annotation for face recognition, transcription (available for all episodes), person named-entities, speech activity (duration<sub>a</sub>, available for all episodes), and speaker identities (duration<sub>i</sub>) of 16 TV (or movie) series :
 
-| title                    | episodes | duration | episodes | sentences | episodes | duration | episodes | duration |
-|--------------------------|----------|----------|----------|-----------|----------|----------|----------|----------|
-| 24                       | 195      | 142:45   | \-       | \-        | 195      | 36:17    | \-       | \-       |
-| Battlestar Galactica     | 71       | 52:16    | \-       | \-        | 71       | 10:53    | 61       | 08:49    |
-| Breaking Bad             | 61       | 47:15    | \-       | \-        | 61       | 17:06    | 61       | 17:06    |
-| Buffy The Vampire Slayer | 143      | 101:18   | 12       | 5109      | 143      | 25:55    | 143      | 25:55    |
-| ER                       | 283      | 235:29   | \-       | \-        | 283      | 63:06    | \-       | \-       |
-| Friends                  | 233      | 84:56    | \-       | \-        | 233      | 28:04    | 233      | 28:04    |
-| Game Of Thrones          | 60       | 53:09    | 10       | 3400      | 60       | 19:13    | 60       | 19:13    |
-| Harry Potter             | 8        | 18:51    | 1        | 845       | 8        | 02:44    | 4        | 01:28    |
-| Homeland                 | 70       | 59:27    | \-       | \-        | 70       | 12:24    | \-       | \-       |
-| Lost                     | 66       | 74:36    | 7        | 2104      | 66       | 07:12    | 66       | 07:12    |
-| Six Feet Under           | 63       | 56:43    | \-       | \-        | 63       | 15:11    | \-       | \-       |
-| Star Wars                | 7        | 15:05    | 1        | 1185      | 7        | 02:13    | 7        | 02:13    |
-| The Big Bang Theory      | 207      | 68:41    | 17       | 4159      | 207      | 25:23    | 207      | 25:23    |
-| The Lord Of The Rings    | 3        | 08:56    | \-       | \-        | 3        | 00:47    | 3        | 00:47    |
-| The Office               | 188      | 71:45    | 6        | 1495      | 188      | 30:15    | 188      | 30:15    |
-| The Walking Dead         | 89       | 72:09    | 19       | 5363      | 89       | 08:32    | 25       | 02:46    |
-| *TOTAL*                  | 1747     | 1163:29  | \-       | \-        | 1747     | 305:25   | 1058     | 169:19   |
+| Serie   |  | |  | Transcription | Entities | | Speech | | |
+|------------------------------------------------------|-------|-------|-----------|-------|---------------|-------|-------|-------------------|--------------|
+| *title*                                               | *short* | *episodes* | *duration* | *tokens*    | *episodes* | *tokens*  | *episodes* | *duration<sub>a</sub>* | *duration<sub>i</sub>* |
+| 24                                                   | \-    | 195      | 136:24   | 868,782   | \-       | \-      | \-       | 36:17             | \-                |
+| Battlestar Galactica                                 | BG    | 71       | 52:16    | 264,066   | \-       | \-      | 61       | 10:53             | 08:49             |
+| Breaking Bad                                         | BB    | 61       | 46:29    | 205,952   | \-       | \-      | 61       | 17:06             | 17:06             |
+| Buffy the Vampire Slayer                             | Buffy | 143      | 101:18   | 587,165   | 12       | 73,301  | 143      | 25:55             | 25:55             |
+| ER                                                   | \-    | 283      | 201:02   | 1,747,563 | \-       | \-      | \-       | 63:06             | \-                |
+| Friends                                              | \-    | 233      | 84:56    | 618,237   | \-       | \-      | 233      | 28:04             | 28:04             |
+| Game of Thrones                                      | GoT   | 60       | 53:09    | 278,917   | 10       | 53,035  | 60       | 19:13             | 19:13             |
+| Harry Potter                                         | HP    | 8        | 18:51    | 63,677    | 1        | 12,250  | 4        | 02:44             | 01:28             |
+| Homeland                                             | \-    | 70       | 57:49    | 333,405   | \-       | \-      | \-       | 12:24             | \-                |
+| Lost                                                 | \-    | 66       | 46:48    | 367,546   | 7        | 66      | 07:12    | 07:12             |
+| Six Feet Under                                       | SFU   | 63       | 56:43    | 326,542   | \-       | \-      | \-       | 15:11             | \-                |
+| Star Wars                                            | SW    | 7        | 15:05    | 75,903    | 1        | 18,123  | 7        | 02:13             | 02:13             |
+| The Big Bang Theory                                  | TBBT  | 207      | 68:41    | 547,193   | 17       | 61,285  | 207      | 25:23             | 25:23             |
+| The Lord of the Rings                                | TLOR  | 3        | 08:56    | 29,162    | \-       | \-      | 3        | 00:47             | 00:47             |
+| The Office                                           | TO    | 188      | 71:45    | 575,500   | 6        | 24,692  | 188      | 30:15             | 30:15             |
+| The Walking Dead                                     | TWD   | 89       | 65:00    | 321,334   | 19       | 93,599  | 25       | 08:32             | 02:46             |
+| *TOTAL*                                   | \-    | 1,747    | 1085:20  | 7,210,944 | 73       | 336,285 | 1,058    | 305:25            | 169:19            |
 
+
+Transcriptions were scraped from various fan-websites, see [LICENSE](#LICENSE).
+
+Person named-entities annotation were annotated semi-automatically from the transcripts, see [CONTRIBUTING](./CONTRIBUTING.md).
 
 Speaker annotations come from forced-alignment on series transcripts except for Breaking Bad and Game Of Thrones which were manually annotated by Bost et al.
 
@@ -147,6 +150,17 @@ Transcripts, diarization and entities annotation can be found as text file in `P
 
 The face recognition dataset is provided from an external link : **[TODO](TODO)**. Alternatively, you can scrap the images yourself using [`scripts/images_scraping.py`](./scripts/image_scraping.py) (see [`CONTRIBUTING.md`](CONTRIBUTING.md)).
 
+### Entities
+
+Some issues were not anticipated before annotation of entities, resulting in those hacks (implemented in `Plumcot.loader` so beware if you use the raw data), see also [#13](https://github.com/PaulLerner/pyannote-db-plumcot/issues/13).
+
+- Since we only annotated person-named entities, the entity type (which was originally set automatically) is always set to "PERSON" when entity label is not empty and to "" otherwise.
+- Entities annotation is tokenized, unlike forced-alignment. It's not straightforward to align both annotations. 
+If both are provided (i.e. in `0` protocols), we follow the tokenization of forced-alignment (i.e. split on whitespaces), therefore some linguistic attributes (e.g. POS) may be lost in the process.
+If you're not interested in the audio/timing content of the annotation, you can use the `EL` protocols (e.g. 'HarryPotter.SpeakerDiarization.EL') which follow the tokenization of the entity.
+These were used to obtain the NER results reported in the paper (see also the script [ner.py](./scripts/ner.py)).
+
+    
 ### DVDs
 
 Episode numbering relies on [IMDb](https://www.imdb.com/).
@@ -185,6 +199,8 @@ Moreover, some secondary characters (most don't have proper names) are played by
 
 > IMDb credits were updated [on 17/03/2020 in 123e37cb](https://github.com/PaulLerner/pyannote-db-plumcot/commit/123e37cb8b64bb6a9bdd89ed665a2769d992569f), therefore some annotated labels are inconsistent with these new IMDb credits and should be updated (TODO).
 
+
+    
 ## LICENSE
 
 ### Source code
