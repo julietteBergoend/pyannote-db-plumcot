@@ -43,12 +43,12 @@ setup(
     scripts=[
         "scripts/characters.py",
         "scripts/episodes.py",
-        "scripts/image_features.py",
-        "scripts/image_scraping.py",
         "scripts/images.py",
         "scripts/multimodal.py",
+        "scripts/cleanTranscripts.py",
         "scripts/normalizeTranscriptsNames.py",
-        "scripts/transcripts.py"
+        "scripts/transcripts.py",
+        "scripts/ner.py",
     ],
     package_data={
         'Plumcot': [
