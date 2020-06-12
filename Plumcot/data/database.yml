@@ -338,17 +338,6 @@ Protocols:
 
   TheWalkingDead:
       SpeakerDiarization:
-        EL:
-          development:
-            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
-            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uri: TheWalkingDead/dev_list.lst
-            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
-          test:
-            annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
-            annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
-            uri: TheWalkingDead/test_list.lst
-            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
         0:
           train:
             transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
@@ -359,13 +348,11 @@ Protocols:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
             uri: TheWalkingDead/dev_list.lst
-            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
             transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
           test:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
             uri: TheWalkingDead/test_list.lst
-            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
             transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
         SAD:
           train:
@@ -382,7 +369,6 @@ Protocols:
             annotation: TheWalkingDead/forced-alignment/TheWalkingDead_0.15collar.rttm
             annotated: TheWalkingDead/forced-alignment/TheWalkingDead_0.5confidence.SAD.uem
             uri: TheWalkingDead/test_list.lst
-            entity: _TheWalkingDead/annotated_transcripts/merge_{uri}.csv
             transcription: _TheWalkingDead/forced-alignment/{uri}.aligned
   ER:
       SpeakerDiarization:
