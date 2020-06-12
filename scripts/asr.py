@@ -1,10 +1,12 @@
 # coding: utf-8
 """
 Usage:
-asr.py run <protocol> [--subset=<subset>]
+asr.py run <protocol> <model> <scorer> [--subset=<subset>]
 asr.py evaluate <protocol> [--subset=<subset>]
 
 <protocol>        pyannote Protocol, e.g. 'GameOfThrones.SpeakerDiarization.0'
+<model>           path to deepspeech model, e.g. /path/to/deepspeech-0.7.3-models.pbmm
+<scorer>          path to deepspeech score, e.g. /path/to/deepspeech-0.7.3-models.scorer
 --subset=<subset> Serie subset [default: 'test'].
 """
 
@@ -21,18 +23,12 @@ import numpy as np
 import wave
 from deepspeech import Model
 
-PLUMCOT_PATH = Path(PC.__file__).parent
-DATA_PATH = PLUMCOT_PATH / 'data'
-RESOURCE_PATH = PLUMCOT_PATH / 'resources'
-model_path = RESOURCE_PATH / 'deepspeech-0.7.3-models.pbmm'
-scorer_path = RESOURCE_PATH / 'deepspeech-0.7.3-models.scorer'
+DATA_PATH = Path(PC.__file__).parent / 'data'
 
 # same as string.punctuation without "'"
 PUNCTUATION = '!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~'
 
-def run(subset, output_path):
-    model = Model(model_path)
-    model.enableExternalScorer(scorer_path)
+def run(subset, output_path, model):
     for current_file in subset:
         fin = wave.open(current_file['audio'], 'rb')
         audio = np.frombuffer(fin.readframes(fin.getnframes()), np.int16)
@@ -104,6 +100,9 @@ if __name__ == '__main__':
 
     subset = tqdm(getattr(protocol, subset_name))
     if args['run']:
+        model_path = args['<model>']
+        model = Model(model_path)
+        model.enableExternalScorer(args['<scorer>'])
         print(f"Running {model_path} on {subset} subset of {protocol_name} protocol.")
         run(subset, output_path)
     if args['evaluate']:
