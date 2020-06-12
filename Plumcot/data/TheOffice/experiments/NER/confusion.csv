@@ -1,0 +1,8 @@
+uri,TP,TN,FP,FN
+TheOffice.Season01.Episode01,81,0,9,9
+TheOffice.Season01.Episode02,46,0,43,5
+TheOffice.Season01.Episode03,78,0,6,8
+TheOffice.Season01.Episode04,72,0,16,15
+TheOffice.Season01.Episode05,88,0,9,7
+TheOffice.Season01.Episode06,66,0,11,7
+TheOffice,431,0,94,51
