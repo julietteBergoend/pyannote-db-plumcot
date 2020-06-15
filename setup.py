@@ -57,7 +57,8 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'spacy >= 2.2.4',
+        'deepspeech-gpu == 0.7.3',
+        'spacy == 2.2.4',
         'pyannote.database >= 4.0',
         'affinegap',
         'termcolor',
