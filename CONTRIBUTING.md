@@ -342,3 +342,45 @@ maps speaker diarization output (i.e. speech clusters) and face identification t
 ## scene / narrative stuff
 
 Aman will come up with a file format and data.
+
+# Experiments
+
+## ASR
+
+```
+asr.py run <protocol> <model> <scorer> [--subset=<subset>]
+asr.py evaluate <protocol> [--subset=<subset>]
+```
+
+This relies on `deepspeech-gpu 0.7.3`:
+
+```
+wget https://github.com/mozilla/DeepSpeech/releases/download/v0.7.3/deepspeech-0.7.3-models.pbmm 
+wget https://github.com/mozilla/DeepSpeech/releases/download/v0.7.3/deepspeech-0.7.3-models.scorer
+
+# this will write output to Plumcot/data/HarryPotter/experiments/ASR/HarryPotter.Episode01.txt
+asr.py run HarryPotter.SpeakerDiarization.0 deepspeech-0.7.3-models.pbmm deepspeech-0.7.3-models.scorer
+
+# this will evaluate the output according to HarryPotter.Episode01 "transcription" (after some post-processing)
+# and should print WER and CER in a LaTeX formatted-table 
+asr.py evaluate HarryPotter.SpeakerDiarization.0
+```
+
+## NER
+```
+ner.py [--uri=<uri> -v -vv]
+```
+
+This relies on `spacy 2.2.4`:
+
+```
+python -m spacy download en_core_web_lg
+
+# This will run model over HarryPotter's test set and evaluate it according to the "entity" key
+# it will save confusion table to Plumcot/data/HarryPotter/experiments/NER/confusion.csv
+# and print out F-score, precision and recall in a LaTeX formatted-table
+ner.py --uri=HarryPotter -v
+```
+## Speaker Diarization and Identification
+
+TODO: add model weights to [pyannote.audio hub](https://github.com/pyannote/pyannote-audio-hub) ?
