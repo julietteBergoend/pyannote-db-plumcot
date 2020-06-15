@@ -1,6 +1,6 @@
 # How to contribute
 
-1. Clone the repository.
+1. Fork the repository.
 2. Make changes.
 3. Open a pull request.
 
@@ -10,6 +10,34 @@ Make sure to follow conventions and file formats described in this document.
 
 Open an issue if something is not clear -- we will decide on a solution and update this document accordingly.
 
+
+- [series.txt](#seriestxt)
+  * [One sub-directory per series / movies](#one-sub-directory-per-series---movies)
+- [Scripts](#scripts)
+- [Data](#data)
+  * [text](#text)
+    + [`characters.txt`](#-characterstxt-)
+    + [`episodes.txt`](#-episodestxt-)
+    + [`credits.txt`](#-creditstxt-)
+    + [`transcripts/ folder`](#-transcripts--folder-)
+      - [`{idEpisode}.temp`](#--idepisode-temp-)
+      - [`{idEpisode}.txt`](#--idepisode-txt-)
+    + [`forced-alignment/ folder`](#-forced-alignment--folder-)
+      - [`<file_uri>.aligned`](#--file-uri-aligned-)
+    + [`merge_{idEpisode}.csv`](#-merge--idepisode-csv-)
+      - [.csv Format](#csv-format)
+      - [linguistic rules for semi-automatic annotation](#linguistic-rules-for-semi-automatic-annotation)
+      - [manual annotation (i.e. correction) instructions](#manual-annotation--ie-correction--instructions)
+  * [images](#images)
+  * [multimodal](#multimodal)
+    + [fuse](#fuse)
+    + [map (i.e. identify)](#map--ie-identify-)
+  * [scene / narrative stuff](#scene---narrative-stuff)
+- [Experiments](#experiments)
+  * [ASR](#asr)
+  * [NER](#ner)
+  * [Speaker Diarization and Identification](#speaker-diarization-and-identification)
+  
 # series.txt
 
 `series.txt` contains one line per TV (or movie) series.
@@ -31,10 +59,10 @@ All the scripts need to put on the `scripts` folder into the corresponding serie
 ```
 characters.py
 credits.py
-alignment.py
-(entities.py)
-TheBigBangTheory/
+entities.py
+TheLordOfTheRings/
   transcripts.py
+...
 ```
 
 # Data
