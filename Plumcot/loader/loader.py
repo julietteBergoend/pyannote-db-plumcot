@@ -6,11 +6,14 @@ from spacy.gold import align
 from spacy.vocab import Vocab
 from spacy.tokens import Doc, Token
 
-# add custom attributes to Token
-Token.set_extension("speaker", default='unavailable')
-Token.set_extension("time_start", default=None)
-Token.set_extension("time_end", default=None)
-Token.set_extension("alignment_confidence", default=0.0)
+# add custom attributes to Token if they have not already been registered
+# (e.g. in pyannote.database.loader)
+for attribute, default in [("speaker", "unavailable"),
+                           ("time_start", None),
+                           ("time_end", None),
+                           ("confidence", None)]:
+    if not Token.has_extension(attribute):
+        Token.set_extension(attribute, default=default)
 
 class BaseLoader:
     """Base class for pyannote.db.plumcot loaders"""
@@ -44,8 +47,8 @@ class AlignedLoader(BaseLoader):
             attributes.append((speaker, start, end, confidence))
 
         current_transcription = Doc(Vocab(), tokens)
-        for token, (speaker, time_start, time_end, alignment_confidence) in zip(current_transcription, attributes):
-            token._.speaker, token._.time_start, token._.time_end, token._.alignment_confidence = speaker, time_start, time_end, alignment_confidence
+        for token, (speaker, time_start, time_end, confidence) in zip(current_transcription, attributes):
+            token._.speaker, token._.time_start, token._.time_end, token._.confidence = speaker, time_start, time_end, confidence
 
         return current_transcription
 
