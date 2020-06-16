@@ -241,8 +241,8 @@ class Plumcot(Database):
                   encoding="utf8") as ep_file:
             ep_file.write(file_text)
 
-    def __init__(self, preprocessors={}, **kwargs):
-        super().__init__(preprocessors=preprocessors, **kwargs)
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
 
         # load list of series
         path = Path(__file__).parent / 'data/series.txt'
