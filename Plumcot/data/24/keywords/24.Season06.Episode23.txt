@@ -1,0 +1,23 @@
+nephew	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+u.s. vice president	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+telephone call	Non
+computer screen	Non
+blurry vision	Non
+oval office	Non
+violence	Non
+gunfire	Non
+explosion	Non
+helicopter	Non
+beach	Non
+russian president	Non
+acting president	Non
+split screen	Non
+wet jeans	Non

@@ -1,0 +1,417 @@
+rebellion	1.0
+galactic war	1.0
+space opera	1.0
+princess	1.0
+droid	1.0
+death star	1.0
+lightsaber	1.0
+sword duel	1.0
+good versus evil	1.0
+jedi	1.0
+duel	1.0
+science fantasy	0.9
+spaceship	1.0
+empire	0.8888888888888888
+space station	1.0
+smuggler	1.0
+elevator	1.0
+weapon of mass destruction	1.0
+super weapon	1.0
+sunset	1.0
+starship battle	1.0
+mind control	1.0
+millennium falcon	0.8571428571428571
+obi wan kenobi character	1.0
+darth vader character	1.0
+r2 d2 character	1.0
+chewbacca character	1.0
+shared universe	1.0
+opening crawl	1.0
+1970s	1.0
+desert planet	1.0
+starfighter	1.0
+interrogation	1.0
+helmet	1.0
+jedi mind trick	1.0
+stormtrooper	1.0
+lightsaber battle	1.0
+the force	1.0
+aerial combat	1.0
+space war	1.0
+hero	1.0
+evil empire	1.0
+burnt body	1.0
+outer space	1.0
+wilhelm scream	1.0
+part of trilogy	1.0
+robot	1.0
+famous score	1.0
+fictional planet	0.8333333333333334
+prison escape	0.8333333333333334
+rescue	0.8
+desert	0.8
+exploding planet	0.8
+hologram	0.8
+orchestral music score	0.7142857142857143
+weapon	1.0
+automatic doors	1.0
+princess leia organa character	1.0
+han solo character	1.0
+c 3po character	1.0
+luke skywalker character	1.0
+weapons fire	1.0
+film starts with text	1.0
+wrist restraints	1.0
+communications device	1.0
+jabba the hutt character	1.0
+yavin the planet	1.0
+alderaan the planet	1.0
+controversy	1.0
+wedge antilles character	1.0
+emperor	1.0
+planet tatooine	1.0
+prisoner	1.0
+wookiee	1.0
+battle	1.0
+combat	1.0
+alien	1.0
+epic	1.0
+anger	1.0
+shoot first	1.0
+wmd	1.0
+lightsaber duel	1.0
+interspecies relationship	1.0
+droid human relationship	1.0
+tusken raider	1.0
+x wing	1.0
+jedi master	1.0
+x wing starfighter	1.0
+impersonating an imperial stormtrooper	1.0
+imperial stormtrooper	1.0
+galactic empire	1.0
+jedi training	1.0
+landspeeder	1.0
+imperial star destroyer	1.0
+y wing starfighter	1.0
+kiss	1.0
+alien creature	1.0
+tie fighter	1.0
+talking robot	1.0
+computer system	1.0
+world destruction	1.0
+cloak	1.0
+hovercar	1.0
+binoculars	1.0
+family dinner	1.0
+skeleton	1.0
+holographic projection	1.0
+farmboy	1.0
+telekinesis	1.0
+long time ago	1.0
+hand to hand combat	1.0
+escape	1.0
+martial arts	1.0
+tough girl	1.0
+action hero	1.0
+extraterrestrial	1.0
+neck breaking	1.0
+destruction of planet	1.0
+fictional war	1.0
+shrinking room	1.0
+alien race	1.0
+anti hero	1.0
+spaceport	1.0
+computer	1.0
+strangulation	1.0
+monster	1.0
+loss of family	1.0
+jet fighter	1.0
+escape pod	1.0
+warrior culture	1.0
+courage	1.0
+female fighter	1.0
+space battle	1.0
+self sacrifice	1.0
+disguise	1.0
+reluctant hero	1.0
+prison	1.0
+space travel	1.0
+stop motion animation	1.0
+underdog	1.0
+saga	1.0
+sword fight	1.0
+death of friend	1.0
+trash compactor	0.625
+galaxy	0.75
+planet	0.75
+farm	0.75
+farmer	0.75
+hermit	0.75
+jail cell	0.75
+symphonic music score	0.75
+two word title	0.75
+bar	0.75
+space western	0.75
+uncle nephew relationship	0.75
+medal	0.75
+canyon	0.75
+famous opening theme	0.6666666666666666
+cantina	0.5714285714285714
+leitmotif	0.6
+aunt nephew relationship	0.6
+severed arm	0.6
+band	0.6
+cult classic	0.6666666666666666
+character says i have a bad feeling about this	0.6666666666666666
+marksman h combat remote	0.6666666666666666
+sword and sorcery	0.6666666666666666
+chase	0.6666666666666666
+husband wife relationship	0.6666666666666666
+family relationships	0.6666666666666666
+scanimate	0.6666666666666666
+ancient astronaut	0.6666666666666666
+walls close in	0.6666666666666666
+incestuous kiss	0.6666666666666666
+reward	0.6666666666666666
+governor	0.6666666666666666
+general	0.6666666666666666
+bar fight	0.6666666666666666
+male alien	1.0
+fraternal twins	1.0
+boba fett character	1.0
+stormtrooper character	1.0
+super villain	1.0
+handheld weapon	1.0
+talking droid	1.0
+cult favorite	1.0
+grand moff tarkin character	1.0
+psychotronic film	1.0
+character's point of view camera shot	1.0
+rebel	1.0
+attack	1.0
+soldier	1.0
+sword	1.0
+spacecraft	1.0
+twin	1.0
+sibling kiss	1.0
+brother sister relationship	1.0
+planet killer	1.0
+space bounty hunter	1.0
+robot human relationship	1.0
+princess warrior	1.0
+princess heroine	1.0
+human android relationship	1.0
+endangered princess	1.0
+human being	1.0
+loss of left arm	1.0
+loss of right arm	1.0
+loss of arm	1.0
+medal ceremony	1.0
+planet viewed from outer space	1.0
+human	1.0
+exploding starfighter	1.0
+blaster pistol	1.0
+rebel base	1.0
+comlink	1.0
+violence	1.0
+fight	1.0
+spacecraft cockpit	1.0
+human in outer space	1.0
+deep voice	1.0
+targeting screen	1.0
+humanoid robot	1.0
+astromech droid	1.0
+laser turret	1.0
+distraction	1.0
+gun fight	1.0
+character says may the force be with you	1.0
+sword and planet	1.0
+force choke	1.0
+exploding ship	1.0
+gunslinger	1.0
+shot with a laser gun	1.0
+victory	1.0
+swordsman	1.0
+foot chase	1.0
+hitman	1.0
+disarming someone	1.0
+laser gun	1.0
+tough guy	1.0
+slow motion scene	1.0
+hypnosis	1.0
+lifted by the throat	1.0
+death ray	1.0
+sabotage	1.0
+mask	1.0
+cult film	0.5
+cult figure	0.5
+no opening credits	0.5
+blockbuster	0.5
+twin suns	0.42857142857142855
+knight	0.5
+friends who live together	0.5
+mass murder	0.5
+troubled production	0.5
+single shot	0.5
+wuxia fiction	0.5
+invented language	0.5
+spirit	0.5
+hangar	0.5
+number in character's name	0.4
+famous line	0.4
+reference to anakin skywalker	0.5
+reference to jabba the hutt	0.5
+multiple versions	0.5
+reference to the clone wars	0.5
+corvette starship	0.5
+laser weapon	0.5
+holographic message	0.5
+tractor beam	0.5
+design flaw	0.5
+alternate version	0.5
+translator	0.5
+fourth part	0.5
+sequel	0.5
+hyperspace	0.5
+warp speed	0.5
+scavenger	0.5
+assault	0.5
+bounty hunter	0.5
+lifting a male into the air	0.3333333333333333
+lifting someone into the air	0.3333333333333333
+lifting an adult into the air	0.3333333333333333
+pleading	0.3333333333333333
+numbered sequel	0.3333333333333333
+abyss	0.3333333333333333
+leather gloves	Non
+gold robot	Non
+good vs evil	Non
+hostage	Non
+mysterious villain	Non
+male protagonist	Non
+gun under a table	Non
+gunfighter	Non
+disability	Non
+good man	Non
+good woman	Non
+heroine	Non
+older hero	Non
+vehicle	Non
+bipedal robot	Non
+suicide	Non
+spaghetti western	Non
+gun	Non
+laser	Non
+flying ship	Non
+white beard	Non
+beard	Non
+ship	Non
+crashed pod	Non
+crash site	Non
+moisture farmer	Non
+sand	Non
+smoke	Non
+black cape	Non
+black armor	Non
+black helmet	Non
+captain	Non
+mission	Non
+passenger	Non
+vapor farmer	Non
+message	Non
+pod	Non
+cleaning	Non
+pilot	Non
+space pilot	Non
+space	Non
+dinner	Non
+aunt	Non
+uncle	Non
+creature	Non
+beast	Non
+stealing	Non
+theft	Non
+sand dune	Non
+mysterious	Non
+hooded figure	Non
+home	Non
+plea	Non
+rocky canyon	Non
+jawa	Non
+sandcrawler	Non
+bipedal droid	Non
+starfighter cockpit	Non
+bad guy bar	Non
+disney	Non
+disney star wars	Non
+directed by george lucas	Non
+written by george lucas	Non
+lucasfilm	Non
+produced by george lucas	Non
+music by john williams	Non
+action girl	Non
+national film registry	Non
+special edition	Non
+starship interior	Non
+colon in title	Non
+hyphen in title	Non
+roman numeral in title	Non
+mouse droid	Non
+stun blast	Non
+blockade runner	Non
+tie advanced x1 starfighter	Non
+impersonating an enemy soldier	Non
+repulsorcraft	Non
+imperial starship	Non
+interrogation droid	Non
+grand moff	Non
+imperial governor	Non
+human male	Non
+human female	Non
+male female relationship	Non
+starship fleet	Non
+cruiser starship	Non
+starship pilot	Non
+aqualish	Non
+blaster rifle	Non
+detention cell	Non
+ithorian	Non
+devaronian	Non
+rodian	Non
+protocol droid	Non
+starfighter pilot	Non
+handheld communicator	Non
+starship bridge	Non
+tall alien	Non
+star destroyer	Non
+cruiser	Non
+rebel starship	Non
+blaster	Non
+preemptive strike	Non
+non human	Non
+laser cannon	Non
+gunfight	Non
+allegory of multiple historical events.	Non
+subjective camera	Non
+exhaust shaft	Non
+impersonation	Non
+honor	Non
+totalitarianism	Non
+sniper	Non
+shootout	Non
+nomad	Non
+poetic justice	Non
+android	Non
+animated chess	Non
+destiny	Non
+genocide	Non
+innocent deaths avenged	Non
+number in title	Non
+mixed martial arts	0.25
+future	0.25
+castle thunder	0.2
+insult	0.0
+ambush	0.0
+telepathy	0.0
+murder	0.0
+reverse footage	0.0

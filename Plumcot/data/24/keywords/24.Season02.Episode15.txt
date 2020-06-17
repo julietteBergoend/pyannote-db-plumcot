@@ -1,0 +1,55 @@
+nuclear bomb	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+explosion	Non
+jumping from an airplane	Non
+bailing out of an airplane	Non
+parachute	Non
+death of a co worker	Non
+bomb explosion	Non
+nuclear explosion	Non
+army general	Non
+four star general	Non
+reference to world war three	Non
+abraham lincoln quotation	Non
+reference to the american civil war	Non
+reference to abraham lincoln	Non
+air force one	Non
+hard drive	Non
+female tears	Non
+crying girl	Non
+gun tucked in pants	Non
+hitching a ride	Non
+father daughter relationship	Non
+teenager with a gun	Non
+revolver	Non
+shooting out a car window	Non
+timer	Non
+bomb timer counting down	Non
+mojave desert	Non
+airplane	Non
+cessna	Non
+airfield	Non
+ex husband ex wife relationship	Non
+radiation sickness	Non
+hours to live	Non
+dying man	Non
+special assistant to the president	Non
+chief of staff	Non
+operations center	Non
+blonde woman	Non
+blonde girl	Non
+teenage daughter	Non
+teenager	Non
+teenage girl	Non
+self sacrifice	Non
+contemplating death	Non
+widower	Non
+black u.s. president	Non

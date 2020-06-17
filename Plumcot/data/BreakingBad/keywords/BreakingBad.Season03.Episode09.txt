@@ -1,0 +1,71 @@
+hospital	Non
+circular staircase	Non
+speeding vehicle	Non
+paralysis	Non
+inspection	Non
+strategy	Non
+money laundering	Non
+salon	Non
+bouquet	Non
+greed	Non
+production line	Non
+fake commercial	Non
+lying	Non
+cover story	Non
+offer to help	Non
+money problems	Non
+hospital waiting room	Non
+listening to music on headphones	Non
+weighing scales	Non
+near miss	Non
+episode title spoken by character	Non
+repeated line	Non
+character repeating someone else's dialogue	Non
+cafeteria	Non
+reference to return of the jedi	Non
+reference to star wars	Non
+reference to darth vader	Non
+business proposition	Non
+respect	Non
+lawyer client relationship	Non
+corrupt lawyer	Non
+crooked lawyer	Non
+lawyer	Non
+ignoring advice	Non
+legal advice	Non
+nail salon	Non
+foot massage	Non
+foot massage spa	Non
+male bare feet	Non
+reference to al capone	Non
+medical costs	Non
+medical expenses	Non
+medical insurance	Non
+medical test	Non
+gift basket	Non
+gift of flowers	Non
+chrysanthemum	Non
+get well card	Non
+get well gift	Non
+butterfly stitch	Non
+black eye	Non
+reference to franz kafka	Non
+fried chicken	Non
+television commercial	Non
+concealed drugs	Non
+drug lord	Non
+drug laboratory	Non
+underground laboratory	Non
+laboratory	Non
+secret laboratory	Non
+industrial laundry	Non
+facial bruise	Non
+secret lab	Non
+meth lab	Non
+recovering drug addict	Non
+support group	Non
+group leader	Non
+business disagreement	Non
+pain	Non
+hospital room	Non
+ultraviolet light	Non

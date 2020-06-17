@@ -1,0 +1,66 @@
+virus	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+personal doctor	Non
+female doctor	Non
+interracial romance	Non
+walkie talkie	Non
+shot in the neck	Non
+ignoring telephone	Non
+helicopter	Non
+worrying about one's son	Non
+worried parents	Non
+tracing a telephone call	Non
+shopping mall	Non
+auditorium	Non
+asking for money	Non
+dumped by girlfriend	Non
+quarantine	Non
+hazmat	Non
+choked to death	Non
+attacked from behind	Non
+prison guard	Non
+chief of staff	Non
+brother brother relationship	Non
+two brothers	Non
+university of southern california	Non
+blonde woman	Non
+scuffle	Non
+parent child relationship	Non
+locking oneself inside a room	Non
+teen bedroom	Non
+father son relationship	Non
+19 year old	Non
+teenage son	Non
+teenage boy	Non
+teenager	Non
+intelligence mole	Non
+speaking spanish	Non
+mexico	Non
+mexican	Non
+recorded telephone call	Non
+disguised voice	Non
+distorted voice	Non
+father disapproves of boyfriend	Non
+boyfriend girlfriend relationship	Non
+sweating	Non
+heroin addict	Non
+heroin addiction	Non
+drug addiction	Non
+struggling with addiction	Non
+drug addict	Non
+heroin withdrawal	Non
+drug withdrawal	Non
+prison	Non
+prisoner	Non
+biothreat	Non
+national health service	Non
+sunglasses	Non
+black u.s. president	Non

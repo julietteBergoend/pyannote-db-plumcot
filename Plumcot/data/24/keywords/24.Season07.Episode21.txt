@@ -1,0 +1,40 @@
+frame up	Non
+the white house	Non
+attack	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+shooting	Non
+telephone call	Non
+telephone	Non
+handshake	Non
+subway	Non
+gun	Non
+held at gunpoint	Non
+inside job	Non
+explosion	Non
+imam	Non
+international bank account	Non
+glasses	Non
+rage	Non
+law	Non
+driving	Non
+assassination	Non
+witness protection	Non
+apb	Non
+countdown	Non
+recording	Non
+police	Non
+syringe	Non
+bio weapon	Non
+muslim	Non
+government	Non
+ctu	Non
+threat	Non
+field agent	Non
+fbi	Non

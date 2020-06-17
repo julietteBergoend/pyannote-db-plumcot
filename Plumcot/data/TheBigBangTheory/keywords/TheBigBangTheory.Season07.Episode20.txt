@@ -1,0 +1,37 @@
+string theory	1.0
+date	1.0
+double date	1.0
+dinner	1.0
+clogged toilet	1.0
+burnout	1.0
+voice mail	1.0
+drunk dial	1.0
+telephone call	1.0
+drunkenness	1.0
+restaurant	1.0
+reference to david beckham	1.0
+reference to the kardashians	1.0
+reference to cosmopolitan magazine	1.0
+geology	1.0
+textbook	1.0
+book	1.0
+reference to stephen hawking	1.0
+reference to bill gates	1.0
+reference to nikola tesla	1.0
+astrophysicist	Non
+theoretical physicist	Non
+hair styling	Non
+toasting with wine	Non
+knocking on a door	Non
+cafeteria	Non
+reference to joe six pack	Non
+calling someone honey	Non
+bare chested male	Non
+man wearing a bathrobe	Non
+calling someone a jackass	Non
+gravity wave	Non
+drunk dialing	Non
+geology book	Non
+red wine	Non
+reference to game of thrones	Non
+blowing nose	0.0

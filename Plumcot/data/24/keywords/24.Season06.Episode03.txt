@@ -1,0 +1,24 @@
+terrorist	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+black u.s. president	Non
+public phone	Non
+family held hostage	Non
+held at gunpoint	Non
+held hostage	Non
+pursuit	Non
+satellite surveillance	Non
+storage unit	Non
+explosion	Non
+counter terrorism	Non
+terrorism	Non
+oval office	Non
+grenade	Non
+hand grenade	Non
+government agent	Non
+split screen	Non

@@ -1,0 +1,34 @@
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+u.s. vice president	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+telephone call	Non
+threat	Non
+strangulation	Non
+anger	Non
+hit on the head with a bottle	Non
+bottle of wine	Non
+bottle smashed over someone's head	Non
+hit on the head	Non
+death	Non
+grandfather	Non
+deal	Non
+teleconference	Non
+president	Non
+russian president	Non
+spy camera	Non
+violence	Non
+gun	Non
+firefight	Non
+gunfire	Non
+running up stairs	Non
+rescue	Non
+helicopter	Non
+acting president	Non
+split screen	Non
+die hard scenario	Non

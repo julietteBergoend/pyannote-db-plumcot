@@ -1,0 +1,39 @@
+drone	Non
+chief of staff	Non
+meeting	Non
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+muslim	Non
+man in a coma	Non
+induced coma	Non
+acting president	Non
+arm sling	Non
+national security advisor	Non
+russian general	Non
+interrogation room	Non
+bomb	Non
+nuclear bomb	Non
+suitcase bomb	Non
+u.s. vice president	Non
+bunker	Non
+geiger counter	Non
+gun with silencer	Non
+violence	Non
+death	Non
+joystick	Non
+gunfire	Non
+laptop	Non
+shot to death	Non
+information leak	Non
+interrogation	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+hand grenade	Non
+split screen	Non

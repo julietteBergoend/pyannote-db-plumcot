@@ -1,0 +1,24 @@
+suicide bomber	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+threat	Non
+mother son relationship	Non
+hospital	Non
+hyperbaric chamber	Non
+countdown	Non
+hotel room	Non
+new york city	Non
+probation officer	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+video feed	Non
+split screen	Non
+explosion	Non
+explosive vest	Non

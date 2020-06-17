@@ -1,0 +1,49 @@
+thumbprint	Non
+quarantine	Non
+hotel	Non
+nosebleed	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+cigarette smoking	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+van	Non
+shot to death	Non
+forced to kill	Non
+death by gunshot	Non
+shot in the back of one's head	Non
+shot in the head	Non
+holding a gun to one's own head	Non
+death of a co worker	Non
+ends with death	Non
+worrying about one's wife	Non
+suicide pill	Non
+train yard	Non
+gun with silencer	Non
+helicopter	Non
+reference to the los angeles times	Non
+male male hug	Non
+dusting for fingerprints	Non
+belt	Non
+health services	Non
+hazmat	Non
+head of security	Non
+worried husband	Non
+husband wife relationship	Non
+band aid on neck	Non
+british in america	Non
+englishman abroad	Non
+englishman	Non
+british villain	Non
+chief of staff	Non
+money trail	Non
+brother brother relationship	Non
+two brothers	Non
+biothreat	Non
+virus	Non
+black u.s. president	Non

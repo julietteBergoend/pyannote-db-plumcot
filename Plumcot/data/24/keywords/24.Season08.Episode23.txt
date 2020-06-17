@@ -1,0 +1,26 @@
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+secretary general	Non
+video message	Non
+motorcade	Non
+blackmail	Non
+held at gunpoint	Non
+sniper rifle	Non
+hit on the head	Non
+parking garage	Non
+threat	Non
+united nations	Non
+new york city	Non
+press conference	Non
+russian president	Non
+female president	Non
+cover up	Non
+split screen	Non
+sleeper hold	Non
+whispering	Non

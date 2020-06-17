@@ -1,0 +1,64 @@
+bomb	Non
+bluff	Non
+suitcase bomb	Non
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+telephone call	Non
+running out of ammo	Non
+head butt	Non
+tunnel	Non
+apology	Non
+collapsing to floor	Non
+truck	Non
+underneath moving vehicle	Non
+translating	Non
+general	Non
+arabic	Non
+reference to world war three	Non
+armored truck	Non
+overturned car	Non
+shootout	Non
+chain death	Non
+muslim	Non
+gun held to head	Non
+husband wife relationship	Non
+death by hanging	Non
+punched in the face	Non
+neck breaking	Non
+chief of staff	Non
+national security advisor	Non
+bunker	Non
+u.s. vice president	Non
+attack	Non
+gunfire	Non
+undercover agent	Non
+set up	Non
+escape	Non
+presumed dead	Non
+interrogation	Non
+threat	Non
+admiral	Non
+office	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+hanging	Non
+nuclear bomb	Non
+dead body	Non
+hanged man	Non
+garbage truck	Non
+ambassador	Non
+dossier	Non
+hanged by the neck	Non
+shot to death	Non
+death	Non
+murder	Non
+violence	Non
+split screen	Non

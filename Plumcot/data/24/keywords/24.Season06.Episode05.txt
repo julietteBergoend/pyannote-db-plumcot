@@ -1,0 +1,23 @@
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+presidential speech	Non
+detention center	Non
+nephew	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+interrogation	Non
+oval office	Non
+bag over head	Non
+brother brother relationship	Non
+helicopter	Non
+fbi agent	Non
+government agent	Non
+split screen	Non

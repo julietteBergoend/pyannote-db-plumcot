@@ -1,0 +1,29 @@
+evidence	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+cover up	Non
+video evidence	Non
+ambush	Non
+russian agent	Non
+shoot out	Non
+nypd	Non
+sniper rifle	Non
+propane torch	Non
+sim card	Non
+set up	Non
+violence	Non
+shot to death	Non
+department store	Non
+reporter	Non
+torture	Non
+death of recurring character	Non
+former president	Non
+new york city	Non
+female president	Non
+split screen	Non

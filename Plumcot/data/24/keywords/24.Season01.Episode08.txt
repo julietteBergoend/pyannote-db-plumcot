@@ -1,0 +1,41 @@
+speech	Non
+press conference	Non
+briefcase	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+family held hostage	Non
+handcuffed woman	Non
+elbowed in face	Non
+toilet stall	Non
+women's restroom	Non
+fake fingerprints	Non
+assembling gun	Non
+laptop computer	Non
+family in danger	Non
+daughter in danger	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+wife in danger	Non
+kidnapped daughter	Non
+kidnapped wife	Non
+reunited with parent	Non
+mother daughter hug	Non
+ford taurus	Non
+duress	Non
+ear piece	Non
+assumed dead	Non
+smuggled gun	Non
+assassination attempt	Non
+husband wife relationship	Non
+presidential candidate	Non
+u.s. senator	Non
+campaign headquarters	Non
+father son relationship	Non

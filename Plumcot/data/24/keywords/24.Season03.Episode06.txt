@@ -1,0 +1,59 @@
+mexico	Non
+virus	Non
+helicopter	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+university of southern california	Non
+airplane	Non
+carrying someone over shoulder	Non
+knocked unconscious	Non
+father son hug	Non
+mother son hug	Non
+reunited with parent	Non
+male female hug	Non
+black man white woman kiss	Non
+interracial romance	Non
+worried wife	Non
+worrying about one's husband	Non
+male tears	Non
+intelligence mole	Non
+stealing a car	Non
+worried daughter	Non
+worrying about one's father	Non
+father son relationship	Non
+hours to live	Non
+escaped prisoner	Non
+parents	Non
+parent child relationship	Non
+helicopter chase	Non
+health services	Non
+hazmat	Non
+19 year old	Non
+teenage son	Non
+teenager	Non
+teenage boy	Non
+personal doctor	Non
+female doctor	Non
+brother brother relationship	Non
+two brothers	Non
+chief of staff	Non
+character appears on tv	Non
+u.s. senator	Non
+televised debate	Non
+presidential debate	Non
+auditorium	Non
+mexican	Non
+biothreat	Non
+blonde woman	Non
+army major	Non
+secret mission	Non
+rogue agent	Non
+president	Non
+black u.s. president	Non

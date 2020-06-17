@@ -1,0 +1,22 @@
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+crying man	Non
+limousine	Non
+blackmail	Non
+hospital	Non
+nurse	Non
+judge	Non
+attorney	Non
+threat	Non
+helicopter	Non
+united nations	Non
+new york city	Non
+female president	Non
+split screen	Non
+grief	Non

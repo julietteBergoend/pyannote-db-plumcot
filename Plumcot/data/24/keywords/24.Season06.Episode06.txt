@@ -1,0 +1,24 @@
+terrorist	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+politics	Non
+threat	Non
+forced to resign	Non
+office	Non
+fbi agent	Non
+detention center	Non
+betrayal	Non
+father son relationship	Non
+brother brother relationship	Non
+counter terrorism	Non
+terrorism	Non
+presidential speech	Non
+government agent	Non
+split screen	Non

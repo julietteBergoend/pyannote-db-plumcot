@@ -1,0 +1,56 @@
+terrorist	Non
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+man murders a woman	Non
+digit in episode title	Non
+black u.s. president	Non
+telephone call	Non
+woman murders a man	Non
+bomb	Non
+disarming a bomb	Non
+shootout	Non
+pump action shotgun	Non
+fire alarm	Non
+head dunked in water	Non
+blonde woman	Non
+hit on the head	Non
+punched in the face	Non
+maserati	Non
+taken as hostage	Non
+underpass	Non
+car helicopter chase	Non
+driving the wrong way on a one way road	Non
+arabic	Non
+muslim	Non
+duress	Non
+bunker	Non
+shotgun	Non
+gun	Non
+blood	Non
+shot to death	Non
+death	Non
+violence	Non
+betrayal	Non
+office	Non
+gunfire	Non
+shot by partner	Non
+shot in a car	Non
+murder	Non
+helicopter	Non
+greed	Non
+counter terrorism	Non
+terrorism	Non
+apartment	Non
+apartment building	Non
+gun with silencer	Non
+torture	Non
+explosion	Non
+suitcase bomb	Non
+nuclear bomb	Non
+government agent	Non
+split screen	Non

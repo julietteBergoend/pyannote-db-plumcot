@@ -1,0 +1,41 @@
+intrigue	Non
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+telephone call	Non
+hit with a flashlight	Non
+assassination plot	Non
+russian general	Non
+drinking whisky out of the bottle	Non
+drinking on the job	Non
+grandfather grandson relationship	Non
+worrying about one's son	Non
+worried mother	Non
+son in danger	Non
+parent grown child relationship	Non
+brother in law sister in law relationship	Non
+grabbed by the throat	Non
+bunker	Non
+shot in the arm	Non
+former president	Non
+violence	Non
+roof	Non
+anger	Non
+daughter in law	Non
+hostage	Non
+trade	Non
+father son relationship	Non
+counter terrorism	Non
+terrorist	Non
+terrorism	Non
+shot to death	Non
+hotel room	Non
+hotel	Non
+government agent	Non
+split screen	Non

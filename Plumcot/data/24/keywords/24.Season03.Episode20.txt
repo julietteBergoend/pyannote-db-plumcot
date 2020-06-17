@@ -1,0 +1,45 @@
+virus	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+wife held hostage	Non
+wife in danger	Non
+duress	Non
+megaphone	Non
+shot in the chest	Non
+helicopter	Non
+quarantine	Non
+husband wife relationship	Non
+medical test result	Non
+tracing a telephone call	Non
+british in america	Non
+englishman abroad	Non
+englishman	Non
+british villain	Non
+conference call	Non
+secret service agent	Non
+secret service	Non
+chief of staff	Non
+brother brother relationship	Non
+two brothers	Non
+health services	Non
+hazmat	Non
+band aid on neck	Non
+university of california los angeles	Non
+interrogation room	Non
+biothreat	Non
+hotel	Non
+recorded telephone conversation	Non
+blonde woman	Non
+father daughter relationship	Non
+teenage daughter	Non
+teenage girl	Non
+teenager	Non
+19 year old	Non
+black u.s. president	Non

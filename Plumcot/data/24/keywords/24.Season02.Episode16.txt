@@ -1,0 +1,62 @@
+president	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+air force one	Non
+punched in the face	Non
+debriefing	Non
+shot in the stomach	Non
+gun tucked in pants	Non
+disarming someone	Non
+disarming a person with a gun	Non
+.38 snubnose revolver	Non
+revolver	Non
+teenager with a gun	Non
+gunshot wound	Non
+hostage situation	Non
+store owner	Non
+liquor store	Non
+fit of rage	Non
+choking someone	Non
+smashing a window	Non
+throwing object through window	Non
+killed by a sniper	Non
+assassination by sniper	Non
+shot in the head	Non
+assassination	Non
+prisoner	Non
+assumed dead	Non
+worried about daughter	Non
+worried father	Non
+deputy prime minister	Non
+u.s. army general	Non
+army general	Non
+four star general	Non
+joint chiefs of staff	Non
+audio analysis	Non
+reference to guantanamo bay	Non
+special assistant to the president	Non
+chief of staff	Non
+interrogation room	Non
+arabic	Non
+recorded conversation	Non
+helicopter	Non
+female tears	Non
+crying girl	Non
+explosion	Non
+mushroom cloud	Non
+bomb explosion	Non
+nuclear explosion	Non
+blonde woman	Non
+blonde girl	Non
+teenage daughter	Non
+teenager	Non
+teenage girl	Non
+widower	Non
+black u.s. president	Non

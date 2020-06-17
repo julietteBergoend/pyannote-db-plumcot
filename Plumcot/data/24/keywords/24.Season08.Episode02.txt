@@ -1,0 +1,31 @@
+tape over mouth	Non
+investigation	Non
+reporter	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+split screen	Non
+terrorism	Non
+terrorist	Non
+brother	Non
+assassination plot	Non
+armory	Non
+weapons room	Non
+new york city	Non
+mole	Non
+interrogation	Non
+surveillance footage	Non
+counter terrorism	Non
+female president	Non
+shot in the leg	Non
+duct tape	Non
+gag	Non
+skeleton in a closet	Non
+blackmail	Non
+diversion	Non
+facial recognition	Non

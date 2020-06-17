@@ -1,0 +1,37 @@
+prisoner	Non
+detention center	Non
+secret detention center	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+family in danger	Non
+serbian	Non
+lights suddenly go out	Non
+jail cell	Non
+fingers crossed gesture	Non
+campaign headquarters	Non
+helicopter	Non
+knife held to throat	Non
+news report	Non
+chief of staff	Non
+calling for backup	Non
+interrogation room	Non
+questioned by police	Non
+vomiting in a toilet	Non
+male vomiting	Non
+tasered	Non
+alarm	Non
+husband wife relationship	Non
+police station	Non
+father daughter hug	Non
+presidential candidate	Non
+u.s. senator	Non

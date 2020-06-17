@@ -1,0 +1,53 @@
+stabbing	Non
+the white house	Non
+airport	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+shooting	Non
+telephone call	Non
+sunrise	Non
+revival	Non
+fire	Non
+laptop	Non
+walkie talkie	Non
+gimp	Non
+heavy breathing	Non
+scream	Non
+pain	Non
+syringe	Non
+seizure	Non
+face mask	Non
+data card	Non
+fingerprint	Non
+emergency exit	Non
+field agent	Non
+operative	Non
+dead body	Non
+knife	Non
+attack	Non
+airplane boarding	Non
+glasses	Non
+police	Non
+ambulance	Non
+chief of staff	Non
+biochemist	Non
+pathogen	Non
+hostage	Non
+held at gunpoint	Non
+gun	Non
+surveillance	Non
+driving	Non
+headphones	Non
+ear piece	Non
+blood	Non
+helicopter	Non
+madame president	Non
+fbi	Non
+meeting	Non
+american flag	Non

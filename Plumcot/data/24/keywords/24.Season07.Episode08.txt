@@ -1,0 +1,22 @@
+first gentleman	Non
+fbi	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+threat	Non
+car chase	Non
+renegade agent	Non
+spy	Non
+cutting off finger	Non
+kidnapping	Non
+undercover	Non
+homeland	Non
+mole	Non
+cip device	Non
+madame president	Non
+trunk	Non

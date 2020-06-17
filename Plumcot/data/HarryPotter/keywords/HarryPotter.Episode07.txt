@@ -1,0 +1,257 @@
+harry potter movie franchise	1.0
+magic	1.0
+based on young adult novel	1.0
+friend	1.0
+chosen one	1.0
+friendship	1.0
+magic wand	1.0
+bravery	1.0
+fear	1.0
+persecution	1.0
+on the run	1.0
+evil wizard	1.0
+sequel	1.0
+based on novel	1.0
+ginny weasley character	Non
+remus lupin character	Non
+lucius malfoy character	Non
+hermione granger character	Non
+draco malfoy character	Non
+rubeus hagrid character	Non
+peter pettigrew character	Non
+harry potter character	Non
+neville longbottom character	Non
+lord voldemort character	Non
+pansy parkinson character	Non
+arthur weasley character	Non
+lily potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+gregory goyle character	Non
+dudley dursley character	Non
+vernon dursley character	Non
+cho chang character	Non
+george weasley character	Non
+ron weasley character	Non
+fred weasley character	Non
+returning character with different actor	Non
+vision	Non
+cold blooded murder	Non
+friendship between boys	Non
+bad guys win	Non
+no ending	Non
+male protagonist	Non
+shared universe	Non
+profanity	Non
+petunia dursley character	Non
+death eater	Non
+molly weasley character	Non
+albus dumbledore character	Non
+severus snape character	Non
+alastor 'mad eye' moody character	Non
+bellatrix lestrange character	Non
+luna lovegood character	Non
+dolores umbridge character	Non
+dobby character	Non
+psychotronic film	Non
+all star cast	Non
+cgi character in a live action movie	Non
+boy wears eyeglasses	Non
+sequel baiting	Non
+elf	Non
+male government minister	Non
+golden snitch	Non
+reference to godric gryffindor	Non
+actress reprises previous role	Non
+night time	Non
+vehicle	Non
+father and daughter	Non
+minister for magic	Non
+arm in a sling	Non
+long haired male	Non
+handheld device	Non
+kitchen	Non
+woman	Non
+house elf	Non
+passenger compartment	Non
+male in underwear	Non
+wanted poster	Non
+sword of gryffindor	Non
+musical instrument	Non
+winged object	Non
+evil witch	Non
+thief	Non
+newspaper	Non
+long haired woman	Non
+office	Non
+dementor	Non
+injured arm	Non
+bedroom	Non
+photo album	Non
+animal	Non
+handheld weapon	Non
+government minister	Non
+toilet stall	Non
+bespectacled male	Non
+night	Non
+snake attack	Non
+actor reprises previous role	Non
+motor vehicle	Non
+wounded arm	Non
+long haired female	Non
+weapon	Non
+serpent	Non
+man	Non
+hardcover book	Non
+ministry of magic	Non
+male thief	Non
+reading of will	Non
+lavatory	Non
+long haired man	Non
+arm in sling	Non
+bladed weapon	Non
+witch	Non
+double decker bus	Non
+man in underwear	Non
+narcissa malfoy character	Non
+immortality	Non
+power	Non
+mission	Non
+race against time	Non
+tough girl	Non
+wizard	Non
+strong female lead	Non
+strong female character	Non
+school of magic	Non
+seventh part	Non
+hobgoblin	Non
+force field	Non
+bildungsroman	Non
+year 1998	Non
+year 1997	Non
+1990s	Non
+mother son relationship	Non
+father son relationship	Non
+husband wife relationship	Non
+swimming in underwear	Non
+hairy chest	Non
+male underwear	Non
+bare chested male	Non
+chandelier	Non
+open ended	Non
+foot chase	Non
+train	Non
+demon	Non
+jail cell	Non
+beach	Non
+motorcycle	Non
+cave	Non
+church	Non
+old dark house	Non
+christmas	Non
+snow	Non
+subterranean	Non
+london england	Non
+teleportation	Non
+underwater scene	Non
+falling through ice	Non
+fire	Non
+altered version of studio logo	Non
+isolation	Non
+wedding reception	Non
+imprisonment	Non
+radio	Non
+grave robbing	Non
+imax version	Non
+no opening credits	Non
+hereditary gift of witchcraft	Non
+prologue	Non
+stabbed in the chest	Non
+hit in the face	Non
+ruthlessness	Non
+innocents killed	Non
+jumping into a lake	Non
+bitten by a snake	Non
+hero versus villain	Non
+tragic villain	Non
+house destroyed	Non
+survival	Non
+desperation	Non
+impaled with a knife	Non
+crying	Non
+tension	Non
+assumed identity	Non
+heroism	Non
+capture	Non
+tomb	Non
+prejudice	Non
+sword	Non
+racism	Non
+paranoia	Non
+blood	Non
+hallucination	Non
+legend	Non
+attack	Non
+fugitive	Non
+autobiography	Non
+dancing	Non
+caught kissing	Non
+teenage love	Non
+chaos	Non
+argument	Non
+disappearance	Non
+rescue	Non
+frozen lake	Non
+old woman	Non
+book	Non
+elevator	Non
+portrait	Non
+narrow escape	Non
+protection	Non
+missing ear	Non
+owl	Non
+secrecy	Non
+loss of pet	Non
+broomstick	Non
+kiss	Non
+flashback	Non
+curse	Non
+snake	Non
+meeting	Non
+mistaken identity	Non
+doppelganger	Non
+potion	Non
+plan	Non
+showdown	Non
+dark past	Non
+secret	Non
+forest	Non
+birthday	Non
+boyfriend girlfriend relationship	Non
+wand	Non
+cafe	Non
+chase	Non
+mourning	Non
+tent	Non
+crusade	Non
+locket	Non
+ambush	Non
+artifacts	Non
+infiltration	Non
+cliffhanger ending	Non
+loyalty	Non
+wedding	Non
+search	Non
+corruption	Non
+cemetery	Non
+teenage hero	Non
+returning character killed off	Non
+good versus evil	Non
+dark fantasy	Non
+cult figure	Non
+cult film	Non
+werewolf	Non
+werewolf bite	Non
+roman numeral in title	Non
+character name in title	Non
+surprise ending	Non

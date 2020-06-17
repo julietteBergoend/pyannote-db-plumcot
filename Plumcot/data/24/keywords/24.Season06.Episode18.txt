@@ -1,0 +1,39 @@
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+telephone call	Non
+husband wife relationship	Non
+cerebral hemorrhage	Non
+press conference	Non
+getting someone's name wrong	Non
+collapsing to floor	Non
+tracking device	Non
+the white house	Non
+wishing someone good luck	Non
+hit in the face with a rifle butt	Non
+hit in the face	Non
+u.s. vice president	Non
+oval office	Non
+resignation demand	Non
+reference to world war three	Non
+chinese man	Non
+national security advisor	Non
+chief of staff	Non
+bunker	Non
+circuit board	Non
+acting president	Non
+standoff	Non
+soldier	Non
+nuclear bomb	Non
+collapse	Non
+suitcase bomb	Non
+threat	Non
+order	Non
+presidential speech	Non
+split screen	Non

@@ -1,0 +1,16 @@
+foreign language episode title	1.0
+title directed by female	1.0
+gore	Non
+blood	Non
+handcuffs	Non
+fire fight	Non
+spitting in face	Non
+over and under shotgun	Non
+writing on hand	Non
+coughing	Non
+dirt road	Non
+driving while on a cell phone	Non
+bullet proof vest	Non
+fruit loops	Non
+faked death	Non
+out of specification product	0.0

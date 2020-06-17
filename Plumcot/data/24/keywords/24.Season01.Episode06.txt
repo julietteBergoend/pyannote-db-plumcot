@@ -1,0 +1,43 @@
+hospital	1.0
+murder in a hospital	Non
+murder of a teenage girl	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+hit and run	Non
+colon in episode title	Non
+search	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+duress	Non
+mother searching for missing daughter	Non
+chief of staff	Non
+burying a body	Non
+ear piece	Non
+ford taurus	Non
+murder by suffocation	Non
+crying woman	Non
+husband wife conflict	Non
+towel on head	Non
+hug	Non
+husband wife hug	Non
+digging a grave	Non
+husband wife relationship	Non
+presidential candidate	Non
+u.s. senator	Non
+campaign headquarters	Non
+teenager in danger	Non
+daughter in danger	Non
+kidnapped daughter	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+worried about daughter	Non
+worried mother	Non
+helicopter	Non
+hospital room	Non
+operating theater	Non
+dead body in a car trunk	Non

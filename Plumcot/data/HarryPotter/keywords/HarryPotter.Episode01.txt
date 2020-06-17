@@ -1,0 +1,326 @@
+magic	1.0
+based on novel	1.0
+wizard	1.0
+school of magic	1.0
+troll	1.0
+quidditch	1.0
+boarding school	1.0
+abusive uncle	1.0
+train	1.0
+dog	1.0
+unicorn	1.0
+birthday	1.0
+year 1992	1.0
+orphan	1.0
+forest	1.0
+child hero	1.0
+christmas	1.0
+harry potter movie franchise	1.0
+evil wizard	1.0
+invisibility cloak	1.0
+best friend	1.0
+friendship	1.0
+magic wand	1.0
+good versus evil	1.0
+halloween	1.0
+immortality	1.0
+character name in title	1.0
+girl	0.5
+cult figure	0.5
+epic	0.5
+dark fantasy	0.5
+destiny	0.5
+cult film	0.3333333333333333
+untucked shirt flap	0.3333333333333333
+dwarf	0.3333333333333333
+ginny weasley character	Non
+draco malfoy character	Non
+hermione granger character	Non
+rubeus hagrid character	Non
+lord voldemort character	Non
+neville longbottom character	Non
+lily potter character	Non
+harry potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+gregory goyle character	Non
+dean thomas character	Non
+filius flitwick character	Non
+vincent crabbe character	Non
+vernon dursley character	Non
+argus filch character	Non
+george weasley character	Non
+dudley dursley character	Non
+minerva mcgonagall character	Non
+ron weasley character	Non
+fred weasley character	Non
+fairy tale	Non
+trapdoor	Non
+lifting someone into the air	Non
+lifting a male into the air	Non
+blockbuster	Non
+witch	Non
+eyeglasses	Non
+rat	Non
+first of series	Non
+no opening credits	Non
+based on young adult novel	Non
+hero	Non
+zoo	Non
+boy	Non
+money	Non
+monster	Non
+elf	Non
+owl	Non
+slow motion scene	Non
+professor	Non
+school	Non
+bully	Non
+hat	Non
+letter	Non
+rescue	Non
+mirror	Non
+mission	Non
+orchestral music score	Non
+occult	Non
+bank	Non
+paralysis	Non
+crossbow	Non
+ghost	Non
+potion	Non
+night	Non
+fairy creature	Non
+power	Non
+pet as gift	Non
+schoolgirl	Non
+game	Non
+bravery	Non
+friend	Non
+boy hero	Non
+creature	Non
+brick wall	Non
+steam locomotive	Non
+spell	Non
+wand	Non
+broomstick	Non
+sword	Non
+white owl	Non
+cloak	Non
+oversize chess set	Non
+elitism	Non
+goblin	Non
+invisibility	Non
+twins	Non
+uniform	Non
+stuttering	Non
+woman in uniform	Non
+scar	Non
+stadium	Non
+infirmary	Non
+forced perspective	Non
+reverse footage	Non
+bearded man	Non
+old bearded man	Non
+male protagonist	Non
+red herring	Non
+birthday cake	Non
+dragon egg	Non
+shared universe	Non
+petunia dursley character	Non
+molly weasley character	Non
+albus dumbledore character	Non
+severus snape character	Non
+male professor	Non
+aunt	Non
+warner bros.	Non
+psychotronic film	Non
+flying broomstick	Non
+all star cast	Non
+england	Non
+boy wears eyeglasses	Non
+man wears eyeglasses	Non
+triumph motor company	Non
+triumph bonneville	Non
+vauxhall	Non
+vauxhall cavalier	Non
+vauxhall vectra exstate	Non
+chess	Non
+chocolate	Non
+candy	Non
+1990s	Non
+bespectacled male	Non
+handheld device	Non
+motor vehicle	Non
+station wagon	Non
+bird	Non
+animal	Non
+bespectacled boy	Non
+vehicle	Non
+11 year old	Non
+muggle	Non
+passenger compartment	Non
+umbrella	Non
+11 year old boy	Non
+diagon alley	Non
+key	Non
+bespectacled man	Non
+vault	Non
+lamp	Non
+the number 713	Non
+long haired female	Non
+handheld lamp	Non
+night time	Non
+watercraft	Non
+cat	Non
+boat	Non
+talking hat	Non
+new student	Non
+red haired boy	Non
+scroll	Non
+levitating object	Non
+moving staircase	Non
+dormitory	Non
+common room	Non
+levitating candle	Non
+staircase	Non
+feline	Non
+long haired girl	Non
+oliver wood character	Non
+giant humanoid	Non
+hardcover book	Non
+library	Non
+mountain troll	Non
+student	Non
+full length mirror	Non
+book	Non
+baby dragon	Non
+long haired male	Non
+harp	Non
+musical instrument	Non
+projectile weapon	Non
+rodent	Non
+feast	Non
+applause	Non
+burning candle	Non
+long haired man	Non
+hospital wing	Non
+lavatory	Non
+prefect	Non
+canine	Non
+school prefect	Non
+golden snitch	Non
+abusive aunt	Non
+forehead scar	Non
+surrey england	Non
+chocolate frog	Non
+newspaper	Non
+young girl	Non
+schoolboy	Non
+new school	Non
+sentient hat	Non
+flying object	Non
+enchanted ceiling	Non
+bank vault	Non
+sorting hat	Non
+teacher	Non
+taking notes	Non
+sentient object	Non
+gringotts wizarding bank	Non
+classroom	Non
+magical newspaper	Non
+great hall	Non
+toad	Non
+twin brothers	Non
+three headed dog	Non
+talking object	Non
+attacked by vine	Non
+winged key	Non
+unicorn blood	Non
+snake	Non
+vauxhall motor vehicle	Non
+scar on the forehead	Non
+chocolate animal	Non
+serpent	Non
+talking snake	Non
+vine	Non
+amphibian	Non
+flying key	Non
+know it all	Non
+self sacrifice	Non
+villain	Non
+abusive relative	Non
+man killed	Non
+male ghost	Non
+male cousin	Non
+cousin	Non
+damaged spectacles	Non
+animate painting	Non
+talking painting	Non
+passenger train carriage	Non
+winged object	Non
+first part	Non
+animal enclosure	Non
+vivarium	Non
+pre teen witch	Non
+woman	Non
+ticket	Non
+pre teenage boy	Non
+pre teen girl	Non
+train ticket	Non
+pre teen boy	Non
+pre teenage girl	Non
+luggage trolley	Non
+locomotive	Non
+pre teenager	Non
+female ghost	Non
+class	Non
+pre teen	Non
+man	Non
+percy weasley character	Non
+mail delivery	Non
+school infirmary	Non
+school dormitory	Non
+snack trolley	Non
+witchcraft	Non
+sorcerer	Non
+school life	Non
+dysfunctional family	Non
+uncle nephew relationship	Non
+magical cloak	Non
+human becoming an animal	Non
+train passenger car	Non
+train station	Non
+train platform	Non
+magical broomstick	Non
+magic book	Non
+magical mirror	Non
+identical twins	Non
+family relationships	Non
+mother son relationship	Non
+transformation	Non
+giant creature	Non
+grandfather clock	Non
+child in peril	Non
+husband wife relationship	Non
+portrait comes to life	Non
+snowy owl	Non
+hereditary gift of witchcraft	Non
+mirror does not reflect reality	Non
+supernatural power	Non
+mystic	Non
+fantasy world	Non
+teacher student relationship	Non
+living portrait	Non
+fictitious sport	Non
+dragon	Non
+child abuse	Non
+centaur	Non
+family secret	Non
+attempted child strangulation	Non
+animated chess	Non
+levitation	Non
+title spoken by character	Non
+surprise ending	Non
+talking animal	0.0
+hobgoblin	0.0
+poetry recitation	0.0

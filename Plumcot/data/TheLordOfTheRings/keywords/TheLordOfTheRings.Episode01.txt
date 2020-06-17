@@ -1,0 +1,288 @@
+ring	1.0
+quest	1.0
+hobbit	1.0
+elf	1.0
+orc	1.0
+saving the world	1.0
+wizard	1.0
+based on novel	1.0
+epic	1.0
+dwarf	1.0
+riddle	1.0
+hidden door	1.0
+warrior	1.0
+friendship	1.0
+sword fight	1.0
+middle earth	0.8571428571428571
+voice over narration	1.0
+magic	1.0
+forced perspective	1.0
+blockbuster	1.0
+doom	1.0
+volcano	1.0
+forest	1.0
+river	1.0
+axe fight	1.0
+fictional language	1.0
+evil wizard	1.0
+tower	1.0
+giant bird	1.0
+fireworks	1.0
+campfire	1.0
+temptation	1.0
+staff	1.0
+moth	1.0
+magical ring	1.0
+healing	1.0
+council	1.0
+broken sword	1.0
+honor	1.0
+monster	1.0
+fortress	1.0
+horseback chase	1.0
+armor	1.0
+castle	1.0
+troll	1.0
+courage	1.0
+loyalty	1.0
+abyss	1.0
+good versus evil	1.0
+goblin	1.0
+battle	1.0
+tomb	1.0
+sword	1.0
+immortality	1.0
+eagle	1.0
+leaving home	1.0
+bravery	1.0
+birthday party	1.0
+eavesdropping	1.0
+ruins	1.0
+fireplace	1.0
+sword and sorcery	0.8333333333333334
+famous line	0.8
+part of trilogy	0.8
+self sacrifice	0.8
+elrond character	1.0
+galadriel character	1.0
+legolas character	1.0
+gollum character	1.0
+frodo baggins character	1.0
+saruman the white character	1.0
+orcs character	1.0
+sauron character	1.0
+gandalf character	1.0
+elves character	1.0
+bilbo baggins character	1.0
+journey	1.0
+destruction	1.0
+power	1.0
+fate	1.0
+free will	1.0
+self destruction	1.0
+obsession	1.0
+test of courage	1.0
+horse riding	1.0
+strength	1.0
+riverside	1.0
+smoking	1.0
+death	1.0
+swamp	1.0
+singing	1.0
+explosion	1.0
+song	1.0
+heavy rain	1.0
+spell	1.0
+celebration	1.0
+walking	1.0
+hiking	1.0
+mine	1.0
+male protagonist	1.0
+chaste character	1.0
+shot with multiple arrows	1.0
+battleaxe	1.0
+samwise gamgee character	1.0
+gimli character	1.0
+boromir character	1.0
+aragorn character	1.0
+first of trilogy	1.0
+cult classic	1.0
+trilogy	1.0
+orchestral music score	1.0
+first of series	1.0
+birthday	1.0
+mountain	1.0
+road movie	1.0
+evil creature	1.0
+violence	1.0
+fictional world	1.0
+party	1.0
+evil sorcerer	1.0
+lord of the rings	1.0
+sorcerer	1.0
+creature	1.0
+giant monster	1.0
+giant creature	1.0
+bow and arrow	1.0
+sword and fantasy	1.0
+part computer animation	0.75
+cult director	0.75
+death of hero	0.6666666666666666
+famous score	0.6
+no opening credits	0.6
+abandoned mine	0.6666666666666666
+reluctant hero	0.6666666666666666
+waterfall	0.6666666666666666
+heroism	0.6666666666666666
+death of friend	0.6666666666666666
+frost	1.0
+corruption	1.0
+weakness	1.0
+monologue	1.0
+escape	1.0
+cousin relationship	1.0
+male friendship	1.0
+interspecies romance	1.0
+weapon	1.0
+all star cast	1.0
+forbidden love	1.0
+single blade axe	1.0
+speaking elvish	1.0
+elvish	1.0
+teleportation	1.0
+archer	1.0
+boyfriend girlfriend relationship	1.0
+chorus	1.0
+cult film	0.5
+ensemble cast	0.5
+first part	0.5
+fictional war	0.5
+mind control	0.5
+torture	0.5
+secret passage	0.5
+invented language	0.4
+deception	0.5
+on the run	0.5
+wraith	0.5
+archery	0.5
+tyrant	0.5
+inn	0.5
+redemption	0.5
+compassion	0.3333333333333333
+male bonding	0.3333333333333333
+finding courage	Non
+endurance	Non
+partying	Non
+platonic relationship	Non
+brother brother relationship	Non
+uncle nephew relationship	Non
+cooperation	Non
+interspecies friendship	Non
+bladed weapon	Non
+dry for wet	Non
+bad guys win	Non
+opening action scene	Non
+ambush	Non
+epic battle	Non
+centipede	Non
+worm	Non
+spider	Non
+pipe smoking	Non
+slow motion scene	Non
+open ended	Non
+sequel baiting	Non
+epic journey	Non
+distant relative	Non
+camaraderie	Non
+curly hair	Non
+stabbed in the chest	0.25
+well	0.25
+demon	0.2
+flashback	0.0
+fight	0.0
+no ending	0.0
+ten word title	0.0
+underwater scene	0.0
+live action and animation	0.0
+psychotronic film	0.0
+colon in title	0.0
+lifting someone into the air	0.0
+lifting an adult into the air	0.0
+lifting male in air	0.0
+cgi character in a live action movie	0.0
+ancient	0.0
+uncle	0.0
+invisibility	0.0
+friends who live together	0.0
+barrow wight	0.0
+prehistoric times	0.0
+prehistory	0.0
+disarming someone	0.0
+showdown	0.0
+battlefield	0.0
+hand to hand combat	0.0
+combat	0.0
+motion capture	0.0
+underground city	0.0
+blizzard	0.0
+traitor	0.0
+dark fantasy	0.0
+cousin cousin relationship	0.0
+archive	0.0
+whip	0.0
+vision	0.0
+torch	0.0
+tentacle	0.0
+telepathy	0.0
+statue	0.0
+staircase	0.0
+spear	0.0
+skeleton	0.0
+premonition	0.0
+pendant	0.0
+password	0.0
+mutant	0.0
+horn	0.0
+flash flood	0.0
+ferry boat	0.0
+echo	0.0
+cornfield	0.0
+cave in	0.0
+abduction	0.0
+last stand	0.0
+chain reaction	0.0
+tobacco	0.0
+envelope	0.0
+dancing	0.0
+enchantment	0.0
+collision	0.0
+stabbed in the shoulder	0.0
+speech	0.0
+dark hero	0.0
+rowboat	0.0
+stabbed in the leg	0.0
+stabbed in the arm	0.0
+severed finger	0.0
+severed arm	0.0
+gift	0.0
+falling from height	0.0
+decoy	0.0
+crushed to death	0.0
+betrayal	0.0
+bridge	0.0
+avalanche	0.0
+mirror	0.0
+smoke ring	0.0
+sea monster	0.0
+impalement	0.0
+village	0.0
+rainstorm	0.0
+rescue from drowning	0.0
+knife in thigh	0.0
+shot in the forehead	0.0
+promise	0.0
+gardener	0.0
+decapitation	0.0
+flaming sword	0.0
+telekinesis	0.0
+swarm tactic	0.0

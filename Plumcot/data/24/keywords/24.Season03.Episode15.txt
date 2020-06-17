@@ -1,0 +1,42 @@
+hotel	Non
+virus	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+murder of a police officer	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+quarantine	Non
+disobey direct order	Non
+security guard	Non
+head of security	Non
+walkie talkie	Non
+handcuffed man	Non
+handcuffed to something	Non
+hit with a gun butt	Non
+hit on the head with a gun butt	Non
+husband wife relationship	Non
+cutting hand	Non
+cutting the palm of one's hand	Non
+cutting someone	Non
+flash grenade	Non
+punched in the face	Non
+lying to the police	Non
+police detective	Non
+questioned by police	Non
+father daughter hug	Non
+chief of staff	Non
+brother brother relationship	Non
+two brothers	Non
+security footage	Non
+band aid on neck	Non
+arms dealer	Non
+biothreat	Non
+boyfriend girlfriend relationship	Non
+blonde woman	Non
+father daughter relationship	Non
+black u.s. president	Non

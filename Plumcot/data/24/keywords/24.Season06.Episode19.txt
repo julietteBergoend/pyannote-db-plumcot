@@ -1,0 +1,39 @@
+the white house	Non
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+telephone call	Non
+arrest	Non
+gagged	Non
+shootout	Non
+helicopter shot down	Non
+bazooka	Non
+fired from the job	Non
+leaving message on answering machine	Non
+husband wife relationship	Non
+chinese man	Non
+tracking device	Non
+handshake	Non
+national security advisor	Non
+chief of staff	Non
+rogue agent	Non
+commandeered vehicle	Non
+u.s. vice president	Non
+night time	Non
+meeting	Non
+insult	Non
+death	Non
+trade	Non
+circuit board	Non
+abandoned motel	Non
+successor	Non
+video recording	Non
+gunfire	Non
+oval office	Non
+acting president	Non
+split screen	Non

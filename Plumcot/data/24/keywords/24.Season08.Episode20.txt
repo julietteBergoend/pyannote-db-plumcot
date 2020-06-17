@@ -1,0 +1,36 @@
+safe deposit box	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+video evidence	Non
+evidence	Non
+murder	Non
+violence	Non
+shot to death	Non
+innocent bystander killed	Non
+execution	Non
+barefoot woman	Non
+gun fight	Non
+flash bang	Non
+nypd	Non
+bank	Non
+death of recurring character	Non
+rogue agent	Non
+new york city	Non
+former president	Non
+female president	Non
+split screen	Non
+propane torch	Non
+torture	Non
+local internet hotspot	Non
+video file	Non
+facial recognition	Non
+cover up	Non
+shot in the foot	Non
+waterboarding	Non
+speech	Non

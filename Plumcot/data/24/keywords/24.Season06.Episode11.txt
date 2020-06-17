@@ -1,0 +1,41 @@
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+telephone call	Non
+chief of staff	Non
+muslim	Non
+deputy chief of staff	Non
+duct tape over mouth	Non
+woman in a men's room	Non
+assassination plot	Non
+nuclear bomb	Non
+russian general	Non
+suitcase bomb	Non
+house arrest	Non
+bomb explosion	Non
+bound and gagged	Non
+remote detonator	Non
+bunker	Non
+working with enemy	Non
+debris	Non
+confrontation	Non
+podium	Non
+ambassador	Non
+former president	Non
+biblical passage	Non
+violence	Non
+security check	Non
+assembling a bomb	Non
+bomb	Non
+counter terrorism	Non
+explosion	Non
+terrorism	Non
+terrorist	Non
+government agent	Non
+split screen	Non

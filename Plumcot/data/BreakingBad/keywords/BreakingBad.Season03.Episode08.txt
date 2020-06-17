@@ -1,0 +1,73 @@
+water fountain	Non
+hospital	Non
+critical condition	Non
+mob hit	Non
+compressed air	Non
+bored	Non
+shot multiple times	Non
+tattoo	Non
+bruise	Non
+sleeping in a chair	Non
+kiss on the forehead	Non
+car park	Non
+destroying a phone	Non
+gunfire	Non
+cardiopulmonary resuscitation	Non
+hiding in plain sight	Non
+fried chicken	Non
+fast food	Non
+reference to pablo escobar	Non
+swivel chair	Non
+crawling on the floor	Non
+beeping	Non
+amputated leg	Non
+leg amputation	Non
+double amputee	Non
+escalator	Non
+drug lord	Non
+subtitled scene	Non
+emergency surgery	Non
+vibrating cell phone	Non
+chicken restaurant	Non
+fast food restaurant	Non
+fork	Non
+breakfast	Non
+hospital cafeteria	Non
+courtesy telephone	Non
+waiting	Non
+forbes magazine	Non
+table	Non
+splashing water on one's face	Non
+time lapse	Non
+blood donation	Non
+donating blood	Non
+giving blood	Non
+blood bag	Non
+male female hug	Non
+familial hug	Non
+consoling hug	Non
+hospital waiting room	Non
+handshake	Non
+getting dressed	Non
+bare chested male	Non
+replacement	Non
+back bruise	Non
+spiral staircase	Non
+drug laboratory	Non
+underground laboratory	Non
+laboratory	Non
+secret laboratory	Non
+industrial laundry	Non
+eye wound	Non
+eye injury	Non
+black eye	Non
+facial bruise	Non
+lab assistant	Non
+secret lab	Non
+meth lab	Non
+wheelchair	Non
+man in a wheelchair	Non
+stretcher	Non
+ambulance	Non
+release from hospital	Non
+hospital room	Non

@@ -1,0 +1,27 @@
+ball	1.0
+cat	1.0
+game	1.0
+bird	1.0
+sphynx cat	1.0
+shooting a bird	1.0
+talking in bed	1.0
+sneeze	1.0
+scratched by a cat	1.0
+playing catch	1.0
+police officer	1.0
+officer dating civilian	1.0
+police station	1.0
+moving in	1.0
+interrogation	1.0
+endurance	1.0
+clumsiness	1.0
+dating	Non
+breakup	Non
+calling in sick	Non
+commitment	Non
+kiss	Non
+oven mitt	Non
+pillow	Non
+thumbs up gesture	Non
+plainclothes officer	Non
+hunger	Non

@@ -1,0 +1,366 @@
+elongated cry of no	1.0
+personality change	1.0
+tragic villain	1.0
+spaceship	1.0
+adoption	1.0
+hologram	1.0
+cgi	1.0
+prequel	1.0
+part of trilogy	1.0
+third in trilogy	1.0
+end of trilogy	1.0
+baby	1.0
+sequel	1.0
+opening action scene	1.0
+vision	1.0
+dying in childbirth	1.0
+clone trooper	1.0
+talking robot	1.0
+robotic midwife	1.0
+coughing robot	1.0
+murder of a child	1.0
+friends become enemies	1.0
+birth of twins	1.0
+father misses the birth of his child	1.0
+star wars	1.0
+kicked in the butt	1.0
+woman in labor	1.0
+bolt upright after nightmare	1.0
+dead children	1.0
+marriage	1.0
+no opening credits	1.0
+wilhelm scream	1.0
+severed head	1.0
+treason	1.0
+elevator shaft	1.0
+electrocution	1.0
+burned alive	1.0
+robot	1.0
+lava	1.0
+lightsaber	1.0
+sole black character dies cliche	0.6666666666666666
+snow	1.0
+bad dream	1.0
+vision of the future	1.0
+bare chested male	1.0
+headset	1.0
+fraternal twins	1.0
+bearded man	1.0
+droid	1.0
+famous score	1.0
+laser	1.0
+the force	1.0
+mace windu character	1.0
+obi wan kenobi character	1.0
+darth vader character	1.0
+r2 d2 character	1.0
+emperor palpatine character	1.0
+yoda character	1.0
+c 3po character	1.0
+clone trooper character	1.0
+chewbacca character	1.0
+science fantasy	1.0
+third part	1.0
+balcony	1.0
+motion capture	1.0
+anakin skywalker character	1.0
+shared universe	1.0
+returning character killed off	1.0
+massacre	1.0
+coruscant the planet	1.0
+kashyyyk the planet	1.0
+planet tatooine	1.0
+twin suns	1.0
+padme amidala character	1.0
+evil	1.0
+utapau the planet	1.0
+alderaan the planet	1.0
+princess leia organa character	1.0
+luke skywalker character	1.0
+bail organa character	1.0
+count dooku character	1.0
+sith lord	1.0
+general grievous character	1.0
+epic	1.0
+blockbuster	1.0
+cult film	1.0
+cult classic	1.0
+orchestral music score	1.0
+symphonic music score	1.0
+psychotronic film	1.0
+part computer animation	1.0
+numbered sequel	1.0
+roman numbered sequel	1.0
+romantic balcony scene	1.0
+character says i have a bad feeling about this	1.0
+punctuation in title	1.0
+hyphen in title	1.0
+character says i hate you	1.0
+clone wars	1.0
+general	1.0
+rescue	1.0
+wookiee	1.0
+suffering	1.0
+childbirth	1.0
+premonition	1.0
+betrayal	1.0
+duel	1.0
+mustafar the planet	1.0
+hero turned evil	1.0
+villain escapes	1.0
+decapitated by an elevator	1.0
+jedi temple	1.0
+astromech droid	1.0
+borderline personality disorder	1.0
+force choke	1.0
+jedi youngling	1.0
+force lightning	1.0
+grabbed by the throat	1.0
+twins separated at birth	1.0
+leitmotif	1.0
+death in childbirth	1.0
+end of war	1.0
+dream	1.0
+mechanical hand	1.0
+tragic event	1.0
+expectant mother	1.0
+expectant father	1.0
+alien race	1.0
+domestic violence	1.0
+man on fire	1.0
+funeral procession	1.0
+temptation	1.0
+blood	1.0
+galactic war	1.0
+pregnant wife	1.0
+giving birth	1.0
+space opera	1.0
+death star	1.0
+volcano	1.0
+severed leg	1.0
+space battle	1.0
+telekinesis	1.0
+secret marriage	1.0
+prosthetic limb	1.0
+murder	1.0
+giant lizard	1.0
+shot to death	1.0
+shot in the back	1.0
+severed arm	1.0
+person on fire	1.0
+mass murder	1.0
+disfigured face	1.0
+decapitation	1.0
+alien	1.0
+emperor	1.0
+senator	1.0
+pregnancy	1.0
+armor	1.0
+tragedy	1.0
+warrior	1.0
+jedi knight	1.0
+saga	1.0
+martial arts	1.0
+wuxia fiction	0.5
+kung fu	0.3333333333333333
+explosion	Non
+hooded man	Non
+waking from a dream	Non
+electricity	Non
+communicator	Non
+beard	Non
+laser beam	Non
+weapon	Non
+leather gloves	Non
+actress reprises previous role	Non
+male protagonist	Non
+flying car	Non
+hovercar	Non
+weapons fire	Non
+handheld weapon	Non
+2000s	Non
+disability	Non
+opening crawl	Non
+good man	Non
+good woman	Non
+villain	Non
+evil man	Non
+old villain	Non
+tough girl	Non
+alien spacecraft	Non
+origin story	Non
+jar jar binks character	Non
+jedi council	Non
+darth sidious character	Non
+ki adi mundi character	Non
+nute gunray character	Non
+captain typho character	Non
+mas amedda character	Non
+clone commander cody character	Non
+plo koon character	Non
+saesee tiin character	Non
+mon mothma character	Non
+shaak ti character	Non
+kit fisto character	Non
+luminara unduli character	Non
+galactic senate	Non
+neimoidian	Non
+grand moff tarkin character	Non
+prequel to sequel	Non
+close up of eyes	Non
+terrible dialogue	Non
+roman numeral in title	Non
+subjective camera	Non
+character's point of view camera shot	Non
+character says i love you	Non
+colon in title	Non
+eight word title	Non
+cult figure	Non
+bad friend	Non
+cgi character in a live action movie	Non
+spaghetti western	Non
+space western	Non
+black armor	Non
+black cape	Non
+black mask	Non
+deep voice	Non
+directed by george lucas	Non
+written by george lucas	Non
+produced by george lucas	Non
+lucasfilm	Non
+music by john williams	Non
+disney star wars	Non
+disney	Non
+actor reprises previous role	Non
+protagonist becomes antagonist	Non
+clone	Non
+chancellor	Non
+army	Non
+fight	Non
+birth	Non
+hatred	Non
+attack	Non
+loss of both hands	Non
+loss of hand	Non
+loss of leg	Non
+loss of legs	Non
+loss of right hand	Non
+loss of left arm	Non
+african american	Non
+angry man	Non
+corruption	Non
+caucasian	Non
+medical droid	Non
+staff weapon	Non
+electrostaff	Non
+human female	Non
+human male	Non
+pau'an	Non
+protocol droid	Non
+robot versus robot	Non
+adopted daughter	Non
+death of wife	Non
+anger	Non
+trooper	Non
+human clone	Non
+ectogen	Non
+bad guys win	Non
+hate	Non
+male female relationship	Non
+robot decapitated	Non
+climbing on top of an elevator	Non
+hiding in plain sight	Non
+left for dead	Non
+gloved hand	Non
+starship	Non
+human versus robot	Non
+human versus machine	Non
+assassination	Non
+interplanetary adoption	Non
+political intrigue	Non
+buzz droid	Non
+kicked in the chest	Non
+choking someone	Non
+battle	Non
+kendo	Non
+disarming someone	Non
+laser gun	Non
+gunfight	Non
+showdown	Non
+sword duel	Non
+hand to hand combat	Non
+combat	Non
+action hero	Non
+hero	Non
+allegory of multiple historical events.	Non
+husband wife relationship	Non
+lifting a female into the air	Non
+lifting someone into the air	Non
+triple child murder	Non
+fictional war	Non
+torture	Non
+soldier	Non
+violence	Non
+humiliation	Non
+disciple	Non
+compassion	Non
+christ figure	Non
+melodrama	Non
+messiah	Non
+space war	Non
+space travel	Non
+space shuttle	Non
+warp speed	Non
+human alien	Non
+alien technology	Non
+alien language	Non
+alien contact	Non
+alien civilization	Non
+outer space	Non
+invented language	Non
+doctor	Non
+disguise	Non
+computer	Non
+destiny	Non
+warrior race	Non
+nightmare	Non
+temple	Non
+shootout	Non
+senate	Non
+loss of wife	Non
+ledge	Non
+hangar	Non
+funeral	Non
+farm	Non
+elevator	Non
+dream sequence	Non
+desert	Non
+twin	Non
+torso cut in half	Non
+sword and sorcery	Non
+surgery	Non
+stabbed in chest	Non
+stabbed in the back	Non
+shot in the chest	Non
+shame	Non
+severed hand	Non
+remorse	Non
+loss of friend	Non
+falling from height	Non
+exploding ship	Non
+evil robot	Non
+dismemberment	Non
+crushed to death	Non
+queen	Non
+spacecraft	Non
+planet	Non
+mentor	Non
+disfigurement	Non
+chosen one	Non
+sword fight	Non
+good versus evil	Non
+moral corruption	Non
+downfall	Non
+number in title	Non
+surprise ending	Non
+monster as victim	0.0

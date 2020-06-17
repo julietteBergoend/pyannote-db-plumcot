@@ -1,0 +1,362 @@
+famous twist	1.0
+rescue	1.0
+part of trilogy	1.0
+duel	1.0
+cave	1.0
+princess leia organa character	1.0
+famous score	1.0
+the force	1.0
+training	1.0
+outer space	1.0
+good versus evil	1.0
+bounty hunter	1.0
+space opera	1.0
+sword fight	1.0
+spaceship	1.0
+opening crawl	1.0
+epic	1.0
+brother sister kiss	1.0
+blockbuster	1.0
+orchestral music score	1.0
+sequel	1.0
+character says i have a bad feeling about this	1.0
+escape	1.0
+rebel	1.0
+swamp	1.0
+asteroid field	1.0
+rebel base	1.0
+millennium falcon	1.0
+snowy landscape	1.0
+wookiee	1.0
+hand cut off	1.0
+sword duel	1.0
+snowy planet	1.0
+secret base	1.0
+galactic war	1.0
+space battle	1.0
+telekinesis	1.0
+snow	1.0
+fraternal twins	1.0
+knocked unconscious	1.0
+creature	1.0
+upside down	1.0
+hanging upside down	1.0
+medical care	1.0
+falling	1.0
+ghost	1.0
+sparks	1.0
+teacher student relationship	1.0
+swamp planet	1.0
+mentor	1.0
+search party	1.0
+gold robot	1.0
+obi wan kenobi character	1.0
+darth vader character	1.0
+boba fett character	1.0
+lando calrissian character	1.0
+r2 d2 character	1.0
+emperor palpatine character	1.0
+han solo character	1.0
+c 3po character	1.0
+yoda character	1.0
+luke skywalker character	1.0
+chewbacca character	1.0
+science fantasy	1.0
+bad guys win	1.0
+mentoring	1.0
+alien	1.0
+super villain	1.0
+shared universe	1.0
+crawling inside a carcass for wamth	1.0
+lightsaber	1.0
+hero	1.0
+hoth the planet	1.0
+dagobah the planet	1.0
+reference to jabba the hutt	1.0
+bespin the planet	1.0
+reference to anakin skywalker	1.0
+cliffhanger ending	1.0
+shocking discovery	1.0
+cult film	1.0
+cult classic	1.0
+no opening credits	1.0
+voice over	1.0
+cult figure	1.0
+stop motion animation	1.0
+shut up with a kiss	1.0
+jedi	1.0
+princess	1.0
+empire	1.0
+at at walker	1.0
+jedi training	1.0
+droid	1.0
+galactic empire	1.0
+jedi master	1.0
+imperial star destroyer	1.0
+battle	1.0
+sibling kiss	1.0
+loss of hand	1.0
+x wing starfighter	1.0
+imperial stormtrooper	1.0
+snowspeeder	1.0
+lightsaber duel	1.0
+stormtrooper	1.0
+slave i	1.0
+tie fighter	1.0
+civil war	1.0
+space war	1.0
+evacuation	1.0
+entrails	1.0
+falling from height	1.0
+long time ago	1.0
+tragic villain	1.0
+space travel	1.0
+puppet	1.0
+asteroid	1.0
+robot	1.0
+trapdoor	1.0
+secret identity	1.0
+rebellion	1.0
+spacecraft	1.0
+tree	1.0
+brother sister romance	0.5
+brother sister incest	0.3333333333333333
+mauser c96 pistol	Non
+mauser	Non
+mauser pistol	Non
+fog	Non
+laser beam	Non
+laser	Non
+goggles	Non
+pilot	Non
+hung upside down	Non
+fire	Non
+flame	Non
+flames	Non
+bruise	Non
+bridge	Non
+custody	Non
+free fall	Non
+bounty	Non
+cooperation	Non
+weapon	Non
+premonition	Non
+sunken ship	Non
+friendship	Non
+air shaft	Non
+confrontation	Non
+group	Non
+leather gloves	Non
+automatic doors	Non
+steam	Non
+stormtrooper character	Non
+imperial officer character	Non
+actress reprises previous role	Non
+fifth part	Non
+weapons fire	Non
+male protagonist	Non
+actor reprises previous role	Non
+character says i love you	Non
+handheld weapon	Non
+gunfighter	Non
+shoulder holster	Non
+holster	Non
+shoulder	Non
+roman numeral in title	Non
+talking droid	Non
+disability	Non
+good man	Non
+good woman	Non
+heroine	Non
+old hero	Non
+tough girl	Non
+tough guy	Non
+two seater craft	Non
+pretty and professional	Non
+thin woman	Non
+slender woman	Non
+wedge antilles character	Non
+scoundrel	Non
+dengar character	Non
+symphonic music score	Non
+psychotronic film	Non
+bipedal robot	Non
+parallelism in sequel	Non
+subjective camera	Non
+slow motion	Non
+claim in title	Non
+spaghetti western	Non
+space western	Non
+reference to the good the bad and the ugly	Non
+sci fi western	Non
+1980s	Non
+roman numbered sequel	Non
+numbered sequel	Non
+punctuation in title	Non
+character's point of view camera shot	Non
+black cape	Non
+black mask	Non
+black armor	Non
+1980s film	Non
+deep voice	Non
+man tied up	Non
+prosthetic hand	Non
+artificial body part	Non
+prosthetic body part	Non
+humanoid droid	Non
+artificial hand	Non
+villain's secret revealed	Non
+sequel baiting	Non
+open ended	Non
+directed by irvin kershner	Non
+produced by george lucas	Non
+written by george lucas	Non
+written by lawrence kasdan	Non
+lucasfilm	Non
+disney star wars	Non
+disney	Non
+music by john williams	Non
+action girl	Non
+national film registry	Non
+attack	Non
+vision	Non
+capture	Non
+twin	Non
+brother sister relationship	Non
+headgear	Non
+angry man	Non
+anger	Non
+loss of right hand	Non
+loss of right arm	Non
+loss of arm	Non
+loss of all limbs	Non
+caucasian	Non
+electrobinoculars	Non
+x wing	Non
+rebel fleet	Non
+nebulon b frigate	Non
+frigate starship	Non
+green skin	Non
+small alien	Non
+green skinned alien	Non
+fighter bomber	Non
+gr 75 medium transport	Non
+transport starship	Non
+transport	Non
+surgical droid	Non
+planet viewed from outer space	Non
+ugnaught	Non
+imperial probe droid	Non
+cybernetic implant	Non
+lobot tech headgear	Non
+cybernetic headgear	Non
+blaster pistol	Non
+starship captain	Non
+at st walker	Non
+imperial starship	Non
+crash landing	Non
+command center	Non
+general	Non
+super star destroyer	Non
+tie bomber	Non
+starship bridge	Non
+exploding robot	Non
+frozen planet	Non
+arm cut off	Non
+levitating robot	Non
+admiral	Non
+cannon	Non
+protocol droid	Non
+starfighter pilot	Non
+abyss	Non
+spacecraft cockpit	Non
+human in outer space	Non
+talking robot	Non
+resistance fighter	Non
+frozen	Non
+humanoid robot	Non
+fire fight	Non
+starfighter	Non
+alien creature	Non
+father son fight	Non
+star destroyer	Non
+astromech droid	Non
+alien bounty hunter	Non
+fighter pilot	Non
+counter attack	Non
+friends who live together	Non
+rebel starship	Non
+mandalorian	Non
+probe droid	Non
+leitmotif	Non
+gunfight	Non
+shootout	Non
+soldier	Non
+fighting	Non
+monster	Non
+prisoner of war	Non
+explosion	Non
+pistol	Non
+swordsman	Non
+rescue mission	Non
+battlefield	Non
+fictional planet	Non
+war hero	Non
+quick draw	Non
+gun fu	Non
+gunslinger	Non
+showdown	Non
+kendo	Non
+ambush	Non
+disarming someone	Non
+aerial combat	Non
+laser gun	Non
+hand to hand combat	Non
+combat	Non
+action hero	Non
+allegory of multiple historical events.	Non
+turned to the dark side	Non
+family relationships	Non
+pleading	Non
+paternity revealed	Non
+fictional war	Non
+evil empire	Non
+hyperspace	Non
+frozen body	Non
+alien race	Non
+violence	Non
+dismemberment	Non
+fight	Non
+space shuttle	Non
+smuggler	Non
+jedi knight	Non
+computer	Non
+far far away	Non
+warrior	Non
+imagery	Non
+emperor	Non
+villain	Non
+floating city	Non
+spirituality	Non
+severed hand	Non
+reluctant hero	Non
+hologram	Non
+family saga	Non
+giant worm	Non
+android	Non
+strangulation	Non
+psychokinesis	Non
+saga	Non
+decapitation	Non
+future	Non
+father son relationship	Non
+power	Non
+betrayal	Non
+destiny	Non
+torture	Non
+tragedy	Non
+number in title	Non
+surprise ending	Non
+glacier	0.0
+wilhelm scream	0.0
+eaten alive	0.0

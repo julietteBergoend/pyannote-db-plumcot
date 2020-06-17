@@ -1,0 +1,48 @@
+hotel	Non
+nosebleed	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+hard drive	Non
+building explosion	Non
+explosion	Non
+bomb explosion	Non
+c4 explosives	Non
+shot through a wall	Non
+shootout	Non
+helicopter	Non
+british american cooperation	Non
+press statement	Non
+press conference	Non
+homeland security	Non
+death of a co worker	Non
+worrying about one's wife	Non
+mi6	Non
+disarming a person with a gun	Non
+disarming someone	Non
+dying man	Non
+hanging up on someone	Non
+tracing a telephone call	Non
+british in america	Non
+englishman abroad	Non
+british villain	Non
+englishman	Non
+health services	Non
+hazmat	Non
+worried husband	Non
+husband wife relationship	Non
+chief of staff	Non
+brother brother relationship	Non
+two brothers	Non
+virus	Non
+biothreat	Non
+quarantine	Non
+head of security	Non
+firing gun at ceiling	Non
+black u.s. president	Non

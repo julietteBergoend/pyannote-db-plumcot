@@ -1,0 +1,30 @@
+actor	Non
+airplane	Non
+father daughter relationship	Non
+marriage	Non
+mother daughter relationship	Non
+newlywed	Non
+pregnancy	Non
+jealousy	Non
+old flame	Non
+bathroom	Non
+airport	Non
+wedding	Non
+locking self in bathroom	Non
+return from vacation	Non
+group hug	Non
+butt slap	Non
+steak	Non
+in laws	Non
+long distance telephone call	Non
+wedding reception	Non
+marital argument	Non
+apology	Non
+punched in the stomach	Non
+american abroad	Non
+london england	Non
+character name in episode title	Non
+athens greece	Non
+secret relationship	Non
+honeymoon suite	Non
+wedding ceremony gone awry	Non

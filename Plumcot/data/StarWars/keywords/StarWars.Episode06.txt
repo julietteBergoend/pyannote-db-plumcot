@@ -1,0 +1,418 @@
+death star	1.0
+boba fett character	1.0
+emperor palpatine character	1.0
+woman wearing a bikini	1.0
+bikini	1.0
+gold bikini	1.0
+scantily clad female	1.0
+jedi knight	1.0
+bounty hunter	1.0
+final battle	1.0
+father son estrangement	1.0
+tragic villain	1.0
+brother sister relationship	1.0
+father son relationship	1.0
+space opera	1.0
+villain turns good	0.75
+mauser c96 pistol	1.0
+mauser pistol	1.0
+fraternal twins	1.0
+droid	1.0
+high speed chase	1.0
+fireworks	1.0
+r2 d2 character	1.0
+yoda character	1.0
+chewbacca character	1.0
+gunfighter	1.0
+mon mothma character	1.0
+opening crawl	1.0
+anakin skywalker character	1.0
+endor	1.0
+planet tatooine	1.0
+lightsaber	1.0
+forest	1.0
+millennium falcon	1.0
+c 3po character	1.0
+bare midriff	1.0
+visible midriff	1.0
+woman with a bare midriff	1.0
+female with a bare midriff	1.0
+girl with a bare midriff	1.0
+rebel	1.0
+empire	1.0
+emperor	1.0
+princess	1.0
+the force	1.0
+gangster	1.0
+rescue	1.0
+imperial star destroyer	1.0
+crime lord	1.0
+trap	1.0
+imperial stormtrooper	1.0
+jedi master	1.0
+speeder bike	1.0
+lightsaber duel	1.0
+slave	1.0
+chained by the neck	1.0
+chained woman	1.0
+tie fighter	1.0
+gladiatorial combat	1.0
+at st walker	1.0
+starship battle	1.0
+rescue attempt	1.0
+forest landscape	1.0
+character says i have a bad feeling about this	1.0
+force lightning	1.0
+orchestral music score	1.0
+victory	1.0
+sword duel	1.0
+stop motion animation	1.0
+jet pack	1.0
+sex slave	1.0
+famous score	1.0
+epic	1.0
+funeral pyre	1.0
+obi wan kenobi character	0.5
+lando calrissian character	0.5
+admiral ackbar character	0.5
+star wars	0.5
+luke skywalker character	0.5
+han solo character	0.5
+darth vader character	0.5
+princess leia organa character	0.5
+jabba the hutt character	0.5
+bestiality	0.5
+mauser	Non
+male alien	Non
+assault	Non
+fire	Non
+monster	Non
+flames	Non
+flame	Non
+weapon	Non
+creature	Non
+laser	Non
+laser beam	Non
+ghost	Non
+falling to death	Non
+tree	Non
+trees	Non
+leather gloves	Non
+spark	Non
+sparks	Non
+woods	Non
+campfire	Non
+hug	Non
+dance	Non
+automatic doors	Non
+gold robot	Non
+rebel general	Non
+general	Non
+male general	Non
+stormtrooper character	Non
+imperial officer character	Non
+science fantasy	Non
+actress reprises previous role	Non
+orphan	Non
+warrior princess	Non
+heroine	Non
+tomboy	Non
+male protagonist	Non
+weapons fire	Non
+super villain	Non
+scantily clad woman	Non
+sexiness	Non
+flaunting	Non
+handheld weapon	Non
+blind gunfighter	Non
+blind	Non
+long haired woman	Non
+woman	Non
+woman with long hair	Non
+feminine hair	Non
+long hair	Non
+long brown hair	Non
+1980s	Non
+disability	Non
+good man	Non
+good woman	Non
+villain	Non
+old hero	Non
+old villain	Non
+evil man	Non
+old age makeup	Non
+wedge antilles character	Non
+galactic empire	Non
+bib fortuna character	Non
+dengar character	Non
+good guys win	Non
+sixth part	Non
+emotional	Non
+electrocution	Non
+dogfight	Non
+desert	Non
+dungeon	Non
+laser gun	Non
+chains	Non
+jedi	Non
+voyeur	Non
+voyeurism	Non
+psychotronic film	Non
+spaghetti western	Non
+space western	Non
+space cowboy	Non
+reference to the good the bad and the ugly	Non
+sci fi western	Non
+fast motion scene	Non
+speed	Non
+forrest	Non
+workshop	Non
+translator	Non
+death of main character	Non
+mask	Non
+old man	Non
+elderly man	Non
+death	Non
+celebration	Non
+handcuffs	Non
+threat	Non
+son vs. father	Non
+carbonite	Non
+arrival	Non
+commander	Non
+palace	Non
+1980s film	Non
+male twi'lek	Non
+talking droid	Non
+man tied up	Non
+walking the plank	Non
+iced man	Non
+directed by richard marquand	Non
+written by george lucas	Non
+produced by george lucas	Non
+written by lawrence kasdan	Non
+disney star wars	Non
+disney	Non
+lucasfilm	Non
+music by john williams	Non
+action girl	Non
+thin	Non
+slender legs	Non
+desirable legs	Non
+battle	Non
+attack	Non
+evil	Non
+smuggler	Non
+moon	Non
+android	Non
+saga	Non
+twin	Non
+angry man	Non
+fight	Non
+anger	Non
+duel	Non
+planet killer	Non
+african american	Non
+loss of right hand	Non
+loss of hand	Non
+caucasian	Non
+star cruiser	Non
+mon calamari star cruiser	Non
+frigate starship	Non
+nebulon b frigate	Non
+shuttle	Non
+green skin	Non
+small alien	Non
+green skinned alien	Non
+scout trooper	Non
+tie interceptor	Non
+transport	Non
+gr 75 medium transport	Non
+transport starship	Non
+space navy	Non
+b wing starfighter	Non
+mon calamari	Non
+x wing starfighter	Non
+imperial fleet	Non
+repulsorcraft	Non
+a wing starfighter	Non
+human female	Non
+human male	Non
+human	Non
+imperial shuttle	Non
+blaster pistol	Non
+twi'lek	Non
+rebel fleet	Non
+starship fleet	Non
+imperial starship	Non
+super star destroyer	Non
+thermal detonator	Non
+y wing starfighter	Non
+protocol droid	Non
+starfighter pilot	Non
+cult classic	Non
+abyss	Non
+starship versus starship	Non
+human in outer space	Non
+spacecraft cockpit	Non
+strangled with a chain	Non
+slave collar	Non
+collar and leash	Non
+collar	Non
+public execution	Non
+chained prisoner	Non
+chained human	Non
+collar and chain	Non
+execution	Non
+saved from execution	Non
+talking robot	Non
+deep voice	Non
+gloved hand	Non
+stormtrooper	Non
+humanoid robot	Non
+fire fight	Non
+starfighter	Non
+father son fight	Non
+star destroyer	Non
+astromech droid	Non
+friends who live together	Non
+space smuggler	Non
+alien creature	Non
+female green skinned humanoid alien	Non
+female humanoid alien	Non
+humanoid alien	Non
+rebel starship	Non
+hanging bait	Non
+floating chair	Non
+mandalorian	Non
+wookiee	Non
+leitmotif	Non
+symphonic music score	Non
+end of trilogy	Non
+kicked down the stairs	Non
+fictional planet	Non
+sword	Non
+violence	Non
+kiss	Non
+gun battle	Non
+battlefield	Non
+gun fu	Non
+shootout	Non
+gunfight	Non
+showdown	Non
+disarming someone	Non
+war violence	Non
+mixed martial arts	Non
+hand to hand combat	Non
+combat	Non
+tough guy	Non
+tough girl	Non
+action hero	Non
+hero	Non
+parallelism in prequel	Non
+allegory of multiple historical events.	Non
+lifting male in air	Non
+subjective camera	Non
+lifting person in air	Non
+character's point of view camera shot	Non
+lifting someone into the air	Non
+lifting an adult into the air	Non
+elongated cry of no	Non
+punctuation in title	Non
+roman numbered sequel	Non
+roman numeral in title	Non
+numbered sequel	Non
+slapstick comedy	Non
+musical number	Non
+future	Non
+family relationships	Non
+falling from height	Non
+mistaken for god	Non
+scream	Non
+cult figure	Non
+fictional war	Non
+firework	Non
+evil empire	Non
+booby trap	Non
+ambush	Non
+frozen body	Non
+zoophilia	Non
+slop kissing	Non
+slime	Non
+metal bikini	Non
+licking	Non
+overweight	Non
+bondage	Non
+human alien sexual relations	Non
+galactic war	Non
+no opening credits	Non
+chained	Non
+electrical torture	Non
+messiah	Non
+dancing	Non
+outer space	Non
+invented language	Non
+fate of the universe	Non
+disguise	Non
+computer	Non
+alien civilization	Non
+long time ago	Non
+far far away	Non
+patricide	Non
+last words	Non
+man eating monster	Non
+wilhelm scream	Non
+death ray	Non
+warrior	Non
+promise	Non
+kindness	Non
+compassion	Non
+space battle	Non
+part of trilogy	Non
+planet	Non
+poetic justice	Non
+sorcerer	Non
+severed hand	Non
+blockbuster	Non
+hologram	Non
+returning character killed off	Non
+strangulation	Non
+psychokinesis	Non
+enslavement	Non
+robot	Non
+x rayed skeleton	Non
+alien	Non
+hang gliding	Non
+sword fight	Non
+christ allegory	Non
+tyrant	Non
+spacecraft	Non
+martial arts	Non
+explosion	Non
+desert planet	Non
+good versus evil	Non
+sequel	Non
+space station	Non
+cremation	Non
+tongue	Non
+space travel	Non
+eaten alive	Non
+puppet	Non
+giant monster	Non
+telekinesis	Non
+redemption	Non
+exotic dancer	Non
+destiny	Non
+chase	Non
+outrunning explosion	Non
+reverse footage	Non
+rebellion	Non
+tragedy	Non
+death of father	Non
+number in title	Non
+kendo	0.0
+warp speed	0.0
+swordplay	0.0
+female spy	0.0
+female fighter	0.0
+cult film	0.0

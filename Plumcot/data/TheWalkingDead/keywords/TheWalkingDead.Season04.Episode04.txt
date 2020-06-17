@@ -1,0 +1,30 @@
+alcohol	1.0
+car battery	1.0
+watch	1.0
+dislocated shoulder	1.0
+murder	1.0
+bandaged hand	1.0
+one word episode title	Non
+beaten to death	Non
+head bashed in	Non
+hit with a hammer	Non
+eaten alive	Non
+severed leg	Non
+hot wiring a car	Non
+cigarette smoking	Non
+photograph	Non
+falling down stairs	Non
+shot to death	Non
+shot in the forehead	Non
+decapitation	Non
+one day	Non
+severed arm	Non
+machete	Non
+gas station	Non
+river	Non
+stabbed to death	Non
+stabbed in the head	Non
+flashback	Non
+character repeating someone else's dialogue	Non
+knife	Non
+bare chested male	0.0

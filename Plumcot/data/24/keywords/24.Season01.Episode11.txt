@@ -1,0 +1,48 @@
+female murders a male	Non
+murderess	Non
+serbian	Non
+woman murders a man	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+husband wife relationship	Non
+chief of staff	Non
+bulletproof glass	Non
+parking garage	Non
+tiredness	Non
+spitting out pill	Non
+punched in the chest	Non
+breaking someone's wrist	Non
+disarming a person with a knife	Non
+attacked with a knife	Non
+microtech knife	Non
+switchblade	Non
+rearview mirror	Non
+elementary school	Non
+sunglasses	Non
+gun held to head	Non
+telling someone to shut up	Non
+chief executive officer	Non
+ceo	Non
+limo driver	Non
+limousine	Non
+limousine driver	Non
+locked in a room	Non
+mother daughter relationship	Non
+family held hostage	Non
+family in danger	Non
+daughter in danger	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+wife in danger	Non
+kidnapped daughter	Non
+kidnapped wife	Non
+presidential candidate	Non
+u.s. senator	Non

@@ -1,0 +1,49 @@
+virus	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+worried girlfriend	Non
+arms dealer	Non
+begging for life	Non
+telling someone to shut up	Non
+husband wife relationship	Non
+hit in the face	Non
+bid	Non
+auction	Non
+father daughter hug	Non
+boyfriend girlfriend relationship	Non
+arms tied overhead	Non
+screaming in pain	Non
+torture	Non
+physical torture	Non
+hit with a shovel	Non
+older sister younger brother relationship	Non
+drug addict	Non
+heroin addict	Non
+drug addiction	Non
+heroin addiction	Non
+drug withdrawal	Non
+heroin withdrawal	Non
+satellite telephone	Non
+speaking spanish	Non
+subtitled scene	Non
+blonde woman	Non
+neck bandage	Non
+mexican	Non
+mexico	Non
+undercover	Non
+undercover agent	Non
+undercover mission	Non
+secret mission	Non
+biothreat	Non
+press statement	Non
+brother brother relationship	Non
+two brothers	Non
+chief of staff	Non
+black u.s. president	Non
