@@ -1,0 +1,20 @@
+wedding	1.0
+play	1.0
+death of title character	1.0
+poisoning	Non
+wedding ceremony	Non
+down blouse	Non
+spilled wine	Non
+killed by a dog	Non
+chase	Non
+wedding gift	Non
+wine	Non
+burned at the stake	Non
+death by poison	Non
+murder at a wedding	Non
+wedding reception	Non
+animal in episode title	0.0
+pouring a drink on someone's head	0.0
+dove	0.0
+dead bird	0.0
+pie	0.0

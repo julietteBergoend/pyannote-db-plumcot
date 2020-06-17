@@ -1,0 +1,39 @@
+night watch	1.0
+killed by sword	1.0
+coronation	1.0
+fire	1.0
+snow	1.0
+swordplay	1.0
+lemon cake	0.5
+title directed by female	Non
+queen	Non
+slave	Non
+neck breaking	Non
+suspended by arms	Non
+cascade	Non
+backhand slap	Non
+sleeping in the open	Non
+betrayal	Non
+sword	Non
+aunt niece relationship	Non
+marriage	Non
+infidelity	Non
+loyalty	Non
+revenge	Non
+wolf	Non
+vision	Non
+hostage	Non
+violence against child	Non
+violence against women	Non
+conspiracy	Non
+dead rabbit	Non
+face slap	Non
+title spoken by character	Non
+very loud screaming during sex	0.0
+rabbit	0.0
+dessert	0.0
+present	0.0
+hugging	0.0
+overhearing sex	0.0
+listening to sex	0.0
+loud sex	0.0
