@@ -15,6 +15,10 @@ for attribute, default in [("speaker", "unavailable"),
     if not Token.has_extension(attribute):
         Token.set_extension(attribute, default=default)
 
+# normalized names we don't want to consider as annotated
+# note that this is not used here but is intended for downstream usage
+NA = {'UNKNOWN', 'multiple_persons'}
+
 
 class BaseLoader:
     """Base class for pyannote.db.plumcot loaders"""
