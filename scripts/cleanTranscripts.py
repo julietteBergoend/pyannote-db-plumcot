@@ -14,7 +14,6 @@ import codecs
 import os
 import re
 import sys
-import spacy
 
 # nlp = spacy.load('en_core_web_sm')
 sys.setrecursionlimit(90000)

@@ -1,6 +1,5 @@
 from pyannote.database import ProtocolFile
 from pathlib import Path
-from warnings import warn
 
 from spacy.gold import align
 from spacy.vocab import Vocab

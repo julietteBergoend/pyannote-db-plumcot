@@ -21,12 +21,13 @@ Options:
 * visualize: same as 'references' but saves figure with cropped faces
 """
 
-# Dependencies
-from docopt import docopt
 import json
 from pathlib import Path
-from image_scraping import main as scrap
+
+# Dependencies
+from docopt import docopt
 from image_features import *
+from image_scraping import main as scrap
 
 import Plumcot as PC
 

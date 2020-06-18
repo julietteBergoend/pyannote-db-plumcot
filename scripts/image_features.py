@@ -8,23 +8,22 @@ Extracts features from images given IMDB-compliant JSON file,
 
 # Dependencies
 
-## core
-import numpy as np
 import os
-from shutil import copyfile
 from pathlib import Path
+from shutil import copyfile
 
 ## ML/image processing
 import imageio
+## core
+import numpy as np
+## clustering
+from pyannote.core.utils.distance import pdist
+from pyannote.core.utils.hierarchy import linkage, fcluster_auto
 from pyannote.video import Face
 from pyannote.video.utils.scale_frame import scale_up_bbox, rectangle_to_bbox, \
     parts_to_landmarks
-
-## clustering
-from pyannote.core.utils.distance import pdist
-from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import fcluster
-from pyannote.core.utils.hierarchy import linkage, fcluster_auto
+from scipy.spatial.distance import squareform
 
 # Hyperparameters are defined in scripts/images.py
 MODEL_NAME = "dlib_face_recognition_resnet_model_v1"

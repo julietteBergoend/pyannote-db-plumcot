@@ -17,19 +17,17 @@ Options:
     --extension=<extension> Transcript file extension. Defaults to '.txt'
 """
 
-import pyannote.database
-from docopt import docopt
-from Plumcot import Plumcot
-import affinegap
-import numpy as np
-from scipy.optimize import linear_sum_assignment
-import os.path
-from pathlib import Path
-import Plumcot as PC
 import json
-import warnings
+import os.path
 import readline
+import warnings
+from pathlib import Path
+
+from docopt import docopt
 from termcolor import colored
+
+import Plumcot as PC
+from Plumcot import Plumcot
 
 
 def input_with_prefill(prompt, text):

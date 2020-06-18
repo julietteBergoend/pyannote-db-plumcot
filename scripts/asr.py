@@ -10,19 +10,18 @@ asr.py evaluate <protocol> [--subset=<subset>]
 --subset=<subset> Serie subset, defaults to 'test'.
 """
 
-from pathlib import Path
-from docopt import docopt
 import re
-from tqdm import tqdm
-
-from pyannote.database import get_protocol, FileFinder
-import pyannote.database
-import Plumcot as PC
+import wave
+from pathlib import Path
 
 import numpy as np
-import wave
 from deepspeech import Model
+from docopt import docopt
+from pyannote.database import get_protocol, FileFinder
 from spacy.gold import align
+from tqdm import tqdm
+
+import Plumcot as PC
 
 DATA_PATH = Path(PC.__file__).parent / 'data'
 

@@ -1,20 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import numpy as np
-import os
-from pathlib import Path
-import json
-import warnings
-import json
 import re
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 from bs4.element import NavigableString
-
-import pyannote.database
-from Plumcot import Plumcot
 
 scripts_url = "http://www.ageofthering.com/atthemovies/scripts/"
 import Plumcot as PC

@@ -4,11 +4,10 @@
 raise NotImplementedError(
     "this script is a work in progress and shouldn't be executed as is.")
 
-import re
 import os
-import pyannote.database
+import re
 from pathlib import Path
-import pyannote.database
+
 import Plumcot as PC
 
 DATA_PATH = Path(PC.__file__).parent / "data"

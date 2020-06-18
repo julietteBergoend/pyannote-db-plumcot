@@ -15,19 +15,18 @@ raise NotImplementedError(msg)
 
 import os
 from os import path
-import nltk
-from nltk.stem import WordNetLemmatizer
-import pandas as pd
+
 import en_core_web_sm
+import nltk
+import pandas as pd
+from nltk.stem import WordNetLemmatizer
 
 nlp = en_core_web_sm.load()
 import operator
 from tempfile import mkstemp
 from shutil import move, copymode
 from os import fdopen, remove
-import json
 import re
-import ast
 
 SERIE = "HarryPotter"
 SEASON = "Episode02"

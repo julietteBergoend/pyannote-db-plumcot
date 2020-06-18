@@ -23,14 +23,14 @@ Options:
 
 import os
 from pathlib import Path
-from docopt import docopt
-import numpy as np
 
-from pyannote.database.util import load_rttm
-from pyannote.video.face.clustering import FaceClustering
-from pyannote.metrics.diarization import DiarizationErrorRate
+import numpy as np
+from docopt import docopt
 from image_features import CLUSTERING_THRESHOLD
-import pyannote.database
+from pyannote.database.util import load_rttm
+from pyannote.metrics.diarization import DiarizationErrorRate
+from pyannote.video.face.clustering import FaceClustering
+
 import Plumcot as PC
 
 DATA_PATH = Path(PC.__file__).parent / "data"

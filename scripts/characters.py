@@ -14,18 +14,19 @@ Options:
                          Defaults to processing all `series`
 """
 
-import requests
-from bs4 import BeautifulSoup
 import codecs  # for encoding the data as utf-8
-import unidecode
-import re
 import json
-from docopt import docopt
+import re
+from pathlib import Path
+
 import numpy as np
-import pyannote.database
+import requests
+import unidecode
+from bs4 import BeautifulSoup
+from docopt import docopt
+
 import Plumcot as PC
 from Plumcot import Plumcot
-from pathlib import Path
 
 DATA_PATH = Path(PC.__file__).parent / "data"
 

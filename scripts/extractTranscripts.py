@@ -6,17 +6,16 @@ Apologies for the french comments
 @author: Sharleyne Lefevre
 @author: Paul Lerner
 """
-from bs4 import BeautifulSoup
-import urllib.request
-import re
-from urllib.parse import urlparse
 import codecs
-import os
+import re
 import sys
+import urllib.request
+from urllib.parse import urlparse
+
+from bs4 import BeautifulSoup
 
 sys.setrecursionlimit(90000)
 
-import pyannote.database
 import Plumcot as PC
 from pathlib import Path
 

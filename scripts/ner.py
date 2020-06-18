@@ -7,15 +7,14 @@ ner.py [--uri=<uri> -v -vv]
 -v          Sets the verbosity level: more Vs, more verbose. Defaults to quiet.
 """
 
-from pathlib import Path
-from docopt import docopt
 import sys
-
-from pyannote.database import get_protocol
-import pyannote.database
-import Plumcot as PC
+from pathlib import Path
 
 import spacy
+from docopt import docopt
+from pyannote.database import get_protocol
+
+import Plumcot as PC
 
 spacy.prefer_gpu()
 from spacy.gold import align

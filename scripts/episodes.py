@@ -12,17 +12,17 @@ Options:
     -c                   creates credits.txt file (needs characters.txt)
 """
 
-from docopt import docopt
 import codecs  # for encoding the data as utf-8
-import requests
-from bs4 import BeautifulSoup
-from collections import OrderedDict
-import unidecode
 import re
-import numpy as np
-import pyannote.database
-import Plumcot as PC
+from collections import OrderedDict
 from pathlib import Path
+
+import requests
+import unidecode
+from bs4 import BeautifulSoup
+from docopt import docopt
+
+import Plumcot as PC
 
 DATA_PATH = Path(PC.__file__).parent / "data"
 
