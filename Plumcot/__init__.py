@@ -31,8 +31,6 @@ from ._version import get_versions
 __version__ = get_versions()['version']
 del get_versions
 
-from pyannote.database import Database
-from pyannote.database.protocol import CollectionProtocol
 from pathlib import Path
 import pandas as pd
 import glob
@@ -40,20 +38,8 @@ import os
 import json
 import numpy as np
 
-class BaseEpisodes(CollectionProtocol):
-    """Base class of collection protocols"""
 
-    def files_iter(self):
-        """Iterate over all episodes of a series"""
-        path = Path(__file__).parent / f'data/{self.SERIES}/episodes.txt'
-        with open(path, mode='r') as fp:
-            lines = fp.readlines()
-        for line in lines:
-            uri = line.split(',')[0]
-            yield {'uri': uri, 'database': 'Plumcot'}
-
-
-class Plumcot(Database):
+class Plumcot:
     """Plumcot database"""
 
     def read_credits(self, path,separator=","):
@@ -250,6 +236,7 @@ class Plumcot(Database):
         with open(path, mode='r') as fp:
             data = pd.read_csv(fp, sep=',', header=None,
                                names=names, converters={'movies': bool})
+        self.series = data
 
         #fields in characters.txt
         self.fields = {
@@ -262,10 +249,3 @@ class Plumcot(Database):
 
         #generic nouns in transcripts (*.temp)
         self.SPECIAL_NOUNS={"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}
-
-        # for each series, create and register a collection protocol
-        # used to iterate over all episodes in chronological order
-        for series in data.itertuples():
-            Klass = type(series.short_name, (BaseEpisodes, ),
-                         {'SERIES': series.short_name})
-            self.register_protocol('Collection', series.short_name, Klass)

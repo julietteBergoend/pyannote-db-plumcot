@@ -223,7 +223,7 @@ def find_duplicates(series,serie,actors=False,write = False):
 def count(serie,actors=False):
     db = Plumcot()
     counter = {}
-    for idSeries in db.get_protocols("Collection"):
+    for idSeries in db.series['short_name']:
         if not serie or idSeries == serie:
             field = 'actor_uri' if actors else 'character_uri'
             serie_characters=db.get_characters(idSeries, field=field)

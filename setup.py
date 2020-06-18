@@ -82,9 +82,6 @@ setup(
         "Topic :: Scientific/Engineering"
     ],
     entry_points={
-        "pyannote.database.databases": [
-            "Plumcot = Plumcot:Plumcot",
-            ],
         "pyannote.database.loader": [
             ".txt = Plumcot.loader:TxtLoader",
             ".aligned = Plumcot.loader:AlignedLoader",
