@@ -16,7 +16,8 @@ for attribute, default in [("speaker", "unavailable"),
 
 # normalized names we don't want to consider as annotated
 # note that this is not used here but is intended for downstream usage
-NA = {'UNKNOWN', 'multiple_persons'}
+MULTIPLE_PERSONS = 'multiple_persons'
+NA = {'UNKNOWN', MULTIPLE_PERSONS}
 
 
 class BaseLoader:
@@ -114,11 +115,9 @@ class CsvLoader(BaseLoader):
                 continue
             # HACK: using ';' as csv delimiter was a bad idea :)
             if len(line.split(';')) == 16:
-                _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(
-                    ';')
+                _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
             elif len(line.split(';')) == 18:
-                _, _, token, _, _, pos_, tag_, dep_, _, lemma_, _, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(
-                    ';')
+                _, _, token, _, _, pos_, tag_, dep_, _, lemma_, _, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
                 token, lemma_ = ';', ';'
             else:
                 msg = (
@@ -131,6 +130,13 @@ class CsvLoader(BaseLoader):
             # first token of each line includes speaker names
             token = token[token.find(' ') + 1:]
             tokens.append(token)
+
+            # HACK, originally mentions referring to several entities were annotated like
+            # "<entityA>-<entityB>". Since this was too costly we then annotated as
+            # "multiple_persons". So they're converted here for consistency and also
+            # a spaCy Token can only have one ent_kb_id_
+            if '-' in ent_kb_id_:
+                ent_kb_id_ = MULTIPLE_PERSONS
 
             # HACK: we only annotated person-named entities
             # but ent_type was set automatically, so we always set it to 'PERSON'
@@ -151,8 +157,7 @@ class CsvLoader(BaseLoader):
                                                  attributes)
         # else return named-entities without forced-alignment annotation
         current_transcription = Doc(Vocab(), tokens)
-        for token, (pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker) in zip(
-                current_transcription, attributes):
+        for token, (pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker) in zip(current_transcription, attributes):
             token.pos_, token.tag_, token.dep_, token.lemma_, token.ent_type_, token.ent_kb_id_, token._.speaker = \
                 pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker
 
@@ -192,20 +197,17 @@ def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes)
             # HACK if not matched then should be previous+1
             # Note: if at some point spacy.gold.align handles insertions their implementation
             # will probably be better than this ;)
-            pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[
-                previous + 1]
+            pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[previous + 1]
             current_transcription[i].pos_, current_transcription[i].tag_, \
-            current_transcription[i].dep_, \
-            current_transcription[i].lemma_, current_transcription[i].ent_type_, \
-            current_transcription[i].ent_kb_id_ = \
+            current_transcription[i].dep_, current_transcription[i].lemma_, \
+            current_transcription[i].ent_type_, current_transcription[i].ent_kb_id_ = \
                 pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_
             continue
         previous = j
         pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[j]
         current_transcription[i].pos_, current_transcription[i].tag_, \
-        current_transcription[i].dep_, \
-        current_transcription[i].lemma_, current_transcription[i].ent_type_, \
-        current_transcription[i].ent_kb_id_ = \
+        current_transcription[i].dep_, current_transcription[i].lemma_, \
+        current_transcription[i].ent_type_, current_transcription[i].ent_kb_id_ = \
             pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_
 
     return current_transcription
