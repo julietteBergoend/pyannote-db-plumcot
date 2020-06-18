@@ -15,6 +15,7 @@ for attribute, default in [("speaker", "unavailable"),
     if not Token.has_extension(attribute):
         Token.set_extension(attribute, default=default)
 
+
 class BaseLoader:
     """Base class for pyannote.db.plumcot loaders"""
 
@@ -26,6 +27,7 @@ class BaseLoader:
                f'__call__ method, loading {self.path} in a '
                f'{Doc.__name__} ')
         raise NotImplementedError(msg)
+
 
 class AlignedLoader(BaseLoader):
     """Loads forced-alignment (i.e. timestamped transcripts) in the .aligned format
@@ -47,10 +49,12 @@ class AlignedLoader(BaseLoader):
             attributes.append((speaker, start, end, confidence))
 
         current_transcription = Doc(Vocab(), tokens)
-        for token, (speaker, time_start, time_end, confidence) in zip(current_transcription, attributes):
+        for token, (speaker, time_start, time_end, confidence) in zip(
+                current_transcription, attributes):
             token._.speaker, token._.time_start, token._.time_end, token._.confidence = speaker, time_start, time_end, confidence
 
         return current_transcription
+
 
 class TxtLoader(BaseLoader):
     """Loads transcripts in the .txt format described in pyannote.db.plumcot
@@ -82,6 +86,7 @@ class TxtLoader(BaseLoader):
 
         return current_transcription
 
+
 class CsvLoader(BaseLoader):
     """Loads named entities annotations in the .csv format
     described in pyannote.db.plumcot in a spaCy Doc
@@ -106,13 +111,16 @@ class CsvLoader(BaseLoader):
                 continue
             # HACK: using ';' as csv delimiter was a bad idea :)
             if len(line.split(';')) == 16:
-                _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+                _, _, token, _, pos_, tag_, dep_, _, lemma_, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(
+                    ';')
             elif len(line.split(';')) == 18:
-                _, _, token, _, _, pos_, tag_, dep_, _, lemma_, _, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(';')
+                _, _, token, _, _, pos_, tag_, dep_, _, lemma_, _, speaker, ent_type_, _, _, _, _, ent_kb_id_ = line.split(
+                    ';')
                 token, lemma_ = ';', ';'
             else:
-                msg = (f'The following line of {self.path} has an incorrect number of fields '
-                       f'(expected 16, got {len(line.split(";"))}):\n{line}')
+                msg = (
+                    f'The following line of {self.path} has an incorrect number of fields '
+                    f'(expected 16, got {len(line.split(";"))}):\n{line}')
                 raise ValueError(msg)
             # remove empty lines
             if token == '':
@@ -140,11 +148,13 @@ class CsvLoader(BaseLoader):
                                                  attributes)
         # else return named-entities without forced-alignment annotation
         current_transcription = Doc(Vocab(), tokens)
-        for token, (pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker) in zip(current_transcription, attributes):
+        for token, (pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker) in zip(
+                current_transcription, attributes):
             token.pos_, token.tag_, token.dep_, token.lemma_, token.ent_type_, token.ent_kb_id_, token._.speaker = \
                 pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, speaker
 
         return current_transcription
+
 
 def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes):
     """Add named-entities attributes to current_transcription
@@ -179,7 +189,8 @@ def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes)
             # HACK if not matched then should be previous+1
             # Note: if at some point spacy.gold.align handles insertions their implementation
             # will probably be better than this ;)
-            pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[previous+1]
+            pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[
+                previous + 1]
             current_transcription[i].pos_, current_transcription[i].tag_, \
             current_transcription[i].dep_, \
             current_transcription[i].lemma_, current_transcription[i].ent_type_, \
@@ -188,8 +199,10 @@ def merge_transcriptions_entities(current_transcription, e_tokens, e_attributes)
             continue
         previous = j
         pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_, _ = e_attributes[j]
-        current_transcription[i].pos_, current_transcription[i].tag_, current_transcription[i].dep_, \
-        current_transcription[i].lemma_, current_transcription[i].ent_type_, current_transcription[i].ent_kb_id_ = \
+        current_transcription[i].pos_, current_transcription[i].tag_, \
+        current_transcription[i].dep_, \
+        current_transcription[i].lemma_, current_transcription[i].ent_type_, \
+        current_transcription[i].ent_kb_id_ = \
             pos_, tag_, dep_, lemma_, ent_type_, ent_kb_id_
 
     return current_transcription

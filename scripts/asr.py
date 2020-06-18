@@ -29,14 +29,16 @@ DATA_PATH = Path(PC.__file__).parent / 'data'
 # same as string.punctuation without "'"
 PUNCTUATION = '!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~'
 
+
 def run(subset, output_path, model):
     for current_file in subset:
         fin = wave.open(str(current_file['audio']), 'rb')
         audio = np.frombuffer(fin.readframes(fin.getnframes()), np.int16)
         fin.close()
         output = model.stt(audio)
-        with open(str(output_path/current_file['uri'])+'.txt', 'w') as file:
+        with open(str(output_path / current_file['uri']) + '.txt', 'w') as file:
             file.write(output)
+
 
 def levenshtein(a, b):
     "Calculates the Levenshtein distance between a and b."
@@ -61,16 +63,17 @@ def evaluate(subset, output_path):
         transcription = transcription.translate(str.maketrans('', '', PUNCTUATION))
         # 3. remove extra whitespaces
         transcription = re.sub(' +', ' ', transcription)
-        
+
         cer = levenshtein(transcription, hypothesis) / len(transcription)
-        wer = levenshtein(transcription.split(), hypothesis.split()) / len(transcription.split())
-        print(f"{uri} & {cer*100:.2f} & {wer*100:.2f} \\\\")
+        wer = levenshtein(transcription.split(), hypothesis.split()) / len(
+            transcription.split())
+        print(f"{uri} & {cer * 100:.2f} & {wer * 100:.2f} \\\\")
         CER.append(cer)
         WER.append(wer)
-    print('TOTAL', end = " & ")
+    print('TOTAL', end=" & ")
     for metric in [CER, WER]:
         mean, std = np.mean(metric), np.std(metric)
-        print(f'{mean*100:.2f} $\\pm$ {std*100:.2f}', end=" & ")
+        print(f'{mean * 100:.2f} $\\pm$ {std * 100:.2f}', end=" & ")
 
 
 if __name__ == '__main__':
@@ -89,11 +92,8 @@ if __name__ == '__main__':
         model_path = args['<model>']
         model = Model(model_path)
         model.enableExternalScorer(args['<scorer>'])
-        print(f"Running {model_path} on {subset_name} subset of {protocol_name} protocol.")
+        print(
+            f"Running {model_path} on {subset_name} subset of {protocol_name} protocol.")
         run(subset, output_path, model)
     if args['evaluate']:
         evaluate(subset, output_path)
-
-
-
-

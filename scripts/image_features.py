@@ -153,6 +153,7 @@ def compute_features(image_jsons, MODEL_NAME, DLIB_LANDMARKS, DLIB_EMBEDDING):
     ))
     return image_jsons
 
+
 def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
                        KEEP_IMAGE_TYPES=None, keep_faces=False):
     """
@@ -196,7 +197,8 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
 
     # Clusters over every image in image_jsons
     for i, image in enumerate(image_jsons['allImages']):
-        print((f"\rimage {i + 1}/{image_jsons['totalImageCount']}."), end="                    ")
+        print((f"\rimage {i + 1}/{image_jsons['totalImageCount']}."),
+              end="                    ")
         if 'features' not in image:
             continue
         if KEEP_IMAGE_TYPES is not None and image['imageType'] not in KEEP_IMAGE_TYPES:

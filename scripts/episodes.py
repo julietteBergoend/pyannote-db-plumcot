@@ -23,7 +23,9 @@ import numpy as np
 import pyannote.database
 import Plumcot as PC
 from pathlib import Path
-DATA_PATH=Path(PC.__file__).parent / "data"
+
+DATA_PATH = Path(PC.__file__).parent / "data"
+
 
 def normalizeName(fullName):
     """Normalizes characters and actors names.
@@ -195,7 +197,7 @@ def initDicChars(idSeries):
     """
     dicChars = OrderedDict()
 
-    with open(DATA_PATH/idSeries/"characters.txt", 'r') as chars:
+    with open(DATA_PATH / idSeries / "characters.txt", 'r') as chars:
         for charLine in chars:
             charSp = charLine.split(',')
             key = charSp[1]
@@ -229,7 +231,7 @@ def main(args):
                     writeData(idSeries, dataCredits, "credits.txt")
 
             if credit and isMovie and (not serie or idSeries == serie):
-                with open(DATA_PATH/idSeries/"episodes.txt", 'r') as movies:
+                with open(DATA_PATH / idSeries / "episodes.txt", 'r') as movies:
                     dataMovie = ""
                     for movie in movies:
                         movieSp = movie.split(',')

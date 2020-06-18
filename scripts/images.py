@@ -47,7 +47,8 @@ IMAGE_CLASS = "pswp__img"
 if __name__ == '__main__':
     args = docopt(__doc__)
     uri = args['--uri']
-    main = not (args['scrap'] or args['features'] or args['references'] or args['visualize'])
+    main = not (args['scrap'] or args['features'] or args['references'] or args[
+        'visualize'])
     with open(os.path.join(DATA_PATH, "series.txt")) as file:
         series = file.readlines()
     for serie in series:
@@ -63,24 +64,30 @@ if __name__ == '__main__':
         CHARACTERS_PATH = os.path.join(DATA_PATH, SERIE_URI, 'characters.txt')
         IMAGE_PATH = Path(DATA_PATH, SERIE_URI, 'images')
         if args['scrap'] or main:
-            scrap(SERIE_URI, SERIE_IMDB_URL, IMAGE_PATH, CHARACTERS_PATH, N_COL, SEPARATOR, IMAGE_FORMAT)
+            scrap(SERIE_URI, SERIE_IMDB_URL, IMAGE_PATH, CHARACTERS_PATH, N_COL,
+                  SEPARATOR, IMAGE_FORMAT)
         if args['features'] or main:
             with open(os.path.join(IMAGE_PATH, "images.json"), "r") as file:
                 image_jsons = json.load(file)
-            image_jsons = compute_features(image_jsons, MODEL_NAME, DLIB_LANDMARKS, DLIB_EMBEDDING)
+            image_jsons = compute_features(image_jsons, MODEL_NAME, DLIB_LANDMARKS,
+                                           DLIB_EMBEDDING)
             with open(os.path.join(IMAGE_PATH, "images.json"), "w") as file:
                 json.dump(image_jsons, file)
         if args['references'] or main:
             with open(os.path.join(IMAGE_PATH, "images.json"), "r") as file:
                 image_jsons = json.load(file)
-            image_jsons = compute_references(image_jsons, IMAGE_PATH, CLUSTERING_THRESHOLD,
-                                             CLUSTERING_METHOD, KEEP_IMAGE_TYPES, keep_faces=False)
+            image_jsons = compute_references(image_jsons, IMAGE_PATH,
+                                             CLUSTERING_THRESHOLD,
+                                             CLUSTERING_METHOD, KEEP_IMAGE_TYPES,
+                                             keep_faces=False)
             with open(os.path.join(IMAGE_PATH, "images.json"), "w") as file:
                 json.dump(image_jsons, file)
         if args['visualize'] or main:
             with open(os.path.join(IMAGE_PATH, "images.json"), "r") as file:
                 image_jsons = json.load(file)
-            image_jsons = compute_references(image_jsons, IMAGE_PATH, CLUSTERING_THRESHOLD,
-                                             CLUSTERING_METHOD, KEEP_IMAGE_TYPES, keep_faces=True)
+            image_jsons = compute_references(image_jsons, IMAGE_PATH,
+                                             CLUSTERING_THRESHOLD,
+                                             CLUSTERING_METHOD, KEEP_IMAGE_TYPES,
+                                             keep_faces=True)
             with open(os.path.join(IMAGE_PATH, "images.json"), "w") as file:
                 json.dump(image_jsons, file)

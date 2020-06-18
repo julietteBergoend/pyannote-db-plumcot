@@ -31,14 +31,17 @@ import warnings
 import readline
 from termcolor import colored
 
+
 def input_with_prefill(prompt, text):
     def hook():
         readline.insert_text(text)
         readline.redisplay()
+
     readline.set_pre_input_hook(hook)
     result = input(prompt)
     readline.set_pre_input_hook()
     return result
+
 
 def automatic_alignment(id_series, id_ep, refsT, hypsT):
     """Aligns IMDB character's names with transcripts characters names.
@@ -68,8 +71,8 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
     refs = refsT.copy()
 
     # Loading user previous matching names
-    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
-        / 'transcripts' / 'names_dict.json'
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}' \
+               / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             save_dict = json.load(f)
@@ -85,17 +88,18 @@ def automatic_alignment(id_series, id_ep, refsT, hypsT):
                     if save_dict[trans_name] in hyps:
                         hyps.remove(save_dict[trans_name])
 
-    #naive sub-string match: TODO improve
+    # naive sub-string match: TODO improve
     for trans_char in refs:
         for suggestion in hyps:
             if trans_char.lower() in suggestion:
-                names_dict[trans_char]=suggestion
+                names_dict[trans_char] = suggestion
                 break
         if trans_char not in names_dict:
-            #none of imdb character matches -> unknown character
+            # none of imdb character matches -> unknown character
             names_dict[trans_char] = unknown_char(trans_char, id_ep)
 
     return names_dict
+
 
 def check_files(id_series, season_number, episode_number, extension=".txt"):
     """Check the difference in file names between IMDb and transcripts
@@ -120,18 +124,19 @@ def check_files(id_series, season_number, episode_number, extension=".txt"):
 
     # Retrieve transcripts normalized character names
     trans_chars_series = db.get_transcript_characters(id_series, season_number,
-                                                      episode_number,extension=extension)
+                                                      episode_number, extension=extension)
 
     for episode_uri in imdb_chars_series:
-        imdb=imdb_chars_series.get(episode_uri)
+        imdb = imdb_chars_series.get(episode_uri)
         if imdb is None:
             warnings.warn(f"{episode_uri} is not IMDB")
             continue
-        transcripts=trans_chars_series.get(episode_uri)
+        transcripts = trans_chars_series.get(episode_uri)
         if transcripts is None:
             warnings.warn(f"{episode_uri} is not transcripts")
             continue
     print("Done. (no warnings means everything went okay)")
+
 
 def check_normalized_names(id_series, season_number, episode_number):
     """Check normalized names. Print the difference between IMDb and transcripts
@@ -154,28 +159,30 @@ def check_normalized_names(id_series, season_number, episode_number):
 
     # Retrieve transcripts normalized character names
     trans_chars_series = db.get_transcript_characters(id_series, season_number,
-                                                      episode_number,extension=".txt")
+                                                      episode_number, extension=".txt")
 
     for episode_uri in imdb_chars_series:
-        print("\n"+episode_uri)
-        imdb=imdb_chars_series.get(episode_uri)
+        print("\n" + episode_uri)
+        imdb = imdb_chars_series.get(episode_uri)
         if imdb is None:
             warnings.warn(f"{episode_uri} is not IMDB, jumping to next episode")
             continue
         else:
-            imdb=set(imdb)
-        transcripts=trans_chars_series.get(episode_uri)
+            imdb = set(imdb)
+        transcripts = trans_chars_series.get(episode_uri)
         if transcripts is None:
             warnings.warn(f"{episode_uri} is not transcripts, jumping to next episode")
             continue
         else:
-            transcripts=set([char for char in transcripts if "#unknown#" not in char and "@" not in char])
+            transcripts = set([char for char in transcripts if
+                               "#unknown#" not in char and "@" not in char])
         print("In imdb but not in transcripts:")
-        print(imdb-transcripts)
+        print(imdb - transcripts)
         print("In transcripts but not imdb (not counting #unknown# and alice@bob):")
-        print(transcripts-imdb)
+        print(transcripts - imdb)
 
-def normalize_names(id_series, season_number, episode_number, verbose = True):
+
+def normalize_names(id_series, season_number, episode_number, verbose=True):
     """Manual normalization.
 
     Parameters
@@ -206,8 +213,8 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                                                       episode_number)
 
     # Loading user previous matching names
-    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
-        / 'transcripts' / 'names_dict.json'
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}' \
+               / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             old_matches = json.load(f)
@@ -222,10 +229,10 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         total_appearances = {}
         for ep_appearances in trans_chars_series.values():
             for character, appearence in ep_appearances.items():
-                total_appearances.setdefault(character,0)
+                total_appearances.setdefault(character, 0)
                 total_appearances[character] += appearence
-        link = Path(PC.__file__).parent / 'data' / f'{id_series}'\
-            / 'transcripts' / f'{id_ep}.txt'
+        link = Path(PC.__file__).parent / 'data' / f'{id_series}' \
+               / 'transcripts' / f'{id_ep}.txt'
         # If episode has already been processed
         if os.path.isfile(link):
             exists = f"{id_ep} already processed. y to processe, [n] to skip: "
@@ -237,7 +244,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
         dic_names = automatic_alignment(id_series, id_ep, trans_chars,
                                         imdb_chars)
         save = True
-        names_matched={}
+        names_matched = {}
         # User input loop
         while True:
             print(f"----------------------------\n{id_ep}. Here is the list "
@@ -250,17 +257,19 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
                 appearence = trans_chars[name]
                 total_appearance = total_appearances[name]
                 previously_matched = old_matches.get(name)
-                if previously_matched :
-                   previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
-                   names_matched[name]=previously_matched
+                if previously_matched:
+                    previously_matched = False if "#unknown" in previously_matched or "@" in previously_matched else previously_matched
+                    names_matched[name] = previously_matched
                 if (previously_matched or name == norm_name or names_matched.get(name)):
-                    color='green'
+                    color = 'green'
                 else:
-                    color='red'
+                    color = 'red'
                 if (previously_matched or name == norm_name) and not verbose:
                     pass
                 else:
-                    print(colored(f"{name} ({appearence}, {total_appearance})  ->  {norm_name}",color))
+                    print(colored(
+                        f"{name} ({appearence}, {total_appearance})  ->  {norm_name}",
+                        color))
             request = input("\nType the name of the character which you want "
                             "to change normalized name (end to save, stop "
                             "to skip, unk to unknownize every character that didn't match): ")
@@ -271,25 +280,25 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
             if request == "stop" or request == "skip":
                 save = False
                 break
-            #all un-assigned -> unknown
+            # all un-assigned -> unknown
             if request == "unk":
                 for name in dic_names:
                     if not names_matched.get(name):
                         new_name = unknown_char(name, id_ep)
-                        dic_names[name]=new_name
+                        dic_names[name] = new_name
             # Wrong name
             if request not in dic_names:
                 warnings.warn("This name doesn't match with any characters.\n")
             else:
-                prefill=""
-                prompt=("\nType the new character's name "
-                        "(unk for unknown character): ")
+                prefill = ""
+                prompt = ("\nType the new character's name "
+                          "(unk for unknown character): ")
                 new_name = input_with_prefill(prompt, prefill)
                 # Unknown character
                 if new_name == "unk" or not new_name:
                     new_name = unknown_char(request, id_ep)
                 dic_names[request] = new_name
-                names_matched[request]=True
+                names_matched[request] = True
 
         # Save changes and create .txt file
         if save:
@@ -299,7 +308,7 @@ def normalize_names(id_series, season_number, episode_number, verbose = True):
 
 def unknown_char(char_name, id_ep):
     """Transforms character name into unknown version."""
-    if "#unknown#" in char_name:#trick when re-processing already processed files
+    if "#unknown#" in char_name:  # trick when re-processing already processed files
         return char_name
     return f"{char_name}#unknown#{id_ep}"
 
@@ -316,8 +325,8 @@ def save_matching(id_series, dic_names, db):
     """
 
     save_dict = {}
-    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}'\
-        / 'transcripts' / 'names_dict.json'
+    savePath = Path(PC.__file__).parent / 'data' / f'{id_series}' \
+               / 'transcripts' / 'names_dict.json'
     if os.path.isfile(savePath):
         with open(savePath, 'r') as f:
             save_dict = json.load(f)
@@ -341,7 +350,7 @@ def main(args):
     if args["check_names"]:
         check_normalized_names(id_series, season_number, episode_number)
     elif args["check_files"]:
-        extension=args["--extension"] if args["--extension"] else ".txt"
+        extension = args["--extension"] if args["--extension"] else ".txt"
         check_files(id_series, season_number, episode_number, extension)
     else:
         verbose = not args["--quiet"]

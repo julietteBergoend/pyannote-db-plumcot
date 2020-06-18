@@ -28,6 +28,7 @@
 
 
 from ._version import get_versions
+
 __version__ = get_versions()['version']
 del get_versions
 
@@ -42,33 +43,36 @@ import numpy as np
 class Plumcot:
     """Plumcot database"""
 
-    def read_credits(self, path,separator=","):
+    def read_credits(self, path, separator=","):
         """loads credits in a dict with one key per episode"""
-        credits=np.loadtxt(path,delimiter=separator,dtype=str)
-        credits={episode[0]:np.array(episode[1:],dtype=int) for episode in credits}
+        credits = np.loadtxt(path, delimiter=separator, dtype=str)
+        credits = {episode[0]: np.array(episode[1:], dtype=int) for episode in credits}
         return credits
 
-    def read_characters(self, CHARACTERS_PATH,SEPARATOR=","):
-        with open(CHARACTERS_PATH,'r') as file:
-            raw=file.read()
-        characters=[line.split(SEPARATOR) for line in raw.split("\n") if line !='']
-        characters=np.array(characters,dtype=str)
+    def read_characters(self, CHARACTERS_PATH, SEPARATOR=","):
+        with open(CHARACTERS_PATH, 'r') as file:
+            raw = file.read()
+        characters = [line.split(SEPARATOR) for line in raw.split("\n") if line != '']
+        characters = np.array(characters, dtype=str)
         return characters
 
-    def get_references_from_json(self, json_path,data_path="",credits=None,REFERENCE_I=0):
-        with open(json_path,"r") as file:
-            image_jsons=json.load(file)
-        references={}
+    def get_references_from_json(self, json_path, data_path="", credits=None,
+                                 REFERENCE_I=0):
+        with open(json_path, "r") as file:
+            image_jsons = json.load(file)
+        references = {}
         for name, character in image_jsons['characters'].items():
             if "references" in character:
                 if credits is not None:
                     if name in credits:
-                        references[name]=np.load(os.path.join(data_path,character["references"][REFERENCE_I]))
+                        references[name] = np.load(
+                            os.path.join(data_path, character["references"][REFERENCE_I]))
                 else:
-                    references[name]=np.load(os.path.join(data_path,character["references"][REFERENCE_I]))
-        reference_labels=list(references.keys())
-        reference_values=references.values()
-        return reference_values,reference_labels
+                    references[name] = np.load(
+                        os.path.join(data_path, character["references"][REFERENCE_I]))
+        reference_labels = list(references.keys())
+        reference_values = references.values()
+        return reference_values, reference_labels
 
     def get_characters(self, id_series, season_number=None,
                        episode_number=None, field="character_uri"):
@@ -89,7 +93,7 @@ class Plumcot:
         Returns
         -------
         namesDict : `dict`
-            Dictionnary with episodeId as key and list of IMDB names as value.
+            Dictionary with episodeId as key and list of IMDB names as value.
         """
 
         # Template for processed episodes
@@ -162,7 +166,7 @@ class Plumcot:
 
         parent = Path(__file__).parent
         transcripts = glob.glob(f"{parent}/data/{id_series}/transcripts/"
-                                     f"{ep_template}*{extension}")
+                                f"{ep_template}*{extension}")
 
         # Get transcript character names list by episode
         characters_dict = {}
@@ -180,15 +184,15 @@ class Plumcot:
                     else:
                         characters[charac] += 1
             # Get episode name
-            ep_name,_ = os.path.splitext(os.path.split(file)[1])
+            ep_name, _ = os.path.splitext(os.path.split(file)[1])
             characters_dict[ep_name] = characters
 
         return characters_dict
 
-    def merge_next_token(self,token):
+    def merge_next_token(self, token):
         if token.lower() in self.SPECIAL_NOUNS:
             return True
-        if token[-2:].lower()=="'s":
+        if token[-2:].lower() == "'s":
             return True
         return False
 
@@ -217,7 +221,7 @@ class Plumcot:
                     continue
                 line_split = line.split()
                 if self.merge_next_token(line_split[0]):
-                    line_split[0]+=line_split[1]
+                    line_split[0] += line_split[1]
                     line_split.pop(1)
                 line_split[0] = dic_names[line_split[0]]
                 file_text += " ".join(line_split) + '\n'
@@ -238,14 +242,14 @@ class Plumcot:
                                names=names, converters={'movies': bool})
         self.series = data
 
-        #fields in characters.txt
+        # fields in characters.txt
         self.fields = {
-            "character_uri":0,
-            "actor_uri":1,
-            "character_name":2,
-            "actor_name":3,
-            "imdb":4
+            "character_uri": 0,
+            "actor_uri": 1,
+            "character_name": 2,
+            "actor_name": 3,
+            "imdb": 4
         }
 
-        #generic nouns in transcripts (*.temp)
-        self.SPECIAL_NOUNS={"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}
+        # generic nouns in transcripts (*.temp)
+        self.SPECIAL_NOUNS = {"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}
