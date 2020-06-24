@@ -52,6 +52,8 @@ class AlignedLoader(BaseLoader):
                 continue
             _, speaker, start, end, text, confidence = line.split()
             start, end, confidence = map(float, (start, end, confidence))
+            # HACK: in some rare case, fans transcribed 'l' instead of 'I'
+            text = re.sub(FULL_L, 'I', text)
             tokens.append(text)
             attributes.append((speaker, start, end, confidence))
 
@@ -84,6 +86,8 @@ class TxtLoader(BaseLoader):
                 continue
             speaker = line[0]
             for token in line[1:]:
+                # HACK: in some rare case, fans transcribed 'l' instead of 'I'
+                token = re.sub(FULL_L, 'I', token)
                 speakers.append(speaker)
                 tokens.append(token)
 
