@@ -39,14 +39,26 @@ def run(subset, output_path, model):
             file.write(output)
 
 def levenshtein(a, b):
-    "Calculates the Levenshtein distance between a and b."
-    cost, _, _, _, _, = align(a, b)
-    return cost
+    """Calculates the Levenshtein distance between a and b.
+    
+    Returns
+    -------
+    cost: int
+        Levenshtein distance
+    insertions: int
+        Number of insertions + subtitutions
+    deletions: int
+        Number of deletions + subtitutions
+    """
+    cost, a2b, b2a, _, _, = align(a, b)
+    insertions = len((b2a<0).nonzero()[0])
+    deletions = len((a2b<0).nonzero()[0])
+    return cost, insertions, deletions
 
 
 def evaluate(subset, output_path):
-    CER, WER = [], []
-    print("uri & CER & WER \\\\")
+    CER, WER, IR, DR = [], [], [], []
+    print("uri & CER & WER & IR & DR\\\\")
     for current_file in subset:
         uri = current_file['uri']
         # A. load hypothesis
@@ -62,13 +74,18 @@ def evaluate(subset, output_path):
         # 3. remove extra whitespaces
         transcription = re.sub(' +', ' ', transcription)
         
-        cer = levenshtein(transcription, hypothesis) / len(transcription)
-        wer = levenshtein(transcription.split(), hypothesis.split()) / len(transcription.split())
-        print(f"{uri} & {cer*100:.2f} & {wer*100:.2f} \\\\")
+        cer = levenshtein(transcription, hypothesis)[0] / len(transcription)
+        cost, insertions, deletions = levenshtein(transcription.split(), hypothesis.split())
+        wer = cost / len(transcription.split())
+        insertion_rate = insertions / len(hypothesis.split())
+        deletion_rate = deletions / len(transcription.split())
+        print(f"{uri} & {cer*100:.2f} & {wer*100:.2f} & {insertion_rate*100:.2f} & {deletion_rate*100:.2f}\\\\")
         CER.append(cer)
         WER.append(wer)
+        IR.append(insertion_rate)
+        DR.append(deletion_rate)
     print('TOTAL', end = " & ")
-    for metric in [CER, WER]:
+    for metric in [CER, WER, IR, DR]:
         mean, std = np.mean(metric), np.std(metric)
         print(f'{mean*100:.2f} $\\pm$ {std*100:.2f}', end=" & ")
 
