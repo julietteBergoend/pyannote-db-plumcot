@@ -1,6 +1,7 @@
 from pyannote.database import ProtocolFile
 from pathlib import Path
 
+import re
 from spacy.gold import align
 from spacy.vocab import Vocab
 from spacy.tokens import Doc, Token
@@ -18,6 +19,8 @@ for attribute, default in [("speaker", "unavailable"),
 # note that this is not used here but is intended for downstream usage
 MULTIPLE_PERSONS = 'multiple_persons'
 NA = {'UNKNOWN', MULTIPLE_PERSONS}
+
+FULL_L = r'\bl\b'
 
 
 class BaseLoader:
@@ -129,6 +132,11 @@ class CsvLoader(BaseLoader):
                 continue
             # first token of each line includes speaker names
             token = token[token.find(' ') + 1:]
+            # HACK: in some rare case, fans transcribed 'l' instead of 'I'
+            # This led to poor POS-tagging so we fix it by matching "full-word" 'l'
+            if re.search(FULL_L, token):
+                token, lemma_ = re.sub(FULL_L, 'I', token), re.sub(FULL_L, 'I', lemma_)
+                pos_, tag_ = 'PRON', 'PRP'
             tokens.append(token)
 
             # HACK, originally mentions referring to several entities were annotated like
