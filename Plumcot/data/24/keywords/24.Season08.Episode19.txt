@@ -1,0 +1,29 @@
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+calling in a favour	Non
+sting operation	Non
+laundry truck	Non
+police officer	Non
+threat	Non
+tied up	Non
+press conference	Non
+former president	Non
+united nations	Non
+new york city	Non
+helicopter	Non
+female president	Non
+split screen	Non
+cover up	Non
+trap	Non
+waterboarding	Non
+resignation	Non
+helipad	Non
+fire escape	Non
+ah 64 apache helicopter	Non
+eurocopter as350 squirrel	Non

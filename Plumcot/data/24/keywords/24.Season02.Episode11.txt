@@ -1,0 +1,45 @@
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+locker	Non
+implied sex	Non
+fire extinguisher	Non
+man on fire	Non
+foot caught in a trap	Non
+foot caught in an animal trap	Non
+leg hold trap	Non
+cougar	Non
+binoculars	Non
+hijab	Non
+political conspiracy	Non
+government conspiracy	Non
+conspiracy	Non
+accused of treason	Non
+ex husband ex wife relationship	Non
+radiation sickness	Non
+hours to live	Non
+dying man	Non
+imam	Non
+muslim	Non
+mosque	Non
+electrical torture	Non
+torture	Non
+special assistant to the president	Non
+chief of staff	Non
+operations center	Non
+hard drive	Non
+blonde woman	Non
+blonde girl	Non
+teenage daughter	Non
+teenager	Non
+teenage girl	Non
+widower	Non
+worried about daughter	Non
+worried father	Non
+black u.s. president	Non

@@ -1,0 +1,50 @@
+falling downhill	Non
+rolling downhill	Non
+waitress	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+mother daughter relationship	Non
+wrist slitting	Non
+attempted suicide	Non
+sedan	Non
+falling asleep	Non
+splashing water on one's face	Non
+father son relationship	Non
+implied rape	Non
+girl hits a man	Non
+pushed down	Non
+chief of staff	Non
+handcuffs	Non
+breaking handcuffs	Non
+bolt cutter	Non
+family held hostage	Non
+campaign headquarters	Non
+smashing a window	Non
+construction site	Non
+station wagon	Non
+telephone conversation	Non
+husband wife relationship	Non
+forced to drive at gunpoint	Non
+steam	Non
+escape from custody	Non
+head butt	Non
+family in danger	Non
+daughter in danger	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+wife in danger	Non
+handcuffed man	Non
+kidnapped daughter	Non
+kidnapped wife	Non
+presidential candidate	Non
+u.s. senator	Non
+off screen rape	Non
+title spoken by character	Non

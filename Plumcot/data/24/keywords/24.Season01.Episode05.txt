@@ -1,0 +1,41 @@
+pay phone	Non
+tape over mouth	Non
+hospital	Non
+police station	Non
+campaign headquarters	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+hit and run	Non
+colon in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+distraction	Non
+shot in the chest	Non
+dead body in a car trunk	Non
+jailbreak	Non
+swipe card	Non
+interrogation room	Non
+van	Non
+gun pointed at face	Non
+bound with duct tape	Non
+duct tape over mouth	Non
+bound and gagged	Non
+locked in a car trunk	Non
+cop killer	Non
+lapd	Non
+daughter in danger	Non
+kidnapped daughter	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+father son relationship	Non
+husband wife relationship	Non
+presidential candidate	Non
+u.s. senator	Non
+worried about daughter	Non
+worried mother	Non
+operating theater	Non

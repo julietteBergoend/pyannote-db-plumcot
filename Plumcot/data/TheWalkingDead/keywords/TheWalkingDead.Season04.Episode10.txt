@@ -1,0 +1,48 @@
+bus	1.0
+baby	1.0
+tank	1.0
+molotov cocktail	1.0
+photograph	1.0
+sister sister relationship	1.0
+child uses a gun	Non
+child with a gun	Non
+prison	Non
+one word episode title	Non
+diary	Non
+machine gun	Non
+protective male	Non
+returning character killed off	Non
+blood on camera lens	Non
+hit with a rifle butt	Non
+shot in the forehead	Non
+car set on fire	Non
+zippo lighter	Non
+body armor	Non
+character's point of view camera shot	Non
+lantern	Non
+nonlinear timeline	Non
+stabbed in the head	Non
+title appears in writing	Non
+map	Non
+child in peril	Non
+beaten to death	Non
+head bashed in	Non
+bitten on the arm	Non
+hit with a hammer	Non
+hit with a baseball bat	Non
+train tracks	Non
+stabbed to death	Non
+stabbed in the forehead	Non
+knife	Non
+corpse	Non
+character repeating someone else's dialogue	Non
+footprint	Non
+campfire	Non
+lens flare	Non
+shot to death	Non
+shot in the head	Non
+slow motion scene	Non
+voice over narration	Non
+forest	Non
+lesbian	0.0
+bare chested male	0.0

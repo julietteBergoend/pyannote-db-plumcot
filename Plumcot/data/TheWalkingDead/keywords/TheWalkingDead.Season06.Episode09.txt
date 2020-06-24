@@ -1,0 +1,74 @@
+mullet	1.0
+mullet haircut	1.0
+man wearing a poncho	1.0
+woman wearing a poncho	1.0
+calling someone an asshole	1.0
+mouthing words	1.0
+church	1.0
+covered in blood	1.0
+rocket launcher	1.0
+motorcycle gang	1.0
+death of mother	1.0
+death of child	1.0
+death of son	1.0
+returning character killed off	0.5
+exploding motorcycle	0.5
+directed by greg nicotero	Non
+hooded sweatshirt	Non
+loss of friend	Non
+loss of son	Non
+father holding his baby	Non
+bandaged head	Non
+son in a coma	Non
+holding a baby	Non
+infirmary	Non
+puddle of blood	Non
+fuel truck	Non
+calling someone a son of a bitch	Non
+empty gun	Non
+calling someone pal	Non
+massacre	Non
+hacking off limbs	Non
+worried father	Non
+katana sword	Non
+scared boy	Non
+threatened with a gun	Non
+bible quote	Non
+short pants	Non
+mother son relationship	Non
+dead boy	Non
+child eaten	Non
+zombie child	Non
+one night	Non
+decapitation	Non
+head cut in half	Non
+burned alive	Non
+person on fire	Non
+fire	Non
+rpg	Non
+shot in the face	Non
+shot in the back	Non
+shot in the forehead	Non
+shot to death	Non
+shot in the head	Non
+stabbed in the face	Non
+hatchet	Non
+slow motion scene	Non
+shot in the chest	Non
+bitten on the arm	Non
+stabbed in the head	Non
+stabbed in the forehead	Non
+hostage	Non
+stabbed to death	Non
+shot in the eye	Non
+impalement	Non
+stabbed in the back	Non
+severed hand	Non
+flashback	Non
+death of brother	Non
+eaten alive	Non
+child in peril	Non
+baby	Non
+exploding body	Non
+severed head	Non
+priest	0.0

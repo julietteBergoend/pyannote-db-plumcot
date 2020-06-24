@@ -1,0 +1,27 @@
+analyst	1.0
+drinking buddy	1.0
+teenager	1.0
+old flame	1.0
+central intelligence agency agent	Non
+bar	Non
+sport utility vehicle	Non
+text message	Non
+checking one's watch	Non
+computer monitor	Non
+flashlight	Non
+bulletin board	Non
+wall of photographs	Non
+photograph	Non
+father daughter relationship	Non
+father son relationship	Non
+studying	Non
+crutch	Non
+drunkenness	Non
+husband wife relationship	Non
+husband wife estrangement	Non
+congressman	Non
+business suit	Non
+car wash	Non
+handcuffs	Non
+jealousy	Non
+infidelity	Non

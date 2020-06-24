@@ -1,0 +1,266 @@
+middle earth	1.0
+wizard	1.0
+mission	1.0
+hobbit	1.0
+dwarf	1.0
+orc	1.0
+epic	1.0
+evil wizard	1.0
+tower	1.0
+presumed dead	1.0
+treason	1.0
+forest	1.0
+resurrection	1.0
+loss of brother	1.0
+swamp	1.0
+split personality	1.0
+elrond character	1.0
+galadriel character	1.0
+gollum character	1.0
+frodo baggins character	1.0
+legolas character	1.0
+saruman the white character	1.0
+orcs character	1.0
+gandalf character	1.0
+elves character	1.0
+chaste character	1.0
+motion capture	1.0
+epic battle	1.0
+cult film	1.0
+cult classic	1.0
+blockbuster	1.0
+second in trilogy	1.0
+trilogy	1.0
+lord of the rings	1.0
+ensemble cast	1.0
+close up of eyes	1.0
+samwise gamgee character	1.0
+gimli character	1.0
+boromir character	1.0
+aragorn character	1.0
+second part	1.0
+famous score	1.0
+famous line	1.0
+part computer animation	1.0
+colon in title	1.0
+sequel to cult favorite	1.0
+no opening credits	1.0
+orchestral music score	1.0
+eight word title	1.0
+part of trilogy	1.0
+multiple cameos	1.0
+army	1.0
+attack	1.0
+evil	1.0
+quest	1.0
+elf	1.0
+guide	1.0
+sequel	1.0
+walking tree	1.0
+flashback	1.0
+dark fantasy	1.0
+fictional war	1.0
+monster	1.0
+shot back to back	1.0
+violence	1.0
+race against time	1.0
+melodrama	1.0
+magic	1.0
+animate tree	1.0
+idealism	1.0
+brotherhood	1.0
+city in ruins	1.0
+flaming arrow	1.0
+cannibalism	1.0
+dream sequence	1.0
+castle	1.0
+good versus evil	1.0
+immortality	1.0
+eye	1.0
+based on novel	1.0
+number in title	1.0
+wilhelm scream	0.6666666666666666
+male protagonist	1.0
+magical ring	1.0
+high fantasy	1.0
+invisibility	1.0
+fantasy world	1.0
+elvish	1.0
+anti war	1.0
+camaraderie	1.0
+anti hero	1.0
+hand to hand combat	1.0
+evil man	1.0
+schizophrenia	1.0
+traitor	1.0
+last stand	1.0
+warrior race	1.0
+wizards' duel	1.0
+warrior	1.0
+honor	1.0
+tragic villain	1.0
+sewer	1.0
+funeral	1.0
+blood	1.0
+gunpowder	1.0
+river	1.0
+fight	1.0
+camouflage	1.0
+battering ram	1.0
+unrequited love	1.0
+rescue	1.0
+rabbit	1.0
+tracking	1.0
+fortress	1.0
+crossbow	1.0
+wilderness	1.0
+cave	1.0
+wraith	1.0
+escape	1.0
+mountain	1.0
+thunderstorm	1.0
+betrayal	1.0
+amulet	1.0
+hero	1.0
+courage	1.0
+loyalty	1.0
+falling from height	1.0
+volcano	1.0
+cemetery	1.0
+fishing	1.0
+falling over a cliff	1.0
+horn	1.0
+sword	1.0
+chase	1.0
+sword and sorcery	1.0
+princess	1.0
+bad smell	1.0
+map	1.0
+tragedy	1.0
+41st century b.c.	0.5
+5th millennium b.c.	0.5
+glowing eye	0.3333333333333333
+platonic relationship	Non
+brother sister relationship	Non
+brother brother relationship	Non
+cousin cousin relationship	Non
+cousin relationship	Non
+cooperation	Non
+battleaxe	Non
+old age makeup	Non
+dry for wet	Non
+live action and animation	Non
+psychotronic film	Non
+cgi character in a live action movie	Non
+opening action scene	Non
+axe	Non
+axe fight	Non
+fictional kingdom	Non
+cavalry battle	Non
+magic sword	Non
+sword and fantasy	Non
+love	Non
+love interest	Non
+forbidden love	Non
+fictional country	Non
+foot chase	Non
+horse chase	Non
+christ figure	Non
+christ allegory	Non
+open ended	Non
+sequel baiting	Non
+hope	Non
+single blade axe	Non
+speaking elvish	Non
+boyfriend girlfriend relationship	Non
+combat	Non
+lifting person in air	Non
+lifting someone into the air	Non
+love triangle	Non
+axe in the chest	Non
+rescue from drowning	Non
+temptation	Non
+righteous rage	Non
+flooding	Non
+ancient race	Non
+back from the dead	Non
+gore	Non
+india maxwell	Non
+talisman	Non
+star crossed lovers	Non
+peril	Non
+fear	Non
+nightmare	Non
+explosive	Non
+stabbed in the chest	Non
+stabbed in the back	Non
+stabbed in the leg	Non
+stabbed in the arm	Non
+stabbed in the throat	Non
+suicide bomber	Non
+warrior woman	Non
+tragic hero	Non
+soliloquy	Non
+child soldier	Non
+shot in the neck	Non
+dark hero	Non
+shot in the forehead	Non
+dismemberment	Non
+sword fight	Non
+impalement	Non
+entrails	Non
+mercy	Non
+banishment	Non
+friendship	Non
+halfling	Non
+refugee	Non
+prince	Non
+keeping watch	Non
+conscience	Non
+barbarian	Non
+waterfall	Non
+armor	Non
+crushed to death	Non
+conservation	Non
+madness	Non
+severed head	Non
+treachery	Non
+archery	Non
+tyrant	Non
+cavalry	Non
+alliance	Non
+abyss	Non
+scaling ladder	Non
+gate	Non
+compassion	Non
+animal attack	Non
+gardener	Non
+heroism	Non
+demon	Non
+decapitation	Non
+impossible love	Non
+bravery	Non
+redemption	Non
+swarm tactic	Non
+siege	Non
+ambush	Non
+hostage	Non
+dam busting	Non
+ruins	Non
+genocide	Non
+father daughter relationship	Non
+prehistoric times	0.25
+franchise	0.0
+reverse footage	0.0
+nonlinear timeline	0.0
+king	0.0
+balladeer	0.0
+friends who live together	0.0
+emaciation	0.0
+prehistory	0.0
+ancient sword	0.0
+mistaken identity	0.0
+elephant	0.0
+horse	0.0
+loss of son	0.0
+exorcism	0.0

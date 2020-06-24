@@ -1,0 +1,47 @@
+address	Non
+press conference	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+pregnancy	Non
+murder of a police officer	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+trust	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+saved at the last second	Non
+gun with silencer	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+teenager in danger	Non
+daughter in danger	Non
+family in danger	Non
+wife in danger	Non
+helicopter	Non
+father daughter hug	Non
+hug	Non
+father son relationship	Non
+father son hug	Non
+hit with a gun	Non
+police sting	Non
+breaking someone's nose	Non
+mdma	Non
+drug deal	Non
+standoff	Non
+hit with a gun butt	Non
+reference to slobodan milosevic	Non
+press statement	Non
+character appears on tv	Non
+pregnant wife	Non
+husband wife relationship	Non
+burglar alarm	Non
+surgeon	Non
+memory loss	Non
+family relationships	Non
+campaign headquarters	Non
+presidential candidate	Non
+u.s. senator	Non

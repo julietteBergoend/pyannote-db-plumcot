@@ -1,0 +1,383 @@
+tournament	1.0
+wizard	1.0
+magic	1.0
+school of magic	1.0
+heroism	1.0
+evil wizard	1.0
+teenage boy	1.0
+good versus evil	1.0
+boarding school	1.0
+based on novel	1.0
+teen angst	1.0
+witch	1.0
+black magic	1.0
+witchcraft	1.0
+england	1.0
+ginny weasley character	Non
+lucius malfoy character	Non
+draco malfoy character	Non
+hermione granger character	Non
+rubeus hagrid character	Non
+peter pettigrew character	Non
+neville longbottom character	Non
+lord voldemort character	Non
+arthur weasley character	Non
+lily potter character	Non
+harry potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+gregory goyle character	Non
+dean thomas character	Non
+filius flitwick character	Non
+vincent crabbe character	Non
+argus filch character	Non
+cho chang character	Non
+george weasley character	Non
+minerva mcgonagall character	Non
+ron weasley character	Non
+fred weasley character	Non
+violence	Non
+returning character with different actor	Non
+teenage protagonist	Non
+teenage crush	Non
+male protagonist	Non
+shared universe	Non
+death eater	Non
+albus dumbledore character	Non
+severus snape character	Non
+sirius black character	Non
+cedric diggory character	Non
+alastor 'mad eye' moody character	Non
+harry potter movie franchise	Non
+psychotronic film	Non
+flying broomstick	Non
+all star cast	Non
+boy wears eyeglasses	Non
+actor reprises previous role	Non
+flashlight	Non
+animal	Non
+reptile	Non
+actress reprises previous role	Non
+man	Non
+mansion	Non
+bespectacled teenager	Non
+serpent	Non
+woman	Non
+boot	Non
+teleportation	Non
+manor house	Non
+bespectacled male	Non
+quidditch	Non
+world cup	Non
+portkey	Non
+passenger compartment	Non
+train carriage	Non
+bird	Non
+cornelius fudge character	Non
+male minister	Non
+locomotive	Non
+enchanted ceiling	Non
+great hall	Non
+flask	Non
+blue flames	Non
+fourth in series	Non
+teenager	Non
+schoolboy	Non
+classroom	Non
+staircase	Non
+long haired female	Non
+raining	Non
+protagonist	Non
+moustached man	Non
+student	Non
+dormitory	Non
+broom cupboard	Non
+male teacher	Non
+piece of paper	Non
+animate object	Non
+notepad	Non
+schoolgirl	Non
+waterborne ship	Non
+passenger train carriage	Non
+minister	Non
+bespectacled teenage boy	Non
+manor	Non
+fourth film in series	Non
+common room	Non
+rita skeeter character	Non
+male orphan	Non
+magical newspaper	Non
+night	Non
+bearded man	Non
+fire breathing dragon	Non
+prosthetic leg	Non
+male student	Non
+transfiguration	Non
+prosthetic limb	Non
+female student	Non
+night time	Non
+prosthetic body part	Non
+bespectacled man	Non
+winged dragon	Non
+prosthesis	Non
+long haired teenage girl	Non
+14 year old	Non
+flying dragon	Non
+twin brothers	Non
+aerial pursuit	Non
+parcel	Non
+female ghost	Non
+reference to godric gryffindor	Non
+feline	Non
+ghost girl	Non
+passenger train	Non
+long haired teenager	Non
+fourteen year old boy	Non
+reflection	Non
+parvati patil character	Non
+teenage witch	Non
+moaning myrtle character	Non
+fourteen year old girl	Non
+teenage wizard	Non
+golden egg	Non
+14 year old boy	Non
+bone	Non
+cutting off own hand	Non
+artificial body part	Non
+reflection in a mirror	Non
+14 year old girl	Non
+owlery	Non
+artificial limb	Non
+padma patil character	Non
+fourteen year old	Non
+pursuit	Non
+artificial leg	Non
+injured arm	Non
+cauldron	Non
+knife	Non
+wounded arm	Non
+murder of teenage boy	Non
+seven word title	Non
+open ended	Non
+sequel baiting	Non
+old man	Non
+government minister	Non
+steam locomotive	Non
+male caretaker	Non
+handheld device	Non
+levitating object	Non
+long haired man	Non
+masked figure	Non
+dormitory common room	Non
+male government minister	Non
+horse drawn carriage	Non
+gamekeeper	Non
+long haired male	Non
+levitating candle	Non
+trolley	Non
+headmistress	Non
+caretaker	Non
+seventeen year old	Non
+male gamekeeper	Non
+passenger train car	Non
+dormitory living	Non
+female professor	Non
+snack trolley	Non
+quill pen	Non
+male professor	Non
+hardcover book	Non
+17 year old	Non
+female teacher	Non
+narration by character	Non
+formal wear	Non
+long haired teenage boy	Non
+pensieve	Non
+bathe	Non
+seventeen year old girl	Non
+dormitory room	Non
+singing	Non
+seventeen year old boy	Non
+cannon	Non
+levitating book	Non
+bespectacled female	Non
+aerial chase	Non
+underwater scene	Non
+bespectacled woman	Non
+formal clothing	Non
+campfire	Non
+17 year old male	Non
+chest	Non
+vial	Non
+17 year old girl	Non
+book	Non
+human remains	Non
+artificial hand	Non
+twins	Non
+17 year old boy	Non
+dream	Non
+labyrinth	Non
+adult son	Non
+school dormitory	Non
+professor	Non
+teenage boy killed	Non
+grim reaper statue	Non
+true identity revealed	Non
+villain	Non
+artificial eye	Non
+four poster bed	Non
+minister for magic	Non
+goblet	Non
+fire	Non
+challenge	Non
+dragon	Non
+tent	Non
+mermaid	Non
+nightmare	Non
+maze	Non
+teacher	Non
+strong female lead	Non
+tough girl	Non
+strong female character	Non
+teenage girl	Non
+magical cloak	Non
+human becoming an animal	Non
+magical trunk	Non
+spilling a drink on oneself	Non
+bildungsroman	Non
+based on young adult novel	Non
+year 1995	Non
+year 1994	Non
+slow motion scene	Non
+subjective camera	Non
+character's point of view camera shot	Non
+lifting someone into the air	Non
+female journalist	Non
+gramophone	Non
+dance	Non
+best friend	Non
+immortality	Non
+tragic event	Non
+hand cut off	Non
+newspaper	Non
+cut arm	Non
+memory	Non
+insanity	Non
+secret identity	Non
+tabloid	Non
+jealousy	Non
+interview	Non
+journalist	Non
+dark fantasy	Non
+snowy owl	Non
+opposing energy beams	Non
+hereditary gift of witchcraft	Non
+supernatural power	Non
+unconsciousness	Non
+flashback	Non
+male female relationship	Non
+false accusation	Non
+bathtub	Non
+invisibility cloak	Non
+cult figure	Non
+cult film	Non
+studio logo segues into film	Non
+altered version of studio logo	Non
+rivalry	Non
+revenge	Non
+nemesis	Non
+goth	Non
+gothic	Non
+no opening credits	Non
+love triangle	Non
+child hero	Non
+owl	Non
+sequel	Non
+glass eye	Non
+dining hall	Non
+ship	Non
+graveyard	Non
+dead boy	Non
+coming of age	Non
+young love	Non
+vision	Non
+trial	Non
+theft	Non
+spider	Non
+reporter	Non
+person on fire	Non
+patricide	Non
+magic wand	Non
+lake	Non
+impostor	Non
+identical twins	Non
+fireplace	Non
+eye	Non
+curse	Non
+crush	Non
+chase	Non
+cemetery	Non
+captive	Non
+blockbuster	Non
+bathroom	Non
+bathing	Non
+dance lesson	Non
+torture	Non
+severed hand	Non
+self mutilation	Non
+loss of son	Non
+giant snake	Non
+explosion	Non
+drowning	Non
+dream sequence	Non
+corpse	Non
+waltz	Non
+trophy	Non
+train	Non
+snake	Non
+resurrection	Non
+rescue	Non
+potion	Non
+orphan	Non
+murder	Non
+living portrait	Non
+library	Non
+letter	Non
+ghost	Non
+friendship	Non
+forest	Non
+flying	Non
+fireworks	Non
+duel	Non
+camping	Non
+blood	Non
+bird messenger	Non
+woods	Non
+transformation	Non
+invisibility	Non
+ferret	Non
+underwater	Non
+trident	Non
+school dance	Non
+scar	Non
+headmaster	Non
+giant	Non
+flying horse	Non
+falling from height	Non
+escher stairway	Non
+communal dining hall	Non
+child in peril	Non
+cat	Non
+castle	Non
+carriage	Non
+arena	Non
+evil mark	Non
+egg	Non
+teacher student relationship	Non
+fourth part	Non
+fictitious sport	Non
+wand	Non
+broomstick	Non
+death of son	Non
+death of friend	Non
+character name in title	Non
+surprise ending	Non

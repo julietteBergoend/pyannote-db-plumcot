@@ -1,0 +1,287 @@
+friendship	1.0
+school of magic	1.0
+teen angst	1.0
+rescue operation	1.0
+good versus evil	1.0
+godfather	1.0
+based on novel	1.0
+ginny weasley character	Non
+remus lupin character	Non
+lucius malfoy character	Non
+hermione granger character	Non
+draco malfoy character	Non
+rubeus hagrid character	Non
+harry potter character	Non
+neville longbottom character	Non
+lord voldemort character	Non
+pansy parkinson character	Non
+arthur weasley character	Non
+lily potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+gregory goyle character	Non
+dean thomas character	Non
+filius flitwick character	Non
+vincent crabbe character	Non
+dudley dursley character	Non
+vernon dursley character	Non
+argus filch character	Non
+cho chang character	Non
+george weasley character	Non
+peter pettigrew character	Non
+minerva mcgonagall character	Non
+ron weasley character	Non
+fred weasley character	Non
+abusive uncle	Non
+year 1994	Non
+nightmare	Non
+bullying	Non
+shared universe	Non
+death eater	Non
+albus dumbledore character	Non
+luna lovegood character	Non
+dolores umbridge character	Non
+sirius black character	Non
+harry potter movie franchise	Non
+ensemble cast	Non
+psychotronic film	Non
+flying broomstick	Non
+all star cast	Non
+boy wears eyeglasses	Non
+eight word title	Non
+fictional government organization	Non
+sequel baiting	Non
+evil witch	Non
+teenage cousin	Non
+moustached man	Non
+birdcage	Non
+cousin	Non
+man	Non
+bespectacled teenager	Non
+bedroom	Non
+cedric diggory character	Non
+house elf	Non
+teenage girl	Non
+magical newspaper	Non
+bird	Non
+long haired female	Non
+animal	Non
+fifth in series	Non
+earringed man	Non
+identical twins	Non
+telephone booth	Non
+nymphadora tonks character	Non
+disciplinary hearing	Non
+photograph	Non
+long haired male	Non
+government minister	Non
+dormitory	Non
+cornelius fudge character	Non
+animagus	Non
+common room	Non
+female shape shifter	Non
+carriage	Non
+teacher's office	Non
+quadruped creature	Non
+hardcover book	Non
+bespectacled female	Non
+classroom	Non
+canine	Non
+high inquisitor	Non
+minister for magic	Non
+female teacher	Non
+proclamation	Non
+male professor	Non
+levitation	Non
+room of requirement	Non
+spiral staircase	Non
+male caretaker	Non
+flashback sequence	Non
+playground	Non
+teenage protagonist	Non
+male cousin	Non
+night time	Non
+bird messenger	Non
+waterborne ship	Non
+phone booth	Non
+bespectacled teenage boy	Non
+creature attack	Non
+elevator	Non
+dormitory room	Non
+fifth film in series	Non
+twin brothers	Non
+kitchen	Non
+red phone booth	Non
+earringed male	Non
+shape shifting	Non
+steam locomotive	Non
+long haired man	Non
+animate photograph	Non
+school dormitory	Non
+male government minister	Non
+train platform	Non
+feline	Non
+female animagus	Non
+train	Non
+baby creature	Non
+blond teenage boy	Non
+great hall	Non
+professor	Non
+office	Non
+framed proclamation	Non
+bespectacled woman	Non
+dormitory common room	Non
+luggage	Non
+book	Non
+winged creature	Non
+female professor	Non
+tape measure	Non
+suitcase	Non
+male teacher	Non
+dog	Non
+caretaker	Non
+kiss on the lips	Non
+flashback	Non
+christmas present	Non
+loudspeaker	Non
+male escapee	Non
+gift	Non
+private lesson	Non
+long haired woman	Non
+christmas	Non
+examination	Non
+schoolboy	Non
+family tree	Non
+giant pendulum	Non
+schoolgirl	Non
+christmas gift	Non
+the letter w	Non
+percy weasley character	Non
+reflection	Non
+scar on the forehead	Non
+teenage witch	Non
+younger version of character	Non
+moving staircase	Non
+half brother	Non
+writing with a quill pen	Non
+green flame	Non
+teenage wizard	Non
+school examination	Non
+pendulum	Non
+staircase	Non
+interrogation	Non
+thestral	Non
+flying creature	Non
+masked man	Non
+orb	Non
+forehead scar	Non
+vision	Non
+teenager versus adult	Non
+man killed	Non
+teleportation	Non
+magic battle	Non
+ministry of magic	Non
+teacher	Non
+magic	Non
+school	Non
+wizard	Non
+battle	Non
+witchcraft	Non
+dream	Non
+phoenix	Non
+tough girl	Non
+hate	Non
+open ended	Non
+kiss	Non
+punishment	Non
+strong female lead	Non
+strong female character	Non
+magical broomstick	Non
+bildungsroman	Non
+based on young adult novel	Non
+year 1996	Non
+year 1995	Non
+husband wife relationship	Non
+lifting someone into the air	Non
+wand	Non
+secret headquarters	Non
+trial	Non
+fireplace	Non
+message in blood	Non
+mind control	Non
+evil teacher	Non
+possession	Non
+secret room	Non
+eavesdropping	Non
+broken glass	Non
+newspaper	Non
+tabloid	Non
+fireworks	Non
+doubt	Non
+first kiss	Non
+writing lines as punishment	Non
+hereditary gift of witchcraft	Non
+false accusation	Non
+scottish deerhound	Non
+evil wizard	Non
+cult figure	Non
+cult film	Non
+death of relative	Non
+studio logo segues into film	Non
+altered version of studio logo	Non
+female psychopath	Non
+no opening credits	Non
+strict teacher	Non
+father figure	Non
+face slap	Non
+slap	Non
+rebellion	Non
+scotland	Non
+returning character killed off	Non
+blockbuster	Non
+snake	Non
+prisoner	Non
+mail	Non
+giant	Non
+expulsion	Non
+escapee	Non
+centaur	Non
+torture	Non
+handheld camera	Non
+witch	Non
+teenage boy	Non
+enemy	Non
+department	Non
+teenager	Non
+secret society	Non
+orphan	Non
+england	Non
+boarding school	Non
+prophecy	Non
+young love	Non
+rat	Non
+owl	Non
+fifth part	Non
+fictitious sport	Non
+headmaster	Non
+ghost	Non
+forest	Non
+cat	Non
+broomstick	Non
+sequel	Non
+death of friend	Non
+character name in title	Non
+male protagonist	0.0
+petunia dursley character	0.0
+molly weasley character	0.0
+severus snape character	0.0
+bellatrix lestrange character	0.0
+alastor 'mad eye' moody character	0.0
+long haired teenage girl	0.0
+sybill trelawney character	0.0
+padma patil character	0.0
+actor reprises previous role	0.0
+parvati patil character	0.0
+dementor	0.0
+woman	0.0
+actress reprises previous role	0.0

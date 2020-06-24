@@ -1,0 +1,32 @@
+traitor	Non
+ambush	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+smoke grenade	Non
+countdown	Non
+timer	Non
+general	Non
+covert operation	Non
+female president	Non
+mole	Non
+van	Non
+united nations	Non
+threat	Non
+underground tunnel	Non
+tunnel	Non
+shoot out	Non
+new york city	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+split screen	Non
+dirty bomb	Non
+fire fight	Non
+disobeying orders	Non
+heart attack	Non

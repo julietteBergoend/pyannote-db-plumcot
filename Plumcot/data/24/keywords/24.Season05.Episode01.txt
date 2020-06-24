@@ -1,0 +1,72 @@
+pay phone	Non
+car bomb	Non
+assassination	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+digit in episode title	Non
+colon in episode title	Non
+trust	Non
+presidential advisor	Non
+shot in the stomach	Non
+assassin	Non
+revenge killing	Non
+ends with death	Non
+shot through a car windshield	Non
+smoke bomb	Non
+oil refinery	Non
+stabbed in the back	Non
+sunglasses	Non
+taxi	Non
+yellow cab	Non
+male female hug	Non
+greeting with hug	Non
+truth taken as a lie	Non
+husband wife hug	Non
+helicopter	Non
+stolen helicopter	Non
+knockout punch	Non
+punched in the face	Non
+being followed	Non
+press conference	Non
+dunking head in water	Non
+foot chase	Non
+death of wife	Non
+car on fire	Non
+bomb explosion	Non
+car explosion	Non
+death by explosion	Non
+mother son relationship	Non
+15 year old	Non
+teenager	Non
+teenage son	Non
+teenage boy	Non
+sex with coworker	Non
+implied sex	Non
+interrupted by telephone	Non
+interrupted kiss	Non
+character appears on front page of a newspaper	Non
+first lady	Non
+blonde woman	Non
+husband wife relationship	Non
+chief of staff	Non
+reference to franklin d. roosevelt	Non
+reference to winston churchill	Non
+reference to josef stalin	Non
+hidden valley ventura county california	Non
+presidential retreat	Non
+killed by a sniper	Non
+sniper	Non
+shot through a window	Non
+brother brother relationship	Non
+two brothers	Non
+mojave	Non
+false name	Non
+recap segment	Non
+former president	Non
+political assassination	Non
+assassination by sniper	Non
+exploding car	Non

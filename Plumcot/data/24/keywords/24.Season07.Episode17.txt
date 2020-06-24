@@ -1,0 +1,34 @@
+the white house	Non
+sex scene	Non
+kissing	Non
+digit in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+colon in episode title	Non
+telephone call	Non
+whiskey	Non
+pathogen	Non
+cdc	Non
+blood	Non
+pushing someone	Non
+canister	Non
+security code	Non
+gun	Non
+headphones	Non
+blackmail	Non
+countdown	Non
+seizure	Non
+threat	Non
+warehouse	Non
+military base	Non
+mercenary	Non
+madame president	Non
+punch in face	Non
+diversion	Non
+field agent	Non
+informant	Non
+fbi	Non
+biological weapon	Non

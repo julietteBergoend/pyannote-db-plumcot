@@ -1,0 +1,51 @@
+payphone	Non
+planting a bomb	Non
+punctuation in title	Non
+girl	Non
+episode title ends with a period	Non
+murder of a security guard	Non
+murder of a police officer	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+wedding day	Non
+operations center	Non
+special assistant to the president	Non
+bombing	Non
+bomb explosion	Non
+building explosion	Non
+evacuation	Non
+building evacuation	Non
+head cut	Non
+self inflicted wound	Non
+self inflicted injury	Non
+duct tape over mouth	Non
+holding one's hand over someone's mouth	Non
+parking garage	Non
+sister sister relationship	Non
+two sisters	Non
+fiance fiancee relationship	Non
+suspected terrorist	Non
+exposure to radiation	Non
+plutonium	Non
+bus	Non
+gun with silencer	Non
+sunglasses	Non
+van	Non
+female female hug	Non
+almost hit by a car	Non
+missing girl	Non
+undercover operation	Non
+undercover agent	Non
+undercover	Non
+teenage daughter	Non
+teenager	Non
+blonde woman	Non
+blonde girl	Non
+nanny	Non
+9 year old	Non
+widower	Non
+black u.s. president	Non

@@ -1,0 +1,70 @@
+president	Non
+woman murders a man	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+police car	Non
+car accident	Non
+overturned car	Non
+fiancee shoots fiance	Non
+femme fatale	Non
+gun with silencer	Non
+killed in chair	Non
+shot to death	Non
+shot in the chest	Non
+man shot by woman	Non
+suspicion of murder	Non
+escape from custody	Non
+escape from handcuffs	Non
+cigarette lighter	Non
+starting a fire	Non
+kiss on the lips	Non
+asking someone out on a date	Non
+bathroom	Non
+bean bag gun	Non
+ear bleeding	Non
+cut ear	Non
+physical torture	Non
+torture	Non
+suicide	Non
+suicide by poison	Non
+cyanide	Non
+office	Non
+wedding day	Non
+fiance fiancee relationship	Non
+widower	Non
+ex husband ex wife relationship	Non
+advice	Non
+helicopter	Non
+special assistant to the president	Non
+operations center	Non
+radiation sickness	Non
+hours to live	Non
+dying man	Non
+male male hug	Non
+arabic	Non
+subtitled scene	Non
+tattoo	Non
+tattoo on arm	Non
+whispering into someone's ear	Non
+chief of staff	Non
+reference to gettysburg address	Non
+press conference	Non
+swat team	Non
+teenage daughter	Non
+teenage girl	Non
+teenager	Non
+boyfriend girlfriend relationship	Non
+police station	Non
+police officer	Non
+blonde woman	Non
+blonde girl	Non
+hostage situation	Non
+hands on head	Non
+black u.s. president	Non

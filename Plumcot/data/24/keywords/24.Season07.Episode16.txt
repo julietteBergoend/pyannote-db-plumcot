@@ -1,0 +1,31 @@
+frame up	Non
+the white house	Non
+fbi	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+telephone call	Non
+web camera	Non
+informant	Non
+wireless	Non
+warehouse	Non
+helicopter	Non
+patient zero	Non
+quarantine	Non
+black suit	Non
+black leather jacket	Non
+hostage	Non
+firing gun	Non
+gun	Non
+blood	Non
+chief of staff	Non
+terrorist	Non
+biological weapon	Non
+cdc	Non
+president	Non
+military base	Non

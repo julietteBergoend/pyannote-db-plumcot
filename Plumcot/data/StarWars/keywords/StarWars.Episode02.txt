@@ -1,0 +1,342 @@
+clone wars	1.0
+the force	1.0
+bare midriff	1.0
+part of trilogy	1.0
+opening crawl	1.0
+prequel	1.0
+sequel	1.0
+prequel to cult film	1.0
+part computer animation	1.0
+murdered before giving protagonist information	1.0
+jedi	1.0
+assassination attempt	1.0
+bounty hunter	1.0
+planet geonosis	1.0
+star wars	1.0
+human cloning	1.0
+allegory of multiple historical events.	1.0
+young love	1.0
+cave	1.0
+wedding ceremony	1.0
+space opera	1.0
+wedding	1.0
+emperor palpatine character	0.6666666666666666
+forbidden love	0.6666666666666666
+death of mother	0.6666666666666666
+flying creature	1.0
+fruit	1.0
+marriage	1.0
+cgi	1.0
+ship	1.0
+monster	1.0
+face wound	1.0
+famous score	1.0
+mace windu character	1.0
+obi wan kenobi character	1.0
+boba fett character	1.0
+r2 d2 character	1.0
+yoda character	1.0
+c 3po character	1.0
+science fantasy	1.0
+second part	1.0
+clone trooper	1.0
+woman in jeopardy	1.0
+alien	1.0
+motion capture	1.0
+hovercar	1.0
+shared universe	1.0
+saga	1.0
+anakin skywalker character	1.0
+evil man	1.0
+padme amidala character	1.0
+coruscant the planet	1.0
+naboo the planet	1.0
+kamino planet	1.0
+count dooku character	1.0
+darth sidious character	1.0
+jedi council	1.0
+jango fett character	1.0
+jedi temple	1.0
+galactic senate	1.0
+bare shoulders	1.0
+blockbuster	1.0
+cult film	1.0
+cult classic	1.0
+orchestral music score	1.0
+symphonic music score	1.0
+no opening credits	1.0
+psychotronic film	1.0
+roman numeral in title	1.0
+cult figure	1.0
+subjective camera	1.0
+character's point of view camera shot	1.0
+character feels around for missing head	1.0
+hyphen in title	1.0
+imax version	1.0
+clone	1.0
+army	1.0
+senator	1.0
+padawan	1.0
+jedi knight	1.0
+tusken raider	1.0
+planet tatooine	1.0
+sith lord	1.0
+investigation	1.0
+assembly line	1.0
+super battle droid	1.0
+droid	1.0
+battle droid	1.0
+insectoid alien	1.0
+geonosian	1.0
+master and apprentice	1.0
+cloning	1.0
+cloning factory	1.0
+human clone	1.0
+spaceship	1.0
+gladiatorial combat	1.0
+jedi youngling	1.0
+jedi mind trick	1.0
+force lightning	1.0
+stepfather	1.0
+stepbrother	1.0
+bar fight	1.0
+car chase	1.0
+diner	1.0
+secret marriage	1.0
+galactic war	1.0
+outer space	1.0
+space travel	1.0
+hologram	1.0
+battle	1.0
+android	1.0
+wilhelm scream	1.0
+child flying spacecraft	1.0
+revenge	1.0
+robot	1.0
+lightsaber	1.0
+mother son relationship	1.0
+martial arts	1.0
+desert planet	1.0
+eaten alive	1.0
+severed arm	1.0
+political manipulation	1.0
+decapitation	1.0
+nightmare	1.0
+asteroid	1.0
+giant monster	1.0
+telekinesis	1.0
+arena	1.0
+levitation	1.0
+raining	Non
+rain	Non
+grass	Non
+beard	Non
+blueprint	Non
+bearded man	Non
+threat	Non
+wound	Non
+desert	Non
+tray	Non
+food tray	Non
+cloak	Non
+free fall	Non
+laser beam	Non
+laser	Non
+weapon	Non
+clone trooper character	Non
+open ended	Non
+actress reprises previous role	Non
+male protagonist	Non
+flying car	Non
+weapons fire	Non
+handheld weapon	Non
+returning character killed off	Non
+2000s	Non
+good man	Non
+good woman	Non
+older villain	Non
+heroine	Non
+hero	Non
+mistaking reality for a dream	Non
+bail organa character	Non
+jar jar binks character	Non
+zam wesell character	Non
+captain typho character	Non
+watto character	Non
+ki adi mundi character	Non
+kit fisto character	Non
+plo koon character	Non
+saesee tiin character	Non
+barriss offee character	Non
+luminara unduli character	Non
+shaak ti character	Non
+mas amedda character	Non
+neimoidian	Non
+nute gunray character	Non
+slave i	Non
+prequel to sequel	Non
+bad acting	Non
+vehicle	Non
+colon in title	Non
+eight word title	Non
+ends with wedding	Non
+spaghetti western	Non
+gunfighter	Non
+sci fi western	Non
+cgi character in a live action movie	Non
+roman numbered sequel	Non
+punctuation in title	Non
+numbered sequel	Non
+funeral	Non
+rage	Non
+tracking device	Non
+angry	Non
+capture	Non
+murder	Non
+deep voice	Non
+bad guy bar	Non
+final battle	Non
+final showdown	Non
+sequel baiting	Non
+opening action scene	Non
+directed by george lucas	Non
+written by george lucas	Non
+produced by george lucas	Non
+lucasfilm	Non
+music by john williams	Non
+disney star wars	Non
+disney	Non
+action girl	Non
+planet	Non
+chase	Non
+assassin	Non
+escape	Non
+senate	Non
+tragedy	Non
+attack	Non
+loss of right arm	Non
+african american	Non
+caucasian	Non
+angry man	Non
+anger	Non
+loss of hand	Non
+male clone	Non
+gunship	Non
+republic attack gunship	Non
+solar sailer	Non
+robot soldier	Non
+humanoid robot	Non
+toydarian	Non
+insectoid	Non
+human female	Non
+human male	Non
+pilot droid	Non
+protocol droid	Non
+violence	Non
+cloned boy	Non
+cloned child	Non
+cloning technology	Non
+ectogen	Non
+ectogenesis	Non
+human versus robot	Non
+human versus machine	Non
+astromech droid	Non
+villain escapes	Non
+revenge killing	Non
+sense of danger	Non
+falling from height	Non
+jumping from height	Non
+jumping through a window	Non
+heavy rain	Non
+rain fight	Non
+leitmotif	Non
+victory	Non
+war violence	Non
+laser cannon	Non
+cannon	Non
+war against machines	Non
+fistfight	Non
+brawl	Non
+fighting	Non
+bar brawl	Non
+gunfight	Non
+gun battle	Non
+shootout	Non
+disarming someone	Non
+showdown	Non
+hand to hand combat	Non
+love interest	Non
+kiss	Non
+laser gun	Non
+duel	Non
+dual wield	Non
+ambush	Non
+space western	Non
+battlefield	Non
+combat	Non
+kendo	Non
+mixed martial arts	Non
+sword	Non
+sword duel	Non
+tough guy	Non
+tough girl	Non
+two man army	Non
+action hero	Non
+torture	Non
+closing eyes of dead person	Non
+changeling	Non
+mechanical hand	Non
+fictional war	Non
+alien race	Non
+teenage boy	Non
+loss of mother	Non
+wuxia fiction	Non
+fight	Non
+warp speed	Non
+spaceport	Non
+shapeshifting	Non
+invented language	Non
+fate of the universe	Non
+escape pod	Non
+disguise	Non
+creature	Non
+recapitation	Non
+epic	Non
+explosion	Non
+death ray	Non
+warrior	Non
+responsibility	Non
+honor	Non
+space battle	Non
+mass murder	Non
+hate	Non
+one armed man	Non
+kidnapping	Non
+bodyguard	Non
+surprise attack	Non
+sword fight	Non
+teenage rebellion	Non
+chosen one	Non
+spacecraft	Non
+good becoming evil	Non
+good versus evil	Non
+spirituality	Non
+father figure	Non
+foreshadow	Non
+teacher student relationship	Non
+prophecy	Non
+massacre	Non
+teenage romance	Non
+samurai	Non
+conspiracy	Non
+teenage love	Non
+number in title	Non
+surprise ending	Non
+darth vader character	0.0
+bad guys win	0.0
+messiah	0.0
+death star	0.0
+seduction	0.0
+infatuation	0.0
+future	0.0
+childhood sweetheart	0.0

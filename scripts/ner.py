@@ -7,17 +7,18 @@ ner.py [--uri=<uri> -v -vv]
 -v          Sets the verbosity level: more Vs, more verbose. Defaults to quiet.
 """
 
-from pathlib import Path
-from docopt import docopt
 import sys
-
-from pyannote.database import get_protocol
-import pyannote.database
-import Plumcot as PC
+from pathlib import Path
 
 import spacy
+from docopt import docopt
+from pyannote.database import get_protocol
+
+import Plumcot as PC
+
 spacy.prefer_gpu()
 from spacy.gold import align
+
 try:
     model = spacy.load('en_core_web_lg')
 except Exception:
@@ -46,6 +47,7 @@ def return_metrics(tp, tn, fp, fn):
     npv = tn / (tn + fn) if tn + fn != 0 else 0.0
     f_score = (2 * precision * recall) / (precision + recall)
     return accuracy, recall, specificity, precision, npv, f_score
+
 
 if verbosity > 0:
     print('uri & F-score & Precision & Recall \\\\')
@@ -106,7 +108,8 @@ for serie_ in series:
         # 5. compute F-score, Precision and Recall
         _, recall, _, precision, _, f_score = return_metrics(tp, tn, fp, fn)
         if verbosity > 1:
-            print(f'{file_uri} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
+            print(
+                f'{file_uri} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
         TP += tp
         TN += tn
         FP += fp
@@ -115,4 +118,5 @@ for serie_ in series:
         file.write(','.join(map(str, [serie, TP, TN, FP, FN])) + '\n')
     _, recall, _, precision, _, f_score = return_metrics(TP, TN, FP, FN)
     if verbosity > 0:
-        print(f'{short} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')
+        print(
+            f'{short} & {100 * f_score:.2f} & {100 * precision:.2f} & {100 * recall:.2f} \\\\')

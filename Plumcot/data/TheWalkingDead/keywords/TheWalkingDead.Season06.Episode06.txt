@@ -1,0 +1,49 @@
+crossbow	Non
+motorcycle	Non
+asking for help	Non
+fuel truck	Non
+greenhouse	Non
+burned out building	Non
+ripped shirt	Non
+smelling a cigar	Non
+cigar box	Non
+humvee	Non
+insulin shot	Non
+pistol whip	Non
+episode title spoken by character	Non
+shot with a crossbow	Non
+gun held to head	Non
+threatened with a gun	Non
+walking in the woods	Non
+hands tied	Non
+woman wearing a tank top	Non
+falling off a motorcycle	Non
+military uniform	Non
+stealing a motorcycle	Non
+digging a grave	Non
+eaten alive	Non
+throat ripping	Non
+stabbed to death	Non
+stabbed in the head	Non
+bitten in the neck	Non
+cigar smoking	Non
+rpg	Non
+impalement	Non
+severed arm	Non
+bitten on the arm	Non
+character repeating someone else's dialogue	Non
+shot to death	Non
+shot in the forehead	Non
+corpse	Non
+walkie talkie	Non
+skeleton	Non
+burnt body	Non
+character's point of view camera shot	Non
+subjective camera	Non
+knocked out	Non
+campfire	Non
+forest	Non
+hit by a car	Non
+shootout	Non
+car crash	Non
+car chase	Non

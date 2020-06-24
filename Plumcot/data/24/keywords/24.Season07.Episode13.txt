@@ -1,0 +1,8 @@
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non

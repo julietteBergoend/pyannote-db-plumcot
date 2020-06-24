@@ -1,0 +1,48 @@
+speech	Non
+worry	Non
+gagged	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+pregnancy	Non
+period in episode title	Non
+man murders a woman	Non
+hyphen in episode title	Non
+colon in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+blonde girl	Non
+teenage girl	Non
+teenage daughter	Non
+teenager	Non
+splashing water on one's face	Non
+hostage exchange	Non
+shooting handcuffs off	Non
+tracking device	Non
+ambulance	Non
+handcuffed to something	Non
+champagne	Non
+flirting	Non
+van	Non
+shot in the chest	Non
+knocked unconscious	Non
+reference to the wall street journal	Non
+husband wife relationship	Non
+shot in the forehead	Non
+teenager in danger	Non
+family in danger	Non
+daughter in danger	Non
+husband in danger	Non
+pregnant wife	Non
+escaped prisoner	Non
+serbian	Non
+hood over head	Non
+held hostage	Non
+hostage	Non
+taken as hostage	Non
+bound and gagged	Non
+duct tape over mouth	Non
+campaign headquarters	Non
+presidential candidate	Non
+u.s. senator	Non
+person bundled into a van	Non

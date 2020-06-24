@@ -8,23 +8,22 @@ Extracts features from images given IMDB-compliant JSON file,
 
 # Dependencies
 
-## core
-import numpy as np
 import os
-from shutil import copyfile
 from pathlib import Path
+from shutil import copyfile
 
 ## ML/image processing
 import imageio
+## core
+import numpy as np
+## clustering
+from pyannote.core.utils.distance import pdist
+from pyannote.core.utils.hierarchy import linkage, fcluster_auto
 from pyannote.video import Face
 from pyannote.video.utils.scale_frame import scale_up_bbox, rectangle_to_bbox, \
     parts_to_landmarks
-
-## clustering
-from pyannote.core.utils.distance import pdist
-from scipy.spatial.distance import squareform
 from scipy.cluster.hierarchy import fcluster
-from pyannote.core.utils.hierarchy import linkage, fcluster_auto
+from scipy.spatial.distance import squareform
 
 # Hyperparameters are defined in scripts/images.py
 MODEL_NAME = "dlib_face_recognition_resnet_model_v1"
@@ -153,6 +152,7 @@ def compute_features(image_jsons, MODEL_NAME, DLIB_LANDMARKS, DLIB_EMBEDDING):
     ))
     return image_jsons
 
+
 def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
                        KEEP_IMAGE_TYPES=None, keep_faces=False):
     """
@@ -196,7 +196,8 @@ def compute_references(image_jsons, IMAGE_PATH, t=0.6, method='complete',
 
     # Clusters over every image in image_jsons
     for i, image in enumerate(image_jsons['allImages']):
-        print((f"\rimage {i + 1}/{image_jsons['totalImageCount']}."), end="                    ")
+        print((f"\rimage {i + 1}/{image_jsons['totalImageCount']}."),
+              end="                    ")
         if 'features' not in image:
             continue
         if KEEP_IMAGE_TYPES is not None and image['imageType'] not in KEEP_IMAGE_TYPES:

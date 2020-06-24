@@ -1,0 +1,26 @@
+terrorist	Non
+government agent	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+deal	Non
+terrorism	Non
+oval office	Non
+airplane	Non
+american president	Non
+biting	Non
+bitten in the neck	Non
+handcuffed	Non
+torture	Non
+exploding bus	Non
+bomb in a backpack	Non
+explosion	Non
+suicide bomber	Non
+split screen	Non
+real time	Non

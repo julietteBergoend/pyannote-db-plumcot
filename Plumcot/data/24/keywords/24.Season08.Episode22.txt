@@ -1,0 +1,33 @@
+pool of blood	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+threat	Non
+guard	Non
+fbi agent	Non
+bug	Non
+murder	Non
+violence	Non
+panic	Non
+video evidence	Non
+evidence	Non
+editor	Non
+tunnel	Non
+cover up	Non
+russian president	Non
+parking garage	Non
+elevator	Non
+death of recurring character	Non
+former president	Non
+female president	Non
+split screen	Non
+stabbed in the belly	Non
+motorcade	Non
+tear gas cannister	Non
+body armor	Non
+press conference	Non

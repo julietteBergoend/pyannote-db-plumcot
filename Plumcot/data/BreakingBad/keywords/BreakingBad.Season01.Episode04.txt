@@ -1,0 +1,65 @@
+crystal meth	1.0
+paranoid	1.0
+trust	1.0
+father son relationship	1.0
+drug abuse	Non
+crying woman	Non
+coughing up blood	Non
+crying	Non
+favoritism	Non
+peephole	Non
+lung cancer	Non
+motorcycle	Non
+setting a table	Non
+wad of money	Non
+son	Non
+pregnancy	Non
+taxi	Non
+man wears tighty whities	Non
+man wears underwear	Non
+oncologist	Non
+barbecue	Non
+car	Non
+doctor	Non
+pregnant	Non
+husband wife relationship	Non
+briefs	Non
+underwear	Non
+pool party	Non
+money problems	Non
+cancer treatment	Non
+bare chested male	Non
+favorite son	Non
+reference to jethro tull	Non
+piccolo	Non
+time lapse photography	Non
+hidden money	Non
+health maintenance organization	Non
+super gluing a cut	Non
+man with lung cancer	Non
+cookout	Non
+coughing blood	Non
+childhood home	Non
+setting a car on fire	Non
+child prodigy	Non
+wad of cash	Non
+hallucination	Non
+paranoia	Non
+mother son relationship	Non
+money	Non
+mistrust	Non
+brother	Non
+short circuit	0.0
+brochure	0.0
+yellow cab	0.0
+throwing money into the air	0.0
+looking through a peephole	0.0
+microscope	0.0
+setting the table	0.0
+grenade	0.0
+machete	0.0
+riding motorcycle	0.0
+walking with hand weights	0.0
+brushing teeth	0.0
+99.1 percent pure	0.0
+businessman	0.0

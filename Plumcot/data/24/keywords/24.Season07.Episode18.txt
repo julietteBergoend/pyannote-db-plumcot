@@ -1,0 +1,33 @@
+the white house	Non
+telephone call	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+swat	Non
+fbi car	Non
+driving	Non
+helicopter	Non
+computer	Non
+satellite	Non
+murder	Non
+shooting	Non
+canister	Non
+pathogen	Non
+disease	Non
+memory loss	Non
+real time update	Non
+cdc	Non
+national security	Non
+arrest	Non
+evidence	Non
+madame president	Non
+intelligence agency	Non
+terrorist	Non
+american flag	Non
+fbi	Non
+biological weapon	Non

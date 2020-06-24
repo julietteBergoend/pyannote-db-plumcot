@@ -1,0 +1,34 @@
+hostage	Non
+traitor	Non
+immunity	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+death of recurring character	Non
+betrayal	Non
+shooting out tire	Non
+security guard	Non
+parking garage	Non
+violence	Non
+murder	Non
+id card	Non
+immunity deal	Non
+mole	Non
+split screen	Non
+new york city	Non
+rescue mission	Non
+female president	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+infiltrator	Non
+throat cut	Non
+internet feed	Non
+torture	Non
+lookout	Non
+sniper	Non

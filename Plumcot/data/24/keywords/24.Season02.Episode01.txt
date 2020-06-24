@@ -1,0 +1,61 @@
+girl	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+wedding day	Non
+prime minister	Non
+special assistant to the president	Non
+abusive husband	Non
+murder of a witness	Non
+killing a witness	Non
+key witness	Non
+witness	Non
+witness murdered	Non
+killed in chair	Non
+shot in the chest	Non
+marital argument	Non
+abusive parent	Non
+abusive father	Non
+bedroom	Non
+domestic violence	Non
+pushed down	Non
+crying girl	Non
+bump on the head	Non
+towel on head	Non
+locking oneself inside a room	Non
+fiance fiancee relationship	Non
+sister sister relationship	Non
+two sisters	Non
+hanging up on someone	Non
+national security agency	Non
+family photograph	Non
+answering machine message	Non
+leaving message on answering machine	Non
+teenage daughter	Non
+teenager	Non
+blonde woman	Non
+blonde girl	Non
+nanny	Non
+widower	Non
+9 year old	Non
+falling from a sakteboard	Non
+skateboard	Non
+father daughter relationship	Non
+father daughter hug	Non
+bearded man	Non
+lake	Non
+fishing	Non
+operations center	Non
+father son relationship	Non
+oregon	Non
+subtitled scene	Non
+torture	Non
+seoul south korea	Non
+black president	Non
+black u.s. president	Non

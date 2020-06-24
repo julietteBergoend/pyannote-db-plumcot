@@ -1,0 +1,34 @@
+the white house	Non
+taxi	Non
+hospital	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+telephone call	Non
+second chance	Non
+dying	Non
+faith	Non
+crying	Non
+confession	Non
+conspiracy	Non
+headphones	Non
+helicopter	Non
+blood	Non
+bomb	Non
+security camera	Non
+justice	Non
+security	Non
+secret service	Non
+headshot	Non
+smoke	Non
+oil	Non
+garage	Non
+gunfire	Non
+gun	Non
+fbi	Non
+handcuffs	Non

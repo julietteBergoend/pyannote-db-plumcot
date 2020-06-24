@@ -240,6 +240,12 @@ The file is a semi-colon (`;`)-separated csv with a lot of useless fields. POS, 
 The ground truth fields are "token", "speaker" and "labelDoccano". I recommand using `Plumcot.loader.CsvLoader` to load the file in a `spaCy Doc`
 .
 
+Note that, in some rare case, fans transcribed `l` instead of `I` (e.g. `l am a TV character.`). This led to poor POS-tagging and is fixed in `Plumcot.loader.CsvLoader`. 
+
+Originally, mentions referring to several entities were annotated like `<entityA>-<entityB>`. 
+Since this was too costly we then annotated as `multiple_persons` (see below).
+In `Plumcot.loader.CsvLoader` these are converted to `multiple_persons` for consistency.
+
 #### linguistic rules for semi-automatic annotation
 
 - "you", "ya", "your", "yourself", "yours" processing:

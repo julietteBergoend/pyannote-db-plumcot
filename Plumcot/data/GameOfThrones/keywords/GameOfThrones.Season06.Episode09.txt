@@ -1,0 +1,69 @@
+battle	1.0
+snow	1.0
+cruelty	1.0
+wildling	1.0
+dragon	1.0
+animal attack	1.0
+smiling	1.0
+brother	1.0
+hound	1.0
+bloody face	1.0
+flag	1.0
+archer	1.0
+sword	1.0
+horn	1.0
+sister	1.0
+sibling	1.0
+horse	1.0
+dead body	1.0
+blood	1.0
+knife	1.0
+flying	1.0
+ship	1.0
+catapult	1.0
+fire	1.0
+translator	0.5
+revenge	Non
+deal	Non
+eaten alive	Non
+dog licking face	Non
+locked in a cell	Non
+punched in the face multiple times	Non
+shot with multiple arrows	Non
+trampled	Non
+pile of dead bodies	Non
+headless horseman	Non
+hand to hand combat	Non
+pitched battle	Non
+cavalry charge	Non
+volley of arrows	Non
+armada	Non
+throat cut	Non
+ship fire	Non
+severed head	Non
+fire breathing dragon	Non
+brig	Non
+caravel	Non
+naval bombardment	Non
+fire bomb	Non
+torsion catapult	Non
+dead boy	Non
+death of brother	Non
+bite	Non
+loss	Non
+crypt	Non
+licking	Non
+shield	Non
+screaming	Non
+body armor	Non
+running	Non
+sunrise	Non
+lord	Non
+bastard	Non
+candle	Non
+beard	Non
+dwarf	Non
+queen	Non
+fantasy world	Non
+eunuch	0.0
+mad queen	0.0

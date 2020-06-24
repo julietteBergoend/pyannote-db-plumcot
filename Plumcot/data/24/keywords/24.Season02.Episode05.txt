@@ -1,0 +1,43 @@
+pay phone	Non
+ambassador	Non
+president	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+special assistant to the president	Non
+abusive husband	Non
+abusive father	Non
+dying man	Non
+hours to live	Non
+reference to fox news	Non
+operations center	Non
+boyfriend girlfriend relationship	Non
+helicopter crash	Non
+helicopter	Non
+sister sister relationship	Non
+two sisters	Non
+presidential pardon	Non
+coughing	Non
+father daughter relationship	Non
+wedding day	Non
+reference to the manson family	Non
+dying words	Non
+death of a co worker	Non
+suspected terrorist	Non
+teenage girl	Non
+hospital	Non
+emergency room	Non
+radiation sickness	Non
+teenage daughter	Non
+teenager	Non
+blonde woman	Non
+blonde girl	Non
+nanny	Non
+widower	Non
+black u.s. president	Non

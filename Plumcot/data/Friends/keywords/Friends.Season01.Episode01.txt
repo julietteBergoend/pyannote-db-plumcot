@@ -1,0 +1,55 @@
+new roommate	1.0
+wedding dress	1.0
+bride	1.0
+wedding day	1.0
+reference to liza minnelli	0.5
+series premiere	Non
+season premiere	Non
+aura	Non
+woman wearing a wedding dress	Non
+reference to a gravy boat	Non
+reference to dear diary	Non
+first date	Non
+reference to aruba	Non
+cut off by answering machine	Non
+chinese restaurant	Non
+spending the night	Non
+reference to suicide	Non
+watch	Non
+oreo	Non
+hate	Non
+kiss	Non
+runaway bride	Non
+old friend	Non
+reference to las vegas nevada	Non
+library card	Non
+credit card	Non
+cutting up a credit card	Non
+boots	Non
+implied sex	Non
+spitting a drink into someone's face	Non
+spitting out a drink	Non
+baseball cap worn backwards	Non
+ok hand sign	Non
+dinner date	Non
+telling someone to shut up	Non
+can of beer	Non
+bookcase	Non
+assembling furniture	Non
+subway station	Non
+playing acoustic guitar	Non
+busking	Non
+metaphor	Non
+hyperventilation	Non
+paper bag	Non
+watching tv	Non
+female chef	Non
+cordless phone	Non
+reference to mr. potato head	Non
+recounting a dream	Non
+pilot episode	Non
+character name in episode title	Non
+thinking out loud	Non
+number in title	Non
+reference to pinocchio	0.0
+character name in title	0.0

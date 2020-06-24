@@ -1,0 +1,59 @@
+quarantine	Non
+hotel	Non
+nosebleed	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+british in america	Non
+englishman abroad	Non
+british villain	Non
+englishman	Non
+smashing a window	Non
+shot while trying to escape	Non
+death by gunshot	Non
+woman kills a man	Non
+shot in the back	Non
+firing gun at ceiling	Non
+explosion	Non
+bomb explosion	Non
+car explosion	Non
+car bomb	Non
+chief of police	Non
+lying to the police	Non
+alibi	Non
+lying	Non
+fire alarm	Non
+walkie talkie	Non
+band aid on neck	Non
+female slaps a male	Non
+woman slaps a man	Non
+face slap	Non
+backhand slap	Non
+handcuffed to something	Non
+worrying about one's wife	Non
+worried husband	Non
+hand bandage	Non
+ex husband ex wife relationship	Non
+chief of staff	Non
+brother brother relationship	Non
+two brothers	Non
+tracking device	Non
+blonde woman	Non
+shoot to kill	Non
+health services	Non
+handcuffed man	Non
+handcuffed to a radiator	Non
+arms dealer	Non
+sitting backward on a chair	Non
+husband wife relationship	Non
+security guard	Non
+head of security	Non
+biothreat	Non
+virus	Non
+black u.s. president	Non

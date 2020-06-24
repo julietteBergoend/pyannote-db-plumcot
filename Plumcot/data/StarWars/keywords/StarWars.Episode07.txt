@@ -1,0 +1,526 @@
+reboot	0.9950248756218906
+sanitation employee	1.0
+remake	0.9940119760479041
+wisecrack humor	1.0
+sewer cleaner	0.9924242424242424
+sewage cleaner	0.9915966386554622
+crash landing	0.9906542056074766
+obesity	0.9830508474576272
+sabotage	0.9887640449438202
+cloning	0.9819819819819819
+hatred	1.0
+actor reprises previous role	0.9864864864864865
+character says i have a bad feeling about this	0.9726027397260274
+one liner	1.0
+death	0.9642857142857143
+torture	1.0
+destruction	1.0
+angry man	1.0
+murder	1.0
+betrayal	0.9
+good vs evil	0.8888888888888888
+disney star wars	1.0
+turncoat	1.0
+magical power	0.6428571428571429
+african british	0.6363636363636364
+scrap dealer	0.5384615384615384
+bipedal alien	0.5
+deception	0.5
+massacre	0.45454545454545453
+unattractive woman	0.6666666666666666
+junkyard	0.6666666666666666
+quicksand	0.6666666666666666
+girl	1.0
+fear	0.4
+reference to darth vader	0.5
+orphan	0.3125
+megalomaniac	0.375
+patricide	0.24242424242424243
+scavenger	0.3076923076923077
+desert planet	0.2777777777777778
+helmet	0.2777777777777778
+father son relationship	0.25
+duel	0.2631578947368421
+shot to death	0.4
+world destruction	0.2857142857142857
+rage	0.2857142857142857
+outer space	0.21052631578947367
+female protagonist	0.1794871794871795
+desert	0.21212121212121213
+family drama	0.25
+forest	0.25
+scrap merchant	0.25
+wilhelm scream	0.2727272727272727
+written by director	0.3333333333333333
+death of father	0.3333333333333333
+droid	0.21739130434782608
+opening crawl	0.5
+leather jacket	0.5
+man sweating	0.5
+pointing a gun on someone	0.5
+legend	0.5
+asiatic	0.5
+starkiller base	0.5
+bar scene	0.5
+rescue mission	0.5
+man with no name	0.5
+mind reading	0.5
+fugitive	0.5
+dogfight	0.5
+redemption	0.5
+crossbow	0.5
+destruction of planet	0.20833333333333334
+fictional planet	0.2222222222222222
+village	0.25
+super weapon	0.19230769230769232
+open ended	0.2857142857142857
+male female hug	0.2857142857142857
+tentacled creature	0.2857142857142857
+returning character killed off	0.2857142857142857
+talking robot	0.2857142857142857
+hologram	0.2857142857142857
+pilot	0.21428571428571427
+soldier	0.21428571428571427
+exploding planet	0.21428571428571427
+luke skywalker character	0.25
+destiny	0.25
+lens flare	0.25
+thirst	0.25
+mind control	0.25
+weapon of mass destruction	0.2
+battle	0.17391304347826086
+gunfight	0.1875
+snow	0.1875
+han solo character	0.2222222222222222
+stormtrooper	0.2222222222222222
+death of hero	0.2222222222222222
+supernatural power	0.2222222222222222
+number in character's name	0.2222222222222222
+fictional war	0.2222222222222222
+mass murder	0.2222222222222222
+hyperspace	0.2222222222222222
+escape	0.2222222222222222
+space battle	0.15384615384615385
+stormtrooper character	0.3333333333333333
+villain	0.3333333333333333
+part of trilogy	0.3333333333333333
+strong female	0.3333333333333333
+poe dameron character	0.3333333333333333
+bb 8 character	0.3333333333333333
+kylo ren character	0.3333333333333333
+rey character	0.3333333333333333
+finn character	0.3333333333333333
+smuggler	0.3333333333333333
+interrogation	0.3333333333333333
+astromech droid	0.3333333333333333
+telekinesis	0.14814814814814814
+violent outburst	0.2
+space opera	0.12
+spaceship	0.15789473684210525
+star wars	0.10227272727272728
+lightsaber	0.12195121951219512
+abandoned ship	0.18181818181818182
+the force	0.11363636363636363
+weapons fire	Non
+handheld weapon	Non
+knocked unconscious	Non
+lifting someone into the air	Non
+repair	Non
+jacket	Non
+thin girl	Non
+escapee	Non
+thumbs up	Non
+talking to a robot	Non
+theft	Non
+thief	Non
+stealing	Non
+stealer	Non
+robbery	Non
+robber	Non
+shut down	Non
+star	Non
+cockpit	Non
+gate	Non
+black man	Non
+hiding	Non
+compartment	Non
+owner	Non
+ownership	Non
+blast	Non
+sad	Non
+sweat	Non
+sweating	Non
+sweating man	Non
+levitation	Non
+choking	Non
+beast	Non
+thirsty	Non
+oxygen mask	Non
+equipment	Non
+machine	Non
+machinery	Non
+tool	Non
+lying	Non
+liar	Non
+man lying down	Non
+pretense	Non
+pursuit	Non
+old man	Non
+holster	Non
+intruder	Non
+pointing finger	Non
+stubble	Non
+antenna	Non
+torch	Non
+steam	Non
+tentacles	Non
+closed circuit tv surveilance	Non
+jaw	Non
+fang	Non
+corridor	Non
+running away	Non
+growl	Non
+devouring	Non
+running	Non
+girl running	Non
+search	Non
+closed circuit television camera	Non
+closed circuit tv	Non
+pointing a gun at someone	Non
+microphone	Non
+headphone	Non
+coincidence	Non
+accident	Non
+slashing	Non
+smash	Non
+payment	Non
+wicket	Non
+confused	Non
+control	Non
+chain of command	Non
+throne	Non
+sideburns	Non
+parent child relationship	Non
+leak	Non
+game	Non
+3d game	Non
+recruitment	Non
+bunk bed	Non
+bed	Non
+brunette	Non
+brunette female	Non
+lake	Non
+greenery	Non
+chest	Non
+basement	Non
+proprietor	Non
+proprietress	Non
+spy	Non
+old woman	Non
+small business owner	Non
+band	Non
+holding hands	Non
+stairwell	Non
+seeing past self	Non
+the past	Non
+tears	Non
+crying girl	Non
+crying woman	Non
+general hux character	Non
+supreme leader snoke character	Non
+girl talks too much	Non
+psychotronic film	Non
+reference to disney star wars	Non
+actress reprises previous role	Non
+ensemble cast	Non
+billion dollar club	Non
+spaghetti western	Non
+sci fi western	Non
+cgi character in a live action movie	Non
+interracial relationship	Non
+reylo	Non
+woman murders a man	Non
+directed by j.j. abrams	Non
+deep voice	Non
+lucasfilm	Non
+written by j.j. abrams	Non
+produced by j.j. abrams	Non
+produced by kathleen kennedy	Non
+disney	Non
+weapon	Non
+produced by michelle rejwan	Non
+bad robot productions	Non
+written by george lucas	Non
+produced by lawrence kasdan	Non
+written by lawrence kasdan	Non
+sequel baiting	Non
+music by john williams	Non
+action girl	Non
+tentacle	Non
+stabbed through the chest	Non
+princess leia organa character	0.25
+admiral ackbar character	0.25
+jakku the planet	0.25
+reference to anakin skywalker	0.25
+maz kanata character	0.25
+takodana the planet	0.25
+captain phasma character	0.25
+x wing starfighter	0.25
+starfighter pilot	0.25
+scavenging for parts	0.25
+deserter	0.25
+space fleet	0.25
+macguffin	0.25
+resistance fighter	0.25
+reluctant hero	0.25
+anger	0.25
+death of friend	0.25
+robot	0.13043478260869565
+jedi	0.125
+sword fight	0.125
+masked man	0.15384615384615385
+sequel	0.10526315789473684
+spaceship crash	0.14285714285714285
+mother daughter relationship	0.14285714285714285
+millennium falcon	0.11538461538461539
+c 3po character	0.2
+son murders father	0.2
+clone soldier	0.2
+midget	0.2
+space station	0.2
+space travel	0.2
+alien creature	0.2
+alien	0.2
+produced by director	0.2
+creature	0.2
+violence	0.2
+coercive persuasion	0.2
+telepathy	0.11764705882352941
+female warrior	0.09090909090909091
+chewbacca character	0.16666666666666666
+resistance	0.16666666666666666
+chase	0.16666666666666666
+flame thrower	0.16666666666666666
+plasma	0.16666666666666666
+jedi knight	0.10526315789473684
+science fantasy	0.09523809523809523
+blockbuster	0.09523809523809523
+map	0.14285714285714285
+goggles	0.14285714285714285
+bar	0.14285714285714285
+woman hits a man	0.14285714285714285
+humanoid robot	0.14285714285714285
+humanoid alien	0.14285714285714285
+shooting	0.14285714285714285
+gun	0.14285714285714285
+hand to hand combat	0.14285714285714285
+seventh part	0.09090909090909091
+crisis of conscience	0.125
+asteroid belt	0.125
+tie fighter	0.125
+hope	0.1111111111111111
+jailbreak	0.1111111111111111
+anti heroine	0.1111111111111111
+imax version	0.1111111111111111
+damsel in distress	0.1
+no opening credits	0.1
+wookiee	0.1
+roman numbered sequel	0.1
+roman numeral in title	0.1
+surprise ending	0.1
+female general	0.08333333333333333
+female hero	0.058823529411764705
+obi wan kenobi character	0.0
+r2 d2 character	0.0
+yoda character	0.0
+humanoid droid	0.0
+heroine	0.0
+hero	0.0
+girl spy	0.0
+brother sister relationship	0.0
+shared universe	0.0
+angry	0.0
+hair bun	0.0
+running girl	0.0
+living legend	0.0
+legends	0.0
+philosophy	0.0
+lightsaber duel	0.0
+spacecraft wreckage	0.0
+planet	0.0
+on the run	0.0
+general	0.0
+male soldier	0.0
+british african	0.0
+caucasian	0.0
+crossguard lightsaber	0.0
+starfighter pilot helmet	0.0
+mon calamari	0.0
+flight helmet	0.0
+blaster pistol	0.0
+crashed starship	0.0
+protocol droid	0.0
+female starfighter pilot	0.0
+spacecraft cockpit	0.0
+human in outer space	0.0
+battlecruiser starship	0.0
+battlecruiser	0.0
+strong female lead	0.0
+advanced technology	0.0
+masked villain	0.0
+outnumbered	0.0
+remote detonator	0.0
+lightsaber battle	0.0
+character says may the force be with you	0.0
+seven word title	0.0
+planetary destruction	0.0
+strong woman	0.0
+rationing	0.0
+food shortage	0.0
+tentacled alien	0.0
+handheld detonator	0.0
+character repeating someone else's dialogue	0.0
+face slap	0.0
+spit take	0.0
+arrest	0.0
+world domination	0.0
+prisoner	0.0
+attack	0.0
+fighter pilot	0.0
+danger	0.0
+outpost	0.0
+strangulation	0.0
+admiral	0.0
+major	0.0
+gang	0.0
+commander	0.0
+epic	0.0
+space western	0.0
+key	0.0
+nurse	0.0
+prosthetic limb	0.0
+aerial shot	0.0
+robotic arm	0.0
+unlikely hero	0.0
+cellar	0.0
+bartender	0.0
+blizzard	0.0
+eaten alive	0.0
+near death experience	0.0
+henchman	0.0
+shipwreck	0.0
+ambiguous ending	0.0
+skull	0.0
+air strike	0.0
+hearing voices	0.0
+courage	0.0
+electrocution	0.0
+saga	0.0
+spear	0.0
+mission	0.0
+presumed dead	0.0
+power outage	0.0
+scottish accent	0.0
+binoculars	0.0
+adventure hero	0.0
+quest	0.0
+female pilot	0.0
+water	0.0
+walkie talkie	0.0
+detonator	0.0
+explosive	0.0
+survival	0.0
+race against time	0.0
+sun	0.0
+co pilot	0.0
+good versus evil	0.0
+vision	0.0
+woods	0.0
+ambush	0.0
+prisoner of war	0.0
+heavy rain	0.0
+island	0.0
+blood	0.0
+subtitled scene	0.0
+bilingualism	0.0
+elevator	0.0
+giant	0.0
+monster	0.0
+female spy	0.0
+female soldier	0.0
+brutality	0.0
+mercilessness	0.0
+fire	0.0
+cape	0.0
+tent	0.0
+flamethrower	0.0
+spacecraft	0.0
+missing person	0.0
+assassin	0.0
+bounty hunter	0.0
+rescue	0.0
+held at gunpoint	0.0
+army	0.0
+genetic engineering	0.0
+hostage	0.0
+humor	0.0
+lieutenant	0.0
+captain	0.0
+kidnapping	0.0
+revenge	0.0
+falling from height	0.0
+long take	0.0
+bombardment	0.0
+film starts with text	0.0
+famous score	0.0
+coming of age	0.0
+laser gun	0.0
+laser	0.0
+cannon	0.0
+laser cannon	0.0
+exploding building	0.0
+exploding ship	0.0
+explosion	0.0
+slow motion scene	0.0
+brawl	0.0
+fight	0.0
+fistfight	0.0
+woman punches a man	0.0
+punched in the face	0.0
+one against many	0.0
+woman fights a man	0.0
+chaos	0.0
+opening action scene	0.0
+tough girl	0.0
+one woman army	0.0
+warp speed	0.0
+action heroine	0.0
+warrior	0.0
+tough guy	0.0
+one man army	0.0
+sword duel	0.0
+anti hero	0.0
+foot chase	0.0
+action hero	0.0
+combat	0.0
+battlefield	0.0
+stylized violence	0.0
+mixed martial arts	0.0
+stabbed in the chest	0.0
+stabbed in the shoulder	0.0
+female fighter	0.0
+shot in the back	0.0
+shot in the chest	0.0
+shot in the arm	0.0
+shot in the shoulder	0.0
+shot in the head	0.0
+starship bridge	0.0
+starfighter	0.0
+star destroyer	0.0
+snowy landscape	0.0
+epic battle	0.0
+showdown	0.0
+martial arts	0.0
+shootout	0.0
+five word title	0.0
+winter	0.0

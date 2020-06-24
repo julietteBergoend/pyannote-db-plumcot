@@ -1,0 +1,28 @@
+son	Non
+arms dealer	Non
+threat	Non
+radiation poisoning	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+terrorism	Non
+terrorist	Non
+counter terrorism	Non
+new york city	Non
+brother	Non
+doctor	Non
+undercover mission	Non
+undercover agent	Non
+undercover	Non
+violence	Non
+female president	Non
+interrogation	Non
+gun held to head	Non
+severed thumb	Non
+tear on cheek	Non
+rounding up insurgents	Non

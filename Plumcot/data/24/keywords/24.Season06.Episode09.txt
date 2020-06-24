@@ -1,0 +1,51 @@
+hyphen in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+time in episode title	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+telephone call	Non
+truck explosion	Non
+set up	Non
+house explosion	Non
+bomb explosion	Non
+jumping through a window	Non
+shooting out tire	Non
+russian general	Non
+reference to cold war	Non
+duress	Non
+father in law daughter in law relationship	Non
+worrying about one's son	Non
+worried mother	Non
+son in danger	Non
+grandfather grandson relationship	Non
+face slap	Non
+woman slaps a man	Non
+conspirator	Non
+u.s. vice president	Non
+photograph	Non
+brother in law sister in law relationship	Non
+parent grown child relationship	Non
+bunker	Non
+helicopter	Non
+suitcase bomb	Non
+counter terrorism	Non
+terrorism	Non
+terrorist	Non
+hand grenade	Non
+chase	Non
+trap	Non
+bomb	Non
+escape	Non
+violence	Non
+van	Non
+explosion	Non
+hostage	Non
+blackmail	Non
+guilt	Non
+father son relationship	Non
+government agent	Non
+split screen	Non

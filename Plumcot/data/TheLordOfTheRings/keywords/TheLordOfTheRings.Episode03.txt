@@ -1,0 +1,475 @@
+orc	1.0
+epic	1.0
+battle	1.0
+journey	1.0
+hobbit	1.0
+ring	1.0
+middle earth	1.0
+king	1.0
+quest	1.0
+fate	1.0
+falling into lava	1.0
+lava	1.0
+volcano	1.0
+volcanic eruption	1.0
+curse	1.0
+wizard	1.0
+good versus evil	1.0
+courage	1.0
+elrond character	1.0
+galadriel character	1.0
+legolas character	1.0
+gollum character	1.0
+frodo baggins character	1.0
+saruman the white character	1.0
+orcs character	1.0
+gandalf character	1.0
+elves character	1.0
+bilbo baggins character	1.0
+third part	1.0
+sequel	1.0
+male protagonist	1.0
+violence	1.0
+ensemble cast	1.0
+battleaxe	1.0
+tree	1.0
+dead tree	1.0
+barefoot	1.0
+swordsman	1.0
+mountain	1.0
+royal	1.0
+death	1.0
+bowing	1.0
+throne	1.0
+fireplace	1.0
+hatred	1.0
+army	1.0
+flying creature	1.0
+ruins	1.0
+ambush	1.0
+outpost	1.0
+signal	1.0
+singing	1.0
+bare chested male	1.0
+blockbuster	1.0
+cult classic	1.0
+famous score	1.0
+end of trilogy	1.0
+no opening credits	1.0
+part computer animation	1.0
+trilogy	1.0
+orchestral music score	1.0
+symphonic music score	1.0
+third in trilogy	1.0
+part of trilogy	1.0
+flashback	1.0
+returning character killed off	1.0
+sequel to cult favorite	1.0
+colon in title	1.0
+ten word title	1.0
+last of series	1.0
+city	1.0
+gate	1.0
+elvish	1.0
+camaraderie	1.0
+anti hero	1.0
+drinking	1.0
+final battle	1.0
+kingdom	1.0
+last stand	1.0
+staff	1.0
+sword and fantasy	1.0
+axe fight	1.0
+hand to hand combat	1.0
+fictional war	1.0
+ancient race	1.0
+journey shown on map	1.0
+finger bitten off	1.0
+shot back to back	1.0
+invented language	1.0
+race against time	1.0
+mission	1.0
+magic	1.0
+tragic hero	1.0
+wilhelm scream	1.0
+tragic villain	1.0
+tied up	1.0
+dark hero	1.0
+light	1.0
+split personality	1.0
+ship	1.0
+plain	1.0
+horse	1.0
+wedding ceremony	1.0
+sorcerer	1.0
+monster	1.0
+fire	1.0
+warrior	1.0
+tragedy	1.0
+strangulation	1.0
+spirit	1.0
+disfigurement	1.0
+tunnel	1.0
+troll	1.0
+tower	1.0
+temptation	1.0
+rescue	1.0
+invisibility	1.0
+forest	1.0
+eagle	1.0
+combat	1.0
+dwarf	1.0
+sword	1.0
+elf	1.0
+castle	1.0
+sword and sorcery	1.0
+based on novel	1.0
+loyalty	0.6666666666666666
+chaste character	1.0
+motion capture	1.0
+white tree	1.0
+dancing	1.0
+beard	1.0
+bearded man	1.0
+hoodie	1.0
+horseman	1.0
+helmet	1.0
+high	1.0
+leaf	1.0
+cutting off a finger	1.0
+scuffle	1.0
+isolation	1.0
+fish	1.0
+candle	1.0
+statue	1.0
+lightning	1.0
+bridge	1.0
+amphibian	1.0
+swords drawn	1.0
+torch	1.0
+overrun	1.0
+rope	1.0
+starting a fire	1.0
+blonde girl	1.0
+brown horse	1.0
+blood	1.0
+whispering	1.0
+dual personality	1.0
+oath	1.0
+stealing food	1.0
+kissing the ring	1.0
+lie	1.0
+close up of mouth	1.0
+archer	1.0
+neighing	1.0
+tent	1.0
+samwise gamgee character	1.0
+gimli character	1.0
+boromir character	1.0
+aragorn character	1.0
+epic battle	1.0
+parley	1.0
+tearjerker	1.0
+multiple cameos	1.0
+suspicion	1.0
+single blade axe	1.0
+speaking elvish	1.0
+blood splatter	1.0
+drinking game	1.0
+fear	1.0
+bow and arrow	1.0
+shot with a bow and arrow	1.0
+showdown	1.0
+dream	1.0
+idealism	1.0
+warrior woman	1.0
+hope	1.0
+destiny	1.0
+abyss	1.0
+lava stream	1.0
+vision	1.0
+princess	1.0
+horn	1.0
+defense	1.0
+pub	1.0
+marriage	1.0
+boat	1.0
+soldier	1.0
+trampled to death	1.0
+stabbed in the neck	1.0
+stabbed in the leg	1.0
+stabbed in the back	1.0
+stabbed in the arm	1.0
+shot in the stomach	1.0
+wound	1.0
+wedding	1.0
+walled city	1.0
+suicide	1.0
+stairs	1.0
+person on fire	1.0
+old age	1.0
+murder	1.0
+madness	1.0
+giant bird	1.0
+ghost	1.0
+fortress	1.0
+fishing	1.0
+falling from height	1.0
+disguise	1.0
+decoy	1.0
+crystal ball	1.0
+betrayal	1.0
+battering ram	1.0
+archery	1.0
+friendship	1.0
+severed finger	1.0
+spider	0.5
+drunkenness	0.5
+battlefield	0.5
+animate tree	0.5
+surprise ending	0.5
+giant spider	0.3333333333333333
+platonic relationship	Non
+cousin cousin relationship	Non
+brother sister relationship	Non
+uncle nephew relationship	Non
+cooperation	Non
+passed out	Non
+passed out on the floor	Non
+unconscious man	Non
+catatonic	Non
+courtyard	Non
+talking in sleep	Non
+sleeping with eyes open	Non
+feast	Non
+ale	Non
+two men dancing	Non
+sweating	Non
+man sweating	Non
+pond	Non
+talking to oneself	Non
+fool	Non
+pillar	Non
+dancing on a table	Non
+plan	Non
+long haired man	Non
+man with long hair	Non
+long haired woman	Non
+long feminine hair cut	Non
+girl with long feminine hair	Non
+feminine	Non
+aid	Non
+armour	Non
+dancing on table	Non
+smoking man	Non
+veiled woman	Non
+narcotics	Non
+drug	Non
+hay	Non
+smoking joints	Non
+foresight	Non
+blacksmith	Non
+cape	Non
+blade	Non
+cutting off finger	Non
+quarrel	Non
+asleep	Non
+murderer	Non
+kill	Non
+killing	Non
+killer	Non
+raw fish	Non
+eating raw fish	Non
+gazebo	Non
+book	Non
+holding hands	Non
+cold hand	Non
+ashen skin	Non
+snow capped mountain	Non
+rock face	Non
+stubble	Non
+hall	Non
+banner	Non
+beacon	Non
+steward	Non
+caretaker	Non
+wind in hair	Non
+legion	Non
+mammoth	Non
+mercenary	Non
+crouching	Non
+screech	Non
+covering ears	Non
+stairway	Non
+pulling someone aside	Non
+ground shaking	Non
+sleeping on the floor	Non
+covering one's ears	Non
+marching	Non
+axe	Non
+scythe	Non
+climbing a mountain	Non
+covering one's ears with one's hands	Non
+covering ears with hands	Non
+setting a fire	Non
+mountain pass	Non
+peak	Non
+marching soldiers	Non
+running	Non
+man running	Non
+running man	Non
+chick	Non
+blonde woman	Non
+mobilization	Non
+goatee	Non
+captain	Non
+army mobilization	Non
+massacre	Non
+slaughter	Non
+club	Non
+bloody mouth	Non
+blood lust	Non
+bad teeth	Non
+evacuation	Non
+thrown through the air	Non
+thrown into the air	Non
+tossed in the air	Non
+come to the rescue	Non
+ride to the rescue	Non
+lone defender to rescue	Non
+helping hand	Non
+tired	Non
+panting	Non
+voracious appetite	Non
+grape	Non
+cherry tomato	Non
+ginger	Non
+chalice	Non
+sleeping rough	Non
+plot	Non
+accusation	Non
+bread crumbs	Non
+choking someone	Non
+dismissal	Non
+turning against friends	Non
+hopeless cause	Non
+lament	Non
+stuffing face	Non
+camp	Non
+restless horse	Non
+visible breath	Non
+siege tower	Non
+inscription	Non
+restless sleep	Non
+good guys win	Non
+dry for wet	Non
+live action and animation	Non
+psychotronic film	Non
+chewing with one's mouth open	Non
+cgi character in a live action movie	Non
+opening action scene	Non
+fistfight	Non
+final showdown	Non
+smoking pot	Non
+pipe smoking	Non
+actor reprises previous role	Non
+undead army	Non
+gloating	Non
+emaciation	Non
+disarming someone	Non
+husband wife relationship	Non
+love triangle	Non
+paralysis	Non
+pirate	Non
+witch	Non
+undead	Non
+christ figure	Non
+peril	Non
+melodrama	Non
+ancient sword	Non
+alliance	Non
+skull	Non
+river	Non
+warrior race	Non
+brotherhood	Non
+honor	Non
+dying words	Non
+harbor	Non
+retreat	Non
+exhaustion	Non
+departure	Non
+greed	Non
+corruption	Non
+stabbed in the side	Non
+stabbed in the mouth	Non
+shot in the shoulder	Non
+shot in the neck	Non
+shot in the head	Non
+shot in the forehead	Non
+severed nose	Non
+nightmare	Non
+loss of friend	Non
+loss of father	Non
+loss of brother	Non
+insanity	Non
+deception	Non
+darkness	Non
+broken leg	Non
+broken back	Non
+self immolation	Non
+gardener	Non
+wraith	Non
+unrequited love	Non
+tomb	Non
+sword fight	Non
+staircase	Non
+signal fire	Non
+siege	Non
+severed head	Non
+sailboat	Non
+pyre	Non
+presumed dead	Non
+premonition	Non
+loss of son	Non
+impalement	Non
+fight	Non
+father son relationship	Non
+father daughter relationship	Non
+elephant	Non
+crushed to death	Non
+coronation	Non
+cocoon	Non
+cliff	Non
+cavalry	Non
+catapult	Non
+animal attack	Non
+halfling	Non
+heroism	Non
+decapitation	Non
+throat slitting	Non
+bravery	Non
+death of father	Non
+dead son	0.0
+sneaking	0.0
+academy award winner	0.0
+billion dollar club	0.0
+cult film	0.0
+cult director	0.0
+franchise	0.0
+lifting someone into the air	0.0
+lifting an adult into the air	0.0
+lifting a male into the air	0.0
+slow motion scene	0.0
+underwater scene	0.0
+main character dies	0.0
+army of the dead	0.0
+balladeer	0.0
+friends who live together	0.0
+41st century b.c.	0.0
+5th millennium b.c.	0.0
+prehistoric times	0.0
+prehistory	0.0
+gore	0.0
+attempted murder	0.0
+survival	0.0
+beowulf	0.0

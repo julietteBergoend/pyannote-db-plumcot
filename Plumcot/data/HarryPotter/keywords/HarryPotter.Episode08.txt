@@ -1,0 +1,285 @@
+ginny weasley character	1.0
+lucius malfoy character	1.0
+hermione granger character	1.0
+battle	1.0
+final battle	1.0
+school of magic	1.0
+back from the dead	1.0
+coming of age	1.0
+unlikely hero	1.0
+fictional war	1.0
+epilogue	1.0
+death of friend	1.0
+based on novel	1.0
+remus lupin character	Non
+draco malfoy character	Non
+rubeus hagrid character	Non
+peter pettigrew character	Non
+neville longbottom character	Non
+lord voldemort character	Non
+pansy parkinson character	Non
+arthur weasley character	Non
+lily potter character	Non
+harry potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+gregory goyle character	Non
+dean thomas character	Non
+filius flitwick character	Non
+argus filch character	Non
+cho chang character	Non
+george weasley character	Non
+minerva mcgonagall character	Non
+ron weasley character	Non
+fred weasley character	Non
+younger version of character	Non
+male protagonist	Non
+shared universe	Non
+petunia dursley character	Non
+death eater	Non
+molly weasley character	Non
+albus dumbledore character	Non
+severus snape character	Non
+luna lovegood character	Non
+bellatrix lestrange character	Non
+sirius black character	Non
+harry potter movie franchise	Non
+psychotronic film	Non
+all star cast	Non
+billion dollar club	Non
+boy wears eyeglasses	Non
+second part	Non
+long haired female	Non
+grave	Non
+disembodied voice	Non
+actor reprises previous role	Non
+conclusion	Non
+professor	Non
+long haired man	Non
+gringotts wizarding bank	Non
+identical twins	Non
+teenage witch	Non
+eight film in series	Non
+fang	Non
+teenage boy	Non
+sword of gryffindor	Non
+dementor	Non
+teenage wizard	Non
+bladed weapon	Non
+snake attack	Non
+topless teenage boy	Non
+shirtless male	Non
+night	Non
+arachnid	Non
+bearded man	Non
+secret passage	Non
+boathouse	Non
+headmaster	Non
+magical shield	Non
+pensieve	Non
+male caretaker	Non
+chamber of secrets	Non
+forehead scar	Non
+female professor	Non
+map	Non
+sorting hat	Non
+evil witch	Non
+room of requirement	Non
+locomotive	Non
+twin brothers	Non
+diadem	Non
+passenger compartment	Non
+female ghost	Non
+flying broomstick	Non
+horace slughorn character	Non
+enchanted object	Non
+train platform	Non
+schoolgirl	Non
+teenager versus adult	Non
+staircase	Non
+long haired male	Non
+animal	Non
+goblin	Non
+serpent	Non
+actress reprises previous role	Non
+teenage protagonist	Non
+caretaker	Non
+man	Non
+flying dragon	Non
+levitating object	Non
+schoolboy	Non
+weapon	Non
+steam locomotive	Non
+teenage girl	Non
+night time	Non
+bespectacled male	Non
+secret passageway	Non
+bespectacled teenage boy	Non
+handheld weapon	Non
+long haired teenage girl	Non
+school	Non
+shirtless teenage boy	Non
+topless male	Non
+twins	Non
+female teacher	Non
+spiral staircase	Non
+nymphadora tonks character	Non
+child	Non
+baby boy	Non
+scar on the forehead	Non
+woman killed	Non
+bridge	Non
+narcissa malfoy character	Non
+impassioned speech	Non
+blond teenage boy	Non
+19 years later	Non
+immortality	Non
+tough girl	Non
+strong female lead	Non
+female hero	Non
+strong female character	Non
+destruction	Non
+pretending to be dead	Non
+hobgoblin	Non
+evil sorcerer	Non
+resurrection	Non
+teacher	Non
+violence	Non
+combat	Non
+double cross	Non
+bank vault	Non
+disguise	Non
+impostor	Non
+battlefield	Non
+magical broomstick	Non
+force field	Non
+animate statue	Non
+moving statue	Non
+final showdown	Non
+bildungsroman	Non
+based on young adult novel	Non
+terrorism	Non
+terrorist	Non
+year 2017	Non
+2010s	Non
+21st century	Non
+20th century	Non
+near future	Non
+year 1998	Non
+year 1997	Non
+1990s	Non
+teenage hero	Non
+teenager	Non
+waterfall	Non
+exploding bridge	Non
+exploding building	Non
+inspirational speech	Non
+aftermath	Non
+duel to the death	Non
+death by fire	Non
+dead woman with eyes open	Non
+dead woman on floor	Non
+soaked clothes	Non
+wet jeans	Non
+killing a snake	Non
+rescue	Non
+ghost	Non
+presumed dead	Non
+scar	Non
+limbo	Non
+spy	Non
+cup	Non
+hero	Non
+arson	Non
+frog	Non
+friendship	Non
+elf	Non
+broom	Non
+eighth in series	Non
+sorcerer	Non
+fire breathing dragon	Non
+witch	Non
+wand	Non
+python	Non
+wizard	Non
+giant spider	Non
+giant snake	Non
+teleportation	Non
+chosen one	Non
+ambush	Non
+power	Non
+betrayal	Non
+kiss	Non
+threat	Non
+dying words	Non
+race against time	Non
+black magic	Non
+dark secret	Non
+giant	Non
+dead body	Non
+childhood friend	Non
+falling from height	Non
+vault	Non
+artifact	Non
+spider	Non
+main characters killed off	Non
+explosion	Non
+throat slashed	Non
+mass destruction	Non
+hero versus villain	Non
+flashback	Non
+legend	Non
+infiltration	Non
+bitten by a snake	Non
+loss of friend	Non
+life and death battle	Non
+dark past	Non
+double agent	Non
+castle	Non
+fire	Non
+blood	Non
+hereditary gift of witchcraft	Non
+corruption	Non
+curse	Non
+torture	Non
+self sacrifice	Non
+attack	Non
+loyalty	Non
+destiny	Non
+showdown	Non
+sword	Non
+evil wizard	Non
+train	Non
+railway station	Non
+fear	Non
+revelation	Non
+memory	Non
+forest	Non
+snake bite	Non
+snake	Non
+assumed identity	Non
+bank	Non
+dragon	Non
+magic wand	Non
+bravery	Non
+death of relative	Non
+redemption	Non
+heroism	Non
+last of series	Non
+good versus evil	Non
+returning character killed off	Non
+dark fantasy	Non
+cult figure	Non
+werewolf	Non
+roman numeral in title	Non
+teacher student relationship	Non
+duel	Non
+death	Non
+sequel	Non
+magic	Non
+number in title	Non
+character name in title	Non
+english subtitles in original	0.0
+deception	0.0
+disaster	0.0
+cult film	0.0

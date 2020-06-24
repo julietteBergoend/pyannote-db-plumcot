@@ -1,0 +1,332 @@
+r2 d2 character	1.0
+c 3po character	1.0
+jedi	1.0
+torso cut in half	1.0
+slavery	1.0
+divine conception	1.0
+star wars	0.6666666666666666
+origin story	0.6666666666666666
+saga	0.6666666666666666
+prequel	0.6666666666666666
+space opera	0.6666666666666666
+chosen one	0.6666666666666666
+nine year old	1.0
+starfighter	1.0
+race	1.0
+slave	1.0
+spaceship	1.0
+underwater scene	1.0
+master apprentice relationship	1.0
+game of chance	1.0
+cgi	1.0
+junk shop	1.0
+death of master	1.0
+good vs evil	1.0
+droid	1.0
+the force	1.0
+mace windu character	1.0
+obi wan kenobi character	1.0
+emperor palpatine character	1.0
+yoda character	1.0
+science fantasy	1.0
+anakin skywalker character	1.0
+child prodigy	1.0
+padme amidala character	1.0
+coruscant the planet	1.0
+naboo the planet	1.0
+sith lord	1.0
+darth maul character	1.0
+jabba the hutt character	1.0
+jar jar binks character	1.0
+qui gon jinn character	1.0
+queen	1.0
+apprentice	1.0
+alien	1.0
+spacecraft	1.0
+desert planet	1.0
+planet tatooine	1.0
+jedi knight	1.0
+lightsaber	1.0
+duel	1.0
+loss of both legs	1.0
+landing ship	1.0
+battle droid	1.0
+droideka	1.0
+destroyer droid	1.0
+double bladed lightsaber	1.0
+lightsaber duel	1.0
+padawan	1.0
+human versus machine	1.0
+astromech droid	1.0
+pit droid	1.0
+jedi mind trick	1.0
+battlefield	1.0
+slobber	1.0
+long tongue	1.0
+elongated cry of no	1.0
+first of series	1.0
+space war	1.0
+alien race	1.0
+galactic war	1.0
+space battle	1.0
+part of trilogy	1.0
+palace	1.0
+good versus evil	1.0
+hologram	1.0
+child flying spacecraft	1.0
+betting	1.0
+mother son relationship	1.0
+sucked into jet engine	1.0
+racing	1.0
+double	1.0
+epic	1.0
+funeral pyre	1.0
+flatulence	1.0
+sliced in two	1.0
+death of friend	1.0
+long hair	0.5
+long haired male	0.5
+bearded man	0.5
+beard	0.5
+long haired man	0.5
+warrior	0.5
+opening action scene	0.5
+character says i have a bad feeling about this	0.5
+seven word title	0.5
+hyphen in title	0.5
+colon in title	0.5
+shootout	0.5
+shot with a laser gun	0.5
+showdown	0.5
+victory	0.5
+aerial combat	0.5
+war violence	0.5
+war hero	0.5
+space western	0.5
+shield	0.5
+hand to hand combat	0.5
+two man army	0.5
+action hero	0.5
+allegory of multiple historical events.	0.5
+villain	0.5
+roman numeral in title	0.5
+punctuation in title	0.5
+sticking out tongue	0.5
+falling from height	0.5
+no opening credits	0.5
+warp speed	0.5
+warp engine	0.5
+adoption	0.5
+wilhelm scream	0.5
+blockbuster	0.5
+cult director	0.5
+prequel to cult film	0.5
+reluctant hero	0.5
+part computer animation	0.5
+comic relief	0.5
+actor playing multiple roles	0.5
+christ allegory	0.5
+number in title	0.5
+darth vader character	0.3333333333333333
+future	0.3333333333333333
+cult film	0.3333333333333333
+mixed martial arts	0.3333333333333333
+cult figure	0.3333333333333333
+wuxia fiction	0.3333333333333333
+martial arts	0.3333333333333333
+store	Non
+shop owner	Non
+store owner	Non
+engineer	Non
+freedom	Non
+group	Non
+crisis	Non
+gift	Non
+friendship	Non
+fire	Non
+flame	Non
+ship	Non
+pilot	Non
+flames	Non
+swimming	Non
+invasion	Non
+boy	Non
+blond boy	Non
+creature	Non
+monster	Non
+flying creature	Non
+electricity	Non
+goggles	Non
+horns	Non
+cloak	Non
+one against many	Non
+shop	Non
+flying ship	Non
+laser	Non
+death	Non
+transportation	Non
+cut in half	Non
+fall to death	Non
+falling to death	Non
+lake	Non
+laser beam	Non
+weapon	Non
+automatic doors	Non
+face paint	Non
+male protagonist	Non
+motion capture	Non
+flying car	Non
+hovercar	Non
+handheld weapon	Non
+weapons fire	Non
+damaged spacecraft	Non
+shared universe	Non
+communications device	Non
+talking droid	Non
+handheld device	Non
+1990s	Non
+opening crawl	Non
+good man	Non
+good woman	Non
+evil man	Non
+tough girl	Non
+heroine	Non
+controversy	Non
+darth sidious character	Non
+boss nass character	Non
+watto character	Non
+nute gunray character	Non
+ki adi mundi character	Non
+mas amedda character	Non
+plo koon character	Non
+bib fortuna character	Non
+saesee tiin character	Non
+senator	Non
+senate	Non
+neimoidian	Non
+galactic senate	Non
+jedi council	Non
+jedi temple	Non
+rodian	Non
+reference to jesus christ	Non
+child slavery	Non
+underwater city	Non
+sea	Non
+slave labour	Non
+immaculate conception	Non
+live action and animation	Non
+breathing apparatus	Non
+billion dollar club	Non
+vehicle	Non
+rebreather	Non
+cgi character in a live action movie	Non
+character's point of view camera shot	Non
+deep voice	Non
+armed droid	Non
+character credited as self	Non
+not a psychotronic film	Non
+sequel baiting	Non
+boy in peril	Non
+final showdown	Non
+final battle	Non
+directed by george lucas	Non
+produced by george lucas	Non
+written by george lucas	Non
+lucasfilm	Non
+disney	Non
+disney star wars	Non
+music by john williams	Non
+action girl	Non
+planet	Non
+desert	Non
+anger	Non
+angry man	Non
+attack	Non
+african american	Non
+caucasian	Non
+loss of legs	Non
+starship interior	Non
+tusken raider	Non
+repulsorcraft	Non
+hover tank	Non
+aat battle tank	Non
+battle tank	Non
+toydarian	Non
+humanoid robot	Non
+human female	Non
+human male	Non
+robot soldier	Non
+zabrak	Non
+dathomirian	Non
+levitating droid	Non
+aqualish	Non
+human in outer space	Non
+master and apprentice	Non
+abyss	Non
+fight	Non
+violence	Non
+cult classic	Non
+open ended	Non
+child pilot	Non
+human versus robot	Non
+female gunfighter	Non
+humanoid alien	Non
+female humanoid alien	Non
+force speed	Non
+probe droid	Non
+leitmotif	Non
+symphonic music score	Non
+orchestral music score	Non
+funeral	Non
+chase	Non
+hand grenade	Non
+tank	Non
+gunfight	Non
+laser cannon	Non
+cannon	Non
+sword duel	Non
+siege	Non
+laser gun	Non
+disarming someone	Non
+gun battle	Non
+ambush	Non
+kendo	Non
+combat	Non
+tough guy	Non
+mentor protege relationship	Non
+hero	Non
+lifting male in air	Non
+subjective camera	Non
+main character dies	Non
+stealing food	Non
+first part	Non
+lifting someone into the air	Non
+two against one	Non
+fictional war	Non
+split in two	Non
+boyfriend girlfriend relationship	Non
+messiah	Non
+space station	Non
+space shuttle	Non
+outer space	Non
+invented language	Non
+disguise	Non
+computer	Non
+decoy	Non
+honor	Non
+training	Non
+mechanic	Non
+female fighter	Non
+android	Non
+eaten alive	Non
+life debt	Non
+battle	Non
+telekinesis	Non
+impostor	Non
+robot	Non
+famous score	Non
+hidden city	Non
+sword fight	Non
+impersonation	Non
+council	Non
+surprise ending	Non

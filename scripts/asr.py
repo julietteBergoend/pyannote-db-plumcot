@@ -10,24 +10,24 @@ asr.py evaluate <protocol> [--subset=<subset>]
 --subset=<subset> Serie subset, defaults to 'test'.
 """
 
-from pathlib import Path
-from docopt import docopt
 import re
-from tqdm import tqdm
-
-from pyannote.database import get_protocol, FileFinder
-import pyannote.database
-import Plumcot as PC
+import wave
+from pathlib import Path
 
 import numpy as np
-import wave
 from deepspeech import Model
+from docopt import docopt
+from pyannote.database import get_protocol, FileFinder
 from spacy.gold import align
+from tqdm import tqdm
+
+import Plumcot as PC
 
 DATA_PATH = Path(PC.__file__).parent / 'data'
 
 # same as string.punctuation without "'"
 PUNCTUATION = '!"#$%&()*+,-./:;<=>?@[\\]^_`{|}~'
+
 
 def run(subset, output_path, model):
     for current_file in subset:
@@ -35,8 +35,9 @@ def run(subset, output_path, model):
         audio = np.frombuffer(fin.readframes(fin.getnframes()), np.int16)
         fin.close()
         output = model.stt(audio)
-        with open(str(output_path/current_file['uri'])+'.txt', 'w') as file:
+        with open(str(output_path / current_file['uri']) + '.txt', 'w') as file:
             file.write(output)
+
 
 def levenshtein(a, b):
     """Calculates the Levenshtein distance between a and b.
@@ -87,7 +88,7 @@ def evaluate(subset, output_path):
     print('TOTAL', end = " & ")
     for metric in [CER, WER, IR, DR]:
         mean, std = np.mean(metric), np.std(metric)
-        print(f'{mean*100:.2f} $\\pm$ {std*100:.2f}', end=" & ")
+        print(f'{mean * 100:.2f} $\\pm$ {std * 100:.2f}', end=" & ")
 
 
 if __name__ == '__main__':
@@ -106,11 +107,8 @@ if __name__ == '__main__':
         model_path = args['<model>']
         model = Model(model_path)
         model.enableExternalScorer(args['<scorer>'])
-        print(f"Running {model_path} on {subset_name} subset of {protocol_name} protocol.")
+        print(
+            f"Running {model_path} on {subset_name} subset of {protocol_name} protocol.")
         run(subset, output_path, model)
     if args['evaluate']:
         evaluate(subset, output_path)
-
-
-
-

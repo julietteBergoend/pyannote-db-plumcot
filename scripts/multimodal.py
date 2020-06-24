@@ -23,18 +23,20 @@ Options:
 
 import os
 from pathlib import Path
-from docopt import docopt
+
 import numpy as np
-
-from pyannote.database.util import load_rttm
-from pyannote.video.face.clustering import FaceClustering
-from pyannote.metrics.diarization import DiarizationErrorRate
+from docopt import docopt
 from image_features import CLUSTERING_THRESHOLD
-import pyannote.database
-import Plumcot as PC
-DATA_PATH=Path(PC.__file__).parent / "data"
+from pyannote.database.util import load_rttm
+from pyannote.metrics.diarization import DiarizationErrorRate
+from pyannote.video.face.clustering import FaceClustering
 
-def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
+import Plumcot as PC
+
+DATA_PATH = Path(PC.__file__).parent / "data"
+
+
+def fuse(video_features_path, audio_hypothesis, file_uri, mode='intersection'):
     """
     Fuses outputs of pyannote.audio and pyannote.video models
 
@@ -49,10 +51,11 @@ def fuse(video_features_path,audio_hypothesis,file_uri,mode='intersection'):
     mode: str
         See `Annotation.crop`
     """
-    audio_hypothesis, face_id=map(video_features_path,audio_hypothesis,file_uri)
-    fusion=audio_hypothesis.crop(face_id,mode=mode)
+    audio_hypothesis, face_id = map(video_features_path, audio_hypothesis, file_uri)
+    fusion = audio_hypothesis.crop(face_id, mode=mode)
 
     return fusion
+
 
 def map(video_features_path, audio_hypothesis, file_uri, ier=False):
     """Maps outputs of pyannote.audio and pyannote.video models
@@ -71,17 +74,18 @@ def map(video_features_path, audio_hypothesis, file_uri, ier=False):
         If False (default), pyannote.metrics `optimal_mapping` will be used.
     """
     clustering = FaceClustering()
-    #TODO : move the preprocess (i.e. npy to pyannote) to some other place ?
-    face_id, _ = clustering.model.preprocess(video_features_path,CLUSTERING_THRESHOLD)
+    # TODO : move the preprocess (i.e. npy to pyannote) to some other place ?
+    face_id, _ = clustering.model.preprocess(video_features_path, CLUSTERING_THRESHOLD)
 
     if ier:
-        optimal_mapping=optimal_mapping_ier(face_id, audio_hypothesis)
+        optimal_mapping = optimal_mapping_ier(face_id, audio_hypothesis)
     else:
-        der=DiarizationErrorRate()
-        optimal_mapping=der.optimal_mapping(face_id, audio_hypothesis)
-    mapped_hypothesis=audio_hypothesis.rename_labels(mapping=optimal_mapping)
+        der = DiarizationErrorRate()
+        optimal_mapping = der.optimal_mapping(face_id, audio_hypothesis)
+    mapped_hypothesis = audio_hypothesis.rename_labels(mapping=optimal_mapping)
 
     return mapped_hypothesis, face_id
+
 
 def optimal_mapping_ier(reference, hypothesis):
     """Maps `hypothesis` to `reference` labels depending on the co-occurence of their labels
@@ -100,41 +104,44 @@ def optimal_mapping_ier(reference, hypothesis):
         hyp: ref label dict
     """
     mapping = {}
-    cooccurrence = reference*hypothesis
-    reference_labels=reference.labels()
+    cooccurrence = reference * hypothesis
+    reference_labels = reference.labels()
     for i, label in enumerate(hypothesis.labels()):
-        j=np.argmax(cooccurrence[:,i])
-        mapping[label]=reference_labels[j]
+        j = np.argmax(cooccurrence[:, i])
+        mapping[label] = reference_labels[j]
     return mapping
 
+
 def main(args):
-    serie_uri,task,protocol=args['<serie_uri.task.protocol>'].split(".")
-    validate_dir=args['<validate_dir>']
-    set=args['--set'] if args['--set'] else "test"
-    multimodal_path=os.path.join(DATA_PATH,serie_uri,"multimodal")
-    video_features=os.path.join(DATA_PATH,serie_uri,"video")
-    audio_hypothesis_path=os.path.join(validate_dir,'apply', 'latest',
-                                       f"{serie_uri}.{task}.{protocol}.{set}.rttm")
+    serie_uri, task, protocol = args['<serie_uri.task.protocol>'].split(".")
+    validate_dir = args['<validate_dir>']
+    set = args['--set'] if args['--set'] else "test"
+    multimodal_path = os.path.join(DATA_PATH, serie_uri, "multimodal")
+    video_features = os.path.join(DATA_PATH, serie_uri, "video")
+    audio_hypothesis_path = os.path.join(validate_dir, 'apply', 'latest',
+                                         f"{serie_uri}.{task}.{protocol}.{set}.rttm")
     if not os.path.exists(multimodal_path):
         os.mkdir(multimodal_path)
 
-    audio_hypotheses=load_rttm(audio_hypothesis_path)
-    usage='fuse' if args['fuse'] else 'map'
-    output_path=os.path.join(multimodal_path,f'{serie_uri}.{task}.{protocol}.{set}.{CLUSTERING_THRESHOLD}.{usage}.rttm')
+    audio_hypotheses = load_rttm(audio_hypothesis_path)
+    usage = 'fuse' if args['fuse'] else 'map'
+    output_path = os.path.join(multimodal_path,
+                               f'{serie_uri}.{task}.{protocol}.{set}.{CLUSTERING_THRESHOLD}.{usage}.rttm')
     if os.path.exists(output_path):
         raise ValueError(f"{output_path} already exists")
-    for uri,audio_hypothesis in audio_hypotheses.items():
-        print(f"Processing {uri}",end='\r')
-        video_features_path=os.path.join(video_features,f"{uri}.npy")
+    for uri, audio_hypothesis in audio_hypotheses.items():
+        print(f"Processing {uri}", end='\r')
+        video_features_path = os.path.join(video_features, f"{uri}.npy")
         if args['fuse']:
-            output=fuse(video_features_path,audio_hypothesis,uri)
+            output = fuse(video_features_path, audio_hypothesis, uri)
         elif args['map']:
-            ier=args['--ier']
-            output,_=map(video_features_path,audio_hypothesis,uri,ier)
-        with open(output_path,'a') as file:
+            ier = args['--ier']
+            output, _ = map(video_features_path, audio_hypothesis, uri, ier)
+        with open(output_path, 'a') as file:
             output.write_rttm(file)
     print(f"dumped {output_path}")
 
-if __name__=="__main__":
+
+if __name__ == "__main__":
     args = docopt(__doc__)
     main(args)

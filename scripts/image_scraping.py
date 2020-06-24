@@ -5,19 +5,17 @@
 Get images from IMDB character's page given a list of urls and character's names
     (following the format of `characters.txt` described in CONTRIBUTING.md)
 """
+import json
 # Dependencies
 ## core
-import numpy as np
 import os
-import json
-import warnings
-import json
-import pyannote.database
-from Plumcot import Plumcot
+import re
+
 ## web
 import requests
 from bs4 import BeautifulSoup
-import re
+
+from Plumcot import Plumcot
 
 # Hyperparameters
 MAX_FILE_NAME_LENGTH = 127

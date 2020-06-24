@@ -28,11 +28,10 @@
 
 
 from ._version import get_versions
+
 __version__ = get_versions()['version']
 del get_versions
 
-from pyannote.database import Database
-from pyannote.database.protocol import CollectionProtocol
 from pathlib import Path
 import pandas as pd
 import glob
@@ -40,49 +39,40 @@ import os
 import json
 import numpy as np
 
-class BaseEpisodes(CollectionProtocol):
-    """Base class of collection protocols"""
 
-    def files_iter(self):
-        """Iterate over all episodes of a series"""
-        path = Path(__file__).parent / f'data/{self.SERIES}/episodes.txt'
-        with open(path, mode='r') as fp:
-            lines = fp.readlines()
-        for line in lines:
-            uri = line.split(',')[0]
-            yield {'uri': uri, 'database': 'Plumcot'}
-
-
-class Plumcot(Database):
+class Plumcot:
     """Plumcot database"""
 
-    def read_credits(self, path,separator=","):
+    def read_credits(self, path, separator=","):
         """loads credits in a dict with one key per episode"""
-        credits=np.loadtxt(path,delimiter=separator,dtype=str)
-        credits={episode[0]:np.array(episode[1:],dtype=int) for episode in credits}
+        credits = np.loadtxt(path, delimiter=separator, dtype=str)
+        credits = {episode[0]: np.array(episode[1:], dtype=int) for episode in credits}
         return credits
 
-    def read_characters(self, CHARACTERS_PATH,SEPARATOR=","):
-        with open(CHARACTERS_PATH,'r') as file:
-            raw=file.read()
-        characters=[line.split(SEPARATOR) for line in raw.split("\n") if line !='']
-        characters=np.array(characters,dtype=str)
+    def read_characters(self, CHARACTERS_PATH, SEPARATOR=","):
+        with open(CHARACTERS_PATH, 'r') as file:
+            raw = file.read()
+        characters = [line.split(SEPARATOR) for line in raw.split("\n") if line != '']
+        characters = np.array(characters, dtype=str)
         return characters
 
-    def get_references_from_json(self, json_path,data_path="",credits=None,REFERENCE_I=0):
-        with open(json_path,"r") as file:
-            image_jsons=json.load(file)
-        references={}
+    def get_references_from_json(self, json_path, data_path="", credits=None,
+                                 REFERENCE_I=0):
+        with open(json_path, "r") as file:
+            image_jsons = json.load(file)
+        references = {}
         for name, character in image_jsons['characters'].items():
             if "references" in character:
                 if credits is not None:
                     if name in credits:
-                        references[name]=np.load(os.path.join(data_path,character["references"][REFERENCE_I]))
+                        references[name] = np.load(
+                            os.path.join(data_path, character["references"][REFERENCE_I]))
                 else:
-                    references[name]=np.load(os.path.join(data_path,character["references"][REFERENCE_I]))
-        reference_labels=list(references.keys())
-        reference_values=references.values()
-        return reference_values,reference_labels
+                    references[name] = np.load(
+                        os.path.join(data_path, character["references"][REFERENCE_I]))
+        reference_labels = list(references.keys())
+        reference_values = references.values()
+        return reference_values, reference_labels
 
     def get_characters(self, id_series, season_number=None,
                        episode_number=None, field="character_uri"):
@@ -103,7 +93,7 @@ class Plumcot(Database):
         Returns
         -------
         namesDict : `dict`
-            Dictionnary with episodeId as key and list of IMDB names as value.
+            Dictionary with episodeId as key and list of IMDB names as value.
         """
 
         # Template for processed episodes
@@ -176,7 +166,7 @@ class Plumcot(Database):
 
         parent = Path(__file__).parent
         transcripts = glob.glob(f"{parent}/data/{id_series}/transcripts/"
-                                     f"{ep_template}*{extension}")
+                                f"{ep_template}*{extension}")
 
         # Get transcript character names list by episode
         characters_dict = {}
@@ -194,15 +184,15 @@ class Plumcot(Database):
                     else:
                         characters[charac] += 1
             # Get episode name
-            ep_name,_ = os.path.splitext(os.path.split(file)[1])
+            ep_name, _ = os.path.splitext(os.path.split(file)[1])
             characters_dict[ep_name] = characters
 
         return characters_dict
 
-    def merge_next_token(self,token):
+    def merge_next_token(self, token):
         if token.lower() in self.SPECIAL_NOUNS:
             return True
-        if token[-2:].lower()=="'s":
+        if token[-2:].lower() == "'s":
             return True
         return False
 
@@ -231,7 +221,7 @@ class Plumcot(Database):
                     continue
                 line_split = line.split()
                 if self.merge_next_token(line_split[0]):
-                    line_split[0]+=line_split[1]
+                    line_split[0] += line_split[1]
                     line_split.pop(1)
                 line_split[0] = dic_names[line_split[0]]
                 file_text += " ".join(line_split) + '\n'
@@ -241,8 +231,8 @@ class Plumcot(Database):
                   encoding="utf8") as ep_file:
             ep_file.write(file_text)
 
-    def __init__(self, preprocessors={}, **kwargs):
-        super().__init__(preprocessors=preprocessors, **kwargs)
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
 
         # load list of series
         path = Path(__file__).parent / 'data/series.txt'
@@ -250,22 +240,16 @@ class Plumcot(Database):
         with open(path, mode='r') as fp:
             data = pd.read_csv(fp, sep=',', header=None,
                                names=names, converters={'movies': bool})
+        self.series = data
 
-        #fields in characters.txt
+        # fields in characters.txt
         self.fields = {
-            "character_uri":0,
-            "actor_uri":1,
-            "character_name":2,
-            "actor_name":3,
-            "imdb":4
+            "character_uri": 0,
+            "actor_uri": 1,
+            "character_name": 2,
+            "actor_name": 3,
+            "imdb": 4
         }
 
-        #generic nouns in transcripts (*.temp)
-        self.SPECIAL_NOUNS={"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}
-
-        # for each series, create and register a collection protocol
-        # used to iterate over all episodes in chronological order
-        for series in data.itertuples():
-            Klass = type(series.short_name, (BaseEpisodes, ),
-                         {'SERIES': series.short_name})
-            self.register_protocol('Collection', series.short_name, Klass)
+        # generic nouns in transcripts (*.temp)
+        self.SPECIAL_NOUNS = {"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}

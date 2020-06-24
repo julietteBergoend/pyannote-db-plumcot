@@ -1,0 +1,24 @@
+suicide bomber	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+digit in episode title	Non
+black u.s. president	Non
+struggle	Non
+bomb vest	Non
+oval office	Non
+stabbed in the shoulder	Non
+stabbed in the knee	Non
+stabbed to death	Non
+air strike	Non
+terrorism	Non
+muslim terrorist	Non
+subway	Non
+explosion	Non
+torture	Non
+government agent	Non
+split screen	Non

@@ -1,0 +1,41 @@
+cell phone	Non
+virus	Non
+computer virus	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+trust	Non
+watching someone die	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+child services	Non
+man in a wheelchair	Non
+bedroom	Non
+airplane	Non
+satellite telephone	Non
+grabbed by the throat	Non
+computer worm	Non
+hand bandage	Non
+arms dealer	Non
+delta force	Non
+mexico	Non
+ex husband ex wife relationship	Non
+walkie talkie	Non
+man hits a woman	Non
+punched in the face	Non
+man punches a woman	Non
+blonde woman	Non
+taking baby to work	Non
+baby	Non
+baby girl	Non
+chief of staff	Non
+brother brother relationship	Non
+two brothers	Non
+biothreat	Non
+heart attack	Non
+death of husband	Non
+black u.s. president	Non

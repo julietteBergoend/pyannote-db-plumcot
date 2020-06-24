@@ -1,0 +1,44 @@
+new york city	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+split screen	Non
+terrorist	Non
+terrorism	Non
+father daughter relationship	Non
+granddaughter	Non
+brother	Non
+united nations	Non
+violence	Non
+machine gun	Non
+police officer	Non
+hot wiring a car	Non
+sniper	Non
+shot in the shoulder	Non
+negotiation	Non
+female president	Non
+american president	Non
+reporter	Non
+assassination plot	Non
+counter terrorism	Non
+explosion	Non
+axe in the chest	Non
+missile	Non
+breaking window	Non
+fire axe	Non
+running out of ammo	Non
+shootout	Non
+eurocopter as350 squirrel	Non
+helipad	Non
+informant	Non
+bikini	Non
+aerial surveillance	Non
+watching tv	Non
+polar bear	Non
+stuffed animal	Non
+aerial shot	Non

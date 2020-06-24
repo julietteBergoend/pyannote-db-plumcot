@@ -1,0 +1,340 @@
+magic	0.75
+wizard	0.75
+school of magic	0.75
+wrongful conviction	0.75
+magical map	0.6666666666666666
+eating a chocolate	0.6666666666666666
+based on young adult novel	0.6666666666666666
+imprisonment	0.6666666666666666
+neville longbottom character	1.0
+gregory goyle character	1.0
+dudley dursley character	1.0
+petunia dursley character	1.0
+aunt	1.0
+uncle	1.0
+bad parenting	1.0
+one step forward gag	1.0
+teenage witch	1.0
+cockney accent	1.0
+goth	1.0
+obesity	1.0
+inflation	1.0
+inflated body	1.0
+fat woman	1.0
+children's choir	1.0
+teacher student relationship	1.0
+werewolf	1.0
+giant spider	1.0
+origami	1.0
+rat	1.0
+title at the end	0.5
+supernatural creature	0.5
+male protagonist	0.5
+1990s	0.5
+muggle	0.5
+serial killer	0.5
+traitor	0.5
+strong female lead	0.5
+magical potion	0.5
+magical broomstick	0.5
+year 1994	0.5
+year 1993	0.5
+character appears on wanted poster	0.5
+portrait comes to life	0.5
+returning character with different actor	0.5
+reading tea leaves	0.5
+racial slur	0.5
+snowy owl	0.5
+hereditary gift of witchcraft	0.5
+good versus evil	0.5
+friendship	0.5
+boarding school	0.5
+time travel	0.5
+sequel	0.5
+ginny weasley character	Non
+remus lupin character	Non
+hermione granger character	Non
+draco malfoy character	Non
+rubeus hagrid character	Non
+peter pettigrew character	Non
+harry potter character	Non
+pansy parkinson character	Non
+arthur weasley character	Non
+lily potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+dean thomas character	Non
+vincent crabbe character	Non
+vernon dursley character	Non
+argus filch character	Non
+george weasley character	Non
+minerva mcgonagall character	Non
+ron weasley character	Non
+fred weasley character	Non
+knight	Non
+headless ghost	Non
+abusive uncle	Non
+red herring	Non
+dark secret	Non
+body inflation	Non
+profanity	Non
+shared universe	Non
+molly weasley character	Non
+albus dumbledore character	Non
+severus snape character	Non
+male professor	Non
+bespectacled male	Non
+sirius black character	Non
+harry potter movie franchise	Non
+psychotronic film	Non
+flying broomstick	Non
+all star cast	Non
+cgi animal in live action title	Non
+boy wears eyeglasses	Non
+moustached man	Non
+bedroom	Non
+woman	Non
+actress reprises previous role	Non
+man	Non
+canine	Non
+pet dog	Non
+cousin	Non
+night	Non
+bus conductor	Non
+vehicle	Non
+bespectacled man	Non
+shrunken head	Non
+magical newspaper	Non
+male conductor	Non
+hunchback	Non
+running away from home	Non
+bird	Non
+hardcover book	Non
+rodent	Non
+twin brothers	Non
+pet	Non
+cornelius fudge character	Non
+passenger compartment	Non
+pub	Non
+the leaky cauldron	Non
+talking object	Non
+triple decker bus	Non
+chocolate	Non
+carriage	Non
+male teacher	Non
+night time	Non
+great hall	Non
+levitating candle	Non
+moving staircase	Non
+teacher	Non
+talking shrunken head	Non
+feline	Non
+identical twins	Non
+inn	Non
+dementor	Non
+book	Non
+animal	Non
+running away	Non
+double decker bus	Non
+newspaper	Non
+speeding vehicle	Non
+conductor	Non
+new teacher	Non
+male cousin	Non
+pet canine	Non
+actor reprises previous role	Non
+levitating object	Non
+burning candle	Non
+dormitory living	Non
+bespectacled woman	Non
+teacup	Non
+angry outburst	Non
+female professor	Non
+forest	Non
+shape shifting	Non
+long haired woman	Non
+bus driver	Non
+talking painting	Non
+long haired female	Non
+winged creature	Non
+forehead scar	Non
+eccentric woman	Non
+bowing in greeting	Non
+enchanted ceiling	Non
+schoolgirl	Non
+teenage protagonist	Non
+classroom	Non
+flying object	Non
+golden snitch	Non
+whomping willow	Non
+animate map	Non
+invisibility cloak	Non
+character's point of view camera shot	Non
+hogsmeade	Non
+trunk	Non
+parchment	Non
+female teacher	Non
+sybill trelawney character	Non
+blurry vision	Non
+animagus	Non
+village	Non
+the shrieking shack	Non
+spider	Non
+tree	Non
+scar on the forehead	Non
+animate painting	Non
+shape shifting creature	Non
+schoolboy	Non
+flying creature	Non
+bowing	Non
+bespectacled female	Non
+outburst	Non
+staircase	Non
+dormitory	Non
+bearded man	Non
+escaped prisoner	Non
+backwards time travel	Non
+shape shifter	Non
+male werewolf	Non
+locomotive	Non
+speeding bus	Non
+injured leg	Non
+hospital wing	Non
+time turner	Non
+quidditch	Non
+time travelling device	Non
+creature attack	Non
+howling	Non
+feather	Non
+steam locomotive	Non
+werewolf transformation	Non
+male shape shifter	Non
+time travel into the past	Non
+13 year old boy	Non
+teenage wizard	Non
+struck by lightning	Non
+head boy	Non
+wardrobe	Non
+13 year old girl	Non
+passenger train carriage	Non
+the marauder's map	Non
+third in series	Non
+masked man	Non
+escapee	Non
+stormy weather	Non
+sliding door	Non
+speaking in unison	Non
+teenager	Non
+man transforms into rat	Non
+know it all	Non
+third film in series	Non
+lightning strike	Non
+13 year old	Non
+train carriage	Non
+male escapee	Non
+animate origami	Non
+girl	Non
+dilapidated building	Non
+animate origami animal	Non
+winged object	Non
+schoolbook	Non
+textbook	Non
+bespectacled teenager	Non
+sequel baiting	Non
+seven word title	Non
+framed for mass murder	Non
+minister for magic	Non
+tough girl	Non
+breaking glass	Non
+flickering lights	Non
+bad parents	Non
+dysfunctional family	Non
+strong female character	Non
+human becoming an animal	Non
+bootstrap paradox	Non
+magic book	Non
+bildungsroman	Non
+slow motion scene	Non
+epilepsy	Non
+train encounter	Non
+evil wizard	Non
+cult figure	Non
+cult film	Non
+studio logo segues into film	Non
+surrogate father	Non
+father figure	Non
+altered version of studio logo	Non
+school life	Non
+mythology	Non
+melancholy	Non
+gothic	Non
+escape from prison	Non
+anger	Non
+teenage hero	Non
+no opening credits	Non
+twin	Non
+time reversal	Non
+teenage girl	Non
+teenage boy	Non
+friend	Non
+best friend	Non
+hippogriff	Non
+resignation	Non
+pumpkin	Non
+godfather	Non
+falling from height	Non
+woods	Non
+witch	Non
+secret passageway	Non
+infirmary	Non
+ghost	Non
+crystal ball	Non
+animate tree	Non
+fictitious sport	Non
+blockbuster	Non
+strict teacher	Non
+stag	Non
+professor	Non
+presumed dead	Non
+invisibility	Non
+full moon	Non
+fortune telling	Non
+flying	Non
+fear	Non
+favoritism	Non
+executioner	Non
+eavesdropping	Non
+dog	Non
+divination	Non
+death sentence	Non
+choir	Non
+betrayal	Non
+map	Non
+bus ride	Non
+bus	Non
+scar	Non
+toad	Non
+prison escape	Non
+train	Non
+transformation	Non
+floating	Non
+wanted poster	Non
+snow	Non
+cat	Non
+third part	Non
+broomstick	Non
+witchcraft	Non
+sorcery	Non
+owl	Non
+magic wand	Non
+living portrait	Non
+headmaster	Non
+communal dining hall	Non
+child in peril	Non
+castle	Non
+fugitive	Non
+based on novel	Non
+character name in title	Non
+surprise ending	Non
+dark	0.0
+dark fantasy	0.0

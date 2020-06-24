@@ -1,0 +1,392 @@
+invisibility cloak	1.0
+basilisk	1.0
+killing a monster	1.0
+child protagonist	1.0
+sequel	1.0
+bildungsroman	1.0
+school of magic	1.0
+boarding school	1.0
+sword and sorcery	1.0
+good versus evil	1.0
+message in blood	1.0
+child in peril	1.0
+giant snake	1.0
+communal dining hall	1.0
+talking spider	1.0
+ginny weasley character	Non
+lucius malfoy character	Non
+draco malfoy character	Non
+hermione granger character	Non
+rubeus hagrid character	Non
+harry potter character	Non
+neville longbottom character	Non
+lord voldemort character	Non
+arthur weasley character	Non
+lily potter character	Non
+seamus finnigan character	Non
+james potter character	Non
+gregory goyle character	Non
+dean thomas character	Non
+filius flitwick character	Non
+vincent crabbe character	Non
+vernon dursley character	Non
+argus filch character	Non
+george weasley character	Non
+dudley dursley character	Non
+minerva mcgonagall character	Non
+ron weasley character	Non
+fred weasley character	Non
+magic wand	Non
+wizard	Non
+flying car	Non
+dark forest	Non
+dark tunnel	Non
+magical language	Non
+school life	Non
+magic book	Non
+school nurse	Non
+secret entrance	Non
+mandrake	Non
+magical broomstick	Non
+fictitious sport	Non
+abusive uncle	Non
+magical potion	Non
+male protagonist	Non
+red herring	Non
+supernatural creature	Non
+shared universe	Non
+close up of eyes	Non
+phoenix	Non
+snakeskin	Non
+petunia dursley character	Non
+molly weasley character	Non
+albus dumbledore character	Non
+severus snape character	Non
+bespectacled male	Non
+aunt	Non
+bespectacled boy	Non
+dobby character	Non
+child turning into animal	Non
+whodunit	Non
+harry potter movie franchise	Non
+psychotronic film	Non
+flying broomstick	Non
+star died before release	Non
+all star cast	Non
+christmas	Non
+ford anglia	Non
+muffin	Non
+england	Non
+automobile	Non
+vehicle	Non
+car	Non
+monster	Non
+chimney	Non
+cgi character in a live action movie	Non
+child in jeopardy	Non
+girl in peril	Non
+final battle	Non
+final showdown	Non
+phoenix bird	Non
+orchestral music score	Non
+blockbuster	Non
+second part	Non
+child drives a car	Non
+magic	Non
+invisibility	Non
+boy wears eyeglasses	Non
+train	Non
+diary	Non
+1990s	Non
+elf	Non
+no opening credits	Non
+cult figure	Non
+cult film	Non
+based on young adult novel	Non
+year 1992	Non
+year 1993	Non
+dark fantasy	Non
+surprise after end credits	Non
+snake	Non
+girl	Non
+boy	Non
+school	Non
+altered version of studio logo	Non
+studio logo segues into film	Non
+dog	Non
+author	Non
+adapted score	Non
+station	Non
+toilet	Non
+giant	Non
+tree	Non
+slow motion	Non
+hissing	Non
+snake skin	Non
+rescue	Non
+friendship	Non
+mission	Non
+child flying a car	Non
+broomstick	Non
+prejudice	Non
+witch	Non
+narcissism	Non
+castle	Non
+bookstore	Non
+bully	Non
+ghost	Non
+forest	Non
+owl	Non
+scene after end credits	Non
+sword	Non
+snail	Non
+sock	Non
+spider	Non
+sorcery	Non
+principal	Non
+message on a wall	Non
+ghost girl	Non
+photography	Non
+racism	Non
+skeleton	Non
+scapegoat	Non
+eyeglasses	Non
+wizardry	Non
+three guesses	Non
+second in series	Non
+saga	Non
+franchise	Non
+boy hero	Non
+enchanted vehicle	Non
+night	Non
+diagon alley	Non
+enchanted car	Non
+muggle	Non
+house elf	Non
+long haired female	Non
+animal	Non
+bird	Non
+levitating object	Non
+actor reprises previous role	Non
+train platform	Non
+view through binoculars	Non
+oliver wood character	Non
+book	Non
+library	Non
+bespectacled man	Non
+quidditch	Non
+humanoid	Non
+lavatory	Non
+whomping willow	Non
+hospital wing	Non
+reptile	Non
+moaning myrtle character	Non
+arachnid	Non
+talking hat	Non
+reference to salazar slytherin	Non
+gryphon statue	Non
+bearded man	Non
+snake monster	Non
+cauldron	Non
+transformation	Non
+twin brothers	Non
+school prefect	Non
+common room	Non
+forehead scar	Non
+writing with a quill pen	Non
+tom riddle character	Non
+scar on the forehead	Non
+prefect	Non
+male professor	Non
+griffin statue	Non
+serpent	Non
+blond boy	Non
+binoculars	Non
+actress reprises previous role	Non
+levitating cake	Non
+male elf	Non
+night time	Non
+enchanted automobile	Non
+female ghost	Non
+red haired boy	Non
+younger version of character	Non
+handheld weapon	Non
+hand mirror	Non
+long haired male	Non
+lamp	Non
+motor vehicle	Non
+car driving itself	Non
+giant serpent	Non
+reflection	Non
+bladed weapon	Non
+room	Non
+sister in peril	Non
+canine	Non
+male servant	Non
+handshake	Non
+applause	Non
+cheering	Non
+mirror	Non
+long haired man	Non
+vehicle driving by itself	Non
+handheld lamp	Non
+servant	Non
+male ghost	Non
+long haired girl	Non
+ford motor vehicle	Non
+winged creature	Non
+motor car	Non
+man	Non
+wooden bucket	Non
+camera	Non
+slug	Non
+moving staircase	Non
+rodent	Non
+female professor	Non
+teacher	Non
+flying object	Non
+injured arm	Non
+golden snitch	Non
+potion	Non
+demonstration	Non
+talking animal	Non
+spontaneous combustion	Non
+professor	Non
+classroom	Non
+rat	Non
+staircase	Non
+scroll	Non
+woman	Non
+magical creature	Non
+boy protagonist	Non
+great hall	Non
+moustached man	Non
+serpentine monster	Non
+bedroom	Non
+male cousin	Non
+identical twins	Non
+breakfast	Non
+teleportation	Non
+fireplace	Non
+schoolgirl	Non
+cousin	Non
+disembodied hand	Non
+father and son	Non
+villain	Non
+damaged spectacles	Non
+sentient hat	Non
+minister	Non
+schoolboy	Non
+enchanted ceiling	Non
+reference to godric gryffindor	Non
+reference to helga hufflepuff	Non
+reference to rowena ravenclaw	Non
+transfiguration	Non
+sorting hat	Non
+sentient object	Non
+underground	Non
+feline	Non
+abusive relative	Non
+character's point of view camera shot	Non
+materialization	Non
+cat	Non
+male minister	Non
+mail delivery	Non
+human versus monster	Non
+elitism	Non
+underground chamber	Non
+teenager from the past	Non
+materialisation	Non
+train station	Non
+cornelius fudge character	Non
+winged object	Non
+title same as book	Non
+big guy short guy hug	Non
+arachnophobia	Non
+arachnophile	Non
+pre teen	Non
+scar	Non
+cordless power tool	Non
+pre teen boy	Non
+birdcage	Non
+knitting	Non
+pre teen girl	Non
+wardrobe	Non
+twins	Non
+pre teen witch	Non
+jumping on bed	Non
+government minister	Non
+pre teenage boy	Non
+reflection in a window	Non
+green flame	Non
+pre teenage girl	Non
+jumping on a bed	Non
+power tool	Non
+boy in peril	Non
+bookshop	Non
+surprise attack	Non
+female teacher	Non
+walking cane	Non
+knockturn alley	Non
+male government minister	Non
+shop	Non
+school infirmary	Non
+washroom	Non
+pre teenager	Non
+child hero	Non
+male teacher	Non
+second film in series	Non
+luggage trolley	Non
+girls' washroom	Non
+school dormitory	Non
+cage	Non
+hardcover book	Non
+infirmary	Non
+greenhouse	Non
+earmuffs	Non
+quiz	Non
+bucket	Non
+school detention	Non
+goblet	Non
+healing	Non
+locomotive	Non
+percy weasley character	Non
+spider attack	Non
+child versus monster	Non
+reflection in window	Non
+cake	Non
+sink	Non
+giant reptile	Non
+minister for magic	Non
+sword of gryffindor	Non
+witchcraft	Non
+dysfunctional family	Non
+magical world	Non
+hereditary gift of witchcraft	Non
+portrait comes to life	Non
+animal human communication	Non
+snowy owl	Non
+supernatural power	Non
+false accusation	Non
+evil wizard	Non
+teacher student relationship	Non
+student mentor relationship	Non
+wizards' duel	Non
+secret passageway	Non
+suspended animation	Non
+dormitory living	Non
+white magic	Non
+black magic	Non
+headmaster	Non
+writing in blood	Non
+giant spider	Non
+animate tree	Non
+martial arts	Non
+secret door	Non
+giant dog	Non
+turned to stone	Non
+living portrait	Non
+levitation	Non
+based on novel	Non
+character name in title	Non
+surprise ending	Non

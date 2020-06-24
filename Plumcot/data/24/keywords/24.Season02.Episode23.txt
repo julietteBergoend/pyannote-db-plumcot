@@ -1,0 +1,43 @@
+under arrest	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+locked in a room	Non
+car accident	Non
+near head on collision	Non
+male female hug	Non
+teenager with a gun	Non
+blonde girl	Non
+teenage daughter	Non
+teenage girl	Non
+teenager	Non
+blonde woman	Non
+prime minister	Non
+van	Non
+chest pains	Non
+stab wound	Non
+holding room	Non
+helicopter	Non
+head injury	Non
+kicking in a door	Non
+bleeding head	Non
+falling from a rooftop	Non
+rooftop	Non
+foot chase	Non
+rooftop chase	Non
+shot in the leg	Non
+climbing a drain pipe	Non
+technician	Non
+trying to escape	Non
+australian actor playing american character.	Non
+washington d.c.	Non
+chief of staff	Non
+widower	Non
+war footing	Non
+black u.s. president	Non

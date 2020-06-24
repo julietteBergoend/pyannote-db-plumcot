@@ -1,0 +1,45 @@
+night watch	1.0
+female knight	1.0
+rape	1.0
+volunteer	1.0
+hostage	1.0
+sword	1.0
+slave	1.0
+loyalty	1.0
+freedom	1.0
+conspiracy	1.0
+suit of armor	1.0
+undead	1.0
+violence against women	0.6666666666666666
+abuse against women	0.6666666666666666
+caged animal	1.0
+dire wolf	1.0
+baby crying	1.0
+woman raped in public	1.0
+drinking from a skull	1.0
+freeing a slave	1.0
+training	1.0
+orphan	1.0
+revolution	1.0
+episode title spoken by character	1.0
+cat	1.0
+title spoken by character	1.0
+female leader	0.5
+kiss on the forehead	0.5
+female nudity	0.5
+title directed by female	Non
+crucifixion	Non
+animal trap	Non
+transformation	Non
+campfire	Non
+human sacrifice	Non
+abandoned baby	Non
+bare breasts	Non
+recruiting	Non
+prosthetic hand	Non
+persian cat	Non
+sword fighting	Non
+weapons smuggling	Non
+torch	Non
+language lesson	Non
+kidnapping	Non

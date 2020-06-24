@@ -1,0 +1,54 @@
+quarantine	Non
+hotel	Non
+virus	Non
+nosebleed	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+hyphen in episode title	Non
+colon in episode title	Non
+day in episode title	Non
+time in episode title	Non
+digit in episode title	Non
+number in episode title	Non
+killing in self defense	Non
+interrogation room	Non
+shot in the stomach	Non
+daughter in danger	Non
+gas mask	Non
+chloroformed	Non
+decoy	Non
+teenage daughter	Non
+university student	Non
+teenage girl	Non
+teenager	Non
+spilling a drink on someone	Non
+library	Non
+university library	Non
+university of california los angeles	Non
+woman wearing a wig	Non
+cabinet meeting	Non
+presidential cabinet	Non
+female tears	Non
+father daughter relationship	Non
+19 year old	Non
+blonde woman	Non
+helicopter	Non
+hazmat	Non
+band aid on neck	Non
+worried husband	Non
+husband wife relationship	Non
+balaclava	Non
+british in america	Non
+englishman abroad	Non
+englishman	Non
+british villain	Non
+money trail	Non
+brother brother relationship	Non
+two brothers	Non
+chief of staff	Non
+biothreat	Non
+dead body	Non
+train yard	Non
+president	Non
+black u.s. president	Non

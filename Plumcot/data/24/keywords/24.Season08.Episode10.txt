@@ -1,0 +1,31 @@
+threat	Non
+sex scene	Non
+kissing	Non
+digit in episode title	Non
+episode title ends with a period	Non
+punctuation in episode title	Non
+period in episode title	Non
+number in episode title	Non
+hyphen in episode title	Non
+time in episode title	Non
+colon in episode title	Non
+video feed	Non
+surveillance camera	Non
+hotel room	Non
+death of recurring character	Non
+escape	Non
+hospital	Non
+hyperbaric chamber	Non
+jumping through a window	Non
+disposing of a dead body	Non
+shot in the back	Non
+new york city	Non
+female president	Non
+counter terrorism	Non
+suicide bomber	Non
+terrorism	Non
+terrorist	Non
+split screen	Non
+explosive vest	Non
+bluff	Non
+newscast	Non
