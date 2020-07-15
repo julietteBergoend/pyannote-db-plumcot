@@ -252,4 +252,5 @@ class Plumcot:
         }
 
         # generic nouns in transcripts (*.temp)
-        self.SPECIAL_NOUNS = {"mr.", 'mrs.', 'dr.', 'ms.', "male", "female"}
+        self.SPECIAL_NOUNS = {"mr.", 'mrs.', 'dr.', 'ms.',
+                              "mr",  'mrs',  'dr',  'ms', "male", "female"}
