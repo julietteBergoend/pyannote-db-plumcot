@@ -1,10 +1,14 @@
 # coding: utf-8
 """
 Usage:
-id_to_names.py <protocol>
+id_to_names.py <protocol> [--composed]
 
 Arguments:
 <protocol>        pyannote Protocol, e.g. 'GameOfThrones.SpeakerDiarization.0'
+
+Options:
+--composed:       Look for composed names in the entities annotation
+                  (e.g. count 'Eddard Stark' as one instead of counting 'Eddard' and 'Stark' independently)
 """
 
 import json
@@ -28,7 +32,7 @@ def proper_entity(token):
     return token.ent_kb_id_ != '' and token.pos_ == 'PROPN' and token.ent_kb_id_ not in NA
 
 
-def id_to_name(transcription, mapping={}):
+def id_to_name(transcription, mapping={}, composed=False):
     """Takes transcription annotated with entities and updates/outputs a dict mapping
     entity identifier and counted proper names
     """
@@ -36,6 +40,11 @@ def id_to_name(transcription, mapping={}):
         # keep only proper names
         if proper_entity(token):
             mapping.setdefault(token.ent_kb_id_, Counter())
+            # not composed: count, e.g., 'Eddard' and 'Stark' independently
+            if not composed:
+                mapping[token.ent_kb_id_][token.text] += 1
+                continue
+            # composed: count, e.g., 'Eddard Stark' as one
             if token.ent_kb_id_ != transcription[i - 1].ent_kb_id_:
                 mapping[token.ent_kb_id_][token.text] += 1
             elif proper_entity(transcription[i - 1]):
@@ -45,7 +54,7 @@ def id_to_name(transcription, mapping={}):
     return mapping
 
 
-def get_test_mapping(protocol):
+def get_test_mapping(protocol, composed=False):
     """Get initial mapping from entities annotation
     beware this only works with protocol where entities were annotated
     """
@@ -54,7 +63,7 @@ def get_test_mapping(protocol):
     for current_file in protocol.test():
         transcription = current_file['entity']
         # update counter with transcription
-        mapping = id_to_name(transcription, mapping)
+        mapping = id_to_name(transcription, mapping, composed=composed)
 
     # keep only the most common name among all mentions
     manual = {}
@@ -144,6 +153,7 @@ if __name__ == '__main__':
     # parse args, load protocol and make appropriate file structure
     args = docopt(__doc__)
     protocol_name = args['<protocol>']
+    composed = args['--composed']
     protocol = get_protocol(protocol_name)
     serie, _, _ = protocol_name.split('.')
     output_path = DATA_PATH / serie / 'annotated_transcripts' / 'names_dict.json'
@@ -152,7 +162,7 @@ if __name__ == '__main__':
 
     # get initial mapping from entities annotation
     # beware this only works with protocol where entities were annotated
-    mapping, manual = get_test_mapping(protocol)
+    mapping, manual = get_test_mapping(protocol, composed=composed)
 
     # populate mapping with unknown characters from training and dev sets
     # if they're in the last quartile of speech duration
