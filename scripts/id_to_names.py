@@ -61,9 +61,10 @@ def get_test_mapping(protocol, composed=False):
 
     mapping = {}
     for current_file in protocol.test():
-        transcription = current_file['entity']
-        # update counter with transcription
-        mapping = id_to_name(transcription, mapping, composed=composed)
+        if 'entity' in current_file:
+            transcription = current_file['entity']
+            # update counter with transcription
+            mapping = id_to_name(transcription, mapping, composed=composed)
 
     # keep only the most common name among all mentions
     manual = {}
@@ -71,6 +72,7 @@ def get_test_mapping(protocol, composed=False):
         name, count = counts.most_common(1)[0]
         mapping[identifier] = name
         manual[identifier] = True
+
     return mapping, manual
 
 
