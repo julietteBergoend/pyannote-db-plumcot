@@ -310,6 +310,23 @@ Protocols:
             uri: TheBigBangTheory/test_list.lst
             entity: _TheBigBangTheory/annotated_transcripts/merge_{uri}.csv
             transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
+        Names:
+          train:
+            transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
+            annotation: TheBigBangTheory/annotated_transcripts/TheBigBangTheory.SpeakerDiarization.0.rttm
+            annotated: TheBigBangTheory/annotated_transcripts/TheBigBangTheory.SpeakerDiarization.0.uem
+            uri: TheBigBangTheory/train_list.lst
+          development:
+            transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
+            annotation: TheBigBangTheory/annotated_transcripts/TheBigBangTheory.SpeakerDiarization.0.rttm
+            annotated: TheBigBangTheory/annotated_transcripts/TheBigBangTheory.SpeakerDiarization.0.uem
+            uri: TheBigBangTheory/dev_list.lst
+          test:
+            annotation: TheBigBangTheory/annotated_transcripts/TheBigBangTheory.SpeakerDiarization.0.rttm
+            annotated: TheBigBangTheory/annotated_transcripts/TheBigBangTheory.SpeakerDiarization.0.uem
+            uri: TheBigBangTheory/test_list.lst
+            entity: _TheBigBangTheory/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheBigBangTheory/forced-alignment/{uri}.aligned
   TheOffice:
       SpeakerDiarization:
         EL:
@@ -335,7 +352,23 @@ Protocols:
             uri: TheOffice/test_list.lst
             entity: _TheOffice/annotated_transcripts/merge_{uri}.csv
             transcription: _TheOffice/forced-alignment/{uri}.aligned
-
+        Names:
+          train:
+            transcription: _TheOffice/forced-alignment/{uri}.aligned
+            annotation: TheOffice/annotated_transcripts/TheOffice.SpeakerDiarization.0.rttm
+            annotated: TheOffice/annotated_transcripts/TheOffice.SpeakerDiarization.0.uem
+            uri: TheOffice/train_list.lst
+          development:
+            transcription: _TheOffice/forced-alignment/{uri}.aligned
+            annotation: TheOffice/annotated_transcripts/TheOffice.SpeakerDiarization.0.rttm
+            annotated: TheOffice/annotated_transcripts/TheOffice.SpeakerDiarization.0.uem
+            uri: TheOffice/dev_list.lst
+          test:
+            annotation: TheOffice/annotated_transcripts/TheOffice.SpeakerDiarization.0.rttm
+            annotated: TheOffice/annotated_transcripts/TheOffice.SpeakerDiarization.0.uem
+            uri: TheOffice/test_list.lst
+            entity: _TheOffice/annotated_transcripts/merge_{uri}.csv
+            transcription: _TheOffice/forced-alignment/{uri}.aligned
   TheWalkingDead:
       SpeakerDiarization:
         0:
