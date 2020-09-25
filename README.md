@@ -197,7 +197,10 @@ However, we annotated following the IMDb credits which are not always consistent
 
 Moreover, some secondary characters (most don't have proper names) are played by several different actors through the same serie. These are listed in [`not_unique.json`](./Plumcot/data/TheOffice/not_unique.json) and should be removed from the evaluation (TODO).
 
-> IMDb credits were updated [on 17/03/2020 in 123e37cb](https://github.com/PaulLerner/pyannote-db-plumcot/commit/123e37cb8b64bb6a9bdd89ed665a2769d992569f), therefore some annotated labels are inconsistent with these new IMDb credits and should be updated (TODO).
+> IMDb credits were updated [on 17/03/2020 in 123e37cb](https://github.com/PaulLerner/pyannote-db-plumcot/commit/123e37cb8b64bb6a9bdd89ed665a2769d992569f), therefore some annotated labels are inconsistent with these new IMDb credits and should be updated.
+> This can be done using the script `fix_names.py`. 
+> However the 1-1 mapping leads to some issues: some actors that play multiple minor characters would have all their minor characters point to the major one.
+> See `characters.diff.json` in the respective serie folder.
 
 
     
