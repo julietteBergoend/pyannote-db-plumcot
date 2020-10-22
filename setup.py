@@ -60,7 +60,6 @@ setup(
         'deepspeech-gpu == 0.7.3',
         'spacy == 2.2.4',
         'pyannote.database >= 4.0',
-        'affinegap',
         'termcolor',
         'Unidecode>=1.0.23',
         'docopt>=0.6.2',
