@@ -57,7 +57,6 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        'deepspeech-gpu == 0.7.3',
         'spacy == 2.2.4',
         'pyannote.database >= 4.0',
         'termcolor',
@@ -70,6 +69,11 @@ setup(
         'beautifulsoup4>=4.7.1',
         'lxml'
     ],
+    extras_require={
+        'experiments': [
+            'deepspeech-gpu == 0.7.3'
+        ]
+    },
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Science/Research",
