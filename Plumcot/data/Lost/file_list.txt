@@ -22,6 +22,7 @@ Lost.Season01.Episode21
 Lost.Season01.Episode22
 Lost.Season01.Episode23
 Lost.Season01.Episode24
+Lost.Season01.Episode25
 Lost.Season02.Episode01
 Lost.Season02.Episode02
 Lost.Season02.Episode03
@@ -88,10 +89,20 @@ Lost.Season05.Episode04
 Lost.Season05.Episode05
 Lost.Season05.Episode06
 Lost.Season05.Episode07
+Lost.Season05.Episode08
+Lost.Season05.Episode09
+Lost.Season05.Episode10
+Lost.Season05.Episode11
 Lost.Season05.Episode12
 Lost.Season05.Episode13
 Lost.Season05.Episode14
 Lost.Season05.Episode15
+Lost.Season05.Episode16
+Lost.Season05.Episode17
+Lost.Season06.Episode01
+Lost.Season06.Episode02
+Lost.Season06.Episode03
+Lost.Season06.Episode04
 Lost.Season06.Episode05
 Lost.Season06.Episode06
 Lost.Season06.Episode07
@@ -100,4 +111,8 @@ Lost.Season06.Episode09
 Lost.Season06.Episode10
 Lost.Season06.Episode11
 Lost.Season06.Episode12
+Lost.Season06.Episode13
+Lost.Season06.Episode14
+Lost.Season06.Episode15
+Lost.Season06.Episode16
 Lost.Season06.Episode17
