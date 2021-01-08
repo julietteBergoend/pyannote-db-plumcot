@@ -1,733 +1,657 @@
 
-not_available Doug? Come on! We're busy again.
-not_available l'm on double shift.
-not_available So am l, and you wanted a long weekend.
-not_available Now get up.
-not_available l was having a terrific dream.
-not_available l was beating my high
-not_available school football coach.
-not_available Carter! Med students don't sleep at 4:00 p.m.
-not_available Get up, Carter.
-not_available Woman with a headache, thinks it's a brain tumor.
-not_available A kid with gum in his eye, and an old lady who wants her hand held.
-not_available l'm hungry.
-not_available Cookies at the desk.
-not_available Repeat H and H ordered for abdominal pain in 2.
-not_available Good morning, Susan.
-not_available lt's afternoon.
-not_available l knew that.
-not_available Your brain's rotted.
-not_available At your age, Ryne Sandberg retired.
-not_available At my age, Mozart was dead.
-not_available Jen, l can't get out.
-not_available l've got two residents on double shifts.
-not_available l'll be home before Rachel goes to bed.
-not_available Tell Mark to go see his wife.
-not_available Go see her.
-not_available Why can't you tell me over the phone? Hang on.
-not_available Jen, it's Doug.
-not_available Can you hold on a second? We can survive without you.
-not_available l'll meet you there, all right? Bye.
-not_available Thank you.
-not_available l know you can survive without me.
-not_available Rescue's bringing in two victims, motor
-not_available vehicle collision, one major.
-not_available How soon? 
-not_available Now.
-not_available Where's Benton? 
-not_available Am l his travel agent? Ask his student.
-not_available Read about diseases, you think you have them.
-not_available Find Benton, head
-not_available on vehicle.
-not_available Two victims on the way.
-not_available TC, seven months OB, vitals stable.
-not_available Second victim behind her.
-not_available What's your name, ma'am? 
-not_available Sally Niemeyer.
-not_available How far along are you? Almost seven months.
-not_available Second one coming in.
-not_available Chest trauma, vitals stable.
-not_available Air bag didn't open.
-not_available Name's Suarez, gangbanger, stole a car, hit the pregnant lady.
-not_available Miss Suarez, is there any pain? CBC, type and cross, and hold four units.
-not_available Hook her up to a fetal monitor.
-not_available Now, please.
-not_available Your baby has a steady heartbeat.
-not_available l'm gonna have a boy.
-not_available Get a K &amp; B, call OB for ultrasound.
-not_available Does this hurt? Do you have pain in your head? No.
-not_available That girl, she just ran right into me, didn't even stop.
-not_available What about me, man? Push down with your hand.
-not_available Push again.
-not_available That's good.
-not_available Good.
-not_available Push down on your foot, like on a gas pedal.
-not_available You're doing great.
-not_available All right, gently.
-not_available What? You're in labor.
-not_available Two centimeters dilated, 40% effaced.
-not_available Can somebody call my husband? Want to stop it? 
-not_available l want to buy time for the kid's lungs.
-not_available What if it's 34 weeks? lt doesn't feel like 34 weeks.
-not_available We need ultrasound.
-not_available l don't know.
-not_available lt's too early.
-not_available We gotta try.
-not_available Will my baby be okay? Let's stop the labor.
-not_available Bolus her six grams magnesium sulfate.
-not_available Get a fetal lung profile.
-not_available Where's OB? What about me? ls my baby okay? lt's okay.
-not_available lt's okay.
-not_available That's incredible! lt's terrific.
-not_available l still can't believe it.
-not_available Why didn't you tell me on the phone? lt's in Milwaukee.
-not_available lt's only two hours away.
-not_available And a federal clerkship.
-not_available l never dreamed l had a chance.
-not_available l thought you wanted to be a state's attorney.
-not_available They haven't made an offer.
-not_available The judge had a clerk.
-not_available The guy bagged out at the last minute.
-not_available lt's a great break for you.
-not_available You deserve it.
-not_available You deserve it.
-not_available There's lots of hospitals there.
-not_available l don't know about chief residents, but.
-not_available We could live here, and you could take the train.
-not_available Four hours a day on a train? When will l have time to sleep? l'll never get to see Rachel.
-not_available l'll make some phone calls.
-not_available See what they got up there.
-not_available l've made a lot of compromises, Mark.
-not_available Doug, they're not stopping.
-not_available Contractions two minutes apart.
-not_available Doug? l don't like this.
-not_available We're gonna have major lung trouble.
-not_available Fetal heart rate? 
-not_available 1 35 and dropping.
-not_available We got 1 28.
-not_available Late decelerations.
-not_available Fetal distress may be acidotic.
-not_available What's wrong? ls my baby okay? We're taking care of your baby.
-not_available Her water's broken.
-not_available All right, we can't stop this.
-not_available Let's go for delivery.
-not_available Call OB.
-not_available Tell them we're on the way.
-not_available Call Neonatal, tell them to expect a preemie, 28 weeks.
-not_available Tell Third Floor to send a team to 5.
-not_available Mrs.
-not_available Niemeyer, you're gonna deliver your baby right now.
-not_available Let's clear that, please! 
-not_available You got it? Here you go.
-not_available How's Jennifer? She got a great job in Milwaukee.
-not_available Can she do it by phone? l don't think that's what the federal judge has in mind.
-not_available Milwaukee? Don't ask.
-not_available l don't know.
-not_available Miss Suarez, you hit a pregnant woman.
-not_available We're not too happy about that, but we'll take care of you.
-not_available Now, you have to tell us the truth.
-not_available Did you take any drugs today? 
-not_available No.
-not_available Do any cocaine, maybe a little crack? No! Yeah, right.
-not_available CBC, tox screen and let's get a chest film.
-not_available Now.
-not_available Look at this board! Don't worry, it'll get quieter.
-not_available Don't say the ''Q'' word.
-not_available You'll start a stampede.
-not_available Take the kid in 1 .
-not_available All right.
-not_available She deliver? 
-not_available Right out of the elevator.
-not_available The baby's in Neonatal, lungs are bad, hyaline membrane.
-not_available Good night.
-not_available Mom's okay.
-not_available Good night, Billy.
+not_available Get the door! Need some help.
+not_available Watch out.
+not_available She's cyanotic.
+not_available Get her to Trauma 1 .
+not_available Here we come! l don't care if they're closed.
+not_available We can't take
+not_available No! Look, Jesus, l'm telling you.
+not_available Jesus, are you deaf? 
+not_available Rule out Ml.
+not_available Moving to 5! 
+not_available What the hell's going on? Mercy's closed to trauma and Lakeside's power is out.
+not_available That makes us it.
+not_available Jen went to Milwaukee to find an apartment.
+not_available Why is it so hot in here? 
+not_available Air conditioning's out.
+not_available Great, the hottest day in October! l thought this was your day off? Hi, Rach.
+not_available Tommy missed his plane coming back.
+not_available The joys of being chief resident.
 not_available Dr.
-not_available Ross? Can l talk to you? Sure, if you can keep me awake.
-not_available lf a patient has a burning sensation, does he necessarily have
-not_available ? A sexually transmitted disease? Probably.
-not_available You have to do a culture.
-not_available Ever do that? No.
-not_available Okay.
-not_available First you gotta do a chlamydia prep.
-not_available Then you have to do a Gram's stain for gonorrhea.
-not_available Stick this bad boy in about a quarter of an inch, and spin it around about ten times.
-not_available Ten times? Who's the lucky girl? Liz.
-not_available The girl with the rash.
-not_available Old hospital saying, 
-Carter Don't dip your pen in company ink.
-not_available l hope you used a condom.
-not_available We got a Code 3 from Rescue 63, full arrest.
-not_available They're on their way in now.
-not_available Can l take her? Not until her tests are back.
-not_available She's breathing, ain't she? She stole the car and hit a pregnant lady.
-not_available For all l know, she could have an aortic rupture.
-not_available You want her to die in jail? Frankly, doc? l wouldn't lose sleep.
-not_available Neither would l.
-not_available But l'm liable.
-not_available You're not.
-not_available Mom, listen.
-not_available l can barely hear you.
-not_available Got a heart.
-not_available Where to? Trauma 2.
-not_available Last door on your right.
-not_available Susan, we need you.
-not_available l gotta go.
-not_available Bye.
-not_available l'm really okay.
-not_available Are you doctors? l'm Dr.
-not_available Lewis.
-not_available l thought he was in full arrest.
-not_available l was, until they fried my chest hairs.
-not_available Let's get a CBC, Chem
-not_available 7, blood gas and coag panel.
-not_available On my count.
-not_available One, two three.
-not_available He was in fib.
-not_available Shocked him once, converted fast.
-not_available He had a 1 00 milligrams of lidocaine.
-not_available How did it feel? Any pain? l don't remember.
-not_available l passed out.
-not_available Can we get a monitor? Do you have a history of heart problems, Mr.
-not_available Gasner? Nothing a transplant wouldn't cure.
-not_available l was up for a good one.
-not_available A kid in a motorcycle accident.
-not_available lt went to Minneapolis.
-not_available Who's your cardiologist? Mike Dickey.
-not_available Great guy.
-not_available He's at St.
-not_available Luke's in Cleveland.
-not_available l'm in town for the builders' convention.
-not_available My wife said l shouldn't travel.
-not_available But how could l miss 2,000 construction guys in one.
-not_available l don't get a pulse.
-not_available Mr.
-not_available Gasner? What? He's not in fib.
-not_available Give him an amp of epi.
-not_available Come on.
-not_available Come on back.
-not_available l'll call for his history.
-not_available l just pass out.
-not_available Start a dopamine drip, 400 in 250 D5W, 1 0 drops a minute.
-not_available My chest feels like someone sat on it.
-not_available That happens sometimes.
-not_available l know.
-not_available Give her something.
-not_available She can't breathe.
-not_available That's it.
-not_available Keep taking deep breaths.
-not_available Blood gases are back.
-not_available Not good.
-not_available PO
-not_available 2's 70.
-not_available Are you taking any medications? lt's never been this bad.
-not_available Hand
-not_available held nebs, albuterol 2.5 milligrams.
-not_available Peak flow, pre and post.
-not_available Give her Solumedrol Can l talk to you outside for a second? Sandy, this is Lydia.
-not_available She'll take care of you.
-not_available You're gonna be fine, okay? Just keep breathing.
-not_available Keep breathing.
-not_available Your daughter's having a serious asthma attack.
-not_available ls she allergic to anything? l don't think so.
-not_available Do you have any pets? This cat, a stray.
-not_available Sandy found her.
-not_available She just loves her.
-not_available You have to get rid of the cat.
-not_available We need to do some tests.
-not_available lt'll take about two hours, okay? Gasner, GASNE
-not_available R, first name Samuel.
-not_available Can you fax us his chart? Are you a doctor? They said my wife was here.
-not_available What's your name? Niemeyer.
-not_available She's pregnant.
-not_available ls she all right? Jerry.
-not_available Mr.
-not_available Niemeyer.
-not_available l'll take you up to Neonatal.
-not_available Neo
-not_available what? You had a baby.
-not_available Thanks, Jerry.
-not_available Dr.
-not_available Greene, with an ''E'' at the end.
-not_available He's chief resident.
-not_available l got a little tired.
-not_available Built 1 5 houses this year.
-not_available l wanted to design them, but l just build them.
-not_available Could you stop talking for a second? Old inferior wall Ml, low voltage consistent with severe myopathy.
-not_available l've been through this.
-not_available l know what it says.
-not_available lt's nothing new.
-not_available Am l gonna make it tonight? l ask every time.
-not_available He's in fib.
-not_available Charging.
-not_available Ready.
-not_available Two hundred.
-not_available Clear.
-not_available Another 50 of lidocaine.
-not_available Start a drip.
-not_available Two grams at 500.
-not_available l don't usually do that.
-not_available Could somebody please call my wife? That's a big boggy heart.
-not_available Suppose we get a transplant.
-not_available ls it too late? He's been defibrillated twice.
-not_available He in cardiogenic shock.
-not_available Keeps going in and out.
-not_available Can't be much muscle there.
-not_available Jerry, call Cardiology for an echo.
-not_available Wake up Dr.
-not_available Flint, get him here from Lake Forest.
-not_available Call the transplant coordinator, see if they got any hearts around.
-not_available And your wife called.
-not_available Great! l missed calling Rachel.
-not_available Get ahold of the Gasner family? l'm trying every ten minutes.
-not_available Gasner doesn't think he'll make it through the night.
-not_available Dr.
-not_available Ross, peak flow's gone from 1 90 to 300.
-not_available How's her gases? 
-not_available Much better.
-not_available Sandy, you are doing great.
-not_available She'll need an appointment with your doctor.
-not_available She's also going to need an inhaler at home and prednisone.
-not_available Fill this thing out tonight.
-not_available Hospital pharmacy is open 24 hours and it's on the first floor.
-not_available There you go.
-not_available l thought you were off at 1 0.
-not_available l'm on all night.
-not_available How about you? 
-not_available l'm on a double.
-not_available Thank you.
-not_available Sure.
-not_available Why is Mark getting messages from University Hospital in Milwaukee? His wife wants to move.
-not_available She got a job there.
-not_available ls he gonna do it? l hope not.
-not_available l can't imagine he'd be happy there.
-not_available He ever go home? He's waiting for that gang girl's recovery.
-not_available What's he doing? Practicing one
-not_available handed knots.
-not_available He'd do it with his teeth if he could.
-not_available No, you can't wear a glove on your teeth.
-not_available What are you listening to? Snoop Doggy Dog.
-not_available Trends in Cardiac Surgery, Volume Two.
-not_available Blood pressure's falling, 80 over 60.
-not_available Add a dobutamine drip, 250 in 250, You feel crummy waiting around for a kid to smash up his car so you can get his heart.
-not_available We're getting great pictures.
-not_available Frame one for me, will you? How's your heart? lt's in pretty good shape.
-not_available Want to lend it to me for the weekend? You got better things to do with it.
-not_available Do them all.
-not_available You never know when you'll get the chance.
-not_available Left ventricle, please.
-not_available You got kids, doc? A daughter.
-not_available She's five.
-not_available My girl's nine.
-not_available Her age l shouldn't really travel.
-not_available l miss too much of her life.
-not_available What can l say? l love the job.
-not_available How you doing? To tell you the truth, l felt a hell of a lot better yesterday.
-not_available What's your wife do, doc? She's a lawyer.
-not_available You guys must have your hands full.
-not_available Did l get any tests back? On who? 
-not_available A patient.
-not_available Does the patient have a name? Yeah.
-not_available lt's Car
-not_available tere.
-not_available l'll watch out for them.
-not_available Don't tell anybody the results.
-not_available ''Secret'' is my middle name.
-not_available Gasner, Samuel.
-not_available We called in.
-not_available Look, we'll take any heart.
-not_available Anything? Type A blood, negative Tcell cross
-not_available match, okay? Keep us posted.
-not_available We need a heart.
-not_available Thank you.
-not_available He's getting weaker.
-not_available l can't pull a heart out of thin air.
-not_available Gunshot wound to the foot.
-not_available The liquor store guy again, asking for you.
-not_available lvan? What does he do, wear a sign that says ''shoot me''? lvan, lvan, lvan.
-not_available Who did it this time? Me, l did it.
-not_available l thought you didn't have a gun.
-not_available l bought a little Glock.
-not_available Oh, God, it hurts! Let's get a gram of ancef, and That last BP was a little high, All right, 1 0 Procardia sublingual.
-not_available Russia's crazy.
-not_available You need vodka to get good doctor.
-not_available God bless America.
-not_available God didn't bless your neighborhood.
-not_available l was showing the gun to Nicky, the dry cleaner, and bang! Off went half your toe.
-not_available Will l lose it? You already did.
-not_available Let's go.
-not_available Still can't find a donor.
-not_available There's one, but the blood type is AB.
-not_available How hard is it to find a type A? The patient has advanced dilated cardiomyopathy with severe mitral regurgitation and an ejection fraction of less than 1 0%.
-not_available This is not the best news l've heard all day.
-not_available So, Steve, do you have an opinion? Dr.
-not_available Kayson and l agree on little, but we're both happy not to be Mr.
-not_available Gasner.
-not_available What if we put him on a heart
-not_available lung bypass while we look for another donor? l'd say the stress alone would kill him in a couple of hours.
-not_available Put the transplant team on call.
-not_available We'll put him on the table in 20 minutes.
-not_available Mr.
-not_available Gasner's wife will be here around three.
-not_available Somebody's going to have to tell them.
-not_available Have the desk beep me when she gets here.
-not_available Hey, Carter! Bend over! There we go.
-not_available l'm cooking now.
-not_available All right, hold still.
-not_available What is he doing? l lost a bet.
-not_available He's my backboard.
-not_available Mark? l'm on a roll here.
-not_available Here we go.
-not_available And the shot! You ruined my concentration.
-not_available Dr.
-not_available Ross? Baby in 4.
-not_available Seven inches taller l would've been a contender.
-not_available Bulls.
-not_available Knicks.
-not_available Any luck with that heart? 
-not_available No.
-not_available l heard your wife got a job in Milwaukee.
-not_available Yeah, she's clerking for a federal judge.
-not_available That sounds exciting.
-not_available lt is.
-not_available You gonna leave the hospital? l don't know.
-not_available l thought you were off.
-not_available Yeah, l am.
-not_available l just thought l'd stick around.
-not_available You ever have one like Mr.
-not_available Gasner before, one that took so long? No.
-not_available You look like hell, Carter.
-not_available Yeah, l'm just waiting for Ben
-not_available Dr.
-not_available Benton to leave.
-not_available You need some sleep.
-not_available That hurt.
-not_available You've taken a bad fall, Mrs.
-not_available Fadem.
-not_available l'll get some x
-not_available rays.
-not_available No.
-not_available No x
-not_available rays.
-not_available They'll hurt my baby.
-not_available How long have you been pregnant? Six months now.
-not_available Your baby'll be protected.
-not_available We'll shield you with lead and we'll use a low dose.
-not_available As long as you promise not to hurt my baby.
-not_available l promise.
-not_available Lydia take Mrs.
-not_available Fadem to Radiology.
-not_available And be careful of her pregnancy.
-not_available Right away.
-not_available Her what? 
-not_available Pregnancy.
-not_available You worry too much.
-not_available Kayson hates me.
-not_available He's a cardiologist.
-not_available He's on my review board.
-not_available l'll need his recommendation.
-not_available Why would you want it? The man loses so many patients, he gets endorsements from funeral homes.
-not_available When l was your age l worried about what every attending thought of me too.
-not_available Forget it.
-not_available You're a good doctor.
-not_available You're better than my ex, and l actually married her.
-not_available A lot of subjects interest me, and believe me, your ex
-not_available wife tops my list.
-not_available That's me.
-not_available My knife
-not_available wielding psychotic must be up from his nap.
-not_available Later.
-not_available Your wife's on her way.
-not_available She'll be a wreck.
-not_available He's not putting out fluids.
-not_available One
-not_available sixty of Lasix.
-not_available Hey, doc? Do l look stupid? Why don't you tell me? You versus God.
-not_available We know who wins.
-not_available l don't think of it that way.
-not_available You don't have to.
-not_available l'm the one on the table.
-not_available We looked at your echo.
-not_available And if we don't find a donor heart you probably won't make it through the night.
-not_available lt's two in the morning.
-not_available l'm dying.
-not_available So please call me Sam.
-not_available This is no time to be formal.
-not_available Don't forget to check on lvan.
-not_available Can l take the girl now? The gangbanger? Aortic rupture.
-not_available l forgot to tell you, she died in recovery.
-not_available Well.
-not_available l'll see you at seven.
-not_available A.M.? 
-not_available Good night.
-not_available Why bother driving home? Three hours sleep.
-not_available l've got to come back here.
-not_available This is nuts.
-not_available Quinn, Daniel.
-not_available Hypotensive, comatose.
-not_available Fraternity kid, drinking all night.
-not_available Ever see anybody intubated? No.
-not_available Get Respiratory in here.
-not_available Start a second line.
-not_available D50, one amp, 2 mg Narcan.
-not_available Pam, get an EKG.
-not_available Mr.
-not_available Quinn, do you hear me? Daniel? 
-not_available Respiratory's on the way.
-not_available He's cyanotic.
-not_available Add dopamine.
-not_available Hyperventilate him.
-not_available The line's in, Susan.
-not_available BP 70 over 40 and falling.
-not_available Get a CBC, blood alcohol, Chem
-not_available 7 and tox screen.
-not_available Tube him.
-not_available Blood sat's 80.
-not_available Do a dextrose stick.
-not_available Okay, Carter, pay attention.
-not_available This is where it counts.
-not_available Visualize the cords.
-not_available You don't want to miss the trachea and end up in his esophagus.
-not_available lt's in.
-not_available Bag him.
-not_available Listen to the lungs to make sure the tube's in place.
-not_available Glucose is normal.
-not_available BP is steady, 80 over 65.
-not_available Draw a blood gas now.
-not_available Doug? They called from Neonatal if you want to look at the preemie.
-not_available He's gonna be okay.
-not_available God smiled on him.
-not_available Since when do you believe in God? l've been contemplating my insignificance in the universe.
-not_available l thought you were its center.
-not_available Not always.
-not_available l'm looking for Dr.
-not_available Ross.
-not_available He's in the emergency room.
-not_available Yeah, l'm Dr.
-not_available Ross.
-not_available Thank you very much.
-not_available You're welcome.
-not_available Who are you? l'm Randy Niemeyer.
-not_available My wife, my baby.
-not_available They said you took her up.
-not_available My boy's gonna be okay.
-not_available l'm just on my way up to see your baby.
-not_available You want to? We're hydrating like crazy and his blood pressure's not moving.
-not_available Order LFTs, BUN and creatinine.
-not_available His friend's here.
-not_available He says the guy didn't have that much to drink.
-not_available And the Cubs are a shoo
-not_available in for the pennant.
-not_available Elliot, this is Dr.
-not_available Lewis.
-not_available How much did Mr.
-not_available Quinn drink? We were playing this game, Whale's Tales.
-not_available You say numbers.
-not_available lf you can't remember them, you drink.
-not_available How much did Mr.
-not_available Quinn drink? Listen, his father's an assistant dean.
-not_available lf he finds out about
-not_available What was he drinking and how much? Beer.
-not_available Beer and shots of tequila.
-not_available He must've had 1 5, 20 shots.
-not_available Did he do any drugs? 
-not_available No.
-not_available Will he be all right? 
-not_available l hope so.
-not_available Blood alcohol's back, .832.
-not_available Call Dialysis.
-not_available Let them know we're on the way.
-not_available Let's move him.
-not_available Mrs.
-not_available Gasner? 
-not_available l'm Elaine Gasner.
-not_available This is Sarah.
-not_available Hi, Sarah.
+not_available Ross, there's a fiveyear
+not_available old with a heart problem in Trauma 1 .
+not_available Bye, Rach.
+not_available Our babysitter won't be here for a couple of hours.
+not_available ls there anybody who can watch Rachel? Joanna's off in ten.
+not_available What are all those wires sticking out? That's so we can give him medicine to make him better.
+not_available ls he sick? Actually, he's.
+not_available What's he doing out here? Paramedics brought him in DO A from a nursing home.
+not_available The heat got him.
+not_available The city's supposed to pick him up.
+not_available l'll show you where the TV is, okay? Let's go.
+not_available l thought Tommy was back today.
+not_available Well, he's supposed to be.
+not_available Mark, Doug needs you in 1 .
+not_available l gotta take Rachel to the lounge.
+not_available l got her.
+not_available Come on, Rach.
+not_available l'm not even changed.
+not_available What do you got, Doug? We have a fiveyear
+not_available old with known coarctation of the aorta.
+not_available She had a sudden onset of severe respiratory distress an hour ago.
+not_available Congestive heart failure? Resp's 40.
+not_available BP's 1 80 over 1 00.
+not_available She's tachycardic, her rate is 1 80.
+not_available Did you get blood gases? Chest film? Mid
+not_available systolic murmur.
+not_available Bolus her with What's her name? 
+not_available Kanesha.
+not_available Hi, Kanesha.
 not_available l'm Dr.
 not_available Greene.
-not_available Sit down, honey.
-not_available Where's my husband? Can l see him? He's sleeping.
-not_available l need to tell you about his condition.
-not_available His heart muscle is badly deteriorated.
-not_available They said he could get a transplant.
-not_available lf there was one available.
-not_available There isn't one tonight.
-not_available He can wait till they find one.
-not_available Your husband's heart is failing.
-not_available Unless we find a heart donor in the next couple of hours, l don't believe he'll make it through the night.
-not_available l'm sorry.
-not_available Sam? Mark.
-not_available Your wife and daughter are here.
-not_available l was thinking.
-not_available Did you hear the one about the guy on the country road? Flat tire.
-not_available Doesn't have a jack.
-not_available Never mind.
-not_available You think you can avoid it.
-not_available lt all counts.
-not_available Decisions you don't make.
-not_available The real joke is l'm still gonna die.
-not_available l guess l'm getting ready for it.
-not_available l'm not ready.
-not_available Damn it, l'm not! l don't want to leave them.
-not_available Sarah needs me.
-not_available Could you please have my wife bring Sarah in? Sure.
-not_available Don't say it.
-not_available What? That l should be grateful to be alive.
-not_available That's not what l was thinking.
-not_available What were you thinking? l don't know.
-not_available ls there any chance? Type A, negative cross
-not_available match.
-not_available Forty
-not_available three years old.
-not_available He can handle the surgery.
-not_available lt just seems that marriage should be easier.
-not_available l never heard it called easy.
-not_available Sometimes l think we did it just to make our parents happy.
-not_available You're good at making people happy.
-not_available Not this week.
-not_available What? How soon will you know? A 1 9year
-not_available old flatline EEG.
-not_available Can't find the parents to sign a release.
-not_available What'll you do about Milwaukee? l could be a junior resident at a suburban hospital.
-not_available That'd do wonders for your career.
-not_available lt all counts.
-not_available What? Nothing.
-not_available Your dialysis kid's coming around.
-not_available Good.
-not_available Well, can you keep trying? l need that heart.
-not_available Thanks.
-not_available Can you do me a favor and get a hotel for Mrs.
-not_available Gasner and her daughter? Sure.
-not_available You okay, Dr.
-not_available Greene? l'm fine, Jerry.
-not_available Thanks.
+not_available l have a daughter your age, and she came with me to work today.
+not_available When you feel better, l'll bring her in here and she can meet you, okay? Get a cardiologist down here.
+not_available l'm gonna go check on Rachel.
+not_available l'll be back in a couple of minutes.
+not_available lndian summer.
+not_available lt gets this hot, people sort of lose their heads.
+not_available Supposed to be 1 02 today.
 not_available Dr.
-not_available Ross? Lydia, what is a seven letter word for ''dumb,'' beginning with an ''M''? ''Moronic.'' Your asthma patient's back.
-not_available She tried to sleep
-not_available Where's the inhaler? l didn't get it.
-not_available She's having another attack.
-not_available l told you to fill out that prescription tonight.
-not_available She could've died.
-not_available You understand that? The medicine costs $30.
-not_available l don't have the money.
-not_available Medicaid don't come for another week.
-not_available l'll be back.
-not_available Do we have a spare inhaler? Just the one.
-not_available lf he's that bad, he should come in.
-not_available What about Proventil samples? 
-not_available Nope.
-not_available We can't diagnose over the phone.
-not_available lf that's what you want to do.
-not_available Thank you.
-not_available Prednisone, any of that? 
-not_available Plenty.
-not_available On the top shelf.
-not_available lt'll take more to get her through the week.
-not_available You seem very interested.
-not_available She must be pretty.
-not_available She's 1 2.
-not_available l'll see what else l can turn up.
-not_available Jerry, l don't get it.
-not_available l sent that Gram stain ages ago, and it's not back yet? Who was that for again? 
-not_available Mine.
-not_available For me.
-not_available Oh, yes.
-not_available lt came in about three.
-not_available Where is it, Jerry? Bulletin board.
-not_available Excuse me.
-not_available You gotta do something.
-not_available l feel like l'm gonna throw up.
-not_available We wouldn't want that.
-not_available Not here in the hall.
-not_available Come with me.
-not_available Hi, John.
-not_available Hi, Puppy.
-not_available You're up pretty late.
-not_available l fell asleep on the plane.
-not_available Did you have fun with Grandma? She gave me a present.
-not_available Blood sat's 80 percent.
-not_available What did you get? Fifteen liters O
-not_available 2.
-not_available A diary.
-not_available Grandma made the cover herself.
-not_available Grandma likes to make things for you.
-not_available My mom says my dad's gonna die.
-not_available Yes, he is.
-not_available Why can't you fix him? We can't fix everything.
-not_available l can breathe now.
-not_available We don't have an inhaler.
-not_available Take the prednisone every day and visit the clinic in the morning.
-not_available Tomorrow? l can't go tomorrow.
-not_available lt's important.
-not_available l gotta go to work.
-not_available lt's my second week.
-not_available Dr.
-not_available Ross? There's a kid throwing up in 3.
-not_available Okay.
-not_available You're gonna have to take off work.
-not_available l can't.
-not_available She has to have the medication.
-not_available lt has to be done, okay? So do it.
-not_available l know, Elaine.
-not_available l know.
-not_available l forgot a long time ago.
-not_available l was always sure of you.
-not_available You never let me down.
-not_available Sam! Please.
-not_available l have to tell him one more thing.
-not_available You have to make him hear me.
-not_available Forever, honey.
-not_available Forever.
-not_available Sarah'll be fine.
-not_available Remind her l love her.
+not_available Greene! A pizza delivery guy got stabbed.
+not_available He's driving himself in.
+not_available How soon? 
+not_available Only a couple of blocks away.
+not_available Where's Benton? Somebody order a pizza? Any pain in your head? 
+not_available No.
+not_available Your neck? 
+not_available No.
+not_available What about your chest? Call security.
+not_available Somebody's in my parking space.
+not_available Brutal.
+not_available Where's Rachel? Joanna's keeping an eye on her.
+not_available Cardiology been down yet? Kayson's finishing up an angiogram.
+not_available He should be here in 20 minutes.
+not_available Anyhow, now she's got a fever of 1 02.
+not_available A fever? l'm just a pizza guy! How you doing, kiddo? 
+not_available Her rhythm's changed.
+not_available Ventricular tachyrhythmia.
+not_available Tachyrhythmia? Twenty milligrams of lidocaine, lV push.
+not_available Could be secondary to the heart failure.
+not_available Has she had any surgeries recently? 
+not_available No.
+not_available Her family's in the waiting room.
+not_available Let's see what l can find out.
+not_available They stabbed me! 
 not_available Mr.
-not_available Quinn? Daniel? l'm Dr.
-not_available Lewis.
-not_available You're on dialysis because you drank too much.
-not_available Would you blink if you understand me? We'll be taking that tube out of your windpipe soon.
-not_available Your kidneys are functioning.
-not_available Your liver's fine.
-not_available And you lost a few million brain cells, but you can spare them.
-not_available Blink if you will never do this again.
-not_available Playing oneon
-not_available one against yourself is the easy way.
-not_available Here you go.
-not_available Here you go.
+not_available Etker, does your neck hurt? 
+not_available No.
+not_available Pressure's 21 0 over 1 20.
+not_available Squeeze.
+not_available Press down.
+not_available l was delivering pizza.
+not_available l'm dying! Does your chest hurt? They stabbed me! Where did they stab you? 
+not_available My side.
+not_available Where? There, there! You want me to prep for a peritoneal lavage? No, l want you to get some Bactine and a Band
+not_available Aid.
+not_available What's wrong? Why aren't you helping me? lt's just a scratch.
+not_available A scratch? Cancel the O.R.
+not_available lt was a really big knife.
+not_available Jerry, could you at least get this DO A into an empty room? 
+not_available Well, there aren't any.
+not_available Then take him down to Pathology.
+not_available Five on three hundred.
+not_available l'm in.
+not_available Three
+not_available fifty.
+not_available l got threeseventy
+not_available five.
+not_available Wendy? l never win.
 not_available Come on.
-not_available Get by me.
-not_available l'm the short guy.
-not_available You said you could've been a contender.
-not_available You distracted me.
-not_available That's the game.
-not_available What do you want? Can l borrow forty bucks? For what? 
-not_available l gotta run an errand.
-not_available Thanks.
-not_available Go home, Mark.
-not_available This'll get your daughter through the next 3 weeks.
-not_available Make sure she uses the inhaler.
-not_available Bring her back if she's not feeling better.
-not_available You bought this yourself? l'll get her to the clinic.
+not_available lt's only five bucks.
+not_available Two hundred.
+not_available Two hundred? Man, you can play anytime.
+not_available Two hundred it is, Wendy.
+not_available Lydia? Hey, she's smelling.
+not_available She's not allowed to smell, is she? Foursixty
+not_available five.
+not_available Dr.
+not_available Lewis, want to get a piece of today's bloodalcohol pool? Who's today's victim? 
+not_available Arthur.
+not_available Well, anything under four hundred's a sucker bet.
+not_available Five
+not_available fifty.
+not_available Your sister's looking for you.
+not_available She's in the lounge.
+not_available Hi, Chloe.
+not_available Hey, little sis! Look at you! Stethoscope and everything.
+not_available Even a little badge.
+not_available Man, look at that picture.
+not_available lt's worse than the DMV.
+not_available ls that a pushup bra? No! 
+not_available You have powdered sugar on your chin.
+not_available l was eating doughnuts.
+not_available Are they yours? 
+not_available No, they were in the fridge.
+not_available l thought they were for everybody.
+not_available Well, they're not.
+not_available l'll replace them later.
+not_available Sure.
+not_available Okay.
+not_available Chloe, l'm working! ls this your locker? lt must be cool to have your own locker.
+not_available Like back in school.
+not_available l really have to get back to work.
+not_available l'll call you tomorrow, okay? l lost my apartment.
+not_available What happened to the money l sent you? 
+not_available lt wasn't enough.
+not_available $500? 
+not_available l can't do this right now.
+not_available No, please.
+not_available No, not this time.
+not_available Mom won't let me stay at the house.
+not_available l can't.
+not_available Really.
+not_available lt's just for a couple weeks.
+not_available Weeks? Days then, okay? l promise, this time l won't screw up.
+not_available l won't.
+not_available Please, Susie.
+not_available l don't have anyplace else to go.
+not_available Don't let the cat out.
+not_available And none of your friends can come over.
+not_available Ever.
+not_available You hear me? All right? Understand? lt'll be okay.
 not_available l promise.
+not_available Good, l know it will be.
+not_available l gotta go.
+not_available No friends! Was surgery ever scheduled to correct the malformation? They found it when she was a baby.
+not_available They said l had until she was 6 or 7 to take care of it.
+not_available She was doing so well.
+not_available There wasn't any hurry.
+not_available Normally, that'd be true.
+not_available But her condition worsened today.
+not_available Dr.
+not_available Kayson is going to examine her in a few minutes.
+not_available He's an excellent cardiologist.
+not_available Can l have 75 cents for a soda? Shandra! Does she have a cardiologist? 
+not_available We've got a pediatrician.
+not_available l should call him.
+not_available Her.
+not_available Ellen Mathias.
+not_available Her, sorry.
+not_available l'll call Dr.
+not_available Mathias and get Kanesha's records right away.
+not_available l'll be back as soon as Dr.
+not_available Kayson's had a chance to examine her.
+not_available How's she doing? 
+not_available Lytes came back normal.
+not_available Damn it.
+not_available She's hypertensive, 1 80 over 1 00.
+not_available Hypertension.
+not_available Agitation.
+not_available Fever.
+not_available Ventricular tachyrhythmia.
+not_available Poisoning? Let's get a tox screen going now! Did you take anything your dad told you not to touch? Pump her? 
+not_available Lavage.
+not_available Anything in the sink? ln the bathroom or garage? Anything? Peter, it's your liquor store guy again.
+not_available lvan? Oh, God, what now? Shots were fired.
+not_available They say it looks bad.
+not_available Multiple gunshot wounds.
+not_available Pulse, 1 50, thready.
+not_available BP, 50 palp.
+not_available We got two lVs, but his pressure's still crashing.
+not_available l thought you were bringing in lvan.
+not_available Over here.
+not_available l thought you were shot.
+not_available l got him.
+not_available That's the one who shoot me.
+not_available Now l shoot him.
+not_available Dr.
+not_available Benton! All right.
+not_available Get six units O
+not_available neg now! Now l shot you.
+not_available See how it feels?! You little bastard, now you see! ls she okay? 
+not_available Your daughter's fine, sir.
+not_available Thank you, Jesus! Thank you, doctor.
 not_available Thank you.
-not_available You're welcome.
-not_available Honey? What time is it? Seven
-not_available thirty.
-not_available l was just thinking about Milwaukee.
-not_available And l know it'll be hard.
-not_available That's okay.
-not_available Don't worry about it.
-not_available But if you want me to go l'll go.
-not_available l'll go.
-not_available No, you'd hate it.
-not_available lt's not a big deal.
-not_available lt's only two hours away.
-not_available l love you.
-not_available l love you too.
-not_available Daddy, you're home! Hi, sweetheart.
-not_available Come on in.
-not_available Come here.
-not_available l'm so glad to see you.
-not_available Daddy, what's wrong? Nothing's wrong.
-not_available Nothing's wrong.
-not_available Nothing's wrong.
-not_available Okay? 
+not_available l'd like to see her now.
+not_available Sir, your daughter wasn't suffering from congestive heart failure.
+not_available She wasn't? This is Ms.
+not_available McGillis from Child and Family Services.
+not_available She'd like to ask you some questions.
+not_available Your legal name and address? What's going on? Your legal name and address.
+not_available Where's Kanesha? l want to see her.
+not_available Now! Your fiveyear
+not_available old daughter overdosed on cocaine, Mr.
+not_available Freeman.
+not_available No palpable BP.
+not_available Capillary refill's bad.
+not_available He's bleeding out.
+not_available Get that blood in a pressure bag.
+not_available He needs a bilateral chest tube.
+not_available How old is he? 
+not_available Fourteen, tops.
+not_available You ready? Let's roll him.
+not_available Oh, God, lvan.
+not_available What'd you use, a cannon? All right, the kid's got no exit wounds.
+not_available Move, Carter! Exit wounds? 
+not_available He was shot in the back.
+not_available Call the O.R., see who's available.
+not_available Get them down here now.
+not_available All right, here we go.
+not_available He had a seizure in the waiting room? He slammed his head against the admitting desk.
+not_available Says his name is Monty and that he's HlV positive.
+not_available Are you on any medications? AZT, ddl, Bactrim? AZT, and some white and red ones.
+not_available Dilantin? Have you been taking them? Sometimes l forget.
+not_available Have you been drinking? You can't mix alcohol and Dilantin.
+not_available lt's very dangerous.
+not_available Understand? l tried to get to the clinic but they won't let me on the bus because l don't have any money.
+not_available Get a CT, tox screen, CBC, Chem
+not_available 7 Dilantin and blood alcohol levels.
+not_available Decreased breath sounds bilaterally.
+not_available Carter, come and put a stitch around the tube.
+not_available To hold it in.
+not_available Come on.
+not_available Here comes the cavalry.
+not_available Who is it? 
+not_available Langworthy.
+not_available Oh, great.
+not_available Just what l need.
+not_available What have we got? Teenage male with multiple gunshots in the back.
+not_available Bilateral hemothorax.
+not_available We got a liter out of the left already.
+not_available Dr.
+not_available Benton, that Russian is screaming for you.
+not_available He insists only you sew him up.
+not_available l can't get a pulse.
+not_available Carter, go take care of lvan.
+not_available l'm putting in this stitch.
+not_available A bullet in the right ventricle.
+not_available Tamponade.
+not_available l'll crack his chest.
+not_available No, you won't.
+not_available He's my patient.
+not_available Carter, you still here? Go, go! Move! Thoracotomy tray.
+not_available Let's move! Here we go.
+not_available Hi, Kanesha.
+not_available This is Rachel.
+not_available Let me get you a stool.
+not_available ls she going to get better? Yeah, she's feeling a lot better.
+not_available Aren't you, Kanesha? l like your dog.
+not_available His name is Smedley.
+not_available l had a dog.
+not_available A real dog.
+not_available His name was Max.
+not_available Did he run away? He was old and he died.
+not_available My mom died, but she wasn't old.
+not_available My mommy's in Milwaukee.
+not_available My daddy's your doctor.
+not_available He helped make me better.
+not_available That's what doctors do.
+not_available l get a real dog when l'm ten.
+not_available My dad says l get to name him.
+not_available PEA, tachycardic, 1 40.
+not_available Heart's racing with no pressure.
+not_available Spreader.
+not_available Thank you, Sarah.
+not_available ls he sick? 
+not_available Yeah, l think he is.
+not_available Did somebody hurt him? 
+not_available l don't know.
+not_available Somebody bad? Probably someone very bad.
+not_available lt was him.
+not_available He came in before with his friend, and he shoot me.
+not_available You need to stay still.
+not_available Now he just come in.
+not_available Like nothing.
+not_available He thinks l'm being afraid.
+not_available Not this time.
+not_available This time, he should be afraid, huh? What would you do if he come in? The one who shoot you before? 
+not_available l don't know.
+not_available You shoot, that's what you do! Just like me.
+not_available Any man say he don't, he is a liar.
+not_available A damn liar.
+not_available l was gonna look for you.
+not_available l have to get to the lab.
+not_available Well, l'll walk with you.
+not_available Look, l was a jerk, showing up at your place like that.
+not_available And so l owe you an apology.
+not_available You're not making this any easier for me, are you? Aren't you going up to the lab? 
+not_available No, l always take the stairs.
+not_available Great girl, isn't she? l don't blame you for still wanting to be with her.
+not_available l was a jerk going up to Carol's place like that.
+not_available lt was.
+not_available l've done the same thing.
+not_available Don't be so tough on yourself.
+not_available We'll get you all fixed up, ma'am.
+not_available You getting off? 
+not_available Not my floor.
+not_available We're on the 1 2th.
+not_available Yeah, l punched the wrong button.
+not_available Pericardium's full of blood.
+not_available Scissors.
+not_available Get me a two
+not_available O suture.
+not_available No time.
+not_available What do we do? Be the Dutch boy 
+not_available with his finger in the dyke.
+not_available This'll be a gusher.
+not_available Ready? O.R.'s been alerted.
+not_available Where is it? Got it! Coming through! Clear the way, people! Come on, let's go! Step on it! Tell O.R.
+not_available they got a tamponade coming up.
+not_available Then tell Cardiology they're gonna need 1 0 units now! And have O.R.
+not_available prep for a heart
+not_available lung bypass! Coming through, people! Hold the elevator! Let's go.
+not_available Come on! And the winner is.
+not_available Read it and weep, boys.
+not_available Four seventy
+not_available three.
+not_available Every damn time! How does she do it? This is gonna be a tough one.
+not_available You really gonna clean him up? 
+not_available Tradition is tradition.
+not_available l'm glad l didn't win.
+not_available Come on, Arthur.
+not_available You've got an appointment with some hot water.
+not_available Your sitter still hasn't shown? 
+not_available The car overheated.
+not_available When will they fix the air conditioning? They're working on it.
+not_available The dead guy is still here.
+not_available Are we waiting for him to get ripe? l'm sorry.
+not_available l called Pathology.
+not_available Why don't you throw a sheet over him, at least? You must be Jerry.
+not_available l'm Linda Farrell, Novell Pharmaceuticals.
+not_available You like pepperoni pizza, Jerry? 
+not_available l'm a vegetarian.
+not_available l'll eat it.
+not_available ls Dr.
+not_available Greene available? 
+not_available He's expecting me.
+not_available On his day off? He's on the board.
+not_available What are you selling? Are you in a procurement position, Dr? Lewis.
+not_available Dr.
+not_available Greene's very busy today.
+not_available l'll wait.
+not_available lt could be quite a while.
+not_available Jerry and l will catch up on old times, then.
+not_available Won't we, Jer? Sure.
+not_available l'll tell him you're here.
+not_available Where you from, Jerry? West Town? 
+not_available Yeah, Ukrainian Village.
+not_available l knew it.
+not_available My grandfather grew up on West Haddon.
+not_available Cortez Street.
+not_available What do you know? Maybe we're cousins or something, huh? Hey, Mr.
+not_available Kinnett.
+not_available Has the anesthesia taken hold? 
+not_available He's out.
+not_available Okay, up you go.
+not_available Got it.
+not_available How'd he dislocate his shoulder? Water
+not_available skiing accident.
+not_available He's still in love with you.
+not_available Doug? He's a little kid.
+not_available He wants what he can't have.
+not_available You ready? 
+not_available Let's move in together again.
+not_available What? lt's been five months.
+not_available Got it.
+not_available l still have lots of room.
+not_available l just got a new couch.
+not_available So we'll stay at your place.
+not_available Okay, let's get him to X
+not_available ray for a postreduction film.
+not_available And at least think about it, okay? He seems really nice.
+not_available He is.
+not_available ls it that Doug? No, it's me.
+not_available He says he doesn't know where Kanesha got cocaine.
+not_available And you believe him? Did you call the police? 
+not_available Why? Child endangerment.
+not_available He's middle class, he owns a home, he has a job.
+not_available l've got families living out of Buicks.
+not_available He could be a coke dealer.
+not_available We'll follow up with a visit.
+not_available lf anything's wrong, we'll pull the kids.
+not_available l won't release her until she's ready.
+not_available That's your prerogative, doctor.
+not_available ''He looked and he looked.
+not_available He could see nothing there but a small speck of dust blowing past through the air.'' Hey, Rachel.
+not_available What are you reading? 
+not_available A book.
+not_available Horton Hears a Who! 
+not_available Oh, l remember that one.
+not_available Keep going.
+not_available '''l say!' murmured Horton.
+not_available l've never heard tell of a speck of dust that is able to yell.
+not_available So you know what l think? l think that there must be someone on top of that small speck of dust.
+not_available Some sort of a creature of very small size too small to be seen by an elephant's eyes.
+not_available Some poor little person who's shaking with fear that he'll blow in the pool.
+not_available He has no way to steer! l'll just have to save him because after all a person's a person no matter how small.'' So cancel your credit card.
+not_available lf l report it stolen and she uses it, they'll arrest her.
+not_available Would that be so bad? The last time Chloe moved in with me, she stayed for months.
+not_available Well, you could have told her no.
+not_available l tried to.
+not_available She's my sister and l care about her.
+not_available l don't know.
+not_available Every year she seems to get worse.
+not_available Would you talk to her? 
+not_available And say what? Observe her.
+not_available Let me know what you think.
+not_available Well, l could recommend someone.
+not_available We tried, she won't go.
+not_available l'll introduce you as my boyfriend.
+not_available Your boyfriend, is that what l am? This is my sister, Div.
+not_available Look, it's a bad.
+not_available lt's a bad idea.
+not_available Why? What if she asks me what l do? You want me to lie to her? Damn right.
+not_available What if l tell you something you don't want to hear? Like what? 
+not_available l don't know.
+not_available Like your Uncle Bob molested her as a child.
+not_available We don't have an Uncle Bob.
+not_available l'm sorry, but this is just an awful idea.
+not_available And l'm not gonna allow you to talk me into it.
+not_available Time to feed the animals.
+not_available So you're not gonna help her? 
+not_available No, l'm not.
+not_available Fine.
+not_available l'll do it on my own.
+not_available He went into asystole.
+not_available But you can't anticipate that.
+not_available Sure, you can.
+not_available No, not
+not_available l'll see you around.
+not_available Yeah, sure.
+not_available How is the boy? He's in surgery.
+not_available ls he going to be okay? No, he's not.
+not_available l was very scared.
+not_available l stay.
+not_available See how he do.
+not_available Okay? Look, lvan.
+not_available Yeah.
+not_available l'll find you later.
+not_available Good.
+not_available Good.
+not_available l wait here.
+not_available l wait right here.
+not_available Rachel wanted to say goodbye to Kanesha.
+not_available Tommy finally show up? He just called from O'Hare.
+not_available He's on his way in.
+not_available ls she okay? She's sleeping.
+not_available You still planning on admitting her? For how long? l don't know.
+not_available She could go home tonight.
+not_available No, she can't.
+not_available She could live with you, Daddy.
+not_available Kanesha's got a family of her own.
+not_available But she doesn't have a mom.
+not_available No, she doesn't.
+not_available And you'll be lonely whenever we go Millakey.
+not_available Milwaukee.
+not_available lt's hard not to have a mom.
+not_available Yeah, it is.
+not_available Lots of families are that way.
+not_available Some families just have moms, some just have dads.
+not_available But it works out okay.
+not_available Doug, l need you in 7.
+not_available A kid with a bellyache.
+not_available Listen, sweetheart, will you stay here till l get back? l don't want her to wake up alone.
+not_available Dad? 
+not_available Sure.
+not_available Okay, thank you.
+not_available Hey, Carol! 
+not_available l'm in a hurry, Doug.
+not_available Taglieri and l had a little talk.
+not_available He accepted my apology.
+not_available He's a bigger person than l am.
+not_available Come on, slow down here.
+not_available Why don't we just agree to behave like adults when we're around each other? ''We''? 
+not_available No, me.
+not_available lt's me and l'm sorry.
+not_available You wanna hit me? Come on, you want to.
+not_available You gonna hit me? Right here.
+not_available lt'll make you feel better.
+not_available Just give it your best shot.
+not_available You must be Dr.
+not_available Ross.
+not_available Linda Farrell, Novell Pharmaceuticals.
+not_available You handle emergency pediatrics around here.
+not_available Yes, l do.
+not_available Hi, l'm Doug Ross.
+not_available You're right.
+not_available l feel better.
+not_available Did l interrupt something? 
+not_available No, we're done.
+not_available Who did you say you worked for? 
+not_available Novell.
+not_available Have you tried our new cephalosporin? lt has excellent coverage.
+not_available Miss Farrell, whatever you're selling, l'm buying.
+not_available lt's Miss Farrell, right? 
+not_available Call me Linda.
+not_available You can call me Doug.
+not_available Hey, doc.
+not_available Hi, how are you feeling? 
+not_available Okay, you know? Much better.
+not_available Good.
+not_available l'm a screwup.
+not_available Always have been.
+not_available l think l need to get into a program.
+not_available Dr.
+not_available Lewis? lt's okay, Jerry.
+not_available Yeah, sure.
+not_available l can give you some referrals.
+not_available Right.
+not_available But l can't be in one on the South Side.
+not_available l gotta get out of the neighborhood.
+not_available But it costs money to move, to set up someplace else.
+not_available You gotta find someone to help, to care.
+not_available lt's just a couple of hundred bucks.
+not_available l said no.
+not_available A hundred bucks.
+not_available Fifty! 
+not_available What are you, deaf? l said no.
+not_available l wasn't doing nothing! You're out of here.
+not_available You bitch! l was only asking you for help.
+not_available Bitch! Dr.
+not_available Ross.
+not_available Just go home.
+not_available Kanesha won't be released today.
+not_available That's because of you, right? 
+not_available That's right.
+not_available Can l take my baby home? Tonight? Your fiveyear
+not_available old daughter is recovering from a cocaine overdose.
+not_available l don't know where she got it.
+not_available At 6:00 in the morning? She got it from your house.
+not_available lt's because l'm black, right? Drugs, black man.
+not_available Trouble! 
+not_available She could have died.
+not_available Understand? She has a serious heart condition.
+not_available You have no right to judge me! Watch me.
+not_available Your boy died.
+not_available Yeah, l heard.
+not_available When did it start raining? 
+not_available A couple of minutes ago.
+not_available Maybe it'll cool things down.
+not_available Gather your things up, Rach.
+not_available Did you make him all better? Who? 
+not_available The boy in the green room.
+not_available The gunshot victim.
+not_available They tried really hard but he died.
+not_available Will his mom be sad? Very sad.
+not_available Are you sad? Yeah.
+not_available lf you're sad, why aren't you crying? l am.
+not_available Right here.
+not_available Dr.
+not_available Benton, there's a detective here from violent crimes.
+not_available He wants to talk to you about that gunshot kid.
+not_available Put all your stuff away.
+not_available Okay, hon? Got a minute? He's got a point.
+not_available Would it be the same if her name was Stephanie, from the North Side? 
+not_available This isn't about race.
+not_available Sure it is.
+not_available So you think l'm a racist too? No, l think he deserves a chance.
+not_available l believed him.
+not_available Are you willing to stake that child's life on it? See if he and the family are willing to take a drug test.
+not_available And find out who else has been hanging around the house.
+not_available Hopefully, that's going to break this weather.
+not_available Arthur? 
+not_available The very same.
+not_available That's incredible! He looks better than your last husband.
+not_available Here's your old clothes, Arthur.
+not_available Take my advice.
+not_available Burn them.
+not_available What was that? The air conditioning is back on.
+not_available Great.
+not_available Just in time for me to go home.
+not_available Good night.
+not_available lf this guy's here tomorrow, why don't we bury him in the parking lot? Sorry, Dr.
+not_available Greene.
+not_available Good night.
+not_available When the boy came in, was he conscious? Did he say anything? lvan had been shot by him twice before.
+not_available ls that what he told you? 
+not_available Yeah.
+not_available Did he tell you that he shot the kid this time? How many times was lvan supposed to let this kid attack him? All right.
+not_available Thanks a lot.
+not_available We'll be in touch if we need anything.
+not_available Look, detective.
+not_available lvan's not the kind of man that belongs in jail.
+not_available Are you two friends? Yeah, l guess we are.
+not_available That kid was unarmed.
+not_available Mr.
+not_available Gregor chased him into the street and shot him as he ran away.
+not_available You know where Mr.
+not_available Gregor is, doc? l'm sorry.
+not_available Dr.
+not_available Benton, they need you in Trauma 2.
+not_available You okay? 
+not_available Yeah.
+not_available Two.
+not_available Let's go.
+not_available Carter! Mr.
+not_available Freeman, your tests came back.
+not_available lt was negative.
+not_available Good.
+not_available Now can l have my baby? Your older daughter, Shandra's drug test was positive.
+not_available You knew that, didn't you? Do you have kids, doctor? One.
+not_available l have a son.
+not_available The year before my wife died she and Shandra were at each other's throats.
+not_available Typical adolescent stuff.
+not_available They just never had a chance to work it out.
+not_available l don't know what to do how to reach her.
+not_available Sometimes l think she's trying to kill herself.
+not_available She needs help.
+not_available l can help you get it for her.
+not_available Honey, you can fall asleep in here but l'm gonna have to put you in your own bed later, okay? Does Mommy come home tomorrow? Day after tomorrow.
+not_available Now good night.
+not_available l miss her.
+not_available Me too.
+not_available Daddy? lf l got hurt would you fix me? Yes, l would.
+not_available You wouldn't let me die? You are the most important thing to me on this earth.
+not_available And l would do everything to make you better.
+not_available Everything.
+not_available l love you, Daddy.
+not_available l love you, sweetheart.
+not_available Come on, Chloe, don't do this to me.
+not_available Chloe, l told you not to let the cat out.
+not_available Damn it! Susan.
+not_available Susan? The cat was out.
+not_available lt's gonna be all right.
+not_available l'll talk to her.
+not_available We'll get her some help.
+not_available lt's gonna be okay.
+not_available lt's okay.
