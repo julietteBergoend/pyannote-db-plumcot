@@ -1,4 +1,5 @@
 ER.Season01.Episode01
+ER.Season01.Episode02
 ER.Season01.Episode03
 ER.Season01.Episode04
 ER.Season01.Episode05
@@ -22,7 +23,6 @@ ER.Season01.Episode22
 ER.Season01.Episode23
 ER.Season01.Episode24
 ER.Season01.Episode25
-ER.Season01.Episode26
 ER.Season02.Episode01
 ER.Season02.Episode02
 ER.Season02.Episode03
