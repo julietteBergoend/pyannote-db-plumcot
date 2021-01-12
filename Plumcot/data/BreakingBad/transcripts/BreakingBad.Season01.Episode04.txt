@@ -140,8 +140,8 @@ skinny_pete  No, thanks, man. Pass. Your
 jesse_pinkman  Your loss. These are from
 jesse_pinkman  from Canada or something.
 jesse_pinkman  Imported.
-christian_"combo"_ortega  Yo, what happened to your hallway, man?
-christian_"combo"_ortega  Did the ceiling fall down or Oh
+combo  Yo, what happened to your hallway, man?
+combo  Did the ceiling fall down or Oh
 jesse_pinkman  Oh, yeah I think the house is just settling.
 jesse_pinkman  It's been caving in left and right.
 jesse_pinkman  Hit me in the eye.
@@ -149,18 +149,18 @@ jesse_pinkman  It's bananas.
 skinny_pete  Yo, my pops could fix you up. He's like a contractor or something.
 jesse_pinkman  Right
 jesse_pinkman  Right on. I should grab that number.
-christian_"combo"_ortega  Say, Jesse. You still cook a little crystal?
+combo  Say, Jesse. You still cook a little crystal?
 jesse_pinkman  Could be, yeah.
 jesse_pinkman  You know, from time to time.
 skinny_pete  I heard you lost your partner.
 skinny_pete  Emilio.
 skinny_pete  Didn't he get locked up?
-christian_"combo"_ortega  No, man. He's out.
-christian_"combo"_ortega  His cousin bailed him out.
-christian_"combo"_ortega  He skipped town or something.
+combo  No, man. He's out.
+combo  His cousin bailed him out.
+combo  He skipped town or something.
 jesse_pinkman  I don't know about any of that. I've been kinda doing my own thing these days.
-christian_"combo"_ortega  But you maybe got some crystal, man?
-christian_"combo"_ortega  I could seriously go for a bowl. You know? Take the edge off.
+combo  But you maybe got some crystal, man?
+combo  I could seriously go for a bowl. You know? Take the edge off.
 skinny_pete  Hell, yeah. Sunday night bowl, yo.
 jesse_pinkman  Maybe it just so happens that I just recently cooked the best batch ever.
 jesse_pinkman  Oh, yeah.
@@ -170,12 +170,12 @@ jesse_pinkman  It's like way, way more chemically
 jesse_pinkman  You know, it's just the bomb.
 jesse_pinkman  But, you know, I don't know, I've been thinking lately I'll just lay off of it for a while. 'Cause lately it's been making me paranoid,
 jesse_pinkman  You know, for, like like healthwise, just lay off.
-christian_"combo"_ortega  Yo, if you're not into sharing, man, just tell us to piss off. It's cool.
-christian_"combo"_ortega  We don't need no soap opera.
+combo  Yo, if you're not into sharing, man, just tell us to piss off. It's cool.
+combo  We don't need no soap opera.
 skinny_pete  Yeah, man. Whatever.
 jesse_pinkman  No, no. It's all good. You know,
 jesse_pinkman  I I'm just saying Hey, I got I got plenty of pot.
-christian_"combo"_ortega  Yeah, I think I'll bounce, man.
+combo  Yeah, I think I'll bounce, man.
 skinny_pete  Yeah, sounds about right.
 jesse_pinkman  yo, yo. Hey, homes.
 jesse_pinkman  I'm joking.
@@ -236,39 +236,39 @@ walter_white_jr.  What the hell's wrong with you?
 walter_white_jr.  What?
 walter_white_jr.  acting all Why are you acting so weird?
 walter_white_jr.  You're acting like nothing is going on.
-ken  Come on!
-ken  Am I gonna have to come down there and whip your ass?
-ken  And let me tell you something else. I'm not doing this for charity, right?
-ken  I'm the best he's got in that office.
-ken  He knows it, I know it. I expect to be paid to a level comens I said," Dave, do you think That's
-ken  That's less than 10% of what I booked for you guys this quarter. I'm
-ken  not going to sit here and be disrespected.
-ken  Oh, he's shitin bricks.
-ken  Oh, you know he is.
-ken  Yeah, that man lives in fear. I'll
-ken  I'll go across town.
-ken  Hell, I could go anywhere.
-ken  HoffmanGordonBradley or Sorcher,
-ken  even GoldbergWayne.
-ken  They'd make me a partner just for walking in the damn door. That's how ecstatic they'd be
+ken_wins  Come on!
+ken_wins  Am I gonna have to come down there and whip your ass?
+ken_wins  And let me tell you something else. I'm not doing this for charity, right?
+ken_wins  I'm the best he's got in that office.
+ken_wins  He knows it, I know it. I expect to be paid to a level comens I said," Dave, do you think That's
+ken_wins  That's less than 10% of what I booked for you guys this quarter. I'm
+ken_wins  not going to sit here and be disrespected.
+ken_wins  Oh, he's shitin bricks.
+ken_wins  Oh, you know he is.
+ken_wins  Yeah, that man lives in fear. I'll
+ken_wins  I'll go across town.
+ken_wins  Hell, I could go anywhere.
+ken_wins  HoffmanGordonBradley or Sorcher,
+ken_wins  even GoldbergWayne.
+ken_wins  They'd make me a partner just for walking in the damn door. That's how ecstatic they'd be
 unknown  Hells
-ken  Hells, yes, brotherman!
-ken  Check this chick out
-ken  Buddy, she's a cow.
-ken  Stacey's a cow.
-ken  We're talking major barnyard boohog.
-ken  Roll her in flour and look for the wet spot before you hit that, man. You know?
-ken  Sir
+ken_wins  Hells, yes, brotherman!
+ken_wins  Check this chick out
+ken_wins  Buddy, she's a cow.
+ken_wins  Stacey's a cow.
+ken_wins  We're talking major barnyard boohog.
+ken_wins  Roll her in flour and look for the wet spot before you hit that, man. You know?
+ken_wins  Sir
 mesa_credit_union_employee_#1  Sir?
 mesa_credit_union_employee_#1  Sir?
 walter_white  Sorry.
 walter_white  Hi.
-ken  What
+ken_wins  What
 mesa_credit_union_employee_#1  What can I do for you? Which
-ken  Which dude?
-ken  The dude that looked like a lizard?
+ken_wins  Which dude?
+ken_wins  The dude that looked like a lizard?
 walter_white  I'm sorry. I would like a
-ken  a cashier's
+ken_wins  a cashier's
 walter_white  cashier's check in the full amount made out to Oncology Partners of New Mexico, please.
 walter_white  Oh, that's ONCOLOGY. Yeah,
 walter_white  you got it.
@@ -365,20 +365,20 @@ jake_pinkman  I'm the favorite?
 jake_pinkman  right.
 jake_pinkman  practically all they ever talk about.
 jesse_pinkman  Awesome.
-christian_"combo"_ortega  it's me. Hey, listen. You
-christian_"combo"_ortega  You know, that product?
-christian_"combo"_ortega  You got any more of that?
+combo  it's me. Hey, listen. You
+combo  You know, that product?
+combo  You got any more of that?
 jesse_pinkman  I'm done giving out
 jesse_pinkman  out freebies. You want
 jesse_pinkman  want charity, go ask the Salvation Army.
-christian_"combo"_ortega  No, no charity
-christian_"combo"_ortega  charity.
-christian_"combo"_ortega  I got this cousin, he's got him some rich friends.
-christian_"combo"_ortega  These dudes are in town. They're looking to partay.
-christian_"combo"_ortega  And your stuff is, like, so sweet.
-christian_"combo"_ortega  So
-christian_"combo"_ortega  you say? You up for making some fat stacks? Because
-christian_"combo"_ortega  they'll buy everything you got.
+combo  No, no charity
+combo  charity.
+combo  I got this cousin, he's got him some rich friends.
+combo  These dudes are in town. They're looking to partay.
+combo  And your stuff is, like, so sweet.
+combo  So
+combo  you say? You up for making some fat stacks? Because
+combo  they'll buy everything you got.
 walter_white  You can't be serious.
 walter_white  What the hell are you doing here?
 jesse_pinkman  Yo, I waited till the bowl buster left.
@@ -493,12 +493,12 @@ walter_white  I just don't want emotions ruling us.
 walter_white  Maybe treatment isn't the way to go.
 walter_white_jr.  Then why don't you just fucking die already?
 walter_white_jr.  Just give up and die.
-ken  Yeah, I'm not worried.
-ken  I have the best fucking attorney
-ken  I would not want to be on
-ken  on the
+ken_wins  Yeah, I'm not worried.
+ken_wins  I have the best fucking attorney
+ken_wins  I would not want to be on
+ken_wins  on the
 danny's_auto_service_employee_#1  one What the hell?
-ken  What
-ken  What are you doing? Call
-ken  Call somebody, call the
-ken  the fire people.
+ken_wins  What
+ken_wins  What are you doing? Call
+ken_wins  Call somebody, call the
+ken_wins  the fire people.
