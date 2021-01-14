@@ -1,265 +1,367 @@
-kate_austen It's not like I'm asking a personal question.
-dr_jack_shephard It is a personal question.
-kate_austen You don't have to get all quiet on me. I just want to know.
-dr_jack_shephard Well, you're not going to know.
-kate_austen What's the big deal?
-dr_jack_shephard It's not a big deal. It's just something I did. I had my reasons. And I don't want to put it out there.
-kate_austen It's just that you and your tattoos don't add up. Are you one of those hard-core spinal surgeons?
-dr_jack_shephard That's me. Hard-core.
-charlie_pace If you guys are finished verbally copulating we should get a move on. There's a whole beach of people waiting for us to get some drinking water for them. And the great white hunter's getting restless.
-dr_jack_shephard Okay, let's do this.
-kate_austen Hey, Charlie. Ask Jack about his tattoos.
-charlie_pace Oh, you guys have an inside joke. How absolutely wonderful for you both.
-jinsoo_kwon Miss. 샴페인 드실래요?
-jinsoo_kwon Miss. 뭘 두고 가셨네요.
-sunhwa_kwon 그래요? 뭐죠? 우리 아빠는?
-jinsoo_kwon 손님 때문에 바빠.
-sunhwa_kwon 빨리 이 곳을 떠나고 싶어. 응?
-jinsoo_kwon 어디로?
-sunhwa_kwon 미국.
-jinsoo_kwon 날 좀 봐. 자기야, 사랑해. 널 데리고 도망 가고 싶지는 않아.
-sunhwa_kwon 우리한테는 오직 이 방법 밖에 없어.
-jinsoo_kwon 너희 아버지가 절대 허락 안 할거야.
-sunhwa_kwon 아빠가 허락할 문제가 아니야. 우리가 결정할 문제지.
-jinsoo_kwon 내가 아버지한테 말씀 드릴게. 그리고 설득해 볼게.
-sunhwa_kwon 자기야. 우리 아빠를 몰라서 하는 얘기야. 지금.
-jinsoo_kwon 날 믿어봐.
-sunhwa_kwon 너무 예쁘다.
-jinsoo_kwon 이게 다이아몬드였다면 좋았을 텐데. 언젠가는 그렇게 될 거야.
-sunhwa_kwon 여보, 왜 그래요?
-michael_dawson Hey, hey, what the...
-walt_lloyd Stop! Hey stop!
-sunhwa_kwon 여보, 그만 해. 그만 해! 뭐하는 거야? 여보! 여보! 여보!
-walt_lloyd Get off of him, please! Stop! Stop!
-walt_lloyd Do something! He's going to kill him! Stop him, please!
-sayid_jarrah The handcuffs from the Sky Marshal! Now!
-sayid_jarrah What happened?
-dr_jack_shephard Water's this way.
-kate_austen How'd you find this place?
-dr_jack_shephard Luck.
-dr_jack_shephard This is it.
-john_locke It's amazing.
-charlie_pace Absolutely. It's totally you. Hey guys, shouldn't someone look through this stuff? Could be something useful in here.
-john_locke He's got a point.
-charlie_pace I do?
-dr_jack_shephard Yeah. Bring me your bottles, and keep an eye out for any medical supplies, drugs in particular.
-charlie_pace Drugs, right.
-john_locke Don't move.
-charlie_pace Look, I was just going to take...
-john_locke Do not move.
-dr_jack_shephard What's going on?
-john_locke He's standing on a beehive.
-charlie_pace What's a beehive doing there? Beehives are supposed to be in trees.
-dr_jack_shephard What now?
-john_locke If he moves, he'll split the hive.
-charlie_pace I don't like bees, okay. I have an irrational fear of bees. I think I'm allergic to bees.
-john_locke Please be quiet. We need to get something to seal the hive.
-kate_austen To cover it?
-john_locke Hurry.
-michael_dawson I'm getting tired of saying this. I was just walking the beach with my son, and all of the sudden this dude is all up on me. I didn't do anything.
-jinsoo_kwon 시끄러워!
-sayid_jarrah Surely there must be something you're not telling us.
-michael_dawson Surely? Where you from man?
-sayid_jarrah Tikrit. Iraq.
-michael_dawson Okay. I don't know how it is in Iraq, but in the United States of America where I'm from, Korean people don't like black people. Did you know that?
-jinsoo_kwon 거짓말 하지 마!
+kate_austen It's not like I'm asking a personal question .
+dr_jack_shephard It is a personal question .
+kate_austen You don't have to get all quiet on me .
+kate_austen I just want to know .
+dr_jack_shephard Well , you're not going to know .
+kate_austen What's the big deal ?
+dr_jack_shephard It's not a big deal .
+dr_jack_shephard It's just something I did .
+dr_jack_shephard I had my reasons .
+dr_jack_shephard And I don't want to put it out there .
+kate_austen It's just that you and your tattoos don't add up .
+kate_austen Are you one of those hard-core spinal surgeons ?
+dr_jack_shephard That's me .
+dr_jack_shephard Hard-core .
+charlie_pace If you guys are finished verbally copulating we should get a move on .
+charlie_pace There's a whole beach of people waiting for us to get some drinking water for them .
+charlie_pace And the great white hunter's getting restless .
+dr_jack_shephard Okay , let's do this .
+kate_austen Hey , Charlie .
+kate_austen Ask Jack about his tattoos .
+charlie_pace Oh , you guys have an inside joke .
+charlie_pace How absolutely wonderful for you both .
+jinsoo_kwon Miss .
+jinsoo_kwon Miss .
+michael_dawson Hey , hey , what the ...
+walt_lloyd Stop !
+walt_lloyd Hey stop !
+walt_lloyd Get off of him , please !
+walt_lloyd Stop !
+walt_lloyd Stop !
+walt_lloyd Do something !
+walt_lloyd He's going to kill him !
+walt_lloyd Stop him , please !
+sayid_jarrah The handcuffs from the Sky Marshal !
+sayid_jarrah Now !
+sayid_jarrah What happened ?
+dr_jack_shephard Water's this way .
+kate_austen How'd you find this place ?
+dr_jack_shephard Luck .
+dr_jack_shephard This is it .
+john_locke It's amazing .
+charlie_pace Absolutely .
+charlie_pace It's totally you .
+charlie_pace Hey guys , shouldn't someone look through this stuff ?
+charlie_pace Could be something useful in here .
+john_locke He's got a point .
+charlie_pace I do ?
+dr_jack_shephard Yeah .
+dr_jack_shephard Bring me your bottles , and keep an eye out for any medical supplies , drugs in particular .
+charlie_pace Drugs , right .
+john_locke Don't move .
+charlie_pace Look , I was just going to take ...
+john_locke Do not move .
+dr_jack_shephard What's going on ?
+john_locke He's standing on a beehive .
+charlie_pace What's a beehive doing there ?
+charlie_pace Beehives are supposed to be in trees .
+dr_jack_shephard What now ?
+john_locke If he moves , he'll split the hive .
+charlie_pace I don't like bees , okay .
+charlie_pace I have an irrational fear of bees .
+charlie_pace I think I'm allergic to bees .
+john_locke Please be quiet .
+john_locke We need to get something to seal the hive .
+kate_austen To cover it ?
+john_locke Hurry .
+michael_dawson I'm getting tired of saying this .
+michael_dawson I was just walking the beach with my son , and all of the sudden this dude is all up on me .
+michael_dawson I didn't do anything .
+sayid_jarrah Surely there must be something you're not telling us .
+michael_dawson Surely ?
+michael_dawson Where you from man ?
+sayid_jarrah Tikrit .
+sayid_jarrah Iraq .
+michael_dawson Okay .
+michael_dawson I don't know how it is in Iraq , but in the United States of America where I'm from , Korean people don't like black people .
+michael_dawson Did you know that ?
 michael_dawson So maybe you ought to talk to him !
-sunhwa_kwon 지금 시계 때문에 그래요, 시계.
-sayid_jarrah The cuffs stay on!
-james_ford A little louder, Omar. Maybe then she'll understand you.
-hugo_reyes Guys, that Chinese dude is going to get pretty crispy out here. How long are you going to keep him tied down like that?
-sayid_jarrah He tried to kill Michael. We all saw it. The cuffs stay on until we know why.
-michael_dawson Come on, man. Let's go.
-[Everyone#unknown#Lost.Season01.Episode06 disperses, Sawyer stays looking over at Jin and Sun off camera.
-sunhwa_kwon 어떻게 됐어?
-jinsoo_kwon 그게 말이야, 너희 아버님이—허락하셨어.
-sunhwa_kwon 다시는 그런 장난 치지 마! 어떻게 된 거야?
-jinsoo_kwon 내가 아버님을 설득했지. 일 년 경영 수업을 받고, 일 년 공장에서 일 하면, 우리가 원하는 돈이 생길거야.
-sunhwa_kwon 아빠 밑에서 일 할거야?
-jinsoo_kwon 그렇게 하는 게 옳은 거야.
-sunhwa_kwon 하지만 자기야, 그거는...
-jinsoo_kwon 아니, 그렇게 해야… 잠깐 뿐이야.
-sunhwa_kwon 어머, 자기야… 이렇게 비싼 걸 어떻게 샀어?
-jinsoo_kwon 이제 이 정도는 할 수 있어.
-dr_jack_shephard Okay. Just keep still man. I'm going to try to cover the hive.
-charlie_pace This is the most crap idea ever. It's never going to work.
-john_locke Now, pull yourself together, son.
-charlie_pace It wouldn't be an irrational fear of bees if I could just pull myself together, would it?
-kate_austen Who is he. How'd he get here?
-dr_jack_shephard I can't exactly perform an autopsy but there doesn't seem to be any major trauma to the bones. There's another one over here. Someone laid them to rest here.
-kate_austen Who?
-dr_jack_shephard I don't know.
-kate_austen Where would they come from?
-dr_jack_shephard Didn't you guys shoot a polar bear last week?
-kate_austen Yeah.
-dr_jack_shephard Where'd that come from?
-kate_austen Any idea how long they've been here?
-dr_jack_shephard Long. It takes 40 or 50 years for clothing to degrade like this.
-kate_austen What is it?
-john_locke Hello? Anybody there? Everyone alright?
-dr_jack_shephard A few stings aside.
-charlie_pace You two run away fantastically. Glad my diversion spared you. I was only stung several hundred times. Oh, and uh, someone left this .
-kate_austen It was, um, it was full of bees.
-charlie_pace I'd have thought C's, actually.
-charlie_pace Sorry.
-charlie_pace Bloody Hell! Are these the people who were here before us?
-john_locke What are you talking about?
-charlie_pace Uh, just, you know, the, the, there could have been people here before us, right?
-john_locke Clearly. But, who were these men?
-dr_jack_shephard Actually, one of them is female.
-john_locke Our very own Adam and Eve.
-jinsoo_kwon 뭐 하는 거야?
-sunhwa_kwon 상처가 너무 심해서. .]
-jinsoo_kwon 조심해.
-jinsoo_kwon 어때? 좋아? 내가 사무실 가서 보내는 시간이 많으니까, 개라도 키우면 어떨까 해서. 물론, 니가 밥도 주고, 훈련도 시켜야 되는데. 괜찮겠지?
-sunhwa_kwon 당신의 꽃 한 송이가 내 인생의 전부였을 때?
-jinsoo_kwon 아버지네.
-john_locke I think one of us should stay and help Charlie salvage the wreckage.
-kate_austen You offering?
-john_locke Sure. Give me a chance to get to know him a little better.
-kate_austen We should move out. People are probably getting thirsty. What?
-dr_jack_shephard 46 people need to drink a half gallon a day each. Carrying all this water back and forth is going to be real pain in the ass.
-kate_austen You're starting to make me regret volunteering.
-dr_jack_shephard These caves make too good a shelter just to be used for burial. Adam and Eve, they must have lived here. Their plane crashed, or maybe they were ship-wrecked. They probably found this place and knew they could survive here. Unlimited supply of fresh water, tree canopy keeps the temperature down, shields out the sun, , the openings are narrow, easier for protection against predators. We don't need to bring the water to the people. We need to bring the people to the water. . I think we could live here.
-michael_dawson Hey, what are you doing? You say something to my boy?
-michael_dawson Yeah, nice talking to you, too. Move it, Walt.
-walt_lloyd How come he doesn't like us?
-michael_dawson What?
-walt_lloyd You said people like him don't like people like us.
-michael_dawson Oh man. You know, uh, look, that's not true, and you know what, I don't think like that anyway. I was, I was angry.
-walt_lloyd What did you do to him?
-michael_dawson What did I do to him? You tell me? I've been with you since we crashed. Have you seen me do anything, to anyone? What kind of man do you think I am, anyway? What did your mother say about me?
-walt_lloyd She never talked about you.
-michael_dawson You don't know anything about me, do you?
-walt_lloyd You don't know anything about me.
-michael_dawson I know a lot about you.
-walt_lloyd Yeah?
-michael_dawson Yeah.
-walt_lloyd When's my birthday?
-michael_dawson August 24th. When's mine? Forget it, come on, man.
-sunhwa_kwon 여보, 제발. 내가 가서 설명을 하게 해 줘. 내가 얘기를 잘 하면 당신을 풀어 줄 수도 있잖아.
-jinsoo_kwon 니가 어떻게 설명해? 그냥 여기 있어. 도둑놈한테 일일이 얘기할 필요 없어.
-sunhwa_kwon 여보, 왜 그래?
-sunhwa_kwon 도대체 말 좀 해 봐. 여보, 다쳤어? 무슨 일이야? 무슨 일 했어? 이 피는 누구 피야? 밖에서 무슨 일 있었구나. 밖에서 무슨 일이 있었냐구? What happened to you? What were you doing? Whose blood is this? What were you doing? What happened?]
-jinsoo_kwon 일 하고 왔어.
-sunhwa_kwon 일 하고 왔다구? 도대체 아빠 밑에서 무슨 일을 하는 거야? 날 좀 봐. 얘기 좀 해 봐. 날 좀 바라봐.
-jinsoo_kwon 아버님이 시키는 대로 할 뿐이야. 다 우리를 위해서 하는 거야.
-kate_austen You checking me out?
-dr_jack_shephard What?
-kate_austen No harm in it.
-dr_jack_shephard Trust me, if I was checking you out, you'd know it.
-kate_austen Yeah, so then what were you thinking? Right now.
-dr_jack_shephard Well, I sure as hell wasn't thinking that.
-kate_austen Don't stop to think, just tell me.
-dr_jack_shephard I was thinking that if we were living at the caves we could build a dam around that spring so that everybody could have fresh water and we could get the infirmary off the beach. You think it's a bad idea?
-kate_austen No, no. It makes sense.
-dr_jack_shephard But?
-kate_austen No but.
-dr_jack_shephard Good, because a lot of people are still hoping a rescue boat is going to show up. They're not thinking about their own safety. We're going to have a lot of convincing to do.
-kate_austen We? You still haven't convinced me yet.
-charlie_pace You following me?
-john_locke Yes.
-charlie_pace There's no need. I'm just going to the loo.
-john_locke Is there something you want to tell me, Charlie?
-charlie_pace I'm going to the loo.
-john_locke It's dangerous out there. Until we get back to the beach, I'm not breaking line of sight with you.
-charlie_pace Bugger off.
-john_locke I know who you are. And I know what you're looking for. Drive Shaft -- you played bass.
-charlie_pace And guitar -- on a couple of tracks. You really heard of us?
-john_locke Hey, just because I'm over 40 doesn't mean I'm deaf. I have both your albums. Although, I thought that your self-titled debut was a much stronger effort than Oil Change. It's a shame what happened to the band. How long since you played?
-charlie_pace My guitar? Uh, 8 days, 11 hours, give or take.
-john_locke You miss it? Well, a lot of wreckage. It might still turn up.
-charlie_pace Undamaged? Still playable? I don't think so. I mean, I wish, but there was this bloke at the counter made me check it in.
-john_locke No.
-charlie_pace Yeah. There wasn't enough room in the cabin, fascist.
-john_locke You'll see it again.
-charlie_pace Oh yeah? What makes you say that?
-john_locke Because I have faith, Charlie.
-sayid_jarrah It's about time. I am dying of thirst.
-sayid_jarrah I think I'll let him sit in the sun a while longer. Then I'll take his wife aside, find some way to communicate. I think she knows why he attacked Michael.
-dr_jack_shephard You're sure you don't want me to talk to her? Okay. If you've got that under control I'm going to start talking to people about the caves. Might be able to get a few to go with me before nightfall, start setting up camp.
-sayid_jarrah You're serious? Is there a reason you didn't consult us when you decided to form your own civilization?
-dr_jack_shephard I'm only talking about moving into the valley.
-sayid_jarrah Well, what happened to live together, die alone?
-dr_jack_shephard Digging in together is the only way we're going to survive.
-sayid_jarrah Our best hope of survival is in being spotted by a plane or a ship, and for that we need to organize everyone to keep that signal fire burning while others scout the Island for supplies. Digging in anywhere else is suicide!
-kate_austen It is the only source of fresh water we've found, Sayid.
-dr_jack_shephard And staying on the beach, in the sun without water? That's not suicide?
-sayid_jarrah I'm not going to admit defeat.
-michael_dawson Now what? I already gave you my statement, sheriff.
-sayid_jarrah I came to apologize. I shouldn't have been suspicious. You were the victim in the attack this morning.
-michael_dawson I appreciate that, but I can tell you didn't come all the way over here just to say you're sorry.
-sayid_jarrah People are seriously considering following Jack to the caves. I'd like to know where you stand.
-michael_dawson Right here. I've got one priority right now and that's to get my kid off this Island. A boat passes, I'm not going to be on the hook for missing it.
-sayid_jarrah Good.
-dr_jack_shephard Slowly, just a little bit at a time, little bit.
-dr_jack_shephard Glad you're coming.
-hugo_reyes Hey man, I go where the boar's at. So, what's up with you and Kate? You guys going to move into a cave together, or what?
-dr_jack_shephard Sorry, am I in high school?
-hugo_reyes Well, that wasn't a denial.
-dr_jack_shephard Just get your stuff together, we've got to get out of here soon.
-james_ford Well, well, well, if ain't the belle of the ball? So what's it like having both the doctor and Captain Falafel fighting over you? Just call 'em how I seem 'em, Freckles. Truth be told, I'm not the only one wondering where you're going to weigh in on this whole moving off the beach thing. Are you going with the pessimists, or staying here and waiting for the rescue boats?
-kate_austen Are you going?
-james_ford Well, that's the real trick, isn't it? We all pack up stakes for the caves and the next day a plane passes by, they're going to go on their merry way and be none the wiser. On the other hand, stay here, get eaten by boars, fall off a rock, not going to be anyone around to answer that 911 call.
-kate_austen Still haven't answered my question.
-james_ford You didn't answer mine. And I asked first.
-INTERIOR#unknown#Lost.Season01.Episode06 DECORATOR 당신 남편이 이 곳을 새로 인테리어 하는 데 돈에 대해서는 신경 쓰지 말라 그러시더군요. 당신은 정말 럭키 와이프에요.
-sunhwa_kwon 네.
-jinsoo_kwon 여보, 개 좀 치워라.
-sunhwa_kwon 그럼 우리 먼저 침실로 들어가서 볼까요, 한 번?
-INTERIOR#unknown#Lost.Season01.Episode06 DECORATOR 당신 확실해요?
-sunhwa_kwon 네.
-INTERIOR#unknown#Lost.Season01.Episode06 DECORATOR 레슨 받았어요? 공부는 했구요?
-sunhwa_kwon 네.
-INTERIOR#unknown#Lost.Season01.Episode06 DECORATOR 당신 알죠? 당신 남편이나 당신 아버지가 당신을 찾기 위해서 무슨 일이든 할 수 있다는 거. 당신… 남편이랑 다시 화해하는 건 어때요? 대답해 봐요. 예?
-sunhwa_kwon 제가 떠난 후에 우리 강아지 좀 부탁할게요.
-INTERIOR#unknown#Lost.Season01.Episode06 DECORATOR, 당신들이 여행하는 동안, 공항에서, 시간은 열 한 시 십오 분. 당신은 무슨 수를 써서라도 공항 밖으로 빠져나와야 해요. 나올 땐 아무 것도 가지고 나와선 안 돼요. 당신이 납치 됐다고 생각할 거에요. 첫 일주일 동안은 당신 가족들이 당신이 죽었다고 생각할 때 까지 당신은 조용히, 가만히 있어야 돼요. 그 후엔 당신이 원하는 대로 자유롭게 움직일 수가 있죠. 말해봐요. 언제라 그랬죠?
-sunhwa_kwon 공항에서, 열 한 시 십오 분에.
-INTERIOR#unknown#Lost.Season01.Episode06 DECORATOR 다시 한 번.
-sunhwa_kwon 열 한 시 십오 분. 열 한 시 십오 분. 열 한 시 십오 분.
-michael_dawson Oh great, look who came to chat.
-sunhwa_kwon I need to talk to you.
-michael_dawson You speak English?
-sunhwa_kwon Yes.
-michael_dawson What? You speak English? Why didn't you say anything?!
-sunhwa_kwon My husband doesn't know.
-michael_dawson Why would you learn English and not tell your husband?
-sunhwa_kwon He has a bad temper. What my husband did to you today, it was a misunderstanding.
-michael_dawson No. I got it. Loud and clear.
-sunhwa_kwon It was the watch.
-michael_dawson Your husband tried to murder me for a watch?! I found this watch two days ago.
-sunhwa_kwon It belongs to my father. Protecting that watch is a question of honor.
-michael_dawson He calls trying to kill me in front of my kid, honor?!
-sunhwa_kwon You don't know my father. I need your help.
-charlie_pace Listen to me, you old git, I'm going in the jungle. A man has a right to some privacy.
-john_locke Just hand it to me. You're going to run out. My guess is sooner rather than later. Painful detox is inevitable. Give it up now at least it will be your choice.
-charlie_pace Don't talk to me like you know something about me.
-john_locke I know a lot more about pain than you think. I don't envy what you're facing. But I want to help. . Do you want your guitar?
-john_locke More than your drug?
-charlie_pace More than you know.
-john_locke What I know is that this Island might just give you what you're looking for, but you have to give the Island something.
-charlie_pace You really think you can find my guitar?
-john_locke Look up, Charlie.
-charlie_pace You're not going to ask me to pray or something.
-john_locke I want you to look up.
-dr_jack_shephard Hey. It's almost time to go.
-kate_austen I don't want to be Eve.
-dr_jack_shephard No one's asking you to.
-kate_austen I just can't -- dig in.
-dr_jack_shephard Why not? Someone else can stay here, keep a look out, wait for rescue. Why does it have to be you?
-kate_austen That's not it.
-dr_jack_shephard Then what is it? Kate, how did you get to be this way? Just what is it that you did?
-kate_austen You had your chance to know.
-dr_jack_shephard If you need me you know where to find me.
-kate_austen You know where to find me, too.
-michael_dawson I know you can't understand a word, and normally I'm not the talking out loud type, but since I have a captive audience, I hope for your sake you pay attention. I'm not exactly having the best month of my life. I barely knew my son, and now, I gotta be his daddy. And then to top if off, I have a deranged Korean guy trying to kill me and for what?! Look, I get it, right . It's the watch. Mine broke and I found this in the wreckage, and I figured, "hey, why let a $20,000 dollar watch go to waste"? Which is ridiculous since time doesn't matter on a damn Island!
-michael_dawson Stay away from me. And my kid.
-jinsoo_kwon 왜 그래?
-sunhwa_kwon 너무 예뻐서.
-dr_jack_shephard Hello?
-john_locke What's this?
-dr_jack_shephard New tenants.
-hugo_reyes Short walk. They lied.
-walt_lloyd Can I ask you something?
-michael_dawson Anything you want, man.
-walt_lloyd When's your birthday?
+sayid_jarrah The cuffs stay on !
+james_ford A little louder , Omar .
+james_ford Maybe then she'll understand you .
+hugo_reyes Guys , that Chinese dude is going to get pretty crispy out here .
+hugo_reyes How long are you going to keep him tied down like that ?
+sayid_jarrah He tried to kill Michael .
+sayid_jarrah We all saw it .
+sayid_jarrah The cuffs stay on until we know why .
+michael_dawson Come on , man .
+michael_dawson Let's go .
+dr_jack_shephard Okay .
+dr_jack_shephard Just keep still man .
+dr_jack_shephard I'm going to try to cover the hive .
+charlie_pace This is the most crap idea ever .
+charlie_pace It's never going to work .
+john_locke Now , pull yourself together , son .
+charlie_pace It wouldn't be an irrational fear of bees if I could just pull myself together ,
+charlie_pace would it ?
+kate_austen Who is he .
+kate_austen How'd he get here ?
+dr_jack_shephard I can't exactly perform an autopsy but there doesn't seem to be any major trauma to the bones .
+dr_jack_shephard There's another one over here .
+dr_jack_shephard Someone laid them to rest here .
+kate_austen Who ?
+dr_jack_shephard I don't know .
+kate_austen Where would they come from ?
+dr_jack_shephard Didn't you guys shoot a polar bear last week ?
+kate_austen Yeah .
+dr_jack_shephard Where'd that come from ?
+kate_austen Any idea how long they've been here ?
+dr_jack_shephard Long .
+dr_jack_shephard It takes 40 or 50 years for clothing to degrade like this .
+kate_austen What is it ?
+john_locke Hello ?
+john_locke Anybody there ?
+john_locke Everyone alright ?
+dr_jack_shephard A few stings aside .
+charlie_pace You two run away fantastically .
+charlie_pace Glad my diversion spared you .
+charlie_pace I was only stung several hundred times .
+charlie_pace Oh , and uh , someone left this .
+kate_austen It was , um , it was full of bees .
+charlie_pace I'd have thought C's , actually .
+charlie_pace Sorry .
+charlie_pace Bloody Hell !
+charlie_pace Are these the people who were here before us ?
+john_locke What are you talking about ?
+charlie_pace Uh , just , you know , the , the , there could have been people here before us , right ?
+john_locke Clearly .
+john_locke But , who were these men ?
+dr_jack_shephard Actually , one of them is female .
+john_locke Our very own Adam and Eve .
+john_locke I think one of us should stay and help Charlie salvage the wreckage .
+kate_austen You offering ?
+john_locke Sure .
+john_locke Give me a chance to get to know him a little better .
+kate_austen We should move out .
+kate_austen People are probably getting thirsty .
+kate_austen What ?
+dr_jack_shephard 46 people need to drink a half gallon a day each .
+dr_jack_shephard Carrying all this water back and forth is going to be real pain in the ass .
+kate_austen You're starting to make me regret volunteering .
+dr_jack_shephard These caves make too good a shelter just to be used for burial .
+dr_jack_shephard Adam and Eve , they must have lived here .
+dr_jack_shephard Their plane crashed , or maybe they were ship-wrecked .
+dr_jack_shephard They probably found this place and knew they could survive here .
+dr_jack_shephard Unlimited supply of fresh water , tree canopy keeps the temperature down , shields out the sun , , the openings are narrow , easier for protection against predators .
+dr_jack_shephard We don't need to bring the water to the people .
+dr_jack_shephard We need to bring the people to the water . .
+dr_jack_shephard I think we could live here .
+michael_dawson Hey , what are you doing ?
+michael_dawson You say something to my boy ?
+michael_dawson Yeah , nice talking to you , too .
+michael_dawson Move it , Walt .
+walt_lloyd How come he doesn't like us ?
+michael_dawson What ?
+walt_lloyd You said people like him don't like people like us .
+michael_dawson Oh man .
+michael_dawson You know , uh , look , that's not true , and
+michael_dawson you know what , I don't think like that anyway .
+michael_dawson I was ,
+michael_dawson I was angry .
+walt_lloyd What did you do to him ?
+michael_dawson What did I do to him ?
+michael_dawson You tell me ?
+michael_dawson I've been with you since we crashed .
+michael_dawson Have you seen me do anything , to anyone ?
+michael_dawson What kind of man do you think I am , anyway ?
+michael_dawson What did your mother say about me ?
+walt_lloyd She never talked about you .
+michael_dawson You don't know anything about me , do you ?
+walt_lloyd You don't know anything about me .
+michael_dawson I know a lot about you .
+walt_lloyd Yeah ?
+michael_dawson Yeah .
+walt_lloyd When's my birthday ?
+michael_dawson August 24th .
+michael_dawson When's mine ?
+michael_dawson Forget it , come on , man .
+sunhwa_kwon What happened to you ?
+sunhwa_kwon What were you doing ?
+sunhwa_kwon Whose blood is this ?
+sunhwa_kwon What were you doing ?
+sunhwa_kwon What happened ?
+kate_austen You checking me out ?
+dr_jack_shephard What ?
+kate_austen No harm in it .
+dr_jack_shephard Trust me , if I was checking you out , you'd know it .
+kate_austen Yeah , so then what were you thinking ?
+kate_austen Right now .
+dr_jack_shephard Well , I sure as hell wasn't thinking that .
+kate_austen Don't stop to think , just tell me .
+dr_jack_shephard I was thinking that if we were living at the caves we could build a dam around that spring so that everybody could have fresh water
+dr_jack_shephard and we could get the infirmary off the beach .
+dr_jack_shephard You think it's a bad idea ?
+kate_austen No , no .
+kate_austen It makes sense .
+dr_jack_shephard But ?
+kate_austen No
+kate_austen but .
+dr_jack_shephard Good , because a lot of people are still hoping a rescue boat is going to show up .
+dr_jack_shephard They're not thinking about their own safety .
+dr_jack_shephard We're going to have a lot of convincing to do .
+kate_austen We ?
+kate_austen You still haven't convinced me yet .
+charlie_pace You following me ?
+john_locke Yes .
+charlie_pace There's no need .
+charlie_pace I'm just going to the loo .
+john_locke Is there something you want to tell me , Charlie ?
+charlie_pace I'm going to the loo .
+john_locke It's dangerous out there .
+john_locke Until we get back to the beach , I'm not breaking line of sight with you .
+charlie_pace Bugger off .
+john_locke I know who you are .
+john_locke And I know what you're looking for .
+john_locke Drive Shaft -- you played bass .
+charlie_pace And guitar -- on a couple of tracks .
+charlie_pace You really heard of us ?
+john_locke Hey , just because I'm over 40 doesn't mean I'm deaf .
+john_locke I have both your albums .
+john_locke Although , I thought that your self-titled debut was a much stronger effort than Oil Change .
+john_locke It's a shame what happened to the band .
+john_locke How long since you played ?
+charlie_pace My guitar ?
+charlie_pace Uh , 8 days , 11 hours , give or take .
+john_locke You miss it ?
+john_locke Well , a lot of wreckage .
+john_locke It might still turn up .
+charlie_pace Undamaged ?
+charlie_pace Still playable ?
+charlie_pace I don't think so .
+charlie_pace I mean , I wish , but there was this bloke at the counter
+charlie_pace made me check it in .
+john_locke No .
+charlie_pace Yeah .
+charlie_pace There wasn't enough room in the cabin , fascist .
+john_locke You'll see it again .
+charlie_pace Oh yeah ?
+charlie_pace What makes you say that ?
+john_locke Because I have faith , Charlie .
+sayid_jarrah It's about time .
+sayid_jarrah I am dying of thirst .
+sayid_jarrah I think I'll let him sit in the sun a while longer .
+sayid_jarrah Then I'll take his wife aside , find some way to communicate .
+sayid_jarrah I think she knows why he attacked Michael .
+dr_jack_shephard You're sure you don't want me to talk to her ?
+dr_jack_shephard Okay .
+dr_jack_shephard If you've got that under control I'm going to start talking to people about the caves .
+dr_jack_shephard Might be able to get a few to go with me before nightfall , start setting up camp .
+sayid_jarrah You're serious ?
+sayid_jarrah Is there a reason you didn't consult us when you decided to form your own civilization ?
+dr_jack_shephard I'm only talking about moving into the valley .
+sayid_jarrah Well , what happened to live together , die alone ?
+dr_jack_shephard Digging in together is the only way we're going to survive .
+sayid_jarrah Our best hope of survival is in being spotted by a plane or a ship , and for that we need to organize everyone to keep that signal fire burning while others scout the Island for supplies .
+sayid_jarrah Digging in anywhere else is suicide !
+kate_austen It is the only source of fresh water we've found , Sayid .
+dr_jack_shephard And staying on the beach , in the sun without water ?
+dr_jack_shephard That's not suicide ?
+sayid_jarrah I'm not going to admit defeat .
+michael_dawson Now what ?
+michael_dawson I already gave you my statement , sheriff .
+sayid_jarrah I came to apologize .
+sayid_jarrah I shouldn't have been suspicious .
+sayid_jarrah You were the victim in the attack this morning .
+michael_dawson I appreciate that , but I can tell you didn't come all the way over here just to say you're sorry .
+sayid_jarrah People are seriously considering following Jack to the caves .
+sayid_jarrah I'd like to know where you stand .
+michael_dawson Right here .
+michael_dawson I've got one priority right now and that's to get my kid off this Island .
+michael_dawson A boat passes , I'm not going to be on the hook for missing it .
+sayid_jarrah Good .
+dr_jack_shephard Slowly , just a little bit at a time , little bit .
+dr_jack_shephard Glad you're coming .
+hugo_reyes Hey man , I go where the boar's at .
+hugo_reyes So , what's up with you and Kate ?
+hugo_reyes You guys going to move into a cave together , or what ?
+dr_jack_shephard Sorry , am I in high school ?
+hugo_reyes Well , that wasn't a denial .
+dr_jack_shephard Just get your stuff together , we've got to get out of here soon .
+james_ford Well , well , well , if ain't the belle of the ball ?
+james_ford So what's it like having both the doctor and Captain Falafel fighting over you ?
+james_ford Just call 'em how I seem 'em , Freckles .
+james_ford Truth be told , I'm not the only one wondering where you're going to weigh in on this whole moving off the beach thing .
+james_ford Are you going with the pessimists , or staying here and waiting for the rescue boats ?
+kate_austen Are you going ?
+james_ford Well , that's the real trick , isn't it ?
+james_ford We all pack up stakes for the caves and the next day a plane passes by , they're going to go on their merry way and be none the wiser .
+james_ford On the other hand , stay here , get eaten by boars , fall off a rock , not going to be anyone around to answer that 911 call .
+kate_austen Still haven't answered my question .
+james_ford You didn't answer mine .
+james_ford And I asked first .
+michael_dawson Oh great , look who came to chat .
+sunhwa_kwon I need to talk to you .
+michael_dawson You speak English ?
+sunhwa_kwon Yes .
+michael_dawson What ?
+michael_dawson You speak English ?
+michael_dawson Why didn't you say anything? !
+sunhwa_kwon My husband doesn't know .
+michael_dawson Why would you learn English and not tell your husband ?
+sunhwa_kwon He has a bad temper .
+sunhwa_kwon What my husband did to you today , it was a misunderstanding .
+michael_dawson No .
+michael_dawson I got it .
+michael_dawson Loud and clear .
+sunhwa_kwon It was the watch .
+michael_dawson Your husband tried to murder me for a watch? !
+michael_dawson I found this watch two days ago .
+sunhwa_kwon It belongs to my father .
+sunhwa_kwon Protecting that watch is a question of honor .
+michael_dawson He calls trying to kill me in front of my kid , honor? !
+sunhwa_kwon You don't know my father .
+sunhwa_kwon I need your help .
+charlie_pace Listen to me , you old git , I'm going in the jungle .
+charlie_pace A man has a right to some privacy .
+john_locke Just hand it to me .
+john_locke You're going to run out .
+john_locke My guess is sooner rather than later .
+john_locke Painful detox is inevitable .
+john_locke Give it up now
+john_locke at least it will be your choice .
+charlie_pace Don't talk to me like you know something about me .
+john_locke I know a lot more about pain than you think .
+john_locke I don't envy what you're facing .
+john_locke But I want to help . .
+john_locke Do you want your guitar ?
+john_locke More than your drug ?
+charlie_pace More than you know .
+john_locke What I know is that this Island might just give you what you're looking for , but you have to give the Island something .
+charlie_pace You really think you can find my guitar ?
+john_locke Look up , Charlie .
+charlie_pace You're not going to ask me to pray or something .
+john_locke I want you to look up .
+dr_jack_shephard Hey .
+dr_jack_shephard It's almost time to go .
+kate_austen I don't want to be Eve .
+dr_jack_shephard No one's asking you to .
+kate_austen I just can't -- dig in .
+dr_jack_shephard Why not ?
+dr_jack_shephard Someone else can stay here , keep a look out , wait for rescue .
+dr_jack_shephard Why does it have to be you ?
+kate_austen That's not it .
+dr_jack_shephard Then what is it ?
+dr_jack_shephard Kate , how did you get to be this way ?
+dr_jack_shephard Just what is it that you did ?
+kate_austen You had your chance to know .
+dr_jack_shephard If you need me you know where to find me .
+kate_austen You know where to find me , too .
+michael_dawson I know you can't understand a word , and normally I'm not the talking out loud type , but since I have a captive audience , I hope for your sake you pay attention .
+michael_dawson I'm not exactly having the best month of my life .
+michael_dawson I barely knew my son , and now , I gotta be his daddy .
+michael_dawson And then to top if off
+michael_dawson , I have a deranged Korean guy trying to kill me and for what? !
+michael_dawson Look , I get it , right .
+michael_dawson It's the watch .
+michael_dawson Mine broke and I found this in the wreckage , and I figured , " hey , why let a $20,000 dollar watch go to waste " ?
+michael_dawson Which is ridiculous since time doesn't matter on a damn Island !
+michael_dawson Stay away from me .
+michael_dawson And my kid .
+dr_jack_shephard Hello ?
+john_locke What's this ?
+dr_jack_shephard New tenants .
+hugo_reyes Short walk .
+hugo_reyes They lied .
+walt_lloyd Can I ask you something ?
+michael_dawson Anything you want , man .
+walt_lloyd When's your birthday ?

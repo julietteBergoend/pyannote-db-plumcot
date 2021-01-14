@@ -1,376 +1,716 @@
-syrio_forel Yah! Left high, left low.
-syrio_forel Right low, lunge right.
-steward_of_house_stark If you break anything, the Septa will have my head. What is...
-septa_mordane Your sister knew perfectly well we were to leave today. How she could forget...
-sansa_stark She didn't forget. She's with her dancing master. She's with him every morning. She always comes back with scrapes and bruises. She's so clumsy.
-septa_mordane Hush! Go back to your room. Bar the doors and do not open them for anyone you do not know.
-sansa_stark What is it? What's happening?
-septa_mordane Do as I told you. Run!  Back at Arya's training.
-syrio_forel This way! Left, right. Rah! Now you are dead.
-arya_stark You said right, but you went left.
-syrio_forel And now you are a dead girl.
-arya_stark Only 'cause you lied.
-syrio_forel My tongue lied. My eyes shouted the truth. You were not seeing.
-arya_stark I was so. I watched, but you...
-syrio_forel Watching is not seeing, dead girl. The seeing, the true seeing, that is the heart of swordplay.
-meryn_trant Arya Stark, come with us. Your father wants to see you.
-syrio_forel And why is it that Lord Eddard is sending Lannister men in place of his own? I am wondering.
-meryn_trant Mind your place, dancing master. This is no concern of yours.
-arya_stark My father wouldn't send you.
-arya_stark And I don't have to go with you if I don't want.
-meryn_trant Take her.
-syrio_forel Are you men or snakes, that you would threaten a child?
-kings_guard#unknown#GameOfThrones.Season01.Episode08 Get out of my way, little man.
-syrio_forel I am Syrio Forel.
-kings_guard#unknown#GameOfThrones.Season01.Episode08 Foreign bastard. The Kings guard draws his sword.
-syrio_forel And you will be speaking to me with more respect.
-meryn_trant Kill the Braavosi. Bring the girl.
-syrio_forel Arya child, we are done with dancing for the day. Run to your father.
-meryn_trant Bloody oafs.
-syrio_forel Be gone now, Arya.
-arya_stark Come with me. Run.
-syrio_forel The first sword of Braavos does not run.
-syrio_forel What do we say to the God of death?
-arya_stark Not today.
-syrio_forel Go.
-arya_stark Not today. Not today.
-sansa_stark Stay away from me. I'll tell my father. I'll...I'll tell the Queen.
-sandor_clegane Who do you think sent me?
-arya_stark Needle.
-stable_boy#unknown#GameOfThrones.Season01.Episode08 There she is.
-arya_stark What do you want?
-stable_boy#unknown#GameOfThrones.Season01.Episode08 I want you, wolf girl. Come here.
-arya_stark Leave me be. My father's a lord. He'll reward you.
-stable_boy#unknown#GameOfThrones.Season01.Episode08 She'll reward me, the Queen!
-arya_stark Stay away!
-lord_varys Lord Stark, you must be thirsty.
-eddard_stark Varys.
-lord_varys I promise you it isn't poisoned. Why is it no one ever trusts the eunuch? Not so much, My Lord. I would save the rest, if I were you. Hide it. Men have been known to die of thirst in these cells.
-eddard_stark What about my daughters?
-lord_varys The younger one seems to have escaped the castle. Even my little birds cannot find her.
-eddard_stark And Sansa?
-lord_varys Still engaged to Joffrey. Cersei will keep her close. The rest of your household though, all dead, it grieves me to say. I do so hate the sight of blood.
-eddard_stark You watched my men being slaughtered and did nothing.
-lord_varys And would again, My Lord. I was unarmed, unarmored and surrounded by Lannister swords. When you look at me do you see a hero? What madness led you to tell the Queen you had learned the truth about Joffrey's birth?
-eddard_stark The madness of mercy. That she might save her children.
-lord_varys Ah, the children. It is always the innocents who suffer. It wasn't the wine that killed Robert, nor the boar. The wine slowed him down and the boar ripped him open, but it was your mercy that killed the King. I trust you know you are a dead man, Lord Eddard?
-eddard_stark The Queen can't kill me. Cat holds her brother.
-lord_varys The wrong brother sadly. And lost to her. Your wife has let the Imp slip through her fingers.
-eddard_stark If that's true, then slit my throat and be done with it.
-lord_varys Not today, My Lord.
-eddard_stark Tell me something, Varys. Who do you truly serve?
-lord_varys The Realm, My Lord. Someone must.
-jeor_mormont It's Othor, without a doubt.
-othell_yarwyck The other one is Jafer Flowers, My Lord, less the hand the wolf tore off.
-jeor_mormont Any sign of Benjen or the rest of his party?
-jon_snow Just these two, My Lord. Been dead awhile, I'd say.
-jeor_mormont Mmm.
-samwell_tarly The smell.
-othell_yarwyck What smell?
-samwell_tarly There is none. If they'd be dead for a long time, wouldn't there be rot?
-jon_snow We should burn them.
-othell_yarwyck Snow's not wrong, My Lord. Fire will do for them. The Wildling way.
-jeor_mormont I want Maester Aemon to examine them first. You may be a coward, Tarly, but you're not stupid. Get them inside.
-othell_yarwyck You heard him.
-alliser_thorne Lord Commander, Maester Aemon awaits you in his chambers. A raven from King's Landing.
-nights_watch_brother#unknown#GameOfThrones.Season01.Episode08 Come on, move 'em out.
-jeor_mormont Bring me a horn of ale, Snow, and pour one for yourself. The King is dead.
-jon_snow Is there any word of my father?
-jeor_mormont Sit. Lord Stark has been charged with treason. They say he conspired with Robert's brothers to deny the throne to Prince Joffrey. Jon points to the letter, as he wants to read it. Jeor Mormont hands it over.
-jeor_mormont I hope you're not thinking of doing anything stupid. Your duty lies here now.
-jon_snow My sisters were in King's Landing too.
-jeor_mormont I'm sure they'll be treated gently. Jon walks out.
-lord_varys Your father has proved to be an awful traitor, dear.
-grand_maester_pycelle King Robert's body was still warm when Lord Eddard began plotting to steal Joffrey's rightful throne.
-sansa_stark He wouldn't do that. He knows how much I love Joffrey. He wouldn't. Please, Your Grace, there's been a mistake. Send for my father. He'll tell you, the King was his friend.
-cersei_lannister Sansa sweetling, you are innocent of any wrong. We know that. Yet you are the daughter of a traitor. How can I allow you to marry my son?
-grand_maester_pycelle A child born of a traitor's seed is no fit consort for our King. She is a sweet thing now, Your Grace, but in 10 years who knows what treasons she may hatch?
-sansa_stark No, I'm not. I'll be a good wife to him, you'll see. I'll be a Queen just like you, I promise. I won't hatch anything.
-petyr_baelish The girl is innocent, Your Grace. She should be given a chance to prove her loyalty.
-cersei_lannister Little dove, you must write to Lady Catelyn and your brother, the eldest. What's his name?
-sansa_stark Robb.
-cersei_lannister Word of your father's arrest will reach him soon, no doubt. Best it comes from you. If you would help your father, urge your brother to keep the King's peace. Tell him to come to King's Landing and swear his fealty to Joffrey.
-sansa_stark If...if I could see my father, talk to him about...
-cersei_lannister You disappoint me, child. We have told you of your father's treason. Why would you want to speak to a traitor?
-sansa_stark I only meant that...what will happen to him?
-cersei_lannister That depends.
-sansa_stark On...on what?
-cersei_lannister On your brother. And on you.
-robb_stark Treason? Sansa wrote this?
-maester_luwin It is your sister's hand, but the Queen's words. You are summoned to King's Landing to swear fealty to the new King.
-robb_stark Joffrey puts my father in chains, now he wants his ass kissed?
-maester_luwin This is a royal command, My Lord. If you should refuse to obey...
-robb_stark I won't refuse. His Grace summons me to King's Landing, I'll go to King's Landing. But not alone. Call the banners.
-maester_luwin All of them, My Lord?
-robb_stark They've all sworn to defend my father, have they not?
-maester_luwin They have. Now we see what their words are worth.
-maester_luwin Yeah.
-theon_greyjoy Are you afraid?
-robb_stark I must be.
-theon_greyjoy Good.
-robb_stark Why is that good?
-theon_greyjoy It means you're not stupid.
-catelyn_stark You've had this since dawn?
-lysa_arryn He sent it to me, not you. I've only shown it to you as a courtesy.
-catelyn_stark A courtesy?! My husband has been taken prisoner. My son intends to declare war.
-lysa_arryn A war? Your son against the Lannisters? You should go to him. Teach him patience.
-catelyn_stark Ned rots in a dungeon and you speak of patience? He is your brother by law!Does family mean nothing to you?
-lysa_arryn Family means everything to me. And I will not risk Robin's life to get caught up in another of your husband's wars.
-robin_arryn I'm hungry.
-lysa_arryn Hush now, darling. You just ate.
-catelyn_stark You will not support us then? Do I understand you correctly?
-robin_arryn But I'm hungry!
-lysa_arryn Soon, love, soon. You're always welcome here, sister. But if you're asking me to send men from the Vale to fight...
-catelyn_stark That is what I ask.
-lysa_arryn Go on, sweet. Time for your bath. I'll feed you after. Robin walks out of the room.
-catelyn_stark If you fear for the safety of your son...
-lysa_arryn Of course I fear for the safety of my son! Are you an idiot? They killed my husband. You say they shoved your boy from a window. These people will do anything.
-catelyn_stark And that is why we have to stop them.
-lysa_arryn The knights of the Vale will stay in the Vale where they belong, to protect their Lord.    Both Tyrion and Bronn are seen walking through the hills of the Vale.
-bronn Will you shut up? There's hill tribes all around here.
-tyrion_lannister If I'm going to die, it may as well be with a song in my heart.
-bronn I should just take your food and leave you here. Eh? What would you do then?
-tyrion_lannister Starve, most likely.
-bronn You don't think I'd do it, do you?
-tyrion_lannister What do you want, Bronn? Gold? Women? Golden women? Stick with me and you'll have them all, for as long as I'm around and not for a moment longer. But you knew that. That is why you so valiantly took up arms to defend my honor.
-bronn Fair enough. But don't go looking for me to bend the knee and "My Lord" you every time you take a shit. I'm not your toady and I'm not your friend.
-tyrion_lannister Though I would treasure your friendship. I'm mainly interested in your facility with murder. And if the day ever comes when you're tempted to sell me out.
-tyrion_lannister Whatever their price, I'll beat it. I like living.
-bronn Tyrion. Tyrion. Tyrion.
-tyrion_lannister Come, share our fire. Help yourselves to our goat.
-shagga When you meet your Gods, you tell them Shagga Son of Dolf of the Stone Crows sent you.
-tyrion_lannister I am Tyrion son of Tywin of Clan Lannister. How would you like to die, Tyrion son of Tywin?
-tyrion_lannister In my own bed, at the age of 80 with a bellyful of wine and a girl's mouth around my cock. Take the half man. He can dance for the children. Kill the other one.
-tyrion_lannister No no no no no! My, my House is rich and powerful. If you see us through these mountains, my father will shower you with gold.
-shagga We have no use for a half man's promises.
-tyrion_lannister Half a man maybe, but at least I have the courage to face my enemies. What do the Stone Crows do? Hide behind rocks and shiver when the knights of the Vale ride by? Are those the best weapons you could steal? Good enough for killing sheep, if the sheep don't fight back. Lannister smiths shit better steel.
-shagga You think you can win us over with your trinkets?
-tyrion_lannister That trinket is worth more than everything your tribe owns. But if you help us, Shagga Son of Dolf, I will not give you trinkets. I will give you this.
-shagga What is "this"?
-tyrion_lannister The Vale of Arryn. The Lords of the Vale have always spat upon the hill tribes. The Lords of the Vale want me dead. I believe it is time for new Lords of the Vale.
-alliser_thorne Now there's a rare sight. Not only a bastard, but a traitor's bastard.
-samwell_tarly Jon, no! Jon, stop, put it down!
-alliser_thorne Blood will always tell. You'll hang for this, bastard.
-jeor_mormont I told you not to do anything stupid. You're confined to quarters. Go.
-jon_snow Ghost, what's wrong? Is something out there? Jon decides to get out of bed, gear up and opens the door. Ghost runs off towards Jeor Mormants room. Mounting his door.
-jon_snow Commander?
-jon_snow Stay. Ghost waits at the front door, while Jon walks in.
-jon_snow Hello? Who's there? Lord Commander?
-jeor_mormont Snow!?
-jon_snow Commander!Othor gets back on his feet, pulling out Jon's sword out of his chest.
-jon_snow Move move! Jon grabs Jeor by his arm and flees inside a room, shutting the door.
-daenerys_targaryen What did they do?
-rakharo Lamb men make good slaves. Khal Drogo will make a gift of them to the slavers. And the slavers will give us gold...and silk and steel.
-daenerys_targaryen I thought the Dothraki didn't believe in money.
-jorah_mormont Gold to hire ships, Princess. Ships to sail to Westeros.
-daenerys_targaryen Jorah, make them stop.
-jorah_mormont Khaleesi?
-daenerys_targaryen You heard me.
-jorah_mormont These men have shed blood for their Khal. Now they claim their rewards.
-rakharo She is a lamb girl, Khaleesi. The riders do her honor. If her wailing offends the Khaleesi, I will bring you her tongue.
-jorah_mormont Princess, you have a gentle heart, but this is how it's always been.
-daenerys_targaryen I do not have a gentle heart, Ser. Do as I command or Khal Drogo will know the reason why.
-rakharo Kash qoy qoyi thira disse. Me qorasokh anni!
-jorah_mormont Come.
-dothraki_man#unknown#GameOfThrones.Season01.Episode08 Anha afichak mae m'arakhoon!
-jorah_mormont What do you want done with them?
-daenerys_targaryen Bring her to me. And those women there.
-jorah_mormont You cannot claim them all, Princess.
-daenerys_targaryen I can, and I will.
-mago Me Fati! Khaleesi vazha anhaan qorasokh anni, ch'anha afichak mae m'arakhoon anni!
-khal_drogo Me vastoe hatif anni; ahhazaan yer Nemo vacchaki.
-khal_drogo Moon of my life. Mago says you have taken his spoils. A daughter of a lamb men, who was his to mount. Tell me the truth of this.
-daenerys_targaryen Mago speaks the truth, my sun and stars. I have claimed many daughters this day, so they cannot be mounted.
-khal_drogo This is the way of war. These women are slaves now to do with as we please.
-daenerys_targaryen It pleases me to keep them safe. If your riders would mount them, let them take them for wifes.
-qotho Does the horse mate with the lamb?
-daenerys_targaryen The dragons feeds on horse and lamb alike.
-mago You are a foreigner. You do not command me.
-daenerys_targaryen I am Khaleesi. I do command you.
-khal_drogo See how fierce she grows? That is my son inside her, the stallion that will mount the world. Filling her with his fire. I will hear no more. Mago, find somewhere else to stick your cock. Mago spits on the ground and draws his sword.
-mago A Khal who takes orders from a foreign whore is no Khal. When Qotho is trying to interfere, Khal Drogo calls him back.
-khal_drogo Ohosa. Os. I will not have your body burned. I will not give you that honor.
-khal_drogo The beetles will feed on your eyes. The worms will crawl through your lungs.
-khal_drogo The rain will fall on your rotting skin... Khal Drogo turns around facing Mago and drops his daggers to the ground.
-khal_drogo Until nothing is left of you but bones!
-mago First you have to kill me!
-daenerys_targaryen My sun and stars is wounded.
-khal_drogo A scratch, moon of my life.
-daenerys_targaryen Where are the healers?
-khal_drogo This is the bite of a fly.
-mirri_maz_duur I can help the great rider with his cut.
-qotho The Khal needs no help from slaves who lie with sheep.
-daenerys_targaryen She is mine let her speak.
-mirri_maz_duur Thank you, silver lady.
-daenerys_targaryen Who are you? When "the witch" is trying to approach Dany, Qotho stops her.
-mirri_maz_duur I am named Mirri Maz Duur. I was the Godswife of this Temple.
-qotho A witch. And spits on the ground.
-mirri_maz_duur My mother was Godswife here before me. She taught me how to make healing smokes and ointments. All men are of one flock, so my people believe. The Great Shepherd sent me to Earth to heal his...
-qotho Too many words. A witch's words poison the ears.
-mirri_maz_duur lamb or lion, his wound must be washed and sewn or it will fester.
-daenerys_targaryen Let her clean your wound, my sun and stars. It makes me hurt to see you bleed.
-greatjon_umber For 30 years I've been making corpses out of men, boy. I'm the man you want leading the Vanguard.
-robb_stark Galbart Glover will lead the Van.
-greatjon_umber The bloody Wall will melt before an Umber marches behind a Glover. I will lead the Van or I will take my men and march them home.
-robb_stark You are welcome to do so, Lord Umber. And when I am done with the Lannisters, I will march back North, root you out of your Keep and hang you for an oathbreaker.
-greatjon_umber Oathbreaker, is it?!
-greatjon_umber I'll not sit here and swallow insults from a boy so green he pisses grass.
-robb_stark My Lord father taught me it was death to bare steel against your Liege Lord. But doubtless the Greatjon only meant to cut my meat for me.
-greatjon_umber Your meat...is bloody tough. Greatjon Umber starts laughing breaking the tension, making everyone laughing along with him.
-bran_stark What is it? What's happened?
-robb_stark Shh, it's all right.
-bran_stark Where are you going?
-robb_stark South. For father.
-bran_stark But it's the middle of the night.
-robb_stark The Lannisters have spies everywhere. I don't want them to know we're coming.
-bran_stark They have more men than we do.
-robb_stark Aye, they do.
-bran_stark Can't I come with you? I can ride now. You've seen me riding. And I won't get in the way, I...
-robb_stark There must always be a Stark at Winterfell. Until I return that will be you. You are not to leave the castle walls while we are gone. Do you understand? Listen to Maester Luwin. Look after your little brother.
-bran_stark I will.
-robb_stark I'll send letters whenever I can, but if you don't hear from me, don't be scared. Until I return.
-bran_stark How long have you been hiding out there? Robb will be looking for you, to say goodbye.
-rickon_stark They've all gone away.
-bran_stark They'll be back soon. Robb will free father and they'll come back with mother.
-rickon_stark No, they won't.
-bran_stark Please watch over Robb. And watch over all the other men from Winterfell. And Theon too, I suppose.
-osha You hear them, boy? The Old Gods are answering you.
-bran_stark What are you doing here?
-osha They're my Gods too. Beyond the Wall, they're the only Gods. Even slaves are allowed to pray.
-bran_stark You're not a slave.
-bran_stark Well, your friend did put a knife to my throat.
-osah I'm not complaining, Little Lord, just telling truths.
-bran_stark What did you mean about hearing the Gods?
-osha You asked them, they're answering you. Shh. Open your ears.
-bran_stark It's only the wind. Who do you think sends the wind if not the Gods? They see you, boy. They hear you. Your brother will get no help from them where he's going. The Old Gods have no power in the South. The Weirwoods there were all cut down a long time ago. How can they watch when they have no eyes?
-osha Well, there's a big man. He has giants blood in him or I'm the Queen.
-bran_stark Go back and find your clothes, Hodor. Go dress.
-hodor Hodor.
-bran_stark Are there really giants beyond the Wall?
-osha Giants and worse than giants. I tried telling your brother, he's marching the wrong way.All these swords, they should be going North, boy. North, not south! The cold winds are rising.
-samwell_tarly They were touched by White Walkers. That's why they came back. That's why their eyes turned blue. Only fire will stop them.
-jon_snow How do you know that?
-samwell_tarly I read about it in a book. A very old book in Maester Aemon's library.
-jon_snow What else did the book say?
-samwell_tarly The White Walkers sleep beneath the ice for thousands of years. And when they wake up...
-pypar And when they wake up, what? Sam looks to the top of the Wall.
-samwell_tarly I hope The Wall is high enough. Seemingly worried, the rest of the lot also look towards the top of the Wall.
-rodrik_cassel Summer snows, My Lady.
-catelyn_stark Robb's brought the North with him. Entering Robbs tent, we see Robb and his banner men discussing tactics.
-robb_stark The River Lords are falling back with Jaime Lannister at their heels. And Lord Tywin is bringing around a second Lannister army from the South. Our scouts confirm it's even larger than the Kingslayer's.
-greatjon_umber One army or two, the Kings in the North threw back hosts ten times this large.
-robb_stark Mother!
-catelyn_stark You look well.
-greatjon_umber Lady Catelyn, you're a welcome sight in these troubled times.
-theon_greyjoy We had not thought to meet you here, My Lady.
-catelyn_stark I had not thought to be here. I would speak with my son alone. I know you will forgive me, My Lords.
-greatjon_umber You heard her! Move your asses! Come on, out. You too, Greyjoy. Are you bloody deaf? Have no fear, My Lady. We'll shove our swords up Tywin Lannister's bunghole and then it's on to the Red Keep to free Ned. You old devil, Rodrik.
-rodrik_cassel Jon.
-greatjon_umber You're not wasting away, are you?
-catelyn_stark I remember the day you came into this world red-faced and squalling. And now I find you leading a host to war.
-robb_stark There was no one else.
-catelyn_stark No one? Who were those men I saw here?
-robb_stark None of them are Starks.
-catelyn_stark All of them are seasoned in battle.
-robb_stark If you think you can send me back to Winterfell...
-catelyn_stark Oh, would that I could.
-robb_stark There was a letter. From Sansa.
-catelyn_stark From the Queen, you mean. There's no mention of Arya.
-robb_stark No.
-catelyn_stark How many men do you have?
-robb_stark 18,000. If I go to King's Landing and bend my knee to Joffrey...
-catelyn_stark you would never be allowed to leave. No. Our best hope, our only hope, is that you can defeat them in the field.
-robb_stark And if I lose?
-catelyn_stark Do you know what happened to the Targaryen children, when the Mad King fell?
-robb_stark They were butchered in their sleep.
-catelyn_stark On the orders of Tywin Lannister. And the years have not made him kinder. If you lose, your father dies, your sisters die, we die.
-robb_stark Well, that makes it simple then.
-catelyn_stark I suppose it does.
-tyrion_lannister From here it might be best if Bronn and I continue alone.
-shagga Best for Tyrion son of Tywin. Not best for me. If the half man betrays us, Shagga son of Dolf will cut off his manhood...
-tyrion_lannister And feed it to the goats, yes. All right then. Time to meet my father.
-kevan_lannister Tyrion.
-tyrion_lannister Uncle. Father.
-tywin_lannister The rumors of your demise were unfounded.
-tyrion_lannister Sorry to disappoint you.
-tywin_lannister And who are these Companions of yours?
-tywin_lannister This is Shagga Son of Dolf, Chieftain of the Stone Crows. Timett Son of Timett, ruler of the Burned Men. This fair maid is Chella daughter of Cheyk, leader of the Black Ears. And here we have Bronn son of...
-bronn You wouldn't know him.
-tyrion_lannister May I present My Lord Father, Tywin son of Tytos of House Lannister. Lord of Casterly Rock and Warden of the West. Kind of you to go to war for me.
-tywin_lannister You left us no choice. The honor of the House was at stake. Your brother would never have submitted to capture so meekly.
-tyrion_lannister We have our differences, Jaime and I. He's braver. I'm better looking.
-jaime_lannister He's been covering himself in glory.
-kevan_lannister Jaime smashed the River Lords at the Golden Tooth, and now lays siege to Riverrun, Catelyn Stark's homeland.
-tyrion_lannister And the Starks? Lord Eddard?
-tywin_lannister Is our hostage. He will lead no armies from his dungeon cell.
-tyrion_lannister How did my sweet sister persuade the King to imprison his dear friend Ned?
-tywin_lannister Robert Baratheon is dead. Joffrey rules in King's Landing.
-tyrion_lannister My sister rules, you mean.
-kevan_lannister Stark's son has called his banners. He moves south with a strong host.
-tywin_lannister A green boy. One taste of battle and he'll run back to Winterfell wi his tail between his legs.
-tyrion_lannister Maybe. Though the boy does have a certain belligerence. You'd like him. While we're on the subject of war, I made promises to my friends here and a Lannister always pays his debts. We shall require 3,000 helms and shields, plus swords, pikes, gorgets, maces...
-lannister_messenger If it please My Lord, Ser Addam bids me report that the Northmen have crossed the neck.
-tywin_lannister The wolf rushes into the lion's jaws. So be it. Kevan, command the drummers beat assembly. And send word to Jaime that I am moving against Robb Stark.
-kevan_lannister At once, My Lord.
-tywin_lannister It is said that the men of the Mountain clans are great warriors. Ride with me against my enemies and you shall have all my son promised you and more.
-shagga Only if the half man fights with us. Until we hold the steel he pledged us, the little lion's life is ours.
-rodrik_cassel The scouts report Lord Tywin moves north. We need to get him on broken ground, put his Knights at a disadvantage.
-greatjon_umber No, we need to get around him and break Jaime Lannister's siege of Riverrun. Do that and the River Lords will join us.
-robb_stark To do either we need to cross the river and the only crossing is at The Twins.
-theon_greyjoy Lord Frey controls that bridge. Your father's bannerman.
-catelyn_stark "The late Lord Frey" my father calls him. At the Trident, he didn't appear until the battle was done. Some men takes their oaths more seriously than others.
-theon_greyjoy Robb's right. We need that bridge.
-greatjon_umber So what's it gonna be? Do we move against Jaime or Lord Tywin?
-stark_guard Your pardon, my lords. We've captured a Lannister scout. Theon covers the map with pawns
-greatjon_umber Don't worry, lad. He won't be leaving this tent with his head.
-robb_stark Where did you find him?
-stark_guard In the brush above the encampment. He looked to be counting. Robb walks towards the Lannister scout.
-robb_stark How high did you get?
-lannister_scout 20,000. Maybe more. Rodrik Cassel  You don't have to do this yourself. Your father would understand.
-robb_stark My father understands mercy, when there is room for it. And he understands honor and courage. Let him go.
-catelyn_stark Robb.
-robb_stark Tell Lord Tywin, Winter is coming for him. To find out if he really does shit gold.
-lannister_scout Yes, My Lord. Thank you, My Lord.
-greatjon_umber Are you touched, boy?! Letting him go?
-robb_stark You call me boy again. Greatjon Umber wants to taunt Robb.
-robb_stark Go on.
-greatjon_umber Oi. Frustrated, Greatjon Umber walks out of the tent.
-grand_maester_pycelle It is also the wish of His Grace, that his loyal servant Janos Slynt, Commander of the City Watch...
-sansa_stark Ser Aron.
-grand_maester_pycelle Be at once raised to the rank of Lord.
-sansa_stark Lord Gyles.
-grand_maester_pycelle And granted the ancient seat of Harrenhal, and that his sons and grandsons shall hold this honor after him, until the end of time. In the place of the traitor Eddard Stark, it is the wish of his Grace that Tywin Lannister, Lord of Casterly Rock and Warden of the West, be appointed Hand of the King. Lastly, in these times of treason and turmoil, it is the view of the Council that the life and safety of King Joffrey be of paramount importance.
-cersei_lannister Ser Barristan Selmy.
-barristan_selmy Your Grace, I am yours to command.
-cersei_lannister Rise, Ser Barristan. You may remove your helm. You have served the Realm long and faithfully. Every man and woman in the Seven Kingdoms owes you thanks. But it is time to put aside your armor and your sword. It is time to rest and look back with pride on your many years of service.
-barristan_selmy Your Grace, the Kingsguard is a sworn brotherhood. Our vows are taken for life. Only death relieves us of our sacred trust.
-cersei_lannister Whose death, Ser Barristan? Yours or your King's?
-joffrey_baratheon You let my father die. You're too old to protect anybody.
-barristan_selmy Your Grace...
-cersei_lannister The Council has determined that Ser Jaime Lannister will take your place as Lord Commander of the Kingsguard.
-barristan_selmy The man who profaned his blade with the blood of the King he had sworn to defend!
-cersei_lannister Careful, Ser.
-lord_varys We have nothing but gratitude for your long service, good Ser. You shall be given a stout Keep beside the sea, with servants to look after your every need.
-barristan_selmy A hall to die in and men to bury me. I am a Knight. I shall die a Knight.
-petyr_baelish A naked Knight, apparently.
-barristan_selmy Even now I could cut through the five of you like carving a cake! Here, boy! Melt it down and add it to the others.
-king's_landing#unknown#GameOfThrones.Season01.Episode08 If any man in this hall has other matters to set before His Grace, let him speak now or go forth and hold his silence.
-sansa_stark Your Grace.
-joffrey_baratheon Come forward, My Lady. Sansa walk forth.
-king's_landing#unknown#GameOfThrones.Season01.Episode08 The Lady Sansa of House Stark.
-cersei_lannister Do you have some business for the King and the Council, Sansa?
-sansa_stark I do. Sansa kneels down.
-sansa_stark As it please Your Grace, I ask mercy for my father, Lord Eddard Stark, who was Hand of the King.
-grand_maester_pycelle Treason is a noxious weed. It should be torn out, root...
-joffrey_baratheon Let her speak. I want to hear what she says.
-sansa_stark Thank you, Your Grace.
-petyr_baelish Do you deny your father's crime?
-sansa_stark No, My Lords. I know he must be punished. All I ask is mercy. I know My Lord father must regret what he did. He was King Robert's friend and he loved him. You all know he loved him. He never wanted to be Hand until the King asked him. They must have lied to him. Lord Renly or Lord Stannis or somebody. They must have lied!
-joffrey_baratheon He said I wasn't the King. Why did he say that?
-sansa_stark He was badly hurt. Maester Pycelle was giving him milk of the poppy. He wasn't himself. Otherwise he never would have said it.
-lord_varys A child's faith Such sweet innocence. And yet they say wisdom comes from the mouths of babes.
-grand_maester_pycelle Treason is treason!
-joffrey_baratheon Anything else?
-sansa_stark If you still have any affection in your heart for me, please do me this kindness, Your Grace.
-joffrey_baratheon Your sweet words have moved me. But your father has to confess. He has to confess and say that I'm the King or there'll be no mercy for him.
-sansa_stark He will.
+syrio_forel Yah !
+syrio_forel Left high , left low .
+syrio_forel Right low , lunge right .
+steward_of_house_stark If you break anything , the Septa will have my head .
+steward_of_house_stark What is ...
+septa_mordane Your sister knew perfectly well we were to leave today .
+septa_mordane How she could forget ...
+sansa_stark She didn't forget .
+sansa_stark She's with her dancing master .
+sansa_stark She's with him every morning .
+sansa_stark She always comes back with scrapes and bruises .
+sansa_stark She's so clumsy .
+septa_mordane Hush !
+septa_mordane Go back to your room .
+septa_mordane Bar the doors and do not open them for anyone you do not know .
+sansa_stark What is it ?
+sansa_stark What's happening ?
+septa_mordane Do as I told you .
+septa_mordane Run !
+syrio_forel This way !
+syrio_forel Left , right .
+syrio_forel Rah !
+syrio_forel Now you are dead .
+arya_stark You said right , but you went left .
+syrio_forel And now you are a dead girl .
+arya_stark Only 'cause you lied .
+syrio_forel My tongue lied .
+syrio_forel My eyes shouted the truth .
+syrio_forel You were not seeing .
+arya_stark I was so .
+arya_stark I watched , but
+arya_stark you ...
+syrio_forel Watching is not seeing , dead girl .
+syrio_forel The seeing , the true seeing , that is the heart of swordplay .
+meryn_trant Arya Stark , come with us .
+meryn_trant Your father wants to see you .
+syrio_forel And why is it that Lord Eddard is sending Lannister men in place of his own ?
+syrio_forel I am wondering .
+meryn_trant Mind your place , dancing master .
+meryn_trant This is no concern of yours .
+arya_stark My father wouldn't send you .
+arya_stark And I don't have to go with you if I don't want .
+meryn_trant Take her .
+syrio_forel Are you men or snakes , that you would threaten a child ?
+kings_guard#unknown#GameOfThrones.Season01.Episode08 Get out of my way , little man .
+syrio_forel I am Syrio Forel .
+kings_guard#unknown#GameOfThrones.Season01.Episode08 Foreign bastard .
+syrio_forel And you will be speaking to me with more respect .
+meryn_trant Kill the Braavosi .
+meryn_trant Bring the girl .
+syrio_forel Arya child , we are done with dancing for the day .
+syrio_forel Run to your father .
+meryn_trant Bloody oafs .
+syrio_forel Be gone now , Arya .
+arya_stark Come with me .
+arya_stark Run .
+syrio_forel The first sword of Braavos does not run .
+syrio_forel What do we say to the God of death ?
+arya_stark Not today .
+syrio_forel Go .
+arya_stark Not today .
+arya_stark Not today .
+sansa_stark Stay away from me .
+sansa_stark I'll tell my father .
+sansa_stark I'll ...
+sansa_stark I'll tell the Queen .
+sandor_clegane Who do you think sent me ?
+arya_stark Needle .
+stable_boy#unknown#GameOfThrones.Season01.Episode08 There she is .
+arya_stark What do you want ?
+stable_boy#unknown#GameOfThrones.Season01.Episode08 I want you , wolf girl .
+stable_boy#unknown#GameOfThrones.Season01.Episode08 Come here .
+arya_stark Leave me be .
+arya_stark My father's a lord .
+arya_stark He'll reward you .
+stable_boy#unknown#GameOfThrones.Season01.Episode08 She'll reward me , the Queen !
+arya_stark Stay away !
+lord_varys Lord Stark , you must be thirsty .
+eddard_stark Varys .
+lord_varys I promise you it isn't poisoned .
+lord_varys Why is it no one ever trusts the eunuch ?
+lord_varys Not so much , My Lord .
+lord_varys I would save the rest , if I were you .
+lord_varys Hide it .
+lord_varys Men have been known to die of thirst in these cells .
+eddard_stark What about my daughters ?
+lord_varys The younger one seems to have escaped the castle .
+lord_varys Even my little birds cannot find her .
+eddard_stark And Sansa ?
+lord_varys Still engaged to Joffrey .
+lord_varys Cersei will keep her close .
+lord_varys The rest of your household though , all dead , it grieves me to say .
+lord_varys I do so hate the sight of blood .
+eddard_stark You watched my men being slaughtered and did nothing .
+lord_varys And would again , My Lord .
+lord_varys I was unarmed , unarmored and surrounded by Lannister swords .
+lord_varys When you look at me do you see a hero ?
+lord_varys What madness led you to tell the Queen you had learned the truth about Joffrey's birth ?
+eddard_stark The madness of mercy .
+eddard_stark That she might save her children .
+lord_varys Ah , the children .
+lord_varys It is always the innocents who suffer .
+lord_varys It wasn't the wine that killed Robert , nor the boar .
+lord_varys The wine slowed him down and the boar ripped him open , but it was your mercy that killed the King .
+lord_varys I trust you know you are a dead man , Lord Eddard ?
+eddard_stark The Queen can't kill me .
+eddard_stark Cat holds her brother .
+lord_varys The wrong brother sadly .
+lord_varys And lost to her .
+lord_varys Your wife has let the Imp slip through her fingers .
+eddard_stark If that's true , then slit my throat and be done with it .
+lord_varys Not today , My Lord .
+eddard_stark Tell me something , Varys .
+eddard_stark Who do you truly serve ?
+lord_varys The Realm , My Lord .
+lord_varys Someone must .
+jeor_mormont It's Othor , without a doubt .
+othell_yarwyck The other one is Jafer Flowers , My Lord , less the hand the wolf tore off .
+jeor_mormont Any sign of Benjen or the rest of his party ?
+jon_snow Just these two , My Lord .
+jon_snow Been dead awhile , I'd say .
+jeor_mormont Mmm .
+samwell_tarly The smell .
+othell_yarwyck What smell ?
+samwell_tarly There is none .
+samwell_tarly If they'd be dead for a long time , wouldn't there be rot ?
+jon_snow We should burn them .
+othell_yarwyck Snow's not wrong , My Lord .
+othell_yarwyck Fire will do for them .
+othell_yarwyck The Wildling way .
+jeor_mormont I want Maester Aemon to examine them first .
+jeor_mormont You may be a coward , Tarly , but you're not stupid .
+jeor_mormont Get them inside .
+othell_yarwyck You heard him .
+alliser_thorne Lord Commander , Maester Aemon awaits you in his chambers .
+alliser_thorne A raven from King's Landing .
+nights_watch_brother#unknown#GameOfThrones.Season01.Episode08 Come on , move 'em out .
+jeor_mormont Bring me a horn of ale , Snow , and pour one for yourself .
+jeor_mormont The King is dead .
+jon_snow Is there any word of my father ?
+jeor_mormont Sit .
+jeor_mormont Lord Stark has been charged with treason .
+jeor_mormont They say he conspired with Robert's brothers to deny the throne to Prince Joffrey .
+jeor_mormont I hope you're not thinking of doing anything stupid .
+jeor_mormont Your duty lies here now .
+jon_snow My sisters were in King's Landing too .
+jeor_mormont I'm sure they'll be treated gently .
+lord_varys Your father has proved to be an awful traitor , dear .
+grand_maester_pycelle King Robert's body was still warm when Lord Eddard began plotting to steal Joffrey's rightful throne .
+sansa_stark He wouldn't do that .
+sansa_stark He knows how much I love Joffrey .
+sansa_stark He wouldn't .
+sansa_stark Please , Your Grace , there's been a mistake .
+sansa_stark Send for my father .
+sansa_stark He'll tell you , the King was his friend .
+cersei_lannister Sansa sweetling , you are innocent of any wrong .
+cersei_lannister We know that .
+cersei_lannister Yet you are the daughter of a traitor .
+cersei_lannister How can I allow you to marry my son ?
+grand_maester_pycelle A child born of a traitor's seed is no fit consort for our King .
+grand_maester_pycelle She is a sweet thing now , Your Grace , but in 10 years who knows what treasons she may hatch ?
+sansa_stark No , I'm not .
+sansa_stark I'll be a good wife to him , you'll see .
+sansa_stark I'll be a Queen just like you , I promise .
+sansa_stark I won't hatch anything .
+petyr_baelish The girl is innocent , Your Grace .
+petyr_baelish She should be given a chance to prove her loyalty .
+cersei_lannister Little dove , you must write to Lady Catelyn and your brother , the eldest .
+cersei_lannister What's his name ?
+sansa_stark Robb .
+cersei_lannister Word of your father's arrest will reach him soon , no doubt .
+cersei_lannister Best it comes from you .
+cersei_lannister If you would help your father , urge your brother to keep the King's peace .
+cersei_lannister Tell him to come to King's Landing and swear his fealty to Joffrey .
+sansa_stark If ...if I could see my father , talk to him about ...
+cersei_lannister You disappoint me , child .
+cersei_lannister We have told you of your father's treason .
+cersei_lannister Why would you want to speak to a traitor ?
+sansa_stark I only meant that ...what will happen to him ?
+cersei_lannister That depends .
+sansa_stark On ...on what ?
+cersei_lannister On your brother .
+cersei_lannister And on you .
+robb_stark Treason ?
+robb_stark Sansa wrote this ?
+maester_luwin It is your sister's hand , but the Queen's words .
+maester_luwin You are summoned to King's Landing to swear fealty to the new King .
+robb_stark Joffrey puts my father in chains , now he wants his ass kissed ?
+maester_luwin This is a royal command , My Lord .
+maester_luwin If you should refuse to obey ...
+robb_stark I won't refuse .
+robb_stark His Grace summons me to King's Landing , I'll go to King's Landing .
+robb_stark But not alone .
+robb_stark Call the banners .
+maester_luwin All of them , My Lord ?
+robb_stark They've all sworn to defend my father , have they not ?
+maester_luwin They have .
+maester_luwin Now we see what their words are worth .
+maester_luwin Yeah .
+theon_greyjoy Are you afraid ?
+robb_stark I must be .
+theon_greyjoy Good .
+robb_stark Why is that good ?
+theon_greyjoy It means you're not stupid .
+catelyn_stark You've had this since dawn ?
+lysa_arryn He sent it to me , not you .
+lysa_arryn I've only shown it to you as a courtesy .
+catelyn_stark A courtesy? !
+catelyn_stark My husband has been taken prisoner .
+catelyn_stark My son intends to declare war .
+lysa_arryn A war ?
+lysa_arryn Your son against the Lannisters ?
+lysa_arryn You should go to him .
+lysa_arryn Teach him patience .
+catelyn_stark Ned rots in a dungeon
+catelyn_stark and you speak of patience ?
+catelyn_stark He is your brother by law!Does family mean nothing to you ?
+lysa_arryn Family means everything to me .
+lysa_arryn And I will not risk Robin's life to get caught up in another of your husband's wars .
+robin_arryn I'm hungry .
+lysa_arryn Hush now , darling .
+lysa_arryn You just ate .
+catelyn_stark You will not support us then ?
+catelyn_stark Do I understand you correctly ?
+robin_arryn But I'm hungry !
+lysa_arryn Soon , love , soon .
+lysa_arryn You're always welcome here , sister .
+lysa_arryn But if you're asking me to send men from the Vale to fight ...
+catelyn_stark That is what I ask .
+lysa_arryn Go on , sweet .
+lysa_arryn Time for your bath .
+lysa_arryn I'll feed you after .
+catelyn_stark If you fear for the safety of your son ...
+lysa_arryn Of course I fear for the safety of my son !
+lysa_arryn Are you an idiot ?
+lysa_arryn They killed my husband .
+lysa_arryn You say they shoved your boy from a window .
+lysa_arryn These people will do anything .
+catelyn_stark And that is why we have to stop them .
+lysa_arryn The knights of the Vale will stay in the Vale where they belong , to protect their Lord .
+bronn Will you shut up ?
+bronn There's hill tribes all around here .
+tyrion_lannister If I'm going to die , it may as well be with a song in my heart .
+bronn I should just take your food and leave you here .
+bronn Eh ?
+bronn What would you do then ?
+tyrion_lannister Starve , most likely .
+bronn You don't think I'd do it , do you ?
+tyrion_lannister What do you want , Bronn ?
+tyrion_lannister Gold ?
+tyrion_lannister Women ?
+tyrion_lannister Golden women ?
+tyrion_lannister Stick with me
+tyrion_lannister and you'll have them all , for as long as I'm around and not for a moment longer .
+tyrion_lannister But you knew that .
+tyrion_lannister That is why you so valiantly took up arms to defend my honor .
+bronn Fair enough .
+bronn But don't go looking for me to bend the knee and " My Lord "
+bronn you every time you take a shit .
+bronn I'm not your toady
+bronn and I'm not your friend .
+tyrion_lannister Though I would treasure your friendship .
+tyrion_lannister I'm mainly interested in your facility with murder .
+tyrion_lannister And if the day ever comes when you're tempted to sell me out .
+tyrion_lannister Whatever their price , I'll beat it .
+tyrion_lannister I like living .
+bronn Tyrion .
+bronn Tyrion .
+bronn Tyrion .
+tyrion_lannister Come , share our fire .
+tyrion_lannister Help yourselves to our goat .
+shagga When you meet your Gods , you tell them Shagga Son of Dolf of the Stone Crows sent you .
+tyrion_lannister I am Tyrion son of Tywin of Clan Lannister .
+tyrion_lannister How would you like to die , Tyrion son of Tywin ?
+tyrion_lannister In my own bed , at the age of 80 with a bellyful of wine and a girl's mouth around my cock .
+tyrion_lannister Take the half man .
+tyrion_lannister He can dance for the children .
+tyrion_lannister Kill the other one .
+tyrion_lannister No no
+tyrion_lannister no
+tyrion_lannister no no !
+tyrion_lannister My , my House is rich and powerful .
+tyrion_lannister If you see us through these mountains , my father will shower you with gold .
+shagga We have no use for a half man's promises .
+tyrion_lannister Half a man maybe , but at least I have the courage to face my enemies .
+tyrion_lannister What do the Stone Crows do ?
+tyrion_lannister Hide behind rocks and shiver when the knights of the Vale ride by ?
+tyrion_lannister Are those the best weapons you could steal ?
+tyrion_lannister Good enough for killing sheep , if the sheep don't fight back .
+tyrion_lannister Lannister smiths shit better steel .
+shagga You think you can win us over with your trinkets ?
+tyrion_lannister That trinket is worth more than everything your tribe owns .
+tyrion_lannister But if you help us , Shagga Son of Dolf , I will not give you trinkets .
+tyrion_lannister I will give you this .
+shagga What is " this " ?
+tyrion_lannister The Vale of Arryn .
+tyrion_lannister The Lords of the Vale have always spat upon the hill tribes .
+tyrion_lannister The Lords of the Vale want me dead .
+tyrion_lannister I believe it is time for new Lords of the Vale .
+alliser_thorne Now there's a rare sight .
+alliser_thorne Not only a bastard , but a traitor's bastard .
+samwell_tarly Jon , no !
+samwell_tarly Jon , stop , put it down !
+alliser_thorne Blood will always tell .
+alliser_thorne You'll hang for this , bastard .
+jeor_mormont I told you not to do anything stupid .
+jeor_mormont You're confined to quarters .
+jeor_mormont Go .
+jon_snow Ghost , what's wrong ?
+jon_snow Is something out there ?
+jon_snow Commander ?
+jon_snow Stay .
+jon_snow Hello ?
+jon_snow Who's there ?
+jon_snow Lord Commander ?
+jeor_mormont Snow! ?
+jon_snow  .
+jon_snow Move move !
+daenerys_targaryen What did they do ?
+rakharo Lamb men make good slaves .
+rakharo Khal Drogo will make a gift of them to the slavers .
+rakharo And the slavers will give us gold ...and silk and steel .
+daenerys_targaryen I thought the Dothraki didn't believe in money .
+jorah_mormont Gold to hire ships , Princess .
+jorah_mormont Ships to sail to Westeros .
+daenerys_targaryen Jorah , make them stop .
+jorah_mormont Khaleesi ?
+daenerys_targaryen You heard me .
+jorah_mormont These men have shed blood for their Khal .
+jorah_mormont Now they claim their rewards .
+rakharo She is a lamb girl , Khaleesi .
+rakharo The riders do her honor .
+rakharo If her wailing offends the Khaleesi , I will bring you her tongue .
+jorah_mormont Princess , you have a gentle heart , but this is how it's always been .
+daenerys_targaryen I do not have a gentle heart , Ser .
+daenerys_targaryen Do as I command or Khal Drogo will know the reason why .
+rakharo Kash qoy qoyi thira disse .
+rakharo Me qorasokh anni !
+jorah_mormont Come .
+dothraki_man#unknown#GameOfThrones.Season01.Episode08 Anha afichak mae m'arakhoon !
+jorah_mormont What do you want done with them ?
+daenerys_targaryen Bring her to me .
+daenerys_targaryen And those women there .
+jorah_mormont You cannot claim them all , Princess .
+daenerys_targaryen I can ,
+daenerys_targaryen and I will .
+mago Me Fati !
+mago Khaleesi vazha anhaan qorasokh anni , ch'anha afichak mae m'arakhoon anni !
+khal_drogo Me vastoe hatif anni ;
+khal_drogo ahhazaan yer Nemo vacchaki .
+khal_drogo Moon of my life .
+khal_drogo Mago says you have taken his spoils .
+khal_drogo A daughter of a lamb men , who was his to mount .
+khal_drogo Tell me the truth of this .
+daenerys_targaryen Mago speaks the truth , my sun and stars .
+daenerys_targaryen I have claimed many daughters this day , so they cannot be mounted .
+khal_drogo This is the way of war .
+khal_drogo These women are slaves now to do with as we please .
+daenerys_targaryen It pleases me to keep them safe .
+daenerys_targaryen If your riders would mount them , let them take them for wifes .
+qotho Does the horse mate with the lamb ?
+daenerys_targaryen The dragons feeds on horse and lamb alike .
+mago You are a foreigner .
+mago You do not command me .
+daenerys_targaryen I am Khaleesi .
+daenerys_targaryen I do command you .
+khal_drogo See how fierce she grows ?
+khal_drogo That is my son inside her , the stallion that will mount the world .
+khal_drogo Filling her with his fire .
+khal_drogo I will hear no more .
+khal_drogo Mago , find somewhere else to stick your cock .
+khal_drogo Mago spits on the ground and draws his sword .
+mago A Khal who takes orders from a foreign whore is no Khal .
+mago When Qotho is trying to interfere , Khal Drogo calls him back .
+khal_drogo Ohosa .
+khal_drogo Os .
+khal_drogo I will not have your body burned .
+khal_drogo I will not give you that honor .
+khal_drogo The beetles will feed on your eyes .
+khal_drogo The worms will crawl through your lungs .
+khal_drogo The rain will fall on your rotting skin ...
+khal_drogo Until nothing is left of you but bones !
+mago First you have to kill me !
+daenerys_targaryen My sun and stars is wounded .
+khal_drogo A scratch , moon of my life .
+daenerys_targaryen Where are the healers ?
+khal_drogo This is the bite of a fly .
+mirri_maz_duur I can help the great rider with his cut .
+qotho The Khal needs no help from slaves who lie with sheep .
+daenerys_targaryen She is mine
+daenerys_targaryen let her speak .
+mirri_maz_duur Thank you , silver lady .
+daenerys_targaryen Who are you ?
+mirri_maz_duur I am named Mirri Maz Duur .
+mirri_maz_duur I was the Godswife of this Temple .
+qotho A witch .
+mirri_maz_duur My mother was Godswife here before me .
+mirri_maz_duur She taught me how to make healing smokes and ointments .
+mirri_maz_duur All men are of one flock , so my people believe .
+mirri_maz_duur The Great Shepherd sent me to Earth to heal his ...
+qotho Too many words .
+qotho A witch's words poison the ears .
+mirri_maz_duur lamb or lion , his wound must be washed and sewn or it will fester .
+daenerys_targaryen Let her clean your wound , my sun and stars .
+daenerys_targaryen It makes me hurt to see you bleed .
+greatjon_umber For 30 years I've been making corpses out of men , boy .
+greatjon_umber I'm the man you want leading the Vanguard .
+robb_stark Galbart Glover will lead the Van .
+greatjon_umber The bloody Wall will melt before an Umber marches behind a Glover .
+greatjon_umber I will lead the Van or I will take my men and march them home .
+robb_stark You are welcome to do so , Lord Umber .
+robb_stark And when I am done with the Lannisters , I will march back North , root you out of your Keep and hang you for an oathbreaker .
+greatjon_umber Oathbreaker , is it? !
+greatjon_umber I'll not sit here and swallow insults from a boy so green he pisses grass .
+robb_stark My Lord father taught me it was death to bare steel against your Liege Lord .
+robb_stark But doubtless the Greatjon only meant to cut my meat for me .
+greatjon_umber Your meat ...is bloody tough .
+bran_stark What is it ?
+bran_stark What's happened ?
+robb_stark Shh , it's all right .
+bran_stark Where are you going ?
+robb_stark South .
+robb_stark For father .
+bran_stark But it's the middle of the night .
+robb_stark The Lannisters have spies everywhere .
+robb_stark I don't want them to know we're coming .
+bran_stark They have more men than we do .
+robb_stark Aye , they do .
+bran_stark Can't I come with you ?
+bran_stark I can ride now .
+bran_stark You've seen me riding .
+bran_stark And I won't get in the way ,
+bran_stark I ...
+robb_stark There must always be a Stark at Winterfell .
+robb_stark Until I return that will be you .
+robb_stark You are not to leave the castle walls while we are gone .
+robb_stark Do you understand ?
+robb_stark Listen to Maester Luwin .
+robb_stark Look after your little brother .
+bran_stark I will .
+robb_stark I'll send letters whenever I can , but if you don't hear from me , don't be scared .
+robb_stark Until I return .
+bran_stark How long have you been hiding out there ?
+bran_stark Robb will be looking for you , to say goodbye .
+rickon_stark They've all gone away .
+bran_stark They'll be back soon .
+bran_stark Robb will free father and they'll come back with mother .
+rickon_stark No , they won't .
+bran_stark Please watch over Robb .
+bran_stark And watch over all the other men from Winterfell .
+bran_stark And Theon too , I suppose .
+osha You hear them , boy ?
+osha The Old Gods are answering you .
+bran_stark What are you doing here ?
+osha They're my Gods too .
+osha Beyond the Wall , they're the only Gods .
+osha Even slaves are allowed to pray .
+bran_stark You're not a slave .
+bran_stark Well , your friend did put a knife to my throat .
+osah I'm not complaining , Little Lord , just telling truths .
+bran_stark What did you mean about hearing the Gods ?
+osha You asked them , they're answering you .
+osha Shh .
+osha Open your ears .
+bran_stark It's only the wind .
+bran_stark Who do you think sends the wind if not the Gods ?
+bran_stark They see you , boy .
+bran_stark They hear you .
+bran_stark Your brother will get no help from them where he's going .
+bran_stark The Old Gods have no power in the South .
+bran_stark The Weirwoods there were all cut down a long time ago .
+bran_stark How can they watch when they have no eyes ?
+osha Well , there's a big man .
+osha He has giants blood in him
+osha or I'm the Queen .
+bran_stark Go back and find your clothes , Hodor .
+bran_stark Go dress .
+hodor Hodor .
+bran_stark Are there really giants beyond the Wall ?
+osha Giants and worse than giants .
+osha I tried telling your brother , he's marching the wrong way.
+osha All these swords , they should be going North , boy .
+osha North , not south !
+osha The cold winds are rising .
+samwell_tarly They were touched by White Walkers .
+samwell_tarly That's why they came back .
+samwell_tarly That's why their eyes turned blue .
+samwell_tarly Only fire will stop them .
+jon_snow How do you know that ?
+samwell_tarly I read about it in a book .
+samwell_tarly A very old book in Maester Aemon's library .
+jon_snow What else did the book say ?
+samwell_tarly The White Walkers sleep beneath the ice for thousands of years .
+samwell_tarly And when they wake up ...
+pypar And when they wake up , what ?
+samwell_tarly I hope The Wall is high enough .
+rodrik_cassel Summer snows , My Lady .
+catelyn_stark Robb's brought the North with him .
+robb_stark The River Lords are falling back with Jaime Lannister at their heels .
+robb_stark And Lord Tywin is bringing around a second Lannister army from the South .
+robb_stark Our scouts confirm it's even larger than the Kingslayer's .
+greatjon_umber One army or two , the Kings in the North threw back hosts ten times this large .
+robb_stark Mother !
+catelyn_stark You look well .
+greatjon_umber Lady Catelyn , you're a welcome sight in these troubled times .
+theon_greyjoy We had not thought to meet you here , My Lady .
+catelyn_stark I had not thought to be here .
+catelyn_stark I would speak with my son alone .
+catelyn_stark I know you will forgive me , My Lords .
+greatjon_umber You heard her !
+greatjon_umber Move your asses !
+greatjon_umber Come on , out .
+greatjon_umber You too , Greyjoy .
+greatjon_umber Are you bloody deaf ?
+greatjon_umber Have no fear , My Lady .
+greatjon_umber We'll shove our swords up Tywin Lannister's bunghole
+greatjon_umber and then it's on to the Red Keep to free Ned .
+greatjon_umber You old devil , Rodrik .
+rodrik_cassel Jon .
+greatjon_umber You're not wasting away , are you ?
+catelyn_stark I remember the day you came into this world red-faced and squalling .
+catelyn_stark And now I find you leading a host to war .
+robb_stark There was no one else .
+catelyn_stark No one ?
+catelyn_stark Who were those men I saw here ?
+robb_stark None of them are Starks .
+catelyn_stark All of them are seasoned in battle .
+robb_stark If you think you can send me back to Winterfell ...
+catelyn_stark Oh , would that I could .
+robb_stark There was a letter .
+robb_stark From Sansa .
+catelyn_stark From the Queen , you mean .
+catelyn_stark There's no mention of Arya .
+robb_stark No .
+catelyn_stark How many men do you have ?
+robb_stark 18,000 .
+robb_stark If I go to King's Landing and bend my knee to Joffrey ...
+catelyn_stark you would never be allowed to leave .
+catelyn_stark No .
+catelyn_stark Our best hope , our only hope , is that you can defeat them in the field .
+robb_stark And if I lose ?
+catelyn_stark Do you know what happened to the Targaryen children , when the Mad King fell ?
+robb_stark They were butchered in their sleep .
+catelyn_stark On the orders of Tywin Lannister .
+catelyn_stark And the years have not made him kinder .
+catelyn_stark If you lose , your father dies , your sisters die , we die .
+robb_stark Well , that makes it simple then .
+catelyn_stark I suppose it does .
+tyrion_lannister From here it might be best if Bronn and I continue alone .
+shagga Best for Tyrion son of Tywin .
+shagga Not best for me .
+shagga If the half man betrays us , Shagga son of Dolf will cut off his manhood ...
+tyrion_lannister And feed it to the goats , yes .
+tyrion_lannister All right then .
+tyrion_lannister Time to meet my father .
+kevan_lannister Tyrion .
+tyrion_lannister Uncle .
+tyrion_lannister Father .
+tywin_lannister The rumors of your demise were unfounded .
+tyrion_lannister Sorry to disappoint you .
+tywin_lannister And who are these Companions of yours ?
+tywin_lannister This is Shagga Son of Dolf , Chieftain of the Stone Crows .
+tywin_lannister Timett Son of Timett , ruler of the Burned Men .
+tywin_lannister This fair maid is Chella daughter of Cheyk , leader of the Black Ears .
+tywin_lannister And here we have Bronn son of ...
+bronn You wouldn't know him .
+tyrion_lannister May I present My Lord Father , Tywin son of Tytos of House Lannister .
+tyrion_lannister Lord of Casterly Rock and Warden of the West .
+tyrion_lannister Kind of you to go to war for me .
+tywin_lannister You left us no choice .
+tywin_lannister The honor of the House was at stake .
+tywin_lannister Your brother would never have submitted to capture so meekly .
+tyrion_lannister We have our differences , Jaime and I. He's braver .
+tyrion_lannister I'm better looking .
+jaime_lannister He's been covering himself in glory .
+kevan_lannister Jaime smashed the River Lords at the Golden Tooth , and now lays siege to Riverrun , Catelyn Stark's homeland .
+tyrion_lannister And the Starks ?
+tyrion_lannister Lord Eddard ?
+tywin_lannister Is our hostage .
+tywin_lannister He will lead no armies from his dungeon cell .
+tyrion_lannister How did my sweet sister persuade the King to imprison his dear friend Ned ?
+tywin_lannister Robert Baratheon is dead .
+tywin_lannister Joffrey rules in King's Landing .
+tyrion_lannister My sister rules , you mean .
+kevan_lannister Stark's son has called his banners .
+kevan_lannister He moves south with a strong host .
+tywin_lannister A green boy .
+tywin_lannister One taste of battle and he'll run back to Winterfell wi his tail between his legs .
+tyrion_lannister Maybe .
+tyrion_lannister Though the boy does have a certain belligerence .
+tyrion_lannister You'd like him .
+tyrion_lannister While we're on the subject of war , I made promises to my friends here and a Lannister always pays his debts .
+tyrion_lannister We shall require 3,000 helms and shields , plus swords , pikes , gorgets , maces ...
+lannister_messenger If it please My Lord , Ser Addam bids me report that the Northmen have crossed the neck .
+tywin_lannister The wolf rushes into the lion's jaws .
+tywin_lannister So be it .
+tywin_lannister Kevan , command the drummers beat assembly .
+tywin_lannister And send word to Jaime that I am moving against Robb Stark .
+kevan_lannister At once , My Lord .
+tywin_lannister It is said that the men of the Mountain clans are great warriors .
+tywin_lannister Ride with me against my enemies and you shall have all my son promised you and more .
+shagga Only if the half man fights with us .
+shagga Until we hold the steel he pledged us , the little lion's life is ours .
+rodrik_cassel The scouts report Lord Tywin moves north .
+rodrik_cassel We need to get him on broken ground , put his Knights at a disadvantage .
+greatjon_umber No , we need to get around him and break Jaime Lannister's siege of Riverrun .
+greatjon_umber Do that and the River Lords will join us .
+robb_stark To do either we need to cross the river and the only crossing is at The Twins .
+theon_greyjoy Lord Frey controls that bridge .
+theon_greyjoy Your father's bannerman .
+catelyn_stark "
+catelyn_stark The late Lord Frey " my father calls him .
+catelyn_stark At the Trident , he didn't appear until the battle was done .
+catelyn_stark Some men takes their oaths more seriously than others .
+theon_greyjoy Robb's right .
+theon_greyjoy We need that bridge .
+greatjon_umber So what's it gonna be ?
+greatjon_umber Do we move against Jaime or Lord Tywin ?
+stark_guard Your pardon , my lords .
+stark_guard We've captured a Lannister scout .
+greatjon_umber Don't worry , lad .
+greatjon_umber He won't be leaving this tent with his head .
+robb_stark Where did you find him ?
+stark_guard In the brush above the encampment .
+stark_guard He looked to be counting .
+robb_stark How high did you get ?
+lannister_scout 20,000 .
+lannister_scout Maybe more .
+lannister_scout You don't have to do this yourself .
+lannister_scout Your father would understand .
+robb_stark My father understands mercy , when there is room for it .
+robb_stark And he understands honor and courage .
+robb_stark Let him go .
+catelyn_stark Robb .
+robb_stark Tell Lord Tywin , Winter is coming for him .
+robb_stark To find out if he really does shit gold .
+lannister_scout Yes , My Lord .
+lannister_scout Thank you , My Lord .
+greatjon_umber Are you touched , boy? !
+greatjon_umber Letting him go ?
+robb_stark You call me boy again .
+robb_stark Go on .
+greatjon_umber Oi .
+grand_maester_pycelle It is also the wish of His Grace , that his loyal servant Janos Slynt , Commander of the City Watch ...
+sansa_stark Ser Aron .
+grand_maester_pycelle Be at once raised to the rank of Lord .
+sansa_stark Lord Gyles .
+grand_maester_pycelle And granted the ancient seat of Harrenhal , and that his sons and grandsons shall hold this honor after him , until the end of time .
+grand_maester_pycelle In the place of the traitor Eddard Stark , it is the wish of his Grace that Tywin Lannister , Lord of Casterly Rock and Warden of the West , be appointed Hand of the King .
+grand_maester_pycelle Lastly , in these times of treason and turmoil , it is the view of the Council that the life and safety of King Joffrey be of paramount importance .
+cersei_lannister Ser Barristan Selmy .
+barristan_selmy Your Grace , I am yours to command .
+cersei_lannister Rise , Ser Barristan .
+cersei_lannister You may remove your helm .
+cersei_lannister You have served the Realm long and faithfully .
+cersei_lannister Every man and woman in the Seven Kingdoms owes you thanks .
+cersei_lannister But it is time to put aside your armor and your sword .
+cersei_lannister It is time to rest and look back with pride on your many years of service .
+barristan_selmy Your Grace , the Kingsguard is a sworn brotherhood .
+barristan_selmy Our vows are taken for life .
+barristan_selmy Only death relieves us of our sacred trust .
+cersei_lannister Whose death , Ser Barristan ?
+cersei_lannister Yours or your King's ?
+joffrey_baratheon You let my father die .
+joffrey_baratheon You're too old to protect anybody .
+barristan_selmy Your Grace ...
+cersei_lannister The Council has determined that Ser Jaime Lannister will take your place as Lord Commander of the Kingsguard .
+barristan_selmy The man who profaned his blade with the blood of the King he had sworn to defend !
+cersei_lannister Careful , Ser .
+lord_varys We have nothing but gratitude for your long service , good Ser .
+lord_varys You shall be given a stout Keep beside the sea , with servants to look after your every need .
+barristan_selmy A hall to die in and men to bury me .
+barristan_selmy I am a Knight .
+barristan_selmy I shall die a Knight .
+petyr_baelish A naked Knight , apparently .
+barristan_selmy Even now I could cut through the five of you like carving a cake !
+barristan_selmy Here , boy !
+barristan_selmy Melt it down and add it to the others .
+king's_landing#unknown#GameOfThrones.Season01.Episode08 If any man in this hall has other matters to set before His Grace , let him speak now or go forth and hold his silence .
+sansa_stark Your Grace .
+joffrey_baratheon Come forward , My Lady .
+king's_landing#unknown#GameOfThrones.Season01.Episode08 The Lady Sansa of House Stark .
+cersei_lannister Do you have some business for the King and the Council , Sansa ?
+sansa_stark I do .
+sansa_stark As it please Your Grace , I ask mercy for my father , Lord Eddard Stark , who was Hand of the King .
+grand_maester_pycelle Treason is a noxious weed .
+grand_maester_pycelle It should be torn out , root ...
+joffrey_baratheon Let her speak .
+joffrey_baratheon I want to hear what she says .
+sansa_stark Thank you , Your Grace .
+petyr_baelish Do you deny your father's crime ?
+sansa_stark No , My Lords .
+sansa_stark I know he must be punished .
+sansa_stark All I ask is mercy .
+sansa_stark I know My Lord father must regret what he did .
+sansa_stark He was King Robert's friend and he loved him .
+sansa_stark You all know he loved him .
+sansa_stark He never wanted to be Hand until the King asked him .
+sansa_stark They must have lied to him .
+sansa_stark Lord Renly or Lord Stannis or somebody .
+sansa_stark They must have lied !
+joffrey_baratheon He said I wasn't the King .
+joffrey_baratheon Why did he say that ?
+sansa_stark He was badly hurt .
+sansa_stark Maester Pycelle was giving him milk of the poppy .
+sansa_stark He wasn't himself .
+sansa_stark Otherwise he never would have said it .
+lord_varys A child's faith Such sweet innocence .
+lord_varys And yet they say wisdom comes from the mouths of babes .
+grand_maester_pycelle Treason is treason !
+joffrey_baratheon Anything else ?
+sansa_stark If you still have any affection in your heart for me , please do me this kindness , Your Grace .
+joffrey_baratheon Your sweet words have moved me .
+joffrey_baratheon But your father has to confess .
+joffrey_baratheon He has to confess and say that I'm the King or there'll be no mercy for him .
+sansa_stark He will .

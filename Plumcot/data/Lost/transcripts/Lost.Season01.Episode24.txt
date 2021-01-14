@@ -1,320 +1,554 @@
-charlie_pace Claire, everybody's leaving.
-claire_littleton Okay, well, I can't go anywhere, alright? I've got the baby, and I'm so tired, I can't carry him -- now he's wet, there's sand everywhere, I don't have anymore nappies.
-charlie_pace Why don't you let me help.
-claire_littleton No, nobody ever taught me how to do this, okay?
-charlie_pace Claire, it's going to be okay.
-claire_littleton Oh, why do people keep telling me that? Are they the ones with the baby?
-sayid_jarrah We've got to get there before sundown. Once you reach the caves, stay there. The rest of us will be right behind you.
-charlie_pace Sayid. I need a gun. Look, I know Jack gave them to you. I want one right now. I have to protect Claire.
-sayid_jarrah Rousseau said the Others wouldn't be here until nightfall.
-charlie_pace Rousseau is certifiable. What if they show up before then and-
+charlie_pace Claire , everybody's leaving .
+claire_littleton Okay , well , I can't go anywhere , alright ?
+claire_littleton I've got the baby , and I'm so tired
+claire_littleton , I can't carry him -- now he's wet , there's sand everywhere , I don't have anymore nappies .
+charlie_pace Why don't you let me help .
+claire_littleton No , nobody ever taught me how to do this , okay ?
+charlie_pace Claire , it's going to be okay .
+claire_littleton Oh , why do people keep telling me that ?
+claire_littleton Are they the ones with the baby ?
+sayid_jarrah We've got to get there before sundown .
+sayid_jarrah Once you reach the caves , stay there .
+sayid_jarrah The rest of us will be right behind you .
+charlie_pace Sayid .
+charlie_pace I need a gun .
+charlie_pace Look , I know Jack gave them to you .
+charlie_pace I want one right now .
+charlie_pace I have to protect Claire .
+sayid_jarrah Rousseau said the Others wouldn't be here until nightfall .
+charlie_pace Rousseau is certifiable .
+charlie_pace What if they show up before then and-
 sayid_jarrah The last time you handled a sidearm-
-charlie_pace I killed a murderer. I did us all a favor.
-sayid_jarrah Charlie, you're emotionally involved. Let me handle the weapons.
-charlie_pace But you're not here all the time. You can't protect Claire. Look, I need a gun!
-sayid_jarrah If you really want to help Claire, get her packed, carry her child to the caves. That's what she needs.
-hugo_reyes How exactly does something like this happen?
-danielle_rousseau Are you on the same Island as I am?
-hugo_reyes I guess that explains it.
-dr_leslie_arzt Hold on, wait, hold on. Hold, wait. What are we a couple miles inland? A tsunami probably swept it here, huh, right?
-dr_jack_shephard Hey, hey, where are you going?
-danielle_rousseau Explosives are in the hold of the ship.
-dr_jack_shephard Rousseau, wait.
-danielle_rousseau I did what you asked. You need dynamite, you don't need me.
-john_locke Let her go, Jack.
-dr_jack_shephard Who's going to lead us back?
-john_locke I'll lead us back.
-dr_jack_shephard Damn it. You heard her -- the explosives are in the hold. Let's go.
-dr_leslie_arzt Whoa, whoa, hold on, hold on. I came here to tell you how to handle dynamite, not explore some ghost ship, you think I'm go-
-dr_jack_shephard Alright, just stay out here.
-hugo_reyes Uh, I'm going to stay out here and hang with Arnzt.
-john_locke Slaves. This ship must have been in route to a mining colony -- probably set off from the eastern coast of Africa -- Mozambique.
-kate_austen Jack, John, over here.
-dr_leslie_arzt And then my 3rd wife, she says, get this, she says, "I didn't sign up for this." Now you tell me, what the hell is that even supposed to mean? What, am -- am I boring you?
-hugo_reyes Huh?
-dr_leslie_arzt You know what? I'm -- I'm sorry, I'm so... I'm sorry that I'm not cool enough to be part of your merry little band of adventurers.
-hugo_reyes What?
-dr_leslie_arzt I know a clique when I see it. I teach high school, pal-y. You know, you people think you're the only ones on this Island doing anything of value. I've got news for you. There were 40 other survivors of this plane crash. And we are all people, too.
-hugo_reyes O-kay.
-kate_austen You know what? We could probably get it open if I just-
-dr_jack_shephard No, no, no, we should take it outside.
-kate_austen Why? We don't even know if it's...
-dr_jack_shephard You're not prying open a crate that says explosives on the side with a pick axe, Kate.
-john_locke Yeah, I agree with Jack -- take it outside, open it there.
-kate_austen Okay.
-dr_jack_shephard I got it. You mind showing us the way?
-dr_leslie_arzt And it's not just the teenagers, either. You know, the gym teachers -- you think they let me sit with them in the cafeteria? No. They do not.
-hugo_reyes Dude, this is all in your head.
-dr_leslie_arzt Really? Then you explain to me why Kate gets the best pieces of wreckage to build her shelter? And the Korean guy? Does he catch fish for everybody on the Island? No, he does not. He doesn't. And some of us have actually lost weight while we were here. Now, would mind telling me where you're hiding the carbs because I can't figure...
-dr_leslie_arzt What the hell are you people doing?! Wait, wait, stop, stop, right where you are. Alright, I want you to put that down carefully. Put it down carefully. Put it gently, gently. Damn it, carefully, gently, gently. Alright, now get out of there. Come away from there. C'mon, get out. Move away from it.
-dr_jack_shephard What the hell are you doing?
-dr_leslie_arzt Shhh. Be quiet. Do any of you have any idea what happens to dynamite in 90+ degree heat, huh? So you know? Any of you? It sweats nitroglycerin. Whoa, hey, what you doing? Did I ask you to come closer? Dynamite is nitroglycerin stabilized by clay. Nitroglycerin is the most dangerous and unstable explosive known to man. Hey, Kate give me your shirt. Now, princess, give me your shirt. I need to wrap the dynamite. Just throw it to me, right here. Be careful, c'mon, hurry up. Okay, good, now back up, back up, back up. Just back up. Get out of my way. Any of you ever hear about the guy who invented nitroglycerin? Probably not -- because he blew his freaking face off. His lab assistant came into the room, saw that his mentor detonated, and he said, "Huh, I guess this stuff does work." Alright, we're not going to take any more of this stuff than we need because nitroglycerin is extremely temperamental, so we-
-hugo_reyes Dude.
-sunhwa_kwon 반으로 자를까요? 여기요. 어머 어떡해 미안해 미안, 뜨겁죠?
-jinsoo_kwon 괜찮아, 괜찮아. 됐어. 화장실이 어디 있어?
-sunhwa_kwon 저쪽... 저쪽에 있네요.
-airport_cop COP Sorry for the inconvenience.
-sayid_jarrah I'm sure you are.
-airport_cop COP Sir, your bag was unattended.
-sayid_jarrah Am I free to go?
-airport_cop COP Yes, sir.
-sayid_jarrah Good, I have a plane to catch.
-hawaiian_shirt SHIRT Hey, could you hand me a paper towel there, bud? A paper towel -- this one's broken.
-hawaiian_shirt SHIRT Oh, oh, you don't speak English. Sorry.
-hawaiian_shirt SHIRT 아, 페이퍼 타올이 여기 있네.
-jinsoo_kwon 뭐라고요?
-hawaiian_shirt SHIRT 자네의 장인이신 백 회장님 밑에서 일하고 있지.
-jinsoo_kwon 여태까지 날 미행한거야?
-hawaiian_shirt SHIRT 물론. 그리고 자네가 도망가려는 것도 알고 있지. 자네는 남은 시계를 캘리포니아에 있는 백 회장님 친구에게 전하라고. 만약 그렇게 못하면 자네는 그녀를 잃게 되겠지. 넌 자유의 몸의 아니야. 여태까지 그래왔고 앞으로도 계속.
-walt_lloyd Dad, look!
-michael_dawson How does a place this big never get discovered?
-james_ford Don't know, but you could build yourself one hell of a beach resort right over there.
-michael_dawson Yeah, you build your resort. I'm happy to say goodbye to this place forever.
-walt_lloyd What about everybody else? Think they'll be okay?
-michael_dawson I hope so, buddy. At least until we can get them some help.
-james_ford Redemption song is all I'll ever have...
-michael_dawson You singing Bob Marley?
-james_ford No. Why, you like Bob Marley?
-michael_dawson Man, who doesn't like Bob Marley?
-shannon_rutherford Damn it!
-sayid_jarrah Do you really need all that?
-shannon_rutherford Yeah, I do.
-sayid_jarrah Why do you have to bring so much?
-shannon_rutherford Don't you have a hike to lead?
-shannon_rutherford I'm fine.
-sayid_jarrah These belong to your brother.
-shannon_rutherford I need these things. I can't just leave them. What are we doing? Hiding? As if they won't find us. It's just -- it's too much. It's too much.
-sayid_jarrah It won't be too much if I carry it for you. Now come on, I have a hike to lead.
-kate_austen You okay?
-hugo_reyes That was messed up.
-kate_austen Yeah.
-hugo_reyes He just...exploded in front of us. He was just trying to help. This is because I came.
-kate_austen What?
-hugo_reyes I'm kind of bad luck.
-kate_austen Hey, it was an accident.
-hugo_reyes An accident, yeah.
-dr_jack_shephard Locke, we should think about this.
-john_locke Alright.
-dr_jack_shephard Maybe this isn't the best way.
-john_locke It's the only way, Jack.
-dr_jack_shephard How many do we need to blow the Hatch?
-john_locke Two should take care of the hinge, three to be safe.
-dr_jack_shephard Safe?
-john_locke I'm removing the driest pieces to minimize our risk transporting it. You ever play "Operation"?
-dr_jack_shephard Sure. Don't touch the sides.
-john_locke I -- I always got nailed on the funny bone. Bzzzt!
-dr_jack_shephard You like to play games, John?
-john_locke Absolutely.
-charlie_pace Okay, I know we're in a rush to escape to the caves, so I solved the turniphead transport issue. This is just a blanket from the plane. And then there's a piece of wood here that goes through this bamboo. Here you go. It's a Bjorn.
-claire_littleton A bjorn?
-charlie_pace Bjorn -- it's Dutch for baby carrier.
-claire_littleton Yeah, thanks.
-charlie_pace That's okay.
-claire_littleton Thank you.
-charlie_pace Oh, that's okay.
-claire_littleton Thanks. I'll just put him in there.
-charlie_pace It's really...
-danielle_rousseau Sayid! Where is he?
-charlie_pace Rousseau! What?
-danielle_rousseau Sayid? Where is he?
-charlie_pace He already left.
-danielle_rousseau I need him now.
-charlie_pace Jack and Kate...
-danielle_rousseau There's no time. Where is Sayid?
-charlie_pace Alright, just calm down, okay. I'll get him for you. Stay here, alright.
-claire_littleton Okay.
-charlie_pace Sayid! Sayid!
-claire_littleton What happened out there?
-danielle_rousseau What is his name? The child. What is his name?
-claire_littleton Oh, I haven't named him yet.
-danielle_rousseau May I hold him?
-claire_littleton Why do you need Sayid?
-danielle_rousseau You don't want me to hold him.
-claire_littleton No, I just fed him. I don't think it's a good idea, okay?
-danielle_rousseau Please.
-claire_littleton Why did I do that? Why did I scratch you?
-lily What's going on?
-charlie_pace My flight, my flight to LA leaves in a couple of hours -- so I've got to get moving, you know.
-lily You want to do one more bump for the road?
-charlie_pace It's all gone. We did it all last night. I have some champagne.
-lily You've got to have some left.
-charlie_pace Mm-mm. No. It's done. I'll look you up next time I'm in Sydney, okay? I'll send you an autographed copy of my CD and then you can listen to it whenever you want.
-lily I don't want your piece of crap CD from your piece of crap band.
-charlie_pace Last night in the bar you said you were a fan.
-lily Fine. I'm a huge fan. Drivethru is the best damned band ever. Now just give me a bump because I know you've got some.
-charlie_pace Shaft. Drive Shaft.
-lily What's that in your hand?
-charlie_pace Nothing.
-lily Holding out on me?
-charlie_pace Holding out on you? No, I'm not holding out...
-lily Give it to me.
-charlie_pace Give you what? I'm not holding anything.
-lily Give it to me.
-charlie_pace I've got nothing in my hand!
-lily Give it to me!
-lily Get up.
-charlie_pace Get off.
-lily Get up. Let it go. Let it go.
-charlie_pace What are you, crazy?
-lily Let it go.
-charlie_pace Get off!
-lily Let it go!
-charlie_pace Get off me.
-lily You're pathetic. You're pathetic.
-charlie_pace Sayid! Sayid, Rousseau's on the beach. She needs you.
-sayid_jarrah Rousseau? What for?
-charlie_pace I don't know.
-sunhwa_kwon Help! Someone! Help!
-charlie_pace My god!
-sayid_jarrah What happened?
-sunhwa_kwon Her head.
-claire_littleton Where -- where is my baby?
-charlie_pace Oh, my god.
-claire_littleton Is he alright?
-sayid_jarrah Rousseau, was she alone?
-claire_littleton Did she take my baby? Did she take my baby?!
-sayid_jarrah Claire, which way did she go?
-claire_littleton I don't know! She took my baby!
-charlie_pace This is your fault! You brought her into the camp! If you had just given me a gun!
-sayid_jarrah Do not hit me again. You want to waste time assigning blame? There's plenty to go around. She has a head start. If we leave now we can catch her.
-charlie_pace How are we going to do that?!
-sayid_jarrah Because I know where she's going.
-claire_littleton I want my baby!
-dr_jack_shephard We can carry all the sticks in my pack. The more insulation we stuff in the better.
-john_locke I think we should split them up.
-dr_jack_shephard What?
-john_locke It's not smart to keep it all together. So, we split them up. If we need 3 sticks to blow the hinge then we should bring 6 -- 3 and 3 -- failsafe, in case one of us...
-dr_jack_shephard You and me, then.
-kate_austen No, I'm -- I'm taking one.
-dr_jack_shephard It's not going to happen, no.
-kate_austen This is why I came.
-dr_jack_shephard Then, you wasted a trip.
-kate_austen I need to do this.
-dr_jack_shephard Kate, no one owes anyone anything.
-kate_austen I'm carrying one.
-dr_jack_shephard We're done here.
-kate_austen This is not your decision.
-dr_jack_shephard Kate, yes it is.
-john_locke We'll draw straws. They're coming. We don't have time to argue about who gets to risk their life, so -- we'll let fate decide.
-kate_austen Works for me.
-dr_jack_shephard What about you? You want to carry some dynamite, too? What?
-hugo_reyes You got some... Arnzt on you.
-john_locke Short sticks carry the packs. Looks like it's me and you, Kate.
-walt_lloyd So, what's this stuff even do?
-michael_dawson Well, the transmitter sends out an SOS in case someone's listening. And if there's anything out there, we'll see it on this radar screen here.
-michael_dawson Here we go. C'mon, someone find us.
-walt_lloyd Those are the messages everybody wrote.
-james_ford Sure are.
-walt_lloyd They're private.
-james_ford Yep. I, for one, never knew how much Tracy missed her hubby and 2 kids back in Fresno. Yet she's sleeping next to good old Scott to keep her warm at night.
-walt_lloyd That's Steve. Scott's dead.
-james_ford Whatever. It's alright, Kazoo, we've got to keep ourselves entertained. Who the hell is Hugo and how's he got a 160 million dollars to leave to his mom.
-walt_lloyd How would you like it if I read yours?
-james_ford You can't read mine because I didn't write one.
-walt_lloyd Why not?
-james_ford Because the only one I ever wrote is to the man I'm going to kill.
-walt_lloyd Why you going to kill him?
-james_ford Because I need to.
-walt_lloyd Why?
-james_ford Because!
-charlie_pace Are you bloody joking?! Why would she go for the black smoke?! Isn't that where the Others are supposed to be?!
-sayid_jarrah The Others are precisely why she would go there. Rousseau told us she saw black smoke the day her own child was taken 16 years ago. They took something from her, and now she believes she has something that they want.
-charlie_pace She's making a trade?
-sayid_jarrah I believe she is, yes.
-charlie_pace That's insane. She's insane.
-sayid_jarrah Don't try to apply reason to her actions. She's a mother who lost her child, just like Claire. This isn't about revenge. Don't make it personal.
-claire_littleton I'm coming with you.
-sayid_jarrah That's not a good idea, Claire.
-claire_littleton This is my baby, okay?! I let her take him!
-charlie_pace Hey, hey.
-claire_littleton Don't tell me what to do, okay!
-charlie_pace Calm down!
-claire_littleton I am going to come with you! This is my fault and I'm coming and you can't stop me!
-charlie_pace It's alright, Claire.
-claire_littleton Get him back, Charlie. Get Aaron back.
-charlie_pace Aaron?
-claire_littleton Please, get him back.
-charlie_pace Claire, I will get him back. Promise.
-michael_dawson Hey, you want something to eat? I guess that's a no, then. If you're worried about Vincent, he going to be okay, man. Dogs fly in the luggage compartment all the time. -- Alright, I've got to call work, right over there. Don't go anywhere, okay?
-michael_dawson No, I live in a studio apartment. I've got to be out the door in the morning for work by 5am. Who's going to watch him? How's he going to get to school? What's he going to do after school? I can't do this, ma. -- You know, I was -- listen, I was thinking -- I was thinking maybe you could take him. -- Look, ma, if it's a question of money, I... What am I supposed to do with him?! He's not supposed to be mine! He was never part of the plan. Yeah, I -- thanks a lot. Hey, man, I was, uh...
-walt_lloyd I need new batteries.
-michael_dawson Hey, want to try?
-walt_lloyd What?
-michael_dawson C'mon, come here. You drive for a while.
-walt_lloyd Really?
-michael_dawson Absolutely. Okay now, look, the most important part of this boat is the rudder. It's how you steer. You turn it gradually -- nothing sharp, okay. Push it this way.
-walt_lloyd Where are we going?
-michael_dawson Look, so, we're going approximately North by Northeast. So, hopefully that puts us into a shipping lane, or we hit some land.
-walt_lloyd What do I aim for?
-michael_dawson See that cloud on the horizon, right there?
-walt_lloyd Yeah.
-michael_dawson You aim for that.
-walt_lloyd Yep.
-michael_dawson Okay.
-walt_lloyd Got it. -- How come you and my mom didn't stay together?
-michael_dawson We tried. It just didn't work out, so -- our lives, our interests -- we just went in different directions.
-walt_lloyd How come I never saw you?
-michael_dawson Because your Mom didn't want me to. She did what she thought was best for you.
-walt_lloyd She was wrong.
-jinsoo_kwon Rudder!
-michael_dawson Hey, we hit a log! We lost the rudder.
-jinsoo_kwon Rudder! Rudder!
-michael_dawson We're losing it! It's sinking!
-michael_dawson Stop the boat. Stop the boat. Just pull the sail down. Right.
-walt_lloyd Dad!
-michael_dawson Sawyer! Sawyer! Give me the rope.
-jinsoo_kwon Rope!
-michael_dawson Sawyer!
-james_ford It's sinking!
-james_ford I can't reach it!
-jinsoo_kwon 다시 던져봐.
-michael_dawson Got it?
-jinsoo_kwon 먼저 묶고!
-michael_dawson Tie it around the rudder, we'll pull you in!
-michael_dawson C'mon, buddy. You just saved our asses, buddy.
-michael_dawson Here's your shirt. You should put that back on before you burn.
-kate_austen Sorry.
-dr_jack_shephard Yeah, well, luck of the draw.
-john_locke The sun sets in 90 minutes, give or take. If we want to get back to the Hatch we're going to have to hustle.
-dr_jack_shephard Okay, this is how we do this. I'll lead -- Kate, you're right behind me, then Hurley. John, you bring up the rear. If you start to see me heading the wrong way-
-john_locke We should stagger our formation -- keep a safe distance from each other.
-dr_jack_shephard Alright, we stagger. If anyone hears anything or sees anything...
-hugo_reyes Like the security system that eats people?
-dr_jack_shephard Yeah, like that. You two, you take your packs off, you put them down and you run. You got it?
-kate_austen Got it.
-john_locke Yes, sir.
-dr_jack_shephard Okay, let's do this.
-sunhwa_kwon He died bravely.
-shannon_rutherford What?
-sunhwa_kwon Your brother.
-shannon_rutherford Yeah. Thanks.
-sunhwa_kwon Do you think all this -- all we've been through -- do you think we're being punished?
-shannon_rutherford Punished for what?
-sunhwa_kwon Things we did before -- the secrets we kept, the lies we told.
-shannon_rutherford Who do you think is punishing us?
-sunhwa_kwon Fate.
-claire_littleton No one's punishing us. There's no such thing as fate.
-sayid_jarrah Are you okay?
-charlie_pace I'm fine, keep going.
-sayid_jarrah We're losing the light. Try to keep up.
-charlie_pace I'm coming. Sayid! Sayid! -- Sayid!
-sayid_jarrah Over here.
-charlie_pace Sayid?!
-sayid_jarrah You can barely breathe. We're going to rest.
-charlie_pace Rest? She's out there right now...
-sayid_jarrah In another mile you're going to collapse. We're going to take a break.
-charlie_pace Is this where Boone fell?
-sayid_jarrah The plane was up there.
-charlie_pace Where did it come from?
-sayid_jarrah Based on the maps inside -- Nigeria.
-charlie_pace Anyone on board?
-sayid_jarrah Two men dressed as priests.
-charlie_pace Priests?
-sayid_jarrah Drug runners in disguise. The plane was loaded with heroin. Alright, now we go.
-hugo_reyes So, dude? What do you think is inside of that hatch thing?
-john_locke What do you think is inside it?
-hugo_reyes Stacks of TV dinners from the 50's, or something. And TVs with cable, some cell phones, clean socks, soap, Twinkies -- you know, for dessert, after the TV dinners. Twinkies keep for, like, 8000 years, man.
-john_locke I like Twinkies, too.
-hugo_reyes C'mon, really, what do you think is inside?
-john_locke Hope. I think hope's inside.
-hugo_reyes Whoever named this place Dark Territory? Genius.
+charlie_pace I killed a murderer .
+charlie_pace I did us all a favor .
+sayid_jarrah Charlie , you're emotionally involved .
+sayid_jarrah Let me handle the weapons .
+charlie_pace But you're not here all the time .
+charlie_pace You can't protect Claire .
+charlie_pace Look , I need a gun !
+sayid_jarrah If you really want to help Claire , get her packed , carry her child to the caves .
+sayid_jarrah That's what she needs .
+hugo_reyes How exactly does something like this happen ?
+danielle_rousseau Are you on the same Island as I am ?
+hugo_reyes I guess that explains it .
+dr_leslie_arzt Hold on , wait , hold on .
+dr_leslie_arzt Hold , wait .
+dr_leslie_arzt What are we a couple miles inland ?
+dr_leslie_arzt A tsunami probably swept it here , huh
+dr_leslie_arzt , right ?
+dr_jack_shephard Hey , hey , where are you going ?
+danielle_rousseau Explosives are in the hold of the ship .
+dr_jack_shephard Rousseau , wait .
+danielle_rousseau I did what you asked .
+danielle_rousseau You need dynamite , you don't need me .
+john_locke Let her go , Jack .
+dr_jack_shephard Who's going to lead us back ?
+john_locke I'll lead us back .
+dr_jack_shephard Damn it .
+dr_jack_shephard You heard her -- the explosives are in the hold .
+dr_jack_shephard Let's go .
+dr_leslie_arzt Whoa , whoa , hold on , hold on .
+dr_leslie_arzt I came here to tell you how to handle dynamite , not explore some ghost ship
+dr_leslie_arzt , you think I'm go-
+dr_jack_shephard Alright , just stay out here .
+hugo_reyes Uh , I'm going to stay out here and hang with Arnzt .
+john_locke Slaves .
+john_locke This ship must have been in route to a mining colony -- probably set off from the eastern coast of Africa -- Mozambique .
+kate_austen Jack , John , over here .
+dr_leslie_arzt And then my 3rd wife , she says , get this , she says , " I didn't sign up for this .
+dr_leslie_arzt "
+dr_leslie_arzt Now you tell me , what the hell is that even supposed to mean ?
+dr_leslie_arzt What , am -- am I boring you ?
+hugo_reyes Huh ?
+dr_leslie_arzt You know what ?
+dr_leslie_arzt I'm --
+dr_leslie_arzt I'm sorry ,
+dr_leslie_arzt I'm so ...
+dr_leslie_arzt I'm sorry that I'm not cool enough to be part of your merry little band of adventurers .
+hugo_reyes What ?
+dr_leslie_arzt I know a clique when I see it .
+dr_leslie_arzt I teach high school , pal-y .
+dr_leslie_arzt You know , you people think you're the only ones on this Island doing anything of value .
+dr_leslie_arzt I've got news for you .
+dr_leslie_arzt There were 40 other survivors of this plane crash .
+dr_leslie_arzt And we are all people , too .
+hugo_reyes O-kay .
+kate_austen You know what ?
+kate_austen We could probably get it open if I just-
+dr_jack_shephard No , no , no , we should take it outside .
+kate_austen Why ?
+kate_austen We don't even know if it's ...
+dr_jack_shephard You're not prying open a crate that says explosives on the side with a pick axe , Kate .
+john_locke Yeah , I agree with Jack -- take it outside , open it there .
+kate_austen Okay .
+dr_jack_shephard I got it .
+dr_jack_shephard You mind showing us the way ?
+dr_leslie_arzt And it's not just the teenagers , either .
+dr_leslie_arzt You know , the gym teachers -- you think they let me sit with them in the cafeteria ?
+dr_leslie_arzt No .
+dr_leslie_arzt They do not .
+hugo_reyes Dude , this is all in your head .
+dr_leslie_arzt Really ?
+dr_leslie_arzt Then you explain to me why Kate gets the best pieces of wreckage to build her shelter ?
+dr_leslie_arzt And the Korean guy ?
+dr_leslie_arzt Does he catch fish for everybody on the Island ?
+dr_leslie_arzt No , he does not .
+dr_leslie_arzt He doesn't .
+dr_leslie_arzt And some of us have actually lost weight while we were here .
+dr_leslie_arzt Now , would mind telling me where you're hiding the carbs because I can't figure ...
+dr_leslie_arzt What the hell are you people doing? !
+dr_leslie_arzt Wait , wait , stop , stop , right where you are .
+dr_leslie_arzt Alright , I want you to put that down carefully .
+dr_leslie_arzt Put it down carefully .
+dr_leslie_arzt Put it gently , gently .
+dr_leslie_arzt Damn it , carefully , gently , gently .
+dr_leslie_arzt Alright , now get out of there .
+dr_leslie_arzt Come away from there .
+dr_leslie_arzt C'mon , get out .
+dr_leslie_arzt Move away from it .
+dr_jack_shephard What the hell are you doing ?
+dr_leslie_arzt Shhh .
+dr_leslie_arzt Be quiet .
+dr_leslie_arzt Do any of you have any idea what happens to dynamite in 90+ degree heat , huh ?
+dr_leslie_arzt So you know ?
+dr_leslie_arzt Any of you ?
+dr_leslie_arzt It sweats nitroglycerin .
+dr_leslie_arzt Whoa , hey , what you doing ?
+dr_leslie_arzt Did I ask you to come closer ?
+dr_leslie_arzt Dynamite is nitroglycerin stabilized by clay .
+dr_leslie_arzt Nitroglycerin is the most dangerous and unstable explosive known to man .
+dr_leslie_arzt Hey , Kate give me your shirt .
+dr_leslie_arzt Now , princess , give me your shirt .
+dr_leslie_arzt I need to wrap the dynamite .
+dr_leslie_arzt Just throw it to me , right here .
+dr_leslie_arzt Be careful , c'mon , hurry up .
+dr_leslie_arzt Okay , good , now back up , back up , back up .
+dr_leslie_arzt Just back up .
+dr_leslie_arzt Get out of my way .
+dr_leslie_arzt Any of you ever hear about the guy who invented nitroglycerin ?
+dr_leslie_arzt Probably not -- because he blew his freaking face off .
+dr_leslie_arzt His lab assistant came into the room , saw that his mentor detonated , and he said , " Huh , I guess this stuff does work . "
+dr_leslie_arzt Alright , we're not going to take any more of this stuff than we need because nitroglycerin is extremely temperamental , so we-
+hugo_reyes Dude .
+airport_cop  Sorry for the inconvenience .
+sayid_jarrah I'm sure you are .
+airport_cop Sir , your bag was unattended .
+sayid_jarrah Am I free to go ?
+airport_cop Yes , sir .
+sayid_jarrah Good , I have a plane to catch .
+hawaiian_shirt Hey , could you hand me a paper towel there
+hawaiian_shirt , bud ?
+hawaiian_shirt A paper towel -- this one's broken .
+hawaiian_shirt Oh , oh , you don't speak English .
+hawaiian_shirt Sorry .
+hawaiian_shirt ¡ .
+walt_lloyd Dad , look !
+michael_dawson How does a place this big never get discovered ?
+james_ford Don't know , but you could build yourself one hell of a beach resort right over there .
+michael_dawson Yeah , you build your resort .
+michael_dawson I'm happy to say goodbye to this place forever .
+walt_lloyd What about everybody else ?
+walt_lloyd Think they'll be okay ?
+michael_dawson I hope so , buddy .
+michael_dawson At least until we can get them some help .
+james_ford Redemption song is all I'll ever have ...
+michael_dawson You singing Bob Marley ?
+james_ford No .
+james_ford Why , you like Bob Marley ?
+michael_dawson Man , who doesn't like Bob Marley ?
+shannon_rutherford Damn it !
+sayid_jarrah Do you really need all that ?
+shannon_rutherford Yeah , I do .
+sayid_jarrah Why do you have to bring so much ?
+shannon_rutherford Don't you have a hike to lead ?
+shannon_rutherford I'm fine .
+sayid_jarrah These belong to your brother .
+shannon_rutherford I need these things .
+shannon_rutherford I can't just leave them .
+shannon_rutherford What are we doing ?
+shannon_rutherford Hiding ?
+shannon_rutherford As if they won't find us .
+shannon_rutherford It's just -- it's too much .
+shannon_rutherford It's too much .
+sayid_jarrah It won't be too much if I carry it for you .
+sayid_jarrah Now come on , I have a hike to lead .
+kate_austen You okay ?
+hugo_reyes That was messed up .
+kate_austen Yeah .
+hugo_reyes He just ...exploded in front of us .
+hugo_reyes He was just trying to help .
+hugo_reyes This is because I came .
+kate_austen What ?
+hugo_reyes I'm kind of bad luck .
+kate_austen Hey , it was an accident .
+hugo_reyes An accident ,
+hugo_reyes yeah .
+dr_jack_shephard Locke , we should think about this .
+john_locke Alright .
+dr_jack_shephard Maybe this isn't the best way .
+john_locke It's the only way , Jack .
+dr_jack_shephard How many do we need to blow the Hatch ?
+john_locke Two should take care of the hinge , three to be safe .
+dr_jack_shephard Safe ?
+john_locke I'm removing the driest pieces to minimize our risk transporting it .
+john_locke You ever play " Operation " ?
+dr_jack_shephard Sure .
+dr_jack_shephard Don't touch the sides .
+john_locke I -- I always got nailed on the funny bone .
+john_locke Bzzzt !
+dr_jack_shephard You like to play games , John ?
+john_locke Absolutely .
+charlie_pace Okay , I know we're in a rush to escape to the caves , so I solved the turniphead transport issue .
+charlie_pace This is just a blanket from the plane .
+charlie_pace And then there's a piece of wood here that goes through this bamboo .
+charlie_pace Here you go .
+charlie_pace It's a Bjorn .
+claire_littleton A bjorn ?
+charlie_pace Bjorn -- it's Dutch for baby carrier .
+claire_littleton Yeah , thanks .
+charlie_pace That's okay .
+claire_littleton Thank you .
+charlie_pace Oh , that's okay .
+claire_littleton Thanks .
+claire_littleton I'll just put him in there .
+charlie_pace It's really ...
+danielle_rousseau Sayid !
+danielle_rousseau Where is he ?
+charlie_pace Rousseau !
+charlie_pace What ?
+danielle_rousseau Sayid ?
+danielle_rousseau Where is he ?
+charlie_pace He already left .
+danielle_rousseau I need him now .
+charlie_pace Jack and Kate ...
+danielle_rousseau There's no time .
+danielle_rousseau Where is Sayid ?
+charlie_pace Alright , just calm down , okay .
+charlie_pace I'll get him for you .
+charlie_pace Stay here , alright .
+claire_littleton Okay .
+charlie_pace Sayid !
+charlie_pace Sayid !
+claire_littleton What happened out there ?
+danielle_rousseau What is his name ?
+danielle_rousseau The child .
+danielle_rousseau What is his name ?
+claire_littleton Oh , I haven't named him yet .
+danielle_rousseau May I hold him ?
+claire_littleton Why do you need Sayid ?
+danielle_rousseau You don't want me to hold him .
+claire_littleton No , I just fed him .
+claire_littleton I don't think it's a good idea , okay ?
+danielle_rousseau Please .
+claire_littleton Why did I do that ?
+claire_littleton Why did I scratch you ?
+lily What's going on ?
+charlie_pace My flight , my flight to LA leaves in a couple of hours -- so I've got to get moving , you know .
+lily You want to do one more bump for the road ?
+charlie_pace It's all gone .
+charlie_pace We did it all last night .
+charlie_pace I have some champagne .
+lily You've got to have some left .
+charlie_pace Mm-mm .
+charlie_pace No .
+charlie_pace It's done .
+charlie_pace I'll look you up next time
+charlie_pace I'm in Sydney ,
+charlie_pace okay ?
+charlie_pace I'll send you an autographed copy of my CD
+charlie_pace and then you can listen to it whenever you want .
+lily I don't want your piece of crap CD from your piece of crap band .
+charlie_pace Last night in the bar you said you were a fan .
+lily Fine .
+lily I'm a huge fan .
+lily Drivethru is the best damned band ever .
+lily Now just give me a bump because I know you've got some .
+charlie_pace Shaft .
+charlie_pace Drive Shaft .
+lily What's that in your hand ?
+charlie_pace Nothing .
+lily Holding out on me ?
+charlie_pace Holding out on you ?
+charlie_pace No , I'm not holding out ...
+lily Give it to me .
+charlie_pace Give you what ?
+charlie_pace I'm not holding anything .
+lily Give it to me .
+charlie_pace I've got nothing in my hand !
+lily Give it to me !
+lily Get up .
+charlie_pace Get off .
+lily Get up .
+lily Let it go .
+lily Let it go .
+charlie_pace What are you , crazy ?
+lily Let it go .
+charlie_pace Get off !
+lily Let it go !
+charlie_pace Get off me .
+lily You're pathetic .
+lily You're pathetic .
+charlie_pace Sayid !
+charlie_pace Sayid , Rousseau's on the beach .
+charlie_pace She needs you .
+sayid_jarrah Rousseau ?
+sayid_jarrah What for ?
+charlie_pace I don't know .
+sunhwa_kwon Help !
+sunhwa_kwon Someone !
+sunhwa_kwon Help !
+charlie_pace My god !
+sayid_jarrah What happened ?
+sunhwa_kwon Her head .
+claire_littleton Where -- where is my baby ?
+charlie_pace Oh , my god .
+claire_littleton Is he alright ?
+sayid_jarrah Rousseau , was she alone ?
+claire_littleton Did she take my baby ?
+claire_littleton Did she take my baby? !
+sayid_jarrah Claire , which way did she go ?
+claire_littleton I don't know !
+claire_littleton She took my baby !
+charlie_pace This is your fault !
+charlie_pace You brought her into the camp !
+charlie_pace If you had just given me a gun !
+sayid_jarrah Do not hit me again .
+sayid_jarrah You want to waste time assigning blame ?
+sayid_jarrah There's plenty to go around .
+sayid_jarrah She has a head start .
+sayid_jarrah If we leave now we can catch her .
+charlie_pace How are we going to do that? !
+sayid_jarrah Because I know where she's going .
+claire_littleton I want my baby !
+dr_jack_shephard We can carry all the sticks in my pack .
+dr_jack_shephard The more insulation we stuff in the better .
+john_locke I think we should split them up .
+dr_jack_shephard What ?
+john_locke It's not smart to keep it all together .
+john_locke So , we split them up .
+john_locke If we need 3 sticks to blow the hinge then we should bring 6 -- 3 and 3 -- failsafe , in case one of us ...
+dr_jack_shephard You and me , then .
+kate_austen No , I'm --
+kate_austen I'm taking one .
+dr_jack_shephard It's not going to happen , no .
+kate_austen This is why I came .
+dr_jack_shephard Then , you wasted a trip .
+kate_austen I need to do this .
+dr_jack_shephard Kate , no one owes anyone anything .
+kate_austen I'm carrying one .
+dr_jack_shephard We're done here .
+kate_austen This is not your decision .
+dr_jack_shephard Kate , yes it is .
+john_locke We'll draw straws .
+john_locke They're coming .
+john_locke We don't have time to argue about who gets to risk their life , so -- we'll let fate decide .
+kate_austen Works for me .
+dr_jack_shephard What about you ?
+dr_jack_shephard You want to carry some dynamite , too ?
+dr_jack_shephard What ?
+hugo_reyes You got some ...
+hugo_reyes Arnzt on you .
+john_locke Short sticks carry the packs .
+john_locke Looks like it's me and you , Kate .
+walt_lloyd So , what's this stuff even do ?
+michael_dawson Well , the transmitter sends out an SOS in case someone's listening .
+michael_dawson And if there's anything out there , we'll see it on this radar screen here .
+michael_dawson Here we go .
+michael_dawson C'mon , someone find us .
+walt_lloyd Those are the messages everybody wrote .
+james_ford Sure are .
+walt_lloyd They're private .
+james_ford Yep .
+james_ford I , for one , never knew how much Tracy missed her hubby and 2 kids back in Fresno .
+james_ford Yet she's sleeping next to good old Scott to keep her warm at night .
+walt_lloyd That's Steve .
+walt_lloyd Scott's dead .
+james_ford Whatever .
+james_ford It's alright
+james_ford , Kazoo , we've got to keep ourselves entertained .
+james_ford Who the hell is Hugo and how's he got a 160 million dollars to leave to his mom .
+walt_lloyd How would you like it if I read yours ?
+james_ford You can't read mine because I didn't write one .
+walt_lloyd Why not ?
+james_ford Because the only one I ever wrote is to the man I'm going to kill .
+walt_lloyd Why you going to kill him ?
+james_ford Because I need to .
+walt_lloyd Why ?
+james_ford Because !
+charlie_pace Are you bloody joking? !
+charlie_pace Why would she go for the black smoke? !
+charlie_pace Isn't that where the Others are supposed to be? !
+sayid_jarrah The Others are precisely why she would go there .
+sayid_jarrah Rousseau told us she saw black smoke the day her own child was taken 16 years ago .
+sayid_jarrah They took something from her , and now she believes she has something that they want .
+charlie_pace She's making a trade ?
+sayid_jarrah I believe she is , yes .
+charlie_pace That's insane .
+charlie_pace She's insane .
+sayid_jarrah Don't try to apply reason to her actions .
+sayid_jarrah She's a mother who lost her child , just like Claire .
+sayid_jarrah This isn't about revenge .
+sayid_jarrah Don't make it personal .
+claire_littleton I'm coming with you .
+sayid_jarrah That's not a good idea , Claire .
+claire_littleton This is my baby , okay? !
+claire_littleton I let her take him !
+charlie_pace Hey , hey .
+claire_littleton Don't tell me what to do , okay !
+charlie_pace Calm down !
+claire_littleton I am going to come with you !
+claire_littleton This is my fault
+claire_littleton and I'm coming
+claire_littleton and you can't stop me !
+charlie_pace It's alright , Claire .
+claire_littleton Get him back , Charlie .
+claire_littleton Get Aaron back .
+charlie_pace Aaron ?
+claire_littleton Please , get him back .
+charlie_pace Claire , I will get him back .
+charlie_pace Promise .
+michael_dawson Hey , you want something to eat ?
+michael_dawson I guess that's a no , then .
+michael_dawson If you're worried about Vincent , he going to be okay , man .
+michael_dawson Dogs fly in the luggage compartment all the time .
+michael_dawson --
+michael_dawson Alright , I've got to call work , right over there .
+michael_dawson Don't go anywhere , okay ?
+michael_dawson No , I live in a studio apartment .
+michael_dawson I've got to be out the door in the morning for work by 5am .
+michael_dawson Who's going to watch him ?
+michael_dawson How's he going to get to school ?
+michael_dawson What's he going to do after school ?
+michael_dawson I can't do this , ma .
+michael_dawson -- You know , I was -- listen , I was thinking -- I was thinking maybe you could take him .
+michael_dawson --
+michael_dawson Look , ma , if it's a question of money , I ...
+michael_dawson What am I supposed to do with him? !
+michael_dawson He's not supposed to be mine !
+michael_dawson He was never part of the plan .
+michael_dawson Yeah , I -- thanks a lot .
+michael_dawson Hey , man , I was , uh ...
+walt_lloyd I need new batteries .
+michael_dawson Hey , want to try ?
+walt_lloyd What ?
+michael_dawson C'mon , come here .
+michael_dawson You drive for a while .
+walt_lloyd Really ?
+michael_dawson Absolutely .
+michael_dawson Okay now , look , the most important part of this boat is the rudder .
+michael_dawson It's how you steer .
+michael_dawson You turn it gradually --
+michael_dawson nothing sharp , okay .
+michael_dawson Push it this way .
+walt_lloyd Where are we going ?
+michael_dawson Look , so , we're going approximately North by Northeast .
+michael_dawson So , hopefully that puts us into a shipping lane , or we hit some land .
+walt_lloyd What do I aim for ?
+michael_dawson See that cloud on the horizon , right there ?
+walt_lloyd Yeah .
+michael_dawson You aim for that .
+walt_lloyd Yep .
+michael_dawson Okay .
+walt_lloyd Got it .
+walt_lloyd -- How come you and my mom didn't stay together ?
+michael_dawson We tried .
+michael_dawson It just didn't work out , so -- our lives , our interests -- we just went in different directions .
+walt_lloyd How come I never saw you ?
+michael_dawson Because your Mom didn't want me to .
+michael_dawson She did what she thought was best for you .
+walt_lloyd She was wrong .
+jinsoo_kwon Rudder !
+michael_dawson Hey , we hit a log !
+michael_dawson We lost the rudder .
+jinsoo_kwon Rudder !
+jinsoo_kwon Rudder !
+michael_dawson We're losing it !
+michael_dawson It's sinking !
+michael_dawson Stop the boat .
+michael_dawson Stop the boat .
+michael_dawson Just pull the sail down .
+michael_dawson Right .
+walt_lloyd Dad !
+michael_dawson Sawyer !
+michael_dawson Sawyer !
+michael_dawson Give me the rope .
+jinsoo_kwon Rope !
+michael_dawson Sawyer !
+james_ford It's sinking !
+james_ford I can't reach it !
+michael_dawson Got it ?
+michael_dawson Tie it around the rudder , we'll pull you in !
+michael_dawson C'mon , buddy .
+michael_dawson You just saved our asses , buddy .
+michael_dawson Here's your shirt .
+michael_dawson You should put that back on before you burn .
+kate_austen Sorry .
+dr_jack_shephard Yeah , well , luck of the draw .
+john_locke The sun sets in 90 minutes , give or take .
+john_locke If we want to get back to the Hatch we're going to have to hustle .
+dr_jack_shephard Okay , this is how we do this .
+dr_jack_shephard I'll lead -- Kate
+dr_jack_shephard , you're right behind me , then Hurley .
+dr_jack_shephard John , you bring up the rear .
+dr_jack_shephard If you start to see me heading the wrong way-
+john_locke We should stagger our formation -- keep a safe distance from each other .
+dr_jack_shephard Alright , we stagger .
+dr_jack_shephard If anyone hears anything or sees anything ...
+hugo_reyes Like the security system that eats people ?
+dr_jack_shephard Yeah , like that .
+dr_jack_shephard You two , you take your packs off , you put them down and you run .
+dr_jack_shephard You got it ?
+kate_austen Got it .
+john_locke Yes , sir .
+dr_jack_shephard Okay , let's do this .
+sunhwa_kwon He died bravely .
+shannon_rutherford What ?
+sunhwa_kwon Your brother .
+shannon_rutherford Yeah .
+shannon_rutherford Thanks .
+sunhwa_kwon Do you think all this
+sunhwa_kwon -- all we've been through -- do you think we're being punished ?
+shannon_rutherford Punished for what ?
+sunhwa_kwon Things we did before -- the secrets we kept , the lies we told .
+shannon_rutherford Who do you think is punishing us ?
+sunhwa_kwon Fate .
+claire_littleton No one's punishing us .
+claire_littleton There's no such thing as fate .
+sayid_jarrah Are you okay ?
+charlie_pace I'm fine , keep going .
+sayid_jarrah We're losing the light .
+sayid_jarrah Try to keep up .
+charlie_pace I'm coming .
+charlie_pace Sayid !
+charlie_pace Sayid !
+charlie_pace -- Sayid !
+sayid_jarrah Over here .
+charlie_pace Sayid? !
+sayid_jarrah You can barely breathe .
+sayid_jarrah We're going to rest .
+charlie_pace Rest ?
+charlie_pace She's out there right now ...
+sayid_jarrah In another mile you're going to collapse .
+sayid_jarrah We're going to take a break .
+charlie_pace Is this where Boone fell ?
+sayid_jarrah The plane was up there .
+charlie_pace Where did it come from ?
+sayid_jarrah Based on the maps inside -- Nigeria .
+charlie_pace Anyone on board ?
+sayid_jarrah Two men dressed as priests .
+charlie_pace Priests ?
+sayid_jarrah Drug runners in disguise .
+sayid_jarrah The plane was loaded with heroin .
+sayid_jarrah Alright , now we go .
+hugo_reyes So , dude ?
+hugo_reyes What do you think is inside of that hatch thing ?
+john_locke What do you think is inside it ?
+hugo_reyes Stacks of TV dinners from the 50's , or something .
+hugo_reyes And TVs with cable , some cell phones , clean socks , soap , Twinkies -- you know , for dessert , after the TV dinners .
+hugo_reyes Twinkies keep for , like , 8000 years , man .
+john_locke I like Twinkies , too .
+hugo_reyes C'mon , really , what do you think is inside ?
+john_locke Hope .
+john_locke I think hope's inside .
+hugo_reyes Whoever named this place Dark Territory ?
+hugo_reyes Genius .

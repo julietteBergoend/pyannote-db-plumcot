@@ -1,390 +1,735 @@
-shane_walsh Hey hey. Whoa whoa 
-shane_walsh Ma'am. Ma'am, please. Please, can you help me?
-nurse No no! 
-man#unknown#TheWalkingDead.Season01.Episode06 Check them all. Check them all     
-shane_walsh Okay. I'm gonna get you out of here, bud   
-shane_walsh Okay. Okay 
-shane_walsh What do I do? 
-man#unknown#TheWalkingDead.Season01.Episode06 Come on, corporal. Move out! 
-shane_walsh Listen to me. If you're gonna wake up, I need you to do it now. Okay? Now. Please, man, you just show me a sign, anything. Please rick
-man#unknown#TheWalkingDead.Season01.Episode06 The place is coming down! Fall back! All units fall back 
-shane_walsh I'm. I'm okay    The group is just outside the C. D. C. still standing in the light from the open doorway.
-shane_walsh Daryl, you cover the back
-rick_grimes Hello? Hello?
-dale_horvath Close those doors. Watch for walkers 
-rick_grimes Hello? 
-edwin_jenner Anybody infected?
-rick_grimes One of our group was. He didn't make it
-edwin_jenner Why are you here? What do you want?
+shane_walsh Hey hey .
+shane_walsh Whoa whoa Ma'am . Ma'am , please .
+shane_walsh Please , can you help me ?
+nurse No no !
+man#unknown#TheWalkingDead.Season01.Episode06 Check them all .
+man#unknown#TheWalkingDead.Season01.Episode06 Check them all
+shane_walsh Okay .
+shane_walsh I'm gonna get you out of here ,
+shane_walsh bud
+shane_walsh Okay .
+shane_walsh Okay
+shane_walsh What do I do ?
+man#unknown#TheWalkingDead.Season01.Episode06 Come on , corporal .
+man#unknown#TheWalkingDead.Season01.Episode06 Move out !
+shane_walsh Listen to me .
+shane_walsh If you're gonna wake up , I need you to do it now .
+shane_walsh Okay ?
+shane_walsh Now .
+shane_walsh Please , man , you just show me a sign , anything .
+shane_walsh Please rick
+man#unknown#TheWalkingDead.Season01.Episode06 The place is coming down !
+man#unknown#TheWalkingDead.Season01.Episode06 Fall back !
+man#unknown#TheWalkingDead.Season01.Episode06 All units fall back
+shane_walsh I'm .
+shane_walsh I'm okay
+shane_walsh Daryl , you cover the back
+rick_grimes Hello ?
+rick_grimes Hello ?
+dale_horvath Close those doors .
+dale_horvath Watch for walkers
+rick_grimes Hello ?
+edwin_jenner Anybody infected ?
+rick_grimes One of our group was .
+rick_grimes He didn't make it
+edwin_jenner Why are you here ?
+edwin_jenner What do you want ?
 rick_grimes A chance
 edwin_jenner That's asking an awful lot these days
-rick_grimes I know 
-edwin_jenner You all submit to a blood test. That's the price of admission
-rick_grimes We can do that 
-edwin_jenner You got stuff to bring in, you do it now. Once this door closes it stays closed 
-edwin_jenner Vi, seal the main entrance. Kill the power up here
-rick_grimes rick Grimes 
-edwin_jenner Dr. edwin jenner
-daryl_dixon Doctors always go around packing heat like that?
-edwin_jenner There were plenty left lying around. I familiarized myself. But you look harmless enough. Except you, I'll have to keep my eye on you    
-carol_peletier Are we underground?
-edwin_jenner Are you claustrophobic?
+rick_grimes I know
+edwin_jenner You all submit to a blood test .
+edwin_jenner That's the price of admission
+rick_grimes We can do that
+edwin_jenner You got stuff to bring in , you do it now .
+edwin_jenner Once this door closes it stays closed Vi , seal the main entrance .
+edwin_jenner Kill the power up here
+rick_grimes rick Grimes
+edwin_jenner Dr .
+edwin_jenner edwin jenner
+daryl_dixon Doctors always go around packing heat like that ?
+edwin_jenner There were plenty left lying around .
+edwin_jenner I familiarized myself .
+edwin_jenner But you look harmless enough .
+edwin_jenner Except you , I'll have to keep my eye on you
+carol_peletier Are we underground ?
+edwin_jenner Are you claustrophobic ?
 carol_peletier A little
-edwin_jenner Try not to think about it 
-edwin_jenner Vi, bring up the lights in the big room. Welcome to zone 5
-rick_grimes Where is everybody? The other doctors, the staff?
-edwin_jenner I'm it. It's just me here
-lori_grimes What about the person you were speaking with? Vi?
-edwin_jenner Vi, say hello to our guests. Tell them. welcome
-computer#unknown#TheWalkingDead.Season01.Episode06 Hello, guests. Welcome
-edwin_jenner I'm all that's left. I'm sorry 
-andrea_harrison What's the point? If we were infected, we'd all be running a fever
-edwin_jenner I've already broken every rule in the book letting you in here. Let me just at least be thorough. All done
-andrea_harrison Ooh 
-edwin_jenner Are you okay?
+edwin_jenner Try not to think about it Vi , bring up the lights in the big room .
+edwin_jenner Welcome to zone 5
+rick_grimes Where is everybody ?
+rick_grimes The other doctors , the staff ?
+edwin_jenner I'm it .
+edwin_jenner It's just me here
+lori_grimes What about the person you were speaking with ?
+lori_grimes Vi ?
+edwin_jenner Vi , say hello to our guests .
+edwin_jenner Tell them .
+edwin_jenner welcome
+computer#unknown#TheWalkingDead.Season01.Episode06 Hello , guests .
+computer#unknown#TheWalkingDead.Season01.Episode06 Welcome
+edwin_jenner I'm all that's left .
+edwin_jenner I'm sorry
+andrea_harrison What's the point ?
+andrea_harrison If we were infected , we'd all be running a fever
+edwin_jenner I've already broken every rule in the book letting you in here .
+edwin_jenner Let me just at least be thorough .
+edwin_jenner All done
+andrea_harrison Ooh
+edwin_jenner Are you
+edwin_jenner okay ?
 andrea_harrison Mmm
-jacqui She hasn't eaten in days. None of us have 
+jacqui She hasn't eaten in days .
+jacqui None of us have
 lori_grimes Fine
-dale_horvath You know, in Italy, children have a little bit of wine with dinner. And in France
-lori_grimes Well, when carl is in Italy or France, he can have some then
-rick_grimes What's it gonna hurt? Come on. Come on
-carl_grimes What? 
-dale_horvath There you are, young lad 
+dale_horvath You know , in Italy , children have a little bit of wine with dinner .
+dale_horvath And in France
+lori_grimes Well , when carl is in Italy or France , he can have some then
+rick_grimes What's it gonna hurt ?
+rick_grimes Come on .
+rick_grimes Come on
+carl_grimes What ?
+dale_horvath There you are , young lad
 carl_grimes Eww
-lori_grimes That's my boy. That's my boy. Good boy 
-carl_grimes Yuck. That tastes nasty
-shane_walsh Well, just stick to soda pop there, bud
-daryl_dixon Not you, glenn
-glenn_rhee What?
-daryl_dixon Keep drinking, little man. I want to see how red your face can get 
+lori_grimes That's my boy .
+lori_grimes That's my boy .
+lori_grimes Good boy
+carl_grimes Yuck .
+carl_grimes That tastes nasty
+shane_walsh Well , just stick to soda pop there
+shane_walsh , bud
+daryl_dixon Not you , glenn
+glenn_rhee What ?
+daryl_dixon Keep drinking , little man .
+daryl_dixon I want to see how red your face can get
 rick_grimes It seems to me we haven't thanked our host properly
 theodore_douglas He is more than just our host
-dale_horvath Hear hear!
-daryl_dixon Here's to you, Doc. Booyah!
-dale_horvath Booyah!
-rick_grimes Thank you. Thank you, doctor
-theodore_douglas Booyah!
-shane_walsh So when are you gonna tell us what the Hell happened here, Doc? All the—the other doctors that were supposed to be figuring out what happened, where are they?
-rick_grimes We're celebrating, Shane. Don't need to do this now
-shane_walsh Whoa, wait a second. This is why we're here, right? This was your move—supposed to find all the answers. Instead we— we found him. Found one man, why?
-edwin_jenner Well, when things got bad, a lot of people just left, went off to be with their families. And when things got worse, when the military cordon got overrun, the rest bolted
-shane_walsh Every last one?
-edwin_jenner No, many couldn't face walking out the door. They. opted out. There was a rash of suicides. That was a bad time
-andrea_harrison You didn't leave. Why?
-edwin_jenner I just kept working, hoping to do some good
-glenn_rhee Dude, you are such a buzzkill, man 
-edwin_jenner Most of the facility is powered down including housing so you'll have to make do here. The couches are comfortable, but there are cots in storage if you like. There's a rec room down the hall that you kids might enjoy. Just don't plug in the video games, okay? Or anything that draws power. The same applies—if you shower, go easy on the hot water
-glenn_rhee Hot water?
-theodore_douglas That's what the man said lori stands under the running water, ecstatic. t-dog lets the water run over his head in his shower. And glenn does the same.
-glenn_rhee Ah!  
-dale_horvath Hey 
-dale_horvath Andrea? 
-dale_horvath That's it. That's it. Get it out. There you go
-andrea_harrison Oh. god 
-andrea_harrison Oh. Everything's gone
-dale_horvath It's always better going down than coming up, huh?
-andrea_harrison I don't mean the wine, Dale. You know, it's over. There's nothing left. Don't you see that?
-dale_horvath Oh, I—I see a—a chance to make a new start
-andrea_harrison Oh my God, Dale. Dale, didn't you see the look on Jenner's face? Hear what I'm saying. There's nothing left 
-rick_grimes How's the blood?
+dale_horvath Hear hear !
+daryl_dixon Here's to you , Doc .
+daryl_dixon Booyah !
+dale_horvath Booyah !
+rick_grimes Thank you .
+rick_grimes Thank you , doctor
+theodore_douglas Booyah !
+shane_walsh So when are you gonna tell us what the Hell happened here ,
+shane_walsh Doc ?
+shane_walsh All the-the other doctors that were supposed to be figuring out what happened , where are they ?
+rick_grimes We're celebrating , Shane .
+rick_grimes Don't need to do this now
+shane_walsh Whoa , wait a second .
+shane_walsh This is why we're here , right ?
+shane_walsh This was your move-supposed to find all the answers .
+shane_walsh Instead we-
+shane_walsh we found him .
+shane_walsh Found one man , why ?
+edwin_jenner Well , when things got bad , a lot of people just left , went off to be with their families .
+edwin_jenner And when things got worse , when the military cordon got overrun , the rest bolted
+shane_walsh Every last one ?
+edwin_jenner No , many couldn't face walking out the door .
+edwin_jenner They . opted out .
+edwin_jenner There was a rash of suicides .
+edwin_jenner That was a bad time
+andrea_harrison You didn't leave .
+andrea_harrison Why ?
+edwin_jenner I just kept working , hoping to do some good
+glenn_rhee Dude , you are such a buzzkill , man
+edwin_jenner Most of the facility is powered down including housing
+edwin_jenner so you'll have to make do here .
+edwin_jenner The couches are comfortable , but there are cots in storage if you like .
+edwin_jenner There's a rec room down the hall that you kids might enjoy .
+edwin_jenner Just don't plug in the video games , okay ?
+edwin_jenner Or anything that draws power .
+edwin_jenner The same applies-if you shower , go easy on the hot water
+glenn_rhee Hot water ?
+theodore_douglas That's what the man said lori stands under the running water , ecstatic .
+glenn_rhee Ah !
+dale_horvath Hey Andrea ?
+dale_horvath That's it .
+dale_horvath That's it .
+dale_horvath Get it out .
+dale_horvath There you go
+andrea_harrison Oh .
+andrea_harrison god
+andrea_harrison Oh .
+andrea_harrison Everything's gone
+dale_horvath It's always better going down than coming up , huh ?
+andrea_harrison I don't mean the wine , Dale .
+andrea_harrison You know , it's over .
+andrea_harrison There's nothing left .
+andrea_harrison Don't you see that ?
+dale_horvath Oh , I-I see a-a chance to make a new start
+andrea_harrison Oh my God , Dale .
+andrea_harrison Dale , didn't you see the look on Jenner's face ?
+andrea_harrison Hear what I'm saying .
+andrea_harrison There's nothing left
+rick_grimes How's the blood ?
 edwin_jenner No surprises
 rick_grimes I came to thank you
-edwin_jenner You did 
-edwin_jenner You all--you all right?
-rick_grimes You don't know what it's like. You don't know what it's like out there. You may think you do, but you don't. We'd have died out there. It was only a matter of time. There's too many of those things. My—My boy. My—My wife, I never—I never told 'em what I really thought. I never even hinted, just—just kept it in. kept it in and kept us moving, you know. Just kept it in. Kept us. 
-edwin_jenner It'll all be okay. It'll be okay 
-lori_grimes Any good books?
-carol_peletier Uh-huh. Enough to keep us busy for years. All right. Come on, kids, it's bed time
-lori_grimes Baby, go say your prayers. I'm gonna browse a bit
-carol_peletier Come on. This is the first night we might actually get some real sleep
+edwin_jenner You did You all--
+edwin_jenner you all right ?
+rick_grimes You don't know what it's like .
+rick_grimes You don't know what it's like out there .
+rick_grimes You may think you do , but you don't .
+rick_grimes We'd have died out there .
+rick_grimes It was only a matter of time .
+rick_grimes There's too many of those things .
+rick_grimes My-My boy .
+rick_grimes My
+rick_grimes -My wife , I never-I never told 'em what I really thought .
+rick_grimes I never even hinted , just-just kept it in .
+rick_grimes kept it in and kept us moving , you know .
+rick_grimes Just kept it in .
+rick_grimes Kept us .
+edwin_jenner It'll all be okay .
+edwin_jenner It'll be okay
+lori_grimes Any good books ?
+carol_peletier Uh-huh .
+carol_peletier Enough to keep us busy for years .
+carol_peletier All right .
+carol_peletier Come on , kids , it's bed time
+lori_grimes Baby , go say your prayers .
+lori_grimes I'm gonna browse a bit
+carol_peletier Come on .
+carol_peletier This is the first night we might actually get some real sleep
 lori_grimes Hmm
-carol_peletier It's a miracle, isn't it?   
-lori_grimes Jesus, you scared me
-shane_walsh I'm gonna tell you a few things and you're gonna listen to me
-lori_grimes Now is not the time 
-shane_walsh Come on. When is it ever the time? 
-shane_walsh How can you treat me like this? 
-lori_grimes You're kidding, right?
-shane_walsh No. Huh-uh
-lori_grimes Because you told me my husband was dead 
-shane_walsh Jesus, Lori. I didn't lie to you, all right? I didn't. Do you know what it was like there? Huh? 
-shane_walsh Stop. Things were falling apart. They were slaughtering people in the hallways. It was a massacre. There were walkers everywhere
-lori_grimes So you left him?
-shane_walsh Everybody else ran. There were no doctors there. It was just me. He was hooked up to machines and I did not know what to do. I even took my ear and I put it on his chest and I listened for a heartbeat and I did not hear one. And I-I-I-I—I don't know why. Maybe it was gunfire. I don't know what it was, but there was no way he could've survived that. No way 
+carol_peletier It's a miracle , isn't it ?
+lori_grimes Jesus , you scared me
+shane_walsh I'm gonna tell you a few things
+shane_walsh and you're gonna listen to me
+lori_grimes Now is not the time
+shane_walsh Come on .
+shane_walsh When is it ever the time ?
+shane_walsh How can you treat me like this ?
+lori_grimes You're kidding , right ?
+shane_walsh No .
+shane_walsh Huh-
+shane_walsh uh
+lori_grimes Because you told me my husband was dead
+shane_walsh Jesus , Lori .
+shane_walsh I didn't lie to you , all right ?
+shane_walsh I didn't .
+shane_walsh Do you know what it was like there ?
+shane_walsh Huh ?
+shane_walsh Stop .
+shane_walsh Things were falling apart .
+shane_walsh They were slaughtering people in the hallways .
+shane_walsh It was a massacre .
+shane_walsh There were walkers everywhere
+lori_grimes So you left him ?
+shane_walsh Everybody else ran .
+shane_walsh There were no doctors there .
+shane_walsh It was just me .
+shane_walsh He was hooked up to machines and I did not know what to do .
+shane_walsh I even took my ear
+shane_walsh and I put it on his chest
+shane_walsh and I listened for a heartbeat
+shane_walsh and I did not hear one .
+shane_walsh And I-I-I-I-I don't know why .
+shane_walsh Maybe it was gunfire .
+shane_walsh I don't know what it was , but there was no way he could've survived that .
+shane_walsh No way
 lori_grimes He did
-shane_walsh Yeah, but then I had y'all to think about, didn't I? 
-shane_walsh I had you and Carl, and I needed to think about—
-lori_grimes Okay. No no
-shane_walsh I had to get you guys safe to Atlanta. That's what I had to do. Just stop 
-shane_walsh If you thought for one second that he was still alive, would you have come? So I saved your life—you and your little boy's. That's what I did. Right? 
-shane_walsh And if I could've traded places with him, I would have. I would trade places with him right now because—
-lori_grimes No no no. No
-shane_walsh No no no, you--I love you. Shh shh
-lori_grimes No. No, you're drunk
+shane_walsh Yeah ,
+shane_walsh but then I had y'all to think about , didn't I ?
+shane_walsh I had you and Carl , and I needed to think about-
+lori_grimes Okay .
+lori_grimes No no
+shane_walsh I had to get you guys safe to Atlanta .
+shane_walsh That's what I had to do .
+shane_walsh Just stop If you thought for one second that he was still alive , would you have come ?
+shane_walsh So I saved your life-you and your little boy's .
+shane_walsh That's what I did .
+shane_walsh Right ?
+shane_walsh And if I could've traded places with him , I would have .
+shane_walsh I would trade places with him right now
+shane_walsh because-
+lori_grimes No no no .
+lori_grimes No
+shane_walsh No no
+shane_walsh no , you--I love you .
+shane_walsh Shh shh
+lori_grimes No .
+lori_grimes No , you're drunk
 shane_walsh I love you
-lori_grimes No, you're drunk
-shane_walsh And I know there were some things that say that you love me, too. Because there's no way that you could've been with me the way that you were 
-lori_grimes Shane. Shane. Shane!
-shane_walsh Just—Okay, Stop. Listen. You love me
-lori_grimes Get your hands off me. Get your hands off me 
-shane_walsh I love you. There's nobody here
-lori_grimes Please! No!
-shane_walsh Stop, Lori. It's all right. Just—  He stops, stares at Lori. He puts his hand to his mouth. lori stares at him, terrified. shane turns away, opens the door, and walks out. Shaking, lori stands by the table and tries to pull herself together.   
-rick_grimes We don't have to be afraid anymore. We're safe here. All right?  
+lori_grimes No , you're drunk
+shane_walsh And I know there were some things that say that you love me , too .
+shane_walsh Because there's no way that you could've been with me the way that you were
+lori_grimes Shane .
+lori_grimes Shane .
+lori_grimes Shane !
+shane_walsh Just-Okay , Stop .
+shane_walsh Listen .
+shane_walsh You love me
+lori_grimes Get your hands off me .
+lori_grimes Get your hands off me
+shane_walsh I love you .
+shane_walsh There's nobody here
+lori_grimes Please !
+lori_grimes No !
+shane_walsh Stop , Lori .
+shane_walsh It's all right .
+shane_walsh Just-
+rick_grimes We don't have to be afraid anymore .
+rick_grimes We're safe here .
+rick_grimes All right ?
 rick_grimes Hello
 dale_horvath Morning
-carl_grimes Are you hungover? Mom said you'd be
+carl_grimes Are you hungover ?
+carl_grimes Mom said you'd be
 rick_grimes Mom is right
 lori_grimes Mom has that annoying habit
-theodore_douglas Eggs. Powered, but--but I do'em good 
-theodore_douglas I bet you can't tell 
-theodore_douglas Protein helps the hangover  
-rick_grimes Where'd all this come from?
+theodore_douglas Eggs .
+theodore_douglas Powered ,
+theodore_douglas but--
+theodore_douglas but I do'em
+theodore_douglas good
+theodore_douglas I bet you can't tell Protein helps the hangover
+rick_grimes Where'd all this come from ?
 lori_grimes jenner
-rick_grimes Could you help me, please? 
+rick_grimes Could you help me , please ?
 lori_grimes He thought we could use it
 rick_grimes Thank you
-lori_grimes Some of us, at least 
+lori_grimes Some of us , at least
 glenn_rhee Don't ever ever ever let me drink again
 shane_walsh Hey
-rick_grimes Hey. Feel as bad as I do? 
-shane_walsh Worse 
-theodore_douglas What the hell happened to you? Your neck? 
+rick_grimes Hey .
+rick_grimes Feel as bad as I do ?
+shane_walsh Worse
+theodore_douglas What the hell happened to you ?
+theodore_douglas Your neck ?
 shane_walsh I must have done it in my sleep
 rick_grimes Never seen you do that before
-shane_walsh Me neither. Not like me at all 
+shane_walsh Me
+shane_walsh neither .
+shane_walsh Not like me at all
 edwin_jenner Morning
-shane_walsh Hey, Doc 
-dale_horvath Doctor. I don't mean to slam you with questions first thing—
+shane_walsh Hey , Doc
+dale_horvath Doctor .
+dale_horvath I don't mean to slam you with questions first thing-
 edwin_jenner But you will anyway
-andrea_harrison We didn't come here for the eggs 
+andrea_harrison We didn't come here for the eggs
 edwin_jenner Give me playback of TS-19
 vi Playback of TS-19
-edwin_jenner Few people ever got a chance to see this. Very few 
-carl_grimes Is that a brain?
-edwin_jenner An extraordinary one. Not that it matters in the end. Take us in for E. I. V.
-vi Enhanced internal view 
-shane_walsh What are those lights?
-edwin_jenner It's a person's life—experiences, memories. It's everything. Somewhere in all that organic wiring, all those ripples of light, is you—the thing that makes you unique and human
-daryl_dixon You don't make sense ever?
-edwin_jenner Those are synapses. Electric impulses in the brain that carry all the messages. They determine everything a person says does or thinks from the moment of birth to the moment of death
-rick_grimes Death? That's what this is, a vigil?
-edwin_jenner Yes. Or rather the playback of the vigil
-andrea_harrison This person died? Who?
-edwin_jenner Test subject 19. Someone who was bitten and infected. and volunteered to have us record the process. VI, Scan forward to the first event
-vi Scanning to first event 
-glenn_rhee What is that?
-edwin_jenner It invades the brain like meningitis. The adrenal glands hemorrhage, the brain goes into shutdown, then the major organs. Then death. Everything you ever were or ever will be. gone
-sophia Is that what happened to Jim?
-carol_peletier Yes 
-lori_grimes She lost somebody two days ago. Her sister
-edwin_jenner I lost somebody too. I know how devastating it is. Scan to the second event
+edwin_jenner Few people ever got a chance to see this .
+edwin_jenner Very few
+carl_grimes Is that a brain ?
+edwin_jenner An extraordinary one .
+edwin_jenner Not that it matters in the end .
+edwin_jenner Take us in for E. I. V.
+vi Enhanced internal view
+shane_walsh What are those lights ?
+edwin_jenner It's a person's life-experiences , memories .
+edwin_jenner It's everything .
+edwin_jenner Somewhere in all that organic wiring , all those ripples of light , is you-the thing that makes you unique and human
+daryl_dixon You don't make sense ever ?
+edwin_jenner Those are synapses .
+edwin_jenner Electric impulses in the brain that carry all the messages .
+edwin_jenner They determine everything a person says does or thinks from the moment of birth to the moment of death
+rick_grimes Death ?
+rick_grimes That's what this is , a vigil ?
+edwin_jenner Yes .
+edwin_jenner Or rather the playback of the vigil
+andrea_harrison This person died ?
+andrea_harrison Who ?
+edwin_jenner Test subject 19 .
+edwin_jenner Someone who was bitten and infected .
+edwin_jenner and volunteered to have us record the process .
+edwin_jenner VI , Scan forward to the first event
+vi Scanning to first event
+glenn_rhee What is that ?
+edwin_jenner It invades the brain like meningitis .
+edwin_jenner The adrenal glands hemorrhage , the brain goes into shutdown , then the major organs .
+edwin_jenner Then death .
+edwin_jenner Everything you ever were or ever will be .
+edwin_jenner gone
+sophia Is that what happened to Jim ?
+carol_peletier Yes
+lori_grimes She lost somebody two days ago .
+lori_grimes Her sister
+edwin_jenner I lost somebody too .
+edwin_jenner I know how devastating it is .
+edwin_jenner Scan to the second event
 vi Scanning to second event
-edwin_jenner The resurrection times vary wildly. We had reports of it happening in as little as three minutes. The longest we heard of was eight hours. In the case of this patient, it was two hours, one minute. seven seconds 
-lori_grimes It restarts the brain?
-edwin_jenner No, just the brain stem. Basically, it gets them up and moving
-rick_grimes But they're not alive?
+edwin_jenner The resurrection times vary wildly .
+edwin_jenner We had reports of it happening in as little as three minutes .
+edwin_jenner The longest we heard of was eight hours .
+edwin_jenner In the case of this patient , it was two hours , one minute .
+edwin_jenner seven seconds
+lori_grimes It restarts the brain ?
+edwin_jenner No , just the brain stem .
+edwin_jenner Basically , it gets them up and moving
+rick_grimes But they're not alive ?
 edwin_jenner You tell me
-rick_grimes It's nothing like before. Most of that brain is dark
-edwin_jenner Dark, lifeless, dead. The frontal lobe, the neocortex, the human part—that doesn't come back. The you part. Just a shell driven by mindless instinct 
-carol_peletier God. What was that?
-andrea_harrison He shot his patient in the head. Didn't you?
-edwin_jenner VI, Power down the main screen and the workstations
+rick_grimes It's nothing like before .
+rick_grimes Most of that brain is dark
+edwin_jenner Dark , lifeless , dead .
+edwin_jenner The frontal lobe , the neocortex , the human part-that doesn't come back .
+edwin_jenner The you part .
+edwin_jenner Just a shell driven by mindless instinct
+carol_peletier God .
+carol_peletier What was that ?
+andrea_harrison He shot his patient in the head .
+andrea_harrison Didn't you ?
+edwin_jenner VI , Power down the main screen and the workstations
 vi Powering down main screen and workstations
-andrea_harrison You have no idea what it is, do you?
-edwin_jenner It could be microbial, viral, parasitic, fungal
-jacqui Or the wrath of god?
+andrea_harrison You have no idea what it is , do you ?
+edwin_jenner It could be microbial , viral , parasitic , fungal
+jacqui Or the wrath of god ?
 edwin_jenner There is that
-andrea_harrison Somebody must know something. Somebody somewhere
-carol_peletier There are others, right? Other facilities?
-edwin_jenner There may be some. People like me
-rick_grimes But you don't know? How can you not know?
-edwin_jenner Everything went down. Communications, directives—all of it. I've been in the dark for almost a month
-andrea_harrison So it's not just here. There's nothing left anywhere? Nothing? That's what you're really saying, right?
+andrea_harrison Somebody must know something .
+andrea_harrison Somebody somewhere
+carol_peletier There are others , right ?
+carol_peletier Other facilities ?
+edwin_jenner There may be some .
+edwin_jenner People like me
+rick_grimes But you don't know ?
+rick_grimes How can you not know ?
+edwin_jenner Everything went down .
+edwin_jenner Communications , directives-all of it .
+edwin_jenner I've been in the dark for almost a month
+andrea_harrison So it's not just here .
+andrea_harrison There's nothing left anywhere ?
+andrea_harrison Nothing ?
+andrea_harrison That's what you're really saying , right ?
 jacqui Jesus
-daryl_dixon Man, I'm gonna get shitfaced drunk again
-dale_horvath Dr. Jenner, I know this has been taxing for you and I hate to ask one more question, but. that clock—it's counting down. What happens at zero?
+daryl_dixon Man , I'm gonna get shitfaced drunk again
+dale_horvath Dr .
+dale_horvath Jenner , I know this has been taxing for you
+dale_horvath and I hate to ask one more question , but .
+dale_horvath that clock-it's counting down .
+dale_horvath What happens at zero ?
 edwin_jenner The basement generators--they run out of fuel
-rick_grimes And then? 
-rick_grimes Vi, what happens when the power runs out?
-vi When the power runs out, facility-wide decontamination will occur  
-glenn_rhee Decontamination--what does that mean?
-shane_walsh I don't like the way jenner clammed up. The way he just wandered off like that
-theodore_douglas What's wrong with him? Seriously, man. Is he nuts, medicated, what? 
-rick_grimes In there 
-rick_grimes Check that way. shane  
-rick_grimes It's empty 
+rick_grimes And then ?
+rick_grimes Vi , what happens when the power runs out ?
+vi When the power runs out , facility-wide decontamination will occur
+glenn_rhee Decontamination--what does that mean ?
+shane_walsh I don't like the way jenner clammed up .
+shane_walsh The way he just wandered off like that
+theodore_douglas What's wrong with him ?
+theodore_douglas Seriously , man .
+theodore_douglas Is he nuts , medicated , what ?
+rick_grimes In there Check that way .
+rick_grimes shane
+rick_grimes It's empty
 vi Emergency lighting on
-shane_walsh What the hell is this? 
-glenn_rhee Hey, you guys kill the lights?
-shane_walsh Nah, it just went out
-rick_grimes Anything?
-theodore_douglas Yeah, a lot of dead generators and more empty fuel drums than I can count
-shane_walsh It can't be down to just that one 
-rick_grimes Check that way. shane  
-rick_grimes It's empty 
+shane_walsh What the hell is this ?
+glenn_rhee Hey , you guys kill the lights ?
+shane_walsh Nah , it just went out
+rick_grimes Anything ?
+theodore_douglas Yeah , a lot of dead generators and more empty fuel drums than I can count
+shane_walsh It can't be down to just that one
+rick_grimes Check that way .
+rick_grimes shane
+rick_grimes It's empty
 vi Emergency lighting on
-shane_walsh What the hell is this? 
-glenn_rhee Hey, you guys kill the lights?
-shane_walsh Nah, it just went out
-rick_grimes Anything?
-theodore_douglas Yeah, a lot of dead generators and more empty fuel drums than I can count
-shane_walsh It can't be down to just that one 
-carl_grimes Mom? Something wrong?
-lori_grimes Uh, nothing. It's just. the air conditioning stopped 
-edwin_jenner I did the best I could in the time that I had. I hope you'd be proud of that 
-edwin_jenner We always think there's gonna be more time. . Then it runs out 
-carol_peletier Why is the air off?
-lori_grimes And the lights in our room? 
-daryl_dixon What's going on? Why is everything turned off? 
+shane_walsh What the hell is this ?
+glenn_rhee Hey , you guys kill the lights ?
+shane_walsh Nah , it just went out
+rick_grimes Anything ?
+theodore_douglas Yeah , a lot of dead generators and more empty fuel drums than I can count
+shane_walsh It can't be down to just that one
+carl_grimes Mom ?
+carl_grimes Something wrong ?
+lori_grimes Uh , nothing .
+lori_grimes It's just .
+lori_grimes the air conditioning stopped
+edwin_jenner I did the best I could in the time that I had .
+edwin_jenner I hope you'd be proud of that
+edwin_jenner We always think there's gonna be more time . .
+edwin_jenner Then it runs out
+carol_peletier Why is the air off ?
+lori_grimes And the lights in our room ?
+daryl_dixon What's going on ?
+daryl_dixon Why is everything turned off ?
 edwin_jenner Energy use is being prioritized
-dale_horvath Air isn't a priority? And lights? 
-edwin_jenner It's not up to me. Zone 5 is shutting itself down
-daryl_dixon Hey! Hey, what the hell does that mean? 
-daryl_dixon Hey, man, I'm talking to you. What do you mean it's shutting itself down? How can a building do anything? 
+dale_horvath Air isn't a priority ?
+dale_horvath And lights ?
+edwin_jenner It's not up to me .
+edwin_jenner Zone 5 is shutting itself down
+daryl_dixon Hey !
+daryl_dixon Hey , what the hell does that mean ?
+daryl_dixon Hey , man , I'm talking to you .
+daryl_dixon What do you mean it's shutting itself down ?
+daryl_dixon How can a building do anything ?
 edwin_jenner You'd be surprised
-lori_grimes Rick? 
-rick_grimes Jenner, what's happening?
-edwin_jenner The system is dropping all the nonessential uses of power. It's designed to keep the computers running to the last possible second. That started as we approached the half-hour mark. Right on schedule 
+lori_grimes Rick ?
+rick_grimes Jenner , what's happening ?
+edwin_jenner The system is dropping all the nonessential uses of power .
+edwin_jenner It's designed to keep the computers running to the last possible second .
+edwin_jenner That started as we approached the half-hour mark .
+edwin_jenner Right on schedule
 edwin_jenner It was the french
-andrea_harrison What?
-edwin_jenner They were the last ones to hold out as far as I know. While our people were bolting out the doors and committing suicide in the hallways, they stayed in the labs till the end. They thought they were close to a solution
-jacqui What happened?
-edwin_jenner The same thing that's happening here. No power grid. Ran out of juice. The world runs on fossil fuel. I mean, how stupid is that?
+andrea_harrison What ?
+edwin_jenner They were the last ones to hold out as far as I know .
+edwin_jenner While our people were bolting out the doors and committing suicide in the hallways , they stayed in the labs till the end .
+edwin_jenner They thought they were close to a solution
+jacqui What happened ?
+edwin_jenner The same thing that's happening here .
+edwin_jenner No power grid .
+edwin_jenner Ran out of juice .
+edwin_jenner The world runs on fossil fuel .
+edwin_jenner I mean , how stupid is that ?
 shane_walsh Let me tell you--
-rick_grimes To Hell with it, Shane. I don't even care. Lori, grab our things. Everybody, get your stuff. We're getting out of here now!
-jacqui Oh, okay
-shane_walsh What's that?
-carl_grimes What's that?
+rick_grimes To Hell with it , Shane .
+rick_grimes I don't even care .
+rick_grimes Lori , grab our things .
+rick_grimes Everybody , get your stuff .
+rick_grimes We're getting out of here now !
+jacqui Oh , okay
+shane_walsh What's that ?
+carl_grimes What's that ?
 vi 30 minutes to decontamination
-daryl_dixon Doc, what's going on here? 
-shane_walsh Everybody, y'all heard rick
-rick_grimes Get your stuff and let's go! Go now! Go!
+daryl_dixon Doc , what's going on here ?
+shane_walsh Everybody , y'all heard rick
+rick_grimes Get your stuff and let's go !
+rick_grimes Go now !
+rick_grimes Go !
 theodore_douglas Let's go
-glenn_rhee Come on! rick runs toward a security door that is sliding up to block the way back out of the C. D. C. rick runs toward it in a panic.
-glenn_rhee No. Did you just lock us in? He just locked us in! edwin broadcasts on the monitor.
-edwin_jenner We've hit the 30-minute window. I am recording
-lori_grimes carl
-lori_grimes Mom! 
-daryl_dixon You son of a bitch!
-rick_grimes Shane! Shane!
-daryl_dixon You locked us in here!
-theodore_douglas No, stop. Don't!
+glenn_rhee Come on !
+glenn_rhee No .
+glenn_rhee Did you just lock us in ?
+glenn_rhee He just locked us in !
+edwin_jenner We've hit the 30-minute window .
+edwin_jenner I am recording
+lori_grimes carl Mom !
+daryl_dixon You son of a bitch !
+rick_grimes Shane !
+rick_grimes Shane !
+daryl_dixon You locked us in here !
+theodore_douglas No , stop .
+theodore_douglas Don't !
 daryl_dixon You lying--
-shane_walsh No no no no! 
-theodore_douglas Wait, no! No, don't do it 
-rick_grimes Hey, Jenner, open that door now
-edwin_jenner There's no point. Everything topside is locked down. The emergency exits are sealed
-daryl_dixon Well, open the damn things
-edwin_jenner That's not something I control. The computers do. I told you once that front door closed, it wouldn't open again. You heard me say that. It's better this way
-rick_grimes What is? What happens in 28 minutes? What happens in 28 minutes?!
-daryl_dixon Come on!
-edwin_jenner You know what this place is?! We protected the public from very nasty stuff! Weaponized smallpox! Ebola strains that could wipe out half the country! Stuff you don't want getting out! Ever! 
-edwin_jenner In the event of a catastrophic power failure—in a terrorist attack, for example—H. I. T. s are deployed to prevent any organisms from getting out
-rick_grimes H. I. Ts?
-edwin_jenner Vi, define
-vi H. I. T. s—high-impulse thermobaric fuel-air explosives consist of a two-stage aerosol ignition that produces a blast wave of significantly greater power and duration than any other known explosive except nuclear. The vacuum-pressure effect ignites the oxygen at between 5, 000 degrees and 6, 000 degrees and is useful when the greatest loss of life and damage to structures is desired
-edwin_jenner It sets the air on fire. No pain 
-edwin_jenner An end to sorrow, grief. regret. Everything 
-daryl_dixon Open the damn door! 
-shane_walsh Out of my way! 
-theodore_douglas Daryl!
-edwin_jenner You should've left well enough alone it would have been so much easier
-lori_grimes Easier for who?
-edwin_jenner All of you. You know what's out there. A short brutal life and an agonizing death. Your—your sister—what was her name?
+shane_walsh No no
+shane_walsh no no !
+theodore_douglas Wait , no !
+theodore_douglas No , don't do it
+rick_grimes Hey , Jenner , open that door
+rick_grimes now
+edwin_jenner There's no point .
+edwin_jenner Everything topside is locked down .
+edwin_jenner The emergency exits are sealed
+daryl_dixon Well , open the damn things
+edwin_jenner That's not something I control .
+edwin_jenner The computers do .
+edwin_jenner I told you once that front door closed , it wouldn't open again .
+edwin_jenner You heard me say that .
+edwin_jenner It's better this way
+rick_grimes What is ?
+rick_grimes What happens in 28 minutes ?
+rick_grimes What happens in 28 minutes? !
+daryl_dixon Come on !
+edwin_jenner You know what this place is? !
+edwin_jenner We protected the public from very nasty stuff !
+edwin_jenner Weaponized smallpox !
+edwin_jenner Ebola strains that could wipe out half the country !
+edwin_jenner Stuff
+edwin_jenner you don't want getting out !
+edwin_jenner Ever !
+edwin_jenner In the event of a catastrophic power failure-in a terrorist attack , for example-H .
+edwin_jenner I. T. s are deployed to prevent any organisms from getting out
+rick_grimes H. I. Ts ?
+edwin_jenner Vi , define
+vi H. I. T. s-high-impulse thermobaric fuel-air explosives consist of a two-stage aerosol ignition that produces a blast wave of significantly greater power and duration than any other known explosive except nuclear .
+vi The vacuum-pressure effect ignites the oxygen at between 5 , 000 degrees and 6 , 000 degrees and is useful when the greatest loss of life and damage to structures is desired
+edwin_jenner It sets the air on fire .
+edwin_jenner No pain
+edwin_jenner An end to sorrow , grief . regret .
+edwin_jenner Everything
+daryl_dixon Open the damn door !
+shane_walsh Out of my way !
+theodore_douglas Daryl !
+edwin_jenner You should've left well enough alone
+edwin_jenner it would have been so much easier
+lori_grimes Easier for who ?
+edwin_jenner All of you .
+edwin_jenner You know what's out there .
+edwin_jenner A short brutal life and an agonizing death .
+edwin_jenner Your-your sister-what was her name ?
 andrea_harrison Amy
-edwin_jenner Amy. You know what this does. You've seen it. Is that what you really want for your wife and son?
-rick_grimes I don't want this!
+edwin_jenner Amy .
+edwin_jenner You know what this does .
+edwin_jenner You've seen it .
+edwin_jenner Is that what you really want for your wife and son ?
+rick_grimes I don't want this !
 shane_walsh Can't make a dent
 edwin_jenner Those doors are designed to withstand a rocket launcher
-daryl_dixon Well, your head ain't! 
-shane_walsh Whoa! Whoa!
-rick_grimes Daryl! Daryl! 
-rick_grimes Just back up! Back up!
-edwin_jenner You do want this. Last night you said you knew it was just a matter of time before everybody you loved was dead
-theodore_douglas What? 
-shane_walsh What? You really said that? After all your big talk?
-rick_grimes I had to keep hope alive, didn't I?
-edwin_jenner There is no hope. There never was
-rick_grimes There's always hope. Maybe it won't be you, maybe not here but somebody somewhere—
-andrea_harrison What part of "everything is gone" do you not understand?
-edwin_jenner Listen to your friend. She gets it. This is what takes us down. This is our extinction event
-carol_peletier This isn't right. You can't keep us here
-edwin_jenner One tiny moment--a millisecond. No pain
-carol_peletier My daughter doesn't deserve to die like this 
-edwin_jenner Wouldn't it be kinder, more compassionate just to hold your loved ones and wait for the clock to run down?  
-rick_grimes Shane, no! 
-shane_walsh Out of the way, Rick! Stay out of my way! Open that door or I'm gonna blow your head off. Do you hear me? 
-rick_grimes Brother, brother, this is not the way you do this. We will never get out of here
-lori_grimes Shane, you listen to him
+daryl_dixon Well , your head ain't !
+shane_walsh Whoa !
+shane_walsh Whoa !
+rick_grimes Daryl !
+rick_grimes Daryl !
+rick_grimes Just back up !
+rick_grimes Back up !
+edwin_jenner You do want this .
+edwin_jenner Last night you said you knew it was just a matter of time before everybody you loved was dead
+theodore_douglas What ?
+shane_walsh What ?
+shane_walsh You really said that ?
+shane_walsh After all your big talk ?
+rick_grimes I had to keep hope alive , didn't I ?
+edwin_jenner There is no hope .
+edwin_jenner There never was
+rick_grimes There's always hope .
+rick_grimes Maybe it won't be you , maybe not here
+rick_grimes but somebody somewhere-
+andrea_harrison What part of " everything is gone " do you not understand ?
+edwin_jenner Listen to your friend .
+edwin_jenner She gets it .
+edwin_jenner This is what takes us down .
+edwin_jenner This is our extinction event
+carol_peletier This isn't right .
+carol_peletier You can't keep us here
+edwin_jenner One tiny moment--a millisecond .
+edwin_jenner No pain
+carol_peletier My daughter doesn't deserve to die like this
+edwin_jenner Wouldn't it be kinder , more compassionate just to hold your loved ones and wait for the clock to run down ?
+rick_grimes Shane , no !
+shane_walsh Out of the way , Rick !
+shane_walsh Stay out of my way !
+shane_walsh Open that door
+shane_walsh or I'm gonna blow your head off .
+shane_walsh Do you hear me ?
+rick_grimes Brother , brother , this is not the way you do this .
+rick_grimes We will never get out of here
+lori_grimes Shane , you listen to him
 shane_walsh It's too late
-rick_grimes He dies, we all-- 
-rick_grimes --We all die! Shane! Shane!  
-rick_grimes Are you done now? Are you done? 
-shane_walsh Yeah, I guess we all are 
+rick_grimes He dies ,
+rick_grimes we all--
+rick_grimes --We all die !
+rick_grimes Shane !
+rick_grimes Shane !
+rick_grimes Are you done now ?
+rick_grimes Are you done ?
+shane_walsh Yeah , I guess we all are
 rick_grimes I think you're lying
-edwin_jenner What?
-rick_grimes You're lying about no hope. If that were true, you'd have bolted with the rest or taken the easy way out. You didn't. You chose the hard path. Why?
+edwin_jenner What ?
+rick_grimes You're lying about no hope .
+rick_grimes If that were true , you'd have bolted with the rest or taken the easy way out .
+rick_grimes You didn't .
+rick_grimes You chose the hard path .
+rick_grimes Why ?
 edwin_jenner It doesn't matter
-rick_grimes It does matter. It always matters. You stayed when others ran. Why?
-edwin_jenner Not because I wanted to. I made a promise. To her. My wife
-lori_grimes Test subject 19 was your wife?
-edwin_jenner She begged me to keep going as long as I could. How could I say no? 
-edwin_jenner She was dying. It should've been me on that table. I wouldn't have mattered to anybody. She was a loss to the world. Hell, she ran this place. I just worked here. In our field she was an Einstein. Me? I'm just. edwin Jenner. She could've done something about this. Not me
-rick_grimes Your wife didn't have a choice. You do. That's—that's all we want—a choice, a chance
+rick_grimes It does matter .
+rick_grimes It always matters .
+rick_grimes You stayed when others ran .
+rick_grimes Why ?
+edwin_jenner Not because I wanted to .
+edwin_jenner I made a promise .
+edwin_jenner To her .
+edwin_jenner My wife
+lori_grimes Test subject 19 was your wife ?
+edwin_jenner She begged me to keep going as long as I could .
+edwin_jenner How could I say no ?
+edwin_jenner She was dying .
+edwin_jenner It should've been me on that table .
+edwin_jenner I wouldn't have mattered to anybody .
+edwin_jenner She was a loss to the world .
+edwin_jenner Hell , she ran this place .
+edwin_jenner I just worked here .
+edwin_jenner In our field she was an Einstein .
+edwin_jenner Me ?
+edwin_jenner I'm just .
+edwin_jenner edwin Jenner .
+edwin_jenner She could've done something about this .
+edwin_jenner Not me
+rick_grimes Your wife didn't have a choice .
+rick_grimes You do .
+rick_grimes That's-
+rick_grimes that's all we want-a choice , a chance
 lori_grimes Let us keep trying as long as we can
-edwin_jenner I told you topside's locked down. I can't open those 
-daryl_dixon Come on!
-glenn_rhee Let's go!
-daryl_dixon Come on, let's go! Come on! Move it! Move it! Come on, let's go!
-carol_peletier We're gonna get out of here, sophia
-edwin_jenner There's your chance. Take it
+edwin_jenner I told you topside's locked down .
+edwin_jenner I can't open those
+daryl_dixon Come on !
+glenn_rhee Let's go !
+daryl_dixon Come on , let's go !
+daryl_dixon Come on !
+daryl_dixon Move it !
+daryl_dixon Move it !
+daryl_dixon Come on , let's go !
+carol_peletier We're gonna get out of here , sophia
+edwin_jenner There's your chance .
+edwin_jenner Take it
 rick_grimes I'm grateful
 edwin_jenner The day will come when you won't be
-glenn_rhee Let's go!  
-glenn_rhee Hey, we've got four minutes left! Come on! 
-theodore_douglas Let's go. Let's go
-jacqui No no. I'm staying. I'm staying, sweetie
-theodore_douglas But that's insane!
-jacqui No, it's completely sane. For the first time in the long time. I'm not ending up like Jim and Amy. There's no time to argue. And no point, not if you want to get out. Just get out. Get out 
-shane_walsh Dog, come on, man. Come on! Let's go! Let's go! 
+glenn_rhee Let's go !
+glenn_rhee Hey , we've got four minutes left !
+glenn_rhee Come on !
+theodore_douglas Let's go .
+theodore_douglas Let's go
+jacqui No no .
+jacqui I'm staying .
+jacqui I'm staying , sweetie
+theodore_douglas But that's insane !
+jacqui No , it's completely sane .
+jacqui For the first time in the long time .
+jacqui I'm not ending up like Jim and Amy .
+jacqui There's no time to argue .
+jacqui And no point , not if you want to get out .
+jacqui Just get out .
+jacqui Get out
+shane_walsh Dog , come on , man .
+shane_walsh Come on !
+shane_walsh Let's go !
+shane_walsh Let's go !
 andrea_harrison I'm staying too
-dale_horvath Andrea, no 
-dale_horvath Just go! Go!
-shane_walsh Come on Everyone but Jenner, Jacqui, andrea and dale run up the stairs to the ground level. 
-dale_horvath Andrea, this isn't what Amy would want for you 
-andrea_harrison She's dead, and you need to leave 
-shane_walsh Get them doors open!
-glenn_rhee Come on! It doesn't work!
-theodore_douglas Wait a minute! Wait a minute! 
-theodore_douglas Try it! Try it! Try it now!
-shane_walsh Daryl!  
-carol_peletier Stay close, sweetheart The clock in the big room has counted down to 00310. Dale, holding andrea by the arm, is still hoping to talk her out of staying.
-andrea_harrison Time's almost up 
-theodore_douglas Daryl, look out! 
-shane_walsh Dog, get down! Get down! 
+dale_horvath Andrea , no Just go !
+dale_horvath Go !
+shane_walsh Come on  .
+dale_horvath Andrea , this isn't what Amy would want for you
+andrea_harrison She's dead , and you need to leave
+shane_walsh Get them doors open !
+glenn_rhee Come on !
+glenn_rhee It doesn't work !
+theodore_douglas Wait a minute !
+theodore_douglas Wait a minute !
+theodore_douglas Try it !
+theodore_douglas Try it !
+theodore_douglas Try it now !
+shane_walsh Daryl !
+carol_peletier Stay close , sweetheart
+carol_peletier Dale ,  .
+andrea_harrison Time's almost up
+theodore_douglas Daryl , look out !
+shane_walsh Dog , get down !
+shane_walsh Get down !
 shane_walsh Jesus
-sophia The glass won't break? 
-carol_peletier Rick, I have something that might help
-shane_walsh Carol, I don't think a nail file's gonna do it
-carol_peletier Your first morning at camp, when I washed your uniform I found this in your pocket 
-carol_peletier Come on
-theodore_douglas Look out! 
-rick_grimes Oh, sh--
-shane_walsh Get down!
-daryl_dixon Get down!
-rick_grimes Shit! Only the window nearest to the grenade shatters but it's big enough for them to escape through. In the big room dale sits down.
-dale_horvath Okay. You win 
-andrea_harrison What are you doing?
+sophia The glass won't break ?
+carol_peletier Rick , I have something that might help
+shane_walsh Carol
+shane_walsh , I don't think a nail file's gonna do it
+carol_peletier Your first morning at camp , when I washed your uniform I found this in your pocket Come on
+theodore_douglas Look out !
+rick_grimes Oh , sh--
+shane_walsh Get down !
+daryl_dixon Get down !
+rick_grimes Shit !
+dale_horvath Okay .
+dale_horvath You win
+andrea_harrison What are you doing ?
 dale_horvath I said okay
-andrea_harrison Don't pull this, dale
-dale_horvath I'm not pulling anything. If you're staying I stay too. He's right. We know what's waiting for us out there. I don't want to face it alone
-andrea_harrison Dale, get the Hell out. I don't want you here
-dale_horvath Too bad. See, you don't get to do that, to—to come into somebody's life, make them care and then just check out. I'm staying. The matter is settled   rick leads the way. carl and lori are right behind him. rick gets the R. V. keys and starts the engine. lori points.
-lori_grimes Wait wait wait. Wait wait. They're coming  
-edwin_jenner They got out Back inside edwin and jacqui share a smile. andrea and dale run for the R. V. rick checks his watch. In the big room the clock counts down to less than ten seconds. jacqui takes Edwin's hand. They spend their last moments looking into each others eyes.
-lori_grimes Come on. Dale, get down! Down!
-rick_grimes Get back! Everybody down! Down! 
-dale_horvath Get down! T-dog, Shane, everyone ducks down in their vehicle. A huge fireball builds up inside the C. D. C. building until it fills the entire place. The heat blasts out the windows, setting fire to everything around it, exploding tanks, cars, trucks, everything it touches. The explosion expands until the roof disintegrates and the building implodes on itself. Glenn, Rick, lori and carl get up from the R. V. floor and see the remains. dale peers over the sand bag wall. t-dog rises up from his seat. carol and sophia look up from the Cherokee, daryl from his truck. 
-dale_horvath Come on. Come on glenn opens the R. V. door.
-glenn_rhee Get in, get in, get in. get in! lori is speechless at the destruction. andrea sits down, crying and gives dale a look of anger. dale looks back at her but has to look away, sorry for the grief she feels. rick drives the R. V. away, rick looks shaken. lori sees this and gets scared. rick looks at her, collects himself and concentrates on driving, determined. The five cars turn around and drive back up the road they'd come down on. The burning of the C. D. C. sends a column of black smoke high up into the Atlanta sky.
+andrea_harrison Don't pull this , dale
+dale_horvath I'm not pulling anything .
+dale_horvath If you're staying I stay too .
+dale_horvath He's right .
+dale_horvath We know what's waiting for us out there .
+dale_horvath I don't want to face it alone
+andrea_harrison Dale , get the Hell out .
+andrea_harrison I don't want you here
+dale_horvath Too bad .
+dale_horvath See , you don't get to do that , to-to come into somebody's life , make them care and then just check out .
+dale_horvath I'm staying .
+dale_horvath The matter is settled rick leads the way .
+lori_grimes Wait wait wait .
+lori_grimes Wait wait .
+lori_grimes They're coming
+lori_grimes Come on .
+lori_grimes Dale , get down !
+lori_grimes Down !
+rick_grimes Get back !
+rick_grimes Everybody down !
+rick_grimes Down !
+dale_horvath Get down !
+dale_horvath Come on .
+dale_horvath Come on  .
+glenn_rhee Get in , get in , get in .
+glenn_rhee get in !
+glenn_rhee The burning of the C. D. C. sends a column of black smoke high up into the Atlanta sky .

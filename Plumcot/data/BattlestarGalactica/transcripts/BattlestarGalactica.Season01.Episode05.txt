@@ -1,301 +1,529 @@
-lt_sharon_valerii Galactica, Boomer. Hotdogs aboard.
-crashdown Yeah. Sos his lunch. Take it easy, Hotdog, youre not the first to lose it in combat, you wont be the last.
-lt_sharon_valerii No sign of Starbuck, he says she was hit. Still in the fight when he lost track of her.
-officer_anastasia_dualla Roger that, Boomer. Search and rescue ops are underway for Starbuck. Bring Hotdog in, the old man wants to talk to him.
-admiral_william_adama This is where you found him?
-lt_sharon_valerii Yes, sir. He had drifted quite a ways in the fight.
-admiral_william_adama Was she maneuvering?
-lt_brendan_constanza I think so... yes. Yes, sir.
-lt_sharon_valerii So, she survived the initial hits. She could still be alive.
-admiral_william_adama She is alive, Lieutenant. Were gonna find her.
-lt_sharon_valerii Yes, sir.
-admiral_william_adama Get this man to sick bay.
-crashdown Yes, sir.
-cpt_lee_adama I think you earned those today.
-crewman_specialist_socinus The artillery R-T switch is sticking a bit, sir, but shell fly.
-cpt_lee_adama Polish up the canopy, I want it crystal clear.
-chief_galen_tyrol Yes, sir!
-admiral_william_adama Find her.
-cpt_lee_adama I will.
-captain_kara_thrace Oh, frak!
-lt_felix_gaeta Still no joy from the search teams, sir. In the last four hours weve combed everywhere within a 200 click sphere of Starbucks last known position. No ship, no ejection seat, no debris. So were extending the radius another 50.
-admiral_william_adama We need more pilots.
-lt_felix_gaeta Everybody who can fly is up, sir.
-admiral_william_adama What about Starbucks course computations?
-lt_felix_gaeta The variables of combat would make them almost meaningless, sir.
-admiral_william_adama Well, its time to start guessing.
-lt_felix_gaeta Yes, sir.
-lt_felix_gaeta Since theres been no dradis contact in the area, I would have to guess that her Viper was captured by the gravity of a planetary body.
-colonel_saul_tigh The only nearby gravity wells are the gas giant and this moon. If the gas giant pulled her in, its radiation would fry her like an egg.
-admiral_william_adama What about the moon?
-lt_felix_gaeta The spectroscope people would call the atmosphere as CO2, methane, some argon. The clouds are mostly hydrocarbons. Its cold as hell down there, but she could survive on the surface.
-colonel_saul_tigh Until her oxygen runs out.
-admiral_william_adama When?
-lt_felix_gaeta 46 hours and change, sir.
-colonel_saul_tigh A hell of a long time to stay in one place. What if the Cylons appear?
-admiral_william_adama They wont, not for a while.
-colonel_saul_tigh What makes you say that?
-admiral_william_adama Sending a patrol instead of the base ship tells me that they didnt even know we were here. So, theyre searching a lot of other places, places with potential supplies.
-colonel_saul_tigh Like staking out water holes in the desert.
-admiral_william_adama Right. If we sent eight fighters to search an entire star system for 60-odd ships, it would take us...
-colonel_saul_tigh Weeks?
-admiral_william_adama Assume theyre better and faster. Itll take them days.
-colonel_saul_tigh A lot of assumptions youre making.
-admiral_william_adama Educated guess. Talk to me about searching the moon.
-colonel_saul_tigh Its gonna be slow going. Cant see squat through those clouds.
-admiral_william_adama Send the ships below the cloud cover. Tell the pilots to take a hard look the old-fashioned way.
-lt_felix_gaeta Mark one eyeball, sir.
-admiral_william_adama Mark one eyeball.
-officer_anastasia_dualla Commander... call from Colonial one.
-admiral_william_adama Adama.
-president_laura_roslin Commander Adama, I dont want to take much of your time I just wanted to say how happy we all are that you found one of your pilots.
-admiral_william_adama Thank you, Madam President.
-president_laura_roslin How is the search progressing for the other pilot?
-admiral_william_adama Nothing yet, but weve just begun.
-president_laura_roslin Ive spoken with the other captains in the fleet, theyve agreed to give over their ships at your disposal if itll increase the odds of finding her.
-admiral_william_adama Frak the odds, were gonna find her. Excuse me. Thank you. Tell them we can sure use the help.
-president_laura_roslin Ill coordinate their efforts with your C.I.C. Continued good luck.
-admiral_william_adama Thank you.
-president_laura_roslin Oh, thank you.
-dr_gaius_baltar So it looks like were gonna be staying here for a while.
-president_laura_roslin You all right?
-dr_gaius_baltar Yeah, Im fine, its, um...
-number_six How long do you think itll be before the Cylons wonder what happened to their missing patrol and send another one here to look for it?
-dr_gaius_baltar You have attacked us hundreds of times. Were still here. I think youll find that we are more than adequately protected.
-number_six Might be a little tricky with the fleet scattered over half the system looking for the lost pilot. How many days until the Cylons return, Gaius? one? Two? Three, at the most.
-president_laura_roslin Doctor? Your requisition.
-dr_gaius_baltar Thank you. Madam President, I, uh, I dont mean to be impertinent, really, but, uh, do you honestly think this is wise? You are compromising the security of the entire fleet while we search for one solitary pilot.
-president_laura_roslin It is a risk, but those pilots put their lives on the line for us every day.
-dr_gaius_baltar Yes... yeah, I was just saying that to, uh- Im not insensitive to that, is what Im saying. I happen to know the missing pilot personally.
-number_six Not as personally as youd like. Guess youll never get to find out if shes a real blonde.
-dr_gaius_baltar Which makes it all the more difficult for me because on one hand, I think of the pilot and then the other hand, I think of the thousands of defenseless women and children and men throughout the fleet.
-president_laura_roslin I am sure Commander Adama has considered all of this, thank you, doctor.
-dr_gaius_baltar Yes, of course he has. Of course he has, thank you.
-captain_kara_thrace Its okay... its okay, its okay, its okay. Okay, okay, get to higher ground. Then they see you... then they rescue you.
-cpt_lee_adama Galactica, Apollo. We are being passed around like beach balls down here. Visibility about two, best spectrum.
-officer_anastasia_dualla Copy, Apollo.
-cpt_lee_adama Whoa! Blue flight, go vertical, now, now, now!
-lt_sharon_valerii Anything?
-captain_karl_agathon No. I dont think anyones left out there.
-lt_sharon_valerii There must be someone. We cant be the only two people left in the world.
-captain_karl_agathon Well, good news is my legs much better. And weve got anti-radiation meds to last three months. I say we load up as much food as we can and-
-lt_sharon_valerii ...move out. Try to find a Raptor or a transport or something we can fly off Caprica. Unless you can think of a reason to stay.
-captain_karl_agathon Im not really looking forward to going back out there. Ive almost started to think of this place as...
-Helo_&_Caprica_Boomer#unknown#BattlestarGalactica.Season01.Episode05 ...home.
-captain_karl_agathon No, sleep a little longer. Who knows when well find clean sheets again. Im gonna go topside and make some breakfast.
-captain_karl_agathon Breakfast...
-lt_sharon_valerii Hey, is breakfast ready?
-captain_karl_agathon Sharon, get out of here! Go, go, go!
-captain_kara_thrace Lords, its Kara Thrace. Im running a little low on O2 and I could use a lucky break. No? Okay, just thought Id mention it. Oh, frak. Not bad shooting if I do say so myself. Lords, I owe you one. Looks like I found my ride out of here... if I can fix you up.
-cpt_lee_adama Galactica, Apollo. Bingo fuel.
-officer_anastasia_dualla Roger, Apollo, return to base.
-cpt_lee_adama What, cant you tank me in orbit?
-officer_anastasia_dualla Negative, Apollo, the tankers are refilling. Youll be dry before they can launch.
-admiral_william_adama Are these figures correct?
-lt_felix_gaeta Yes, sir, atmospheric ops mean that Viper and Raptor engines have to run continuously. Fuels gonna be a real problem if we keep it up.
-admiral_william_adama Any report from the civilian ships?
-colonel_saul_tigh Nothing. Theyre spread pretty far out. Were gonna have a hell of a time trying to cover them if the Cylons pop in. We should consider pulling the civvies into a defensible formation.
-admiral_william_adama No... keep all the ships on the search. Weve left enough people behind. I dont wanna leave Starbuck behind.
-colonel_saul_tigh Im just saying, committing the entire fleet to this search-
-admiral_william_adama I said no! Were gonna find our missing pilot! And were gonna bring her home. We leave no one behind. Resume your duties.
-captain_karl_agathon Sharon?! Sharon, where are you? Damn it Sharon, where are you?
-captain_karl_agathon Sharon?! Sharon...?!
-captain_kara_thrace Frak me. Are you... alive? And she keeps going at it with the knife.
-chief_galen_tyrol What the hell happened this time, Captain?
-cpt_lee_adama I hit the roll thrusters to level off for set down but only the left one fired.
-chief_galen_tyrol Oh, gods, its that crap youre flyin into down there. Gums everything up.
-cpt_lee_adama Get me another Viper.
-chief_galen_tyrol Id love to, Captain but this is 13 Vipers that are down plus your Mark 7. Im out!
-cpt_lee_adama Damn it, Ive got a pilot down and I need another Viper now!
-chief_galen_tyrol I realize that, Captain but you can push people a hell of a lot further than you can push machines.
-cpt_lee_adama Tyrol, Im the CAG, youre the Chief, just make it happen.
-lt_felix_gaeta Commander, the clock has passed five hours, sir, for Starbucks O2 supply.
-admiral_william_adama Noted.
-lt_felix_gaeta Heres the photo mosaic for the area weve searched so far.
-admiral_william_adama We gotta do better than this.
-colonel_saul_tigh Cant see very far when youre hugging the ground.
-cpt_lee_adama You cant see anything at all from altitude, not to mention the crap in the air that keeps screwing up our ships. 13 Vipers down for repairs.
-admiral_william_adama We need more eyes.
-colonel_saul_tigh Yeah, where you gonna get em?
-cpt_lee_adama Pull the CAP.
-colonel_saul_tigh What?
-cpt_lee_adama Redeploy the combat air patrol to the search.
-colonel_saul_tigh Bad idea, the CAP is the fleets only defense. If all our Vipers are frakin around on the moon when the Cylons come calling, were maggot meat.
-cpt_lee_adama Well, then bring the fleet closer to the moon. We can always scramble the Vipers from the search to meet any attack.
-colonel_saul_tigh You gotta be kidding.
-cpt_lee_adama Bottom line: we can double the area we can search in the time we have left.
-colonel_saul_tigh Starbuck would be the first one to tell you not to do this.
-cpt_lee_adama Nothing would make you happier would it? Leave her behind, get rid of the foul-mouthed insubordinate pilot that keeps challenging your authority.
-colonel_saul_tigh You are way out of line, mister, Im not the one confusing personal feelings with duty.
-cpt_lee_adama Oh, yeah? What the hell does that mean?
+lt_sharon_valerii Galactica , Boomer .
+lt_sharon_valerii Hotdogs aboard .
+crashdown Yeah .
+crashdown Sos his lunch .
+crashdown Take it easy , Hotdog , youre not the first to lose it in combat , you wont be the last .
+lt_sharon_valerii No sign of Starbuck , he says she was hit .
+lt_sharon_valerii Still in the fight when he lost track of her .
+officer_anastasia_dualla Roger that , Boomer .
+officer_anastasia_dualla Search and rescue ops are underway for Starbuck .
+officer_anastasia_dualla Bring Hotdog in , the old man wants to talk to him .
+admiral_william_adama This is where you found him ?
+lt_sharon_valerii Yes , sir .
+lt_sharon_valerii He had drifted quite a ways in the fight .
+admiral_william_adama Was she maneuvering ?
+lt_brendan_constanza I think so ...
+lt_brendan_constanza yes .
+lt_brendan_constanza Yes , sir .
+lt_sharon_valerii So , she survived the initial hits .
+lt_sharon_valerii She could still be alive .
+admiral_william_adama She is alive , Lieutenant .
+admiral_william_adama Were gonna find her .
+lt_sharon_valerii Yes , sir .
+admiral_william_adama Get this man to sick bay .
+crashdown Yes , sir .
+cpt_lee_adama I think you earned those today .
+crewman_specialist_socinus The artillery R-T switch is sticking a bit , sir , but shell fly .
+cpt_lee_adama Polish up the canopy , I want it crystal clear .
+chief_galen_tyrol Yes , sir !
+admiral_william_adama Find her .
+cpt_lee_adama I will .
+captain_kara_thrace Oh , frak !
+lt_felix_gaeta Still no joy from the search teams , sir .
+lt_felix_gaeta In the last four hours weve combed everywhere within a 200 click sphere of Starbucks last known position .
+lt_felix_gaeta No ship , no ejection seat , no debris .
+lt_felix_gaeta So were extending the radius another 50 .
+admiral_william_adama We need more pilots .
+lt_felix_gaeta Everybody who can fly is up , sir .
+admiral_william_adama What about Starbucks course computations ?
+lt_felix_gaeta The variables of combat would make them almost meaningless , sir .
+admiral_william_adama Well , its time to start guessing .
+lt_felix_gaeta Yes , sir .
+lt_felix_gaeta Since theres been no dradis contact in the area , I would have to guess that her Viper was captured by the gravity of a planetary body .
+colonel_saul_tigh The only nearby gravity wells are the gas giant and this moon .
+colonel_saul_tigh If the gas giant pulled her in , its radiation would fry her like an egg .
+admiral_william_adama What about the moon ?
+lt_felix_gaeta The spectroscope people would call the atmosphere as CO2 , methane , some argon .
+lt_felix_gaeta The clouds are mostly hydrocarbons .
+lt_felix_gaeta Its cold as hell down there , but she could survive on the surface .
+colonel_saul_tigh Until her oxygen runs out .
+admiral_william_adama When ?
+lt_felix_gaeta 46 hours and change , sir .
+colonel_saul_tigh A hell of a long time to stay in one place .
+colonel_saul_tigh What if the Cylons appear ?
+admiral_william_adama They wont , not for a while .
+colonel_saul_tigh What makes you say that ?
+admiral_william_adama Sending a patrol instead of the base ship tells me that they didnt even know we were here .
+admiral_william_adama So , theyre searching a lot of other places , places with potential supplies .
+colonel_saul_tigh Like staking out water holes in the desert .
+admiral_william_adama Right .
+admiral_william_adama If we sent eight fighters to search an entire star system for 60-odd ships , it would take us ...
+colonel_saul_tigh Weeks ?
+admiral_william_adama Assume theyre better and faster .
+admiral_william_adama Itll take them days .
+colonel_saul_tigh A lot of assumptions youre making .
+admiral_william_adama Educated guess .
+admiral_william_adama Talk to me about searching the moon .
+colonel_saul_tigh Its gonna be slow going .
+colonel_saul_tigh Cant see squat through those clouds .
+admiral_william_adama Send the ships below the cloud cover .
+admiral_william_adama Tell the pilots to take a hard look the old-fashioned way .
+lt_felix_gaeta Mark one eyeball , sir .
+admiral_william_adama Mark one eyeball .
+officer_anastasia_dualla Commander ... call from Colonial one .
+admiral_william_adama Adama .
+president_laura_roslin Commander Adama , I dont want to take much of your time
+president_laura_roslin I just wanted to say how happy we all are that you found one of your pilots .
+admiral_william_adama Thank you , Madam President .
+president_laura_roslin How is the search progressing for the other pilot ?
+admiral_william_adama Nothing yet , but weve just begun .
+president_laura_roslin Ive spoken with the other captains in the fleet , theyve agreed to give over their ships at your disposal if itll increase the odds of finding her .
+admiral_william_adama Frak the odds , were gonna find her .
+admiral_william_adama Excuse me .
+admiral_william_adama Thank you .
+admiral_william_adama Tell them we can sure use the help .
+president_laura_roslin Ill coordinate their efforts with your C.I.C .
+president_laura_roslin Continued good luck .
+admiral_william_adama Thank you .
+president_laura_roslin Oh , thank you .
+dr_gaius_baltar So it looks like were gonna be staying here for a while .
+president_laura_roslin You all right ?
+dr_gaius_baltar Yeah ,
+dr_gaius_baltar Im fine , its , um ...
+number_six How long do you think itll be before the Cylons wonder what happened to their missing patrol and send another one here to look for it ?
+dr_gaius_baltar You have attacked us hundreds of times .
+dr_gaius_baltar Were still here .
+dr_gaius_baltar I think youll find that we are more than adequately protected .
+number_six Might be a little tricky with the fleet scattered over half the system looking for the lost pilot .
+number_six How many days until the Cylons return , Gaius ?
+number_six one ?
+number_six Two ?
+number_six Three , at the most .
+president_laura_roslin Doctor ?
+president_laura_roslin Your requisition .
+dr_gaius_baltar Thank you .
+dr_gaius_baltar Madam President , I , uh , I dont mean to be impertinent , really , but , uh , do you honestly think this is wise ?
+dr_gaius_baltar You are compromising the security of the entire fleet while we search for one solitary pilot .
+president_laura_roslin It is a risk , but those pilots put their lives on the line for us every day .
+dr_gaius_baltar Yes ...
+dr_gaius_baltar yeah ,
+dr_gaius_baltar I was just saying that to , uh-
+dr_gaius_baltar Im
+dr_gaius_baltar not insensitive to that , is what Im saying .
+dr_gaius_baltar I happen to know the missing pilot personally .
+number_six Not as personally as youd like .
+number_six Guess youll never get to find out if shes a real blonde .
+dr_gaius_baltar Which makes it all the more difficult for me because on one hand , I think of the pilot and then the other hand , I think of the thousands of defenseless women and children and men throughout the fleet .
+president_laura_roslin I am sure Commander Adama has considered all of this , thank you , doctor .
+dr_gaius_baltar Yes , of course he has .
+dr_gaius_baltar Of course he has , thank you .
+captain_kara_thrace Its okay ...
+captain_kara_thrace its okay ,
+captain_kara_thrace its okay , its okay .
+captain_kara_thrace Okay , okay , get to higher ground .
+captain_kara_thrace Then they see you ...
+captain_kara_thrace then they rescue you .
+cpt_lee_adama Galactica , Apollo .
+cpt_lee_adama We are being passed around like beach balls down here .
+cpt_lee_adama Visibility about two , best spectrum .
+officer_anastasia_dualla Copy , Apollo .
+cpt_lee_adama Whoa !
+cpt_lee_adama Blue flight , go vertical , now , now , now !
+lt_sharon_valerii Anything ?
+captain_karl_agathon No .
+captain_karl_agathon I dont think anyones left out there .
+lt_sharon_valerii There must be someone .
+lt_sharon_valerii We cant be the only two people left in the world .
+captain_karl_agathon Well , good news is my legs much better .
+captain_karl_agathon And weve got anti-radiation meds to last three months .
+captain_karl_agathon I say we load up as much food as we can and-
+lt_sharon_valerii ...move out .
+lt_sharon_valerii Try to find a Raptor or a transport or something we can fly off Caprica .
+lt_sharon_valerii Unless you can think of a reason to stay .
+captain_karl_agathon Im not really looking forward to going back out there .
+captain_karl_agathon Ive almost started to think of this place as ...
+Helo_&_Caprica_Boomer#unknown#BattlestarGalactica.Season01.Episode05 ...home .
+captain_karl_agathon No , sleep a little longer .
+captain_karl_agathon Who knows when well find clean sheets again .
+captain_karl_agathon Im gonna go topside and make some breakfast .
+captain_karl_agathon Breakfast ...
+lt_sharon_valerii Hey , is breakfast ready ?
+captain_karl_agathon Sharon , get out of here !
+captain_karl_agathon Go , go , go !
+captain_kara_thrace Lords , its Kara Thrace .
+captain_kara_thrace Im running a little low on O2
+captain_kara_thrace and I could use a lucky break .
+captain_kara_thrace No ?
+captain_kara_thrace Okay , just thought Id mention it .
+captain_kara_thrace Oh , frak .
+captain_kara_thrace Not bad shooting if I do say so myself .
+captain_kara_thrace Lords , I owe you one .
+captain_kara_thrace Looks like I found my ride out of here ...
+captain_kara_thrace if I can fix you up .
+cpt_lee_adama Galactica , Apollo .
+cpt_lee_adama Bingo fuel .
+officer_anastasia_dualla Roger , Apollo , return to base .
+cpt_lee_adama What , cant you tank me in orbit ?
+officer_anastasia_dualla Negative , Apollo , the tankers are refilling .
+officer_anastasia_dualla Youll be dry before they can launch .
+admiral_william_adama Are these figures correct ?
+lt_felix_gaeta Yes , sir , atmospheric ops mean that Viper and Raptor engines have to run continuously .
+lt_felix_gaeta Fuels gonna be a real problem if we keep it up .
+admiral_william_adama Any report from the civilian ships ?
+colonel_saul_tigh Nothing .
+colonel_saul_tigh Theyre spread pretty far out .
+colonel_saul_tigh Were gonna have a hell of a time trying to cover them if the Cylons pop in .
+colonel_saul_tigh We should consider pulling the civvies into a defensible formation .
+admiral_william_adama No ... keep all the ships on the search .
+admiral_william_adama Weve left enough people behind .
+admiral_william_adama I dont wanna leave Starbuck behind .
+colonel_saul_tigh Im just saying , committing the entire fleet to this search-
+admiral_william_adama I said no !
+admiral_william_adama Were gonna find our missing pilot !
+admiral_william_adama And were gonna bring her home .
+admiral_william_adama We leave no one behind .
+admiral_william_adama Resume your duties .
+captain_karl_agathon Sharon? !
+captain_karl_agathon Sharon , where are you ?
+captain_karl_agathon Damn it Sharon , where are you ?
+captain_karl_agathon Sharon? !
+captain_karl_agathon Sharon ...? !
+captain_kara_thrace Frak me .
+captain_kara_thrace Are you ... alive ?
+chief_galen_tyrol What the hell happened this time , Captain ?
+cpt_lee_adama I hit the roll thrusters to level off for set down but only the left one fired .
+chief_galen_tyrol Oh , gods , its that crap youre flyin into down there .
+chief_galen_tyrol Gums everything up .
+cpt_lee_adama Get me another Viper .
+chief_galen_tyrol Id love to ,
+chief_galen_tyrol Captain but this is 13 Vipers that are down plus your Mark 7 .
+chief_galen_tyrol Im out !
+cpt_lee_adama Damn it , Ive got a pilot down
+cpt_lee_adama and I need another Viper now !
+chief_galen_tyrol I realize that , Captain but you can push people a hell of a lot further than you can push machines .
+cpt_lee_adama Tyrol , Im the CAG , youre the Chief , just make it happen .
+lt_felix_gaeta Commander , the clock has passed five hours , sir , for Starbucks O2 supply .
+admiral_william_adama Noted .
+lt_felix_gaeta Heres the photo mosaic for the area weve searched so far .
+admiral_william_adama We gotta do better than this .
+colonel_saul_tigh Cant see very far when youre hugging the ground .
+cpt_lee_adama You cant see anything at all from altitude , not to mention the crap in the air that keeps screwing up our ships .
+cpt_lee_adama 13 Vipers down for repairs .
+admiral_william_adama We need more eyes .
+colonel_saul_tigh Yeah , where you gonna get em ?
+cpt_lee_adama Pull the CAP .
+colonel_saul_tigh What ?
+cpt_lee_adama Redeploy the combat air patrol to the search .
+colonel_saul_tigh Bad idea , the CAP is the fleets only defense .
+colonel_saul_tigh If all our Vipers are frakin around on the moon when the Cylons come calling , were maggot meat .
+cpt_lee_adama Well , then bring the fleet closer to the moon .
+cpt_lee_adama We can always scramble the Vipers from the search to meet any attack .
+colonel_saul_tigh You gotta be kidding .
+cpt_lee_adama Bottom line : we can double the area we can search in the time we have left .
+colonel_saul_tigh Starbuck would be the first one to tell you not to do this .
+cpt_lee_adama Nothing would make you happier would it ?
+cpt_lee_adama Leave her behind , get rid of the foul-mouthed insubordinate pilot that keeps challenging your authority .
+colonel_saul_tigh You are way out of line , mister ,
+colonel_saul_tigh Im not the one confusing personal feelings with duty .
+cpt_lee_adama Oh , yeah ?
+cpt_lee_adama What the hell does that mean ?
 colonel_saul_tigh It means you are way too close to this because she is your friend-
-admiral_william_adama Gentlemen! We have work to do. Captain, get as many birds up in the air as you can and you find our girl.
-cpt_lee_adama You got it.
-captain_kara_thrace Oh... my... gods... you bite me and Ill bite you back. So, I guess the only thing flying you, is you. This must be your brain. I dont think youll need it. Its a good thing that I brought one of my own. Frak... even cockroaches have to breathe. How the hell do you?
-crewman_specialist_socinus Captain, call for you, sir!
-cpt_lee_adama Can someone finish this up for me?
-Creman#unknown#BattlestarGalactica.Season01.Episode05 Sure.
-cpt_lee_adama Where is it?
-crewman_specialist_socinus That way.
-cpt_lee_adama Yeah, Apollo.
-billy_keikeya Call from President Roslin.
-president_laura_roslin How are you holding up?
-cpt_lee_adama Better than my Viper. Were slapping one together from pieces of the others.
-president_laura_roslin I need your help. Do you know that your father just redeployed the combat air patrol?
-cpt_lee_adama Yes, Madam President, it was my idea.
-president_laura_roslin Your idea?
-cpt_lee_adama We need every Viper weve got.
-president_laura_roslin Now, maybe Im missing something about the tactics involved here, but isnt the fleet defenseless without the C.A.P.?
-cpt_lee_adama only for a short time. Because after that... because after that, Karas oxygen will be gone and shell be dead.
-president_laura_roslin Are you very close with Lieutenant Thrace?
-cpt_lee_adama Im close with all my pilots.
-president_laura_roslin And I assume the same is true for your father?
-cpt_lee_adama His pilots mean a lot to him, to all of us. We dont leave anyone behind.
-president_laura_roslin But we have left people behind, you know that.
-cpt_lee_adama Not this time. Your F.T.L. drive should be spun up and ready. Just make sure everyone is set to jump at the first sign of trouble.
-president_laura_roslin With all due respect, Captain, there are times when it is necessary for the safety of the fleet to-
-cpt_lee_adama Not this time. Madam President, we just havent exhausted all the options and the safety of the fleet has not been compromised.
-president_laura_roslin I hope you find her.
-cpt_lee_adama Thank you.
-lt_felix_gaeta Blue flight reports bingo fuel, sir.
-admiral_william_adama Have them stay on the search. Send the tanker to them. Is there a problem, Mr. Gaeta?
-lt_felix_gaeta Its just that trying to tank in that turbulence, sir, will be extremely hairy. I suggest we wait until the clock has run down and then tank them up on the way back to Galactica.
-admiral_william_adama Did someone call them back to Galactica?
+admiral_william_adama Gentlemen !
+admiral_william_adama We have work to do .
+admiral_william_adama Captain , get as many birds up in the air as you can
+admiral_william_adama and you find our girl .
+cpt_lee_adama You got it .
+captain_kara_thrace Oh ...
+captain_kara_thrace my ... gods ...
+captain_kara_thrace you bite me and Ill bite you back .
+captain_kara_thrace So , I guess the only thing flying you , is you .
+captain_kara_thrace This must be your brain .
+captain_kara_thrace I dont think youll need it .
+captain_kara_thrace Its a good thing that I brought one of my own .
+captain_kara_thrace Frak ... even cockroaches have to breathe .
+captain_kara_thrace How the hell do you ?
+crewman_specialist_socinus Captain , call for you , sir !
+cpt_lee_adama Can someone finish this up for me ?
+Creman#unknown#BattlestarGalactica.Season01.Episode05 Sure .
+cpt_lee_adama Where is it ?
+crewman_specialist_socinus That way .
+cpt_lee_adama Yeah , Apollo .
+billy_keikeya Call from President Roslin .
+president_laura_roslin How are you holding up ?
+cpt_lee_adama Better than my Viper .
+cpt_lee_adama Were slapping one together from pieces of the others .
+president_laura_roslin I need your help .
+president_laura_roslin Do you know that your father just redeployed the combat air patrol ?
+cpt_lee_adama Yes , Madam President , it was my idea .
+president_laura_roslin Your idea ?
+cpt_lee_adama We need every Viper weve got .
+president_laura_roslin Now , maybe Im missing something about the tactics involved here , but isnt the fleet defenseless without the C.A.P. ?
+cpt_lee_adama only for a short time .
+cpt_lee_adama Because after that ... because after that , Karas oxygen will be gone and shell be dead .
+president_laura_roslin Are you very close with Lieutenant Thrace ?
+cpt_lee_adama Im close with all my pilots .
+president_laura_roslin And I assume the same is true for your father ?
+cpt_lee_adama His pilots mean a lot to him , to all of us .
+cpt_lee_adama We dont leave anyone behind .
+president_laura_roslin But we have left people behind , you know that .
+cpt_lee_adama Not this time .
+cpt_lee_adama Your F.T.L . drive should be spun up and ready .
+cpt_lee_adama Just make sure everyone is set to jump at the first sign of trouble .
+president_laura_roslin With all due respect , Captain , there are times when it is necessary for the safety of the fleet to-
+cpt_lee_adama Not this time .
+cpt_lee_adama Madam President , we just havent exhausted all the options and the safety of the fleet has not been compromised .
+president_laura_roslin I hope you find her .
+cpt_lee_adama Thank you .
+lt_felix_gaeta Blue flight reports bingo fuel , sir .
+admiral_william_adama Have them stay on the search .
+admiral_william_adama Send the tanker to them .
+admiral_william_adama Is there a problem , Mr .
+admiral_william_adama Gaeta ?
+lt_felix_gaeta Its just that trying to tank in that turbulence , sir , will be extremely hairy .
+lt_felix_gaeta I suggest we wait until the clock has run down and then tank them up on the way back to Galactica .
+admiral_william_adama Did someone call them back to Galactica ?
 lt_felix_gaeta I just assumed-
-admiral_william_adama ...the search was over? That it was hopeless? That we should write Starbuck off as dead? Is that what youre telling me, Mr. Gaeta?
-lt_felix_gaeta No, sir.
-admiral_william_adama Then what are you trying to tell me, Mr. Gaeta? You have your orders.
-lt_felix_gaeta Yes, sir.
-colonel_saul_tigh Times up, shes out of O2.
-admiral_william_adama The clock is a guess. We dont know for a fact Starbuck is out of air.
-colonel_saul_tigh Her tank only holds so much oxygen.
-admiral_william_adama She could have a reserve supply in her survival gear.
-colonel_saul_tigh A reserve?
-admiral_william_adama Yes.
-colonel_saul_tigh What, she just happened to pack an extra bottle today?
-admiral_william_adama Its possible.
-colonel_saul_tigh We are putting people at risk. We have pilots out there who are pushing themselves and their ships too hard, all for the sake of-
-admiral_william_adama We are not quitting. And you are relieved, Colonel.
-colonel_saul_tigh I stand relieved, sir.
-captain_kara_thrace Come on... youre part biological, right? Which means that you need oxygen, right? So, its gotta be here... somewhere.
-officer_anastasia_dualla Commander, the President.
-admiral_william_adama Adama.
-president_laura_roslin Commander Adama, I just want to say how very sorry I am about Lieutenant Thrace. Please give my condolences to your son and to the rest of the crew.
-admiral_william_adama Excuse me, maam, but I think youve been misinformed.
-president_laura_roslin How?
-admiral_william_adama We dont know if Starbucks dead.
-president_laura_roslin I was told that her oxygen had run out a half an hour ago?
-admiral_william_adama Thats an estimate. She may have a reserve supply. Well continue the search as long as theres a chance she may be alive.
-president_laura_roslin And how long will that be?
-admiral_william_adama Until I say stop. This is a military decision, Madam President. Thank you for your concern.
-captain_kara_thrace First on the list: seal you up, and figure out what controls what. one of us needs a bath... ugh. All right... now youre gonna teach me how to fly.
-lt_felix_gaeta Commander? Red flight reports an area of highlands here. Increased visibility out to 15 clicks, maybe.
+admiral_william_adama ...
+admiral_william_adama the search was over ?
+admiral_william_adama That it was hopeless ?
+admiral_william_adama That we should write Starbuck off as dead ?
+admiral_william_adama Is that what youre telling me , Mr .
+admiral_william_adama Gaeta ?
+lt_felix_gaeta No , sir .
+admiral_william_adama Then what are you trying to tell me , Mr .
+admiral_william_adama Gaeta ?
+admiral_william_adama You have your orders .
+lt_felix_gaeta Yes , sir .
+colonel_saul_tigh Times up , shes out of O2 .
+admiral_william_adama The clock is a guess .
+admiral_william_adama We dont know for a fact Starbuck is out of air .
+colonel_saul_tigh Her tank only holds so much oxygen .
+admiral_william_adama She could have a reserve supply in her survival gear .
+colonel_saul_tigh A reserve ?
+admiral_william_adama Yes .
+colonel_saul_tigh What , she just happened to pack an extra bottle today ?
+admiral_william_adama Its possible .
+colonel_saul_tigh We are putting people at risk .
+colonel_saul_tigh We have pilots out there who are pushing themselves and their ships too hard , all for the sake of-
+admiral_william_adama We are not quitting .
+admiral_william_adama And you are relieved , Colonel .
+colonel_saul_tigh I stand relieved , sir .
+captain_kara_thrace Come on ...
+captain_kara_thrace youre part biological , right ?
+captain_kara_thrace Which means that you need oxygen , right ?
+captain_kara_thrace So , its gotta be here ... somewhere .
+officer_anastasia_dualla Commander , the President .
+admiral_william_adama Adama .
+president_laura_roslin Commander Adama , I just want to say how very sorry I am about Lieutenant Thrace .
+president_laura_roslin Please give my condolences to your son and to the rest of the crew .
+admiral_william_adama Excuse me , maam , but I think youve been misinformed .
+president_laura_roslin How ?
+admiral_william_adama We dont know if Starbucks dead .
+president_laura_roslin I was told that her oxygen had run out a half an hour ago ?
+admiral_william_adama Thats an estimate .
+admiral_william_adama She may have a reserve supply .
+admiral_william_adama Well continue the search as long as theres a chance she may be alive .
+president_laura_roslin And how long will that be ?
+admiral_william_adama Until I say stop .
+admiral_william_adama This is a military decision , Madam President .
+admiral_william_adama Thank you for your concern .
+captain_kara_thrace First on the list : seal you up , and figure out what controls what .
+captain_kara_thrace one of us needs a bath ...
+captain_kara_thrace ugh .
+captain_kara_thrace All right ... now youre gonna teach me how to fly .
+lt_felix_gaeta Commander ?
+lt_felix_gaeta Red flight reports an area of highlands here .
+lt_felix_gaeta Increased visibility out to 15 clicks , maybe .
 admiral_william_adama Its the wrong side of the moon-
-officer_anastasia_dualla Excuse me, Commander?
+officer_anastasia_dualla Excuse me , Commander ?
 admiral_william_adama Almost impossible for her to land there-
-officer_anastasia_dualla Sir, we have a signal from Colonial ones shuttle. They request permission to land. They have the President on board, sir.
-admiral_william_adama Why wasnt I notified the President was coming on board?
-officer_anastasia_dualla There was no advance notice, sir. I didnt know she was coming.
-admiral_william_adama Lets go. Have Colonel Tigh meet her at the airlock and bring her to my quarters, please.
-officer_anastasia_dualla Very well.
-captain_kara_thrace Every flying machine has four basic controls: power, pitch, yaw and roll. Where are yours? Safety tip number one: dont touch that.
-colonel_saul_tigh Are you gonna order us to stop the search?
-president_laura_roslin I came here to talk, not to give orders.
-colonel_saul_tigh It may take an order.
-president_laura_roslin Why? Colonel Tigh, do I need to know something?
-colonel_saul_tigh Its gone beyond military needs. Its personal. For the Commander and for Lee too. Because of Lieutenant Thrace. Because of her, and because of Zak Adama.
-president_laura_roslin The Commanders dead son?
-colonel_saul_tigh Its complicated. It would take about three weeks to explain.
-president_laura_roslin Weve got about three minutes, talk fast.
-admiral_william_adama Shes gonna press.
-cpt_lee_adama Im with you.
-colonel_saul_tigh President Roslin.
-admiral_william_adama Madam President.
-president_laura_roslin Skip the formalities, you both know why Im here.
-admiral_william_adama Termination of a pilots rescue mission is a military decision.
-president_laura_roslin Thats a bunch of crap. This isnt military, its personal. Neither of you can let go of Kara Thrace because shes your last link to Zak.
+officer_anastasia_dualla Sir , we have a signal from Colonial ones shuttle .
+officer_anastasia_dualla They request permission to land .
+officer_anastasia_dualla They have the President on board , sir .
+admiral_william_adama Why wasnt I notified the President was coming on board ?
+officer_anastasia_dualla There was no advance notice , sir .
+officer_anastasia_dualla I didnt know she was coming .
+admiral_william_adama Lets go .
+admiral_william_adama Have Colonel Tigh meet her at the airlock and bring her to my quarters , please .
+officer_anastasia_dualla Very well .
+captain_kara_thrace Every flying machine has four basic controls : power , pitch , yaw and roll .
+captain_kara_thrace Where are yours ?
+captain_kara_thrace Safety tip number one : dont touch that .
+colonel_saul_tigh Are you gonna order us to stop the search ?
+president_laura_roslin I came here to talk , not to give orders .
+colonel_saul_tigh It may take an order .
+president_laura_roslin Why ?
+president_laura_roslin Colonel Tigh , do I need to know something ?
+colonel_saul_tigh Its gone beyond military needs .
+colonel_saul_tigh Its personal .
+colonel_saul_tigh For the Commander and for Lee too .
+colonel_saul_tigh Because of Lieutenant Thrace .
+colonel_saul_tigh Because of her , and because of Zak Adama .
+president_laura_roslin The Commanders dead son ?
+colonel_saul_tigh Its complicated .
+colonel_saul_tigh It would take about three weeks to explain .
+president_laura_roslin Weve got about three minutes , talk fast .
+admiral_william_adama Shes gonna press .
+cpt_lee_adama Im with you .
+colonel_saul_tigh President Roslin .
+admiral_william_adama Madam President .
+president_laura_roslin Skip the formalities , you both know why Im here .
+admiral_william_adama Termination of a pilots rescue mission is a military decision .
+president_laura_roslin Thats a bunch of crap .
+president_laura_roslin This isnt military , its personal .
+president_laura_roslin Neither of you can let go of Kara Thrace because shes your last link to Zak .
 cpt_lee_adama You dont know anything about my brother-
-president_laura_roslin Dont even begin, Captain. Youve lost perspective, as have you. Under normal circumstances it would just be sad that the two of you cant come to terms with Zaks death. In this situation, youre putting your pilots at risk and youre exposing the entire fleet to possible attack every moment we stay here.
-admiral_william_adama Weve been at risk of an attack since day one. s wont be missing the patrol for at least one more day.
-president_laura_roslin Colonel Tigh, how much aviation fuel has been expended in this operation?
-colonel_saul_tigh 43% of reserves.
-president_laura_roslin Almost half. Thats unacceptable. And operations in the moons atmosphere have put one-third of your fighters out of action. That is also completely unacceptable.
-admiral_william_adama Crap unacceptable. Whatever it is you feel about this, the recovery of one pilot is a military matter.
-president_laura_roslin All right... its military, fine. And youre both officers and youre both honorable men and youre both perfectly aware that you are putting the lives of over 45,000 people and the future of this civilization at risk, for your personal feelings. Now, if the two of you, of all people, can live with that, then the human race doesnt stand a chance. Clear your heads.
-cpt_lee_adama Combat, stand by.
-admiral_william_adama This is the Commander. Terminate search operations, bring everyone home. Prepare the fleet to make a jump into the next system. Were leaving.
-captain_kara_thrace Okay, so it either works or it doesnt. Okay, okay... thats power, roll, pitch and yaw. We have control. Take me home! Oh, you stink, but youre one hell of a flying machine!
-cpt_lee_adama I want you to know, I think shes wrong. I think we have come to terms with what happened to Zak.
-admiral_william_adama I havent.
-cpt_lee_adama I need to know something: why did you do this? Why did we do this? Is it for Kara? For Zak? For what?
-admiral_william_adama Kara was family. You do whatever you have to do. Sometimes you break the rules.
-cpt_lee_adama And if it was me down there instead?
-admiral_william_adama You dont have to ask that.
-cpt_lee_adama Are you sure?
-admiral_william_adama If it were you... wed never leave.
-admiral_william_adama Colonel.
-colonel_saul_tigh Commander.
-admiral_william_adama Resume your duties.
-colonel_saul_tigh Sir. Fighters are aboard, sir. Civilian ships have begun their jumps to the next star system. You give the word, well start our clock.
-admiral_william_adama Start the clock.
-colonel_saul_tigh Mr. Gaeta, start the clock.
-admiral_william_adama Madam President, would you like to return to your ship?
-president_laura_roslin Thank you, Ill stay here. Id like to see how the professionals do it.
-admiral_william_adama As you wish. Execute jump, Lieutenant Gaeta.
-lt_felix_gaeta Aye, sir. Jump clock is running. Navigation?
-Navigation_Officer#unknown#BattlestarGalactica.Season01.Episode05 Go!
-lt_felix_gaeta F.T.L.?
-FTL_Officer#unknown#BattlestarGalactica.Season01.Episode05 Go!
-lt_felix_gaeta Tactical?
-Tactical_Officer#unknown#BattlestarGalactica.Season01.Episode05 Go!
-lt_felix_gaeta Flight Ops?
-officer_anastasia_dualla Contact! Dradis contact. Incoming, bearing zero-six-zero carom three-zero-eight.
-admiral_william_adama Hold count.
-lt_felix_gaeta Count held.
-officer_anastasia_dualla Contact is...
-admiral_william_adama Well?
-officer_anastasia_dualla Raider, sir.
-admiral_william_adama You were right, its just a matter of time.
-officer_anastasia_dualla Hes on an intercept course. Hell be on us before we complete the jump, sir.
-admiral_william_adama Action stations, launch Vipers.
-colonel_saul_tigh Action stations, action stations. Launch the Alert fighters, Raider approaching.
-captain_kara_thrace Okay... now, look before you shoot, please.
-lt_felix_gaeta Gun captains report weapons manned and ready.
-colonel_saul_tigh Where the hell are the Vipers?
-officer_anastasia_dualla Most are being fueled. Hotdog and Apollo are in the tubes.
-Flight_Computer#unknown#BattlestarGalactica.Season01.Episode05 Viper one, clear forward, navcon-green. Interval failure, abort launch.
-lt_brendan_constanza Frak! Frak, frak, frak!
-cpt_lee_adama I guess Im going solo.
-president_laura_roslin Why only one this time?
-colonel_saul_tigh Could be a lone recon mission, or the vanguard for a base ship about to jump on top of us. Either way, were gonna have to take it out before we can jump.
-cpt_lee_adama Galactica, Apollo. Target in sight.
-captain_kara_thrace You idiot! Didnt anybody teach you intercept protocol? Okay, were gonna have to do this the hard way then.
-cpt_lee_adama Lords, this bastards good.
-lt_felix_gaeta Theyre closing fast. Port guns have a firing solution.
-admiral_william_adama Very well.
-cpt_lee_adama Hold still, you little-
-captain_kara_thrace No cigar for you. Just a little... bit... closer... not that close!
-cpt_lee_adama What the?! Ive lost him! Galactica, I repeat: he is nowhere to be seen.
-admiral_william_adama Dradis?
-lt_felix_gaeta No help, their reports have merged.
-colonel_saul_tigh Launch tube status?
-officer_anastasia_dualla Still fouled. Well have a Viper away in 45 seconds.
-Adama_and_Tigh#unknown#BattlestarGalactica.Season01.Episode05 Thisll be over in 45 seconds.
-cpt_lee_adama Holy- Galactica, the is now flying in formation with me, right above my head. This thing is acting weird. Hook me through. Ha ha...! Its Starbuck!
-admiral_william_adama What?! Come again, Apollo.
-cpt_lee_adama Galactica, the Raider is marked Starbuck! Its written under the frakin wing!
-admiral_william_adama Bring it into the bay! If it does anything, take it out!
-cpt_lee_adama Wilco, Galactica, but I tell you what: its has got to be her. This thing is flying with some serious attitude.
-chief_galen_tyrol Now your ass belongs to me.
-captain_kara_thrace Like my new toy?
-cpt_lee_adama Boy, when you take a souvenir, you dont screw around. Oh, my gods, you smell like a latrine.
-captain_kara_thrace Mmm... you wanna give me a bath?
-admiral_william_adama How you feeling?
-captain_kara_thrace Been a hell of a lot worse. Dont have any ambrosia but the doc can fix you up with some really nice stuff. Its not bad, is it? The knee?
-admiral_william_adama Doc says its too early to tell, but knowing you, youll be fine. Kara...
-captain_kara_thrace Yeah?
-admiral_william_adama You did good... you did real good. Need anything?
-captain_kara_thrace A stogie would be nice.
-admiral_william_adama I had a feeling. Its my last one, so enjoy.
-captain_kara_thrace Thank you.
-admiral_william_adama Get some rest.
+president_laura_roslin Dont even begin , Captain .
+president_laura_roslin Youve lost perspective , as have you .
+president_laura_roslin Under normal circumstances it would just be sad that the two of you cant come to terms with Zaks death .
+president_laura_roslin In this situation , youre putting your pilots at risk and youre exposing the entire fleet to possible attack every moment we stay here .
+admiral_william_adama Weve been at risk of an attack since day one .
+admiral_william_adama s wont be missing the patrol for at least one more day .
+president_laura_roslin Colonel Tigh , how much aviation fuel has been expended in this operation ?
+colonel_saul_tigh 43% of reserves .
+president_laura_roslin Almost half .
+president_laura_roslin Thats unacceptable .
+president_laura_roslin And operations in the moons atmosphere have put one-third of your fighters out of action .
+president_laura_roslin That is also completely unacceptable .
+admiral_william_adama Crap unacceptable .
+admiral_william_adama Whatever it is you feel about this , the recovery of one pilot is a military matter .
+president_laura_roslin All right ... its military , fine .
+president_laura_roslin And youre both officers and youre both honorable men and youre both perfectly aware that you are putting the lives of over 45,000 people and the future of this civilization at risk , for your personal feelings .
+president_laura_roslin Now , if the two of you , of all people , can live with that , then the human race doesnt stand a chance .
+president_laura_roslin Clear your heads .
+cpt_lee_adama Combat , stand by .
+admiral_william_adama This is the Commander .
+admiral_william_adama Terminate search operations , bring everyone home .
+admiral_william_adama Prepare the fleet to make a jump into the next system .
+admiral_william_adama Were leaving .
+captain_kara_thrace Okay , so it either works or it doesnt .
+captain_kara_thrace Okay , okay ...
+captain_kara_thrace thats power , roll , pitch and yaw .
+captain_kara_thrace We have control .
+captain_kara_thrace Take me home !
+captain_kara_thrace Oh , you stink , but youre one hell of a flying machine !
+cpt_lee_adama I want you to know , I think shes wrong .
+cpt_lee_adama I think we have come to terms with what happened to Zak .
+admiral_william_adama I havent .
+cpt_lee_adama I need to know something : why did you do this ?
+cpt_lee_adama Why did we do this ?
+cpt_lee_adama Is it for Kara ?
+cpt_lee_adama For Zak ?
+cpt_lee_adama For what ?
+admiral_william_adama Kara was family .
+admiral_william_adama You do whatever you have to do .
+admiral_william_adama Sometimes you break the rules .
+cpt_lee_adama And if it was me down there instead ?
+admiral_william_adama You dont have to ask that .
+cpt_lee_adama Are you sure ?
+admiral_william_adama If it were you ...
+admiral_william_adama wed never leave .
+admiral_william_adama Colonel .
+colonel_saul_tigh Commander .
+admiral_william_adama Resume your duties .
+colonel_saul_tigh Sir .
+colonel_saul_tigh Fighters are aboard , sir .
+colonel_saul_tigh Civilian ships have begun their jumps to the next star system .
+colonel_saul_tigh You give the word , well start our clock .
+admiral_william_adama Start the clock .
+colonel_saul_tigh Mr .
+colonel_saul_tigh Gaeta , start the clock .
+admiral_william_adama Madam President , would you like to return to your ship ?
+president_laura_roslin Thank you , Ill stay here .
+president_laura_roslin Id like to see how the professionals do it .
+admiral_william_adama As you wish .
+admiral_william_adama Execute jump , Lieutenant Gaeta .
+lt_felix_gaeta Aye , sir .
+lt_felix_gaeta Jump clock is running .
+lt_felix_gaeta Navigation ?
+Navigation_Officer#unknown#BattlestarGalactica.Season01.Episode05 Go !
+lt_felix_gaeta F.T.L. ?
+FTL_Officer#unknown#BattlestarGalactica.Season01.Episode05 Go !
+lt_felix_gaeta Tactical ?
+Tactical_Officer#unknown#BattlestarGalactica.Season01.Episode05 Go !
+lt_felix_gaeta Flight Ops ?
+officer_anastasia_dualla Contact !
+officer_anastasia_dualla Dradis contact .
+officer_anastasia_dualla Incoming , bearing zero-six-zero carom three-zero-eight .
+admiral_william_adama Hold count .
+lt_felix_gaeta Count held .
+officer_anastasia_dualla Contact is ...
+admiral_william_adama Well ?
+officer_anastasia_dualla Raider , sir .
+admiral_william_adama You were right , its just a matter of time .
+officer_anastasia_dualla Hes on an intercept course .
+officer_anastasia_dualla Hell be on us before we complete the jump , sir .
+admiral_william_adama Action stations , launch Vipers .
+colonel_saul_tigh Action stations , action stations .
+colonel_saul_tigh Launch the Alert fighters , Raider approaching .
+captain_kara_thrace Okay ...
+captain_kara_thrace now , look before you shoot , please .
+lt_felix_gaeta Gun captains report weapons manned and ready .
+colonel_saul_tigh Where the hell are the Vipers ?
+officer_anastasia_dualla Most are being fueled .
+officer_anastasia_dualla Hotdog and Apollo are in the tubes .
+Flight_Computer#unknown#BattlestarGalactica.Season01.Episode05 Viper one , clear forward , navcon-green .
+Flight_Computer#unknown#BattlestarGalactica.Season01.Episode05 Interval failure , abort launch .
+lt_brendan_constanza Frak !
+lt_brendan_constanza Frak , frak , frak !
+cpt_lee_adama I guess Im going solo .
+president_laura_roslin Why only one this time ?
+colonel_saul_tigh Could be a lone recon mission , or the vanguard for a base ship about to jump on top of us .
+colonel_saul_tigh Either way , were gonna have to take it out before we can jump .
+cpt_lee_adama Galactica , Apollo .
+cpt_lee_adama Target in sight .
+captain_kara_thrace You idiot !
+captain_kara_thrace Didnt anybody teach you intercept protocol ?
+captain_kara_thrace Okay , were gonna have to do this the hard way then .
+cpt_lee_adama Lords , this bastards good .
+lt_felix_gaeta Theyre closing fast .
+lt_felix_gaeta Port guns have a firing solution .
+admiral_william_adama Very well .
+cpt_lee_adama Hold still , you little-
+captain_kara_thrace No cigar for you .
+captain_kara_thrace Just a little ... bit ...
+captain_kara_thrace closer ... not that close !
+cpt_lee_adama What the? !
+cpt_lee_adama Ive lost him !
+cpt_lee_adama Galactica , I repeat : he is nowhere to be seen .
+admiral_william_adama Dradis ?
+lt_felix_gaeta No help , their reports have merged .
+colonel_saul_tigh Launch tube status ?
+officer_anastasia_dualla Still fouled .
+officer_anastasia_dualla Well have a Viper away in 45 seconds .
+Adama_and_Tigh#unknown#BattlestarGalactica.Season01.Episode05 Thisll be over in 45 seconds .
+cpt_lee_adama Holy-
+cpt_lee_adama Galactica , the is now flying in formation with me , right above my head .
+cpt_lee_adama This thing is acting weird .
+cpt_lee_adama Hook me through .
+cpt_lee_adama Ha ha ... !
+cpt_lee_adama Its Starbuck !
+admiral_william_adama What? !
+admiral_william_adama Come again , Apollo .
+cpt_lee_adama Galactica , the Raider is marked Starbuck !
+cpt_lee_adama Its written under the frakin wing !
+admiral_william_adama Bring it into the bay !
+admiral_william_adama If it does anything , take it out !
+cpt_lee_adama Wilco , Galactica , but I tell you what : its has got to be her .
+cpt_lee_adama This thing is flying with some serious attitude .
+chief_galen_tyrol Now your ass belongs to me .
+captain_kara_thrace Like my new toy ?
+cpt_lee_adama Boy , when you take a souvenir , you dont screw around .
+cpt_lee_adama Oh , my gods , you smell like a latrine .
+captain_kara_thrace Mmm ... you wanna give me a bath ?
+admiral_william_adama How you feeling ?
+captain_kara_thrace Been a hell of a lot worse .
+captain_kara_thrace Dont have any ambrosia but the doc can fix you up with some really nice stuff .
+captain_kara_thrace Its not bad , is it ?
+captain_kara_thrace The knee ?
+admiral_william_adama Doc says its too early to tell , but knowing you , youll be fine .
+admiral_william_adama Kara ...
+captain_kara_thrace Yeah ?
+admiral_william_adama You did good ...
+admiral_william_adama you did real good .
+admiral_william_adama Need anything ?
+captain_kara_thrace A stogie would be nice .
+admiral_william_adama I had a feeling .
+admiral_william_adama Its my last one , so enjoy .
+captain_kara_thrace Thank you .
+admiral_william_adama Get some rest .

@@ -1,340 +1,581 @@
-hugo_reyes He wasn't on the plane.
-kate_austen Who wasn't on the plane?
-hugo_reyes Ethan, the Canadian guy, he is not on the passenger manifest.
-dr_jack_shephard Well, where the hell is he?
-hugo_reyes I don't know. I saw him yesterday, but now...
-dr_jack_shephard Has anyone seen Ethan?
-kate_austen Sayid's leg.
-dr_jack_shephard Has anyone seen Ethan?
-michael_dawson Yeah, yeah. He went to go get some wood. He took off on the path to the beach. Is he okay? What happened?
-dr_jack_shephard Where's Charlie?
-kate_austen What?
-dr_jack_shephard Where's Charlie?
-john_locke He went after Claire.
-john_locke Jack!
-dr_jack_shephard She was moving back to the beach. Claire. That's hers. What happened? What...
-john_locke I don't know. Footprints. At least three distinct sets all over the place. It looks like there might have been a struggle.
-dr_jack_shephard What? What is it?
-john_locke Drag marks. Here. And here.
-dr_jack_shephard Claire and Charlie, they were together.
-john_locke I think they've been taken.
-dr_jack_shephard Claire!! Charlie! Claire!
-john_locke Jack. Jack. Shhhh.
-john_locke Tracks are still fresh.
-dr_jack_shephard This doesn't make any sense. How can one man drag off two people, one of them pregnant?
-john_locke You're asking the wrong question. Not how, why?
-dr_jack_shephard You think it was Ethan.
-john_locke It certainly feels like it was Ethan, doesn't it?
-dr_jack_shephard By himself. How?
-john_locke We can't account for all of our people. And, more importantly, who's to say they're even our people?
-dr_jack_shephard What?
-john_locke Sayid said there were others.
-dr_jack_shephard Sayid said we're not alone.
-john_locke Semantics.
-dr_jack_shephard Sayid's injured. We're not even sure where he went. He's delirious.
-john_locke I'm just telling you what the ground is telling me.
-dr_jack_shephard So which way is the ground telling you that they went?
-john_locke Jack, we don't know what's going on here.
-dr_jack_shephard We know enough.
-john_locke We need to prepare. We could be back at the caves in 10 minutes, organize a search party, get wea-
-dr_jack_shephard Which way did they go, Locke?
-NURSE#unknown#Lost.Season01.Episode11 ...stats are dropping.
-dr_jack_shephard C'mon, c'mon.
-NURSE#unknown#Lost.Season01.Episode11 #2 BP's falling. She's bleeding out.
-dr_jack_shephard No, I've got the artery almost there.
-NURSE#unknown#Lost.Season01.Episode11 #2 She's in arrest.
-dr_jack_shephard 1 milligram epi. Let's get the crash cart over here. Alright, artery's sealed. Close her up.
-NURSE#unknown#Lost.Season01.Episode11 Defib.
+hugo_reyes He wasn't on the plane .
+kate_austen Who wasn't on the plane ?
+hugo_reyes Ethan , the Canadian guy , he is not on the passenger manifest .
+dr_jack_shephard Well , where the hell is he ?
+hugo_reyes I don't know .
+hugo_reyes I saw him yesterday , but now ...
+dr_jack_shephard Has anyone seen Ethan ?
+kate_austen Sayid's leg .
+dr_jack_shephard Has anyone seen Ethan ?
+michael_dawson Yeah ,
+michael_dawson yeah .
+michael_dawson He went to go get some wood .
+michael_dawson He took off on the path to the beach .
+michael_dawson Is he okay ?
+michael_dawson What happened ?
+dr_jack_shephard Where's Charlie ?
+kate_austen What ?
+dr_jack_shephard Where's Charlie ?
+john_locke He went after Claire .
+john_locke Jack !
+dr_jack_shephard She was moving back to the beach .
+dr_jack_shephard Claire .
+dr_jack_shephard That's hers .
+dr_jack_shephard What happened ?
+dr_jack_shephard What ...
+john_locke I don't know .
+john_locke Footprints .
+john_locke At least three distinct sets all over the place .
+john_locke It looks like there might have been a struggle .
+dr_jack_shephard What ?
+dr_jack_shephard What is it ?
+john_locke Drag marks .
+john_locke Here .
+john_locke And here .
+dr_jack_shephard Claire and Charlie , they were together .
+john_locke I think they've been taken .
+dr_jack_shephard Claire! !
+dr_jack_shephard Charlie !
+dr_jack_shephard Claire !
+john_locke Jack .
+john_locke Jack .
+john_locke Shhhh .
+john_locke Tracks are still fresh .
+dr_jack_shephard This doesn't make any sense .
+dr_jack_shephard How can one man drag off two people , one of them pregnant ?
+john_locke You're asking the wrong question .
+john_locke Not how , why ?
+dr_jack_shephard You think it was Ethan .
+john_locke It certainly feels like it was Ethan , doesn't it ?
+dr_jack_shephard By himself .
+dr_jack_shephard How ?
+john_locke We can't account for all of our people .
+john_locke And , more importantly , who's to say they're even our people ?
+dr_jack_shephard What ?
+john_locke Sayid said there were others .
+dr_jack_shephard Sayid said we're not alone .
+john_locke Semantics .
+dr_jack_shephard Sayid's injured .
+dr_jack_shephard We're not even sure where he went .
+dr_jack_shephard He's delirious .
+john_locke I'm just telling you what the ground is telling me .
+dr_jack_shephard So which way is the ground telling you that they went ?
+john_locke Jack , we don't know what's going on here .
+dr_jack_shephard We know enough .
+john_locke We need to prepare .
+john_locke We could be back at the caves in 10 minutes , organize a search party , get wea-
+dr_jack_shephard Which way did they go , Locke ?
+NURSE#unknown#Lost.Season01.Episode11 ...
+NURSE#unknown#Lost.Season01.Episode11 stats are dropping .
+dr_jack_shephard C'mon , c'mon .
+NURSE#unknown#Lost.Season01.Episode11 #2 BP's falling .
+NURSE#unknown#Lost.Season01.Episode11 She's bleeding out .
+dr_jack_shephard No , I've got the artery almost there .
+NURSE#unknown#Lost.Season01.Episode11 She's in arrest .
+dr_jack_shephard 1 milligram epi .
+dr_jack_shephard Let's get the crash cart over here .
+dr_jack_shephard Alright , artery's sealed .
+dr_jack_shephard Close her up .
+NURSE#unknown#Lost.Season01.Episode11 Defib .
 dr_jack_shephard Charge
-NURSE#unknown#Lost.Season01.Episode11 Charged.
-dr_jack_shephard Clear. Charge.
-NURSE#unknown#Lost.Season01.Episode11 We're charged.
-dr_jack_shephard Clear.
-dr_jack_shephard Come on, come on back now, come on. Come on now. Come on back. Come on.
-dr_christian_shephard SHEPHARD Call it.
-dr_jack_shephard Come on, baby, come back. Come back. Come on, baby, come on. Come on now. You can do this. Come on. Come on.
-dr_christian_shephard SHEPHARD Call it, Jack. It's over, call it.
-dr_jack_shephard You call it.
-kate_austen You let him go alone?
-john_locke Don't worry. I'll catch up. What's the word from the beach?
-kate_austen Nothing. Nobody has seen him.
-kate_austen I'm coming with you.
-john_locke I figured you might.
-shannon_rutherford What are you doing? We need to get our water and get back to the beach...
-boone_carlyle I heard you're forming a search party. Can I help?
-shannon_rutherford This is a deserted Island. There's no choppers, no Amber Alerts. How exactly are you going to find them?
-john_locke By following Ethan's trail. No one can walk through the wilderness without leaving signs, bending blades of grass, breaking twigs, especially with captives in tow. And yes, I could use another hand if you're up for it.
-boone_carlyle I'm up for it.
-john_locke Then let's get moving.
-walt_lloyd I could take Vincent, and he could sniff something that belonged to Charlie. And I can help.
-michael_dawson I said no, man. Hey, Locke. Hey, look, you know, a lot of us don't just want to sit here waiting for news.
-john_locke Thanks, but we're set. Anyone else will just slow us down.
-michael_dawson Okay. Maybe I'll just put together another party.
-john_locke Good idea. We're going north. I suggest you go south.
-michael_dawson Come on.
-dr_christian_shephard SHEPHARD I never thought I'd see the day, Jack. You barge into my O.R. You work on my patient.
-dr_jack_shephard You didn't have to do this procedure.
-dr_christian_shephard SHEPHARD I don't have to do anything.
-dr_jack_shephard Yeah, of course, you don't.
-dr_christian_shephard SHEPHARD I chose to do this procedure, this emergency procedure, because when this girl crashed in the ER, they called me.
-dr_jack_shephard I was right upstairs.
-dr_christian_shephard SHEPHARD And you should have stayed upstairs. And how did you find out?
-dr_jack_shephard One of the nurses came to get me.
-dr_christian_shephard SHEPHARD Who? Oh, thank god I have you and some anonymous nurse to rescue me.
-dr_jack_shephard She told me that your hands were shaking.
-dr_christian_shephard SHEPHARD My hands were not...
-dr_jack_shephard You cut her hepatic artery.
-dr_christian_shephard SHEPHARD She was in a car crash, Jack. Her insides were a mess.
-dr_jack_shephard You made a mistake.
-dr_christian_shephard SHEPHARD They called me. I...
-dr_jack_shephard I don't care whether they called you. You made a mistake.
-dr_christian_shephard SHEPHARD Are you lecturing me?! You tell me, if you were upstairs, and I was in a restaurant having lunch, then why did they call me?
-dr_jack_shephard How many drinks did you have at lunch, dad?
-john_locke Jack. Jack. It's a good thing you were going in a circle. Not much of a search grid, but we never would have found you otherwise.
-kate_austen Did you find anything?
-dr_jack_shephard No.
-john_locke You should go back to the caves -- Sayid's leg.
-dr_jack_shephard I dressed Sayid's leg. You found me, we can find Charlie and Claire. Now, do we have a trail to follow or not?
-john_locke Jack, this was my fault.
-dr_jack_shephard What?
-john_locke I hunted with Ethan. I spent time with him. I never sensed anything -- off. But for everything that I know about hunting, tracking -- whoever he is, he knows more. If we catch up with him, I don't want anything to happen to the only trained physician on the Island. So go back, be the doctor. Let me be the hunter.
-dr_jack_shephard Can we go now?
-john_locke Follow me.
-michael_dawson I'm trying to help and all the guy can tell me is go south? Like what? I'm going to get in his way or something?
-hugo_reyes We're all tweaked, man. Locke's just feeling it like the rest of us.
-michael_dawson So, what? There's five other guys who would've gone out there with me, putting our necks on the line to find Charlie and Claire. All I'm saying is I'm getting sick of getting treated like a second class citizen around here because Mount Baldy can bag a boar.
-walt_lloyd He knows a lot more than how to catch a boar. Mr. Locke is a warrior. He can hunt, he can track stuff, and he's the only who brought knives. So, if it were me, I would listen to him.
-michael_dawson Well, I don't want you to. You understand? You stay with Hurley. I may not be a warrior, but I am going south.
-hugo_reyes Back home, I'm known as something of a warrior myself.
-john_locke We mark our progress by line of sight. We tie these off so we don't get lost.
-boone_carlyle You can lead us back to camp, right?
-john_locke If nothing happens to me.
-boone_carlyle Maybe I better take marker detail.
-dr_jack_shephard Anything?
-john_locke Not yet.
-dr_jack_shephard If you can't find the trail...
-john_locke I'll pick it up again, alright? We need to rest for a minute to get our clarity back.
-dr_jack_shephard You're going to take a break? It's got to be almost 4 o'clock. When the sun sets there's no way...
-john_locke It's 425. And, yes, I'm taking a break.
-kate_austen Can I talk to you for a sec? Would it kill you to give the guy a little space?
-dr_jack_shephard It might.
-kate_austen Stop that.
-dr_jack_shephard What?
-kate_austen That. What's going on?
-dr_jack_shephard I didn't believe her -- Claire. I gave her a sedative.
-kate_austen Jack, you can't...
-dr_jack_shephard She told me someone was after her, that she was being attacked, and I -- she just seemed so out of it. I thought that her pregnancy was amping up her stress and I... I didn't believe her.
-john_locke Jack!
-kate_austen What is it?
-john_locke Look familiar?
-dr_jack_shephard It's Charlie's.
-boone_carlyle You think it just came off?
-dr_jack_shephard No. He's leaving us a trail.
-dr_jack_shephard They went this way.
-john_locke I'm not so sure. There's another trail here.
-dr_jack_shephard What do mean, another?
-john_locke These are footprints. People moved off this way.
-dr_jack_shephard Charlie's leaving these for us to follow . They went that way.
-kate_austen Unless Charlie isn't the one leaving them. If Ethan knows that we're behind him, he could be setting up a dummy trail. Take off in one direction, double-back his own footprints.
-boone_carlyle Wait? Now you're a tracker?
-john_locke You're just full of surprises.
-dr_jack_shephard So, we've got two trails. Let's split up, I'll take that one.
-john_locke No. We should stay together, Jack.
-dr_jack_shephard Why? We've got two trails, and, apparently, two trackers.
-john_locke Be careful.
-james_ford Who got taken by what?
-walt_lloyd Charlie and Claire, they think Ethan took them.
-james_ford Ethan took them, huh?
-walt_lloyd Yeah.
-james_ford Took them why? And who the hell is Ethan?
-walt_lloyd I don't know. He wasn't on the list thing, the manifest.
-james_ford Ever think he might have lied about his name?
-walt_lloyd It's stupid to lie about your name.
-james_ford Alrighty, Tattoo, where do you think Ethan came from?
-walt_lloyd Maybe he was already on the Island, before we were.
-james_ford You got yourself one hell of an imagination, kid.
-walt_lloyd There could be lots of other people on the Island.
-james_ford So a tribe of evil natives planted a ringer in the camp to kidnap a pregnant girl and a reject from VH-1 has-beens? Yeah, fiendishly clever. And why am I getting the evening news from a 6 year old?
-walt_lloyd I'm 10.
-james_ford Okay, then it must be true.
-walt_lloyd If you don't believe me, ask Sayid. He said we're not alone.
-james_ford Sayid's back?
-boone_carlyle Red shirt.
-john_locke Huh?
-boone_carlyle Red shirt. Ever watch "Star Trek"?
-john_locke Nah, not really.
-boone_carlyle The crew guys that would go down to the planet with the main guys, the captain and the guy with the pointy ears, they always wore red shirts. And they always got killed.
-john_locke Yeah?
-boone_carlyle Yeah.
-john_locke Sounds like a piss-poor captain.
-boone_carlyle What do you do in the real world, Mr. Locke?
-john_locke It's John.
-boone_carlyle John.
-john_locke Why don't you guess?
-boone_carlyle Well, you're either a taxidermist or a hit man?
-john_locke I was a regional collection supervisor for a box company.
-boone_carlyle A box company?
-john_locke They made boxes.
-boone_carlyle Yeah, right.
-kate_austen Please, slow down.
-dr_jack_shephard You said they went this way.
-kate_austen I think they went this way. I'm not as good at this as Locke is.
-dr_jack_shephard So where did you pick up the tracking skills, Kate? Was that before or after you were on the run?
-kate_austen I'm trying to help, Jack.
-dr_jack_shephard You know what might help? A little honesty. Just give me something real, anything.
-kate_austen My dad was in the army. Ranger Battalion. We were stationed in Fort Lewis, Washington State. We'd go hiking together. One day we spend 8 hours tracking deer. Being in the woods, it was like -- it was like his religion. That was real. Anything you want to share, Jack?
-dr_christian_shephard SHEPHARD Oh, thanks for coming in, Jack. Have a seat.
-dr_jack_shephard What does it say?
-dr_christian_shephard SHEPHARD The truth, that a patient was brought to the ER following a car accident, rushed into surgery with massive internal bleeding -- you joined me, and in spite of our most heroic efforts, the patient succumbed to her injuries.
-dr_jack_shephard Looks like you fixed everything but the patient. You had no business being in O.R.
-dr_christian_shephard SHEPHARD Do you really think I would have walked in there if I couldn't handle it?
-dr_jack_shephard You've done it before.
-dr_christian_shephard SHEPHARD That's right, I have, because I am perfectly capable of making those...
-dr_jack_shephard How can you say that after what happened yesterday?
-dr_christian_shephard SHEPHARD The problem is not that...
-dr_jack_shephard You were impaired.
-dr_christian_shephard SHEPHARD I know my limits.
-dr_jack_shephard I won't sign this.
-dr_christian_shephard SHEPHARD You're a part of the team, Jack. I'm not the only one on the hook for this. You called me off. You were the surgeon of record when she died. Look, accidents happen in surgeries all the time, Jack. That's the truth and you know it. But if you contradict this report, if you mention alcohol, well, that's the only fact that's going to matter. They'll strip me of my license.
-dr_jack_shephard Yes, they will.
-dr_christian_shephard SHEPHARD I know I have been hard on you, but that is how you make a soft metal into steel. That is why you are the most gifted young surgeon in this city. And this, this is a career that is all about the greater good. I've had to sacrifice certain aspects of my relationship with you so that hundreds and thousands of patients will live because of your extraordinary skills. I know it's a long, a long time coming. What happened yesterday, I promise you, will never happen again. And after all what I've given -- this is not just about my career, Jack. It's my life.
-dr_christian_shephard SHEPHARD Thank you, son. Thank you.
-james_ford Well, well, well. I don't know if you Islams got a concept of karma, but I get the sense this Island just served you up a heaping platter of cosmic payback.
-sayid_jarrah What do you want?
-james_ford Dr. Do-Right doesn't trust me with his antibiotics so I have to hump it up here everyday just to get my meds. You know, a less magnanimous man than I might just be thinking he could beat the ever-living-snot out of you right now without fear of reprisal.
-sayid_jarrah You want to take a shot? Take it. But know that I left this camp out of shame for what I did to you. It was never my intention to return.
-james_ford Sorry, fresh out of sweet forgiveness. If it wasn't your intention to return, then why did you?
-sayid_jarrah I was taken prisoner by the French woman.
-james_ford The one who's been sending out a distress signal for 16 years? She's alive?
-sayid_jarrah She was on a science expedition. She said their ship wrecked.
-james_ford She alone?
-sayid_jarrah She said that there are others on this Island.
-james_ford Her people?
-sayid_jarrah No. She believed they had all gotten sick. She murdered her entire team.
-james_ford Right. And these others, who the hell are they?
-sayid_jarrah I don't know. She's never seen them.
-james_ford Oh, she's never seen them, but she knows they're there.
-sayid_jarrah If you believe her.
-james_ford Do you?
-sayid_jarrah Maybe. Maybe not. But on my way back I heard something in the jungle surrounding me.
-james_ford Something like what?
-sayid_jarrah Have you got something to say to me, Sawyer, or are you going to continue asking me questions you know I don't have the answers to?
-james_ford Tide's coming up the beach. Plane hull's almost in the water. Kept your signal fire burning.
-hugo_reyes Crap.
-walt_lloyd Your blacks can't get in.
-hugo_reyes Yeah, I know my blacks can't get in.
-walt_lloyd My roll.
-hugo_reyes Yahoo.
-walt_lloyd Need a 4-3.
-hugo_reyes Dude, would you please roll?
-walt_lloyd Yes.
-hugo_reyes No!
-walt_lloyd Your turn.
-walt_lloyd It's okay, I wasn't very good when I first started playing, either.
-hugo_reyes I didn't just start playing. I took 17th in a tournament once.
-walt_lloyd 17th is not very good.
-hugo_reyes No, 17th is very good.
-walt_lloyd C'mon double 6's, double 6's. Yes.
-hugo_reyes Aw, you've got to be kidding me,
-walt_lloyd I'm lucky.
-hugo_reyes No one is that lucky.
-walt_lloyd My dad said I was the luckiest person he ever knew.
-hugo_reyes Really?
-walt_lloyd Not Michael, Brian. My other dad. Yeah, um. . . Yes! Yes! C'mon, one more game, double or nothing.
-hugo_reyes Can't. I have a meeting.
-walt_lloyd A meeting?
-hugo_reyes Yeah. A meeting.
-walt_lloyd You owe me 20 thousand dollars!
-hugo_reyes You'll get it.
-boone_carlyle It's been all 15 minutes since we've seen any sign. What are we following?
-john_locke My gut.
-boone_carlyle Great.
-john_locke So, Boone, what did you do in the real world?
-boone_carlyle I run a business.
-john_locke What kind of business?
-boone_carlyle Uh, it's a wedding thing.
-john_locke Huh?
-boone_carlyle My mother has this empire. The Martha Stewart of matrimony. I run one of the subsidiaries.
-john_locke So who's running it now?
-boone_carlyle I guess it doesn't matter, does it?
-john_locke I'm sure there are people who can handle it, temporarily. It's going to start raining, in one minute.
-boone_carlyle 1 minute?
-john_locke Give or take a few seconds. You should turn around, Boone, and head back.
-boone_carlyle What?
-john_locke The trail's been cold for a quarter mile, dangerous terrain ahead. If you start now, you'll make it back to camp before dark.
-boone_carlyle What about you?
-john_locke I can take care of myself.
-boone_carlyle No, I'm not heading back.
-john_locke I admire your courage, but...
-boone_carlyle I'm not heading back.
-john_locke Alright.
-boone_carlyle They teach you how to predict the weather in a box company?!
-dr_jack_shephard I guess we were right. Where to now?
-kate_austen Jack? Jack, where are you going? Jack?
-dr_jack_shephard Didn't you hear her?
-kate_austen What? Hear, hear who?
-kate_austen Jack!
-dr_ethan_rom If you do not stop following me, I will kill one of them. Do you understand?
-dr_ethan_rom No more warnings.
-andrea Dr. Shephard.
-dr_jack_shephard Andrea. Andrea, that man that my father is talking to, who is that?
-andrea That's her husband. He's threatening to sue.
-kate_austen Jack, Jack. Jack, are you okay?
-dr_jack_shephard How long was I out?
-kate_austen I don't know, I'm sorry, you slid on the rocks and...
-dr_jack_shephard Ethan?
-kate_austen What?
-dr_jack_shephard Ethan was here.
-kate_austen You banged your head, Jack.
-dr_jack_shephard No, no. He was here.
-kate_austen You have to stop. The rain has washed away the trail. Even if he was here -- you've got -- Jack!
-dr_jack_shephard I'm not letting him do this.
-kate_austen Not letting him?!
-dr_jack_shephard Not again.
-dr_christian_shephard SHEPHARD We realized that her blood pressure was continuing to drop precipitously, at which point the patient went into cardiac arrest. Of course, every effort was made to resuscitate her, but the severity of her injuries, the amount of internal bleeding, made that impossible. Now, in my professional opinion, ladies and gentlemen, and that's all I have, by the time I was called in the damage was irreversible.
-HOSPITAL#unknown#Lost.Season01.Episode11 ADMINISTRATOR Okay, thanks, Christian. Sorry about this formality.
-dr_christian_shephard SHEPHARD Of course.
-HOSPITAL#unknown#Lost.Season01.Episode11 ADMINISTRATOR Just one final detail -- you were aware of the patient's pregnancy when you went into the procedure?
-dr_christian_shephard SHEPHARD Absolutely. The patient's husband had informed the attending in the ER. It was, however, extremely early in the pregnancy, so our primary focus had to be on the mother.
-HOSPITAL#unknown#Lost.Season01.Episode11 ADMINISTRATOR Okay, then. I think we're done here. The final report will be filed.
-dr_christian_shephard SHEPHARD Okay.
-dr_jack_shephard I need to -- revise my statement. I didn't come into the O.R. until well into the procedure.
-dr_christian_shephard SHEPHARD Jack?
-dr_jack_shephard I was warned by one of the nurses that my father was operating... under the influence.
-dr_christian_shephard SHEPHARD Jack. This is not...
-dr_jack_shephard By the time I got there it was clear that my father was not only incapacitated, but that he had also severed the patient's hepatic artery, which, in my professional opinion, caused the crisis which led to her death.
-dr_jack_shephard No. You've got to cut him down.
-dr_jack_shephard Hold on, Charlie. Hold on there.
-kate_austen I can't reach! Pull him over to me!
-dr_jack_shephard He's not breathing. C'mon, breathe, Charlie. C'mon, breathe. C'mon. C'mon.
-dr_jack_shephard C'mon, Charlie, c'mon! C'mon, c'mon, Charlie, c'mon!
-kate_austen Jack, Jack stop, he's not...! Jack, stop, he's not coming...
-kate_austen It's okay, it's okay.
-dr_jack_shephard No, no.
-kate_austen Jack, Jack!
-kate_austen Stop! Stop!
-dr_jack_shephard C'mon! C'mon.
-dr_jack_shephard Just breathe, breathe. Breathe deep, breathe deep. You're okay.
-walt_lloyd Dad! They brought Charlie back. But he hasn't said anything since he came back.
-michael_dawson They find Claire?
-dr_jack_shephard Does that hurt? How's your breathing? Charlie, you've got to talk to me. We're going to back out and look for Claire the moment the sun comes up, and I could really use your help. Anything that you can tell me about what you remember, where you were going. Did you see or hear...?
-charlie_pace I didn't see anything, hear anything. I don't remember anything. Claire...
-dr_jack_shephard What?
-charlie_pace That's all they wanted.
-dr_jack_shephard They?
-charlie_pace All they wanted was Claire.
-shannon_rutherford They aren't back yet.
-kate_austen I'm sure they just made camp for the night. If there's anyone on this Island that your brother's safe with, it's Locke.
-boone_carlyle Are we lost?
-john_locke No, Boone, we're not lost.
-boone_carlyle Sorry, it's just... I don't see how you can still be following this trail. I think we should go back.
-john_locke Don't you feel it?
-boone_carlyle Feel what?
-john_locke It.
-boone_carlyle Alright, John. I'm going to follow the strips back.
-john_locke Suit yourself. Boone, you need this more than I do.
-boone_carlyle What is that?
-john_locke Steel.
-boone_carlyle Could that be part of the plane? Part of the wreckage?
-boone_carlyle What is that?
-john_locke That's what we're going to find out.
+NURSE#unknown#Lost.Season01.Episode11 Charged .
+dr_jack_shephard Clear .
+dr_jack_shephard Charge .
+NURSE#unknown#Lost.Season01.Episode11 We're charged .
+dr_jack_shephard Clear .
+dr_jack_shephard Come on , come on back now , come on .
+dr_jack_shephard Come on now .
+dr_jack_shephard Come on back .
+dr_jack_shephard Come on .
+dr_christian_shephard Call it .
+dr_jack_shephard Come on , baby , come back .
+dr_jack_shephard Come back .
+dr_jack_shephard Come on , baby , come on .
+dr_jack_shephard Come on now .
+dr_jack_shephard You can do this .
+dr_jack_shephard Come on .
+dr_jack_shephard Come on .
+dr_christian_shephard Call it , Jack .
+dr_christian_shephard It's over , call it .
+dr_jack_shephard You call it .
+kate_austen You let him go alone ?
+john_locke Don't worry .
+john_locke I'll catch up .
+john_locke What's the word from the beach ?
+kate_austen Nothing .
+kate_austen Nobody has seen him .
+kate_austen I'm coming with you .
+john_locke I figured you might .
+shannon_rutherford What are you doing ?
+shannon_rutherford We need to get our water and get back to the beach ...
+boone_carlyle I heard you're forming a search party .
+boone_carlyle Can I help ?
+shannon_rutherford This is a deserted Island .
+shannon_rutherford There's no choppers , no Amber Alerts .
+shannon_rutherford How exactly are you going to find them ?
+john_locke By following Ethan's trail .
+john_locke No one can walk through the wilderness without leaving signs , bending blades of grass , breaking twigs , especially with captives in tow .
+john_locke And yes , I could use another hand if you're up for it .
+boone_carlyle I'm up for it .
+john_locke Then let's get moving .
+walt_lloyd I could take Vincent , and he could sniff something that belonged to Charlie .
+walt_lloyd And I can help .
+michael_dawson I said no , man .
+michael_dawson Hey , Locke .
+michael_dawson Hey , look , you know , a lot of us don't just want to sit here waiting for news .
+john_locke Thanks , but we're set .
+john_locke Anyone else will just slow us down .
+michael_dawson Okay .
+michael_dawson Maybe I'll just put together another party .
+john_locke Good idea .
+john_locke We're going north .
+john_locke I suggest you go south .
+michael_dawson Come on .
+dr_christian_shephard I never thought I'd see the day , Jack .
+dr_christian_shephard You barge into my O.R .
+dr_christian_shephard You work on my patient .
+dr_jack_shephard You didn't have to do this procedure .
+dr_christian_shephard I don't have to do anything .
+dr_jack_shephard Yeah , of course , you don't .
+dr_christian_shephard I chose to do this procedure , this emergency procedure , because when this girl crashed in the ER , they called me .
+dr_jack_shephard I was right upstairs .
+dr_christian_shephard And you should have stayed upstairs .
+dr_christian_shephard And how did you find out ?
+dr_jack_shephard One of the nurses came to get me .
+dr_christian_shephard Who ?
+dr_christian_shephard Oh , thank god
+dr_christian_shephard I have you and some anonymous nurse to rescue me .
+dr_jack_shephard She told me that your hands were shaking .
+dr_christian_shephard My hands were not ...
+dr_jack_shephard You cut her hepatic artery .
+dr_christian_shephard She was in a car crash , Jack .
+dr_christian_shephard Her insides were a mess .
+dr_jack_shephard You made a mistake .
+dr_christian_shephard They called me .
+dr_christian_shephard I ...
+dr_jack_shephard I don't care whether they called you .
+dr_jack_shephard You made a mistake .
+dr_christian_shephard Are you lecturing me? !
+dr_christian_shephard You tell me , if you were upstairs , and I was in a restaurant having lunch , then why did they call me ?
+dr_jack_shephard How many drinks did you have at lunch , dad ?
+john_locke Jack .
+john_locke Jack .
+john_locke It's a good thing you were going in a circle .
+john_locke Not much of a search grid , but we never would have found you otherwise .
+kate_austen Did you find anything ?
+dr_jack_shephard No .
+john_locke You should go back to the caves -- Sayid's leg .
+dr_jack_shephard I dressed Sayid's leg .
+dr_jack_shephard You found me , we can find Charlie and Claire .
+dr_jack_shephard Now , do we have a trail to follow or not ?
+john_locke Jack , this was my fault .
+dr_jack_shephard What ?
+john_locke I hunted with Ethan .
+john_locke I spent time with him .
+john_locke I never sensed anything -- off .
+john_locke But for everything that I know about hunting , tracking -- whoever he is , he knows more .
+john_locke If we catch up with him , I don't want anything to happen to the only trained physician on the Island .
+john_locke So go back , be the doctor .
+john_locke Let me be the hunter .
+dr_jack_shephard Can we go now ?
+john_locke Follow me .
+michael_dawson I'm trying to help and all the guy can tell me is go south ?
+michael_dawson Like what ?
+michael_dawson I'm going to get in his way or something ?
+hugo_reyes We're all tweaked , man .
+hugo_reyes Locke's just feeling it like the rest of us .
+michael_dawson So , what ?
+michael_dawson There's five other guys who would've gone out there with me , putting our necks on the line to find Charlie and Claire .
+michael_dawson All I'm saying is I'm getting sick of getting treated like a second class citizen around here because Mount Baldy can bag a boar .
+walt_lloyd He knows a lot more than how to catch a boar .
+walt_lloyd Mr .
+walt_lloyd Locke is a warrior .
+walt_lloyd He can hunt , he can track stuff , and he's the only who brought knives .
+walt_lloyd So , if it were me , I would listen to him .
+michael_dawson Well , I don't want you to .
+michael_dawson You understand ?
+michael_dawson You stay with Hurley .
+michael_dawson I may not be a warrior , but I am going south .
+hugo_reyes Back home , I'm known as something of a warrior myself .
+john_locke We mark our progress by line of sight .
+john_locke We tie these off so we don't get lost .
+boone_carlyle You can lead us back to camp , right ?
+john_locke If nothing happens to me .
+boone_carlyle Maybe I better take marker detail .
+dr_jack_shephard Anything ?
+john_locke Not yet .
+dr_jack_shephard If you can't find the trail ...
+john_locke I'll pick it up again , alright ?
+john_locke We need to rest for a minute to get our clarity back .
+dr_jack_shephard You're going to take a break ?
+dr_jack_shephard It's got to be almost 4 o'clock .
+dr_jack_shephard When the sun sets there's no way ...
+john_locke It's 425 .
+john_locke And , yes , I'm taking a break .
+kate_austen Can I talk to you for a sec ?
+kate_austen Would it kill you to give the guy a little space ?
+dr_jack_shephard It might .
+kate_austen Stop that .
+dr_jack_shephard What ?
+kate_austen That .
+kate_austen What's going on ?
+dr_jack_shephard I didn't believe her -- Claire .
+dr_jack_shephard I gave her a sedative .
+kate_austen Jack , you can't ...
+dr_jack_shephard She told me someone was after her , that she was being attacked , and I
+dr_jack_shephard -- she just seemed so out of it .
+dr_jack_shephard I thought that her pregnancy was amping up her stress and
+dr_jack_shephard I ...
+dr_jack_shephard I didn't believe her .
+john_locke Jack !
+kate_austen What is it ?
+john_locke Look familiar ?
+dr_jack_shephard It's Charlie's .
+boone_carlyle You think it just came off ?
+dr_jack_shephard No .
+dr_jack_shephard He's leaving us a trail .
+dr_jack_shephard They went this way .
+john_locke I'm not so sure .
+john_locke There's another trail here .
+dr_jack_shephard What do mean , another ?
+john_locke These are footprints .
+john_locke People moved off this way .
+dr_jack_shephard Charlie's leaving these for us to follow .
+dr_jack_shephard They went that way .
+kate_austen Unless Charlie isn't the one leaving them .
+kate_austen If Ethan knows that we're behind him , he could be setting up a dummy trail .
+kate_austen Take off in one direction , double-back his own footprints .
+boone_carlyle Wait ?
+boone_carlyle Now you're a tracker ?
+john_locke You're just full of surprises .
+dr_jack_shephard So , we've got two trails .
+dr_jack_shephard Let's split up , I'll take that one .
+john_locke No .
+john_locke We should stay together , Jack .
+dr_jack_shephard Why ?
+dr_jack_shephard We've got two trails , and , apparently , two trackers .
+john_locke Be careful .
+james_ford Who got taken by what ?
+walt_lloyd Charlie and Claire , they think Ethan took them .
+james_ford Ethan took them , huh ?
+walt_lloyd Yeah .
+james_ford Took them why ?
+james_ford And who the hell is Ethan ?
+walt_lloyd I don't know .
+walt_lloyd He wasn't on the list thing , the manifest .
+james_ford Ever think he might have lied about his name ?
+walt_lloyd It's stupid to lie about your name .
+james_ford Alrighty , Tattoo , where do you think Ethan came from ?
+walt_lloyd Maybe he was already on the Island , before we were .
+james_ford You got yourself one hell of an imagination , kid .
+walt_lloyd There could be lots of other people on the Island .
+james_ford So a tribe of evil natives planted a ringer in the camp to kidnap a pregnant girl and a reject from VH-1
+james_ford has-beens ?
+james_ford Yeah , fiendishly clever .
+james_ford And why am I getting the evening news from a 6 year old ?
+walt_lloyd I'm 10 .
+james_ford Okay , then it must be true .
+walt_lloyd If you don't believe me , ask Sayid .
+walt_lloyd He said we're not alone .
+james_ford Sayid's back ?
+boone_carlyle Red shirt .
+john_locke Huh ?
+boone_carlyle Red shirt .
+boone_carlyle Ever watch " Star Trek " ?
+john_locke Nah , not really .
+boone_carlyle The crew guys that would go down to the planet with the main guys , the captain and the guy with the pointy ears , they always wore red shirts .
+boone_carlyle And they always got killed .
+john_locke Yeah ?
+boone_carlyle Yeah .
+john_locke Sounds like a piss-poor captain .
+boone_carlyle What do you do in the real world , Mr .
+boone_carlyle Locke ?
+john_locke It's John .
+boone_carlyle John .
+john_locke Why don't you guess ?
+boone_carlyle Well , you're either a taxidermist or a hit man ?
+john_locke I was a regional collection supervisor for a box company .
+boone_carlyle A box company ?
+john_locke They made boxes .
+boone_carlyle Yeah , right .
+kate_austen Please , slow down .
+dr_jack_shephard You said they went this way .
+kate_austen I think they went this way .
+kate_austen I'm not as good at this as Locke is .
+dr_jack_shephard So where did you pick up the tracking skills , Kate ?
+dr_jack_shephard Was that before or after you were on the run ?
+kate_austen I'm trying to help , Jack .
+dr_jack_shephard You know what might help ?
+dr_jack_shephard A little honesty .
+dr_jack_shephard Just give me something real , anything .
+kate_austen My dad was in the army .
+kate_austen Ranger Battalion .
+kate_austen We were stationed in Fort Lewis , Washington State .
+kate_austen We'd go hiking together .
+kate_austen One day we spend 8 hours tracking deer .
+kate_austen Being in the woods , it was like -- it was like his religion .
+kate_austen That was real .
+kate_austen Anything you want to share , Jack ?
+dr_christian_shephard Oh , thanks for coming in , Jack .
+dr_christian_shephard Have a seat .
+dr_jack_shephard What does it say ?
+dr_christian_shephard The truth , that a patient was brought to the ER following a car accident , rushed into surgery with massive internal bleeding -- you joined me , and in spite of our most heroic efforts , the patient succumbed to her injuries .
+dr_jack_shephard Looks like you fixed everything but the patient .
+dr_jack_shephard You had no business being in O.R .
+dr_christian_shephard Do you really think I would have walked in there if I couldn't handle it ?
+dr_jack_shephard You've done it before .
+dr_christian_shephard That's right , I have , because I am perfectly capable of making those ...
+dr_jack_shephard How can you say that after what happened yesterday ?
+dr_christian_shephard The problem is not that ...
+dr_jack_shephard You were impaired .
+dr_christian_shephard I know my limits .
+dr_jack_shephard I won't sign this .
+dr_christian_shephard You're a part of the team , Jack .
+dr_christian_shephard I'm not the only one on the hook for this .
+dr_christian_shephard You called me off .
+dr_christian_shephard You were the surgeon of record when she died .
+dr_christian_shephard Look , accidents happen in surgeries all the time , Jack .
+dr_christian_shephard That's the truth
+dr_christian_shephard and you know it .
+dr_christian_shephard But if you contradict this report , if you mention alcohol , well , that's the only fact that's going to matter .
+dr_christian_shephard They'll strip me of my license .
+dr_jack_shephard Yes , they will .
+dr_christian_shephard I know I have been hard on you , but that is how you make a soft metal into steel .
+dr_christian_shephard That is why you are the most gifted young surgeon in this city .
+dr_christian_shephard And this , this is a career that is all about the greater good .
+dr_christian_shephard I've had to sacrifice certain aspects of my relationship with you so that hundreds and thousands of patients will live because of your extraordinary skills .
+dr_christian_shephard I know it's a long , a long time coming .
+dr_christian_shephard What happened yesterday , I promise you , will never happen again .
+dr_christian_shephard And after all what I've given -- this is not just about my career , Jack .
+dr_christian_shephard It's my life .
+dr_christian_shephard  Thank you , son .
+dr_christian_shephard Thank you .
+james_ford Well , well , well .
+james_ford I don't know if you Islams got a concept of karma , but I get the sense
+james_ford this Island just served you up a heaping platter of cosmic payback .
+sayid_jarrah What do you want ?
+james_ford Dr .
+james_ford Do-Right doesn't trust me with his antibiotics
+james_ford so I have to hump it up here everyday just to get my meds .
+james_ford You know , a less magnanimous man than I might just be thinking he could beat the ever-living-snot out of you right now without fear of reprisal .
+sayid_jarrah You want to take a shot ?
+sayid_jarrah Take it .
+sayid_jarrah But know that I left this camp out of shame for what I did to you .
+sayid_jarrah It was never my intention to return .
+james_ford Sorry , fresh out of sweet forgiveness .
+james_ford If it wasn't your intention to return , then why did you ?
+sayid_jarrah I was taken prisoner by the French woman .
+james_ford The one who's been sending out a distress signal for 16 years ?
+james_ford She's alive ?
+sayid_jarrah She was on a science expedition .
+sayid_jarrah She said their ship wrecked .
+james_ford She alone ?
+sayid_jarrah She said that there are others on this Island .
+james_ford Her people ?
+sayid_jarrah No .
+sayid_jarrah She believed they had all gotten sick .
+sayid_jarrah She murdered her entire team .
+james_ford Right .
+james_ford And these others , who the hell are they ?
+sayid_jarrah I don't know .
+sayid_jarrah She's never seen them .
+james_ford Oh , she's never seen them , but she knows they're there .
+sayid_jarrah If you believe her .
+james_ford Do you ?
+sayid_jarrah Maybe .
+sayid_jarrah Maybe not .
+sayid_jarrah But on my way back I heard something in the jungle surrounding me .
+james_ford Something like what ?
+sayid_jarrah Have you got something to say to me , Sawyer , or are you going to continue asking me questions
+sayid_jarrah you know I don't have the answers to ?
+james_ford Tide's coming up the beach .
+james_ford Plane hull's almost in the water .
+james_ford Kept your signal fire burning .
+hugo_reyes Crap .
+walt_lloyd Your blacks can't get in .
+hugo_reyes Yeah , I know my blacks can't get in .
+walt_lloyd My roll .
+hugo_reyes Yahoo .
+walt_lloyd Need a 4-3 .
+hugo_reyes Dude , would you please roll ?
+walt_lloyd Yes .
+hugo_reyes No !
+walt_lloyd Your turn .
+walt_lloyd It's okay
+walt_lloyd , I wasn't very good when I first started playing , either .
+hugo_reyes I didn't just start playing .
+hugo_reyes I took 17th in a tournament once .
+walt_lloyd 17th is not very good .
+hugo_reyes No , 17th is very good .
+walt_lloyd C'mon double 6's , double 6's .
+walt_lloyd Yes .
+hugo_reyes Aw , you've got to be kidding me ,
+walt_lloyd I'm lucky .
+hugo_reyes No one is that lucky .
+walt_lloyd My dad said I was the luckiest person he ever knew .
+hugo_reyes Really ?
+walt_lloyd Not Michael , Brian .
+walt_lloyd My other dad .
+walt_lloyd Yeah , um . . .
+walt_lloyd Yes !
+walt_lloyd Yes !
+walt_lloyd C'mon , one more game , double or nothing .
+hugo_reyes Can't .
+hugo_reyes I have a meeting .
+walt_lloyd A meeting ?
+hugo_reyes Yeah .
+hugo_reyes A meeting .
+walt_lloyd You owe me 20 thousand dollars !
+hugo_reyes You'll get it .
+boone_carlyle It's been all 15 minutes since we've seen any sign .
+boone_carlyle What are we following ?
+john_locke My gut .
+boone_carlyle Great .
+john_locke So , Boone , what did you do in the real world ?
+boone_carlyle I run a business .
+john_locke What kind of business ?
+boone_carlyle Uh , it's a wedding thing .
+john_locke Huh ?
+boone_carlyle My mother has this empire .
+boone_carlyle The Martha Stewart of matrimony .
+boone_carlyle I run one of the subsidiaries .
+john_locke So who's running it now ?
+boone_carlyle I guess it doesn't matter , does it ?
+john_locke I'm sure there are people who can handle it , temporarily .
+john_locke It's going to start raining , in one minute .
+boone_carlyle 1 minute ?
+john_locke Give or take a few seconds .
+john_locke You should turn around , Boone , and head back .
+boone_carlyle What ?
+john_locke The trail's been cold for a quarter mile , dangerous terrain ahead .
+john_locke If you start now , you'll make it back to camp before dark .
+boone_carlyle What about you ?
+john_locke I can take care of myself .
+boone_carlyle No , I'm not heading back .
+john_locke I admire your courage , but ...
+boone_carlyle I'm not heading back .
+john_locke Alright .
+boone_carlyle They teach you how to predict the weather in a box company? !
+dr_jack_shephard I guess we were right .
+dr_jack_shephard Where to now ?
+kate_austen Jack ?
+kate_austen Jack , where are you going ?
+kate_austen Jack ?
+dr_jack_shephard Didn't you hear her ?
+kate_austen What ?
+kate_austen Hear , hear who ?
+kate_austen Jack !
+dr_ethan_rom If you do not stop following me , I will kill one of them .
+dr_ethan_rom Do you understand ?
+dr_ethan_rom No more warnings .
+andrea Dr .
+andrea Shephard .
+dr_jack_shephard Andrea .
+dr_jack_shephard Andrea , that man that my father is talking to , who is that ?
+andrea That's her husband .
+andrea He's threatening to sue .
+kate_austen Jack , Jack .
+kate_austen Jack , are you okay ?
+dr_jack_shephard How long was I out ?
+kate_austen I don't know
+kate_austen , I'm sorry , you slid on the rocks and ...
+dr_jack_shephard Ethan ?
+kate_austen What ?
+dr_jack_shephard Ethan was here .
+kate_austen You banged your head , Jack .
+dr_jack_shephard No , no .
+dr_jack_shephard He was here .
+kate_austen You have to stop .
+kate_austen The rain has washed away the trail .
+kate_austen Even if he was here -- you've got -- Jack !
+dr_jack_shephard I'm not letting him do this .
+kate_austen Not letting him? !
+dr_jack_shephard Not again .
+dr_christian_shephard We realized that her blood pressure was continuing to drop precipitously , at which point the patient went into cardiac arrest .
+dr_christian_shephard Of course , every effort was made to resuscitate her , but the severity of her injuries , the amount of internal bleeding , made that impossible .
+dr_christian_shephard Now , in my professional opinion , ladies and gentlemen , and that's all I have , by the time I was called in the damage was irreversible .
+HOSPITAL#unknown#Lost.Season01.Episode11 Okay , thanks , Christian .
+HOSPITAL#unknown#Lost.Season01.Episode11 Sorry about this formality .
+dr_christian_shephard Of course .
+HOSPITAL#unknown#Lost.Season01.Episode11 ADMINISTRATOR Just one final detail
+HOSPITAL#unknown#Lost.Season01.Episode11 -- you were aware of the patient's pregnancy when you went into the procedure ?
+dr_christian_shephard Absolutely .
+dr_christian_shephard The patient's husband had informed the attending in the ER .
+dr_christian_shephard It was , however , extremely early in the pregnancy , so our primary focus had to be on the mother .
+HOSPITAL#unknown#Lost.Season01.Episode11 Okay , then .
+HOSPITAL#unknown#Lost.Season01.Episode11 I think we're done here .
+HOSPITAL#unknown#Lost.Season01.Episode11 The final report will be filed .
+dr_christian_shephard Okay .
+dr_jack_shephard I need to -- revise my statement .
+dr_jack_shephard I didn't come into the O.R .
+dr_jack_shephard until well into the procedure .
+dr_christian_shephard Jack ?
+dr_jack_shephard I was warned by one of the nurses that my father was operating ...
+dr_jack_shephard under the influence .
+dr_christian_shephard Jack .
+dr_christian_shephard This is not ...
+dr_jack_shephard By the time I got there it was clear that my father was not only incapacitated , but that he had also severed the patient's hepatic artery , which , in my professional opinion , caused the crisis which led to her death .
+dr_jack_shephard No .
+dr_jack_shephard You've got to cut him down .
+dr_jack_shephard Hold on , Charlie .
+dr_jack_shephard Hold on there .
+kate_austen I can't reach !
+kate_austen Pull him over to me !
+dr_jack_shephard He's not breathing .
+dr_jack_shephard C'mon , breathe , Charlie .
+dr_jack_shephard C'mon , breathe .
+dr_jack_shephard C'mon .
+dr_jack_shephard C'mon .
+dr_jack_shephard C'mon , Charlie , c'mon !
+dr_jack_shephard C'mon , c'mon , Charlie , c'mon !
+kate_austen Jack , Jack stop , he's not ... !
+kate_austen Jack , stop , he's not coming ...
+kate_austen It's okay
+kate_austen , it's okay .
+dr_jack_shephard No , no .
+kate_austen Jack , Jack !
+kate_austen Stop !
+kate_austen Stop !
+dr_jack_shephard C'mon !
+dr_jack_shephard C'mon .
+dr_jack_shephard Just breathe , breathe .
+dr_jack_shephard Breathe deep , breathe deep .
+dr_jack_shephard You're okay .
+walt_lloyd Dad !
+walt_lloyd They brought Charlie back .
+walt_lloyd But he hasn't said anything since he came back .
+michael_dawson They find Claire ?
+dr_jack_shephard Does that hurt ?
+dr_jack_shephard How's your breathing ?
+dr_jack_shephard Charlie , you've got to talk to me .
+dr_jack_shephard We're going to back out and look for Claire the moment the sun comes up , and I could really use your help .
+dr_jack_shephard Anything that you can tell me about what you remember , where you were going .
+dr_jack_shephard Did you see or hear ... ?
+charlie_pace I didn't see anything , hear anything .
+charlie_pace I don't remember anything .
+charlie_pace Claire ...
+dr_jack_shephard What ?
+charlie_pace That's all they wanted .
+dr_jack_shephard They ?
+charlie_pace All they wanted was Claire .
+shannon_rutherford They aren't back yet .
+kate_austen I'm sure they just made camp for the night .
+kate_austen If there's anyone on this Island that your brother's safe with , it's Locke .
+boone_carlyle Are we lost ?
+john_locke No , Boone , we're not lost .
+boone_carlyle Sorry , it's just ...
+boone_carlyle I don't see how you can still be following this trail .
+boone_carlyle I think we should go back .
+john_locke Don't you feel it ?
+boone_carlyle Feel what ?
+john_locke It .
+boone_carlyle Alright , John .
+boone_carlyle I'm going to follow the strips back .
+john_locke Suit yourself .
+john_locke Boone , you need this more than I do .
+boone_carlyle What is that ?
+john_locke Steel .
+boone_carlyle Could that be part of the plane ?
+boone_carlyle Part of the wreckage ?
+boone_carlyle What is that ?
+john_locke That's what we're going to find out .

@@ -1,241 +1,593 @@
-rick_grimes stares at a sunrise over Atlanta as he tries to reach Morgan on the walkie-talkie.
-rick_grimes Morgan, I don't know if you're out there. I don't know if you can hear me. Maybe you're listening right now. I hope so. I found others. my family, if you can believe it. My wife and son, they're alive. I wanted you to know that. There's something else you need to know. Atlanta isn't what we thought. It's not what they promised. The city is. Do not enter the city. It belongs to the dead now. We're camped a few miles northwest, up by a big abandoned rock quarry. You can see it on a map. I hope you come find us. But be careful. Last night walkers came out of the woods. We lost people. Watch yourself, Morgan. Take care of your boy. I'll try you again tomorrow at dawn 
-lori_grimes Andrea. I'm so sorry. She's gone. You got to let us take her. We all cared about her and I promise we'll be as gentle as we can 
-rick_grimes She still won't move?
-lori_grimes She won't even talk to us. She's been there all night. What do we do?
-shane_walsh Can't just leave Amy like that. We need to deal with it same as the others
-rick_grimes I'll tell her how it is 
-rick_grimes andrea
+rick_grimes stares at a sunrise over Atlanta as he tries to reach Morgan on the walkie-talkie .
+rick_grimes Morgan , I don't know if you're out there .
+rick_grimes I don't know if you can hear me .
+rick_grimes Maybe you're listening right now .
+rick_grimes I hope so .
+rick_grimes I found others .
+rick_grimes my family , if you can believe it .
+rick_grimes My wife and son , they're alive .
+rick_grimes I wanted you to know that .
+rick_grimes There's something else you need to know .
+rick_grimes Atlanta isn't what we thought .
+rick_grimes It's not what they promised .
+rick_grimes The city is .
+rick_grimes Do not enter the city .
+rick_grimes It belongs to the dead now .
+rick_grimes We're camped a few miles northwest , up by a big abandoned rock quarry .
+rick_grimes You can see it on a map .
+rick_grimes I hope you come find us .
+rick_grimes But be careful .
+rick_grimes Last night walkers came out of the woods .
+rick_grimes We lost people .
+rick_grimes Watch yourself , Morgan .
+rick_grimes Take care of your boy .
+rick_grimes I'll try you again tomorrow at dawn
+lori_grimes Andrea .
+lori_grimes I'm so sorry .
+lori_grimes She's gone .
+lori_grimes You got to let us take her .
+lori_grimes We all cared about her
+lori_grimes and I promise we'll be as gentle as we can
+rick_grimes She still won't move ?
+lori_grimes She won't even talk to us .
+lori_grimes She's been there all night .
+lori_grimes What do we do ?
+shane_walsh Can't just leave Amy like that .
+shane_walsh We need to deal with it same as the others
+rick_grimes I'll tell her how it is andrea
 andrea_harrison I know how the safety works
-rick_grimes All right. Okay. I'm sorry. I'm sorry. I'm sorry 
-daryl_dixon Y'all can't be serious. Let that girl hamstring us? The dead girl's a time bomb
-rick_grimes What do you suggest?
-daryl_dixon Take the shot. Clean, in the brain from here. Hell, I can hit a turkey between the eyes from this distance
-lori_grimes No. For god's sakes, let her be
-daryl_dixon Wake up, Jimbo. We've got some work to do 
-morales Thanks. Thanks
-glenn_rhee What are you guys doing? This is for geeks. Our people go over there
-daryl_dixon What's the difference? They're all infected
-glenn_rhee Our people go in that row over there. We don't burn them! We bury them. Understand? Our people go in that row over there 
+rick_grimes All right .
+rick_grimes Okay .
+rick_grimes I'm sorry .
+rick_grimes I'm sorry .
+rick_grimes I'm sorry
+daryl_dixon Y'all can't be serious .
+daryl_dixon Let that girl hamstring us ?
+daryl_dixon The dead girl's a time bomb
+rick_grimes What do you suggest ?
+daryl_dixon Take the shot .
+daryl_dixon Clean , in the brain from here .
+daryl_dixon Hell , I can hit a turkey between the eyes from this distance
+lori_grimes No .
+lori_grimes For god's sakes , let her be
+daryl_dixon Wake up , Jimbo .
+daryl_dixon We've got some work to do
+morales Thanks .
+morales Thanks
+glenn_rhee What are you guys doing ?
+glenn_rhee This is for geeks .
+glenn_rhee Our people go over there
+daryl_dixon What's the difference ?
+daryl_dixon They're all infected
+glenn_rhee Our people go in that row over there .
+glenn_rhee We don't burn them !
+glenn_rhee We bury them .
+glenn_rhee Understand ?
+glenn_rhee Our people go in that row over there
 daryl_dixon You reap what you sow
-morales You know what? Shut up, man
-daryl_dixon Y'all left my brother for dead. You had this coming 
-jacqui Are you bleeding?
+morales You know
+morales what ?
+morales Shut up , man
+daryl_dixon Y'all left my brother for dead .
+daryl_dixon You had this coming
+jacqui Are you bleeding ?
 jim I just got some on me from the bodies
-jacqui That blood is fresh. Were you bit?
-jim No. I got scratched during the attack
+jacqui That blood is fresh .
+jacqui Were you bit ?
+jim No .
+jim I got scratched during the attack
 jacqui You got bit
 jim I'm fine
 jacqui Then show me
-jim Don't tell, please
-jacqui A walker got him. A walker bit jim 
-jim I'm okay. I'm okay
-daryl_dixon Show it to us. Show it to us
-shane_walsh Easy, jim
-daryl_dixon Grab him 
-shane_walsh Jim, put it down. Put it down 
-jim I'm okay. I'm okay. I'm okay. I'm okay 
-jim I'm okay. I'm okay. I'm okay. I'm okay. I'm okay. I'm okay 
+jim Don't tell , please
+jacqui A walker got him .
+jacqui A walker bit
+jacqui jim
+jim I'm okay .
+jim I'm okay
+daryl_dixon Show it to us .
+daryl_dixon Show it to us
+shane_walsh Easy , jim
+shane_walsh Jim , put it down .
+shane_walsh Put it down
+jim I'm okay .
+jim I'm okay .
+jim I'm okay .
+jim I'm okay
+jim I'm okay .
+jim I'm okay .
+jim I'm okay .
+jim I'm okay .
+jim I'm okay .
+jim I'm okay
 daryl_dixon I say we put a pickaxe in his head and the dead girl's and be done with it
-shane_walsh Is that what you'd want if it were you?
-daryl_dixon Yeah, and I'd thank you while you did it
-dale_horvath I hate to say it. I never thought I would. but maybe Daryl's right
-rick_grimes Jim's not a monster, Dale, or some rabid dog
+shane_walsh Is that what you'd want if it were you ?
+daryl_dixon Yeah ,
+daryl_dixon and I'd thank you while you did it
+dale_horvath I hate to say it .
+dale_horvath I never thought I would .
+dale_horvath but maybe Daryl's right
+rick_grimes Jim's not a monster , Dale , or some rabid dog
 dale_horvath I'm not suggesting--
-rick_grimes He's sick. A sick man. We start down that road, where do we draw the line?
-daryl_dixon The line's pretty clear. Zero tolerance for walkers, or them to be
-rick_grimes What if we can get him help? I heard the C. D. C. was working on a cure
-shane_walsh I heard that too. Heard a lot of things before the world went to hell
-rick_grimes What if the CDC is still up and running?
-shane_walsh Man, that is a stretch right there
-rick_grimes Why? If there's any government left, any structure at all, they'd protect the C. D. C. at all costs, wouldn't they? I think it's our best shot. Shelter, protection.
-shane_walsh Okay, Rick, you want those things, all right? I do too, okay? Now if they exist, they're at the army base. Fort Benning
+rick_grimes He's sick .
+rick_grimes A sick man .
+rick_grimes We start down that road , where do we draw the line ?
+daryl_dixon The line's pretty clear .
+daryl_dixon Zero tolerance for walkers , or them to be
+rick_grimes What if we can get him help ?
+rick_grimes I heard the C. D. C. was working on a cure
+shane_walsh I heard that too .
+shane_walsh Heard a lot of things before the world went to hell
+rick_grimes What if the CDC is still up and running ?
+shane_walsh Man , that is a stretch right there
+rick_grimes Why ?
+rick_grimes If there's any government left , any structure at all , they'd protect the C. D. C. at all costs , wouldn't they ?
+rick_grimes I think it's our best shot .
+rick_grimes Shelter , protection .
+shane_walsh Okay , Rick , you want those things , all right ?
+shane_walsh I do too
+shane_walsh , okay ?
+shane_walsh Now if they exist , they're at the army base .
+shane_walsh Fort Benning
 lori_grimes That's 100 miles in the opposite direction
-shane_walsh That is right. But it's away from the hot zone. Now listen to me. If that place is operational, it'll be heavily armed. We'd be safe there
-rick_grimes The military were on the front lines of this thing. They got overrun. We've all seen that. The C. D. C. is our best choice and Jim's only chance
-daryl_dixon You go looking for aspirin, do what you need to do. Someone needs to have some balls to take care of this damn problem!
-shane_walsh Hey hey hey! 
+shane_walsh That is right .
+shane_walsh But it's away from the hot zone .
+shane_walsh Now listen to me .
+shane_walsh If that place is operational , it'll be heavily armed .
+shane_walsh We'd be safe there
+rick_grimes The military were on the front lines of this thing .
+rick_grimes They got overrun .
+rick_grimes We've all seen that .
+rick_grimes The C. D. C. is our best choice and Jim's only chance
+daryl_dixon You go looking for aspirin , do what you need to do .
+daryl_dixon Someone needs to have some balls to take care of this damn problem !
+shane_walsh Hey hey hey !
 rick_grimes We don't kill the living
 daryl_dixon That's funny coming from a man who just put a gun to my head
-shane_walsh We may disagree on some things, not on this. You put it down. Go on 
+shane_walsh We may disagree on some things , not on this .
+shane_walsh You put it down .
+shane_walsh Go on
 rick_grimes Come with me
-jim Where are you taking me?
-rick_grimes Somewhere safe  
-dale_horvath I came to pay my respects. Did I ever mention how I lost my wife?
-andrea_harrison Cancer, wasn't it?
-dale_horvath Yeah. I dragged her to every doctor, every test. And after all the surgeries and the chemos, she was ready. She accepted it, you know? But I never could. And I spent the last few years so angry. I felt so cheated. Since she passed, you girls were the first people. That I cared anything for. This is her birthday?
-andrea_harrison Her birthday was always like. like a week long affair. But I somehow always missed it. I was away at college or too busy for kid's parties. She'd call all excited. I always said that I'd make it home and I really always meant to, but I never made it past that phone call
-dale_horvath I know things are hard enough for you without adding guilt into the mix, huh?  
-carol_peletier I'll do it. He's my husband  
-andrea_harrison Amy. Amy, I'm sorry 
-andrea_harrison I'm sorry for not ever being there. I always thought there'd be more time. I'm here now, Amy. I'm here. I love you  
+jim Where are you taking me ?
+rick_grimes Somewhere safe
+dale_horvath I came to pay my respects .
+dale_horvath Did I ever mention how I lost my wife ?
+andrea_harrison Cancer , wasn't it ?
+dale_horvath Yeah .
+dale_horvath I dragged her to every doctor , every test .
+dale_horvath And after all the surgeries and the chemos , she was ready .
+dale_horvath She accepted it , you know ?
+dale_horvath But I never could .
+dale_horvath And I spent the last few years so angry .
+dale_horvath I felt so cheated .
+dale_horvath Since she passed , you girls were the first people .
+dale_horvath That I cared anything for .
+dale_horvath This is her birthday ?
+andrea_harrison Her birthday was always like .
+andrea_harrison like a week long affair .
+andrea_harrison But I somehow always missed it .
+andrea_harrison I was away at college or too busy for kid's parties .
+andrea_harrison She'd call all excited .
+andrea_harrison I always said that I'd make it home
+andrea_harrison and I really always meant to , but I never made it past that phone call
+dale_horvath I know things are hard enough for you without adding guilt into the mix , huh ?
+carol_peletier I'll do it .
+carol_peletier He's my husband
+andrea_harrison Amy .
+andrea_harrison Amy , I'm sorry
+andrea_harrison I'm sorry for not ever being there .
+andrea_harrison I always thought there'd be more time .
+andrea_harrison I'm here now , Amy .
+andrea_harrison I'm here .
+andrea_harrison I love you
 rick_grimes Say it
-shane_walsh Okay. I'm thinking if you'd of stayed here, if you'd have looked after your own. Instead you went off. You took half our manpower with you. I'm thinking maybe our losses wouldn't have been so bad
-rick_grimes If we hadn't gone off and brought those guns back when we did, I think our losses would have been a lot worse. Maybe the entire camp 
-daryl_dixon I still think it's a mistake not burning these bodies. It's what we said we'd do, right? Burn 'em all, wasn't that the idea?
+shane_walsh Okay .
+shane_walsh I'm thinking if you'd of stayed here , if you'd have looked after your own .
+shane_walsh Instead you went off .
+shane_walsh You took half our manpower with you .
+shane_walsh I'm thinking maybe our losses wouldn't have been so bad
+rick_grimes If we hadn't gone off and brought those guns back when we did , I think our losses would have been a lot worse .
+rick_grimes Maybe the entire camp
+daryl_dixon I still think it's a mistake not burning these bodies .
+daryl_dixon It's what we said we'd do , right ?
+daryl_dixon Burn 'em all , wasn't that the idea ?
 shane_walsh At first
-daryl_dixon The Chinaman gets all emotional, says it's not the thing to do, we just follow him along? These people need to know who the hell's in charge here, what the rules are
+daryl_dixon The Chinaman gets all emotional , says it's not the thing to do , we just follow him along ?
+daryl_dixon These people need to know who the hell's in charge here , what the rules are
 rick_grimes There are no rules
-lori_grimes Well, that's a problem. We haven't had one minute to hold onto anything of our old selves. We need time to mourn and we need to bury our dead. It's what people do 
-jim Oh no. No no no no. No, not this, please. No no no. Oh, no no no. No no 
-andrea_harrison I can do it. I can do it. I can do it! I can do it
-dale_horvath Hey 
-rick_grimes Burying other people is bad enough, but the thought of one of us.
+lori_grimes Well , that's a problem .
+lori_grimes We haven't had one minute to hold onto anything of our old selves .
+lori_grimes We need time to mourn and we need to bury our dead .
+lori_grimes It's what people do
+jim Oh no .
+jim No no
+jim no no .
+jim No , not this , please .
+jim No no no .
+jim Oh , no no no .
+jim No no
+andrea_harrison I can do it .
+andrea_harrison I can do it .
+andrea_harrison I can do it !
+andrea_harrison I can do it
+dale_horvath Hey
+rick_grimes Burying other people is bad enough , but the thought of one of us .
 lori_grimes Shh
-carl_grimes Are we safe now, dad? Now that we're together?
-rick_grimes I won't leave again. I promise you that. Not for anything. Now give me a chance to discuss some things with your mom, okay?
+carl_grimes Are we safe now , dad ?
+carl_grimes Now that we're together ?
+rick_grimes I won't leave again .
+rick_grimes I promise you that .
+rick_grimes Not for anything .
+rick_grimes Now give me a chance to discuss some things with your mom , okay ?
 carl_grimes Yeah
-rick_grimes All right. All right 
-rick_grimes shane blames me for not being here. Do you? We got guns now. We're stronger
-lori_grimes And we have fewer people. That makes us weaker. You want me to say I think you were right? I understand that. All I can say is that neither one of you is entirely wrong. It's the best I can do right now
-rick_grimes What about the CDC?
+rick_grimes All right .
+rick_grimes All right shane blames me for not being here .
+rick_grimes Do you ?
+rick_grimes We got guns now .
+rick_grimes We're stronger
+lori_grimes And we have fewer people .
+lori_grimes That makes us weaker .
+lori_grimes You want me to say I think you were right ?
+lori_grimes I understand that .
+lori_grimes All I can say is that neither one of you is entirely wrong .
+lori_grimes It's the best I can do right now
+rick_grimes What about the CDC ?
 lori_grimes Rick--
-rick_grimes We're at the ragged edge here. We need relief and we got a sick man who needs help. I don't know why people can't see that
-lori_grimes Well, look at their faces. Look at mine. We're all terrified. If one of us suggested, based on a hunch, that we head toward that city, you'd have no part of it. Tell me something with certainty
-rick_grimes I love you. That's all I got
-lori_grimes I love you too  
+rick_grimes We're at the ragged edge here .
+rick_grimes We need relief and we got a sick man who needs help .
+rick_grimes I don't know why people can't see that
+lori_grimes Well , look at their faces .
+lori_grimes Look at mine .
+lori_grimes We're all terrified .
+lori_grimes If one of us suggested , based on a hunch , that we head toward that city , you'd have no part of it .
+lori_grimes Tell me something with certainty
+rick_grimes I love you .
+rick_grimes That's all I got
+lori_grimes I love you too
 carol_peletier His fever is worse
-lori_grimes You need anything?
-jim Uh. Water. Could use more water
+lori_grimes You need anything ?
+jim Uh .
+jim Water .
+jim Could use more water
 lori_grimes I'll get some
 jim Okay
-lori_grimes Carol, you help me? 
-jim You save a grave for me?
+lori_grimes Carol , you help me ?
+jim You save a grave for me ?
 rick_grimes Nobody wants that
-jim It's not about what you want. That, uh. that sound you hear, that's God laughing while you make plans
-rick_grimes What I want, Jim, if. if God allows, is to get you some help 
-jim Watch the mangroves. Their roots will gouge the whole boat. You know that, right? Amy is there swimming. You'll watch the boat, right? You said you would
-rick_grimes I'll watch the boat. Don't worry
-jim Okay 
-shane_walsh I need you to help talk some sense into Rick. Look, this C. D. C. thing, Lori, it's a mistake. So you're backing him?
-lori_grimes What else would I do? He's my husband
-shane_walsh Look, it may be time for you to play the dutiful wife, but you can't tell me that fixing your marriage is worth putting people's lives at risk
-lori_grimes I think folks around here can make up their minds without bringing my marriage into it. It's a habit you need to break
-shane_walsh I guess I'll just add it to the list of habits that I'm breaking whether I like it or not 
-rick_grimes What habits?
-shane_walsh Just talking about my need for a plan, man. So what is it? Are we leaving or not? Maybe y'all just want to stay here. We could hang some more tin cans
-rick_grimes We can't stay here. We both know that
-lori_grimes I was just telling shane I think we should trust your gut
-shane_walsh Let's go do our sweep 
-shane_walsh Tell you what, man, these people, man, they're not convinced. You know? You head to the C. D. C, you might be on your own. You gotta really consider whether you want to put lori and carl in that kind of spot
+jim It's not about what you want .
+jim That , uh .
+jim that sound you hear , that's God laughing while you make plans
+rick_grimes What I want , Jim , if .
+rick_grimes if God allows , is to get you some help
+jim Watch the mangroves .
+jim Their roots will gouge the whole boat .
+jim You know that , right ?
+jim Amy is there swimming .
+jim You'll watch the boat , right ?
+jim You said you would
+rick_grimes I'll watch the boat .
+rick_grimes Don't worry
+jim Okay
+shane_walsh I need you to help talk some sense into Rick .
+shane_walsh Look , this C. D. C. thing
+shane_walsh , Lori , it's a mistake .
+shane_walsh So you're backing him ?
+lori_grimes What else would I do ?
+lori_grimes He's my husband
+shane_walsh Look , it may be time for you to play the dutiful wife , but you can't tell me that fixing your marriage is worth putting people's lives at risk
+lori_grimes I think folks around here can make up their minds without bringing my marriage into it .
+lori_grimes It's a habit you need to break
+shane_walsh I guess I'll just add it to the list of habits that I'm breaking whether I like it or not
+rick_grimes What habits ?
+shane_walsh Just talking about my need for a plan , man .
+shane_walsh So what is it ?
+shane_walsh Are we leaving or not ?
+shane_walsh Maybe y'all just want to stay here .
+shane_walsh We could hang some more tin cans
+rick_grimes We can't stay here .
+rick_grimes We both know that
+lori_grimes I was just telling shane
+lori_grimes I think we should trust your gut
+shane_walsh Let's go
+shane_walsh do our sweep
+shane_walsh Tell you what , man , these people , man , they're not convinced .
+shane_walsh You know ?
+shane_walsh You head to the C. D. C
+shane_walsh , you might be on your own .
+shane_walsh You gotta really consider whether you want to put lori and carl in that kind of spot
 rick_grimes I got to do what's best for my family
-shane_walsh Best for your family? What's that? Exposing them to all kinds of risks?
-rick_grimes As opposed to what? Crossing 100 miles of hostile territory? If we're looking for a lifeline, I say swim toward the closest ship, not further out to sea. Why can't you back me up?
-shane_walsh Look, I want to it's just. I don't see it
-rick_grimes If it was your family, you'd feel differently
-shane_walsh What did you say to me? I kept 'em safe, man. I looked after them like they were my own. That's what I did
+shane_walsh Best for your family ?
+shane_walsh What's that ?
+shane_walsh Exposing them to all kinds of risks ?
+rick_grimes As opposed to what ?
+rick_grimes Crossing 100 miles of hostile territory ?
+rick_grimes If we're looking for a lifeline , I say swim toward the closest ship , not further out to sea .
+rick_grimes Why can't you back me up ?
+shane_walsh Look , I want to
+shane_walsh it's just .
+shane_walsh I don't see it
+rick_grimes If it was your family , you'd feel differently
+shane_walsh What did you say to me ?
+shane_walsh I kept 'em safe , man .
+shane_walsh I looked after them like they were my own .
+shane_walsh That's what I did
 rick_grimes I didn't mean it that way
-shane_walsh Well, how'd you mean it? Go on, man. How'd you mean it?
+shane_walsh Well , how'd you mean it ?
+shane_walsh Go on , man .
+shane_walsh How'd you mean it ?
 rick_grimes You're misinterpreting me
 shane_walsh All right
 rick_grimes You're just hearing it wrong
-shane_walsh Yeah?
-rick_grimes Look, you know. You know I can never repay that debt, okay? 
-dale_horvath Jesus 
-shane_walsh I know. Gonna have to start wearing reflective vests out here. Seriously. Come on, man. Come on, man, let's go. Nothing out here  
-shane_walsh I've been, uh. I've been thinking about Rick's plan. Now look, there are no. There are no guarantees either way. I'll be the first one to admit that. I've known this man a long time. I trust his instincts. I say the most important thing here is we need to stay together. So those of you that agree, we leave first thing in the morning. Okay? 
-rick_grimes We're moving out, leaving the quarry. If you heard me yesterday, you may be coming here. If you are, we'll be gone by the time you arrive. I'm leaving a note and map behind for you taped to a red car so you can follow our trail. We're heading to the C. D. C. If there's anything left, it's got to be there, don't you think? Morgan. I hope you were right about that place. I need you to be 
-shane_walsh Everybody listen up. Those of you with C. B. s, we're gonna be on channel 40. Let's keep the chatter down, okay? Now you got a problem, don't have a C. B, can't get a signal or anything at all, you're gonna hit your horn one time. That'll stop the caravan. Any questions?
-morales We're, uh. we're--we're not going
-miranda_morales We have family in Birmingham. We want to be with our people
-shane_walsh You go on your own, you won't have anyone to watch your back
-morales We'll take the chance. I got to do what's best for my family
-rick_grimes You sure?
-morales We talked about it. We're sure
-rick_grimes All right, shane
-shane_walsh Yeah, all right
-rick_grimes . 357?
-shane_walsh Yeah 
+shane_walsh Yeah ?
+rick_grimes Look , you know .
+rick_grimes You know I can never repay that debt , okay ?
+dale_horvath Jesus
+shane_walsh I know .
+shane_walsh Gonna have to start wearing reflective vests out here .
+shane_walsh Seriously .
+shane_walsh Come on , man .
+shane_walsh Come on , man , let's go .
+shane_walsh Nothing out here I've been , uh .
+shane_walsh I've been thinking about Rick's plan .
+shane_walsh Now look , there are no .
+shane_walsh There are no guarantees either way .
+shane_walsh I'll be the first one to admit that .
+shane_walsh I've known this man a long time .
+shane_walsh I trust his instincts .
+shane_walsh I say the most important thing here is we need to stay together .
+shane_walsh So those of you that agree , we leave first thing in the morning .
+shane_walsh Okay ?
+rick_grimes We're moving out , leaving the quarry .
+rick_grimes If you heard me yesterday , you may be coming here .
+rick_grimes If you are , we'll be gone by the time you arrive .
+rick_grimes I'm leaving a note and map behind for you taped to a red car so you can follow our trail .
+rick_grimes We're heading to the C. D. C.
+rick_grimes If there's anything left , it's got to be there , don't you think ?
+rick_grimes Morgan .
+rick_grimes I hope you were right about that place .
+rick_grimes I need you to be
+shane_walsh Everybody listen up .
+shane_walsh Those of you with C. B. s , we're gonna be on channel 40 .
+shane_walsh Let's keep the chatter down , okay ?
+shane_walsh Now you got a problem , don't have a C. B , can't get a signal or anything at all , you're gonna hit your horn one time .
+shane_walsh That'll stop the caravan .
+shane_walsh Any questions ?
+morales We're , uh .
+morales we're--
+morales we're not going
+miranda_morales We have family in Birmingham .
+miranda_morales We want to be with our people
+shane_walsh You go on your own , you won't have anyone to watch your back
+morales We'll take the chance .
+morales I got to do what's best for my family
+rick_grimes You sure ?
+morales We talked about it .
+morales We're sure
+rick_grimes All right , shane
+shane_walsh Yeah , all right
+rick_grimes .
+rick_grimes 357 ?
+shane_walsh Yeah
 shane_walsh The box is half full
-miranda_morales Thank you all. for everything 
+miranda_morales Thank you all .
+miranda_morales for everything
 lori_grimes Come here
-shane_walsh Good luck, man
+shane_walsh Good luck , man
 morales Appreciate it
-shane_walsh Yeah 
-eliza Bye miranda and jacqui hug. 
+shane_walsh Yeah
+eliza Bye  .
 sophia Thank you
 eliza Bye
-rick_grimes Channel 40 if you change your minds. All right?
-morales Yeah 
-carol_peletier I know 
-shane_walsh What makes you think our odds are any better? Come on. Let's go. Let's move out  dale is driving his RV, while jacqui takes care of Jim, who is in pain, and glenn is next to Dale. rick is driving a car with lori by his side, carl and sophia in the backseat, followed by Shane's car, T-Dog's car with Andrea, and Daryl's car with a motorcycle on it. 
-dale_horvath I told you we'd never get far on that hose. I said I needed the one from the cube van
-rick_grimes Can you jury-rig it?
-dale_horvath That's all it's been so far. It's more duct tape than hose. And I'm out of duct tape
-shane_walsh I see something up ahead. A gas station if we're lucky 
-jacqui Y'all, Jim. It's bad. I don't think he can take anymore 
-shane_walsh Hey, Rick, you want to hold down the fort? I'll drive ahead, see what I can bring back
-theodore_douglas Yeah, I'll come along too and I'll back you up
-shane_walsh Y'all keep your eyes open now. We'll be right back 
+rick_grimes Channel 40
+rick_grimes if you change your minds .
+rick_grimes All right ?
+morales Yeah
+carol_peletier I know
+shane_walsh What makes you think our odds are any better ?
+shane_walsh Come on .
+shane_walsh Let's go .
+shane_walsh Let's move out  .
+dale_horvath I told you we'd never get far on that hose .
+dale_horvath I said I needed the one from the cube van
+rick_grimes Can you jury-rig it ?
+dale_horvath That's all it's been so far .
+dale_horvath It's more duct tape than hose .
+dale_horvath And I'm out of duct tape
+shane_walsh I see something up ahead .
+shane_walsh A gas station if we're lucky
+jacqui Y'all , Jim .
+jacqui It's bad .
+jacqui I don't think he can take anymore
+shane_walsh Hey , Rick , you want to hold down the fort ?
+shane_walsh I'll drive ahead , see what I can bring back
+theodore_douglas Yeah , I'll come along too
+theodore_douglas and I'll back you up
+shane_walsh Y'all keep your eyes open now .
+shane_walsh We'll be right back
 rick_grimes We'll be back on the road soon
-jim Oh no. Christ. My bones. My bones are like glass. Every little bump. God, this ride is killing me. Leave me here. I'm done. Just leave me. I want to be with my family
-rick_grimes They're all dead. I don't think you know what you're asking. The fever. You've been delirious more often than not
-jim I know. Don't you think I know? 
-jim I'm clear now. In five minutes I may not be. Rick, I know what I'm asking. I want this. Leave me here. Now that's on me. Okay? My decision. Not your failure
+jim Oh no .
+jim Christ .
+jim My bones .
+jim My bones are like glass .
+jim Every little bump .
+jim God , this ride is killing me .
+jim Leave me here .
+jim I'm done .
+jim Just leave me .
+jim I want to be with my family
+rick_grimes They're all dead .
+rick_grimes I don't think you know what you're asking .
+rick_grimes The fever .
+rick_grimes You've been delirious more often than not
+jim I know .
+jim Don't you think I know ?
+jim I'm clear now .
+jim In five minutes I may not be .
+jim Rick , I know what I'm asking .
+jim I want this .
+jim Leave me here .
+jim Now that's on me .
+jim Okay ?
+jim My decision .
+jim Not your failure
 rick_grimes It's what he says he wants
-carol_peletier And he's lucid?
-rick_grimes He seems to be. I would say yes
-dale_horvath Back in the camp when I said daryl might be right and you shut me down, you misunderstood. I would never go along with callously killing a man. I was just gonna suggest that we ask jim what he wants. And I think we have an answer
-shane_walsh We just leave him here? We take off? Man, I'm not sure I could live with that
-lori_grimes It's not your call, either one of you 
-rick_grimes Yeah. That's it 
-jim Hey, another damn tree 
-shane_walsh Hey, Jim. I mean, you know it doesn't need to be this
-jim No. It's good. The breeze feels nice
-shane_walsh Okay. All right
-jacqui Just close your eyes, sweetie. Don't fight 
-rick_grimes Jim, do you want this?
-jim No. You'll need it. I'm okay. I'm okay
-dale_horvath Oh. Hey. Thanks for, uh, for fighting for us
-jim Okay  Wildfire MSB3417 Active - Begin
-transmission#unknown#TheWalkingDead.Season01.Episode05 A video monitor crackles. An unshaven man, Dr. Jenner, speaks into the camera. Dr.
-edwin_jenner jenner here. It's day 194 since wildfire was declared and 63 days since the disease abruptly went global. There's no clinical progress to report. Item. I finally got the scrubbers in the east sector shut down to save power. Wish I could have done it a month ago, but it took me that long to figure it out. Too bad I never studied engineering. Could have saved a lot of amps. Item. I'm still not sleeping well. Can't seem to keep regular hours. Living underground doesn't help, not knowing if it's day or night. I'm just feeling very off-kilter   Computer
-voice#unknown#TheWalkingDead.Season01.Episode05 Alert status. Air qualifiers indicate corrosive fumes. All personnel must clear the room. Corrosive element is deemed poisonous if inhaled. All personnel clear. Full decontamination in effect  Dr.
-edwin_jenner No! Computer
-voice#unknown#TheWalkingDead.Season01.Episode05 Full decontamination complete  Dr.
-edwin_jenner The TS19 samples are gone. The tragedy of their loss cannot be overstat. They were our freshest samples by far. None of the other samples we gathered even came close. Those are necrotic, useless dead flesh. I don't even know why I'm talking to you. I bet there isn't a single son of a bitch out there still listening, is there? Is there? Fine. Saves me the embarrassment. I think tomorrow I'm gonna blow my brains out. I haven't decided. But tonight, I'm getting drunk  Dr.
-edwin_jenner Speaking of which, how far do you think I can chuck this, huh? Pretty far I bet  Dr.
-edwin_jenner Oh! It is out of the stadium! 
-shane_walsh All right, everybody. Keep moving. Go on. Stay quiet. Let's go. Okay, keep moving. Stay together
-rick_grimes Keep moving. Come on
+carol_peletier And he's lucid ?
+rick_grimes He seems to be .
+rick_grimes I would say yes
+dale_horvath Back in the camp when I said daryl might be right
+dale_horvath and you shut me down ,
+dale_horvath you misunderstood .
+dale_horvath I would never go along with callously killing a man .
+dale_horvath I was just gonna suggest that we ask jim what he wants .
+dale_horvath And I think we have an answer
+shane_walsh We just leave him here ?
+shane_walsh We take off ?
+shane_walsh Man , I'm not sure I could live with that
+lori_grimes It's not your call , either one of you
+rick_grimes Yeah .
+rick_grimes That's it
+jim Hey , another damn tree
+shane_walsh Hey , Jim .
+shane_walsh I mean , you know it doesn't need to be this
+jim No .
+jim It's good .
+jim The breeze feels nice
+shane_walsh Okay .
+shane_walsh All right
+jacqui Just close your eyes , sweetie .
+jacqui Don't fight
+rick_grimes Jim , do you want this ?
+jim No .
+jim You'll need it .
+jim I'm okay .
+jim I'm okay
+dale_horvath Oh .
+dale_horvath Hey .
+dale_horvath Thanks for , uh , for fighting for us
+jim Okay
+jim Wildfire
+transmission#unknown#TheWalkingDead.Season01.Episode05 Dr .
+edwin_jenner jenner here .
+edwin_jenner It's day 194 since wildfire was declared and 63 days since the disease abruptly went global .
+edwin_jenner There's no clinical progress to report .
+edwin_jenner Item .
+edwin_jenner I finally got the scrubbers in the east sector shut down to save power .
+edwin_jenner Wish I could have done it a month ago , but it took me that long to figure it out .
+edwin_jenner Too bad I never studied engineering .
+edwin_jenner Could have saved a lot of amps .
+edwin_jenner Item .
+edwin_jenner I'm still not sleeping well .
+edwin_jenner Can't seem to keep regular hours .
+edwin_jenner Living underground doesn't help , not knowing if it's day or night .
+edwin_jenner I'm just feeling very off-kilter 
+voice#unknown#TheWalkingDead.Season01.Episode05 Alert status .
+voice#unknown#TheWalkingDead.Season01.Episode05 Air qualifiers indicate corrosive fumes .
+voice#unknown#TheWalkingDead.Season01.Episode05 All personnel must clear the room .
+voice#unknown#TheWalkingDead.Season01.Episode05 Corrosive element is deemed poisonous if inhaled .
+voice#unknown#TheWalkingDead.Season01.Episode05 All personnel clear .
+voice#unknown#TheWalkingDead.Season01.Episode05 Full decontamination in effect
+voice#unknown#TheWalkingDead.Season01.Episode05 Dr .
+edwin_jenner No !
+voice#unknown#TheWalkingDead.Season01.Episode05 Full decontamination complete Dr .
+edwin_jenner The TS19 samples are gone .
+edwin_jenner The tragedy of their loss cannot be overstat .
+edwin_jenner They were our freshest samples by far .
+edwin_jenner None of the other samples we gathered even came close .
+edwin_jenner Those are necrotic , useless dead flesh .
+edwin_jenner I don't even know why I'm talking to you .
+edwin_jenner I bet there isn't a single son of a bitch out there still listening , is there ?
+edwin_jenner Is there ?
+edwin_jenner Fine .
+edwin_jenner Saves me the embarrassment .
+edwin_jenner I think tomorrow
+edwin_jenner I'm gonna blow my brains out .
+edwin_jenner I haven't decided .
+edwin_jenner But tonight , I'm getting drunk Dr .
+edwin_jenner Speaking of which , how far do you think I can chuck this , huh ?
+edwin_jenner Pretty far I bet Dr .
+edwin_jenner Oh !
+edwin_jenner It is out of the stadium !
+shane_walsh All right , everybody .
+shane_walsh Keep moving .
+shane_walsh Go on .
+shane_walsh Stay quiet .
+shane_walsh Let's go .
+shane_walsh Okay , keep moving .
+shane_walsh Stay together
+rick_grimes Keep moving .
+rick_grimes Come on
 jacqui Shh
 lori_grimes carol
 shane_walsh Shh
-glenn_rhee Oh, god  Dr.
-edwin_jenner No 
-shane_walsh Keep it together, come on
-lori_grimes We're almost there, baby. Almost there
-shane_walsh Nothing? 
+glenn_rhee Oh , god Dr .
+edwin_jenner No
+shane_walsh Keep it together , come on
+lori_grimes We're almost there , baby .
+lori_grimes Almost there
+shane_walsh Nothing ?
 theodore_douglas There's nobody here
-rick_grimes Then why are these shutters down?
-daryl_dixon Walkers!
-lori_grimes Baby, come on 
-daryl_dixon You led us into a graveyard!
+rick_grimes Then why are these shutters down ?
+daryl_dixon Walkers !
+lori_grimes Baby , come on
+daryl_dixon You led us into a graveyard !
 shane_walsh He made a call
-daryl_dixon It was the wrong damn call!
-shane_walsh Just shut up. You hear? Shut up. Shut up! Rick, this is a dead end
-carol_peletier Where are we gonna go?
-shane_walsh Do you hear me? No blame
-lori_grimes She's right. We can't be here, this close to the city after dark
-shane_walsh Fort Benning, Rick--still an option
-andrea_harrison On what? No food, no fuel. That's 100 miles
-glenn_rhee 125. I checked the map
-lori_grimes Forget Fort Benning. We need answers tonight, now
+daryl_dixon It was the wrong damn call !
+shane_walsh Just shut up .
+shane_walsh You hear ?
+shane_walsh Shut up .
+shane_walsh Shut up !
+shane_walsh Rick , this is a dead end
+carol_peletier Where are we gonna go ?
+shane_walsh Do you hear me ?
+shane_walsh No blame
+lori_grimes She's right .
+lori_grimes We can't be here , this close to the city after dark
+shane_walsh Fort Benning , Rick--still an option
+andrea_harrison On what ?
+andrea_harrison No food , no fuel .
+andrea_harrison That's 100 miles
+glenn_rhee 125 .
+glenn_rhee I checked the map
+lori_grimes Forget Fort Benning .
+lori_grimes We need answers tonight , now
 rick_grimes We'll think of something
-shane_walsh Come on, let's go. Let's get out of here. Let's go. Please 
-shane_walsh All right, everybody back to the cars. Let's go. Move
-rick_grimes The camera--it moved
+shane_walsh Come on , let's go .
+shane_walsh Let's get out of here .
+shane_walsh Let's go .
+shane_walsh Please All right , everybody back to the cars .
+shane_walsh Let's go .
+shane_walsh Move
+rick_grimes The camera
+rick_grimes --it moved
 shane_walsh You imagined it
-rick_grimes It moved. It moved
-shane_walsh Rick, it is dead, man. It's an automated device. It's gears, okay? They're just winding down. Now come on Dr.
-edwin_jenner No, just go away
-shane_walsh Man, just listen to me. Look around this place. It's dead, okay? It's dead. You need to let it go, rick 
-lori_grimes Rick, there's nobody here!
-rick_grimes I know you're in there. I know you can hear me 
-shane_walsh Everybody get back to the cars now!
-rick_grimes Please, we're desperate. Please help us. We have women, children, no food, hardly any gas left
-lori_grimes Rick. There's nobody here
-rick_grimes We have nowhere else to go 
-rick_grimes Keep your eyes open. If you don't let us in, you're killing us! Please!
-shane_walsh Come on, buddy, let's go. Let's go
-rick_grimes Please help us. You're killing us! You're killing us! You're killing us! 
+rick_grimes It moved .
+rick_grimes It moved
+shane_walsh Rick , it is dead , man .
+shane_walsh It's an automated device .
+shane_walsh It's gears , okay ?
+shane_walsh They're just winding down .
+shane_walsh Now come on Dr .
+edwin_jenner No , just go away
+shane_walsh Man , just listen to me .
+shane_walsh Look around this place .
+shane_walsh It's dead , okay ?
+shane_walsh It's dead .
+shane_walsh You need to let it go , rick
+lori_grimes Rick , there's nobody here !
+rick_grimes I know you're in there .
+rick_grimes I know you can hear me
+shane_walsh Everybody get back to the cars now !
+rick_grimes Please , we're desperate .
+rick_grimes Please help us .
+rick_grimes We have women , children , no food , hardly any gas left
+lori_grimes Rick .
+lori_grimes There's nobody here
+rick_grimes We have nowhere else to go Keep your eyes open .
+rick_grimes If you don't let us in , you're killing us !
+rick_grimes Please !
+shane_walsh Come on , buddy , let's go .
+shane_walsh Let's go
+rick_grimes Please help us .
+rick_grimes You're killing us !
+rick_grimes You're killing us !
+rick_grimes You're killing us !
