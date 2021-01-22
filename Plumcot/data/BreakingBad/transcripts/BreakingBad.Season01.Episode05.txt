@@ -1,18 +1,18 @@
 jesse_pinkman Here's my résumé .
 jesse_pinkman I mean , technically it says " curriculum vitae, " which I think is more professional ,
 jesse_pinkman but , you know , same thing pretty much .
-arroyo_realty_manager Great .
-arroyo_realty_manager But this position truly is a noexperiencenecessary kind of thing .
-arroyo_realty_manager Well
+manager Great .
+manager But this position truly is a noexperiencenecessary kind of thing .
+manager Well
 jesse_pinkman Well , and it doesn't really say it here , but I have a solid background in sales .
 jesse_pinkman I'm pretty much a selfstarter , so .
-arroyo_realty_manager That's excellent , but Excellent
+manager That's excellent , but Excellent
 jesse_pinkman Excellent .
 jesse_pinkman I really feel I could be a major , major asset to your sales force .
-arroyo_realty_manager thinking there's a little misunderstanding .
-arroyo_realty_manager This isn't actually a sales job .
-arroyo_realty_manager I mean , I'd be happy to consider you for a sales position , but our agents need to be licensed , have at least two years onthejob experience , and usually a college degree .
-arroyo_realty_manager What you would be doing is more like advertising .
+manager thinking there's a little misunderstanding .
+manager This isn't actually a sales job .
+manager I mean , I'd be happy to consider you for a sales position , but our agents need to be licensed , have at least two years onthejob experience , and usually a college degree .
+manager What you would be doing is more like advertising .
 badger Hey , Jesse !
 badger Hey
 jesse_pinkman Yo , man !
@@ -79,9 +79,9 @@ skyler_white this is the only thing I could find that fit me .
 walter_white you look at that ?
 walter_white The invitation said " no gifts .
 skyler_white Oh , on .
-waitress_#1 Sir , I'll take that
+waitress_#1#unknown#BreakingBad.Season01.Episode05 Sir , I'll take that
 skyler_white Thank you .
-waitress_#1 You're
+waitress_#1#unknown#BreakingBad.Season01.Episode05 You're
 skyler_white look , there's Elliott .
 walter_white Let's go say hello .
 walter_white Elliott .
@@ -124,7 +124,7 @@ walter_white and a
 elliott_schwartz a lot of luck .
 elliott_schwartz A lot of luck .
 walter_white Oh , well , no .
-unknown Will
+unknown#unknown#BreakingBad.Season01.Episode05 Will
 elliott_schwartz Will you excuse us ?
 elliott_schwartz We gotta say hi .
 elliott_schwartz Make yourselves at home .
@@ -139,7 +139,7 @@ farley I thought that was you .
 walter_white Farley !
 walter_white Long time no see .
 farley This Walter White .
-unknown Back at
+unknown#unknown#BreakingBad.Season01.Episode05 Back at
 farley at Cal Tech , he was you
 farley you were just the master of crystallography .
 farley I remember this one time , we were stuck on this protein problem for weeks !
@@ -164,8 +164,8 @@ walter_white I I gravitated toward education .
 scientist What university ?
 elliott_schwartz It's a Stratocaster !
 elliott_schwartz Not
-unknown Not just any Strat .
-unknown That's one of Clapton's .
+unknown#unknown#BreakingBad.Season01.Episode05 Not just any Strat .
+unknown#unknown#BreakingBad.Season01.Episode05 That's one of Clapton's .
 elliott_schwartz No way .
 elliott_schwartz To Elliott . "
 elliott_schwartz Sorry about the buckle rash .
@@ -314,7 +314,7 @@ walter_white put him up
 skyler_white Okay , what did you say ?
 skyler_white Walt ?
 walter_white What do you think I ready to go ?
-walter_white_jr. I'm taking the bus .
+walter_white_jr I'm taking the bus .
 skyler_white Bye , honey .
 badger Hey , dude , are these bullet holes ?
 jesse_pinkman No , man .
@@ -346,39 +346,39 @@ badger We might see javelinas .
 jesse_pinkman you going to help me or what ?
 jesse_pinkman Badger
 soren Here .
-louis_corbett What about him ?
+louis What about him ?
 soren you kidding ?
 soren He looks younger than us .
-louis_corbett Whatever .
-louis_corbett What about that guy
-walter_white_jr. Nah , he looks like a businessman .
-walter_white_jr. So
+louis Whatever .
+louis What about that guy
+walter_white_jr Nah , he looks like a businessman .
+walter_white_jr So
 soren So what ?
 soren So
-walter_white_jr. So , businessmen are always in a hurry .
-walter_white_jr. They're always , like , going to some meeting or something .
-walter_white_jr. Seriously , he's just going to say no .
+walter_white_jr So , businessmen are always in a hurry .
+walter_white_jr They're always , like , going to some meeting or something .
+walter_white_jr Seriously , he's just going to say no .
 soren This guy .
 soren This is our guy .
 soren You're up .
-walter_white_jr. Why do I have to do
+walter_white_jr Why do I have to do
 soren it ?
 soren Give me the crutches
 soren and I'll go do it .
-walter_white_jr. Excuse me , hey .
-walter_white_jr. We forgot our IDs and we were wondering if you could do us a favor and buy us a sixpack .
-off-duty_police_officer You know , what you're asking is illegal .
-walter_white_jr. No , it's not ?
-off-duty_police_officer Yeah , it is .
-off-duty_police_officer Guess you win the jackpot .
-off-duty_police_officer This is not how I wanted to spend my night off .
-off-duty_police_officer Consider this your first and last warning .
-walter_white_jr. Yes , sir .
-off-duty_police_officer You're lucky you got a good dad here .
-walter_white_jr. the other guys hadn't run , I could've talked my way out of it .
+walter_white_jr Excuse me , hey .
+walter_white_jr We forgot our IDs and we were wondering if you could do us a favor and buy us a sixpack .
+off_duty_cop You know , what you're asking is illegal .
+walter_white_jr No , it's not ?
+off_duty_cop Yeah , it is .
+off_duty_cop Guess you win the jackpot .
+off_duty_cop This is not how I wanted to spend my night off .
+off_duty_cop Consider this your first and last warning .
+walter_white_jr Yes , sir .
+off_duty_cop You're lucky you got a good dad here .
+walter_white_jr the other guys hadn't run , I could've talked my way out of it .
 hank_schrader Not cool , man .
 hank_schrader Not Not cool .
-walter_white_jr. What , you never tried to buy beer when you were my age ?
+walter_white_jr What , you never tried to buy beer when you were my age ?
 hank_schrader I'm talking about you calling me and not your father .
 hank_schrader that will make him feel ?
 walter_white I don't even know what to say to you .
@@ -505,18 +505,18 @@ hank_schrader I say take the money and run Somebody want to take this thing ?
 skyler_white Here .
 skyler_white Yes , Walter Walter Walter Jr. , I'm sure you have about a million things to say , probably , and now is your chance .
 skyler_white Just let it all out .
-walter_white_jr. This is bullshit .
+walter_white_jr This is bullshit .
 walter_white Hey , come on .
 skyler_white It's all right .
 skyler_white Tell Tell your dad how you feel .
-walter_white_jr. I'm pissed off .
+walter_white_jr I'm pissed off .
 skyler_white Tell him .
-walter_white_jr. I'm pissed off , 'cause you're you're being
-walter_white_jr. You're a pussy .
-walter_white_jr. You're , like , ready to give up .
-walter_white_jr. God .
-walter_white_jr. What if you gave up on me , This here ?
-walter_white_jr. All the stuff I've been through , and you're scared of a little chemotherapy ?
+walter_white_jr I'm pissed off , 'cause you're you're being
+walter_white_jr You're a pussy .
+walter_white_jr You're , like , ready to give up .
+walter_white_jr God .
+walter_white_jr What if you gave up on me , This here ?
+walter_white_jr All the stuff I've been through , and you're scared of a little chemotherapy ?
 marie_schrader Me , personally ?
 marie_schrader I think you should do whatever you want to do .
 skyler_white What ?
@@ -551,7 +551,7 @@ marie_schrader make one simple observation My husband's life
 marie_schrader we're talking
 skyler_white Come on .
 skyler_white How dare you
-walter_white_jr. This is so stupid .
+walter_white_jr This is so stupid .
 walter_white All right , I've got the Talking Pillow now .
 walter_white We all , in this room , we love each other .
 walter_white We want what's best for each other , and I know that .

@@ -30,12 +30,12 @@ cindy_chandler Sir , excuse me !
 shannon_rutherford Excuse me ?
 cindy_chandler Ladies and gentlemen , the Captain has turned on the " fasten seatbelt " sign .
 cindy_chandler Please return to your seats and fasten your seatbelts .
-JD#unknown#Lost.Season01.Episode02 Sir , are you all right ?
+flight_attendant_2 Sir , are you all right ?
 charlie_pace Just a minute .
 charlie_pace Just a minute .
-JD#unknown#Lost.Season01.Episode02 I'm gonna have to ask that you open the door , please .
-JD#unknown#Lost.Season01.Episode02 Open the door now , sir .
-JD#unknown#Lost.Season01.Episode02 Sir !
+flight_attendant_2 I'm gonna have to ask that you open the door , please .
+flight_attendant_2 Open the door now , sir .
+flight_attendant_2 Sir !
 boone_carlyle Hey .
 boone_carlyle We're going through some clothes .
 boone_carlyle Sorting them .
@@ -468,17 +468,17 @@ kate_austen I'm not so sure .
 james_ford Yeah .
 james_ford I've been with girls like you .
 kate_austen No girl's exactly like me .
-MICHELLE#unknown#Lost.Season01.Episode02 Can I get you a refill ?
+flight_attendant_3 Can I get you a refill ?
 kate_austen No , I'm ...
 kate_austen I'm fine with this , thank you .
-MICHELLE#unknown#Lost.Season01.Episode02 You , sir ?
-MICHELLE#unknown#Lost.Season01.Episode02 Can I get you anything ?
-MICHELLE#unknown#Lost.Season01.Episode02 Cocktail ?
-MICHELLE#unknown#Lost.Season01.Episode02 Soda ?
+flight_attendant_3 You , sir ?
+flight_attendant_3 Can I get you anything ?
+flight_attendant_3 Cocktail ?
+flight_attendant_3 Soda ?
 marshal_edward_mars Just coffee , sweetheart .
 marshal_edward_mars Black .
-MICHELLE#unknown#Lost.Season01.Episode02 Coffee .
-MICHELLE#unknown#Lost.Season01.Episode02 Sure .
+flight_attendant_3 Coffee .
+flight_attendant_3 Sure .
 marshal_edward_mars You look worried .
 marshal_edward_mars I'd be worried too , I was you .
 marshal_edward_mars But you've got to stay positive , kiddo .
@@ -496,7 +496,6 @@ kate_austen I have one favor to ask .
 marshal_edward_mars Really ?
 marshal_edward_mars This ought to be good .
 marshal_edward_mars What ...
-The#unknown#Lost.Season01.Episode02 He passes out .
 sayid_jarrah We should keep moving .
 dr_jack_shephard No .
 dr_jack_shephard No .

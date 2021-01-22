@@ -9,9 +9,9 @@ jack_geller,elliott_gould,Jack Geller,Elliott Gould,https://www.imdb.com/title/t
 judy_geller,christina_pickles,Judy Geller,Christina Pickles,https://www.imdb.com/title/tt0108778/characters/nm0681943
 janice,maggie_wheeler,Janice,Maggie Wheeler,https://www.imdb.com/title/tt0108778/characters/nm0923909
 mike_hannigan,paul_rudd,Mike Hannigan,Paul Rudd,https://www.imdb.com/title/tt0108778/characters/nm0748620
-carol,jane_sibbett,Carol,Jane Sibbett,https://www.imdb.com/title/tt0108778/characters/nm0796235
+carol_willick,jane_sibbett,Carol,Jane Sibbett,https://www.imdb.com/title/tt0108778/characters/nm0796235
 emily_waltham,helen_baxendale,Emily Waltham,Helen Baxendale,https://www.imdb.com/title/tt0108778/characters/nm0062636
-susan,jessica_hecht,Susan,Jessica Hecht,https://www.imdb.com/title/tt0108778/characters/nm0372961
+susan_bunch,jessica_hecht,Susan,Jessica Hecht,https://www.imdb.com/title/tt0108778/characters/nm0372961
 estelle_leonard,june_gable,Estelle Leonard,June Gable,https://www.imdb.com/title/tt0108778/characters/nm0300096
 dr_richard_burke,tom_selleck,Dr. Richard Burke,Tom Selleck,https://www.imdb.com/title/tt0108778/characters/nm0000633
 charlie_wheeler,aisha_tyler,Charlie Wheeler,Aisha Tyler,https://www.imdb.com/title/tt0108778/characters/nm0878768

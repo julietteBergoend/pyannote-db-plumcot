@@ -117,11 +117,11 @@ james_ford Hell
 james_ford no , it's the best idea I ever heard .
 hugo_reyes Who is this guy ?
 john_locke Yes ?
-GL12#unknown#Lost.Season01.Episode04 Colonel Locke , is this line secure ?
+warren Colonel Locke , is this line secure ?
 john_locke Line secure GL12 , go ahead .
-GL12#unknown#Lost.Season01.Episode04 Target area is acquired .
-GL12#unknown#Lost.Season01.Episode04 Maneuvers are a go for 1300 hours .
-GL12#unknown#Lost.Season01.Episode04 Repeat we are a GO .
+warren Target area is acquired .
+warren Maneuvers are a go for 1300 hours .
+warren Repeat we are a GO .
 john_locke Roger that .
 john_locke We'll convene at the usual rendezvous point at 1300 hours .
 randy Locke .
@@ -272,10 +272,10 @@ michael_dawson What were you doing in Australia ?
 john_locke Shhh .
 michael_dawson Hey , quit giving us the steal signal .
 kate_austen He's bad .
-GL12#unknown#Lost.Season01.Episode04 Move .
-GL12#unknown#Lost.Season01.Episode04 You've got to move
-GL12#unknown#Lost.Season01.Episode04 Col .
-GL12#unknown#Lost.Season01.Episode04 Your troops are across enemy lines .
+warren Move .
+warren You've got to move
+warren Col .
+warren Your troops are across enemy lines .
 john_locke Patience , the quality which you lack , GL12 , is the hallmark of a leader .
 randy Hallmark , huh ?
 randy Tell me more about being a leader , Locke .
@@ -293,9 +293,9 @@ john_locke Not that you would understand , but a Walkabout is a journey of spiri
 john_locke And becomes inseparable from it .
 john_locke I have vacation days , I'm going , Randy .
 john_locke I've already made a reservation .
-GL12#unknown#Lost.Season01.Episode04 Wow .
-GL12#unknown#Lost.Season01.Episode04 John you're really doing it , huh ?
-GL12#unknown#Lost.Season01.Episode04 You tell Helen yet ?
+warren Wow .
+warren John you're really doing it , huh ?
+warren You tell Helen yet ?
 randy Helen ?
 randy Well , what's this Locke , you've actually got a woman in your life .
 john_locke That's none of your business .

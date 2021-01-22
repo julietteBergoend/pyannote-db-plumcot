@@ -2,14 +2,14 @@ michael_dawson Walt !
 michael_dawson Walt !
 REDSHIRT#unknown#Lost.Season01.Episode01 Stay away from the gas !
 REDSHIRT#unknown#Lost.Season01.Episode01 Stay there !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Help !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Help !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Somebody help me !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Help !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Help !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Ahh , my leg !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Ah !
-REDSHIRT_#2#unknown#Lost.Season01.Episode01 Ah !
+tourniquet_man Help !
+tourniquet_man Help !
+tourniquet_man Somebody help me !
+tourniquet_man Help !
+tourniquet_man Help !
+tourniquet_man Ahh , my leg !
+tourniquet_man Ah !
+tourniquet_man Ah !
 dr_jack_shephard Hey you , just give me a hand !
 dr_jack_shephard You , come on !
 dr_jack_shephard Come over here , give me a hand !
@@ -354,41 +354,41 @@ dr_jack_shephard I need that water .
 dr_jack_shephard Here .
 dr_jack_shephard Here you go .
 dr_jack_shephard Hey .
-PILOT#unknown#Lost.Season01.Episode01 How many survived ?
+seth_norris How many survived ?
 dr_jack_shephard At least 48 .
 dr_jack_shephard Does anything feel broken ?
-PILOT#unknown#Lost.Season01.Episode01 No , no .
-PILOT#unknown#Lost.Season01.Episode01 Just my head's a little dizzy , that's all .
+seth_norris No , no .
+seth_norris Just my head's a little dizzy , that's all .
 dr_jack_shephard Yeah .
 dr_jack_shephard It's probably a concussion .
-PILOT#unknown#Lost.Season01.Episode01 How long has it been ?
+seth_norris How long has it been ?
 dr_jack_shephard Sixteen hours .
-PILOT#unknown#Lost.Season01.Episode01 Sixteen ?
-PILOT#unknown#Lost.Season01.Episode01 Has anybody come ?
+seth_norris Sixteen ?
+seth_norris Has anybody come ?
 dr_jack_shephard Not yet .
-PILOT#unknown#Lost.Season01.Episode01 Six hours in , our radio went out .
-PILOT#unknown#Lost.Season01.Episode01 No-one could see us .
-PILOT#unknown#Lost.Season01.Episode01 We turned back to land in Fiji .
-PILOT#unknown#Lost.Season01.Episode01 By the time we hit turbulence , we ... we were a thousand miles off course .
-PILOT#unknown#Lost.Season01.Episode01 They're looking for us in the wrong place .
-PILOT#unknown#Lost.Season01.Episode01 We have a transceiver .
+seth_norris Six hours in , our radio went out .
+seth_norris No-one could see us .
+seth_norris We turned back to land in Fiji .
+seth_norris By the time we hit turbulence , we ... we were a thousand miles off course .
+seth_norris They're looking for us in the wrong place .
+seth_norris We have a transceiver .
 dr_jack_shephard Good .
 dr_jack_shephard Good , that's what we were hoping .
 dr_jack_shephard Listen , you shouldn't try to move .
-PILOT#unknown#Lost.Season01.Episode01 No , no .
-PILOT#unknown#Lost.Season01.Episode01 I'm okay .
-PILOT#unknown#Lost.Season01.Episode01 It's okay .
-PILOT#unknown#Lost.Season01.Episode01 Transceiver's right there .
-PILOT#unknown#Lost.Season01.Episode01 It's right there .
+seth_norris No , no .
+seth_norris I'm okay .
+seth_norris It's okay .
+seth_norris Transceiver's right there .
+seth_norris It's right there .
 dr_jack_shephard Where's Charlie ?
-PILOT#unknown#Lost.Season01.Episode01 It's not working .
+seth_norris It's not working .
 kate_austen Charlie ?
 kate_austen What were you doing in the bathroom ?
 charlie_pace What ?
-PILOT#unknown#Lost.Season01.Episode01 What the hell was that ?
+seth_norris What the hell was that ?
 dr_jack_shephard Kate .
 kate_austen It's right outside .
-PILOT#unknown#Lost.Season01.Episode01 What , what's right outside ?
+seth_norris What , what's right outside ?
 dr_jack_shephard Shhhh .
 charlie_pace What the hell just happened ?
 kate_austen Jack , come on !

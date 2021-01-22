@@ -171,7 +171,7 @@ ana_lucia_cortez I'm in Sydney .
 ana_lucia_cortez Hold on .
 ana_lucia_cortez Sorry ...
 dr_jack_shephard Jack .
-ana_lucia_cortez  Jack , I've got to talk .
+ana_lucia_cortez Jack , I've got to talk .
 ana_lucia_cortez We'll have the next drink on the plane , okay ?
 dr_jack_shephard 42F .
 ana_lucia_cortez 42F
@@ -421,7 +421,7 @@ walt_lloyd He's a good listener .
 walt_lloyd You could talk to him about Boone if you want .
 shannon_rutherford Alright , but
 shannon_rutherford only until you get us rescued , okay .
-airport_cop  Flight 338 to Fiji will be delayed .
+airport_cop Flight 338 to Fiji will be delayed .
 airport_cop Please check the board for flight details .
 sayid_jarrah Excuse me , would you mind watching my bag for a moment ?
 sayid_jarrah I'll be right back .

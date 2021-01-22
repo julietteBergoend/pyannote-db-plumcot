@@ -310,25 +310,25 @@ dr_tom_brennan My plane .
 dr_tom_brennan I can't believe I let you talk me into putting this in there .
 kate_austen That was your idea .
 kate_austen Kate and Tom , 1989 .
-YOUNG#unknown#Lost.Season01.Episode22 Is it on ?
-YOUNG#unknown#Lost.Season01.Episode22 I don't think it's on .
-YOUNG#unknown#Lost.Season01.Episode22 It's on .
-YOUNG#unknown#Lost.Season01.Episode22 Okay , this is Kate Austen and Tom Brennan and this is our dedication for our time capsule , here on August 15th , 1989 .
-YOUNG#unknown#Lost.Season01.Episode22 Hey , give me that back .
-YOUNG#unknown#Lost.Season01.Episode22 Why are you putting this stupid plane in there ?
-YOUNG#unknown#Lost.Season01.Episode22 Because it's cool , Katie .
-YOUNG#unknown#Lost.Season01.Episode22 I got it when I flew to Dallas by myself .
-YOUNG#unknown#Lost.Season01.Episode22 Ooh , that is cool , just like this time capsule .
-YOUNG#unknown#Lost.Season01.Episode22 It'll be totally cool when we dig it up in like 20 years .
-YOUNG#unknown#Lost.Season01.Episode22 How do you know we'll be together ?
-YOUNG#unknown#Lost.Season01.Episode22 Because we'll be married and you'll be a mom
-YOUNG#unknown#Lost.Season01.Episode22 and we'll have 9 kids .
-YOUNG#unknown#Lost.Season01.Episode22 I don't think so .
-YOUNG#unknown#Lost.Season01.Episode22 As soon as I get my license we should just get in a car and drive .
-YOUNG#unknown#Lost.Season01.Episode22 You know , run away .
-YOUNG#unknown#Lost.Season01.Episode22 You always want to run away , Katie .
-YOUNG#unknown#Lost.Season01.Episode22 Yeah ,
-YOUNG#unknown#Lost.Season01.Episode22 and you know why .
+young_tom Is it on ?
+young_tom I don't think it's on .
+young_kate It's on .
+young_tom Okay , this is Kate Austen and Tom Brennan and this is our dedication for our time capsule , here on August 15th , 1989 .
+young_tom Hey , give me that back .
+young_kate Why are you putting this stupid plane in there ?
+young_tom Because it's cool , Katie .
+young_tom I got it when I flew to Dallas by myself .
+young_kate Ooh , that is cool , just like this time capsule .
+young_tom It'll be totally cool when we dig it up in like 20 years .
+young_kate How do you know we'll be together ?
+young_tom Because we'll be married and you'll be a mom
+young_tom and we'll have 9 kids .
+young_kate I don't think so .
+young_kate As soon as I get my license we should just get in a car and drive .
+young_kate You know , run away .
+young_tom You always want to run away , Katie .
+young_kate Yeah ,
+young_kate and you know why .
 dr_tom_brennan Funny how things turn out , huh ?
 kate_austen Yeah .
 kate_austen Sorry .
@@ -425,13 +425,12 @@ diane_janssen Help me .
 diane_janssen Help me !
 diane_janssen Somebody help me !
 diane_janssen Help me , somebody .
-SECURITY#unknown#Lost.Season01.Episode22 GUARD
-SECURITY#unknown#Lost.Season01.Episode22 What's going on ?
+wheeler What's going on ?
 kate_austen I'm her daughter .
 kate_austen She's just confused .
 kate_austen I was going to get a doctor .
-SECURITY#unknown#Lost.Season01.Episode22 GUARD Hang on .
-SECURITY#unknown#Lost.Season01.Episode22 We've got a situation-
+wheeler Hang on .
+wheeler We've got a situation-
 dr_tom_brennan What happened ?
 kate_austen I need your car keys .
 dr_tom_brennan Kate , Katie ?

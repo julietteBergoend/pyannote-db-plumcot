@@ -28,8 +28,8 @@ hank_schrader Found his car out in the boonies .
 hank_schrader Last guy
 hank_schrader he ratted out
 hank_schrader was none other than his cousin , Emilio Koyama .
-dea_agent_#1 You thinking the cousin found out and took revenge ?
-dea_agent_#1 Could
+dea_agent_#1#unknown#BreakingBad.Season01.Episode04 You thinking the cousin found out and took revenge ?
+dea_agent_#1#unknown#BreakingBad.Season01.Episode04 Could
 hank_schrader Could be .
 hank_schrader Turns out he's missing , too .
 hank_schrader Normally , I'd say someone did the world a favor .
@@ -66,14 +66,14 @@ marie_schrader And I think everybody would like it if you'd stop saying that .
 walter_white Marie , some more wine , maybe ?
 marie_schrader I'm all right , thanks .
 walter_white Hey
-walter_white_jr. Hey , I want a beer .
+walter_white_jr Hey , I want a beer .
 hank_schrader Yeah .
 hank_schrader I want Shania Twain to give me a tuggie .
 hank_schrader Guess what ?
 hank_schrader That ain't happening , either .
 walter_white How about some more soda ?
-walter_white_jr. sure .
-walter_white_jr. Honey
+walter_white_jr sure .
+walter_white_jr Honey
 walter_white Honey , do you need anything ?
 skyler_white Walt .
 skyler_white Thank you .
@@ -88,7 +88,7 @@ hank_schrader He wants to be hot .
 hank_schrader You see what I'm talking about ?
 hank_schrader That's
 hank_schrader That's a female perspective .
-walter_white_jr. She supposed to say that .
+walter_white_jr She supposed to say that .
 hank_schrader Look , a guy doesn't have to look like , uh Charlton Heston
 hank_schrader I'm
 hank_schrader I'm talking " Moses " to get a girl ,
@@ -104,8 +104,8 @@ marie_schrader It was before they tightened the stalking laws .
 hank_schrader Anyway , how about your dad here ?
 hank_schrader Right there's a good story , Walt .
 hank_schrader him how you met Skyler .
-walter_white_jr. Mom was a waitress in Los Alamos .
-walter_white_jr. And Dad said that thing to you Actually
+walter_white_jr Mom was a waitress in Los Alamos .
+walter_white_jr And Dad said that thing to you Actually
 walter_white Actually , your mother wasn't a waitress .
 walter_white It was a summer job , and she was the hostess , and she also worked the cash register .
 walter_white And I used to go in there a lot because it was close enough to the lab where I could ride my bicycle .
@@ -127,8 +127,8 @@ hank_schrader But that's what I'm talking about .
 hank_schrader That's persistence .
 hank_schrader You see ?
 hank_schrader Once you set your cap for something , or somebody , you gotta just , you know Mom
-walter_white_jr. Mom , are you all right ?
-walter_white_jr. Shh
+walter_white_jr Mom , are you all right ?
+walter_white_jr Shh
 marie_schrader What's the matter ?
 skyler_white What
 marie_schrader What is it ?
@@ -297,10 +297,10 @@ walter_white What's up ?
 walter_white I thought I heard mice .
 walter_white That's all we need , huh ?
 walter_white So , what's up ,
-walter_white_jr. What the hell's wrong with you ?
-walter_white_jr. What ?
-walter_white_jr. acting all Why are you acting so weird ?
-walter_white_jr. You're acting like nothing is going on .
+walter_white_jr What the hell's wrong with you ?
+walter_white_jr What ?
+walter_white_jr acting all Why are you acting so weird ?
+walter_white_jr You're acting like nothing is going on .
 ken_wins Come on !
 ken_wins Am I gonna have to come down there and whip your ass ?
 ken_wins And let me tell you something else .
@@ -318,7 +318,7 @@ ken_wins Hell , I could go anywhere .
 ken_wins HoffmanGordonBradley or Sorcher , even GoldbergWayne .
 ken_wins They'd make me a partner just for walking in the damn door .
 ken_wins That's how ecstatic they'd be
-unknown Hells
+unknown#unknown#BreakingBad.Season01.Episode04 Hells
 ken_wins Hells , yes , brotherman !
 ken_wins Check this chick out Buddy , she's a cow .
 ken_wins Stacey's a cow .
@@ -326,13 +326,13 @@ ken_wins We're talking major barnyard boohog .
 ken_wins Roll her in flour and look for the wet spot before you hit that , man .
 ken_wins You know ?
 ken_wins Sir
-mesa_credit_union_employee_#1 Sir ?
-mesa_credit_union_employee_#1 Sir ?
+mesa_credit_union_employee_#1#unknown#BreakingBad.Season01.Episode04 Sir ?
+mesa_credit_union_employee_#1#unknown#BreakingBad.Season01.Episode04 Sir ?
 walter_white Sorry .
 walter_white Hi .
 ken_wins What
-mesa_credit_union_employee_#1 What can I do for you ?
-mesa_credit_union_employee_#1 Which
+mesa_credit_union_employee_#1#unknown#BreakingBad.Season01.Episode04 What can I do for you ?
+mesa_credit_union_employee_#1#unknown#BreakingBad.Season01.Episode04 Which
 ken_wins Which dude ?
 ken_wins The dude that looked like a lizard ?
 walter_white I'm sorry .
@@ -340,59 +340,59 @@ walter_white I would like a
 walter_white cashier's check in the full amount made out to Oncology Partners of New Mexico , please .
 walter_white Oh , that's ONCOLOGY .
 walter_white Yeah , you got it .
-adam_pinkman I don't understand why they're forcing you to choose between the piccolo and the oboe .
-adam_pinkman You show so much promise with both .
+mr_pinkman I don't understand why they're forcing you to choose between the piccolo and the oboe .
+mr_pinkman You show so much promise with both .
 jake_pinkman They can't have any switching between woodwinds because because no matter how divided up , someone would be left out .
-mrs.pinkman Well , rules are rules , I guess .
-adam_pinkman Sure , rules and rules .
-adam_pinkman I'm all for that .
-adam_pinkman But I'm telling you , you really shine on that oboe .
-adam_pinkman You have real talent , and I'm not just saying that .
+mrs_pinkman Well , rules are rules , I guess .
+mr_pinkman Sure , rules and rules .
+mr_pinkman I'm all for that .
+mr_pinkman But I'm telling you , you really shine on that oboe .
+mr_pinkman You have real talent , and I'm not just saying that .
 jake_pinkman Thanks .
-mrs.pinkman What about Mr .
-mrs.pinkman Pemberton ?
-mrs.pinkman Is he giving you enough individual attention ?
+mrs_pinkman What about Mr .
+mrs_pinkman Pemberton ?
+mrs_pinkman Is he giving you enough individual attention ?
 jake_pinkman I'd have to say so .
 jake_pinkman tries to talk to each one of us at least once during every practice .
-mrs.pinkman That's good .
-mrs.pinkman Feedback's important .
-adam_pinkman It's key , I think .
-adam_pinkman Hey , so how was soccer practice ?
-mrs.pinkman I think that was in our backyard
-adam_pinkman Who's there ?
-adam_pinkman What the hell are you doing out here ?
+mrs_pinkman That's good .
+mrs_pinkman Feedback's important .
+mr_pinkman It's key , I think .
+mr_pinkman Hey , so how was soccer practice ?
+mrs_pinkman I think that was in our backyard
+mr_pinkman Who's there ?
+mr_pinkman What the hell are you doing out here ?
 jesse_pinkman Hey , Mom .
 jesse_pinkman You got got new patio furniture .
 jesse_pinkman Right on !
 jesse_pinkman My leg .
-mrs.pinkman What do you think it could be ?
-adam_pinkman God knows I'm no expert .
-adam_pinkman I don't know .
-adam_pinkman Uppers Uppers , downers ?
-adam_pinkman Your guess is as good as mine .
-adam_pinkman I
-mrs.pinkman I think we should check his arms for needle marks .
-adam_pinkman Do we let him stay ?
-mrs.pinkman Presbyterian Church has those meetings .
-mrs.pinkman So maybe on condition , you know ?
-mrs.pinkman If If he agrees to attend ?
-mrs.pinkman I just don't know what to tell Jake .
-adam_pinkman Good evening .
-mrs.pinkman sleep well ?
+mrs_pinkman What do you think it could be ?
+mr_pinkman God knows I'm no expert .
+mr_pinkman I don't know .
+mr_pinkman Uppers Uppers , downers ?
+mr_pinkman Your guess is as good as mine .
+mr_pinkman I
+mrs_pinkman I think we should check his arms for needle marks .
+mr_pinkman Do we let him stay ?
+mrs_pinkman Presbyterian Church has those meetings .
+mrs_pinkman So maybe on condition , you know ?
+mrs_pinkman If If he agrees to attend ?
+mrs_pinkman I just don't know what to tell Jake .
+mr_pinkman Good evening .
+mrs_pinkman sleep well ?
 jesse_pinkman time's , uh What time is dinner ?
-mrs.pinkman In about an hour .
-mrs.pinkman You know , I could wash those clothes if you'd like .
-mrs.pinkman They look a little lived in .
+mrs_pinkman In about an hour .
+mrs_pinkman You know , I could wash those clothes if you'd like .
+mrs_pinkman They look a little lived in .
 jesse_pinkman that's cool .
 jesse_pinkman Maybe later .
-adam_pinkman We are not doing this again .
-adam_pinkman said we'd lay down the law , we lay down the law .
-adam_pinkman We just have to be consistent about it .
+mr_pinkman We are not doing this again .
+mr_pinkman said we'd lay down the law , we lay down the law .
+mr_pinkman We just have to be consistent about it .
 walter_white not taking the bus ?
 walter_white All right , well well , listen .
 walter_white Give me maybe another 20 minutes
 walter_white and we'll get out of here .
-walter_white_jr. All right .
+walter_white_jr All right .
 walter_white Yeah , good .
 walter_white You know , I just think that things have a way of working themselves out .
 jesse_pinkman you get this ?
@@ -417,11 +417,11 @@ jesse_pinkman For real .
 jesse_pinkman Hey , man , you You play the flute ?
 jake_pinkman It's a piccolo , actually .
 jesse_pinkman Dude , play some play some Jethro Tull .
-mrs.pinkman How we doing in here ?
+mrs_pinkman How we doing in here ?
 jesse_pinkman We're good .
 jake_pinkman Well
-mrs.pinkman Well , that's good .
-mrs.pinkman That's
+mrs_pinkman Well , that's good .
+mrs_pinkman That's
 jesse_pinkman You
 jesse_pinkman You see this ?
 jesse_pinkman What , am I some criminal or something ?
@@ -499,52 +499,52 @@ jesse_pinkman Your share from selling that batch .
 jesse_pinkman That's why I'm here .
 jesse_pinkman Yeah , that's right .
 jesse_pinkman I didn't smoke it all .
-dr.delcavoli Nonsmall cell adenocarcinoma .
-dr.delcavoli Stage 3a , which means it's spread from the lung to the lymph nodes .
-dr.delcavoli There's no denying
-dr.delcavoli it's very serious .
+dr_delcavoli Nonsmall cell adenocarcinoma .
+dr_delcavoli Stage 3a , which means it's spread from the lung to the lymph nodes .
+dr_delcavoli There's no denying
+dr_delcavoli it's very serious .
 skyler_white But is it
 skyler_white It is curable ?
-dr.delcavoli I prefer the word " treatable .
-dr.delcavoli But the treatments we have at our disposal can be very effective .
-dr.delcavoli Without making any promises , I can tell you that the specific course of radiation and chemotherapy I'm going to suggest has been successful .
-dr.delcavoli In certain cases , it prolonged patients' lives and even resulted in remission .
+dr_delcavoli I prefer the word " treatable .
+dr_delcavoli But the treatments we have at our disposal can be very effective .
+dr_delcavoli Without making any promises , I can tell you that the specific course of radiation and chemotherapy I'm going to suggest has been successful .
+dr_delcavoli In certain cases , it prolonged patients' lives and even resulted in remission .
 walter_white What about the side effects ?
-dr.delcavoli Well , they can be mild to practically nonexistent , or or they can be pretty darn awful .
-dr.delcavoli It varies from patient to patient .
-dr.delcavoli Typically , there's hair loss , which begins a couple of weeks after the start of chemotherapy .
-dr.delcavoli You may find yourself unusually fatigued , not much energy .
-dr.delcavoli You won't want to get out of bed .
-dr.delcavoli You may lose weight due to reduced appetite and certain intestinal issues .
-dr.delcavoli Muscle aches and pains , gums get sore and bleed .
-dr.delcavoli And , of course , there's the possibility of nausea .
-dr.delcavoli Although , we'll prescribe an antiemetic and try to counteract that .
-dr.delcavoli Possible kidney or bladder irritation .
-adam_pinkman and bleeding .
-adam_pinkman There may be sexual side effects .
-adam_pinkman Your skin may become dry and irritated Got anything to say ?
-adam_pinkman What do you know about
+dr_delcavoli Well , they can be mild to practically nonexistent , or or they can be pretty darn awful .
+dr_delcavoli It varies from patient to patient .
+dr_delcavoli Typically , there's hair loss , which begins a couple of weeks after the start of chemotherapy .
+dr_delcavoli You may find yourself unusually fatigued , not much energy .
+dr_delcavoli You won't want to get out of bed .
+dr_delcavoli You may lose weight due to reduced appetite and certain intestinal issues .
+dr_delcavoli Muscle aches and pains , gums get sore and bleed .
+dr_delcavoli And , of course , there's the possibility of nausea .
+dr_delcavoli Although , we'll prescribe an antiemetic and try to counteract that .
+dr_delcavoli Possible kidney or bladder irritation .
+mr_pinkman and bleeding .
+mr_pinkman There may be sexual side effects .
+mr_pinkman Your skin may become dry and irritated Got anything to say ?
+mr_pinkman What do you know about
 jesse_pinkman that ?
 jesse_pinkman Nothing .
-adam_pinkman That's not going to fly this time .
-mrs.pinkman How many chances have we given you ?
-mrs.pinkman How many times have we sat right here and had the same conversation over and over again where where you look us in the eye and you plead ignorance , and you play on our emotions , and you tell us anything you think we want to hear
-mrs.pinkman just so we'll give you another chance ?
-mrs.pinkman And it makes us feel like fools , every time .
-mrs.pinkman Enough , Jesse .
-mrs.pinkman Enough .
-adam_pinkman We are not going to have this in our house .
-adam_pinkman We need you to leave .
+mr_pinkman That's not going to fly this time .
+mrs_pinkman How many chances have we given you ?
+mrs_pinkman How many times have we sat right here and had the same conversation over and over again where where you look us in the eye and you plead ignorance , and you play on our emotions , and you tell us anything you think we want to hear
+mrs_pinkman just so we'll give you another chance ?
+mrs_pinkman And it makes us feel like fools , every time .
+mrs_pinkman Enough , Jesse .
+mrs_pinkman Enough .
+mr_pinkman We are not going to have this in our house .
+mr_pinkman We need you to leave .
 jake_pinkman Thanks for not telling on me
 jake_pinkman You think I could have it back ?
 jesse_pinkman It's skunk weed anyway .
 skyler_white You know , this is actually very hopeful .
-unknown Did
+unknown#unknown#BreakingBad.Season01.Episode04 Did
 skyler_white Did you hear me ?
 skyler_white said this is really very , very hopeful .
-unknown Can
+unknown#unknown#BreakingBad.Season01.Episode04 Can
 skyler_white Can I call them and tell them you'll start next week ?
-unknown I
+unknown#unknown#BreakingBad.Season01.Episode04 I
 walter_white I just think that we need to discuss it a little more , that's all .
 walter_white What
 skyler_white What is there to discuss ?
@@ -563,11 +563,11 @@ walter_white Skyler , say that there is a way .
 walter_white And we spend all that money , and Am I supposed to leave you with all that debt ?
 walter_white I just don't want emotions ruling us .
 walter_white Maybe treatment isn't the way to go .
-walter_white_jr. Then why don't you just fucking die already ?
-walter_white_jr. Just give up and die .
+walter_white_jr Then why don't you just fucking die already ?
+walter_white_jr Just give up and die .
 ken_wins Yeah , I'm not worried .
 ken_wins I have the best fucking attorney I would not want to be on on the
-danny's_auto_service_employee_#1 one
-danny's_auto_service_employee_#1 What the hell ?
+danny's_auto_service_employee_#1#unknown#BreakingBad.Season01.Episode04 one
+danny's_auto_service_employee_#1#unknown#BreakingBad.Season01.Episode04 What the hell ?
 ken_wins What What are you doing ?
 ken_wins Call Call somebody , call the the fire people .

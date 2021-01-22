@@ -41,10 +41,10 @@ dr_jack_shephard I'll talk to you later .
 charlie_pace Locke , is that you ?
 charlie_pace Bless me father , for I have sinned .
 charlie_pace It's been a week since my last confession .
-PRIEST#unknown#Lost.Season01.Episode07 Go ahead my son .
+priest Go ahead my son .
 charlie_pace Last night I had physical relations with a girl I didn't even know .
-PRIEST#unknown#Lost.Season01.Episode07 I see .
-PRIEST#unknown#Lost.Season01.Episode07 Anything else ?
+priest I see .
+priest Anything else ?
 charlie_pace Yeah .
 charlie_pace Uh , right after that I had relations with another girl .
 charlie_pace Then straight after that I watched while they had relations with each other .
@@ -53,8 +53,8 @@ charlie_pace it's my band , father , Drive Shaft .
 charlie_pace We've been playing the clubs in Manchester .
 charlie_pace And , uh , we've been getting some heat , a following , you know , and , uh , the girls .
 charlie_pace There's some real temptations that come with the territory , if you know what I mean .
-PRIEST#unknown#Lost.Season01.Episode07 Well , we all have our temptations , but giving in to them , that's your choice .
-PRIEST#unknown#Lost.Season01.Episode07 As we live our lives it's really nothing but a series of choices , isn't it ?
+priest Well , we all have our temptations , but giving in to them , that's your choice .
+priest As we live our lives it's really nothing but a series of choices , isn't it ?
 charlie_pace Well , then , I've made my choice .
 charlie_pace I have to quit the band .
 liam_pace And the meek shall inherit the earth .

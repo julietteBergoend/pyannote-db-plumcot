@@ -25,39 +25,39 @@ joey_tribbiani I love babies, with their little baby shoes, and their little bab
 chandler_bing Ok, you're going to have to stop that, forever!
 joey_tribbiani Need a new table.
 chandler_bing You think?
-carol_willick Hey hey, come on in!
+carol Hey hey, come on in!
 dr_ross_geller Hey, hello! mmwa! I brought all the books, and Monica sends her love, along with this lasagna.
-carol_willick Oh great! Is it vegetarian, 'cause Susan doesn't eat meat.
+carol Oh great! Is it vegetarian, 'cause Susan doesn't eat meat.
 dr_ross_geller I'm pretty sure that it is...
-carol_willick So, I got the results of the amnio today.
+carol So, I got the results of the amnio today.
 dr_ross_geller Oh, tell me, tell me, is everything, uhh....?
-carol_willick Totally and completely healthy!
+carol Totally and completely healthy!
 dr_ross_geller Oh, that's great, that is great!
 dr_ross_geller Hey, when did you and Susan meet Huey Lewis?
-carol_willick Uh, that's our friend Tanya.
+carol Uh, that's our friend Tanya.
 dr_ross_geller Of course it's your friend Tanya.
-carol_willick Don't you want to know about the sex?
+carol Don't you want to know about the sex?
 dr_ross_geller The sex? Um, I'm having enough trouble with the image of you and Susan together, when you throw in Tanya , yaw...
-carol_willick The sex of the baby, Ross.
+carol The sex of the baby, Ross.
 dr_ross_geller Oh, you know the sex of the baby? Oh, oh-oh-oh!
-carol_willick Do you want to know?
+carol Do you want to know?
 dr_ross_geller No, no, no, no, no, I don't want to know, absolutely not. I think, you know, I think you should know until you look down there, and say, oop, there it is! Or isn't...
-susan_bunch Oh, hello Ross!
+susan Oh, hello Ross!
 dr_ross_geller Susan...
-susan_bunch So, so, did you hear?
+susan So, so, did you hear?
 dr_ross_geller Yes, we did, everything's A-OK!
-susan_bunch Oh, that's so... It really is...do we know...?
-carol_willick Yes, we certainly do, it's going to be...
+susan Oh, that's so... It really is...do we know...?
+carol Yes, we certainly do, it's going to be...
 dr_ross_geller Oh, hey hey hey, ho ho ho, hello, guy who doesn't want to know, standing right here!
-susan_bunch Oh, well, is it what we thought it would be?
-carol_willick Mm-hmmm
+susan Oh, well, is it what we thought it would be?
+carol Mm-hmmm
 dr_ross_geller Ok, what, what...ok, what did we think it was going to be?
 carol_willick@susan_bunch It's a...
 dr_ross_geller No, no, no I don't want to know, don't want to know. Ok, you know, I should probably, I should probably just go.
-carol_willick Well, thanks for the books.
+carol Well, thanks for the books.
 dr_ross_geller No problem, ok, mmmwa oh, mmmwa Susan...
-susan_bunch All right, who should we call first, your folks, or Deb and Rona?
-carol_willick Hello?
+susan All right, who should we call first, your folks, or Deb and Rona?
+carol Hello?
 dr_ross_geller Uh, never mind, I don't want to know.
 chandler_bing Ok, so it's just because it was my table, I have to buy a new one?
 joey_tribbiani That's the rule.
@@ -80,9 +80,9 @@ joey_tribbiani Aw, I know all about Kip!
 chandler_bing It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.
 joey_tribbiani Well, let me ask you something, was Kip a better roommate than me?
 chandler_bing Aw, don't do that
-phoebes_assistant#unknown#Friends.Season01.Episode12 We've got a couple changes in your schedule. Your 4:00 herbal massage has been pushed back to 4:30 and Miss Somerfield canceled her 5:30 shiatsu.
+jasmine We've got a couple changes in your schedule. Your 4:00 herbal massage has been pushed back to 4:30 and Miss Somerfield canceled her 5:30 shiatsu.
 phoebe_buffay Ok, thanks.
-phoebes_assistant#unknown#Friends.Season01.Episode12 Oh, here comes your 3:00. I don't mean to sound unprofessional, but, yum
+jasmine Oh, here comes your 3:00. I don't mean to sound unprofessional, but, yum
 paolo Buon Giorno, Bella Phoebe!
 phoebe_buffay Oh, Paolo, hi, what are you doing here?
 paolo Uh, Racquela tell me you massage, eh?
@@ -122,7 +122,7 @@ monica_geller Are you sure?
 phoebe_buffay Oh yeah, I'm sure. And all of a sudden his hands weren't the problem anymore.
 monica_geller Was it...?
 phoebe_buffay Oh, boy scouts could have camped under there.
-guys#unknown#Friends.Season01.Episode12 Oooooo....
+chandler_bing@joey_tribbiani@dr_ross_geller Oooooo....
 rachel_green "Ooo," what?
 phoebe_buffay Uma Thurman.
 monica_geller Oh!
@@ -235,7 +235,7 @@ rachel_green What?
 dr_ross_geller I-I'm, I'm having a boy?
 rachel_green Uh...no. No, no, in fact, you're not having a boy.
 dr_ross_geller Wha-I'm having, I'm having a boy! Huh, am I having a boy?
-girls#unknown#Friends.Season01.Episode12 Yes, you're having a boy!
+phoebe_buffay@rachel_green@monica_geller Yes, you're having a boy!
 dr_ross_geller I'm having a boy! Oh, I'm having a boy!
 chandler_bing Wha-
 joey_tribbiani Wha-

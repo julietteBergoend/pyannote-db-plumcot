@@ -262,23 +262,23 @@ charlie_pace I should ...
 dr_jack_shephard Charlie , nothing's going to happen to her ,
 dr_jack_shephard okay ?
 charlie_pace Yeah , okay .
-FRANK#unknown#Lost.Season01.Episode15 Well , Charlie , I think my lovely daughter would agree that you're the most impressive person who's ever had dinner with us .
+francis_heatherton Well , Charlie , I think my lovely daughter would agree that you're the most impressive person who's ever had dinner with us .
 charlie_pace My condolences , sir .
-FRANK#unknown#Lost.Season01.Episode15 I don't know if Lucy mentioned it to you , but I was in a band once myself , you know .
+francis_heatherton I don't know if Lucy mentioned it to you , but I was in a band once myself , you know .
 charlie_pace Oh .
 lucy_heatherton They were called the Protestant Reformation .
-FRANK#unknown#Lost.Season01.Episode15 Yes .
-FRANK#unknown#Lost.Season01.Episode15 Ouch .
-FRANK#unknown#Lost.Season01.Episode15 Dreadful , huh ?
+francis_heatherton Yes .
+francis_heatherton Ouch .
+francis_heatherton Dreadful , huh ?
 charlie_pace You gave it up then ?
-FRANK#unknown#Lost.Season01.Episode15 Well , I was married , Lucy was on the way .
-FRANK#unknown#Lost.Season01.Episode15 Her mom , god rest her soul , wanted me to keep trying , but I was wanting to be more practical , responsible , I guess .
-FRANK#unknown#Lost.Season01.Episode15 You know , a man has to provide , take care of his family .
-FRANK#unknown#Lost.Season01.Episode15 A man has to think about the future .
+francis_heatherton Well , I was married , Lucy was on the way .
+francis_heatherton Her mom , god rest her soul , wanted me to keep trying , but I was wanting to be more practical , responsible , I guess .
+francis_heatherton You know , a man has to provide , take care of his family .
+francis_heatherton A man has to think about the future .
 lucy_heatherton And , of course , your band was bloody awful .
-FRANK#unknown#Lost.Season01.Episode15 Yes , there was that , too .
-FRANK#unknown#Lost.Season01.Episode15 Small detail .
-FRANK#unknown#Lost.Season01.Episode15 So , are you working on a new album , Charlie ?
+francis_heatherton Yes , there was that , too .
+francis_heatherton Small detail .
+francis_heatherton So , are you working on a new album , Charlie ?
 charlie_pace We're in a bit of a hiatus right now .
 charlie_pace Liam , my brother , just had a daughter .
 charlie_pace So , you know , we're taking some time off .
@@ -334,7 +334,7 @@ hugo_reyes He was a good guy .
 hugo_reyes Sorry , I kept calling you Steve , man .
 hugo_reyes Um , amen , I guess .
 hugo_reyes I ...
-all Amen .
+all@ Amen .
 hugo_reyes I don't know how to end these .
 claire_littleton Hi .
 claire_littleton Why is everyone staring at me ?

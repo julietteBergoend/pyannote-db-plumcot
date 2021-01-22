@@ -1,28 +1,3 @@
-Moloch#unknown#BuffyTheVampireSlayer.Season01.Episode08 Carlo, caro mio.
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 Carlo, my dear one.
-Moloch#unknown#BuffyTheVampireSlayer.Season01.Episode08 Mi ami? Ti darò tutto. Tutto quello che desidero è il tuo amore.
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 Do you love me? I can give you everything. All I want is your love.
-carlos Tu hai il mio amore.
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 You have my love.
-thelonius E fuori. E il diavolo, Molocco. E fuori nel mondo, facendo tante cose male. Abbiamo bisogno di fare il circolo.
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 He's out. It is the devil, Moloch. He is out in the world, doing such bad things. We need to form the circle.
-
-Subtitles#unknown#BuffyTheVampireSlayer.Season01.Episode08 It is Moloch. The Corrupter. He walks again. More and more people have fallen under his mesmerizing power. There is still time to bind him. We must form the circle.
-thelonius Per potere di questo circolo di Kayless...
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 By the power of the circle of Kayless...
-Moloch#unknown#BuffyTheVampireSlayer.Season01.Episode08 No!
-thelonius Per potere di questo circolo di Kayless, ti commando! Vieni!
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 By the power of the circle of Kayless, I command you! Come!
-thelonius Ti commando! Vieni!
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 I command you! Come!
-thelonius VIENI!
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 COME!
-thelonius Vieni, demonio! Vieni!
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 Come, demon! Come!
-thelonius Preghiamo che questo libro è mai letto più...
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 Pray that this accursed book is never again read...
-thelonius Che il demonio Molocco è mai lasciato più fuori nel mondo.
-Translation#unknown#BuffyTheVampireSlayer.Season01.Episode08 Lest the Demon Moloch be loosed upon the world.
 buffy_summers Oh, great! A book!
 rupert_giles Oh, uh, I, uh... haven't gone through the new arrivals. Uh, put it in, uh, in, in that pile.
 dave Here, I'll get it.
@@ -79,7 +54,6 @@ jenny_calendar Cool! But this is lab time, so let's make it a nice, short visit,
 buffy_summers Sure.
 PC#unknown#BuffyTheVampireSlayer.Season01.Episode08 You have mail.
 willow_rosenberg It's him!
-Message#unknown#BuffyTheVampireSlayer.Season01.Episode08 I'm thinking of you.
 willow_rosenberg He's so sweet!
 buffy_summers He's a sweetie.
 willow_rosenberg What should I write back?
@@ -102,7 +76,7 @@ jenny_calendar Hey, Fritz... I'm, uh, lookin' at the logs. You and Dave are cloc
 fritz New project.
 jenny_calendar Ooo, will I be excited?
 fritz You'll die.
-boy This isn't my report! 'Nazi Germany was a model of a well ordered society'? I didn't write that! Who's been in my files?
+boy#unknown#BuffyTheVampireSlayer.Season01.Episode08 This isn't my report! 'Nazi Germany was a model of a well ordered society'? I didn't write that! Who's been in my files?
 xander_harris Hup, guess who?
 willow_rosenberg Uh, Xander?
 xander_harris Yeah, but keep guessing anyway.
@@ -328,7 +302,6 @@ rupert_giles Well, even if she could, how am I gonna convince her that there's a
 buffy_summers Okay, fine, then you can stay here and come up with a better plan. C'mon.
 willow_rosenberg Mom? Dad?
 PC#unknown#BuffyTheVampireSlayer.Season01.Episode08 You have mail.
-Message#unknown#BuffyTheVampireSlayer.Season01.Episode08 No more waiting. I need you to see me.
 PC#unknown#BuffyTheVampireSlayer.Season01.Episode08 You have mail.
 willow_rosenberg Dad, did you forget your keys again?
 fritz No more waiting.

@@ -55,11 +55,11 @@ carmen_reyes You should go out , try to find yourself a nice woman .
 hugo_reyes Yeah , I'll get right on that .
 carmen_reyes At least try eating better .
 carmen_reyes You're gaining weight again .
-MARY#unknown#Lost.Season01.Episode18 JO -- with mega number 42 .
-MARY#unknown#Lost.Season01.Episode18 And that makes tonight's mega-lotto-jackpot 4
-MARY#unknown#Lost.Season01.Episode18 8 15 16 23
-MARY#unknown#Lost.Season01.Episode18 With the mega number 42 .
-MARY#unknown#Lost.Season01.Episode18 Whoever has those numbers has won , or will share , in a near record jackpot .
+mom JO -- with mega number 42 .
+mom And that makes tonight's mega-lotto-jackpot 4
+mom 8 15 16 23
+mom With the mega number 42 .
+mom Whoever has those numbers has won , or will share , in a near record jackpot .
 lotto_girl That's right
 lotto_girl Mary-Jo
 lotto_girl because this is the 16th week without a winner .
@@ -376,17 +376,17 @@ hugo_reyes Why not ?
 leonard It doesn't stop !
 leonard You've got to get away from those numbers !
 leonard You've got to get far , far away !
-ORDERLY#unknown#Lost.Season01.Episode18 All right , hey , hold on .
-ORDERLY#unknown#Lost.Season01.Episode18 Lenny , Lenny .
-ORDERLY#unknown#Lost.Season01.Episode18 Calm down .
-ORDERLY#unknown#Lost.Season01.Episode18 Lenny .
+guy_in_car All right , hey , hold on .
+guy_in_car Lenny , Lenny .
+guy_in_car Calm down .
+guy_in_car Lenny .
 leonard Do you hear me?! ?
 leonard No , don't you understand?! ?
 leonard You've got to get away from it
 leonard or it won't stop !
-ORDERLY#unknown#Lost.Season01.Episode18 Try and calm down .
+guy_in_car Try and calm down .
 hugo_reyes Wait a second , I need some answers .
-ORDERLY#unknown#Lost.Season01.Episode18 Sir , you need to step away .
+guy_in_car Sir , you need to step away .
 hugo_reyes Those numbers , where'd you get them ?
 leonard Sam Toomey !
 leonard He heard them !

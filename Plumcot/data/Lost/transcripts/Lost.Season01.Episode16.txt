@@ -1,30 +1,30 @@
-MARY#unknown#Lost.Season01.Episode16 Wake up .
-MARY#unknown#Lost.Season01.Episode16 He's here .
-MARY#unknown#Lost.Season01.Episode16 C'mon .
-MARY#unknown#Lost.Season01.Episode16 Got to get you up .
-MARY#unknown#Lost.Season01.Episode16 He'll think you're still with your grandparents , okay ?
-MARY#unknown#Lost.Season01.Episode16 Get under the bed .
-MARY#unknown#Lost.Season01.Episode16 Let's go .
-MARY#unknown#Lost.Season01.Episode16 Okay .
-MARY#unknown#Lost.Season01.Episode16 Listen to mommy , this is really important .
-MARY#unknown#Lost.Season01.Episode16 Get under the bed , don't make a sound .
-MARY#unknown#Lost.Season01.Episode16 Don't come out , no matter what happens .
-MARY#unknown#Lost.Season01.Episode16 Don't come out ,
-MARY#unknown#Lost.Season01.Episode16 okay ?
-YOUNG#unknown#Lost.Season01.Episode16 Okay .
-MARY#unknown#Lost.Season01.Episode16 I love you .
-YOUNG#unknown#Lost.Season01.Episode16 I love you too , mommy .
-MARY#unknown#Lost.Season01.Episode16 Let's go .
-MARY#unknown#Lost.Season01.Episode16 Down you go .
-SAWYER'S#unknown#Lost.Season01.Episode16  Open this door !
-MARY#unknown#Lost.Season01.Episode16 Stop it !
-MARY#unknown#Lost.Season01.Episode16 Please stop it !
-MARY#unknown#Lost.Season01.Episode16 Go away !
-MARY#unknown#Lost.Season01.Episode16 Stop it !
-MARY#unknown#Lost.Season01.Episode16 What the hell is wrong with you? !
-MARY#unknown#Lost.Season01.Episode16 I'm calling the police , get out of here .
-MARY#unknown#Lost.Season01.Episode16 What are you doing ?
-MARY#unknown#Lost.Season01.Episode16 What the hell are you doing with a gun , get out of ...
+mom Wake up .
+mom He's here .
+mom C'mon .
+mom Got to get you up .
+mom He'll think you're still with your grandparents , okay ?
+mom Get under the bed .
+mom Let's go .
+mom Okay .
+mom Listen to mommy , this is really important .
+mom Get under the bed , don't make a sound .
+mom Don't come out , no matter what happens .
+mom Don't come out ,
+mom okay ?
+young_sawyer Okay .
+mom I love you .
+young_sawyer I love you too , mommy .
+mom Let's go .
+mom Down you go .
+SAWYER'S#unknown#Lost.Season01.Episode16 Open this door !
+mom Stop it !
+mom Please stop it !
+mom Go away !
+mom Stop it !
+mom What the hell is wrong with you? !
+mom I'm calling the police , get out of here .
+mom What are you doing ?
+mom What the hell are you doing with a gun , get out of ...
 sayid_jarrah Boar took your tarp ?
 james_ford It was dark , but
 james_ford yeah , I'm pretty sure it was a boar .
@@ -49,7 +49,7 @@ sayid_jarrah Why ?
 sayid_jarrah Did you hear something ?
 james_ford Forget it .
 james_ford I didn't hear anything .
-MARY#unknown#Lost.Season01.Episode16 What are you so afraid of ?
+mom What are you so afraid of ?
 james_ford I'm not the one trembling , sweetness .
 hibbs Okay , this is really awkward , but if I don't say something now , things are liable to get downright embarrassing .
 james_ford Hibbs .
@@ -59,12 +59,12 @@ hibbs I
 hibbs -- I figured my good friend Sawyer here would be alone .
 hibbs I just need a few minutes .
 james_ford Listen , baby ...
-MARY#unknown#Lost.Season01.Episode16  Baby , who is this ?
+mom Baby , who is this ?
 james_ford Listen , go down to the bar , get a drink ...
-MARY#unknown#Lost.Season01.Episode16 No , I don't want to leave you here .
+mom No , I don't want to leave you here .
 james_ford As soon as I get rid of him , then I'll come get you
 james_ford and I'll explain everything .
-MARY#unknown#Lost.Season01.Episode16 But , I ...
+mom But , I ...
 james_ford Listen , just trust me on this .
 james_ford I will find you , I promise .
 james_ford I promise .

@@ -323,20 +323,20 @@ claire_littleton Charlie, you don't know how to deliver a...
 charlie_pace Just listen to me. I'm not going to let anything happen to you. I might not know what I'm doing but I'll figure it out. If I can kick drugs I can deliver a baby. Let me explain. I'm a drug addict. I was a drug addict. I'm clean now.
 claire_littleton Get Jack!
 charlie_pace Right.
-LAWYER#unknown#Lost.Season01.Episode10 Arlene and Joseph will bring you to Melbourne. They'll pay your living and medical expenses.
+lawyer Arlene and Joseph will bring you to Melbourne. They'll pay your living and medical expenses.
 arlene We found you an apartment. It's a really nice two bedroom place. And, well, we think you're going to be really comfortable in it.
-LAWYER#unknown#Lost.Season01.Episode10 As discussed, once the baby is born and handed over to the Stewarts you'll have no right to see the child again. You'll have no right to correspond with the child. It will be entirely up to Eileen and Joseph to decide whether to tell the child anything about you. Understood?
+lawyer As discussed, once the baby is born and handed over to the Stewarts you'll have no right to see the child again. You'll have no right to correspond with the child. It will be entirely up to Eileen and Joseph to decide whether to tell the child anything about you. Understood?
 claire_littleton Yes.
-LAWYER#unknown#Lost.Season01.Episode10 Upon your discharge from the hospital you'll be given an additional payment of 20,000 dollars.
+lawyer Upon your discharge from the hospital you'll be given an additional payment of 20,000 dollars.
 claire_littleton I just want to make sure that you're going to take really good care of the baby.
 arlene Of course we will.
-LAWYER#unknown#Lost.Season01.Episode10 Now, I'll need you to sign and date here, where indicated.
+lawyer Now, I'll need you to sign and date here, where indicated.
 claire_littleton Do you know "Catch a Falling Star"? It's a song, like a lullaby.
 arlene "Catch a falling star and put it in your pocket."
 claire_littleton My dad used to sing that to me when I was little. Do you think you could sing it to the baby once in a while?
 arlene Of course.
 claire_littleton It's not working.
-LAWYER#unknown#Lost.Season01.Episode10 Here.
+lawyer Here.
 claire_littleton I, I'm sorry. I can't do this.
 arlene What? No!
 claire_littleton Okay, what is it? What's your offer.

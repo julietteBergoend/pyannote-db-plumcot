@@ -13,8 +13,8 @@ monica_geller This is not even a date .
 monica_geller It's just two people going out to dinner and- not having sex .
 chandler_bing Sounds like a date to me .
 chandler_bing Alright , so I'm back in high school , I'm standing in the middle of the cafeteria , and I realize I am totally naked .
-all Oh , yeah .
-all Had that dream .
+all@ Oh , yeah .
+all@ Had that dream .
 chandler_bing Then I look down , and I realize there's a phone ... there .
 joey_tribbiani Instead of ... ?
 chandler_bing That's right .
@@ -81,7 +81,7 @@ rachel_green Thank God !
 rachel_green I just went to your building and you weren't there
 rachel_green and then this guy with a big hammer said you might be here
 rachel_green and you are , you are !
-waitress#unknown#Friends.Season01.Episode01 Can I get you some coffee ?
+jasmine Can I get you some coffee ?
 monica_geller De-caff .
 monica_geller Okay , everybody , this is Rachel , another Lincoln High survivor .
 monica_geller This is everybody , this is Chandler , and Phoebe , and Joey , and-
@@ -248,11 +248,11 @@ phoebe_buffay Does he sell it , drink it , or just complain a lot ?
 monica_geller Hi , come in !
 monica_geller Paul , this is ... .
 monica_geller everybody , everybody , this is Paul .
-all Hey !
-all Paul !
-all Hi !
-all The Wine Guy !
-all Hey !
+all@ Hey !
+all@ Paul !
+all@ Hi !
+all@ The Wine Guy !
+all@ Hey !
 chandler_bing I'm sorry , I didn't catch your name .
 chandler_bing Paul , was it ?
 monica_geller Okay , umm-umm , I'll just--I'll be right back
@@ -423,8 +423,8 @@ chandler_bing If can invade Poland , there isn't anything I can't do .
 joey_tribbiani Listen , while you're on a roll , if you feel like you gotta make like a Western omelet or something ...
 joey_tribbiani Although actually I'm really not that hungry ...
 monica_geller Oh good , Lenny and Squigy are here .
-all Morning .
-all Good morning .
+all@ Morning .
+all@ Good morning .
 paul Morning .
 joey_tribbiani Morning , Paul .
 rachel_green Hello , Paul .
@@ -439,7 +439,7 @@ paul Thank you .
 joey_tribbiani That wasn't a real date? !
 joey_tribbiani What the hell do you do on a real date ?
 monica_geller Shut up , and put my table back .
-all Okayyy !
+all@ Okayyy !
 chandler_bing All right , kids , I gotta get to work .
 chandler_bing If I don't input those numbers, ... it doesn't make much of a difference ...
 rachel_green So , like , you guys all have jobs ?
@@ -559,15 +559,15 @@ dr_ross_geller Come on , you made coffee !
 dr_ross_geller You can do anything !
 dr_ross_geller C'mon , cut .
 dr_ross_geller Cut , cut , cut, ...
-all Cut , cut , cut , cut , cut , cut , cut ...
+all@ Cut , cut , cut , cut , cut , cut , cut ...
 rachel_green Y'know
 rachel_green what ?
 rachel_green I think we can just leave it at that .
 rachel_green It's kinda like a symbolic gesture ...
 monica_geller Rachel !
 monica_geller That was a library card !
-all Cut , cut , cut , cut , cut , cut , cut.
-all .
+all@ Cut , cut , cut , cut , cut , cut , cut.
+all@ .
 chandler_bing Y'know , if you listen closely , you can hear a thousand retailers scream .
 monica_geller Welcome to the real world !
 monica_geller It sucks .
@@ -627,19 +627,19 @@ monica_geller I said you had a-
 phoebe_buffay What I said you had ...
 monica_geller Would you stop ?
 phoebe_buffay Oh , was I doing it again ?
-all Yes !
+all@ Yes !
 monica_geller I said that you had a nice butt , it's just not a great butt .
 joey_tribbiani Oh , you wouldn't know a great butt if it came up and bit ya .
 dr_ross_geller There's an image .
 rachel_green Would anybody like more coffee ?
 chandler_bing Did you make it , or are you just serving it ?
 rachel_green I'm just serving it .
-all Yeah .
-all Yeah , I'll have a cup of coffee .
+all@ Yeah .
+all@ Yeah , I'll have a cup of coffee .
 chandler_bing Kids , new dream ...
 chandler_bing I'm in Las Vegas .
-customer#unknown#Friends.Season01.Episode01 Ahh , miss ?
-customer#unknown#Friends.Season01.Episode01 More coffee ?
+_man Ahh , miss ?
+_man More coffee ?
 rachel_green Ugh .
 rachel_green Excuse me , could you give this to that guy over there ?
 rachel_green Go ahead .

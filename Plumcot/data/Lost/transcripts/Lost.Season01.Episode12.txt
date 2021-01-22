@@ -107,8 +107,8 @@ boone_carlyle They don't take us seriously .
 boone_carlyle We're a joke .
 boone_carlyle I'm trying to contribute something .
 boone_carlyle You're just -- you're useless .
-Mark#unknown#Lost.Season01.Episode12 Okay , Ms .
-Mark#unknown#Lost.Season01.Episode12 Ryan , if you'll just give me some ID , we'll get started on your loan app .
+hutton Okay , Ms .
+hutton Ryan , if you'll just give me some ID , we'll get started on your loan app .
 kate_austen Okay , here you go .
 hutton So what brings you to New Mexico ?
 kate_austen My work .
@@ -140,9 +140,9 @@ ROBBERS#unknown#Lost.Season01.Episode12 Get down on the floor , bitch !
 ROBBERS#unknown#Lost.Season01.Episode12 Are you the manager? !
 ROBBERS#unknown#Lost.Season01.Episode12 I said , are you the manager? !
 hutton Yes .
-JASON#unknown#Lost.Season01.Episode12 Good .
-JASON#unknown#Lost.Season01.Episode12 Then let's open the money cage now , before people start getting killed .
-ROBBER#unknown#Lost.Season01.Episode12 #2 Don't look at me , look at the floor .
+shooter Good .
+shooter Then let's open the money cage now , before people start getting killed .
+mike #2 Don't look at me , look at the floor .
 james_ford Gotcha .
 kate_austen Get off of me .
 james_ford Golly , I hate to bicker about positions , sweetheart .
@@ -232,37 +232,37 @@ james_ford Whoa , easy , sweetheart , I don't really care what it is .
 james_ford What's burning me up is why it means so much to you .
 james_ford -- Last chance .
 james_ford Alright .
-JASON#unknown#Lost.Season01.Episode12 Give me the key , now .
-JASON#unknown#Lost.Season01.Episode12 I'm tired of asking nice .
-JASON#unknown#Lost.Season01.Episode12 Give me the money cage key , now .
+shooter Give me the key , now .
+shooter I'm tired of asking nice .
+shooter Give me the money cage key , now .
 hutton You're just going to kill me , anyway , why would I give you-
-JASON#unknown#Lost.Season01.Episode12 You think we're in a conversation , here , huh ?
-ROBBER#unknown#Lost.Season01.Episode12 Everybody be cool !
-ROBBER#unknown#Lost.Season01.Episode12 You want to go home? !
-ROBBER#unknown#Lost.Season01.Episode12 Don't look at me , look at the floor !
-ROBBER#unknown#Lost.Season01.Episode12 Be calm , stay down !
-JASON#unknown#Lost.Season01.Episode12 Listen to me , I am not going to ask you again .
-JASON#unknown#Lost.Season01.Episode12 I want that key !
+shooter You think we're in a conversation , here , huh ?
+mike Everybody be cool !
+mike You want to go home? !
+mike Don't look at me , look at the floor !
+mike Be calm , stay down !
+shooter Listen to me , I am not going to ask you again .
+shooter I want that key !
 baseball_hat HAT I can take him .
 kate_austen What ?
 baseball_hat The tall guy , he's not watching us ...
 baseball_hat It's now or never .
 baseball_hat Keep your head down .
-baseball_hat  Pick it up , pick it up !
+baseball_hat Pick it up , pick it up !
 baseball_hat Shoot him !
 baseball_hat Shoot him !
 baseball_hat What's wrong with you , shoot the gun !
 baseball_hat Turn off the safety !
-JASON#unknown#Lost.Season01.Episode12 Give me that gun .
+shooter Give me that gun .
 baseball_hat HAT Other side , turn it off !
 kate_austen I don't know how to use a gun !
-ROBBER#unknown#Lost.Season01.Episode12 You want to get shot , fat boy , huh ?
-JASON#unknown#Lost.Season01.Episode12 Okay , little hero ...
+mike You want to get shot , fat boy , huh ?
+shooter Okay , little hero ...
 kate_austen No , please don't .
-JASON#unknown#Lost.Season01.Episode12 Shut up .
-JASON#unknown#Lost.Season01.Episode12 Let's you and me go talk , huh ?
-JASON#unknown#Lost.Season01.Episode12 I don't know how to use a gun ?
-JASON#unknown#Lost.Season01.Episode12 That's classic .
+shooter Shut up .
+shooter Let's you and me go talk , huh ?
+shooter I don't know how to use a gun ?
+shooter That's classic .
 kate_austen Yeah .
 shannon_rutherford You never said anything about math .
 sayid_jarrah You worry about the French , I'll take care of the math .
@@ -343,28 +343,28 @@ charlie_pace Who's going to help me ?
 kate_austen So , why didn't you put him with the others , when you burned the fuselage ?
 dr_jack_shephard Because I needed to bury him .
 kate_austen So you ready to do this ?
-JASON#unknown#Lost.Season01.Episode12 Hell , yeah , by now their imaginations are running wild .
+shooter Hell , yeah , by now their imaginations are running wild .
 kate_austen Don't hold back .
 kate_austen He won't talk if the details are off .
-JASON#unknown#Lost.Season01.Episode12 You and your details , Maggie .
-JASON#unknown#Lost.Season01.Episode12 Okay , hero .
+shooter You and your details , Maggie .
+shooter Okay , hero .
 kate_austen No , please don't .
 kate_austen I've got ...
-JASON#unknown#Lost.Season01.Episode12 Shut up .
-ROBBER#unknown#Lost.Season01.Episode12 Everybody just relax .
-ROBBER#unknown#Lost.Season01.Episode12 I said quiet .
-JASON#unknown#Lost.Season01.Episode12 Okay , Mr . Manager , you want to be a hard-ass ?
-JASON#unknown#Lost.Season01.Episode12 Protect a vault that doesn't even belong to you ?
-JASON#unknown#Lost.Season01.Episode12 Okay ?
-JASON#unknown#Lost.Season01.Episode12 There's going to be consequences .
+shooter Shut up .
+mike Everybody just relax .
+mike I said quiet .
+shooter Okay , Mr . Manager , you want to be a hard-ass ?
+shooter Protect a vault that doesn't even belong to you ?
+shooter Okay ?
+shooter There's going to be consequences .
 kate_austen He's going to kill me anyway .
-JASON#unknown#Lost.Season01.Episode12 I said ... if you don't shut up !
-JASON#unknown#Lost.Season01.Episode12 You've got 3 seconds to give me that damn key .
-JASON#unknown#Lost.Season01.Episode12 1 , 2 , , 3 .
+shooter I said ... if you don't shut up !
+shooter You've got 3 seconds to give me that damn key .
+shooter 1 , 2 , , 3 .
 hutton Alright , I'll give it to you .
-JASON#unknown#Lost.Season01.Episode12 Good .
-JASON#unknown#Lost.Season01.Episode12 Let's go , right around here .
-JASON#unknown#Lost.Season01.Episode12 Let's go .
+shooter Good .
+shooter Let's go , right around here .
+shooter Let's go .
 dr_jack_shephard Okay , alright ?
 kate_austen Compared to what ?
 dr_jack_shephard You want me to ...
@@ -439,29 +439,29 @@ kate_austen Jack ?
 dr_jack_shephard We're going to do this together .
 kate_austen Why ?
 dr_jack_shephard Because that's what I said we'd do .
-JASON#unknown#Lost.Season01.Episode12 What the hell you waiting for ?
-JASON#unknown#Lost.Season01.Episode12 Open the damn thing .
-JASON#unknown#Lost.Season01.Episode12 Well , now we're talking .
-JASON#unknown#Lost.Season01.Episode12 Don't move .
+shooter What the hell you waiting for ?
+shooter Open the damn thing .
+shooter Well , now we're talking .
+shooter Don't move .
 kate_austen Please , don't .
 kate_austen I can't ...
-JASON#unknown#Lost.Season01.Episode12 Shut up .
+shooter Shut up .
 hutton I let you in , now please , let the girl go .
-JASON#unknown#Lost.Season01.Episode12 Let the girl go ?
-JASON#unknown#Lost.Season01.Episode12 Man , you have no idea , do you ?
-JASON#unknown#Lost.Season01.Episode12 The girl is the one who set you up .
-JASON#unknown#Lost.Season01.Episode12 The girl picked this bank , picked this vault .
-JASON#unknown#Lost.Season01.Episode12 This whole thing is the girl's idea .
+shooter Let the girl go ?
+shooter Man , you have no idea , do you ?
+shooter The girl is the one who set you up .
+shooter The girl picked this bank , picked this vault .
+shooter This whole thing is the girl's idea .
 kate_austen What are you doing ?
-JASON#unknown#Lost.Season01.Episode12 Easy , Maggie -- just cleaning up after myself .
+shooter Easy , Maggie -- just cleaning up after myself .
 kate_austen You shoot , I shoot .
 hutton Please , what's ...
 kate_austen I said , no one gets hurt .
-JASON#unknown#Lost.Season01.Episode12 I know you're cold , baby .
-JASON#unknown#Lost.Season01.Episode12 But you're not that cold .
-JASON#unknown#Lost.Season01.Episode12 You shot me , stupid bit ...
+shooter I know you're cold , baby .
+shooter But you're not that cold .
+shooter You shot me , stupid bit ...
 kate_austen Shut up , Jason .
-ROBBER#unknown#Lost.Season01.Episode12 I told you not to trust her .
+mike I told you not to trust her .
 kate_austen I need the key to safety deposit box 815 , now .
 hutton Who are you ?
 kate_austen The key to the box , now .
@@ -469,9 +469,9 @@ hutton You need 2 keys .
 hutton The bank's ,
 hutton and ... If you had the customer key , why would you need ...
 kate_austen I'm not on the signatory card .
-JASON#unknown#Lost.Season01.Episode12 You put me up to this to get into a safe deposit box ?
-JASON#unknown#Lost.Season01.Episode12 I swear to god , you better kill me , Maggie .
-JASON#unknown#Lost.Season01.Episode12 Because if you don't ...
+shooter You put me up to this to get into a safe deposit box ?
+shooter I swear to god , you better kill me , Maggie .
+shooter Because if you don't ...
 kate_austen My name's not Maggie .
 kate_austen Now , go .
 dr_jack_shephard Anything you want to tell me ?

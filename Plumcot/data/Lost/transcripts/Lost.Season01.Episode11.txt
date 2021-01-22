@@ -65,23 +65,23 @@ dr_jack_shephard We know enough .
 john_locke We need to prepare .
 john_locke We could be back at the caves in 10 minutes , organize a search party , get wea-
 dr_jack_shephard Which way did they go , Locke ?
-NURSE#unknown#Lost.Season01.Episode11 ...
-NURSE#unknown#Lost.Season01.Episode11 stats are dropping .
+nurse ...
+nurse stats are dropping .
 dr_jack_shephard C'mon , c'mon .
-NURSE#unknown#Lost.Season01.Episode11 #2 BP's falling .
-NURSE#unknown#Lost.Season01.Episode11 She's bleeding out .
+nurse #2 BP's falling .
+nurse She's bleeding out .
 dr_jack_shephard No , I've got the artery almost there .
-NURSE#unknown#Lost.Season01.Episode11 She's in arrest .
+nurse She's in arrest .
 dr_jack_shephard 1 milligram epi .
 dr_jack_shephard Let's get the crash cart over here .
 dr_jack_shephard Alright , artery's sealed .
 dr_jack_shephard Close her up .
-NURSE#unknown#Lost.Season01.Episode11 Defib .
+nurse Defib .
 dr_jack_shephard Charge
-NURSE#unknown#Lost.Season01.Episode11 Charged .
+nurse Charged .
 dr_jack_shephard Clear .
 dr_jack_shephard Charge .
-NURSE#unknown#Lost.Season01.Episode11 We're charged .
+nurse We're charged .
 dr_jack_shephard Clear .
 dr_jack_shephard Come on , come on back now , come on .
 dr_jack_shephard Come on now .
@@ -348,7 +348,7 @@ dr_christian_shephard I know it's a long , a long time coming .
 dr_christian_shephard What happened yesterday , I promise you , will never happen again .
 dr_christian_shephard And after all what I've given -- this is not just about my career , Jack .
 dr_christian_shephard It's my life .
-dr_christian_shephard  Thank you , son .
+dr_christian_shephard Thank you , son .
 dr_christian_shephard Thank you .
 james_ford Well , well , well .
 james_ford I don't know if you Islams got a concept of karma , but I get the sense
@@ -494,17 +494,17 @@ dr_jack_shephard Not again .
 dr_christian_shephard We realized that her blood pressure was continuing to drop precipitously , at which point the patient went into cardiac arrest .
 dr_christian_shephard Of course , every effort was made to resuscitate her , but the severity of her injuries , the amount of internal bleeding , made that impossible .
 dr_christian_shephard Now , in my professional opinion , ladies and gentlemen , and that's all I have , by the time I was called in the damage was irreversible .
-HOSPITAL#unknown#Lost.Season01.Episode11 Okay , thanks , Christian .
-HOSPITAL#unknown#Lost.Season01.Episode11 Sorry about this formality .
+head_doctor Okay , thanks , Christian .
+head_doctor Sorry about this formality .
 dr_christian_shephard Of course .
-HOSPITAL#unknown#Lost.Season01.Episode11 ADMINISTRATOR Just one final detail
-HOSPITAL#unknown#Lost.Season01.Episode11 -- you were aware of the patient's pregnancy when you went into the procedure ?
+head_doctor Just one final detail
+head_doctor -- you were aware of the patient's pregnancy when you went into the procedure ?
 dr_christian_shephard Absolutely .
 dr_christian_shephard The patient's husband had informed the attending in the ER .
 dr_christian_shephard It was , however , extremely early in the pregnancy , so our primary focus had to be on the mother .
-HOSPITAL#unknown#Lost.Season01.Episode11 Okay , then .
-HOSPITAL#unknown#Lost.Season01.Episode11 I think we're done here .
-HOSPITAL#unknown#Lost.Season01.Episode11 The final report will be filed .
+head_doctor Okay , then .
+head_doctor I think we're done here .
+head_doctor The final report will be filed .
 dr_christian_shephard Okay .
 dr_jack_shephard I need to -- revise my statement .
 dr_jack_shephard I didn't come into the O.R .

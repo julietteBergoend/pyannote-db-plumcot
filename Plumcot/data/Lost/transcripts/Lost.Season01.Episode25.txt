@@ -156,7 +156,7 @@ hugo_reyes Hold the door !
 hugo_reyes I've got to get on this flight !
 gate_attendant Sir , the jetway's closed .
 hugo_reyes Please , for the love of all that is good and holy in the world , let me on this plane .
-gate_attendant  Alright , one second .
+gate_attendant Alright , one second .
 gate_attendant Hunter , this is Jenna , we've got one more ...
 gate_attendant ta .
 gate_attendant This is your lucky day .
@@ -249,13 +249,13 @@ gate_attendant well , no one seems to know where it is right now .
 gate_attendant And unless we find it , I'm not sure we can get you on .
 john_locke There's not another flight until tomorrow .
 gate_attendant Yes , I'm aware of that , sir , but there's nothing I can ...
-JD#unknown#Lost.Season01.Episode24 Look , I can get Michelle , we can carry him on .
-JD#unknown#Lost.Season01.Episode24 Would you mind if we carry you on ?
+flight_attendant_2 Look , I can get Michelle , we can carry him on .
+flight_attendant_2 Would you mind if we carry you on ?
 john_locke No , that'll be fine .
-MICHELLE#unknown#Lost.Season01.Episode24 Here we go .
-MICHELLE#unknown#Lost.Season01.Episode24 Here's your seat .
-JD#unknown#Lost.Season01.Episode24 I'll get your bag , sir .
-MICHELLE#unknown#Lost.Season01.Episode24 If you need anything just press the call button .
+flight_attendant_3 Here we go .
+flight_attendant_3 Here's your seat .
+flight_attendant_2 I'll get your bag , sir .
+flight_attendant_3 If you need anything just press the call button .
 john_locke Okay .
 john_locke Thank you .
 john_locke Hugo , take these extra sticks back a couple hundred yards .
@@ -391,29 +391,29 @@ michael_dawson Please , god .
 walt_lloyd It's coming back !
 walt_lloyd It's coming back !
 michael_dawson Are we glad to see you !
-BEARDED#unknown#Lost.Season01.Episode24 What's going on? !
-BEARDED#unknown#Lost.Season01.Episode24 What are you folks doing this far out here? !
+tom_friendly What's going on? !
+tom_friendly What are you folks doing this far out here? !
 michael_dawson We were , we were -- the plane crashed !
 michael_dawson We were on the Island for a month , man !
-BEARDED#unknown#Lost.Season01.Episode24 Plane crash , huh ?
-BEARDED#unknown#Lost.Season01.Episode24 Well , how about that ?
+tom_friendly Plane crash , huh ?
+tom_friendly Well , how about that ?
 michael_dawson We were on an Island --
 michael_dawson oh , flight 815 -- hey
 michael_dawson , where are we? !
-BEARDED#unknown#Lost.Season01.Episode24 Well , it's a good thing we found you .
+tom_friendly Well , it's a good thing we found you .
 michael_dawson Yeah ,
 michael_dawson yeah , we survived and there's a whole group of people on the ...
-BEARDED#unknown#Lost.Season01.Episode24 Well , ain't that something ?
+tom_friendly Well , ain't that something ?
 michael_dawson Yeah !
-BEARDED#unknown#Lost.Season01.Episode24 Only , the thing is , we're going to have to take the boy .
+tom_friendly Only , the thing is , we're going to have to take the boy .
 michael_dawson What ?
 michael_dawson What'd you say ?
-BEARDED#unknown#Lost.Season01.Episode24 The boy , we're going to have to take him .
+tom_friendly The boy , we're going to have to take him .
 michael_dawson Hey , what the hell's going on here ?
 michael_dawson Who are you people ?
-BEARDED#unknown#Lost.Season01.Episode24 Just give us the boy .
+tom_friendly Just give us the boy .
 michael_dawson I'm not giving you anybody .
-BEARDED#unknown#Lost.Season01.Episode24 Well , alright then .
+tom_friendly Well , alright then .
 walt_lloyd Dad !
 walt_lloyd Dad !
 michael_dawson No !

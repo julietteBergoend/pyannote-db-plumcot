@@ -12,9 +12,9 @@ chandler_bing .
 chandler_bing make myself omnipotent forever .
 rachel_green See , there's always one guy .
 rachel_green " If I had a wish , I'd wish for three more wishes . "
-all Hey Joey .
-all Hi .
-all Hey , buddy .
+all@ Hey Joey .
+all@ Hi .
+all@ Hey , buddy .
 monica_geller Hey , Joey , what would you do if you were omnipotent ?
 joey_tribbiani Probably kill myself !
 monica_geller .Excuse
@@ -102,11 +102,11 @@ dr_ross_geller You can totally , totally live on this .
 monica_geller Yeah ,
 monica_geller yeah .
 dr_ross_geller Oh , by the way , great service tonight .
-all Oh !
-all Yeah !
-guys#unknown#Friends.Season01.Episode04 Hockey !
-guys#unknown#Friends.Season01.Episode04 Hockey !
-guys#unknown#Friends.Season01.Episode04 Hockey .
+all@ Oh !
+all@ Yeah !
+chandler_bing@joey_tribbiani@dr_ross_geller Hockey !
+chandler_bing@joey_tribbiani@dr_ross_geller Hockey !
+chandler_bing@joey_tribbiani@dr_ross_geller Hockey .
 leslie Rachel ?
 rachel_green Oh my God !
 monica_geller I swear I've seen birds do this on Wild Kingdom .
@@ -272,23 +272,23 @@ chandler_bing See buddy , that's all you need , a bunch of toothless guys hittin
 dr_ross_geller Pass it !
 dr_ross_geller Pass it !
 chandler_bing He's open !
-all Shoot !
-all Shoot !
-all Shoot !
+all@ Shoot !
+all@ Shoot !
+all@ Shoot !
 chandler_bing Hey , look , we're on that TV thing ! '
 chandler_bing Scuse me .
-receptionist#unknown#Friends.Season01.Episode04 It says to call this number if you're not completely satisfied with this candy bar .
-receptionist#unknown#Friends.Season01.Episode04 Well , I'm not completely satisfied .
+nurse_sizemore It says to call this number if you're not completely satisfied with this candy bar .
+nurse_sizemore Well , I'm not completely satisfied .
 chandler_bing Listen , it's kind of an emergency .
 chandler_bing Well , I guess you know that , or we'd be in the predicament room .
-receptionist#unknown#Friends.Season01.Episode04 Hold on .
-receptionist#unknown#Friends.Season01.Episode04 Fill these out , sit over there .
+nurse_sizemore Hold on .
+nurse_sizemore Fill these out , sit over there .
 dr_ross_geller Look , I don't wanna make any trouble , okay ,
 dr_ross_geller but I'm in a lot of pain here , alright ?
 dr_ross_geller My face is dented .
-receptionist#unknown#Friends.Season01.Episode04 Well , you'll have to wait your turn .
+nurse_sizemore Well , you'll have to wait your turn .
 joey_tribbiani Well , how long do you think it'll be ?
-receptionist#unknown#Friends.Season01.Episode04 Any minute now .
+nurse_sizemore Any minute now .
 dr_ross_geller Hey , this-
 dr_ross_geller Heyy ...
 rachel_green I'm so sorry ,
@@ -435,9 +435,9 @@ monica_geller Where ?
 phoebe_buffay Right- where we've been looking all night !
 rachel_green He is so cute !
 monica_geller Oh , George , baby , drop the towel !
-all Yeah , drop it !
-all Drop the towel !
-all Please drop the--wowww .
+all@ Yeah , drop it !
+all@ Drop the towel !
+all@ Please drop the--wowww .
 joey_tribbiani Man .
 joey_tribbiani Can you believe he's only had sex with one woman ?
 chandler_bing I think it's great .
@@ -445,9 +445,9 @@ chandler_bing Y'know , it's sweet , it's romantic ...
 joey_tribbiani Really ?
 chandler_bing No , you kidding ?
 chandler_bing The guy's a freak. .
-both#unknown#Friends.Season01.Episode04 Hey , buddy .
+joey_tribbiani@chandler_bing Hey , buddy .
 dr_ross_geller Hi .
-receptionist#unknown#Friends.Season01.Episode04 Oh , that's attractive .
+nurse_sizemore Oh , that's attractive .
 chandler_bing Oh , I thought you were great in Silence of the Lambs .
 chandler_bing Oh come on , admit it !
 chandler_bing All things considered , you had fun tonight .
@@ -459,23 +459,23 @@ joey_tribbiani Oh , ah-
 joey_tribbiani the kid has it .
 dr_ross_geller The kid ... ?
 dr_ross_geller Excuse me , uh , that's , that's my puck .
-kid#unknown#Friends.Season01.Episode04 I found it .
-kid#unknown#Friends.Season01.Episode04 Finders keepers , losers weepers .
+bratty_boy I found it .
+bratty_boy Finders keepers , losers weepers .
 chandler_bing You gotta do it , man .
 dr_ross_geller Oh yeah ?
 dr_ross_geller Well , I'm rubber
 dr_ross_geller , you're glue , whatever--can't do it .
 dr_ross_geller Listen , uh- gimme back my puck .
-kid#unknown#Friends.Season01.Episode04 No .
+bratty_boy No .
 dr_ross_geller '
 dr_ross_geller Yes' , how about .
 dr_ross_geller C'mere .
 dr_ross_geller Gimme !
-kid#unknown#Friends.Season01.Episode04 No !
-kid#unknown#Friends.Season01.Episode04 No !
-receptionist#unknown#Friends.Season01.Episode04 Hey !
-receptionist#unknown#Friends.Season01.Episode04 Hey !
-receptionist#unknown#Friends.Season01.Episode04 No rough holding in my ER !
+bratty_boy No !
+bratty_boy No !
+nurse_sizemore Hey !
+nurse_sizemore Hey !
+nurse_sizemore No rough holding in my ER !
 dr_ross_geller GIVE ME MY PUCK! !
 dr_ross_geller ..
 dr_ross_geller Now that was fun .

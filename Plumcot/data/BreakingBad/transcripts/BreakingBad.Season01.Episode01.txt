@@ -1,558 +1,557 @@
-walter_white  My name is Walter Hartwell White.
-walter_white  I live at Albuquerque, New Mexico, To all law enforcement entitles, this is not an admission of guilt.
-walter_white  I am speaking to my family now.
-walter_white  Skyler you are the love of my life.
-walter_white  I hope you know that.
-walter_white  Walter, Junior you're big man.
-walter_white  There are going to be some things things that you'll come to learn about me in the next few days.
-walter_white  I just want you to know that no no matter how it may look, I only had you in my heart.
-skyler_white  Happy Birthday. 
-walter_white  Look at that.
-skyler_white  That is veggie bacon
-skyler_white  Believe it or not.
-skyler_white  Zero cholesterol. You won't even taste the difference.
-skyler_white  What time do you think you'll be home?
-walter_white  Same time.
-skyler_white  I don't want him dicking you around tonight.
-skyler_white  You get paid till 5, you work till 5, no later.
-walter_white_jr  Hey.
-walter_white_jr  Happy Birthday. 
+walter_white My name is Walter Hartwell White.
+walter_white I live at Albuquerque, New Mexico, To all law enforcement entitles, this is not an admission of guilt.
+walter_white I am speaking to my family now.
+walter_white Skyler you are the love of my life.
+walter_white I hope you know that.
+walter_white Walter, Junior you're big man.
+walter_white There are going to be some things things that you'll come to learn about me in the next few days.
+walter_white I just want you to know that no no matter how it may look, I only had you in my heart.
+skyler_white Happy Birthday.
+walter_white Look at that.
+skyler_white That is veggie bacon
+skyler_white Believe it or not.
+skyler_white Zero cholesterol. You won't even taste the difference.
+skyler_white What time do you think you'll be home?
+walter_white Same time.
+skyler_white I don't want him dicking you around tonight.
+skyler_white You get paid till 5, you work till 5, no later.
+walter_white_jr Hey.
+walter_white_jr Happy Birthday.
 walter_white Well, thank you
 skyler_white You're late again.
-walter_white_jr  There was no hot water again.
+walter_white_jr There was no hot water again.
 skyler_white I have an easy fix for that.
 skyler_white You wake up early, and then you get to be the first person in the shower.
-walter_white_jr  I have an idea.
-walter_white_jr  How about buy a new hot water heater?
-walter_white_jr  How's that idea?
-walter_white_jr  For the millionth and billionth time.
-skyler_white  Did you take your Echinacea?
-walter_white  Yeah, I think it's getting better.
+walter_white_jr I have an idea.
+walter_white_jr How about buy a new hot water heater?
+walter_white_jr How's that idea?
+walter_white_jr For the millionth and billionth time.
+skyler_white Did you take your Echinacea?
+walter_white Yeah, I think it's getting better.
 walter_white_jr What the hell is this?
 skyler_white Hey
-walter_white A veggie bacon, we are watching our cholesterol, I guess. 
+walter_white A veggie bacon, we are watching our cholesterol, I guess.
 walter_white_jr Not, Not me.
 walter_white_jr I want real bacon.
 walter_white_jr Not this fake crap.
-skyler_white  Too bad.
-skyler_white  Eat it.
+skyler_white Too bad.
+skyler_white Eat it.
 walter_white_jr This smells like Bandaids.
-skyler_white  Eat it.
-walter_white_jr  So, how's it feel to be old
-walter_white  How does it feel to be a smart ass?
-walter_white_jr  Good.
-walter_white  Eat your veggie bacon
-walter_white  all set?
-walter_white_jr  Yeah, I'm fine.
-walter_white  All right, see you at home. Okay
-walter_white_jr  Okay, see you
-walter_white  Chemistry.
-walter_white  It is the study of what?
-walter_white  Anyone?
-ben  Chemicals.
-walter_white  Chemicals!
-walter_white  No!
-walter_white  Chemistry is Well, technically, chemistry is the study of matter.
-walter_white  But I prefer to see it as the study of change.
-walter_white  Now just just think about this.
-walter_white  Electrons. They change their energy levels. Molecules
-walter_white  Molecules. Molecules change their bonds.
-walter_white  Elements. They combine and change into compounds.
-walter_white  Well, that's that's all of life. Right?
-walter_white  I mean, it's just
-walter_white  It's the constant. It's the cycle.
-walter_white  It's solution, dissolution, just over and over and over.
-walter_white  It is growth, then decay, then transformation.
-walter_white  It is fascinating, really.
-walter_white  Chad Is there something wrong with your table?
-walter_white  Okay. Ionic bond 
-walter_white  Are you done?
-walter_white  Ionic bonds.
-walter_white  Chapter 6.
-walter_white  2, 3 makes 10, and 10 makes 20.
-walter_white  Here's your receipt, and hand this claiming disc to your car wash professional.
-walter_white  Thank you.
-walter_white  Come again.
-bogdan_wolynetz  He's not coming.
-bogdan_wolynetz  He said he quits.
-bogdan_wolynetz  I'm gonna run the register.
-walter_white  Bogdan, no.
-walter_white  We talked about this.
-bogdan_wolynetz  I'm shorthanded, Walter.
-bogdan_wolynetz  What am I
-bogdan_wolynetz  do? Walter?
-bogdan_wolynetz  What am I to do?
-chad  Hey, Mr. White!
-chad  Make those tires shine, huh?
-chad's_girlfriend Oh, my God
-chad's_girlfriend You would not believe
-chad's_girlfriend believe who's cleaning
-chad's_girlfriend Chad's car.
-#known Surprise, Surprise
+skyler_white Eat it.
+walter_white_jr So, how's it feel to be old
+walter_white How does it feel to be a smart ass?
+walter_white_jr Good.
+walter_white Eat your veggie bacon
+walter_white all set?
+walter_white_jr Yeah, I'm fine.
+walter_white All right, see you at home. Okay
+walter_white_jr Okay, see you
+walter_white Chemistry.
+walter_white It is the study of what?
+walter_white Anyone?
+ben Chemicals.
+walter_white Chemicals!
+walter_white No!
+walter_white Chemistry is Well, technically, chemistry is the study of matter.
+walter_white But I prefer to see it as the study of change.
+walter_white Now just just think about this.
+walter_white Electrons. They change their energy levels. Molecules
+walter_white Molecules. Molecules change their bonds.
+walter_white Elements. They combine and change into compounds.
+walter_white Well, that's that's all of life. Right?
+walter_white I mean, it's just
+walter_white It's the constant. It's the cycle.
+walter_white It's solution, dissolution, just over and over and over.
+walter_white It is growth, then decay, then transformation.
+walter_white It is fascinating, really.
+walter_white Chad Is there something wrong with your table?
+walter_white Okay. Ionic bond
+walter_white Are you done?
+walter_white Ionic bonds.
+walter_white Chapter 6.
+walter_white 2, 3 makes 10, and 10 makes 20.
+walter_white Here's your receipt, and hand this claiming disc to your car wash professional.
+walter_white Thank you.
+walter_white Come again.
+bogdan_wolynetz He's not coming.
+bogdan_wolynetz He said he quits.
+bogdan_wolynetz I'm gonna run the register.
+walter_white Bogdan, no.
+walter_white We talked about this.
+bogdan_wolynetz I'm shorthanded, Walter.
+bogdan_wolynetz What am I
+bogdan_wolynetz do? Walter?
+bogdan_wolynetz What am I to do?
+chad Hey, Mr. White!
+chad Make those tires shine, huh?
+chads_girlfriend Oh, my God
+chads_girlfriend You would not believe
+chads_girlfriend believe who's cleaning
+chads_girlfriend Chad's car.
+unknown#unknown#BreakingBad.Season01.Episode01 Surprise, Surprise
 walter_white_jr , Happy Birth day Dad!
-unknown Happy birth day
-skyler_white  You're so very late. 
-carmen_molina  Really, I'm serious, Skyler.
-carmen_molina  I mean, you're flat as a washboard.
-carmen_molina  You look awesome.
-carmen_molina  She's not showing at all, is she? 
-marie_schrader She's showing  little. 
-skyler_white  Carmen, this is my sister Marie.
-carmen_molina  Pleased to meet you. 
+unknown#unknown#BreakingBad.Season01.Episode01 Happy birth day
+skyler_white You're so very late.
+carmen_molina Really, I'm serious, Skyler.
+carmen_molina I mean, you're flat as a washboard.
+carmen_molina You look awesome.
+carmen_molina She's not showing at all, is she?
+marie_schrader She's showing little.
+skyler_white Carmen, this is my sister Marie.
+carmen_molina Pleased to meet you.
 marie_schrader Hi.
-hank_schrader  Glock 22. It's my daily carry, okay?
-hank_schrader  I mean, unless you're talking, what, plus, Bplus loads, you can forget the 9mil, all right? 
-hank_schrader  I seen one of those bounce off a windshield one time. Yeah,
-steven_gomez   the way you shoot.
-steven_gomez  If gonna bring a gun, you gotta bring enough gun.
-walter_white_jr  This is awesome right
+hank_schrader Glock 22. It's my daily carry, okay?
+hank_schrader I mean, unless you're talking, what, plus, Bplus loads, you can forget the 9mil, all right?
+hank_schrader I seen one of those bounce off a windshield one time. Yeah,
+steven_gomez the way you shoot.
+steven_gomez If gonna bring a gun, you gotta bring enough gun.
+walter_white_jr This is awesome right
 hank_schrader Nice, isn't it?
-walter_white_jr  Dad, come check this out.
-walter_white  Yeah see it.
-walter_white_jr  Come on, take it.
-hank_schrader  Check it out, Walt.
-walter_white  No, no, it's just heavy.
-hank_schrader  That's why they hire men.
-hank_schrader  It's not gonna bite you, all right?
-hank_schrader  Looks like Keith Richards with a glass of warm milk, doesn't he?
+walter_white_jr Dad, come check this out.
+walter_white Yeah see it.
+walter_white_jr Come on, take it.
+hank_schrader Check it out, Walt.
+walter_white No, no, it's just heavy.
+hank_schrader That's why they hire men.
+hank_schrader It's not gonna bite you, all right?
+hank_schrader Looks like Keith Richards with a glass of warm milk, doesn't he?
 hank_schrader Hey, Walt. Everybody listen up, listen up, listen up!
 hank_schrader I'm gonna give a toast. A little toast to my brotherinlaw. Come here.
 hank_schrader Walt, you got a brain the size of Wisconsin, but we're not gonna hold that against you.
-hank_schrader  Because your heart's in the right place, Your heart's in the right place.
-hank_schrader  We love you, man. We love you
-hank_schrader  Everybody! To Walt!
-hank_schrader  Hey, turn on Channel 3.
-hank_schrader  At which point we apprehended three individuals and placed them into custody.
-hank_schrader  I'm proud to say the outstanding professionalism of my fellow agents at the Albuquerque District Office resulted in a substantial amount of methamphetamine being taken off the streets.
-unknown  Were any shots fired?
-hank_schrader  No, ma'am.
-hank_schrader  Our agents took the suspects by surprise.
-steven_gomez   Damn, TV does add ten pounds.
-marie_schrader ten pounds? 
-hank_schrader  Hey, sit and spin. Both of you.
+hank_schrader Because your heart's in the right place, Your heart's in the right place.
+hank_schrader We love you, man. We love you
+hank_schrader Everybody! To Walt!
+hank_schrader Hey, turn on Channel 3.
+hank_schrader At which point we apprehended three individuals and placed them into custody.
+hank_schrader I'm proud to say the outstanding professionalism of my fellow agents at the Albuquerque District Office resulted in a substantial amount of methamphetamine being taken off the streets.
+unknown#unknown#BreakingBad.Season01.Episode01 Were any shots fired?
+hank_schrader No, ma'am.
+hank_schrader Our agents took the suspects by surprise.
+steven_gomez Damn, TV does add ten pounds.
+marie_schrader ten pounds?
+hank_schrader Hey, sit and spin. Both of you.
 skyler_white Hank
-hank_schrader  What? Sorry. You didn't see that.
-skyler_white   charming. 
-hank_schrader  This is clearly an ongoing operation,one which was well organized Hank
-walter_white  Hank, how much money is that?
-hank_schrader  It's about 700 grand. That's
-hank_schrader  That's a pretty good haul,
-hank_schrader  As I say, it's a good day for the citizens of Albuquerque when we can put this big a dent in the local drug trade.
-walter_white  that's unusual, isn't it, that
-walter_white  that kind of cash?
-hank_schrader  Well, it's not the most we ever took.
-hank_schrader  It's easy money until we catch you.
-hank_schrader  Walt, just say the word and I'll take you on a ridealong.
-hank_schrader  You can watch us knock down a meth lab.
-hank_schrader  Get a little excitement in your life.
-walter_white  Well, someday.
-walter_white  Which one's this?
-skyler_white  That fauxLalique vase I picked up at the SuperSwap.
-skyler_white  I met my reserve, and there's still two minutes. What's up?
-skyler_white  tell me, birthday boy.
-skyler_white  Oh, hey, so what's up for Saturday?
-walter_white  Car wash.
-walter_white  Bogdan says he needs me.
-skyler_white  Until what time? Noon
-skyler_white  Noon? 1ish?
-walter_white  Probably 2, more like it
-skyler_white  And then what after that?
-walter_white  Actually I was thinking of driving up to Los Alamos.
-walter_white  The visitor center has an exhibit on It's really supposed to be 
-skyler_white You're not gonna paint? 
-walter_white  I'll paint.
-walter_white  It's just that this part this exhibition on the Mars Rover photographs are The detail really is just supposed to be amazing.
-skyler_white  It's just that I really need you to paint at some point.
-skyler_white  the sooner that back bedroom gets finished.
-skyler_white  I'd do it myself, except you said you don't want me standing on the stepladder.
-walter_white  I'll paint. I will paint.
-skyler_white  What is going on down there?
-walter_white  No, it's just Is
-skyler_white  Is he asleep?
-walter_white  No, It's nothing. You know, just You
-walter_white  You know, we gotta be careful about the baby.
-skyler_white  Don't worry about the baby.
-skyler_white  This is just for you.
-skyler_white  We are just doing you tonight.
-skyler_white  just close your eyes.
-skyler_white  relax and close your eyes. 
+hank_schrader What? Sorry. You didn't see that.
+skyler_white charming.
+hank_schrader This is clearly an ongoing operation,one which was well organized Hank
+walter_white Hank, how much money is that?
+hank_schrader It's about 700 grand. That's
+hank_schrader That's a pretty good haul,
+hank_schrader As I say, it's a good day for the citizens of Albuquerque when we can put this big a dent in the local drug trade.
+walter_white that's unusual, isn't it, that
+walter_white that kind of cash?
+hank_schrader Well, it's not the most we ever took.
+hank_schrader It's easy money until we catch you.
+hank_schrader Walt, just say the word and I'll take you on a ridealong.
+hank_schrader You can watch us knock down a meth lab.
+hank_schrader Get a little excitement in your life.
+walter_white Well, someday.
+walter_white Which one's this?
+skyler_white That fauxLalique vase I picked up at the SuperSwap.
+skyler_white I met my reserve, and there's still two minutes. What's up?
+skyler_white tell me, birthday boy.
+skyler_white Oh, hey, so what's up for Saturday?
+walter_white Car wash.
+walter_white Bogdan says he needs me.
+skyler_white Until what time? Noon
+skyler_white Noon? 1ish?
+walter_white Probably 2, more like it
+skyler_white And then what after that?
+walter_white Actually I was thinking of driving up to Los Alamos.
+walter_white The visitor center has an exhibit on It's really supposed to be
+skyler_white You're not gonna paint?
+walter_white I'll paint.
+walter_white It's just that this part this exhibition on the Mars Rover photographs are The detail really is just supposed to be amazing.
+skyler_white It's just that I really need you to paint at some point.
+skyler_white the sooner that back bedroom gets finished.
+skyler_white I'd do it myself, except you said you don't want me standing on the stepladder.
+walter_white I'll paint. I will paint.
+skyler_white What is going on down there?
+walter_white No, it's just Is
+skyler_white Is he asleep?
+walter_white No, It's nothing. You know, just You
+walter_white You know, we gotta be careful about the baby.
+skyler_white Don't worry about the baby.
+skyler_white This is just for you.
+skyler_white We are just doing you tonight.
+skyler_white just close your eyes.
+skyler_white relax and close your eyes.
 walter_white Okay.
-skyler_white  That's it. There you go. Keep it going.
-skyler_white  Keep it going.
-walter_white  I am fine. Honestly. It's just
-walter_white  some bug going around.
-walter_white  First my wife had it, then my son, and now
-walter_white  now me.
-walter_white  It's just like a chest cold.
-walter_white  Could be some low blood sugar as well.
-walter_white  I didn't have the greatest breakfast this morning, honestly, honestly. 
-walter_white  Hey, listen, can you do me a favor?
-walter_white  Can you just drop me off at a corner somewhere?
-doctor_ambulance Sorry.
-walter_white  that I don't have the greatest insurance.
-doctor_ambulance  Take a couple of deep breaths for me.
-doctor_ambulance  Is there anybody you want us to contact for you?
-walter_white  God, no.
-doctor_ambulance  Lean forward for me, would you?
-doctor_ambulance  Mr. White, are you a smoker?
+skyler_white That's it. There you go. Keep it going.
+skyler_white Keep it going.
+walter_white I am fine. Honestly. It's just
+walter_white some bug going around.
+walter_white First my wife had it, then my son, and now
+walter_white now me.
+walter_white It's just like a chest cold.
+walter_white Could be some low blood sugar as well.
+walter_white I didn't have the greatest breakfast this morning, honestly, honestly.
+walter_white Hey, listen, can you do me a favor?
+walter_white Can you just drop me off at a corner somewhere?
+doctor_ambulance#unknown#BreakingBad.Season01.Episode01 Sorry.
+walter_white that I don't have the greatest insurance.
+doctor_ambulance#unknown#BreakingBad.Season01.Episode01 Take a couple of deep breaths for me.
+doctor_ambulance#unknown#BreakingBad.Season01.Episode01 Is there anybody you want us to contact for you?
+walter_white God, no.
+doctor_ambulance#unknown#BreakingBad.Season01.Episode01 Lean forward for me, would you?
+doctor_ambulance#unknown#BreakingBad.Season01.Episode01 Mr. White, are you a smoker?
 walter_white No. Never.
-walter_white  Why do you ask?
-doctor_hospital  Mr. White? Mr. White? 
-walter_white  Yes.
-doctor_hospital  You understood what I've just said to
-walter_white  Yes.
-walter_white  Lung cancer. Inoperable.
-doctor_hospital  I'm sorry, I just need to make sure you fully understand.
-walter_white  Bestcase scenario, with chemo, I'll live maybe another couple years.
-walter_white  It's just you've got mustard on your Right there, there. Mustard, there.
-walter_white  Right there.
-skyler_white  So my records show that I paid it, and I certainly don't feel that we owe any late
-skyler_white  All right.
-skyler_white  Well, I'll check with the bank and maybe the post office, if they lost it or something.
-skyler_white  Yeah, let me look into that.
-skyler_white  Okay. Thank you.
-skyler_white  Did you use the MasterCard last month?
-walter_white  We needed printer paper.
-skyler_white  Walt, the MasterCard's the one we don't use.
-walter_white  Okay.
-skyler_white  So how was your day?
-walter_white  Oh, you know, fine.
-bogdan_wolynetz  Come on. I'm shorthanded.
-bogdan_wolynetz  I need you to do some wipedowns. Come
-bogdan_wolynetz  Come on.
+walter_white Why do you ask?
+doctor_hospital#unknown#BreakingBad.Season01.Episode01 Mr. White? Mr. White?
+walter_white Yes.
+doctor_hospital#unknown#BreakingBad.Season01.Episode01 You understood what I've just said to
+walter_white Yes.
+walter_white Lung cancer. Inoperable.
+doctor_hospital#unknown#BreakingBad.Season01.Episode01 I'm sorry, I just need to make sure you fully understand.
+walter_white Bestcase scenario, with chemo, I'll live maybe another couple years.
+walter_white It's just you've got mustard on your Right there, there. Mustard, there.
+walter_white Right there.
+skyler_white So my records show that I paid it, and I certainly don't feel that we owe any late
+skyler_white All right.
+skyler_white Well, I'll check with the bank and maybe the post office, if they lost it or something.
+skyler_white Yeah, let me look into that.
+skyler_white Okay. Thank you.
+skyler_white Did you use the MasterCard last month?
+walter_white We needed printer paper.
+skyler_white Walt, the MasterCard's the one we don't use.
+walter_white Okay.
+skyler_white So how was your day?
+walter_white Oh, you know, fine.
+bogdan_wolynetz Come on. I'm shorthanded.
+bogdan_wolynetz I need you to do some wipedowns. Come
+bogdan_wolynetz Come on.
 walter_white What
-bogdan_wolynetz  I said I need you outside to do some wipedowns.
-bogdan_wolynetz  Are you here to work or to be staring at the skies?
-bogdan_wolynetz  Come on
-bogdan_wolynetz  Come on, man.
-walter_white  Fuck you, Bogdan.
+bogdan_wolynetz I said I need you outside to do some wipedowns.
+bogdan_wolynetz Are you here to work or to be staring at the skies?
+bogdan_wolynetz Come on
+bogdan_wolynetz Come on, man.
+walter_white Fuck you, Bogdan.
 bogdan_wolynetz what?
-walter_white  I said fuck you! And your eyebrows!
-walter_white  Hank.
-Walter_White  Hank, it's Walt.
-walter_white  Hey. Oh, listen
-Walter_White  listen I didn't wake you, did I
-walter_white  Oh, good, good.
-walter_white  No, nothing's wrong.
-walter_white  I just, I've been, uh, thinking about that offer that ridealong.
-hank_schrader  the last house on the right.
-hank_schrader  See it?
-hank_schrader  Not the twostory one. The one next to it.
-hank_schrader  kind of I don't know, what do you call that?
-hank_schrader  Green?
-steven_gomez  Sage.
-hank_schrader  Sage.
-hank_schrader  What, do you work at the fucking Pottery Barn?
+walter_white I said fuck you! And your eyebrows!
+walter_white Hank.
+walter_white Hank, it's Walt.
+walter_white Hey. Oh, listen
+walter_white listen I didn't wake you, did I
+walter_white Oh, good, good.
+walter_white No, nothing's wrong.
+walter_white I just, I've been, uh, thinking about that offer that ridealong.
+hank_schrader the last house on the right.
+hank_schrader See it?
+hank_schrader Not the twostory one. The one next to it.
+hank_schrader kind of I don't know, what do you call that?
+hank_schrader Green?
+steven_gomez Sage.
+hank_schrader Sage.
+hank_schrader What, do you work at the fucking Pottery Barn?
 hank_schrader Sage
-steven_gomez  Sage.
-Steven_Gomez  That's the word for it.
-steven_gomez  My fault the only word your dumb ass knows is green?
-hank_schrader  Cheese dick.
-hank_schrader  I know that one. How 'bout that?
-hank_schrader  Anyway, it's the sage one See it?
-Walter_White  So what tells you it's a meth lab?
-hank_schrader  Star snitch
-hank_schrader  says some dude goes by Cap'n Cook lives up to his name in there.
-hank_schrader  Says he always adds a dash of chili powder. you exuberant Mexicans.
-Steven_Gomez  Captain Cook, that's a white boy's name.
-steven_gomez  Dopey as hell, too.
-hank_schrader  Yeah?
-hank_schrader  I got 20 bucks that says he's a beaner.
-steven_gomez  right. You're on.
-hank_schrader  All right, come on, come on.
-hank_schrader  School bus is clear. Got the green light. 
-hank_schrader  Copy that. Watch this. This makes'em shit.
-hank_schrader  Meth labs are nasty on a good day. 
-hank_schrader  You mix that wrong, you got mustard gas.
-walter_white  Phosphine gas.
-walter_white  I think.
-hank_schrader  Yeah, exactly.
-hank_schrader  One whiff will kill you.
-hank_schrader  That's why the respirators.
-unknown  suspect in custody.
-hank_schrader  Copy that.
-hank_schrader  suspect, might he be of the Latino persuasion?
-unknown  Driver's license says Emilio Koyama. Asian!
-steven_gomez  Pay up, sucker.
+steven_gomez Sage.
+steven_gomez That's the word for it.
+steven_gomez My fault the only word your dumb ass knows is green?
+hank_schrader Cheese dick.
+hank_schrader I know that one. How 'bout that?
+hank_schrader Anyway, it's the sage one See it?
+walter_white So what tells you it's a meth lab?
+hank_schrader Star snitch
+hank_schrader says some dude goes by Cap'n Cook lives up to his name in there.
+hank_schrader Says he always adds a dash of chili powder. you exuberant Mexicans.
+steven_gomez Captain Cook, that's a white boy's name.
+steven_gomez Dopey as hell, too.
+hank_schrader Yeah?
+hank_schrader I got 20 bucks that says he's a beaner.
+steven_gomez right. You're on.
+hank_schrader All right, come on, come on.
+hank_schrader School bus is clear. Got the green light.
+hank_schrader Copy that. Watch this. This makes'em shit.
+hank_schrader Meth labs are nasty on a good day.
+hank_schrader You mix that wrong, you got mustard gas.
+walter_white Phosphine gas.
+walter_white I think.
+hank_schrader Yeah, exactly.
+hank_schrader One whiff will kill you.
+hank_schrader That's why the respirators.
+unknown#unknown#BreakingBad.Season01.Episode01 suspect in custody.
+hank_schrader Copy that.
+hank_schrader suspect, might he be of the Latino persuasion?
+unknown#unknown#BreakingBad.Season01.Episode01 Driver's license says Emilio Koyama. Asian!
+steven_gomez Pay up, sucker.
 hank_schrader First name Emilio.
-hank_schrader  That's at least half a beaner.
-hank_schrader  Tell you what, I'll let you off for a 10.
-hank_schrader  Cheer up, Gomey.
-hank_schrader  You people still got J. Lo
+hank_schrader That's at least half a beaner.
+hank_schrader Tell you what, I'll let you off for a 10.
+hank_schrader Cheer up, Gomey.
+hank_schrader You people still got J. Lo
 walter_white Hank you think I might get to go inside? See the actual lab?
 hank_schrader Yeah, I tell you what, we're gonna go peek our heads in, check it out first.
-hank_schrader  Stay here a minute.
-walter_white  God. Oh, my God.
-walter_white  Pinkman?
-Walter_White  It's me. I'm alone.
-jesse_pinkman  How'd you find me?
-walter_white  You're still in our filing system.
-walter_white  So your aunt owns this place, right?
+hank_schrader Stay here a minute.
+walter_white God. Oh, my God.
+walter_white Pinkman?
+walter_white It's me. I'm alone.
+jesse_pinkman How'd you find me?
+walter_white You're still in our filing system.
+walter_white So your aunt owns this place, right?
 jesse_pinkman I own it.
-walter_white  No one's looking for you.
-jesse_pinkman  Why are you here?
-walter_white  I was curious.
-walter_white  Honestly, I never expected you to amount to much, but methamphetamine?
-walter_white  I didn't picture that. a lot of money in it,
-Jesse_Pinkman  I don't know what you're talking about.
-walter_white  No?
-jesse_pinkman  Not a clue.
-walter_white  Cap'n Cook?
-walter_white  That's not you?
-walter_white  Like I said, no one is looking for you.
-Jesse_Pinkman  Look, I don't know what you think you're doing here, Mr. White.
-jesse_pinkman  I mean, if you're planning on giving me some bowl winder about getting right with Jesus by turning myself in Not
-walter_white  Not really. 
-jesse_pinkman  High school was a long time ago. You ain't Welcome Back Kotter, so step off.
-jesse_pinkman  No speeches.
-walter_white  Short speech.
-walter_white  You lost your partner today. What's his name?
-walter_white  Emilio?
-walter_white  Emilio is going to prison.
-walter_white  The DEA took all your money, your lab.
-walter_white  You got nothing. Square 1.
-walter_white  But you know the business. And I know the chemistry.
-walter_white  I'm thinking maybe you and I could partner up. 
+walter_white No one's looking for you.
+jesse_pinkman Why are you here?
+walter_white I was curious.
+walter_white Honestly, I never expected you to amount to much, but methamphetamine?
+walter_white I didn't picture that. a lot of money in it,
+jesse_pinkman I don't know what you're talking about.
+walter_white No?
+jesse_pinkman Not a clue.
+walter_white Cap'n Cook?
+walter_white That's not you?
+walter_white Like I said, no one is looking for you.
+jesse_pinkman Look, I don't know what you think you're doing here, Mr. White.
+jesse_pinkman I mean, if you're planning on giving me some bowl winder about getting right with Jesus by turning myself in Not
+walter_white Not really.
+jesse_pinkman High school was a long time ago. You ain't Welcome Back Kotter, so step off.
+jesse_pinkman No speeches.
+walter_white Short speech.
+walter_white You lost your partner today. What's his name?
+walter_white Emilio?
+walter_white Emilio is going to prison.
+walter_white The DEA took all your money, your lab.
+walter_white You got nothing. Square 1.
+walter_white But you know the business. And I know the chemistry.
+walter_white I'm thinking maybe you and I could partner up.
 jesse_pinkman You want to cook crystal meth?
-jesse_pinkman  You? You and, uh and me?
-walter_white  That's right.
-walter_white  Either that or I turn you in.
-marie_schrader  What the hell is this?
+jesse_pinkman You? You and, uh and me?
+walter_white That's right.
+walter_white Either that or I turn you in.
+marie_schrader What the hell is this?
 skyler_white Damned if I know.
-skyler_white  I described it as mosaic folk art.
+skyler_white I described it as mosaic folk art.
 marie_schrader Somebody bought it?
-skyler_white  Yeah, some guy in Minneapolis.
+skyler_white Yeah, some guy in Minneapolis.
 skyler_white $14. 00 plus shipping.
-skyler_white  Yes! 
+skyler_white Yes!
 marie_schrader At this rate, in 50 or 60 years, you'll be rich.
 marie_schrader So how goes the novel?
-skyler_white  It's not a novel, actually, which I have
-marie_schrader  have You're not writing a novel?
-marie_schrader  You told me you were.
-skyler_white  No. Short stories.
-skyler_white  I said that if eventually I have enough good ones that maybe I'll try and publish another collection.
-marie_schrader  didn't sell.
-marie_schrader  I just thought a novel would be easier to sell.
-skyler_white  Yeah, well, maybe so.
+skyler_white It's not a novel, actually, which I have
+marie_schrader have You're not writing a novel?
+marie_schrader You told me you were.
+skyler_white No. Short stories.
+skyler_white I said that if eventually I have enough good ones that maybe I'll try and publish another collection.
+marie_schrader didn't sell.
+marie_schrader I just thought a novel would be easier to sell.
+skyler_white Yeah, well, maybe so.
 marie_schrader Ever want me to read anything, I could critique it for you.
-skyler_white  No.
-skyler_white  I mean, I'm not at that stage where I
-skyler_white  No.
-marie_schrader  Open offer.
-Marie_Schrader  what's up with Walt lately?
+skyler_white No.
+skyler_white I mean, I'm not at that stage where I
+skyler_white No.
+marie_schrader Open offer.
+marie_schrader what's up with Walt lately?
 skyler_white What do you mean?
-Skyler_White He's fine.
-marie_schrader  He just seems, I don't know quieter than usual.
-skyler_white  Turning 50 is a big deal.
-skyler_white  I mean, I'm sure as hell not looking forward to 40.
-skyler_white  You're gonna be a complete basket case.
-marie_schrader  So it's midlife crisis.
-skyler_white  No, he's just quiet.
-marie_schrader  How's the sex?
-skyler_white  Marie, Jesus.
-marie_schrader  Guess that answers that.
-walter_white  you just gonna sit there?
-walter_white  This. Look at this.
-walter_white  Kjeldahl style recovery flask, 800 milliltres Very rare.
-walter_white  You got your usual paraphernalia : Griffin beakers, your Erlenmeyer flask.
-Walter_White  But the pièce de résistance : a round bottom boiling flask, 500 milliltres.
-jesse_pinkman  Well, I cook in one of those. The big one.
-walter_white  One of these?
-walter_white  No, this is a volumetric flask.
-Walter_White  You wouldn't cook in one of these.
+skyler_white He's fine.
+marie_schrader He just seems, I don't know quieter than usual.
+skyler_white Turning 50 is a big deal.
+skyler_white I mean, I'm sure as hell not looking forward to 40.
+skyler_white You're gonna be a complete basket case.
+marie_schrader So it's midlife crisis.
+skyler_white No, he's just quiet.
+marie_schrader How's the sex?
+skyler_white Marie, Jesus.
+marie_schrader Guess that answers that.
+walter_white you just gonna sit there?
+walter_white This. Look at this.
+walter_white Kjeldahl style recovery flask, 800 milliltres Very rare.
+walter_white You got your usual paraphernalia : Griffin beakers, your Erlenmeyer flask.
+walter_white But the pièce de résistance : a round bottom boiling flask, 500 milliltres.
+jesse_pinkman Well, I cook in one of those. The big one.
+walter_white One of these?
+walter_white No, this is a volumetric flask.
+walter_white You wouldn't cook in one of these.
 jesse_pinkman Yeah, I do.
-walter_white  No, you don't.
-walter_white  A volumetric flask is for general mixing and titration.
-walter_white  You wouldn't apply heat to a volumetric flask.
-Walter_White  That's what a boiling flask is for.
-walter_white  Did you learn nothing from my chemistry class?
-jesse_pinkman  No. You flunked me. Remember?
-walter_white  No wonder.
-jesse_pinkman  Prick.
-jesse_pinkman  Now let me tell you something else.
-Jesse_Pinkman This ain't chemistry, this is art.
-jesse_pinkman  Cooking is art. And the shit I cook is the bomb, so don't be telling me.
-walter_white  The shit you cook is shit.
-walter_white  I saw your setup. Ridiculous.
-walter_white  You and I will not make garbage.
-walter_white  We will produce a chemically pure and stable product that performs as advertised.
-walter_white  No adulterants.
-walter_white  No baby formula.
-walter_white  No chili powder
-jesse_pinkman  powder. No, no, chili P is my signature. Not
-walter_white  Not anymore.
-Jesse_Pinkman  Yeah, well, we'll see about that.
-jesse_pinkman  What the hell is this?
-walter_white  Lab safety equipment.
-Walter_White  We're also gonna have an emergency eye wash station.
-walter_white  These chemicals and their fumes are toxic, in case you didn't know that.
-jesse_pinkman  Well, you can dress up like a faggot if you want. Not me.
-jesse_pinkman  Listen, this stuff doesn't stay more than a day.
-walter_white  What? I thought we were gonna cook here.
-Jesse_Pinkman  No, we're not gonna cook here. Okay, this is my house.
-jesse_pinkman  I don't shit where I eat.
-walter_white  then, where are we gonna work?
-jesse_pinkman  You tell me. his is your deal.
-jesse_pinkman  You want to smoke it up, smoke it up at your house.
-Jesse_Pinkman  Nah, I didn't think so.
-jesse_pinkman  Oh, well. Well
-walter_white  what if we rented one of those selfstorage places, you know, those little orange garages, worked out of there?
-Jesse_Pinkman  No. They're on to that. They got dogs that sniff around.
-Jesse_Pinkman  RV. That's what you want.
-walter_white  like a Winnebago?
+walter_white No, you don't.
+walter_white A volumetric flask is for general mixing and titration.
+walter_white You wouldn't apply heat to a volumetric flask.
+walter_white That's what a boiling flask is for.
+walter_white Did you learn nothing from my chemistry class?
+jesse_pinkman No. You flunked me. Remember?
+walter_white No wonder.
+jesse_pinkman Prick.
+jesse_pinkman Now let me tell you something else.
+jesse_pinkman This ain't chemistry, this is art.
+jesse_pinkman Cooking is art. And the shit I cook is the bomb, so don't be telling me.
+walter_white The shit you cook is shit.
+walter_white I saw your setup. Ridiculous.
+walter_white You and I will not make garbage.
+walter_white We will produce a chemically pure and stable product that performs as advertised.
+walter_white No adulterants.
+walter_white No baby formula.
+walter_white No chili powder
+jesse_pinkman powder. No, no, chili P is my signature. Not
+walter_white Not anymore.
+jesse_pinkman Yeah, well, we'll see about that.
+jesse_pinkman What the hell is this?
+walter_white Lab safety equipment.
+walter_white We're also gonna have an emergency eye wash station.
+walter_white These chemicals and their fumes are toxic, in case you didn't know that.
+jesse_pinkman Well, you can dress up like a faggot if you want. Not me.
+jesse_pinkman Listen, this stuff doesn't stay more than a day.
+walter_white What? I thought we were gonna cook here.
+jesse_pinkman No, we're not gonna cook here. Okay, this is my house.
+jesse_pinkman I don't shit where I eat.
+walter_white then, where are we gonna work?
+jesse_pinkman You tell me. his is your deal.
+jesse_pinkman You want to smoke it up, smoke it up at your house.
+jesse_pinkman Nah, I didn't think so.
+jesse_pinkman Oh, well. Well
+walter_white what if we rented one of those selfstorage places, you know, those little orange garages, worked out of there?
+jesse_pinkman No. They're on to that. They got dogs that sniff around.
+jesse_pinkman RV. That's what you want.
+walter_white like a Winnebago?
 jesse_pinkman Yeah
-jesse_pinkman  I know a dude who wants to sell his.
-jesse_pinkman  He just goes camping with it.
-jesse_pinkman  a mobile meth lab?
-jesse_pinkman  That'd be the bomb.
-jesse_pinkman  I mean, drive way out in the boonies.
-jesse_pinkman  Be all evasive.this isn't even 7 grand.
-jesse_pinkman  My guy wants 85.
-walter_white  This is all the money I have in the world.
-Walter_White  You're a drug dealer. Negotiate.
-jesse_pinkman  You are not how I remember you from class,
+jesse_pinkman I know a dude who wants to sell his.
+jesse_pinkman He just goes camping with it.
+jesse_pinkman a mobile meth lab?
+jesse_pinkman That'd be the bomb.
+jesse_pinkman I mean, drive way out in the boonies.
+jesse_pinkman Be all evasive.this isn't even 7 grand.
+jesse_pinkman My guy wants 85.
+walter_white This is all the money I have in the world.
+walter_white You're a drug dealer. Negotiate.
+jesse_pinkman You are not how I remember you from class,
 jesse_pinkman I mean, like, not at all.
 walter_white . I gotta go.
-jesse_pinkman  Wait, wait. Hold on.
-jesse_pinkman  Tell me why you're doing this.Seriously. 
+jesse_pinkman Wait, wait. Hold on.
+jesse_pinkman Tell me why you're doing this.Seriously.
 walter_white Why do you do it?
-jesse_pinkman  Money, mainly.
-walter_white  There you go.
+jesse_pinkman Money, mainly.
+walter_white There you go.
 jesse_pinkman Nah, come on! Man, some straight like you, giant stick up his ass, all of a sudden at age, what, 60, he's just gonna break bad?
-walter_white  I'm 50.
-jesse_pinkman  It's weird is all, okay? It doesn't compute.
-Jesse_Pinkman  Listen if you've gone crazy or something I mean, if you've if you've gone crazy or depressed,
-jesse_pinkman  I'm just saying that's something I need to know about.Okay? I mean, that affects me.
-walter_white  I am awake.
-jesse_pinkman  What?
-walter_white  Buy the RV. We start tomorrow.
-skyler_white  How's it coming in there?
+walter_white I'm 50.
+jesse_pinkman It's weird is all, okay? It doesn't compute.
+jesse_pinkman Listen if you've gone crazy or something I mean, if you've if you've gone crazy or depressed,
+jesse_pinkman I'm just saying that's something I need to know about.Okay? I mean, that affects me.
+walter_white I am awake.
+jesse_pinkman What?
+walter_white Buy the RV. We start tomorrow.
+skyler_white How's it coming in there?
 walter_white_jr Fine
-skyler_white  you want me or your dad? Dad.
-skyler_white  So how are those feeling in the waist?
-skyler_white  Are they too tight? 'Cause you don't want to get 'em if they're too tight.
+skyler_white you want me or your dad? Dad.
+skyler_white So how are those feeling in the waist?
+skyler_white Are they too tight? 'Cause you don't want to get 'em if they're too tight.
 walter_white_jr They're preshrunk.
-Skyler_White  sure you don't want to get a different kind.
-skyler_white  Like, you know, the skinny jeans? Those are really supposed to be in style now.
-skyler_white  The skaters wear them
-walter_white_jr  Do I look like a skater?
-skyler_white  right.
-jock  Mom, look at my bigboy pants.
-jock  Mommy, could you zip up my bigboy pants?
-skyler_white  What?
-skyler_white  Walt.
-skyler_white  no idea. You know what?
-skyler_white  Don't even look at them.
-skyler_white  They're obviously very stupid.
+skyler_white sure you don't want to get a different kind.
+skyler_white Like, you know, the skinny jeans? Those are really supposed to be in style now.
+skyler_white The skaters wear them
+walter_white_jr Do I look like a skater?
+skyler_white right.
+jock Mom, look at my bigboy pants.
+jock Mommy, could you zip up my bigboy pants?
+skyler_white What?
+skyler_white Walt.
+skyler_white no idea. You know what?
+skyler_white Don't even look at them.
+skyler_white They're obviously very stupid.
 walter_white_jr Yep
-skyler_white  I think that, um I think those jeans look really good on you. You should get 'em if you like 'em, okay?
-skyler_white  Why don't you just hang out here for a second?
+skyler_white I think that, um I think those jeans look really good on you. You should get 'em if you like 'em, okay?
+skyler_white Why don't you just hang out here for a second?
 skyler_white I'll be right back.
-walter_white_jr  Fine.
-jock  Mommy, I think I pinched a loaf in my brandnew bigboy pants
-jock  What are you doing?
-Walter_White  What's wrong, chief? Having a little trouble walking?
-jock  off me!
-Jock  mess you up, man.
-walter_white  Well, you'll have one shot. You better make it good.
-walter_white  What, are you waiting for your girlfriends?
-walter_white  You better go. Take it. Take your shot. Take it! Come on.
-walter_white  Come on. Come on,
-jock's_friend_#1  let's get outta here.
-jock's_friend_#1  go.
-jesse_pinkman  Yeah, nothing but cows!
-jesse_pinkman  Got some big cow house way out that way, like 2 miles, but I don't see nobody.
-walter_white  Cow house?
+walter_white_jr Fine.
+jock Mommy, I think I pinched a loaf in my brandnew bigboy pants
+jock What are you doing?
+walter_white What's wrong, chief? Having a little trouble walking?
+jock off me!
+jock mess you up, man.
+walter_white Well, you'll have one shot. You better make it good.
+walter_white What, are you waiting for your girlfriends?
+walter_white You better go. Take it. Take your shot. Take it! Come on.
+walter_white Come on. Come on,
+jocks_friend_1 let's get outta here.
+jocks_friend_1 go.
+jesse_pinkman Yeah, nothing but cows!
+jesse_pinkman Got some big cow house way out that way, like 2 miles, but I don't see nobody.
+walter_white Cow house?
 jesse_pinkman , where they live.
-jesse_pinkman  The cows.
-jesse_pinkman  Whatever, man.
-jesse_pinkman  Yeah, let's cook here.
-jesse_pinkman  What are you doing?
-walter_white  These are my good clothes. can't go home smelling like a meth lab.
-jesse_pinkman  Yeah, you can.
+jesse_pinkman The cows.
+jesse_pinkman Whatever, man.
+jesse_pinkman Yeah, let's cook here.
+jesse_pinkman What are you doing?
+walter_white These are my good clothes. can't go home smelling like a meth lab.
+jesse_pinkman Yeah, you can.
 jesse_pinkman I do.
-jesse_pinkman  Those? Those, wow, Those, uh You're keeping those on, right?
-walter_white  Come on. Daylight's burning.
-jesse_pinkman  Oh, my God.
-jesse_pinkman  Oh, this is, uh this is a good look for you.
-jesse_pinkman  And you're maybe only the world's second biggest homo.
-walter_white  Would you shut up and help me?
+jesse_pinkman Those? Those, wow, Those, uh You're keeping those on, right?
+walter_white Come on. Daylight's burning.
+jesse_pinkman Oh, my God.
+jesse_pinkman Oh, this is, uh this is a good look for you.
+jesse_pinkman And you're maybe only the world's second biggest homo.
+walter_white Would you shut up and help me?
 jesse_pinkman , yeah. yeah, work it. Baby, work it.
 walter_white Turn it off.
-jesse_pinkman  This is glass grade.
-jesse_pinkman  mean, you got Jesus, you got crystals in here This This is pure glass.
-jesse_pinkman  You're a damn artist.
-jesse_pinkman  This is art, Mr. White.
-walter_white  Actually, it's just basic chemistry, but thank you, Jesse.
-walter_white  I'm glad it's acceptable.
+jesse_pinkman This is glass grade.
+jesse_pinkman mean, you got Jesus, you got crystals in here This This is pure glass.
+jesse_pinkman You're a damn artist.
+jesse_pinkman This is art, Mr. White.
+walter_white Actually, it's just basic chemistry, but thank you, Jesse.
+walter_white I'm glad it's acceptable.
 jesse_pinkman Acceptable?
 jesse_pinkman You're the goddamn Iron Chef. Every jibbhead from here to Timbuktu is going to want a taste.
-jesse_pinkman  I gotta I gotta try this.
-walter_white  No. No, we only sell it.
-walter_white  We don't use it.
-jesse_pinkman  Okay, since when?
-jesse_pinkman  Listen, you've been watching way too much Miami Vice.
-jesse_pinkman  That ain't happening.
-walter_white  So what now?
-walter_white  How do we proceed?
-jesse_pinkman  We cook more tomorrow.
-jesse_pinkman  Meantime I know just the guy to talk to.
-jesse_pinkman  How you doing , my man?
-jesse_pinkman  You got a new dog. Right on, man.
-jesse_pinkman  What's his name?
-jesse_pinkman  Yeah, I had a dog like that once, except maybe, like, twice as big. Super purebred.
-jesse_pinkman  Now, me personally, I would train him to go straight for the nuts Just shut
-domingo_molina shut your mouth and show me your money.
-jesse_pinkman  I ain't buying, ese. I am selling.
-jesse_pinkman  Tell me that ain't the finest scante you ever laid eyes on.
-jesse_pinkman  Go ahead, try it.
-jesse_pinkman  Hey, poochie How you doing?
-jesse_pinkman  Jesus Christ. See? What'd I say?
-domingo_molina  It's all right.
-jesse_pinkman  It's all right? It's all right?  Yeah, it's all right.
-domingo_molina  So, what? You are back in business? Hell
-jesse_pinkman  Hell, yeah, I'm back.
-jesse_pinkman  With a vengeance. Vato loco gotta make a living.
-jesse_pinkman  You know, with your cousin gone away and all And listen, homes, about that. really broke me up about Emilio.
-jesse_pinkman  That dude is like my brother. He okay? You talk to him?
-domingo_molina  Yeah, yeah, I talked to him. He said when the Feds came, you were out sticking it in some neighbor lady. you know,
-jesse_pinkman   I got lucky twice.
-domingo_molina  I don't know, man.
-domingo_molina  Emilio He thinks maybe you dimed on him.
-jesse_pinkman  That is bullshit. That is bullshit, Krazy8!
-jesse_pinkman  I should kick his punk ass for even thinking that.
-jesse_pinkman  You know what? Next time you talk to Emilio, you tell him for me, all right?
-domingo_molina  you tell him yourself? Made bail this morning.
-emilio_koyama  Go ahead, pendejo. Kick my ass.
-domingo_molina  Where did you get this? Because I know your little punk ass didn't cook
-domingo_molina  You some kind of nudist?
-domingo_molina  That's some stonefine tick tick you been cooking there, ese.
-domingo_molina  How about you come work for me
-walter_white  I'd be willing to sell it to you if the price is right.
-domingo_molina  How about here all by yourself, huh? I
-emilio_koyama  know you. He was there when I got busted.
-emilio_koyama  He's with the DEA!
-walter_white  No.
-emilio_koyama  You ratasnitch motherfucker! 
-jesse_pinkman  Run, Mr. White! Run!
-emilio_koyama  I say we cap 'em both.
-domingo_molina you really cook up that batch?
-domingo_molina  You an artist. It's a damn shame.
-walter_white  Wait a minute.
-walter_white  Listen to me I'll teach you my recipe. 
-walter_white  What do you say? You want to cook like me?
-walter_white  You let us both live and I will teach you.
-walter_white  Put the cigarette out. Please.
-domingo_molina  Move it, homes.
-jesse_pinkman  What happened? Hey, What'd you do to them?
-walter_white  Red phosphorus in the presence of moisture and accelerated by heat yields phosphorus hydride.
-walter_white  phosphine gas.
-walter_white  good whiff
-walter_white  We gotta.. We gotta clean this.
-skyler_white  I don't know what's been going on with you lately, but Nothing
-walter_white  Nothing. I'm
-walter_white  I'm fine. Whatever
-skyler_white  Whatever it is I'll tell you this.
-skyler_white  do not like it when you don't talk to me. The worst thing you can do is shot me out.
-skyler_white  Walt, Walt, is that you?
-
+jesse_pinkman I gotta I gotta try this.
+walter_white No. No, we only sell it.
+walter_white We don't use it.
+jesse_pinkman Okay, since when?
+jesse_pinkman Listen, you've been watching way too much Miami Vice.
+jesse_pinkman That ain't happening.
+walter_white So what now?
+walter_white How do we proceed?
+jesse_pinkman We cook more tomorrow.
+jesse_pinkman Meantime I know just the guy to talk to.
+jesse_pinkman How you doing , my man?
+jesse_pinkman You got a new dog. Right on, man.
+jesse_pinkman What's his name?
+jesse_pinkman Yeah, I had a dog like that once, except maybe, like, twice as big. Super purebred.
+jesse_pinkman Now, me personally, I would train him to go straight for the nuts Just shut
+krazy8 shut your mouth and show me your money.
+jesse_pinkman I ain't buying, ese. I am selling.
+jesse_pinkman Tell me that ain't the finest scante you ever laid eyes on.
+jesse_pinkman Go ahead, try it.
+jesse_pinkman Hey, poochie How you doing?
+jesse_pinkman Jesus Christ. See? What'd I say?
+krazy8 It's all right.
+jesse_pinkman It's all right? It's all right? Yeah, it's all right.
+krazy8 So, what? You are back in business? Hell
+jesse_pinkman Hell, yeah, I'm back.
+jesse_pinkman With a vengeance. Vato loco gotta make a living.
+jesse_pinkman You know, with your cousin gone away and all And listen, homes, about that. really broke me up about Emilio.
+jesse_pinkman That dude is like my brother. He okay? You talk to him?
+krazy8 Yeah, yeah, I talked to him. He said when the Feds came, you were out sticking it in some neighbor lady. you know,
+jesse_pinkman I got lucky twice.
+krazy8 I don't know, man.
+krazy8 Emilio He thinks maybe you dimed on him.
+jesse_pinkman That is bullshit. That is bullshit, Krazy8!
+jesse_pinkman I should kick his punk ass for even thinking that.
+jesse_pinkman You know what? Next time you talk to Emilio, you tell him for me, all right?
+krazy8 you tell him yourself? Made bail this morning.
+emilio_koyama Go ahead, pendejo. Kick my ass.
+krazy8 Where did you get this? Because I know your little punk ass didn't cook
+krazy8 You some kind of nudist?
+krazy8 That's some stonefine tick tick you been cooking there, ese.
+krazy8 How about you come work for me
+walter_white I'd be willing to sell it to you if the price is right.
+krazy8 How about here all by yourself, huh? I
+emilio_koyama know you. He was there when I got busted.
+emilio_koyama He's with the DEA!
+walter_white No.
+emilio_koyama You ratasnitch motherfucker!
+jesse_pinkman Run, Mr. White! Run!
+emilio_koyama I say we cap 'em both.
+krazy8 you really cook up that batch?
+krazy8 You an artist. It's a damn shame.
+walter_white Wait a minute.
+walter_white Listen to me I'll teach you my recipe.
+walter_white What do you say? You want to cook like me?
+walter_white You let us both live and I will teach you.
+walter_white Put the cigarette out. Please.
+krazy8 Move it, homes.
+jesse_pinkman What happened? Hey, What'd you do to them?
+walter_white Red phosphorus in the presence of moisture and accelerated by heat yields phosphorus hydride.
+walter_white phosphine gas.
+walter_white good whiff
+walter_white We gotta.. We gotta clean this.
+skyler_white I don't know what's been going on with you lately, but Nothing
+walter_white Nothing. I'm
+walter_white I'm fine. Whatever
+skyler_white Whatever it is I'll tell you this.
+skyler_white do not like it when you don't talk to me. The worst thing you can do is shot me out.
+skyler_white Walt, Walt, is that you?
