@@ -48,20 +48,20 @@ theon_greyjoy I don’t know. It’s not my House.
 bran_stark Robb?
 osha All alone in the deep dark woods.
 bran_stark I’m not alone, my brother is with me.
-wildling I don’t see him. Got him hidden under your cloak?
+stiv I don’t see him. Got him hidden under your cloak?
 osha Oh, that’s a pretty pin. Silver.
-wildling We’ll take the pin. And the horse. Get down… Be quick about it.
+stiv We’ll take the pin. And the horse. Get down… Be quick about it.
 bran_stark I can’t. The saddle, the straps.
-wildling What’s wrong with you? You some kind of cripple?
+stiv What’s wrong with you? You some kind of cripple?
 bran_stark I’m Brandon Stark of Winterfell and if you don’t let me be, I’ll have you all killed!
 wildling_2#unknown#GameOfThrones.Season01.Episode06 Cut his little cock off and stuff it in his mouth.
 osha the boy’s worth nothing dead. Benjen Stark’s own blood. Think what Mance would give us.
-wildling Piss on Mance rayder and piss on the North. We’re going as far south as south goes. There ain’t no white walkers down in Dorne.
+stiv Piss on Mance rayder and piss on the North. We’re going as far south as south goes. There ain’t no white walkers down in Dorne.
 robb_stark Drop the knife. Let him go and I’ll let you live.
 bran_stark Robb!
-wildling Shut up! Drop the blade!
+stiv Shut up! Drop the blade!
 bran_stark No, don’t.
-wildling Do it.
+stiv Do it.
 robb_stark Are you all right?
 bran_stark Yes, it doesn’t hurt.
 theon_greyjoy Tough little lad. In the Iron Islands, you’re not a man until you’ve killed your first enemy. Well done.
@@ -182,13 +182,13 @@ renly_baratheon What days were those? The ones where half of Westeros fought the
 robert_baratheon Easy, boy. You might be my brother, but you’re speaking to the King.
 renly_baratheon I suppose it was all rather heroic. If you were drunk enough and had some poor Riverlands whore to shove your price inside and “make the eight.”
 lancel_lannister More wine, your Grace?
-man#unknown#GameOfThrones.Season01.Episode06 They burned most everything in the Riverlands, our fields, our granaries, our homes. They took our women and then they took ‘em again. When they was done, they butchered them as if they was animals. They covered our children in pitch and lit them on fire.
+joss They burned most everything in the Riverlands, our fields, our granaries, our homes. They took our women and then they took ‘em again. When they was done, they butchered them as if they was animals. They covered our children in pitch and lit them on fire.
 grand_maester_pycelle Brigands, most likely.
-man#unknown#GameOfThrones.Season01.Episode06 They weren’t thieves, they didn’t steal nothing. They even left something behind, your Grace.
+joss They weren’t thieves, they didn’t steal nothing. They even left something behind, your Grace.
 grand_maester_pycelle It’s the King’s Hand you’re addressing, not the king. The king is hunting.
 petyr_baelish Fish. The sigil of House Tully. Isn’t that your wife’s House - Tully - my Lord Hand?
 eddard_stark These men, were they flying a sigil? … A banner.
-man#unknown#GameOfThrones.Season01.Episode06 None, your… Hand. The one who was leading them… Taller by a foot than any man I’ve ever met, saw him cut the blacksmith, saw him take the head off a horse with a single swing of his sword.
+joss None, your… Hand. The one who was leading them… Taller by a foot than any man I’ve ever met, saw him cut the blacksmith, saw him take the head off a horse with a single swing of his sword.
 petyr_baelish That sounds like someone we know. The Mountain.
 eddard_stark You’re describing Ser Gregor Clegane.
 grand_maester_pycelle Why should Ser Gregor turn brigand? The man is an anointed knight.
@@ -277,7 +277,7 @@ viserys_targaryen Where is she? I’m here for the feast. The whore’s feast.
 jorah_mormont Come.
 viserys_targaryen Get your hands off me! No one touches the dragon!
 viserys_targaryen Khal Drogo! I’m here for the feast.
-khal_drogojorah_mormont Khal Drogo says there is a place for you. Back there.
+jorah_mormont Khal Drogo says there is a place for you. Back there.
 viserys_targaryen That is no place for a king.
 khal_drogo You are no king.
 viserys_targaryen Keep away from me!
@@ -286,7 +286,7 @@ viserys_targaryen There she is.
 jorah_mormont Put the sword down. They’ll kill us all.
 viserys_targaryen They can’t kill us. They can’t shed blood in their sacred city. But I can. I want what I came for. I want the crown he promised me. He bought you. But he never paid for you.
 viserys_targaryen Tell him I want what was bargained for or I’m taking you back. He can keep the baby. I’ll cut it out and leave it for him.
-khal_drogoviserys_targaryen What’s he saying?
+viserys_targaryen What’s he saying?
 daenerys_targaryen He says yes. You shall have a golden crown, that men shall tremble to behold.
 viserys_targaryen That was all I wanted. W-what was promised.
 viserys_targaryen No! You cannot touch me! I am the dragon! I am the dragon! I want my crown! Ahh!

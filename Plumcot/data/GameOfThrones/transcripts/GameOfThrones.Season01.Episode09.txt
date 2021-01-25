@@ -31,7 +31,7 @@ greatjon_umber Enter the Twins alone and he'll sell you to the Lannisters as he 
 theon_greyjoy Or throw you in a dungeon. Or slit your throat.
 robb_stark My father would do whatever it took to secure our crossing. Whatever it took. lf l'm going to lead this army, l can't have other men doing my bargaining for me.
 catelyn_stark l agree. l'll go.
-everyone#unknown#GameOfThrones.Season01.Episode09 You can't!
+all@ You can't!
 catelyn_stark l have known Lord Walder since l was a girl. He would never harm me.
 greatjon_umber Unless there was a profit in it.
 walder_frey What do you want?
@@ -72,13 +72,13 @@ jeor_mormont Right. Now, don't think this means l approve of this nonsense with 
 jon_snow l'll apologize to Ser Alliser tonight.
 jeor_mormont No, you won't. l sent him to King's Landing yesterday. The hand that your wolf tore off that thing's wrist – l've ordered Thorne to lay it at the feet of this boy king. That should get young Joffrey's attention. And it, uh, puts a thousand leagues between you and Thorne. Now go and put your sword somewhere safe and bring me my supper.
 jon_snow Yes, my lord.
-nights_watchman#unknown#GameOfThrones.Season01.Episode09 Well done. Well done.
-nights_watchman_1#unknown#GameOfThrones.Season01.Episode09 You earned that, Snow.
-nights_watchman_2#unknown#GameOfThrones.Season01.Episode09 Well done.
+nights_watchman Well done. Well done.
+nights_watchman You earned that, Snow.
+nights_watchman Well done.
 pypar Go on, let's have a look.
 jon_snow At what?
 grenn The sword! Show us the sword.
-all#unknown#GameOfThrones.Season01.Episode09 Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword!
+all@ Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword! Sword!
 pypar Let's have a look.
 grenn Piss off.
 pypar Come on, l want to have a look at it in the light. Give it here!
@@ -128,7 +128,7 @@ jon_snow You're Aemon Targaryen.
 maester_aemon l'm a maester of the Citadel, bound in service to Castle Black and the Night's Watch. l will not tell you to stay or go. You must make that choice yourself and live with it for the rest of your days. As l have.
 daenerys_targaryen My lord… My sun and stars… Drogo.
 khal_drogo My horse…
-cohollo Blood of my blood…
+qotho Blood of my blood…
 khal_drogo No, l must ride.
 qotho He fell from his horse. A Khal who cannot ride is no Khal.
 daenerys_targaryen He's tired, that's all. He needs to rest. We've ridden far enough today. We'll camp here.
@@ -162,9 +162,9 @@ bronn He said something.
 tyrion_lannister Well, the odds of me living long enough for him to retaliate have just dropped drastically. We'll be at the vanguard tomorrow.
 bronn Oh, well. l, uh, think l'll go and find myself one.
 tyrion_lannister Who are you?
-prostitute#unknown#GameOfThrones.Season01.Episode09 Who would you like me to be?
+shae Who would you like me to be?
 tyrion_lannister What did your mother call you?
-prostitute#unknown#GameOfThrones.Season01.Episode09 Shae. What did your mother call you?
+shae Shae. What did your mother call you?
 tyrion_lannister My mother died giving birth to me.
 shae ls that why l'm here? So we can talk about our mothers?
 tyrion_lannister What sort of accent is that?
@@ -188,7 +188,7 @@ daenerys_targaryen Even if he dies, why would l run? l am khaleesi, and my my so
 jorah_mormont This isn't Westeros, where men honor blood. Here they only honor strength. There will be fighting after Drogo dies. Whoever wins that fight will be the new khal. He won't want any rivals. Your boy will be plucked from your breast and given to the dogs.
 daenerys_targaryen l won't leave him.
 mirri_maz_duur The wound has festered.
-qothodaenerys_targaryen Stop it! l don't want her hurt.
+qotho Stop it! l don't want her hurt.
 qotho No? No? You don't want her hurt? Pray we don't hurt you, too. You let this witch put her hands on our Khal.
 jorah_mormont Rein in your tongue. She is still your Khaleesi.
 qotho Only while the blood of my blood lives. When he dies, she is nothing.
@@ -310,7 +310,7 @@ bronn Stay low.
 tyrion_lannister Stay low?
 bronn lf you're lucky, no one will notice you.
 tyrion_lannister l was born lucky. Tribesmen of the Vale, gather round! Stone Crows! Black Ears! Burned Men! Moon Brothers! And Painted Dogs! Your dominion over the Vale begins now! Onward, to claim what is yours!
-tribesmen_of_the_vale Half man! Half man! Half man! Half man! Half man! Half man!
+kings_landing_urchin Half man! Half man! Half man! Half man! Half man! Half man!
 tyrion_lannister To battle!
 bronn You're a shit warrior.
 tyrion_lannister l'm alive?
@@ -352,18 +352,18 @@ kings_landing_baker Oh, piss off now. Go on.
 arya_stark Do you have any stale ones from yesterday? Or any burnt ones?
 kings_landing_baker Piss off!
 arya_stark Hey, where's everyone going? What's happening?
-street_urchin#unknown#GameOfThrones.Season01.Episode09 They're taking him to the Sept of Baelor.
+kings_landing_urchin They're taking him to the Sept of Baelor.
 arya_stark Who?
-street_urchin#unknown#GameOfThrones.Season01.Episode09 The Hand of the King.
-populace#unknown#GameOfThrones.Season01.Episode09 Traitor! Coward!
+kings_landing_urchin The Hand of the King.
+all@ Traitor! Coward!
 eddard_stark Baelor!
-populace#unknown#GameOfThrones.Season01.Episode09 Traitor! Traitor!
+all@ Traitor! Traitor!
 eddard_stark I am Eddard Stark, Lord of Winterfell and Hand of the King. I come before you to confess my treason in the sight of Gods and men. I betrayed the faith of my King and the trust of my friend Robert. I swore to protect and defend his children, but before his blood was cold I plotted to murder his son and seize the Throne for myself. Let the High Septon and Baelor the Blessed bear witness to what I say Joffrey Baratheon is the one true heir to the Iron Throne, by the grace of all the Gods, Lord of the Seven Kingdoms and Protector of the Realm.
 grand_maester_pycelle As we sin, so do we suffer. This man has confessed his crimes in sight of Gods and men. The Gods are just but beloved Baelor taught us they can also be merciful. What is to be done with this traitor, Your Grace?
 joffrey_baratheon My mother wishes me to let Lord Eddard join The Night's Watch. Stripped of all titles and powers, he would serve the realm in permanent exile. And My Lady Sansa has begged mercy for her father. But they have the soft hearts of women. So long as I am your King, treason shall never go unpunished. Ser Ilyn, bring me his head!
 sansa_stark No, stop! Please, someone stop him!
 cersei_lannister My son, this is madness.
-populace#unknown#GameOfThrones.Season01.Episode09 Put him down!
+all@ Put him down!
 yoren Don't look!
 arya_stark Let me go.
 yoren Shut your mouth. Look at me.

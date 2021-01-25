@@ -143,18 +143,18 @@ catelyn_stark What if he's wrong? Bran needs me.
 robb_stark Rickon needs you. He's six. He doesn't know what's happening. He follows me around all day, clutching my leg, crying...
 catelyn_stark Close the windows! I can't stand it! Please make them stop!
 robb_stark Fire. You stay here. I'll come back.
-catspaw_assassin#unknown#GameOfThrones.Season01.Episode02 You're not supposed to be here. No one is supposed to be here. It's a mercy. He's dead already.
+catspaw_assassin You're not supposed to be here. No one is supposed to be here. It's a mercy. He's dead already.
 catelyn_stark No!
 daenerys_targaryen Have you ever seen a dragon?
 irri Dragon gone, Khaleesi.
 daenerys_targaryen Everywhere? Even in the east?
 irri No dragon. Brave men kill them. It is known.
-jhiqui#unknown#GameOfThrones.Season01.Episode02 It is known.
+jhiqui It is known.
 doreah A trader from Garth told me that dragons come from the moon.
 daenerys_targaryen The moon?
 doreah He told me the moon was an egg, Khaleesi, that once there were two moons in the sky. But one wandered too close to the sun and it cracked from the heat. Out of it poured a thousand thousand dragons and they drank the sun's fire.
 irri Moon is no egg. Moon is goddess... wife of sun. It is known.
-jhiqui#unknown#GameOfThrones.Season01.Episode02 It is known.
+jhiqui It is known.
 daenerys_targaryen Leave me with her. Why did the trader from Garth tell you these stories?
 doreah Men like to talk when they're happy. Before your brother bought me for you, it was my job to make men happy.
 daenerys_targaryen How old were you?
@@ -200,17 +200,17 @@ sandor_clegane He hasn't been very talkative these last 20 years. Since the mad 
 joffrey_baratheon He speaks damn well with his sword though. Ser Ilyn Payne, the King's justice. The royal executioner. What is it, sweet lady? Does the hound frighten you? Away with you, dog. You're scaring my lady. I don't like to see you upset. The sun is finally shining. Come walk with me.
 sansa_stark Stay, Lady. I probably shouldn't have any more. Father only lets us have one cup at feasts.
 joffrey_baratheon My princess can drink as much as she wants. Don't worry... You're safe with me.
-mycah#unknown#GameOfThrones.Season01.Episode02 I'll get you!
+mycah I'll get you!
 sansa_stark Arya!
 arya_stark What are you doing here? Go away.
 joffrey_baratheon Your sister? And who are you, boy?
-mycah#unknown#GameOfThrones.Season01.Episode02 Mycah, my Lord.
+mycah Mycah, my Lord.
 sansa_stark He the butcher's boy.
 arya_stark He's my friend.
 joffrey_baratheon A butcher's boy who wants to be a Knight, eh? Pick up your sword, butcher's boy. Let's see how good you are.
-mycah#unknown#GameOfThrones.Season01.Episode02 She asked me to, my Lord. She asked me to.
+mycah She asked me to, my Lord. She asked me to.
 joffrey_baratheon I'm your prince, not your lord, and I said pick up your sword.
-mycah#unknown#GameOfThrones.Season01.Episode02 It's not a sword, my prince. It's only a stick.
+mycah It's not a sword, my prince. It's only a stick.
 joffrey_baratheon And you're not a Knight. Only a butcher's boy. That was my lady's sister you were hitting, do you know that?
 arya_stark Stop it!
 sansa_stark Arya, stay out of this.
@@ -222,11 +222,11 @@ arya_stark Nymeria!
 joffrey_baratheon Please don't.
 sansa_stark Arya, leave him alone. My prince, my poor prince, look what they did to you. Stay here, I'll go back to the inn and bring help.
 joffrey_baratheon Then go! Don't touch me.
-soldier_1#unknown#GameOfThrones.Season01.Episode02 The wolf's not here. Look down by the stream.
+baratheon_guard The wolf's not here. Look down by the stream.
 arya_stark You've got to go. They'll kill you for what you did to Joffrey. Go on... run. Go! Leave now!
-soldier_2#unknown#GameOfThrones.Season01.Episode02 It's a direwolf.
-soldier_1#unknown#GameOfThrones.Season01.Episode02 I'll check down here.
-soldier_2#unknown#GameOfThrones.Season01.Episode02 I think I heard a noise.
+baratheon_guard It's a direwolf.
+baratheon_guard I'll check down here.
+baratheon_guard I think I heard a noise.
 arya_stark Go!
 jory_cassel My lord! My lord! They found her. She's unharmed.
 eddard_stark Where is she?
@@ -266,7 +266,7 @@ robert_baratheon You let that little girl disarm you? See to it that your daught
 eddard_stark Gladly, your Grace.
 cersei_lannister And what of the direwolf? What of the beast that savaged your son?
 robert_baratheon I'd forgot the damned wolf.
-soldier#unknown#GameOfThrones.Season01.Episode02 We found no trace of the direwolf, your Grace.
+lannister_guard We found no trace of the direwolf, your Grace.
 robert_baratheon So be it.
 cersei_lannister We have another wolf.
 robert_baratheon As you will.
@@ -277,7 +277,7 @@ arya_stark Lady wasn't there! You leave her alone!
 sansa_stark Stop them. Don't let them do it. Please! It wasn't Lady!
 eddard_stark s this your command... your Grace?
 cersei_lannister Where is the beast?
-soldier#unknown#GameOfThrones.Season01.Episode02 Chained up outside, your Grace.
+lannister_guard Chained up outside, your Grace.
 cersei_lannister Ser Ilyn, do me the honor.
 eddard_stark No. Jory... Take the girls to their rooms. If it must be done, then I'll do it myself.
 cersei_lannister Is this some trick?

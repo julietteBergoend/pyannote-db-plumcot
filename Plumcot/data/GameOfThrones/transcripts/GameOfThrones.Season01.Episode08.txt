@@ -1,8 +1,8 @@
 syrio_forel Yah !
 syrio_forel Left high , left low .
 syrio_forel Right low , lunge right .
-steward_of_house_stark If you break anything , the Septa will have my head .
-steward_of_house_stark What is ...
+royal_steward If you break anything , the Septa will have my head .
+royal_steward What is ...
 septa_mordane Your sister knew perfectly well we were to leave today .
 septa_mordane How she could forget ...
 sansa_stark She didn't forget .
@@ -42,9 +42,9 @@ arya_stark My father wouldn't send you .
 arya_stark And I don't have to go with you if I don't want .
 meryn_trant Take her .
 syrio_forel Are you men or snakes , that you would threaten a child ?
-kings_guard#unknown#GameOfThrones.Season01.Episode08 Get out of my way , little man .
+lannister_messenger Get out of my way , little man .
 syrio_forel I am Syrio Forel .
-kings_guard#unknown#GameOfThrones.Season01.Episode08 Foreign bastard .
+lannister_messenger Foreign bastard .
 syrio_forel And you will be speaking to me with more respect .
 meryn_trant Kill the Braavosi .
 meryn_trant Bring the girl .
@@ -66,14 +66,14 @@ sansa_stark I'll ...
 sansa_stark I'll tell the Queen .
 sandor_clegane Who do you think sent me ?
 arya_stark Needle .
-stable_boy#unknown#GameOfThrones.Season01.Episode08 There she is .
+red_keep_stableboy There she is .
 arya_stark What do you want ?
-stable_boy#unknown#GameOfThrones.Season01.Episode08 I want you , wolf girl .
-stable_boy#unknown#GameOfThrones.Season01.Episode08 Come here .
+red_keep_stableboy I want you , wolf girl .
+red_keep_stableboy Come here .
 arya_stark Leave me be .
 arya_stark My father's a lord .
 arya_stark He'll reward you .
-stable_boy#unknown#GameOfThrones.Season01.Episode08 She'll reward me , the Queen !
+red_keep_stableboy She'll reward me , the Queen !
 arya_stark Stay away !
 lord_varys Lord Stark , you must be thirsty .
 eddard_stark Varys .
@@ -134,7 +134,7 @@ jeor_mormont Get them inside .
 othell_yarwyck You heard him .
 alliser_thorne Lord Commander , Maester Aemon awaits you in his chambers .
 alliser_thorne A raven from King's Landing .
-nights_watch_brother#unknown#GameOfThrones.Season01.Episode08 Come on , move 'em out .
+nights_watch_officer Come on , move 'em out .
 jeor_mormont Bring me a horn of ale , Snow , and pour one for yourself .
 jeor_mormont The King is dead .
 jon_snow Is there any word of my father ?
@@ -337,7 +337,7 @@ daenerys_targaryen Do as I command or Khal Drogo will know the reason why .
 rakharo Kash qoy qoyi thira disse .
 rakharo Me qorasokh anni !
 jorah_mormont Come .
-dothraki_man#unknown#GameOfThrones.Season01.Episode08 Anha afichak mae m'arakhoon !
+rakharo Anha afichak mae m'arakhoon !
 jorah_mormont What do you want done with them ?
 daenerys_targaryen Bring her to me .
 daenerys_targaryen And those women there .
@@ -457,7 +457,7 @@ osha Beyond the Wall , they're the only Gods .
 osha Even slaves are allowed to pray .
 bran_stark You're not a slave .
 bran_stark Well , your friend did put a knife to my throat .
-osah I'm not complaining , Little Lord , just telling truths .
+osha I'm not complaining , Little Lord , just telling truths .
 bran_stark What did you mean about hearing the Gods ?
 osha You asked them , they're answering you .
 osha Shh .
@@ -572,7 +572,7 @@ tywin_lannister The honor of the House was at stake .
 tywin_lannister Your brother would never have submitted to capture so meekly .
 tyrion_lannister We have our differences , Jaime and I. He's braver .
 tyrion_lannister I'm better looking .
-jaime_lannister He's been covering himself in glory .
+tywin_lannister He's been covering himself in glory .
 kevan_lannister Jaime smashed the River Lords at the Golden Tooth , and now lays siege to Riverrun , Catelyn Stark's homeland .
 tyrion_lannister And the Starks ?
 tyrion_lannister Lord Eddard ?
@@ -676,10 +676,10 @@ petyr_baelish A naked Knight , apparently .
 barristan_selmy Even now I could cut through the five of you like carving a cake !
 barristan_selmy Here , boy !
 barristan_selmy Melt it down and add it to the others .
-king's_landing#unknown#GameOfThrones.Season01.Episode08 If any man in this hall has other matters to set before His Grace , let him speak now or go forth and hold his silence .
+lannister_messenger If any man in this hall has other matters to set before His Grace , let him speak now or go forth and hold his silence .
 sansa_stark Your Grace .
 joffrey_baratheon Come forward , My Lady .
-king's_landing#unknown#GameOfThrones.Season01.Episode08 The Lady Sansa of House Stark .
+lannister_messenger The Lady Sansa of House Stark .
 cersei_lannister Do you have some business for the King and the Council , Sansa ?
 sansa_stark I do .
 sansa_stark As it please Your Grace , I ask mercy for my father , Lord Eddard Stark , who was Hand of the King .

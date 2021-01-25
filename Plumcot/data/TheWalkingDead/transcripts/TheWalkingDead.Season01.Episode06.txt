@@ -65,8 +65,8 @@ lori_grimes Vi ?
 edwin_jenner Vi , say hello to our guests .
 edwin_jenner Tell them .
 edwin_jenner welcome
-computer#unknown#TheWalkingDead.Season01.Episode06 Hello , guests .
-computer#unknown#TheWalkingDead.Season01.Episode06 Welcome
+vi Hello , guests .
+vi Welcome
 edwin_jenner I'm all that's left .
 edwin_jenner I'm sorry
 andrea_harrison What's the point ?

@@ -1,18 +1,18 @@
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 What d’you expect? They’re savages. One lot steals a goat from another lot and before you know it, they’re ripping each other to pieces.
-will#unknown#GameOfThrones.Season01.Episode01 I’ve never seen wildlings do a thing like this. I’ve never seen a thing like this, not ever in my life.
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 How close did you get?
-will#unknown#GameOfThrones.Season01.Episode01 Close as any man would.
-gared#unknown#GameOfThrones.Season01.Episode01 We should head back to the wall.
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 Do the dead frighten you?
-gared#unknown#GameOfThrones.Season01.Episode01 Our orders were to track the wildlings. We tracked them. They won’t trouble us no more.
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 You don’t think he’ll ask us how they died? Get back on your horse.
-will#unknown#GameOfThrones.Season01.Episode01 Whatever did it to them could do it to us. They even killed the children.
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 It’s a good thing we’re not children. You want to run away south, run away. Of course, they will behead you as a deserter … If I don’t catch you first. Get back on your horse. I won’t say it again.
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 Your dead men seem to have moved camp.
-will#unknown#GameOfThrones.Season01.Episode01 They were here.
-gared#unknown#GameOfThrones.Season01.Episode01 See where they went.
-waymar_royce#unknown#GameOfThrones.Season01.Episode01 What is it?
-gared#unknown#GameOfThrones.Season01.Episode01 It’s …
+waymar_royce What d’you expect? They’re savages. One lot steals a goat from another lot and before you know it, they’re ripping each other to pieces.
+will I’ve never seen wildlings do a thing like this. I’ve never seen a thing like this, not ever in my life.
+waymar_royce How close did you get?
+will Close as any man would.
+gared We should head back to the wall.
+waymar_royce Do the dead frighten you?
+gared Our orders were to track the wildlings. We tracked them. They won’t trouble us no more.
+waymar_royce You don’t think he’ll ask us how they died? Get back on your horse.
+will Whatever did it to them could do it to us. They even killed the children.
+waymar_royce It’s a good thing we’re not children. You want to run away south, run away. Of course, they will behead you as a deserter … If I don’t catch you first. Get back on your horse. I won’t say it again.
+waymar_royce Your dead men seem to have moved camp.
+will They were here.
+gared See where they went.
+waymar_royce What is it?
+gared It’s …
 jon_snow Go on. Father’s watching.
 jon_snow And your mother.
 septa_mordane Fine work, as always. Well done.
@@ -31,9 +31,9 @@ eddard_stark Tell Bran he’s coming, too.
 catelyn_stark Ned. Ten is too young to see such things.
 eddard_stark He won’t be a boy forever. And winter is coming.
 robb_stark Lad, go run back and get the rest.
-will#unknown#GameOfThrones.Season01.Episode01 White Walkers. I saw the White Walkers. White Walkers. The White Walkers, I saw them.
-will#unknown#GameOfThrones.Season01.Episode01 I know I broke my oath. And I know I’m a deserter. I should have gone back to the Wall and warned them. But I saw what I saw. I saw the White Walkers. People need to know. If you can get word to my family, tell them I’m no coward. Tell them I’m sorry.
-will#unknown#GameOfThrones.Season01.Episode01 Forgive me, lord.
+will White Walkers. I saw the White Walkers. White Walkers. The White Walkers, I saw them.
+will I know I broke my oath. And I know I’m a deserter. I should have gone back to the Wall and warned them. But I saw what I saw. I saw the White Walkers. People need to know. If you can get word to my family, tell them I’m no coward. Tell them I’m sorry.
+will Forgive me, lord.
 eddard_stark In the name of Robert of the House Baratheon, first of his name …
 jon_snow Don’t look away.
 eddard_stark King of the Andals and the First Men …
@@ -177,22 +177,22 @@ daenerys_targaryen We’ve been his guests for over a year and he’s never aske
 viserys_targaryen Illyrio is no fool. He knows I won’t forget my friends when I come into my throne. You still slouch. Let me see. I need you to be perfect today. Can you do that for me? You don’t want to wake the dragon, do you?
 daenerys_targaryen No.
 viserys_targaryen When they write the history of my reign, sweet sister, they will say it began today.
-maid#unknown#GameOfThrones.Season01.Episode01 It’s too hot, my lady.
+pentoshi_servant It’s too hot, my lady.
 viserys_targaryen Where is he?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 The Dothraki are not known for their punctuality.
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 May I present my honored guests? Viserys of House Targaryen, the third of his name. The rightful King of the Andals and the First Men. And his sister, Daenerys, of the House Targaryen.
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 Come forward, my dear.
+illyrio_mopatis The Dothraki are not known for their punctuality.
+illyrio_mopatis May I present my honored guests? Viserys of House Targaryen, the third of his name. The rightful King of the Andals and the First Men. And his sister, Daenerys, of the House Targaryen.
+illyrio_mopatis Come forward, my dear.
 viserys_targaryen Where’s he going?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 The ceremony is over.
+illyrio_mopatis The ceremony is over.
 viserys_targaryen But he didn’t say anything. Did he like her?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 Trust me, Your Grace. If he didn’t like her, we’d know.
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 It won’t be long now. Soon you will cross the Narrow Sea and take back your father’s throne. The people drink secret toasts to your health. They cry out for their true king.
+illyrio_mopatis Trust me, Your Grace. If he didn’t like her, we’d know.
+illyrio_mopatis It won’t be long now. Soon you will cross the Narrow Sea and take back your father’s throne. The people drink secret toasts to your health. They cry out for their true king.
 viserys_targaryen When will they be married?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 Soon. The Dothraki never stay still for long.
+illyrio_mopatis Soon. The Dothraki never stay still for long.
 viserys_targaryen Is it true they lie with their horses?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 I wouldn’t ask Khal Drogo.
+illyrio_mopatis I wouldn’t ask Khal Drogo.
 viserys_targaryen Do you take me for a fool?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 I take you for a king. Kings lack the caution of common men. My apologies if I’ve given offense.
+illyrio_mopatis I take you for a king. Kings lack the caution of common men. My apologies if I’ve given offense.
 viserys_targaryen I know how to play a man like Drogo. I give him a queen and he gives me an army.
 viserys_targaryen So do I. I want us both to go home. But they took it from us. So tell me, sweet sister, how do we go home?
 daenerys_targaryen I don’t know.
@@ -270,7 +270,7 @@ eddard_stark The king takes what he wants. That’s why he’s king.
 catelyn_stark I’ll say, ‘Listen, fat man, you are not taking my husband anywhere. He belongs to me now.’
 eddard_stark How did he get so fat?
 catelyn_stark He only stops eating when it’s time for a drink.
-voice#unknown#GameOfThrones.Season01.Episode01 It’s Maester Luwin, my lord.
+kings_guard It’s Maester Luwin, my lord.
 eddard_stark Send him in.
 maester_luwin Pardon, my lord, my lady. A rider in the night from your sister.
 eddard_stark Stay.
@@ -285,15 +285,15 @@ maester_luwin The king rode for a month to ask Lord Stark’s help. He’s the o
 catelyn_stark He spent half his life fighting Robert’s wars. He owes him nothing. Your father and brother rode south once on a king’s demand.
 maester_luwin A different time. Different king.
 viserys_targaryen When do I meet with the Khal? We need to begin planning the invasion.
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 If Khal Drogo has promised you a crown, you shall have it.
+illyrio_mopatis If Khal Drogo has promised you a crown, you shall have it.
 viserys_targaryen When?
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 When their omens favor war.
+illyrio_mopatis When their omens favor war.
 viserys_targaryen I piss on Dothraki omens. I waited 17 years to get my throne back.
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 A Dothraki wedding without at least three deaths is considered a dull affair.
+illyrio_mopatis A Dothraki wedding without at least three deaths is considered a dull affair.
 jorah_mormont A small gift for the new Khaleesi. Songs and histories from the Seven Kingdoms.
 daenerys_targaryen Thank you, ser. Are you from my country?
 jorah_mormont Ser Jorah Mormont of Bear Island. I served your father for many years. Gods be good, I hope to always serve the rightful king.
-illyrio_mopatis#unknown#GameOfThrones.Season01.Episode01 Dragons’ eggs, Daenerys. From the Shadow Lands beyond Asshai. The ages have turned them to stone, but they will always be beautiful.
+illyrio_mopatis Dragons’ eggs, Daenerys. From the Shadow Lands beyond Asshai. The ages have turned them to stone, but they will always be beautiful.
 daenerys_targaryen Thank you, Magister.
 daenerys_targaryen She’s beautiful. … Ser Jorah, I don’t know how to say ‘thank you’ in Dothraki.
 jorah_mormont There is no word for ‘thank you’ in Dothraki.

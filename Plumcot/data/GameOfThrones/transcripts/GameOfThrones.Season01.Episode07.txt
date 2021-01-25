@@ -589,8 +589,8 @@ petyr_baelish Unless ...
 eddard_stark There is no " unless " .
 eddard_stark He is the rightful heir .
 eddard_stark Nothing can change that .
-petyr_baelishAnd he cannot take the throne without your help .
-petyr_baelishAnd You would be wise to deny it to him and to make sure Joffrey succeeds .
+petyr_baelish he cannot take the throne without your help .
+petyr_baelish You would be wise to deny it to him and to make sure Joffrey succeeds .
 eddard_stark Do you have a shred of honor ?
 petyr_baelish You are now Hand of the King and Protector of the Realm .
 petyr_baelish All of the power is yours .
@@ -627,20 +627,20 @@ petyr_baelish You know it has to be done , but it's not honorable so the words s
 petyr_baelish When the Queen proclaims one King and the Hand proclaims another , whose peace do the Gold Cloaks protect ?
 petyr_baelish Who do they follow ?
 petyr_baelish The man who pays them .
-jon_snow_&_samwell_tarly#together Hear my words and bear witness to my vow .
-jon_snow_&_samwell_tarly#together Night gathers and now my watch begins .
-jon_snow_&_samwell_tarly#together It shall not end until my death .
-jon_snow_&_samwell_tarly#together I shall take no wife , hold no lands , father no children .
-jon_snow_&_samwell_tarly#together I shall wear no crowns and win no glory .
-jon_snow_&_samwell_tarly#together I shall live and die at my post .
-jon_snow_&_samwell_tarly#together I am the sword in the darkness .
-jon_snow_&_samwell_tarly#together I am the watcher on the walls .
-jon_snow_&_samwell_tarly#together I am the shield that guards the realms of men .
-jon_snow_&_samwell_tarly#together I pledge my life and honor to The Night's Watch , for this night and all the nights to come .
+jon_snow@samwell_tarly Hear my words and bear witness to my vow .
+jon_snow@samwell_tarly Night gathers and now my watch begins .
+jon_snow@samwell_tarly It shall not end until my death .
+jon_snow@samwell_tarly I shall take no wife , hold no lands , father no children .
+jon_snow@samwell_tarly I shall wear no crowns and win no glory .
+jon_snow@samwell_tarly I shall live and die at my post .
+jon_snow@samwell_tarly I am the sword in the darkness .
+jon_snow@samwell_tarly I am the watcher on the walls .
+jon_snow@samwell_tarly I am the shield that guards the realms of men .
+jon_snow@samwell_tarly I pledge my life and honor to The Night's Watch , for this night and all the nights to come .
 othell_yarwyck You knelt as boys .
 othell_yarwyck Rise now as men of The Night's Watch .
-nights_watch_officer#unknown#GameOfThrones.Season01.Episode07 Well done .
-nights_watch_officer#unknown#GameOfThrones.Season01.Episode07 Well done .
+nights_watch_officer Well done .
+nights_watch_officer Well done .
 samwell_tarly What's he got there ?
 samwell_tarly Gods be good !
 daenerys_targaryen What will they do to him ?

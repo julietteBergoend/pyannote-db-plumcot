@@ -150,9 +150,9 @@ rachel_green OK, alright, OK, um... then could you please, uh... just give him a
 flight_representative Alright. What's the message?
 rachel_green Uh... I don't know.
 flight_representative Sir? Sir? Excuse me, sir? Uh... I have a message for you.
-man#unknown#Friends.Season01.Episode24 What?
+airline_passenger What?
 flight_representative It's from Rachel. She said that she loved the present, and she will see you when you get back.
-man#unknown#Friends.Season01.Episode24 : Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze.
+airline_passenger : Toby... Oh, for God's sake, I don't know what she's talking about! There's no Rachel! Don't give me that deep freeze.
 melanie Mmmmmm... Oh, Joey, Joey, Joey... I think I blacked out there for a minute!
 joey_tribbiani Heh, heh. It was nothin'.
 melanie Well, now we've gotta find something fun for you!
@@ -208,7 +208,7 @@ monica_geller No, no, no, no, no, no pressure, no pressure!
 rachel_green Monica, nothing has even happened yet, and you're already so...
 monica_geller I am not 'so'! OK, I was a teensy bit weird at first, but... I'll be good. I promise.
 rachel_green Who is it?
-intercom#unknown#Friends.Season01.Episode24 It's me, Carl.
+carl It's me, Carl.
 rachel_green C'mon up.
 monica_geller Behind my brother's back?. is exactly the kind of crazy thing you won't be hearing from me.
 joey_tribbiani Seven hundred bucks!
@@ -245,7 +245,7 @@ carl What?
 rachel_green I forgot... I am supposed to pick up a friend at the airport. I am so sorry! I'm so... if you want to stay, and finish your drinks, please do.... I mean-I'm sorry. I-I-I gotta go. I'm sorry.
 carl But...
 rachel_green Excuse me, pardon me, excuse me, excuse me, sorry. Hi.
-man#unknown#Friends.Season01.Episode24 For God's sake, will you let it go? There's no Rachel!
+airline_passenger For God's sake, will you let it go? There's no Rachel!
 dr_ross_geller Oh, hey, hey, I got that.
 julie Oh, thanks, sweetie.
 dr_ross_geller No problem. I cannot wait for you to meet my friends.

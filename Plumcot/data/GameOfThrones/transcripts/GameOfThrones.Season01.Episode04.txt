@@ -395,11 +395,11 @@ marillion My Lord of Lannister! Might I entertain you while you eat? I can sing 
 tyrion_lannister Nothing would more likely ruin my supper. Lady Stark! What an unexpected pleasure. I was sorry to have missed you at Winterfell.
 masha_heddle Lady Stark.
 catelyn_stark I was still Catelyn Tully the last time I stayed here. You, Ser... Is that the black bat of Harrenhal I see embroidered on your coat?
-knight_of_house_whent It is, my Lady.
+willis_wode It is, my Lady.
 catelyn_stark And is Lady Whent a true and honest friend to my father... Lord Hoster Tully of Riverrun?
-knight_of_house_whent She is.
+willis_wode She is.
 catelyn_stark The red stallion was always a welcome sight at Riverrun. My father counts Jonas Bracken amongst his oldest and most loyal bannermen.
-knight_of_house_bracken Our lord is honored by his trust.
+kurleket Our lord is honored by his trust.
 tyrion_lannister I envy your father all his fine friends, but I don't quite see the purpose of this.
 catelyn_stark Knight of House Frey Lord Walder is well, my Lady. He has asked your father for the honor of his presence on his 90th nameday. He plans to take another wife.
 catelyn_stark This man... Came into my house as a guest and there conspired to murder my son, a boy of 10. In the name of King Robert and the good Lords you serve, I call upon you to seize him and help me return him to Winterfell to await the king's justice.

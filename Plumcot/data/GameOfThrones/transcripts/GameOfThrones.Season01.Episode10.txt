@@ -62,11 +62,11 @@ catelyn_stark My boy .
 catelyn_stark They have your sisters .
 catelyn_stark We have to get the girls back .
 catelyn_stark And then we will kill them all .
-marillionjoffrey_baratheon Very amusing .
-marillionjoffrey_baratheon lsn't it
-marillionjoffrey_baratheon a funny song ?
-marillionjoffrey_baratheon Thank you for your rendition .
-marillionjoffrey_baratheon l imagine it was even better received at that tavern .
+joffrey_baratheon Very amusing .
+joffrey_baratheon lsn't it
+joffrey_baratheon a funny song ?
+joffrey_baratheon Thank you for your rendition .
+joffrey_baratheon l imagine it was even better received at that tavern .
 marillion l'm
 marillion so sorry , Your Grace .
 marillion l'll never sing it again , l swear .
@@ -161,14 +161,14 @@ theon_greyjoy Am l your brother , now and always ?
 robb_stark Now and always .
 theon_greyjoy My sword is yours in victory and defeat , from this day until my last day .
 greatjon_umber The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
-all#unknown#GameOfThrones.Season01.Episode10 The King in the North !
+all@ The King in the North !
+all@ The King in the North !
+all@ The King in the North !
+all@ The King in the North !
+all@ The King in the North !
+all@ The King in the North !
+all@ The King in the North !
+all@ The King in the North !
 stark_guard Lady Stark .
 catelyn_stark l want to see him .
 catelyn_stark Now !
@@ -714,9 +714,9 @@ jeor_mormont The Night's Watch will ride in force against the wildlings , the Wh
 jeor_mormont And we will find Benjen Stark , alive or dead .
 jeor_mormont l will command them myself .
 jeor_mormont So l'll only ask you once , Lord Snow , are you a brother of the Night's Watch or a bastard boy who wants to play at war ?
-rakharojorah_mormont Drogo will have no use for dragon eggs in the Night Lands .
-rakharojorah_mormont Sell them .
-rakharojorah_mormont You can return to the Free Cities and live as a wealthy woman for all your days .
+jorah_mormont Drogo will have no use for dragon eggs in the Night Lands .
+jorah_mormont Sell them .
+jorah_mormont You can return to the Free Cities and live as a wealthy woman for all your days .
 daenerys_targaryen They were not given to me to sell .
 jorah_mormont Khaleesi , my Queen , l vow to serve you
 jorah_mormont , obey you , to die for you if need be , but let him go , Khaleesi .

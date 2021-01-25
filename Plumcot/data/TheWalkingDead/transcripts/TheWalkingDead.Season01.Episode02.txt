@@ -1,5 +1,5 @@
-boy#unknown#TheWalkingDead.Season01.Episode02 Mom !
-boy#unknown#TheWalkingDead.Season01.Episode02 -Right here
+carl_grimes Mom !
+carl_grimes -Right here
 lori_grimes Any luck ?
 amy_harrison How do we tell if they're poison ?
 lori_grimes Uh , there's only one sure way
@@ -96,8 +96,8 @@ glenn_rhee Glenn .
 glenn_rhee You're welcome .
 glenn_rhee Oh no .
 glenn_rhee The bright
-side#unknown#TheWalkingDead.Season01.Episode02 It'll be the fall that kills us .
-side#unknown#TheWalkingDead.Season01.Episode02 I'm a glass-half-full kind of guy
+glenn_rhee It'll be the fall that kills us .
+glenn_rhee I'm a glass-half-full kind of guy
 rick_grimes Are you the one that barricaded the alley ?
 glenn_rhee Somebody did .
 glenn_rhee I guess when the city got overrun .

@@ -84,15 +84,15 @@ rick_grimes Daryl ?
 morales His brother
 glenn_rhee Whoo-hoo !
 morales At least somebody's having a good day
-girl#unknown#TheWalkingDead.Season01.Episode03 Give it back
-boy#unknown#TheWalkingDead.Season01.Episode03 Stop it
-girl#unknown#TheWalkingDead.Season01.Episode03 No !
-boy#unknown#TheWalkingDead.Season01.Episode03 I found it
-girl#unknown#TheWalkingDead.Season01.Episode03 No !
-boy#unknown#TheWalkingDead.Season01.Episode03 Give it
-woman#unknown#TheWalkingDead.Season01.Episode03 Mijo , leave your sister alone
-boy#unknown#TheWalkingDead.Season01.Episode03 Why ?
-woman#unknown#TheWalkingDead.Season01.Episode03 Come on
+sophia Give it back
+carl_grimes Stop it
+sophia No !
+carl_grimes I found it
+sophia No !
+carl_grimes Give it
+lori_grimes Mijo , leave your sister alone
+carl_grimes Why ?
+lori_grimes Come on
 lori_grimes Baby
 lori_grimes , the more you fidget , the longer it takes .
 lori_grimes So don't
@@ -190,8 +190,8 @@ andrea_harrison amy
 amy_harrison Andrea !
 andrea_harrison Oh !
 amy_harrison Oh my god !
-boy#unknown#TheWalkingDead.Season01.Episode03 Papi !
-boy#unknown#TheWalkingDead.Season01.Episode03 Daddy !
+carl_grimes Papi !
+carl_grimes Daddy !
 morales Hey .
 morales Come here , sweetie .
 morales Hey .
@@ -328,7 +328,7 @@ lori_grimes He won't wake up
 rick_grimes Morning
 man#unknown#TheWalkingDead.Season01.Episode03 Morning
 rick_grimes Hey
-woman#unknown#TheWalkingDead.Season01.Episode03 Hi
+lori_grimes Hi
 carol_peletier Morning
 rick_grimes Morning
 carol_peletier They're still a little damp .
@@ -790,12 +790,12 @@ andrea_harrison have--
 ed You don't tell me what !
 ed I tell you what !
 ed You think you can--
-women#unknown#TheWalkingDead.Season01.Episode03 Get off her !
+andrea_harrison@amy_harrison@jacqui Get off her !
 ed Come here !
 ed Come here !
-women#unknown#TheWalkingDead.Season01.Episode03 Get off her !
-women#unknown#TheWalkingDead.Season01.Episode03 Get off her !
-women#unknown#TheWalkingDead.Season01.Episode03 Get off her !
+andrea_harrison@amy_harrison@jacqui Get off her !
+andrea_harrison@amy_harrison@jacqui Get off her !
+andrea_harrison@amy_harrison@jacqui Get off her !
 ed Get off me !
 carol_peletier Ed ?
 amy_harrison It's okay .

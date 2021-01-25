@@ -214,12 +214,12 @@ petyr_baelish To find myself in a position where a simple word to the King --
 renly_baratheon What are you two conspiring about? Well, whatever it is, you'd best hurry up. My brother is coming.
 petyr_baelish To a small council meeting?
 lord_varys Disturbing news from far away. Haven't you heard?
-guard_1#unknown#GameOfThrones.Season01.Episode05 Off with you. No begging.
+goldcloak Off with you. No begging.
 arya_stark I'm not a beggar. I live here.
-guard_1#unknown#GameOfThrones.Season01.Episode05 D'you want a smack on your ear to help you with your hearing?
+goldcloak D'you want a smack on your ear to help you with your hearing?
 arya_stark I want to see my father.
-guard_2#unknown#GameOfThrones.Season01.Episode05 I want to fuck the Queen, for all the good it does me.
-guard_1#unknown#GameOfThrones.Season01.Episode05 You want your father, boy? He's lying on the floor of some tavern, getting pissed on by his friends.
+goldcloak I want to fuck the Queen, for all the good it does me.
+goldcloak You want your father, boy? He's lying on the floor of some tavern, getting pissed on by his friends.
 arya_stark My father is Hand of the King! I'm not a boy. I'm Arya Stark of Winterfell and if you lay a hand on me, my father will have both your heads on spikes! Now are you going to let me by or do I need to smack you on the ear to help with your hearing?
 eddard_stark You know I had half my guard out searching for you? You promised me this would stop.
 arya_stark They said they were going to kill you.
