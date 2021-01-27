@@ -22,6 +22,7 @@ merry,dominic_monaghan,Merry,Dominic Monaghan,https://www.imdb.com/title/tt01672
 aragorn,viggo_mortensen,Aragorn,Viggo Mortensen,https://www.imdb.com/title/tt0167260/characters/nm0001557
 bounder,ian_mune,Bounder,Ian Mune,https://www.imdb.com/title/tt0120737/characters/nm0612786
 gothmog_,craig_parker,Gothmog /,Craig Parker,
+haldir,craig_parker,Haldir,Craig Parker, 
 farmer_maggot,cameron_rhodes,Farmer Maggot,Cameron Rhodes,https://www.imdb.com/title/tt0120737/characters/nm0722397
 gimli,john_rhysdavies,Gimli,John Rhys-Davies,https://www.imdb.com/title/tt0167260/characters/nm0722636
 gate_keeper,martyn_sanderson,Gate Keeper,Martyn Sanderson,
