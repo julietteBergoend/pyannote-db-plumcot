@@ -20,7 +20,7 @@ harry_potter Okay.
 aunt_marge Now, finish that off for mummy. Good boy, Rippy-pooh.
 uncle_vernon_dursley Can I tempt you, Marge?
 aunt_marge Just a small one. Excellent nosh, Petunia. Heh- eh, a bit more. Usually it's just a fry-up for me, what with twelve dogs. A bit more... That's a boy. Umm. Aah. You want to try a little drop of brandy? A little bit 'o brundybrandy-wundy-wandy for Rippy-pippy-pooh?... What are you smirking at?
-harry_potter (shrug)
+harry_potter 
 aunt_marge Where is it you send the boy, Vernon?
 uncle_vernon_dursley St. Brutus's. It's a fine institution for hopeless cases.
 aunt_marge Do they use the cane at St. Brutus's, boy?
@@ -59,7 +59,7 @@ uncle_vernon_dursley You're not allowed to do magic outside of school.
 harry_potter Yeah? Try me.
 uncle_vernon_dursley They won't let you back now. You've nowhere to go.
 harry_potter I don't care. Anywhere's better than here.
-dog#unknown#HarryPotter.Episode03 (barking)
+dog#unknown#HarryPotter.Episode03 
 aunt_marge Ahh-ha-ha! Ahhh!
 harry_potter Umf!
 stan_shunpike welcome to the knight bus Emergency transport for the stranded witch or wizard. My name is Stan Shunpike, and I will be your conductor for this evening. Wha' choo doin' down there?
@@ -187,11 +187,11 @@ hermione_granger Why are we stopping? We can't be there yet...
 ron_weasley What's going on?
 harry_potter Dunno... maybe we've broken down.
 hermione_granger Ouch! Ron, that was my foot!
-ron_weasley There's something moving out there. I think... someone's coming aboard. (bam)
+ron_weasley There's something moving out there. I think... someone's coming aboard. 
 ron_weasley Bloody hell! What's happening?
-scabbers#unknown#HarryPotter.Episode03 (squeak)
+scabbers#unknown#HarryPotter.Episode03 
 harry_potter Ah...
-voice#unknown#HarryPotter.Episode03 (scream)
+voice#unknown#HarryPotter.Episode03 
 hermione_granger Harry? Harry, are you all right?
 harry_potter Thank you.
 remus_lupin Here, eat this. It'll help. It's alright, it's chocolate.
@@ -205,7 +205,7 @@ harry_potter But someone was screaming. A woman.
 hermione_granger No one was screaming, Harry.
 choir In the cauldron boil and bake. Fillet of a fenny snake. Scale of dragon, tooth of wolf. Witch's mummy, maw and gulf. Double, double, toil and trouble. Fire burn and cauldron bubble. Double, double, toil and trouble. Fire burn and cauldron bubble. Double, double toil and trouble. Fire burn and cauldron bubble! Something wicked this way comes!
 albus_dumbledore Welcome! Welcome to another year at Hogwarts! Now, I'd like to say a few words before we all become too befuddled by our excellent feast. First, I'm pleased to welcome Professor R. J. Lupin, who's kindly consented to fill the post of Defense Against the Dark Arts teacher. Good luck, Professor!
-all#unknown#HarryPotter.Episode03 (applause)
+all#unknown#HarryPotter.Episode03 
 hermione_granger Of course! That's why he knew to give you the chocolate, Harry.
 draco_malfoy Potter... Potter! Is it true you fainted?
 other#unknown#HarryPotter.Episode03 Ohhhh!
@@ -214,7 +214,7 @@ ron_weasley Shove off, Malfoy.
 harry_potter How did he find out?
 hermione_granger Just forget it.
 albus_dumbledore As some of you may know, Professor Kettleburn, our Care of Magical Creatures teacher for many years, has decided to retire in order to spend more time with his remaining limbs. Fortunately, I'm delighted to announce that his place will be taken by none other than our own Rubeus Hagrid!
-all#unknown#HarryPotter.Episode03 (Applause)
+all#unknown#HarryPotter.Episode03 
 hermione_granger Whoo-hoo!
 albus_dumbledore Finally, on a more disquieting note, at the request of the Ministry of Magic, Hogwarts will, until further notice, play host to the dementors of Azkaban, until such a time as Sirius Black is captured. The dementors will be stationed at every entrance to the grounds. Now, whilst I've been assured that their presence will not disrupt our day-to-day activities... a word of caution. dementors are vicious creatures. They will not distinguish between the one they hunt, and the one who gets in their way. Therefore, I must warn each and every one of you to give them no reason to harm you. It is not in the nature of a dementor to be forgiving. But, you know, happiness can be found even in the darkest of times... if only one remembers to turn on the light.
 fat_lady_in_painting Ahhhh! Ah-ha-haa-aooo!
@@ -231,13 +231,13 @@ dean_thomas Hey, man- ugh!
 other#unknown#HarryPotter.Episode03 Oh, God.
 other#unknown#HarryPotter.Episode03 That's awful!
 ron_weasley Oh, green. That's a monkey.
-seamus_finnigan (monkey sounds)
+seamus_finnigan 
 other#unknown#HarryPotter.Episode03 What is that? You call that a monkey? Do not give him one again.
 ron_weasley Hey, Neville, try an elephant.
 other#unknown#HarryPotter.Episode03 Oh, yeah! That's amazing.
-neville_longbottom (elephant sounds)
+neville_longbottom 
 seamus_finnigan Ron, catch.
-ron_weasley I will- (lion sounds)
+ron_weasley I will- 
 other#unknown#HarryPotter.Episode03 I think we have a winner.
 ron_weasley Oh, don't try one of them!
 other#unknown#HarryPotter.Episode03 Oh, no.
@@ -294,7 +294,7 @@ harry_potter Hey, hey, hey, hey, hey, hey... hey! Hagrid...
 rubeus_hagrid We'll put you over here, just behind the wing joint. Don' pull out any of 'is feathers, because he won' thank you for that. Heh, heh...
 harry_potter Whoah!!
 harry_potter Ha! Whoo-hoo! Whoooo-hooo!! Whoo-hoo! Oh!
-rubeus_hagrid (whistle)
+rubeus_hagrid 
 other#unknown#HarryPotter.Episode03 Well done, Harry!
 rubeus_hagrid Well done, Harry! And well done, Buckbeak!
 other#unknown#HarryPotter.Episode03 Yeah, that was wicked, Harry!
@@ -346,7 +346,7 @@ neville_longbottom Yes, but I don't want that Boggart to turn into her, either.
 remus_lupin No...It won't. I want you to picture her clothes, only her clothes, very clearly in your mind.
 neville_longbottom She carries a red handbag...
 remus_lupin We don't need to hear it. As long as you see it, we'll see it. Now, when
-I#unknown#HarryPotter.Episode03 open that wardrobe, here's what I want you to do... Excuse me... (whispers)Imagine Professor Snape in your grandmother's clothes.
+I#unknown#HarryPotter.Episode03 open that wardrobe, here's what I want you to do... Excuse me... Imagine Professor Snape in your grandmother's clothes.
 remus_lupin Can you do that? Yes. Wand at the ready. One. Two. Three. Think, Neville. Think!
 neville_longbottom Riddikulus!
 others#unknown#HarryPotter.Episode03 Ha, ha, ha, ha, ha!
@@ -607,9 +607,9 @@ rubeus_hagrid No, I'm not sacked. Buckbeak's been sentenced ter death!
 ron_weasley Oh, ah- Spiders! T-there's spiders. Spiders. They want me to tap dance. I don' wanna tap dance.
 harry_potter You tell those spiders, Ron.
 ron_weasley Oh, yeah. T- t- tell them. I'll tell 'em... I'll tell 'em...
-madame_rosmerta (echo) Peter Pettigrew?
-professor_mcgonagall (echo) Little lump of a boy. Always trailing after Sirius Black...
-cornelius_fudge (echo) Black was vicious. He didn't kill Pettigrew. He destroyed him!
+madame_rosmerta  Peter Pettigrew?
+professor_mcgonagall  Little lump of a boy. Always trailing after Sirius Black...
+cornelius_fudge  Black was vicious. He didn't kill Pettigrew. He destroyed him!
 portrait_#1#unknown#HarryPotter.Episode03 Put that light out!
 harry_potter Sorry! Ah!
 portrait_#2#unknown#HarryPotter.Episode03 Watch it there, boy!
@@ -645,7 +645,7 @@ harry_potter Peter Pettigrew.
 remus_lupin That's not possible.
 harry_potter It's just what I saw... Good night, Professor.
 professor_sybil_trelawney Broaden your minds... You must look beyond... The art of crystal-gazing is in the clearing of the Inner Eye. Only then, can you see. Try again. Now, what do we have here...?
-ron_weasley (snoring)...Huh?
+ron_weasley ...Huh?
 hermione_granger Oh, ah- do you mind me trying?
 professor_sybil_trelawney Ah!
 hermione_granger The Grim. Possibly.
@@ -737,7 +737,6 @@ ron_weasley Aaah!
 harry_potter Come on! Move!
 hermione_granger Duck! Aaaaeee! Aeeeeee! Oh! Oh! Harry! Oh!
 harry_potter Aaah! Umph!
-Location#unknown#HarryPotter.Episode03 - Hogwarts – Whomping Willow – underground - dark
 hermione_granger Oh, I'm sorry!
 harry_potter Don't worry.
 hermione_granger Where do you suppose this goes?
@@ -869,7 +868,7 @@ ron_weasley It's Scabbers who did it!
 albus_dumbledore Scabbers...?
 ron_weasley He's my rat, sir. He's not really a rat. Well, he was a rat. He was my brother Percy's rat— but then they gave him an owl, and I got
 hermione_granger The point is... we know the truth. Please, believe us.
-albus_dumbledore I do, Miss Granger. But I'm sorry to say the word of three thirteen year-old wizards will convince few others. A child's voice, however honest and true, is meaningless to those who have forgotten how to listen. (bong, bong, bong, bong, bong, bong, bong, bong, bong, bong)
+albus_dumbledore I do, Miss Granger. But I'm sorry to say the word of three thirteen year-old wizards will convince few others. A child's voice, however honest and true, is meaningless to those who have forgotten how to listen. 
 albus_dumbledore A mysterious thing, time. Powerful. And, when meddled with... dangerous. Sirius Black is in the topmost cell of the Dark Tower. You know the laws, Miss Granger. You must not be seen. And you would do well, I feel, to return before this last chime. If not... the consequences are too ghastly to discuss. If you succeed tonight, more than one innocent life may be spared. Three turns should do it, I think. Oh, by the way, when in doubt, I find retracing my steps to be a wise place to begin... Good luck.
 ron_weasley What the bloody hell was all that all about?
 hermione_granger Sorry, Ron. But seeing as you can't walk...
@@ -879,89 +878,89 @@ harry_potter I dunno... going to Hagrid's?
 hermione_granger Come on! And we can't be seen!
 harry_potter Hermione!
 harry_potter Hermione! Hermione, wait! Hermione, will you please tell me what it is we're doing?
-draco_malfoy (past) Ah. Come to see the show?
-hermione_granger (past) You foul, loathsome, evil little cockroach!
+draco_malfoy  Ah. Come to see the show?
+hermione_granger  You foul, loathsome, evil little cockroach!
 harry_potter But that... that's us.
-ron_weasley (past) Hermione, no! He's not worth it!
+ron_weasley  Hermione, no! He's not worth it!
 harry_potter This is not normal!
 hermione_granger This is a Time-Turner, Harry. McGonagall gave it to me first term. This is how I've been getting to my lessons all year.
 harry_potter You mean, we've gone back in time?
 hermione_granger Yes. Dumbledore obviously wanted us to return to this moment. Clearly, something happened he wants us to change.
 harry_potter Good punch.
 hermione_granger Thanks. Malfoy's coming!
-other#unknown#HarryPotter.Episode03 (past) Come on, let's go! Run! Wait for me! Run!
-draco_malfoy (past) Not a word of this to anyone, understood!
-other#unknown#HarryPotter.Episode03 (past) Okay!
-draco_malfoy (past) I'm gonna get that jumped-up Mudblood! Mark my words...
-hermione_granger (past) That felt good!
-ron_weasley (past) Not good. Brilliant!
-harry_potter (past) Come on. We should be at Hagrid's.
+other#unknown#HarryPotter.Episode03  Come on, let's go! Run! Wait for me! Run!
+draco_malfoy  Not a word of this to anyone, understood!
+other#unknown#HarryPotter.Episode03  Okay!
+draco_malfoy  I'm gonna get that jumped-up Mudblood! Mark my words...
+hermione_granger  That felt good!
+ron_weasley  Not good. Brilliant!
+harry_potter  Come on. We should be at Hagrid's.
 harry_potter Look. Buckbeak's still alive.
 hermione_granger Of course! Remember what Dumbledore said. If we succeed, more than one innocent life could be spared. Let's go!
-rubeus_hagrid (past) ...Great man, Dumbledore, great man.
+rubeus_hagrid  ...Great man, Dumbledore, great man.
 harry_potter Here they come. I'd better hurry.
 hermione_granger Fudge has to see Buckbeak before we steal him. Otherwise, he'll think Hagrid set him free.
-ron_weasley (past) Scabbers! You're alive!
-rubeus_hagrid (past) Keep a closer eye on your pet...
+ron_weasley  Scabbers! You're alive!
+rubeus_hagrid  Keep a closer eye on your pet...
 harry_potter That's Pettigrew
 hermione_granger Harry! You can't!
 harry_potter Hermione, that's the man who betrayed my parents! You don't expect me to just sit here...
 hermione_granger Yes! You must! Harry, you're in Hagrid's hut now. If you just go bursting in, you'll think you've gone mad. Awful things happen to wizards who meddle with time, Harry. We can't be seen.
 hermione_granger Fudge is coming and... we aren't leaving... why aren't we leaving?
-albus_dumbledore (past) There are many changes I think on the grounds...
+albus_dumbledore  There are many changes I think on the grounds...
 harry_potter Are you mad?
-harry_potter (past) Ow!
+harry_potter  Ow!
 harry_potter That hurt.
 hermione_granger Sorry. C'mon. We're coming out the back door. Go!
-cornelius_fudge (past) 'It is the decision of the Committee for the Disposal of Dangerous Creatures that the Hippogriff Buckbeak, hereafter called the condemned, shall be executed this day at sundown...'
+cornelius_fudge  'It is the decision of the Committee for the Disposal of Dangerous Creatures that the Hippogriff Buckbeak, hereafter called the condemned, shall be executed this day at sundown...'
 hermione_granger Is that really what my hair looks like from the back?
 harry_potter Shhh!
-ron_weasley (past) Blimey.
-harry_potter (past) What?
-hermione_granger (past) Nothing, I just thought I saw... Never mind.
-ron_weasley (past) Let's go!
-cornelius_fudge (past) "The executioner shall dispatch the condemned..."
-albus_dumbledore (past) I really think the minister might feel it in his heart to have a change of heart...
+ron_weasley  Blimey.
+harry_potter  What?
+hermione_granger  Nothing, I just thought I saw... Never mind.
+ron_weasley  Let's go!
+cornelius_fudge  "The executioner shall dispatch the condemned..."
+albus_dumbledore  I really think the minister might feel it in his heart to have a change of heart...
 hermione_granger Okay, go, Harry! Go!
-cornelius_fudge (past) It seems the decision has been made, Dumbledore, nothing you nor I can do...
+cornelius_fudge  It seems the decision has been made, Dumbledore, nothing you nor I can do...
 harry_potter Get off! Get away! Get off!
-albus_dumbledore (past) Minister, do you really want to cut off the head of the hippogriff?
-cornelius_fudge (past) No, I do not.
+albus_dumbledore  Minister, do you really want to cut off the head of the hippogriff?
+cornelius_fudge  No, I do not.
 harry_potter C'mon, Buckbeak. Come on...
-cornelius_fudge (past) 'As witnessed below.' Sign, just here... You sign here, Hagrid. "The executioner, acting on behalf of the Committee..." Very well, gentlemen. Shall we step outside...
-albus_dumbledore (past) Ah, ah, Minister. I really think I should sign as well...
-cornelius_fudge (past) Yes, very well. Perhaps it would be a good thing if you...
+cornelius_fudge  'As witnessed below.' Sign, just here... You sign here, Hagrid. "The executioner, acting on behalf of the Committee..." Very well, gentlemen. Shall we step outside...
+albus_dumbledore  Ah, ah, Minister. I really think I should sign as well...
+cornelius_fudge  Yes, very well. Perhaps it would be a good thing if you...
 harry_potter Okay, Buckbeak. Come on quickly. Come with us, now. Come on!
 hermione_granger Keep trying. Come on! Quickly!
 harry_potter Buckbeak. Okay? Quickly. Hurry up. Okay?
-cornelius_fudge (past) ...right here on the line, your name only.
-albus_dumbledore (past) It is a very long name...
+cornelius_fudge  ...right here on the line, your name only.
+albus_dumbledore  It is a very long name...
 harry_potter Hurry up now, Buckbeak, okay?
 hermione_granger Come on. Come on, Buckbeak. Come and get the nice dead ferret... come on, it's here, come on Beaky.
-albus_dumbledore (past) Here we are Minister, follow me... now look there, see...
-cornelius_fudge (past) Where?
-albus_dumbledore (past) Look, beyond the rocks.
-cornelius_fudge (past) What am I supposed to see?
-albus_dumbledore (past) Professor Dippet had that ling planted when he was Headmaster...
-cornelius_fudge (past) Oh, yes, indeed, indeed.
-albus_dumbledore (past) And all the strawberries, you see...
-cornelius_fudge (past) Strawberries, I see no strawberries.
-albus_dumbledore (past) Over there.
-cornelius_fudge (past) Where?
-albus_dumbledore (past) Over there. Look.
+albus_dumbledore  Here we are Minister, follow me... now look there, see...
+cornelius_fudge  Where?
+albus_dumbledore  Look, beyond the rocks.
+cornelius_fudge  What am I supposed to see?
+albus_dumbledore  Professor Dippet had that ling planted when he was Headmaster...
+cornelius_fudge  Oh, yes, indeed, indeed.
+albus_dumbledore  And all the strawberries, you see...
+cornelius_fudge  Strawberries, I see no strawberries.
+albus_dumbledore  Over there.
+cornelius_fudge  Where?
+albus_dumbledore  Over there. Look.
 hermione_granger This way!
-cornelius_fudge (past) Well, let's get this over with, please.
-albus_dumbledore (past) All right.
-cornelius_fudge (past) But, where is it? I just saw the beast, just now – not a moment ago!
-albus_dumbledore (past) How extraordinary!
-rubeus_hagrid (past) Buckbeak?
-cornelius_fudge (past) Oh, come now, Dumbledore. Someone's obviously released him. Hagrid?
-rubeus_hagrid (past) Professor, I didn't!
-albus_dumbledore (past) I don't think the Minister's suggesting that you had anything to do with this, Hagrid. After all, how could you? Well, you've been with us all the time.
+cornelius_fudge  Well, let's get this over with, please.
+albus_dumbledore  All right.
+cornelius_fudge  But, where is it? I just saw the beast, just now – not a moment ago!
+albus_dumbledore  How extraordinary!
+rubeus_hagrid  Buckbeak?
+cornelius_fudge  Oh, come now, Dumbledore. Someone's obviously released him. Hagrid?
+rubeus_hagrid  Professor, I didn't!
+albus_dumbledore  I don't think the Minister's suggesting that you had anything to do with this, Hagrid. After all, how could you? Well, you've been with us all the time.
 rubeus_hagrid Well- right!
-cornelius_fudge (past) Well, well... We must search the grounds-
-albus_dumbledore (past) Well, search the skies if you must, Minister. Meanwhile, I'd like a nice cup of tea. Or... a large brandy. Oh, executioner, your services are no longer required. Thank you.
-rubeus_hagrid (past) You'll find no small glasses in this house, Professor, heh, heh.
+cornelius_fudge  Well, well... We must search the grounds-
+albus_dumbledore  Well, search the skies if you must, Minister. Meanwhile, I'd like a nice cup of tea. Or... a large brandy. Oh, executioner, your services are no longer required. Thank you.
+rubeus_hagrid  You'll find no small glasses in this house, Professor, heh, heh.
 hermione_granger Come on.
 harry_potter This way.
 hermione_granger Come on this way. Come on.
@@ -971,7 +970,7 @@ hermione_granger We save Sirius.
 harry_potter How?
 hermione_granger No idea.
 hermione_granger Look. It's Lupin.
-remus_lupin (past) Immobililus!
+remus_lupin  Immobililus!
 hermione_granger And Snape's coming.
 harry_potter And now we wait.
 hermione_granger And now we wait.
@@ -989,8 +988,8 @@ hermione_granger Uh-huh.
 harry_potter He's asking me to come live with him.
 hermione_granger That's great.
 harry_potter When we free him, I'll never have to go back to the Dursley's. It'll just be me and him. We could live in the country. Someplace you can see the sky. I think he'll like that after all those years in Azkaban.
-hermione_granger (past) Harry!
-sirius_black (past) Run! Run!
+hermione_granger  Harry!
+sirius_black  Run! Run!
 harry_potter Let's go!
 hermione_granger Ow-oooooh!
 harry_potter What are you doing?
@@ -1013,7 +1012,6 @@ harry_potter You were right, Hermione. It wasn't my dad I saw earlier. It was me
 hermione_granger No! But I don't like flying- aeee!
 harry_potter Whoo-hoo!
 hermione_granger Bombarda!
-Location#unknown#HarryPotter.Episode03 - Hogwarts – exterior - flying on Buckbeak - night
 sirius_black Ha-ha-ha! Ha, haa, ha, ha!
 harry_potter Whoo-hoo! Whoo-whoo-whoo-hoo! Whooo!
 sirius_black I'll be forever grateful for this... to both of you.
@@ -1025,9 +1023,8 @@ hermione_granger Down, Buckbeak.
 sirius_black I expect you're tired of hearing this... but you look so like your father. Except your eyes... you have
 harry_potter My mother's eyes.
 sirius_black It's cruel that I got to spend so much time with James and Lily, and you so little... But know this- the ones that love us never really leave us, and you can always find them... in here.
-sirius_black You really are the brightest witch of your age. (bong, bong, bong)
+sirius_black You really are the brightest witch of your age. 
 hermione_granger We have to go.
-(bong,#unknown#HarryPotter.Episode03 bong, bong)
 albus_dumbledore Well?
 harry_potter He's free- we did it.
 albus_dumbledore Did what? Good night.
