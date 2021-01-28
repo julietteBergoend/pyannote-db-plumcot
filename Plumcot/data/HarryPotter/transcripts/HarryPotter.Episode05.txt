@@ -81,13 +81,16 @@ not_available Rescuing you, of course.
 not_available But where are we going? The letter said I've been expelled.
 not_available You haven't been. Not yet.
 not_available Kingsley, you take point.
-not_available But the letter said...
-not_available Dumbledore persuaded the minister to suspend your expulsion... pending a formal hearing.
-not_available A hearing?
-not_available Don't worry. We'll explain everything when we get back to headquarters.
-not_available Not here, Nymphadora.
-not_available Don't call me Nymphadora.
-not_available Stay in formation, everyone. Don't break ranks if one of us is killed.
+harry_potter Where are we going? The letter said I had been expelled from Hogwarts.
+alastor_moody Well, you haven't been. Not yet. Kingsley, you take point.
+harry_potter But the letter said--
+kingsley_shacklebolt Dumbledore has persuaded the Minister to suspend your expulsion pending a formal hearing.
+harry_potter A hearing?
+kingsley_shacklebolt Uh-huh.
+nymphadora_tonks Don't worry, Harry. we'll explain everything when we get back to headquarters.
+alastor_moody Sshh! Not here, Nymphadora!
+nymphadora_tonks Don't- call me- Nymphadora!
+alastor_moody Stay in formation everyone. Don't break ranks if one of us is killed!
 not_available Come on, you, around the corner.
 not_available Come on.
 not_available In you go, son.
@@ -145,30 +148,20 @@ not_available Thought we heard your dulcet tones.
 not_available Don't bottle it up, though, mate. Let it out.
 not_available If you're all done shouting...
 not_available Do you wanna hear something a little more interesting?
-not_available If anyone has a right to know, it's Harry. If it wasn't for Harry... we wouldn't even know Voldemort was back.
-not_available He's not a child, Molly.
-not_available But he's not an adult either.
-not_available He's not James, Sirius.
-not_available Well, he's not your son.
-not_available He's as good as.
-not_available Who else has he got?
-not_available Hey, Ginny.
-not_available He's got me.
-not_available How touchingly paternal, Black.
-not_available Perhaps Potter will grow up to be a felon, just like his godfather.
-not_available Now, you stay out of this, Snivellus.
-not_available Snape's part of the Order?
-not_available Git.
-not_available ...about your supposed reformation.
-not_available I know better.
-not_available So why don't you tell him?
-not_available Get off it.
-not_available Quick.
-not_available Get it up.
-not_available Crookshanks.
-not_available Stop it.
-not_available Get off, you bloody cat.
-not_available Crookshanks. Leave it alone.
+sirius_black If anyone has a right to know, it's Harry. If it wasn't for him, we wouldn't even know Voldemort was back. He's not a child, Molly!
+molly_weasley He's not an adult either. He's not James, Sirius.
+sirius_black He's not your son.
+molly_weasley He's as good as. Who else has he got?
+harry_potter Hey, Ginny.
+sirius_black He's got me!
+professor_severus_snape How touching and paternal, Black. Perhaps Potter will grow up to be a felon, just like his godfather.
+sirius_black Now you stay out of this, Snivellus.
+harry_potter Snape's part of the Order?
+ron_weasley Git.
+sirius_black I don't care what Dumbledore says about your supposed reformation. I know better.
+professor_severus_snape Why don't you tell him? Or are you afraid he won't take serious the word of a man hiding in his mother's house?
+ron_weasley Hermione, I hate your cat.
+hermione_granger Bad Crookshanks! Leave it alone.
 not_available Get it up.
 not_available Hermione, I hate your cat.
 not_available Bad Crookshanks.
@@ -179,32 +172,20 @@ not_available You hungry, Harry?
 not_available You sure you're all right, Harry? Gave us quite a turn.
 not_available Harry Potter.
 not_available Sirius.
-not_available This is very, very peculiar.
-not_available It seems your hearing in the Ministry is to be before the entire Wizengamot.
-not_available I don't understand. What has the Ministry of Magic got against me?
-not_available Show him. He'll find out soon enough.
-not_available He's been attacking Dumbledore as well.
-not_available Fudge is using all his power, including his influence at the Daily Prophet... to smear anyone who claims the Dark Lord has returned.
-not_available Why?
-not_available He thinks Dumbledore's after his job.
-not_available No one in their right mind could believe that...
-not_available Exactly the point. Fudge isn't in his right mind.
-not_available It's been twisted and warped by fear.
-not_available Now, fear makes people do terrible things, Harry.
-not_available The last time Voldemort gained power... he almost destroyed everything we hold most dear.
-not_available Now he's returned, and I'm afraid the minister will do almost anything... to avoid facing that terrifying truth.
-not_available We think Voldemort wants to build up his army again.
-not_available Fourteen years ago, he had huge numbers at his command.
-not_available And not just witches and wizards, but all manner of dark creatures.
-not_available He's been recruiting heavily, and we've been attempting to do the same.
-not_available But gathering followers isn't the only thing he's interested in.
-not_available We believe... Voldemort may be after something.
-not_available Sirius.
-not_available Something he didn't have last time.
-not_available You mean like a weapon?
-not_available No. That's enough. He's just a boy.
-not_available You say more and you might as well induct him into the Order.
-not_available Good. I want to join. If Voldemort's raising an army, then I want to fight.
+arthur_weasley This is very, very peculiar. It seems that your hearing at the Minstry is to be before the entire Wizengamot.
+harry_potter I don't understand, what's the Ministry of Magic got against me?
+alastor_moody Show him. He'll find out soon enough.
+sirius_black He's been attacking Dumbledore as well. Fudge is using all his power, including his influence at the Daily Prophet, to smear anyone who claims the Dark Lord has returned.
+harry_potter Why?
+remus_lupin The Minister thinks Dumbledore's after his job.
+harry_potter But that's insane. No one in their right mind could believe that Dumbledore--
+remus_lupin Exactly the point. Fudge isn't in his right mind. It's been twisted and warped by fear. Now, fear makes people do terrible things, Harry. The last time Voldemort gained power, he almost destroyed everything we hold most dear. Now he's returned and I'm afraid the Minister will do almost anything to avoid facing that terrifying truth.
+sirius_black We think Voldemort wants to build up his army again. Fourteen years ago he had huge numbers at his command, not only witches and wizards but all sorts of dark creatures. He's been recruiting heavily and we've been attempting to do the same. But gathering followers isn't the only thing he's interested in. We believe Voldemort may be after something else--
+alastor_moody Sirius--
+sirius_black Something he didn't have last time.
+harry_potter You mean, a weapon?
+molly_weasley No! That's enough! He's just a boy! You tell him much more and you might as well induct him in the Order straight away!
+harry_potter Good! I want to join! If Voldemort's raising an army, then I want to fight!
 not_available Harry.
 not_available You are hereby expelled.
 not_available Before the entire Wizengamot.
@@ -235,56 +216,34 @@ not_available I'm not allowed in, I'm afraid.
 not_available Good luck, Harry.
 not_available Disciplinary hearing of the 12th of August... into offenses committed by Harry James Potter... resident at Number 4 Privet Drive, Little Whinging, Surrey.
 Interrogators Cornelius Oswald Fudge, Minister of Mag...
-not_available Witness for the defense.
-not_available Albus Percival Wulfric... Brian Dumbledore.
-not_available You got our message that the time and place of the hearing... had been changed, did you?
-not_available I must have missed it.
-not_available But by a happy mistake, I arrived at the Ministry three hours early.
-not_available The charges?
-not_available The charges against the accused are as follows:
-not_available "That he did knowingly... and in full awareness of the illegality of his actions... produce a Patronus Charm... in the presence of a Muggle."
-not_available Do you deny producing said Patronus?
-not_available No, but...
-not_available And you were aware that you were forbidden to use magic outside school... while under the age of 17?
-not_available Yes, I was, but...
-not_available Witches and wizards of the Wizengamot...
-not_available I was only doing it because of the Dementors.
-not_available Dementors?
-not_available In Little Whinging?
-not_available That's quite clever.
-not_available Muggles can't see Dementors, can they, boy?
-not_available Highly convenient.
-not_available I'm not lying.
-not_available There were two of them, and if I hadn't...
-not_available Enough.
-not_available I'm sorry to interrupt what I'm sure would have been a very well
-not_available rehearsed story... but since you can produce no witnesses of the event...
-not_available Pardon me, minister, but as it happens, we can.
-not_available Please describe the attack.
-not_available What did they look like?
-not_available Well, one of them was very large and the other rather skinny.
-not_available Not the boys. The Dementors.
-not_available Oh, right, right. Well, big.
-not_available Cloaked. Then everything went cold... as though all the happiness had gone from the world.
-not_available Now, look here. Dementors don't just wander into a Muggle suburb... and happen across a wizard.
-not_available The odds are astronomical.
-not_available I don't think anyone would believe... the Dementors were there by coincidence, minister.
-not_available I'm sure I must have misunderstood you, professor.
-not_available Dementors are, after all, under the control of the Ministry of Magic.
-not_available And it's so silly of me, but it sounded for a moment as though... you were suggesting that the Ministry had ordered the attack on this boy.
-not_available That would be disturbing indeed, Madam Undersecretary... which is why I'm sure the Ministry will be mounting a full
-not_available scale inquiry... into why the two Dementors were so very far from Azkaban... and why they mounted an attack without authorization.
-not_available Of course, there is someone... who might be behind the attack.
-not_available Cornelius, I implore you to see reason.
-not_available The evidence that the Dark Lord has returned is incontrovertible.
-not_available He is not back.
-not_available In the matter of Harry Potter... the law clearly states... that magic may be used before Muggles in life
-not_available threatening situations.
-not_available Laws can be changed if necessary, Dumbledore.
-not_available Clearly. Has it become practice to hold a full criminal trial... to deal with a simple matter of underage magic?
-not_available Those in favor of conviction?
-not_available Those in favor of clearing the accused of all charges?
-not_available Cleared of all charges.
+albus_dumbledore Witness for the defense, Albus Percival Wulfric... Brian... Dumbledore.
+cornelius_fudge You, you got our message that the time and place of the hearing had been changed, did you?
+albus_dumbledore I must have missed it. But by a happy mistake, I arrived at the Ministry three hours early. The charges?
+cornelius_fudge The charges against the accused are as follows; that he did knowingly and in full awareness of the illegality of his actions, produced a Patronus charm in the presence of a Muggle. Do you deny producing said Patronus?
+harry_potter No, I--
+cornelius_fudge And you were aware that you were forbidden to use magic outside school while under the age of seventeen?
+harry_potter Yes, but--
+cornelius_fudge Witches and wizards of the Wizengamot--
+harry_potter I was only doing it because of the Dementors!
+amelia_bones Dementors? In Little Whinging?
+cornelius_fudge That's quite clever. Muggles can't see Dementors, can they boy? Highly convenient.
+harry_potter I'm not lying! There were two of them and if I hadn't--
+cornelius_fudge Enough! I'm sorry to interrupt what I'm sure would have been a very well rehearsed story, but since you can produce no witnesses of the event--
+albus_dumbledore Pardon me Minister, but as it happens, we can.
+amelia_bones Please describe the attack. What did they look like?
+mrs_arabella_figg Well one of them was very large, and the other rather skinny.
+cornelius_fudge Not the boys, the Dementors!
+mrs_arabella_figg Alright, right, well um, big. Cloaked. Then everything went cold, as though all the happiness had gone from the world.
+cornelius_fudge Now look here, Dementors don't just wander into a Muggle suburb and happen across a wizard, the odds are astronomical.
+albus_dumbledore I don't think anyone would believe the Dementors were there by coincidence, Minister.
+dolores_umbridge I'm sure I must have misunderstood you, Professor. Dementors are after all under the control of the Ministry of Magic. So silly of me but it sounded, for a moment, as though you were suggesting that the Ministry had ordered the attack on this boy.
+albus_dumbledore That would be disturbing indeed, Madame Undersecretary, which is why I'm sure the Ministry will be mounting a full-scale inquiry into why the two Dementors were so far away from Azkaban and why they mounted an attack without authorization. Of course, there is someone who might be behind the attack. Cornelius, I implore you to see reason. The evidence of the Dark Lord's return is incontrovertible.
+cornelius_fudge He's not back!
+albus_dumbledore In the matter of Harry Potter, the law clearly states that magic may be used before Muggles in life-threatening situations.
+cornelius_fudge Laws can be changed if necessary, Dumbledore!
+albus_dumbledore Clearly, it has become practice to hold a full criminal trial to deal with a simple matter of under-age magic.
+amelia_bones Those in favor of conviction? Those in favor of clearing the accused of all charges?
+cornelius_fudge Cleared of all charges.
 not_available Professor.
 not_available Padfoot. Are you barking mad?
 not_available You'll blow the entire operation.
@@ -325,13 +284,11 @@ not_available Hi, guys.
 not_available Hey, Neville.
 not_available Hey there, Neville.
 not_available What is it?
-not_available What's what?
-not_available That. Pulling the carriage.
-not_available Nothing's pulling the carriage, Harry.
-not_available It's pulling itself, like always.
-not_available You're not going mad.
-not_available I can see them too.
-not_available You're just as sane as I am.
+harry_potter What is it?
+ron_weasley What's what?
+harry_potter That. Pulling the carriage.
+hermione_granger Nothing's pulling the carriage, Harry. It's pulling itself like always.
+luna_lovegood You're not going mad. I see them too. You're just as sane as I am.
 not_available Everyone, this is Loony Love...
 not_available Luna Lovegood.
 not_available What an interesting necklace.
@@ -350,45 +307,31 @@ not_available And I'm sure you'll all join me in wishing the professor good luck
 not_available Now, as usual, our caretaker, Mr.
 not_available Filch, has asked me to remind you...
 not_available She was at my hearing. She works for Fudge.
-not_available Thank you, headmaster, for those kind words of welcome.
-not_available And how lovely to see all your bright... happy faces smiling up at me.
-not_available I'm sure we're all going to be very good friends.
-not_available That's likely.
-not_available That's likely.
-not_available The Ministry of Magic has always considered... the education of young witches and wizards to be of vital importance.
-not_available Although each headmaster... has brought something new to this historic school... progress for the sake of progress must be discouraged.
-not_available Let us preserve what must be preserved... perfect what can be perfected... and prune practices that ought to be prohibited.
-not_available Thank you, Professor Umbridge.
-not_available That really was most illuminating.
-not_available Illuminating? What a load of waffle.
+dolores_umbridge Thank you, Headmaster, for those kind words of welcome. And how lovely to see all your bright happy faces smiling up at me. I'm sure we're all going to be very good friends.
+fred_weasley@george_weasley That's likely.
+dolores_umbridge The Ministry of Magic has always considered the education of young witches and wizard of vital importance. Although each Headmaster has brought something new to this historic school... progress for the sake of progress must be discouraged. Let us preserve what must be preserved, perfect what can be perfected and prune practices that ought to be prohibited.
+albus_dumbledore Thank you Professor Umbridge, that really was most illuminating.
+ron_weasley Illuminating? What a load o' waffle!
 not_available What's it mean?
 not_available Magic is forbidden in the corridors...
 not_available It means the Ministry's interfering at Hogwarts.
-not_available Dean, Seamus.
-not_available Good holiday?
-not_available All right.
-not_available Better than Seamus', anyway.
-not_available Me mum didn't want me to come back this year.
-not_available Why not?
-not_available Let me see. Because of you.
-not_available The Daily Prophet's been saying a lot of things about you and Dumbledore.
-not_available What, your mum believes them?
-not_available Nobody was there the night Cedric died.
-not_available I guess you should read the Prophet, then, like your stupid mother.
-not_available Don't talk about my mother.
-not_available I'll have a go at anyone that calls me a liar.
-not_available What's going on?
-not_available He's mad, is what's going on.
-not_available Do you believe the rubbish he's come out with about YouKnow
-not_available Who?
-not_available Yeah. I do.
-not_available Has anyone else got a problem with Harry?
-not_available You all right?
-not_available Fine.
-not_available Seamus was bang out of order, mate.
-not_available But he'll come through, you'll see.
-not_available I said, I'm fine, Ron.
-not_available Right. I'll just leave you to your thoughts, then.
+harry_potter Dean, Seamus, good holiday?
+dean_thomas Alright, better than Seamus' anyway.
+seamus_finnigan Me mam didn't want me to come back this year.
+harry_potter Why not?
+seamus_finnigan Let me see, eh, because of you! The Daily Prophet's been sayin’ a lot of things about ya, Harry. And about Dumbledore as well.
+harry_potter What, your mum believes them?
+seamus_finnigan Well, nobody was there the night Cedric died.
+harry_potter Oh, well, I guess you should read the Prophet then, like your stupid mother, it'll tell you everything you need to know!
+seamus_finnigan Don't you dare talk about my mother like that!
+harry_potter I'll have a go at anyone that calls me a liar!
+ron_weasley What's going on?
+seamus_finnigan He's mad, is what's goin’ on! Do you believe the rubbish he's comin’ out with about You-Know-Who?
+ron_weasley Yeah, I do. Has anyone else got a problem with Harry? You alright?
+harry_potter Fine.
+ron_weasley Seamus was bang out of order, mate. But he'll come through. You'll see--
+harry_potter I said I'm fine, Ron!
+ron_weasley Right. I'll just leave you to your thoughts then.
 not_available Harry.
 not_available Bring it over here. Over here.
 not_available Oh, go on, Seamus. Go on, get it.
@@ -399,34 +342,23 @@ not_available Ls.
 not_available More commonly known as OWLs.
 not_available Study hard and you will be rewarded.
 not_available Fail to do so, and the consequences may be severe.
-not_available Your previous instruction in this subject has been disturbingly uneven.
-not_available But you'll be pleased to know, from now on... you will be following a carefully structured, Ministry
-not_available approved... course of defensive magic. Yes?
-not_available There's nothing in here about using defensive spells?
-not_available Using spells?
-not_available Well, I can't imagine why you would need to use spells in my classroom.
-not_available We're not gonna use magic?
-not_available You'll be learning about defensive spells in a secure, risk
-not_available free way.
-not_available What use is that? If we're attacked, it won't be risk
-not_available free.
-not_available Students will raise their hands when they speak in my class.
-not_available It is the view of the Ministry... that a theoretical knowledge will be sufficient... to get you through your examinations... which, after all, is what school is all about.
-not_available And how's theory supposed to prepare us for what's out there?
-not_available There is nothing out there, dear.
-not_available Who do you imagine wants to attack children like yourself?
-not_available Oh, I don't know. Maybe Lord Voldemort.
-not_available Now, let me make this quite plain.
-not_available You have been told... that a certain dark wizard is at large once again.
-not_available This is a lie.
-not_available It's not a lie. I saw him. I fought him.
-not_available Detention, Mr. Potter.
-not_available Cedric Diggory dropped dead of his own accord?
-not_available Cedric Diggory's death was a tragic accident.
-not_available It was murder. Voldemort killed him.
-not_available Enough!
-not_available Enough.
-not_available See me later, Mr. Potter. My office.
+dolores_umbridge Your previous instruction for this subject has been disturbingly uneven. But you will be pleased to know, from now on you will be following a carefully structured, Ministry-approved course of defensive magic. Yes?
+hermione_granger There's nothing in here about using defensive spells.
+dolores_umbridge Using spells? Why I can't imagine why you would need to use spells in my classroom.
+ron_weasley We're not gonna use magic?
+dolores_umbridge You'll be learning about defensive spells in a secure risk-free way.
+harry_potter Well, what use is that? If we're gonna be attacked, it won't be risk-free.
+dolores_umbridge Students will raise their hands when they speak in my class. It is the view of the Ministry that a theoretical knowledge will be sufficient to get you through your examinations, which after all is what school is all about!
+harry_potter And how’s theory supposed to prepare us for what's out there?
+dolores_umbridge There is nothing out there, dear. Who would you imagine would want to attack children like yourself?
+harry_potter Oh, I don't know, maybe Lord Voldemort!
+dolores_umbridge Now let me make this quite plain. You have been told that a certain Dark Wizard is at large once again. This... is... a... lie!
+harry_potter It's not a lie! I saw him! I fought him!
+dolores_umbridge DETENTION, Mr. Potter!
+harry_potter So according to you, Cedric Diggory dropped dead of his own accord.
+dolores_umbridge Cedric Diggory's death was a tragic accident.
+harry_potter It was murder! Voldemort killed him! You must know!
+dolores_umbridge ENOUGH! Enough. See me later, Mr. Potter. My office.
 not_available Come in.
 not_available Good evening, Mr. Potter.
 not_available Sit.
@@ -455,22 +387,15 @@ not_available I'll do the introduction. That's all.
 not_available Hermione, you're honestly the most wonderful person I've ever met.
 not_available And if I'm ever rude to you again...
 not_available I'll know you've gone back to normal.
-not_available What's wrong with your hand?
-not_available Nothing.
-not_available The other hand.
-not_available You've got to tell Dumbledore.
-not_available No.
-not_available Dumbledore's got enough on his mind right now.
-not_available I don't want to give Umbridge the satisfaction.
-not_available Bloody hell, Harry. The woman's torturing you.
-not_available If the parents knew about this...
-not_available I haven't got any of those, have I, Ron?
-not_available Harry, you've got to report this.
-not_available It's perfectly simple. You're being...
-not_available No, it's not.
-not_available Hermione, whatever this is, it's not simple.
-not_available You don't understand.
-not_available Then help us to.
+hermione_granger What's wrong with your hand?
+harry_potter Nothing.
+hermione_granger Your other hand. You've got to tell Dumbledore!
+harry_potter No. Dumbledore's got enough on his mind right now. Anyway, I don't want to give Umbridge the satisfaction.
+ron_weasley Bloody hell, Harry, the woman's torturing you! If the parents knew about this-!
+harry_potter Yeah, well, I haven't got any of those, have I, Ron?
+hermione_granger Harry, you've got to report this. It's perfectly simple - you're being-
+harry_potter No, it's not. Hermione, whatever this, it's not simple. You don't understand.
+hermione_granger Then help us to.
 not_available Dear Padfoot... I hope you're all right.
 not_available It's starting to get colder here.
 not_available Winter is definitely on the way.
@@ -485,46 +410,35 @@ not_available What are they?
 not_available They're called Thestrals.
 not_available They're quite gentle, really, but people avoid them because they're a bit...
 not_available Different.
-not_available But why can't the others see them?
-not_available They can only be seen by people who've seen death.
-not_available So you've known someone who's died, then?
-not_available My mum.
-not_available She was quite an extraordinary witch, but she did like to experiment... and one day, one of her spells went badly wrong.
-not_available I was 9.
-not_available I'm sorry.
-not_available Yes, it was rather horrible.
-not_available I do feel very sad about it sometimes, but I've got Dad.
-not_available We both believe you, by the way.
-not_available That HeWhoMustNotBe
-not_available Named is back, and you fought him... and the Ministry and the Prophet are conspiring against you.
-not_available Thanks. It seems you're about the only ones that do.
-not_available I don't think that's true.
-not_available But I suppose that's how he wants you to feel.
-not_available What do you mean?
-not_available Well, if I were YouKnow
-not_available Who... I'd want you to feel cut off from everyone else... because if it's just you alone... you're not as much of a threat.
+harry_potter So why can't the others see them?
+luna_lovegood They can only be seen by people who've seen death.
+harry_potter So... you've known someone who's died?
+luna_lovegood My mum. She was quite an extraordinary witch, but she did like to experiment, and one day one of her spells went badly wrong. I was nine.
+harry_potter I'm sorry.
+luna_lovegood Yes, it was rather horrible. I do feel very sad about it sometimes. But I've got Dad. We both believe you, by the way. That He-Who-Must-Not-Be-Named is back and you fought him and the Ministry and the Prophet are conspiring against you and Dumbledore.
+harry_potter Thanks. It seems you're about the only ones that do.
+luna_lovegood I don't think that's true. But I suppose that's how he wants you to feel.
+harry_potter What do you mean?
+luna_lovegood Well, if I were You-Know-Who, I'd want you to feel cut off from everyone else. Because if it's just you alone, you're not as much of a threat.
 not_available Do you ever stop eating?
 not_available What? I'm hungry.
 not_available Harry.
 not_available Can I join you?
-not_available Pardon me, professor, but what exactly are you insinuating?
-not_available I am merely requesting that when it comes to my students... you conform to the prescribed disciplinary practices.
-not_available So silly of me, but it sounds... as if you're questioning my authority in my own classroom... Minerva.
-not_available Not at all, Dolores, merely your medieval methods.
-not_available I am sorry, dear.
-not_available But to question my practices is to question the Ministry... and by extension, the minister himself.
-not_available I am a tolerant woman... but the one thing I will not stand for is disloyalty.
-not_available Disloyalty.
-not_available Things at Hogwarts are far worse than I feared.
-not_available Cornelius will want to take immediate action.
+dolores_umbridge Pardon me, professor, but what exactly are you insinuating?
+professor_minerva_mcgonagall I am merely requesting that when it comes to my students, you conform to the prescribed disciplinary practices.
+dolores_umbridge So silly of me but it sounds as if you're questioning my authority in my own classroom, Minerva.
+professor_minerva_mcgonagall Not at all, Dolores. Merely your medieval methods.
+dolores_umbridge I am sorry dear, but to question my practices is to question the Ministry and, by extension, the Minister himself. I am a tolerant woman, but the one thing I will not stand for is disloyalty.
+professor_minerva_mcgonagall Disloyalty?
+dolores_umbridge Things at Hogwarts are far worse than I feared. Cornelius will want to take immediate action.
 not_available What's happened to Dumbledore?
 not_available Having already revolutionized... the teaching of Defense Against the Dark Arts... Dolores Umbridge will, as high inquisitor, have powers... to address the seriously falling standards at Hogwarts School.
 not_available Just one question, dear.
 not_available You've been in this post how long, exactly?
-not_available You applied first for the Defense Against the Dark Arts post, is that correct?
-not_available Yes.
-not_available But you were unsuccessful?
-not_available Obviously.
+dolores_umbridge So, you applied first for the Defense Against the Dark Arts post, is that correct?
+professor_severus_snape Yes.
+dolores_umbridge But you were unsuccessful?
+professor_severus_snape Obviously.
 not_available Could you please predict something for me?
 not_available I'm sorry?
 not_available Move those mouths.
@@ -536,21 +450,16 @@ not_available You are in grave danger.
 not_available Lovely.
 not_available Cho. What's going on?
 not_available It's Professor Trelawney.
-not_available Sixteen years I've lived and taught here.
-not_available Hogwarts is my home.
-not_available You can't do this.
-not_available Actually, I can.
-not_available Something you'd like to say?
-not_available Oh, there are several things I would like to say.
-not_available There...
-not_available Professor McGonagall, might I ask you to escort Sybil back inside?
-not_available Sybil, dear. This way.
-not_available Thank you.
-not_available Dumbledore, may I remind you that under the terms... of Educational Decree Number You have the right to dismiss my teachers.
-not_available You do not, however, have the authority to banish them from the grounds.
-not_available That power remains with the headmaster.
-not_available For now.
-not_available Don't you all have studying to do?
+professor_sybil_trelawney Sixteen years I've lived and taught here! Hogwarts is my home! You can't do this!
+dolores_umbridge Actually, I can. Something you'd like to say, dear?
+professor_minerva_mcgonagall Oh, there are several things I would like to say!
+albus_dumbledore Professor McGonagall, might I ask you to escort Sybil back inside?
+professor_minerva_mcgonagall Sybil, dear, this way...
+professor_sybil_trelawney Oh, thank you! Thank you!
+dolores_umbridge Dumbledore, may I remind you that under the terms of Educational Decree #23, as enacted by the Minister...
+albus_dumbledore You have the right to dismiss my teachers. You do not, however, have the authority to banish them from the grounds - That power remains with the headmaster.
+dolores_umbridge For now.
+albus_dumbledore Don't you all have studying to do?
 not_available Professor.
 not_available Professor?
 not_available Professor Dumbledore. Professor!
@@ -598,53 +507,36 @@ not_available Just a couple of people.
 not_available Lovely spot.
 not_available Thought it would be safer off the beaten track.
 not_available Matey, come back here.
-not_available Hi.
-not_available So you all know why we're here.
-not_available We need a teacher.
-not_available A proper teacher.
-not_available One who's had experience defending themselves against the Dark Arts.
-not_available Why?
-not_available Why?
-not_available Because YouKnow
-not_available Who's back, you tosspot.
-not_available So he says.
-not_available So Dumbledore says.
-not_available So Dumbledore says because he says.
-not_available The point is, where's the proof?
-not_available If Potter could tell us more about how Diggory got killed...
-not_available I'm not gonna talk about Cedric, so if that's why you're here, clear out now.
-not_available Come on, Hermione. They're here because they think I'm some sort of freak.
-not_available Is it true you can produce a Patronus Charm?
-not_available Yes.
-not_available I've seen it.
-not_available Blimey, Harry. I didn't know you could do that.
-not_available And he killed a basilisk, with the sword in Dumbledore's office.
-not_available It's true.
-not_available Third year, he fought off about a hundred Dementors at once.
-not_available Last year, he really did fight off YouKnow
-not_available Who in the flesh.
-not_available Wait.
-not_available Look, it all sounds great when you say it like that... but the truth is, most of that was just luck.
-not_available I didn't know what I was doing half the time. I nearly always had help.
-not_available He's just being modest.
-not_available No, Hermione, I'm not.
-not_available Facing this stuff in real life is not like school.
-not_available In school, if you make a mistake, you can just try again tomorrow.
-not_available But out there... when you're a second away from being murdered... or watching a friend die right before your eyes...
-not_available You don't know what that's like.
-not_available You're right, Harry, we don't.
-not_available That's why we need your help.
-not_available Because if we're going to have any chance at beating... Voldemort...
-not_available He's really back.
-not_available Right. First we need to find a place to practice... where Umbridge won't find out.
-not_available The Shrieking Shack.
-not_available It's too small.
-not_available Forbidden Forest?
-not_available Not bloody likely.
-not_available Harry, what happens if Umbridge does find out?
-not_available Who cares?
-not_available I mean, it's sort of exciting, isn't it, breaking the rules?
-not_available Who are you and what have you done with Hermione?
+hermione_granger Um... Hi! You all know why we're here. We need a teacher. A proper teacher. One who's had real experience defending themselves against the Dark Arts.
+somewhat_doubtful_boy_ Why?
+ron_weasley Why. Because You-Know-Who's back, you tosspot.
+somewhat_doubtful_boy_ So he says.
+hermione_granger So Dumbledore says.
+somewhat_doubtful_boy_ So Dumbledore says because he says! The point is, where's the proof?
+somewhat_doubtful_boy_ If Potter could tell us more about how Diggory got killed...
+harry_potter I'm not going to talk about Cedric, so if that's why you're here you might as well clear out now. C'mon, Hermione, let's go. They're just here because they think I'm some sort of freak.
+hermione_granger Harry, wait!
+luna_lovegood Is it true you can produce a Patronus charm?
+hermione_granger Yes. I've seen it.
+dean_thomas Blimey, Harry! I didn't know you could do that!
+neville_longbottom And he killed a basilisk, with the sword in Dumbledore's office.
+ginny_weasley It's true.
+ron_weasley Third year he fought off about a hundred dementors at once.
+hermione_granger And last year he really did fight off You-Know-Who in the flesh.
+harry_potter Wait... look, it all sounds great when you say it like that. But the truth is most of that was just luck. I didn't know what I was doing half the time, I nearly always had help...
+hermione_granger He's just being modest.
+harry_potter No, Hermione, I'm not! Facing this stuff in real life is not like school. In school, if you make a mistake you can just try again tomorrow. But out there, when you're a second away from being murdered or watching a friend die right before your eyes... you don't know what that's like.
+hermione_granger You're right, Harry, we don't. That's why we need your help. Because if we're having any chance against beating... Voldemort.
+nigel He's really back?
+harry_potter Right. 
+harry_potter First we need to find a place to practice where Umbridge won't find out.
+ginny_weasley The Shrieking Shack?
+harry_potter It's too small.
+hermione_granger Forbidden Forest?
+ron_weasley Not bloody likely!
+ginny_weasley Harry? What happens if Umbridge does find out?
+hermione_granger Who cares? I mean, sort of exciting, isn't it, breaking the rules?
+ron_weasley Who are you, and what have you done with Hermione ?
 not_available Anyway, at least we know one positive thing that came from today.
 not_available What's that?
 not_available Cho couldn't take her eyes off you, could she?
@@ -654,14 +546,12 @@ not_available Will do, Harry.
 not_available All student organizations are henceforth disbanded.
 not_available Any student in noncompliance will be expelled.
 not_available Watch where you're going, Longbottom.
-not_available You've done it, Neville. You found the Room of Requirement.
-not_available The what?
-not_available It's also known as the Come and Go Room.
-not_available The Room of Requirement only appears when a person has real need of it.
-not_available And it's always equipped for the seeker's needs.
-not_available So say you really needed the toilet...
-not_available Charming, Ronald. But, yes, that is the general idea.
-not_available It's brilliant. It's like Hogwarts wants us to fight back.
+hermione_granger You've done it, Neville. You found the Room of Requirement.
+ron_weasley The what?
+hermione_granger It's also known as the Come and Go Room. The Room of Requirement only appears when a person has real need of it, and is always equipped for the seeker's needs.
+ron_weasley So, say you really needed the toilet...?
+hermione_granger Charming, Ronald. But yes, that's the idea.
+harry_potter It's brilliant! It's like Hogwarts wants us to fight back.
 not_available Expelliarmus.
 not_available I'm hopeless.
 not_available You're just flourishing your wand too much. Try it like this. Expelliarmus.
@@ -676,17 +566,12 @@ not_available So come on, then, Nigel.
 not_available Give it your best shot.
 not_available Stupefy!
 not_available Good. Not bad at all, Nigel. Well done.
-not_available Don't worry. I'll go easy on you.
-not_available Thanks, Ronald.
-not_available Come on, Ron.
-not_available Come on, Ron.
-not_available You can do it.
-not_available Come on, Ron.
-not_available One Sickle.
-not_available You're on.
-not_available Stupefy.
-not_available Thank you.
-not_available Shut up.
+ron_weasley Don't worry, I'll go easy on you.
+hermione_granger Thanks, Ronald.
+fred_weasley One Sickle.
+george_weasley You're on.
+fred_weasley Thank you.
+george_weasley Shut up.
 not_available I let her do that. It's good manners, isn't it?
 not_available It was completely intentional.
 not_available Up you come. Would you like a cup of tea?
@@ -740,65 +625,39 @@ not_available We could always slip Umbridge some Puking Pastilles.
 not_available Or Fever Fudge. They give you massive, pus
 not_available filled boils...
 not_available Sounds great, guys. Would you excuse me?
-not_available Are you all right? I heard Umbridge gave you a rough time the other day.
-not_available Yeah. I'm okay.
-not_available Anyway, it's worth it.
-not_available It's just, learning all this... makes me wonder whether, if he'd known it...
-not_available Cedric did know this stuff.
-not_available He was really good.
-not_available It's just, Voldemort was better.
-not_available You're a really good teacher, Harry.
-not_available I've never been able to stun anything before.
-not_available Mistletoe.
-not_available Probably full of Nargles, though.
-not_available What are Nargles?
-not_available No idea.
-not_available Well, how was it?
-not_available Wet.
-not_available I mean, she was sort of crying.
-not_available That bad at it, are you?
-not_available I'm sure Harry's kissing was more than satisfactory.
-not_available Cho spends half her time crying these days.
-not_available You'd think a bit of snogging would cheer her up.
-not_available Don't you understand how she must be feeling?
-not_available Well, obviously she's feeling sad about Cedric... and confused about liking Harry and guilty about kissing him... conflicted because Umbridge might sack her mum from the Ministry... and frightened of failing her OWLs because she's worrying about everything.
-not_available One person couldn't feel all that. They'd explode.
-not_available Just because you've got the emotional range of a teaspoon...
+harry_potter Are you alright? I heard Umbridge gave you a rough time the other day.
+cho_chang Yeah, I'm okay. Anyway, it's worth it. It's just, just learning all this. Makes me wonder whether if he'd known it...
+harry_potter Cedric, Cedric did know this stuff. He was really good. It's just, Voldemort was better.
+cho_chang You're a really good teacher, Harry. I've never been able to stun anything before. Mistletoe.
+harry_potter Probably full of Nargles, though.
+cho_chang What are Nargles?
+harry_potter No idea.
+hermione_granger Well, how was it?
+harry_potter Wet. Well, she was sort of... crying.
+ron_weasley That bad at it, are you?
+hermione_granger I'm sure Harry's kissing is more than satisfactory. Cho spends half her time crying these days.
+ron_weasley Think a bit of snogging would cheer her up.
+hermione_granger Don't you understand how she must be feeling? Well, obviously she's feeling sad about Cedric, and therefore confused about liking Harry and guilty about kissing him. Conflicted because Umbridge is threatening to sack her mother from her job at the Ministry and frightened of failing her O.W.L.'s because she's so busy worrying about everything else.
+ron_weasley One person couldn't feel all that, they'd explode!
+hermione_granger Just because you've got the emotional range of a teaspoon... 
 not_available Harry.
 not_available Voldemort may be after something.
 not_available Something he didn't have last time.
 not_available Harry.
 not_available Harry.
-not_available In the dream, were you standing next to the victim... or looking down at the scene?
-not_available Neither. It was like I...
-not_available Will you please just tell me what's happening?
-not_available Everard, Arthur's on guard duty tonight.
-not_available Make sure he's found by the right people.
-not_available Sir.
-not_available Phineas.
-not_available You must go to your portrait at Grimmauld Place.
-not_available Tell them that Arthur Weasley is gravely injured... and his children will be arriving there soon by Portkey.
-not_available They've got him, Albus. It was close, but they think he'll make it.
-not_available What's more, the Dark Lord failed to acquire it.
-not_available Oh, thank goodness. Next we need to...
-not_available Look at me!
-not_available What's happening to me?
-not_available You wished to see me, headmaster?
-not_available Oh, Severus. I'm afraid we can't wait. Not even till the morning.
-not_available Otherwise, we'll all be vulnerable.
-not_available It appears there's a connection... between the Dark Lord's mind and your own.
-not_available Whether he is, as yet, aware of this connection is, for the moment, unclear.
-not_available Pray he remains ignorant.
-not_available You mean, if he knows about it, then... he'll be able to read my mind?
-not_available Read it, control it... unhinge it.
-not_available In the past, it was often the Dark Lord's pleasure... to invade the minds of his victims... creating visions designed to torture them into madness.
-not_available Only after extracting the last exquisite ounce of agony... only when he had them literally begging for death, would he finally... kill them.
-not_available Used properly, the power of Occlumency... will help shield you from access or influence.
-not_available In these lessons, I will attempt to penetrate your mind.
-not_available You will attempt to resist.
-not_available Prepare yourself.
-not_available Legilimens.
-not_available Concentrate, Potter. Focus.
+albus_dumbledore In the dream were you standing next to the victim, or looking down at the scene?
+harry_potter Neither, I--It was like I--Professor, will you please just tell me what's happening?
+albus_dumbledore Everard! Arthur is on guard duty tonight. Make sure he's found by the right people.
+harry_potter Sir...
+albus_dumbledore Phineas! You must go to your portrait at Grimmauld Place. Tell them that Arthur Weasley is gravely injured and his children will be arriving there soon, by Portkey.
+everard They got him, Albus. It was close, but they think he'll make it. Once more the Dark Lord failed to acquire it.
+albus_dumbledore Oh, thank goodness! Next we need to--
+harry_potter LOOK AT ME! What's happening to me?
+professor_severus_snape You wished to see me, Headmaster?
+albus_dumbledore Oh Severus. I'm afraid we can't wait. Not even till the morning. Otherwise we'll all be vulnerable.
+professor_severus_snape It appears there is a connection between the Dark Lord's mind and your own. Whether he is, as yet, aware of this connection is for the moment unclear. Pray he remains ignorant.
+harry_potter You mean if he knows about it then, he'll be able to read my mind?
+professor_severus_snape Read it, control it, unhinge it. In the past it was often the Dark Lord's pleasure to invade the minds of his victims, creating visions designed to torture them into madness. Only after extracting the last exquisite ounce of agony, only when he had them literally begging for death would he finally kill them. Used properly, the power of Occlumency will help shield you from access or influence. In these lessons I will attempt to penetrate your mind. You will attempt to resist. Prepare yourself! Legilimens! Concentrate, Potter. Focus.
 not_available Ho, ho, ho. Merry Christmas.
 not_available Here we go.
 not_available Daddy's back.
@@ -870,18 +729,8 @@ not_available Sirius, when I was...
 not_available When I saw Mr. Weasley attacked, I wasn't just watching.
 not_available I was the snake.
 not_available And afterwards, in Dumbledore's office... there was a moment when I wanted to...
-not_available This connection between me and Voldemort.
-not_available What if the reason for it is that I am becoming more like him?
-not_available I just feel so angry all the time.
-not_available And what if, after everything that I've been through... something's gone wrong inside me? What if I'm becoming bad?
-not_available I want you to listen to me very carefully, Harry.
-not_available You're not a bad person.
-not_available You're a very good person who bad things have happened to.
-not_available You understand?
-not_available Besides, the world isn't split into good people and Death Eaters.
-not_available We've all got both light and dark inside of us.
-not_available What matters is the part we choose to act on.
-not_available That's who we really are.
+harry_potter This connection between me and Voldemort, what if the reason for it is that I'm becoming more like him? I just feel so... angry, all the time. And what if after everything I've been through, something's gone wrong inside me. What if I'm becoming bad?
+sirius_black I want you to listen to me very carefully, Harry. You're not a bad person. You're a very good person, who bad things have happened to. You understand? Besides, the world isn't split into good people and Death Eaters. We have all got both light and dark inside us. What matters is the power we choose to act on. That's who we really are.
 not_available Harry, time to go.
 not_available When all this is over, we'll be a proper family.
 not_available You'll see.
@@ -900,10 +749,9 @@ not_available If I were you, I shouldn't get too used to being back.
 not_available In fact, I mightn't bother unpacking at all.
 not_available This is top
 not_available secret, right?
-not_available Dumbledore sent me to parley with the giants.
-not_available Giants?
-not_available You found them?
-not_available Well, they're not that hard to find, to be perfectly honest. They're so big, see?
+rubeus_hagrid Dumbledore sent me to parlay with the giants.
+hermione_granger Giants?! You found them?
+rubeus_hagrid Well, they're not that hard to find, to be perfectly honest. They're so big, you see?
 not_available I tried to convince them to join the cause.
 not_available But I wasn't the only one that was trying to win them over.
 not_available Death Eaters?
@@ -931,11 +779,8 @@ not_available I wanted to apologize.
 not_available Now even me mum says the Prophet's version of things don't add up.
 not_available So, what I'm really trying to say is that I believe you.
 not_available Neville?
-not_available Fourteen years ago... a Death Eater named Bellatrix Lestrange... used a Cruciatus Curse on my parents.
-not_available She tortured them for information... but they never gave in.
-not_available I'm quite proud to be their son.
-not_available But I'm not sure I'm ready for everyone to know just yet.
-not_available We're gonna make them proud, Neville. That's a promise.
+neville_longbottom Fourteen years ago, a Death Eater named Bellatrix Lestrange used the Cruciatus Curse on my parents. She tortured them for information, but they never gave in. I'm quite proud to be their son. But I'm not sure I'm ready for everyone to know just yet.
+harry_potter We're gonna make them proud, Neville. That's a promise.
 not_available Make it a powerful memory, the happiest you can remember.
 not_available Allow it to fill you up. Keep trying, Seamus.
 not_available George, your turn now.
@@ -955,47 +800,25 @@ not_available Expecto Patronum.
 not_available I'll make short work of this.
 not_available Bombarda Maxima.
 not_available Get them.
-not_available Been watching them for weeks.
-not_available And see, " Dumbledore's Army"... proof of what I've been telling you right from the beginning, Cornelius.
-not_available All your fearmongering about YouKnow
-not_available Who... never fooled us for a minute.
-not_available We saw your lies for what they 
-were A smokescreen for your bid to seize control of the Ministry.
-not_available Naturally.
-not_available No, professor. He had nothing to do with it. It was me.
-not_available Most noble of you, Harry, to shield me, but as has been pointed out... the parchment clearly says "Dumbledore's Army," not "Potter's."
-not_available I instructed Harry to form this organization.
-not_available And I, and I alone, am responsible for its activities.
-not_available Dispatch an owl to the Daily Prophet.
-not_available If we hurry, we should still make the morning edition.
-not_available Dawlish, Shacklebolt, you will escort Dumbledore... to Azkaban... to await trial for conspiracy and sedition.
-not_available I thought we might hit this little snag.
-not_available You seem to be laboring under the delusion that I'm going to...
-not_available What was the phrase?
-not_available ...come quietly.
-not_available Well, I can tell you 
-this I have no intention of going to Azkaban.
-not_available Enough of this.
-not_available Take him.
-not_available Well, you may not like him, minister... but you can't deny... Dumbledore has got style.
+dolores_umbridge I've been watching them for weeks and see, Dumbledore's Army. Proof of what I've been telling you right from the beginning, Cornelius. All your fear mongering about You-Know-Who never fooled us for a minute. We see your lies for what they were, a smokescreen for your bid to seize control of the Ministry.
+albus_dumbledore Naturally.
+harry_potter No, professor! He had nothing to do with it, it was me!
+albus_dumbledore Most noble of you, Harry, to shield me, but as it's been pointed out the parchment clearly says "Dumbledore's Army", not "Potter's". I instructed Harry to form this organization and I, and I alone, am responsible for its activities.
+cornelius_fudge Dispatch an owl to the Daily Prophet. If we hurry we can still make the front page. Dawlish, Shacklebolt! You will escort Dumbledore to Azkaban, to await trial for conspiracy and sedition...
+albus_dumbledore Ah, I thought we might hit this little snag. You seem to be laboring under the delusion I am going to - what was the phrase, "Come quietly"? Well I can tell you this: I have no intention of going to Azkaban.
+dolores_umbridge Enough of this! Take him!
+kingsley_shacklebolt Whoo! You may not like him, Minister, but you can't deny - Dumbledore's got style!
 not_available Boys and girls are not permitted to be within eight inches of each other.
 not_available Those wishing to join the Inquisitorial Squad for extra credit...
 not_available Students will be submitted to questioning about suspected illicit activities.
 not_available Any student in noncompliance will be expelled.
 not_available Harry.
-not_available You did everything you could. No one could win against that old hag.
-not_available Even Dumbledore didn't see this coming.
-not_available Harry, if it's anyone's fault, it's ours.
-not_available Yeah, we talked you into it.
-not_available Yeah, but I agreed.
-not_available I tried so hard to help, and all it's done is make things worse.
-not_available Anyway, that doesn't matter anymore.
-not_available Because I don't want to play anymore.
-not_available All it does is make you care too much.
-not_available And the more you care, the more you have to lose.
-not_available So maybe it's just better to...
-not_available To what?
-not_available To go it alone.
+ron_weasley You did everything you could. No one could win against that old hag.
+hermione_granger Even Dumbledore didn't see this coming. Harry, if it's anyone's fault, it's ours.
+ron_weasley Yeah, we talked you into it...
+harry_potter Yeah, but I agreed. I tried so hard to help, and all it's done is made things worse. Anyway, it doesn't matter anymore, because I don't want to play anymore. All it does is make you care too much - The more you care, the more you have to lose. Maybe, it's just best to...
+hermione_granger To what?
+harry_potter To go it alone.
 not_available Hagrid.
 not_available Any idea where he's taking us?
 not_available Hagrid, why can't you just tell us?
@@ -1033,50 +856,30 @@ not_available He gets his own food and all.
 not_available It's company he'll be needing when I'm gone.
 not_available You will look after him, won't you?
 not_available I'm the only family he's got.
-not_available Feeling sentimental?
-not_available That's private.
-not_available Not to me.
-not_available And not to the Dark Lord, if you don't improve.
-not_available Every memory he has access to is a weapon he can use against you.
-not_available You won't last two seconds if he invades your mind.
-not_available You're just like your father.
-not_available Lazy, arrogant.
-not_available Don't say a word against my father.
-not_available Weak.
-not_available I'm not weak.
-not_available Then prove it.
-not_available Control your emotions.
-not_available Discipline your mind.
-not_available Legilimens.
-not_available Harry.
-not_available Sirius.
-not_available I may vomit.
-not_available Stop it.
-not_available Is this what you call control?
-not_available We've been at it for hours. If I could just rest.
-not_available The Dark Lord isn't resting.
-not_available You and Black, you're two of a kind.
-not_available Sentimental children forever whining about how bitterly unfair your lives have been.
-not_available Well, it may have escaped your notice, but life isn't fair.
-not_available Your blessed father knew that.
-not_available In fact, he frequently saw to it.
-not_available My father was a great man.
-not_available Your father was a swine.
-not_available Legilimens.
-not_available Protego.
-not_available Come on, Moony, Padfoot.
-not_available Snape. Expelliarmus.
-not_available Nice one, James.
-not_available Dad.
-not_available Impedimenta.
-not_available Snivellus Greasy. Snivellus Greasy.
-not_available Right. Who wants to see me take off Snivelly's trousers?
-not_available Snivellus Greasy. Snivellus Greasy.
-not_available Enough.
-not_available Enough.
-not_available Your lessons are at an end.
-not_available I...
-not_available Get out.
+professor_severus_snape Feeling sentimental?
+harry_potter That's private.
+professor_severus_snape Not to me. And not to the Dark Lord if you don't improve. Every memory he has access to is a weapon he can use against you. You won't last two seconds if he invades your mind. You're just like your father. Lazy, arrogant.
+harry_potter Don't say a word against my father!
+professor_severus_snape Weak.
+harry_potter I'm not weak!
+professor_severus_snape Then prove it! Control your emotions. Discipline your mind. Legilimens!
+harry_potter Sirius.
+professor_severus_snape I may vomit.
+harry_potter Stop that!
+professor_severus_snape Is that what you call control?
+harry_potter We've been at it for hours. If I could just rest!
+professor_severus_snape The Dark Lord isn't resting. You and Black, you're two of a kind, sentimental children forever whining about how bitterly unfair your lives have been. Well, it may have escaped your notice, but life isn't fair. Your blessed father knew that, in fact he frequently saw to it!
+harry_potter My father was a great man!
+professor_severus_snape Your father was a swine! Legilimens!
+harry_potter Protego!
+young_james_potter Come on, Moony! Padfoot! Snape! Expelliarmus!
+young_sirius_blackr Nice one, James!
+marauder#unknown#HarryPotter.Episode05 Come on, James, finish him off!
+harry_potter Dad?
+young_james_potter Impedimenta! Right, who wants to see me take off Snivelly's trousers?
+professor_severus_snape Enough.  Your lessons are at an end.
+harry_potter I didn't mean--
+professor_severus_snape Get...out.
 not_available What's your name?
 not_available Michael.
 not_available Your hand's gonna be fine, Michael.
@@ -1089,11 +892,9 @@ not_available Fred, I've been thinking exactly the same thing.
 not_available All right, professor!
 not_available Here you go.
 not_available Ready when you are.
-not_available I need that prophecy.
-not_available You'll have to kill me.
-not_available Oh, I will. But first, you will fetch it for me.
-not_available Crucio.
-not_available Crucio.
+lord_voldemort I need that prophecy.
+sirius_black You'll have to kill me.
+lord_voldemort Oh I will, but first you will fetch it for me. Crucio! Crucio!
 not_available Sirius.
 not_available Harry, are you sure?
 not_available I saw it. It's just like with Mr. Weasley.
@@ -1111,41 +912,29 @@ not_available We'll have to use the Floo Network.
 not_available Umbridge has the chimneys under surveillance.
 not_available Not all of them.
 not_available Alohomora.
-not_available Alert the Order if you can.
-not_available Are you mental? We're going with you.
-not_available It's too dangerous.
-not_available When are you going to get it into your head? We're in this together.
-not_available That you are.
+harry_potter Alert the Order if you can.
+ron_weasley Are you mental? We're going with you!
+harry_potter It's too dangerous.
+hermione_granger When are you going to get it into your head?! We're in this together!
+dolores_umbridge That you are!
 not_available Caught this one trying to help the Weasley girl.
 not_available You were going to Dumbledore, weren't you?
 not_available No.
 not_available Liar.
-not_available You sent for me, headmistress?
-not_available Snape, yes.
-not_available The time has come for answers, whether he wants to give them to me or not.
-not_available Have you brought the Veritaserum?
-not_available I'm afraid you've used up all my stores interrogating students.
-not_available The last of it on Miss Chang.
-not_available Unless you wish to poison him...
-not_available And I assure you, I would have the greatest sympathy if you did.
-not_available ...I cannot help you.
-not_available He's got Padfoot.
-not_available He's got Padfoot at the place where it's hidden.
-not_available Padfoot? What is Padfoot?
-not_available Where what is hidden?
-not_available What is he talking about, Snape?
-not_available No idea.
-not_available Very well.
-not_available You give me no choice, Potter.
-not_available As this is an issue of Ministry security... you leave me with... no alternative.
-not_available The Cruciatus Curse ought to loosen your tongue.
-not_available That's illegal.
-not_available What Cornelius doesn't know won't hurt him.
-not_available Tell her, Harry!
-not_available Tell me what?
-not_available Well, if you won't tell her where it is... I will.
-not_available Where what is?
-not_available Dumbledore's secret weapon.
+professor_severus_snape You sent for me, Headmistress?
+dolores_umbridge Snape, yes. The time has come for answers, whether they want to give them to me or not. Have you brought the Veritaserum?
+professor_severus_snape I'm afraid you used up all my stores, interrogating students. The last of it on Ms. Chang. Unless you wish to poison him - and I assure you I would have the greatest sympathy if you did - I cannot help you.
+harry_potter He's got Padfoot. He's got Padfoot at the place where it's hidden.
+dolores_umbridge Padfoot? What is Padfoot? Where what is hidden? What is he talking about, Snape?
+professor_severus_snape No idea.
+dolores_umbridge Very well. You give me no choice, Potter. As this is a matter of Ministry Security, you leave me with... no other alternative. The Cruiciatus Curse ought to loosen your tongue.
+hermione_granger That's illegal.
+dolores_umbridge What Cornelius doesn't know won't hurt him.
+hermione_granger Tell her, Harry!
+dolores_umbridge Tell me what?
+hermione_granger Well, if you won't tell her where it is, I will.
+dolores_umbridge Where what is?
+hermione_granger Dumbledore's secret weapon.
 not_available How much further?
 not_available Not far.
 not_available It had to be somewhere students wouldn't find it accidentally.
@@ -1156,44 +945,26 @@ not_available Where is this weapon?
 not_available There isn't one, is there?
 not_available You were trying to trick me.
 not_available You know... I really hate children.
-not_available You have no business here, centaur. This is a Ministry matter.
-not_available Lower your weapons.
-not_available I warn you, under the law, as creatures of near
-not_available human intelligence...
-not_available Protego.
-not_available How dare you?
-not_available Filthy half
-not_available breed.
-not_available Incarcerous.
-not_available Please. Please stop it. Please.
-not_available Now, enough. I will have order.
-not_available You filthy animal.
-not_available Do you know who I am?
-not_available Leave him alone. It's not his fault.
-not_available No, he doesn't understand.
-not_available Potter, do something.
-not_available Tell them I mean no harm.
-not_available I'm sorry, professor.
-not_available But I must not tell lies.
-not_available What are you doing?
-not_available I am Senior Undersecretary Dolores Jane Umbridge!
-not_available Let me go!
-not_available Thank you, Grawp.
+dolores_umbridge You have no business here, centaur. This is a Ministry matter. Lower your weapons! I warn you! Under the law, as creatures of near-human intelligence--  Protego! How dare you! Filthy halfbreed! Incarcerous!
+hermione_granger Please, please stop it! Please!
+dolores_umbridge NO, ENOUGH! I will have order! YOU FILTHY ANIMAL! DO YOU KNOW WHO I AM?!
+hermione_granger Leave him alone! It's not his fault! He doesn't understand!
+dolores_umbridge Potter, do something! Tell them I mean no harm!
+harry_potter I'm sorry, Professor. But I must not tell lies.
+dolores_umbridge WHAT ARE YOU DOING?! I am Senior Undersecretary Dolores Jane Umbridge! LET... ME... GOOOOOOOOOOO!
+hermione_granger Thank you, Grawp.
 not_available Hermione. Hermione, Sirius.
-not_available How'd you get away?
-not_available Puking Pastilles. It wasn't pretty.
-not_available Told them I was hungry, wanted some sweets.
-not_available They told me to bugger off and ate the lot themselves.
-not_available That was clever, Ron.
-not_available Has been known to happen.
-not_available It was brilliant.
-not_available So how are we getting to London?
-not_available Look, it's not that I don't appreciate everything you've done, all of you... but I've got you into enough trouble as it is.
-not_available Dumbledore's Army's supposed to be about doing something real.
-not_available Or was that all just words to you?
-not_available Maybe you don't have to do this all by yourself, mate.
-not_available So how are we going to get to London?
-not_available We fly, of course.
+hermione_granger How did you get away?
+ginny_weasley Puking Pastilles, it wasn't pretty.
+ron_weasley I told them I was hungry and wanted some sweets. Of course they told me to bugger off and ate the lot themselves.
+hermione_granger That was clever, Ron!
+ron_weasley It's been known to happen.
+neville_longbottom It was brilliant. So, how are we getting to London?
+harry_potter Look, it's not that I don't appreciate everything you've done, all of you. But, I've got you into enough trouble as it is.
+neville_longbottom Dumbledore's Army was supposed to be about doing something real. Or was all that just words to you?
+ron_weasley Maybe you don't have to do this all by yourself, mate.
+harry_potter So, how are we going to get to London?
+luna_lovegood We fly, of course.
 not_available Department of Mysteries.
 not_available This is it.
 not_available Ninety
@@ -1209,38 +980,23 @@ not_available Harry.
 not_available It's got your name on it.
 not_available The one with the power to vanquish the Dark Lord approaches.
 not_available And the Dark Lord shall mark him as his equal... but he shall have power the Dark Lord knows not.
-not_available For neither can live while the other survives.
+professor_sybil_trelawney The one with the power to vanquish the Dark Lord approaches... and the Dark Lord shall mark him as his equal but he shall have power the Dark Lord knows not... For neither can live while the other s-survives.
 not_available Harry.
-not_available Where's Sirius?
-not_available You know, you really should learn to tell the difference between dreams... and reality.
-not_available You saw only what the Dark Lord wanted you to see.
-not_available Now, hand me the prophecy.
-not_available If you do anything to us, I'll break it.
-not_available He knows how to play.
-not_available Itty, bitty baby.
-not_available Potter.
-not_available Bellatrix Lestrange.
-not_available Neville Longbottom, is it? How's Mum and Dad?
-not_available Better, now they're about to be avenged.
-not_available Now, let's everybody just calm down... shall we?
-not_available All we want is that prophecy.
-not_available Why did Voldemort need me to come and get this?
-not_available You dare speak his name?
-not_available You filthy half
-not_available blood!
-not_available It's all right. He's just a curious lad, aren't you?
-not_available Prophecies can only be retrieved by those about whom they are made.
-not_available Which is lucky for you, really.
-not_available Haven't you always wondered... what was the reason for the connection between you and the Dark Lord?
-not_available Why he was unable to kill you... when you were just an infant?
-not_available Don't you want to know the secret of your scar?
-not_available All the answers are there, Potter, in your hand.
-not_available All you have to do... is give it to me.
-not_available Then I can show you everything.
-not_available I've waited 14 years.
-not_available I know.
-not_available I guess I can wait a little longer. Now. Stupefy.
-not_available Stupefy.
+harry_potter Where's Sirius?
+lucius_malfoy You know, you really should learn to tell the difference between dreams... and reality. You only saw what the Dark Lord wanted you to see. Now hand me the prophecy.
+harry_potter You do anything to us, I'll break it.
+bellatrix_lestrange He knows how to play! Itty, bitty, baby, Potter!
+neville_longbottom Bellatrix Lestrange.
+bellatrix_lestrange Neville Longbottom, is it? How's mum and dad?
+neville_longbottom Better, now they're about to be avenged!
+lucius_malfoy Let's everybody just... calm down, shall we? All we want is that prophecy.
+harry_potter Why did Voldemort need me to come and get this?
+bellatrix_lestrange You dare speak his name? You filthy half-blood!
+lucius_malfoy It's all right, he's just a curious lad, aren't you? Prophecies can only be retrieved by those about whom they are made. Which is lucky for you, really. Haven't you always wondered what was the reason for the connection between you and the Dark Lord, hmm? Why he was unable to kill you, when you were just an infant? Don't you want to know the secret of your scar? All the answers are there, Potter, in your hand. All you have to do... is give it to me, and I can show you everything.
+harry_potter I've waited fourteen years.
+lucius_malfoy I know.
+harry_potter I guess I can wait a little longer. NOW!
+Harry, Ron, Neville, Ginny, Hermione, and luna_lovegood STUPEFY!
 not_available Levicorpus.
 not_available Petrificus Totalus.
 not_available Well done, Neville.
@@ -1259,11 +1015,10 @@ not_available I hear them too.
 not_available Harry, it's just an empty archway.
 not_available Please, Harry.
 not_available Get behind me.
-not_available Did you actually believe... or were you truly naive enough to think... that children stood a chance against us?
-not_available I'll make this simple for you, Potter.
-not_available Give me the prophecy now... or watch your friends die.
-not_available Don't give it to him, Harry.
-not_available Get away from my godson.
+lucius_malfoy Did you actually believe, or were you truly naive enough to think that children stood a chance, against us? I'll make this simple for you, Potter. Give me the prophecy now, or watch your friends die.
+neville_longbottom Don't give it to him, Harry!
+bellatrix_lestrange Sst!
+sirius_black Get away from my godson.
 not_available Now, listen to me. Take the others and get out of here.
 not_available What? No, I'm staying with you.
 not_available You've done beautifully.
@@ -1273,59 +1028,35 @@ not_available Expelliarmus!
 not_available Nice one, James.
 not_available Avada Kedavra.
 not_available No. No.
-not_available I killed Sirius Black.
-not_available You coming to get me?
-not_available Crucio.
-not_available You've got to mean it, Harry.
-not_available She killed him. She deserves it.
-not_available You know the spell, Harry.
-not_available Do it.
-not_available So weak.
-not_available It was foolish of you to come here tonight, T om.
-not_available The Aurors are on their way.
-not_available By which time I shall be gone, and you... shall be dead.
-not_available You've lost, old man.
-not_available Harry.
-not_available So weak.
-not_available So vulnerable.
-not_available Look at me.
-not_available Harry, it isn't how you are alike.
-not_available It's how you are not.
-not_available Harry?
-not_available You're the weak one... and you'll never know love or friendship.
-not_available And I feel sorry for you.
-not_available You're a fool, Harry Potter.
-not_available And you will lose everything.
-not_available He's back.
-not_available I know how you feel, Harry.
-not_available No, you don't.
-not_available It's my fault.
-not_available No, the fault is mine.
-not_available I knew it was only a matter of time... before Voldemort made the connection between you.
-not_available I thought by distancing myself from you, as I have done all year... he'd be less tempted, and therefore you might be more protected.
-not_available The prophecy said:
-not_available "Neither one can live while the other one survives."
-not_available It means one of us is gonna have to kill the other, in the end.
-not_available Yes.
-not_available Why didn't you tell me?
-not_available For the same reason you tried to save Sirius.
-not_available The same reason your friends saved you.
-not_available After all these years, after all you've suffered... I didn't want to cause you any more pain.
-not_available I cared too much about you.
-not_available How come you're not at the feast?
-not_available Lost all my possessions. Apparently people have been hiding them.
-not_available That's awful.
-not_available Oh, it's all good fun.
-not_available But as it's the last night, I really do need them back.
-not_available Do you want any help finding them?
-not_available I'm sorry about your godfather, Harry.
-not_available Are you sure you don't want any help looking?
-not_available That's all right.
-not_available Anyway, my mum always said... the things we lose have a way of coming back to us in the end.
+bellatrix_lestrange I killed Sirius Black! You coming to get me?!
+harry_potter CRUCIO!
+lord_voldemort You've got to mean it, Harry. She killed him. She deserves it. You know the spell, Harry. Do it! So weak.
+albus_dumbledore It was foolish of you to come here tonight, Tom. The Aurors are on their way.
+lord_voldemort By which time I shall be gone. And you... shall be dead.
+harry_potter You... you've lost, old man!
+albus_dumbledore Harry.
+lord_voldemort So weak! So vulnerable! Look at me!
+albus_dumbledore Harry, it isn't how you are alike. It's how you are not. Harry.
+harry_potterYou're the weak one. And you'll never know love, or friendship. And I feel sorry for you.
+lord_voldemort You're a fool, Harry Potter. And you will lose everything.
+cornelius_fudge He's back!
+albus_dumbledore I know how you feel, Harry.
+harry_potter No, you don't. It's my fault.
+albus_dumbledore No, the fault is mine. I knew it was only a matter of time before Voldemort made the connection between you. I thought by distancing myself from you, as I have done all year, he'd be less tempted and therefore you might be more protected.
+harry_potter The prophecy said: neither one can live for the other one survives. It means one of us is gonna have to kill the other... in the end?
+albus_dumbledore Yes.
+harry_potter Why didn't you tell me?
+albus_dumbledore For the same reason you tried to save Sirius. For the same reason your friends saved you. After all these years, after all you suffered, I didn't want to cause you any more pain. I cared too much about you.
+harry_potter How come you're not at the feast?
+luna_lovegood Lost all my possessions. Apparently people have been hiding them.
+harry_potter That's awful.
+luna_lovegood Oh, it's all good fun. But as it's the last night, I really do need them back. I'm sorry about your godfather, Harry.
+harry_potter Are you sure you don't want any help looking?
+luna_lovegood That's alright. Anyway, my mum always said, things we lose have a way of coming back to us in the end... 
 not_available If not always in the way we expect.
 not_available Think I'll just go have some pudding.
-not_available I've been thinking about something Dumbledore said to me.
-not_available What's that?
-not_available That even though we've got a fight ahead of us... we've got one thing that Voldemort doesn't have.
-not_available Yeah?
-not_available Something worth fighting for.
+harry_potter I've been thinking about something Dumbledore said to me.
+hermione_granger What's that?
+harry_potter That even though we got a fight ahead of us, we've got one thing that Voldemort doesn't have.
+ron_weasley Yeah?
+harry_potter Something worth fighting for.
