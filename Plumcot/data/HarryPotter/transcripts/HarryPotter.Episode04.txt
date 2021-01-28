@@ -1,5 +1,5 @@
 old#unknown#HarryPotter.Episode04 man Bloody kids.
-wormtail Oh no no no my Lord Voldemort. I only meant... perhaps if we were to do it without the boy..]
+wormtail Oh no no no my Lord Voldemort. I only meant... perhaps if we were to do it without the boy..
 lord_voldemort NO! The boy is everything, it cannot be done without him and it WILL be done exactly as I say.
 unknown#unknown#HarryPotter.Episode04 man I will not disappoint you my lord.
 lord_voldemort Nagini tells me the old caretaker is standing outside the door.
@@ -7,7 +7,7 @@ lord_voldemort Step aside so I can give our guest a proper greeting.
 hermione_granger Harry!
 hermione_granger Are you alright?
 hermione_granger Just now. You?
-harry_potter Last night].
+harry_potter Last night.
 hermione_granger Wake up. Wake up Ronald!
 ron_weasley Bloody hell.
 hermione_granger Honestly. Get dressed, and don't go back to sleep. Come on Ron! Your mother says breakfast's ready.
@@ -141,7 +141,7 @@ alastor_moody What are you laughing at?
 alastor_moody Talented isn't she? What shall I have her do next? Jump out the window? Drown herself?
 alastor_moody Scores of witches and wizards have claimed that they only do did you-know-whose bidding under the influence of the Imperius curse. But here's the rub, how do we sort out the liars? Another.. another.. Come on come on. Longbottom is it? Up.
 alastor_moody Professor Sprout tells me you have an aptitude for herbology.
-neville_longbottom There's the um... The Cruciatus curse.]
+neville_longbottom There's the um... The Cruciatus curse.
 alastor_moody Correct! Correct! come come. Particularly nasty. The torture curse.
 hermione_granger Stop it! Can't you see it's bothering him, stop it!
 alastor_moody Perhaps you could give us the last unforgivable curse Miss Granger.
@@ -150,7 +150,7 @@ ron_weasley Brilliant isn't he! Completely demented of course. Terrifying to be 
 hermione_granger There's a reason those curses are unforgivable, and to perform them in a classroom. I mean did you see Neville's face.
 hermione_granger Neville?
 alastor_moody Son. You alright?
-alastor_moody Come on, we'll have a cup of tea. I want to show you something.]
+alastor_moody Come on, we'll have a cup of tea. I want to show you something.
 ron_weasley Eternal glory, be brilliant wouldn't it? In three years from now we'll be old enough to be choosen.
 harry_potter Yeah well rather you than me.
 george_weasley Thank you thank you, well lads we've done it.
@@ -174,7 +174,7 @@ hagrid No... No.
 albus_dumbledore Harry Potter!
 hermione_granger Go on Harry. Harry for goodness sake.
 voice#unknown#HarryPotter.Episode04 He's a cheat! He's not even seventeen yet.
-albus_dumbledore Harry! Did you put your name in the goblet of fire?]
+albus_dumbledore Harry! Did you put your name in the goblet of fire?
 harry_potter No sir.
 albus_dumbledore Did you ask one of the older students to do it for you?
 harry_potter No sir.
@@ -182,8 +182,8 @@ albus_dumbledore You're absolutely sure?
 harry_potter Yes sir.
 madame_olympe_maxime Well of course he is lying.
 alastor_moody The hell he is. The goblet of fire is an exceptionally powerful magical object, only an exceptionally powerful conjurer could have hoodwinked it. Magic way beyond the talents of a fourth year.
-igor_karkaroff You seem to have given this a fair bit of thought Mad-Eye.]
-alastor_moody It was once my job to think as dark wizards do Karkaroff perhaps you remember?]
+igor_karkaroff You seem to have given this a fair bit of thought Mad-Eye.
+alastor_moody It was once my job to think as dark wizards do Karkaroff perhaps you remember?
 albus_dumbledore That doesn't help Alastor. Leave this to you Barty.
 barty_crouch The rules are absolute, the goblet of fire constitutes a binding magical contract. Mr Potter has no choice, he is as of tonight... a tri-wizards champion.
 professor_mcgonagall This can't go on Albus. First the dark mark, now this?
@@ -498,7 +498,7 @@ moaning_myrtle I was circling a blocked drain the other day and could swear I sa
 harry_potter Polyjuice potion! Kicked the habit. Myrtle, did you say try putting it in the water?
 moaning_myrtle Well. That's what he did. The other boy, the handsome one. Cedric.
 moaning_myrtle Well go on, open it.
-voice#unknown#HarryPotter.Episode04 SINGING Come seek us where our voices sound. We cannot sing above the ground. An hour long you'll have to look, to recover what we took.
+voice#unknown#HarryPotter.Episode04 Come seek us where our voices sound. We cannot sing above the ground. An hour long you'll have to look, to recover what we took.
 harry_potter Myrtle, there aren't Merpeople in the black lake are there?
 moaning_myrtle Ahhh, very good. Took Cedric ages to riddle it out. Almost all the bubbles were gone...
 hermione_granger Harry, tell me again.
@@ -558,7 +558,7 @@ alastor_moody And they say I'm mad.
 hagrid So I remember, I remember when I first met you all. Biggest bunch of misfits I've ever set eyes on. Always reminded me of myself a little. And here we all are, four years later.
 ron_weasley We're still misfits.
 hagrid Maybe. But we've all got each other, and Harry of course. Soon to be! The youngest! Tri-Wizard champion there's ever been! Hooray!
-harry_potter Mr Crouch?]
+harry_potter Mr Crouch?
 albus_dumbledore A man has died here. And he won't be the last, you must take action.
 cornelius_fudge I will not. In times like these the wizard world looks to its leaders for strength Dumbledore.
 albus_dumbledore Then for once show them some.
