@@ -109,7 +109,7 @@ mrs_weasley Yes dear. It was on the cat.
 harry_potter Hello. W-what did I do?
 ron_weasley Ginny. She’s been talking about you all summer. A bit annoying really.
 arthur_weasley Morning, Weasleys.
-fred_weasley george, ron Morning, Dad.
+fred_weasley@george_weasley@ron_weasley Morning, Dad.
 mrs_weasley Morning Arthur!
 arthur_weasley What a night. Nine raids. Nine!
 harry_potter Raids?
@@ -212,7 +212,7 @@ ron_weasley We can’t be far behind.
 harry_potter Do you hear that?
 ron_weasley We must be gettin’ close.
 harry_potter Hold on…
-harry_potter ron Aaahhh! Aaahhhh! Aaahhh!
+ron_weasley Aaahhh! Aaahhhh! Aaahhh!
 harry_potter Wha-aahhh!
 ron_weasley harry! Hold on! Take my hand! Hold on!
 harry_potter I’m trying. Your hand’s all sweaty.
@@ -229,11 +229,11 @@ harry_potter Be thankful it’s not your neck.
 ron_weasley What’s happening?
 harry_potter I don’t know.
 whomping#unknown#HarryPotter.Episode02 willow Argg!
-harry_potter ron Ahh! Ahh! Ahh!
+ron_weasley Ahh! Ahh! Ahh!
 ron_weasley Ahh! Ahhhh! Ahh!
-harry_potter ron Aaaahhhh!
+ron_weasley Aaaahhhh!
 harry_potter Come on! Go! Fast!
-harry_potter ron Ahh!
+ron_weasley Ahh!
 ron_weasley Scabbers, you OK? The car! …Dad’s gonna kill me.
 harry_potter See you, Hedwig. So, a house elf shows up in my bedroom, we can’t get
 mr_filch Well, take a good look lads. This night might well be the last you
@@ -245,20 +245,20 @@ harry_potter Professor Dumbledore. Professor McGonagall.
 professor_snape Headmaster, these boys have flouted the Decree for the Restriction of
 albus_dumbledore I am well aware of our bylaws, Severus, having written quite a
 ron_weasley We’ll go and get our stuff, then.
-gilderoy_lockhart mcgonagall What are you talking about, Mr. Weasley?
+professor_minerva_mcgonagall What are you talking about, Mr. Weasley?
 ron_weasley You’re going to expel us, aren’t you?
-gilderoy_lockhart mcgonagall Not today, Mr. Weasley. But, I must impress on both of
-gilderoy_lockhart sprout Morning, everyone! Good morning, everyone!
+professor_minerva_mcgonagall Not today, Mr. Weasley. But, I must impress on both of
+professor_pomona_sprout Morning, everyone! Good morning, everyone!
 all#unknown#HarryPotter.Episode02 Good morning, Professor Sprout!
-gilderoy_lockhart sprout Welcome to Greenhouse Three, Second Years. Now, gather
+professor_pomona_sprout Welcome to Greenhouse Three, Second Years. Now, gather
 hermione_granger Mandrake, or Mandragora, is used to return those who have been
-gilderoy_lockhart sprout Excellent! Ten points to Gryffindor! Now, as our Mandrakes
+professor_pomona_sprout Excellent! Ten points to Gryffindor! Now, as our Mandrakes
 all#unknown#HarryPotter.Episode02 Aah! Ooh!
-gilderoy_lockhart sprout Got it? And… now you dunk it down into the other pot and
+professor_pomona_sprout Got it? And… now you dunk it down into the other pot and
 neville_longbottom Uhh…
-gilderoy_lockhart sprout Uh, Longbottom’s been neglecting his earmuffs.
+professor_pomona_sprout Uh, Longbottom’s been neglecting his earmuffs.
 seamus_finnigan No, ma’am, he’s just fainted.
-gilderoy_lockhart sprout Yes, well, just leave him there. Right! On we go! Plenty of
+professor_pomona_sprout Yes, well, just leave him there. Right! On we go! Plenty of
 other#unknown#HarryPotter.Episode02 There’s Nearly-Headless-Nick!
 sir#unknown#HarryPotter.Episode02 nicholas Hello, Percy. Miss Clearwater.
 percy_weasley Hello, Sir Nicholas!
@@ -354,7 +354,7 @@ ron_weasley I don’t like spiders… What’s that?
 hermione_granger ‘The Chamber of Secrets has been opened… enemies the heir…
 harry_potter Oh, no… It’s Filch’s cat. It’s Mrs. Norris.
 otherS#unknown#HarryPotter.Episode02 Ahhh! What’s that?
-madam_pomfrey pomfrey Oh!
+madam_pomfrey Oh!
 draco_malfoy ‘Enemies of the heir beware!’ You’ll be next, Mudbloods!
 mr_filch What’s going on ‘ere? Go on, make way, make way. Potter-- What are
 harry_potter No. No.
@@ -382,18 +382,18 @@ harry_potter Do you think I should have told them? Dumbledore and the others, I
 ron_weasley Are you mad?
 hermione_granger No, harry. Even in the wizarding world, hearing voices isn’t a good
 picture#unknown#HarryPotter#Episode02 She’s right, you know.
-gilderoy_lockhart mcgonagall Could I have your attention, please? Right. Now, today,
+professor_minerva_mcgonagall Could I have your attention, please? Right. Now, today,
 ron_weasley Ahem. Vera verto!
 otherS#unknown#HarryPotter.Episode02 Ha, ha, ha, ha, ha…
-gilderoy_lockhart mcgonagall That wand needs replacing, Mr. Weasley. Yes, Miss
+professor_minerva_mcgonagall That wand needs replacing, Mr. Weasley. Yes, Miss
 hermione_granger Professor, I was wondering if you could tell us about…the Chamber
-gilderoy_lockhart mcgonagall Well, very well. Well, you all know, of course, that
+professor_minerva_mcgonagall Well, very well. Well, you all know, of course, that
 ron_weasley Three guesses who.
-gilderoy_lockhart mcgonagall Salazar Slytherin wished to be more selective about the
+professor_minerva_mcgonagall Salazar Slytherin wished to be more selective about the
 hermione_granger Muggle-borns.
-gilderoy_lockhart mcgonagall Well, naturally, the school had been searched many
+professor_minerva_mcgonagall Well, naturally, the school had been searched many
 hermione_granger Professor? What exactly does legend tell us lies within the
-gilderoy_lockhart mcgonagall Well, the Chamber is said to home to something that
+professor_minerva_mcgonagall Well, the Chamber is said to home to something that
 ron_weasley D’you think it’s true? D’you think there really is a Chamber of Secrets?
 hermione_granger Yes. Couldn’t you tell? McGonagall’s worried. all the teachers are.
 harry_potter Well, if there really is a Chamber of Secrets, a-and it really has
@@ -405,7 +405,7 @@ hermione_granger I heard him. But Malfoy, the Heir of Slytherin?
 harry_potter Well, maybe Ron’s right, Hermione. I mean, look at his family. The
 ron_weasley Crabbe and Goyle must know. Maybe we could trick them into telling.
 hermione_granger Even they aren’t that thick. But there might be another way. Mind
-hermione_granger Here it is. ‘The Polyjuice Potion.’ (Reading from Moste Potente
+hermione_granger Here it is. ‘The Polyjuice Potion.’
 ron_weasley Do you mean, if harry and I drink that stuff, we’ll turn into Crabbe and
 hermione_granger Yes.
 ron_weasley Wicked! Malfoy’ll tell us anything.
@@ -415,7 +415,7 @@ hermione_granger A month.
 harry_potter A month? But, Hermione, if Malfoy is the Heir of Slytherin, he could
 hermione_granger I know. But it’s the only plan we’ve got.
 otherS#unknown#HarryPotter.Episode02 Yeah! Come on Slytherin!
-lee_jordan jordan Another goal for Slytherin! They lead Gryffindor ninety to
+lee_jordan Another goal for Slytherin! They lead Gryffindor ninety to
 marcus_flint Yeah! Yeah!
 draco_malfoy all right there, Scarhead?
 oliver_wood Watch yourself, harry!
@@ -426,7 +426,7 @@ hermione_granger No! Even with a proper wand it’s too risky. You could hit har
 draco_malfoy Training for the ballet, Potter?
 draco_malfoy You’ll never catch me, Potter!
 hermione_granger Let’s go.
-lee_jordan jordan harry potter has caught the Snitch! Gryffindor wins!
+lee_jordan harry potter has caught the Snitch! Gryffindor wins!
 hermione_granger Finite incantatem!
 harry_potter Thank you.
 hermione_granger Are you okay?
@@ -442,11 +442,11 @@ hagrid Broken? There’s no bones left!
 otherS#unknown#HarryPotter.Episode02 Uh-huh-ugh!
 gilderoy_lockhart Much more flexible, though.
 draco_malfoy Uhh, uhhh…
-madam_pomfrey pomfrey Oh, Mr. Malfoy, stop making such a fuss, you can go. Out of
+madam_pomfrey Oh, Mr. Malfoy, stop making such a fuss, you can go. Out of
 hermione_granger You will be able to, won’t you?
-madam_pomfrey pomfrey Oh, I’ll be able to, certainly. But it’ll be painful. You’re
+madam_pomfrey Oh, I’ll be able to, certainly. But it’ll be painful. You’re
 harry_potter Ugh!
-madam_pomfrey pomfrey Well, what do you expect? Pumpkin juice?
+madam_pomfrey Well, what do you expect? Pumpkin juice?
 harry_potter Uh!
 voice#unknown#HarryPotter.Episode02 Kill. Kill… Time to kill!
 dobby Hello!
@@ -469,13 +469,12 @@ dobby Ah! I shouldn’t have said that! Oh! Ah! Dah! Bad dobby! Bad!
 harry_potter dobby, stop it! Stop it! Stop, dobby! Tell me, dobby. When did this
 dobby dobby cannot say, sir. dobby only wants harry potter to be safe.
 harry_potter No, dobby. Tell me. Who is it?
-dobby
-madam_pomfrey pomfrey Put him here. What happened?
+madam_pomfrey Put him here. What happened?
 albus_dumbledore There’s been another attack.
-gilderoy_lockhart mcgonagall I think- do ya know- I think he’s been Petrified,
-gilderoy_lockhart mcgonagall What can this mean, Albus?
+professor_minerva_mcgonagall I think- do ya know- I think he’s been Petrified,
+professor_minerva_mcgonagall What can this mean, Albus?
 albus_dumbledore It means…that our students are in great danger.
-gilderoy_lockhart mcgonagall What should I tell the staff.
+professor_minerva_mcgonagall What should I tell the staff.
 albus_dumbledore The truth. Tell them Hogwarts is no longer safe. It is as we
 hermione_granger Again? You mean the Chamber of Secrets has been opened before?
 ron_weasley Of course. Don’t you see? Lucius Malfoy must have opened it when he was
@@ -487,7 +486,7 @@ hermione_granger Moaning Myrtle.
 ron_weasley Who?
 hermione_granger Moaning Myrtle.
 ron_weasley Who’s Moaning Myrtle?
-moaning_myrtle myrtle I’m Moaning Myrtle! I wouldn’t expect you to know me! Who
+moaning_myrtle I’m Moaning Myrtle! I wouldn’t expect you to know me! Who
 hermione_granger She’s a little sensitive.
 gilderoy_lockhart Gather ‘round, gather ‘round! Can everybody see me? Can
 professor_snape Expelliarmus!
@@ -512,7 +511,6 @@ gilderoy_lockhart I said disarm only!
 draco_malfoy Serpensortia!
 professor_snape Don’t move, Potter. I’ll get rid of it for you.
 gilderoy_lockhart allow me, Professor Snape. Alarte ascendare!
-harry_potter Sya- hassa- she. Sya- hasi- heth. Sya- hasi- heth.
 professor_snape Vipera evenesca.
 ron_weasley You’re a Parselmouth? Why didn’t you tell us?
 harry_potter I’m a what?
@@ -533,16 +531,16 @@ harry_potter I’ll see you back in the common room.
 voice#unknown#HarryPotter.Episode02 Blood…I want blood…They all must die. Kill… Kill… Kill! Time
 mr_filch Caught in the act! I’ll have you out this time, Potter. Mark my words.
 harry_potter No! Mr. Filch! Y-you- you don’t understand!
-gilderoy_lockhart mcgonagall Oh!
+professor_minerva_mcgonagall Oh!
 harry_potter Professor… I swear I didn’t!
-gilderoy_lockhart mcgonagall This is out of my hands, Potter.
-gilderoy_lockhart mcgonagall Professor Dumbledore will be waiting for you. Sherbet
+professor_minerva_mcgonagall This is out of my hands, Potter.
+professor_minerva_mcgonagall Professor Dumbledore will be waiting for you. Sherbet
 harry_potter Professor Dumbledore?
-the_sorting_hat hat Bee in your bonnet, Potter?
+the_sorting_hat Bee in your bonnet, Potter?
 harry_potter I… I-I was- I was just wondering if you’d put me in the right house.
-the_sorting_hat hat Yes, you were particularly difficult to place. But, I stand by
+the_sorting_hat Yes, you were particularly difficult to place. But, I stand by
 harry_potter You’re wrong.
-the_sorting_hat hat Umm…
+the_sorting_hat Umm…
 fawkes#unknown#HarryPotter.Episode02
 albus_dumbledore harry?
 harry_potter Professor! Sir, your bird- there was nothing I could do- he- he just
@@ -571,7 +569,7 @@ harry_potter Ron, maybe I should do it?
 ron_weasley Yeah. Right.
 harry_potter Wingardium leviosa. Here they come.
 crabbe It’s good right? Ah… Cool!
-crabbe &amp; GOYLE Ummm…um.
+crabbe@gregory_goyle Ummm…um.
 ron_weasley How thick could you get?
 harry_potter Come on. Let’s get ‘em.
 hermione_granger We’ll have exactly one hour before we change back into ourselves…
@@ -620,24 +618,24 @@ draco_malfoy Hey! Where are you going?
 ron_weasley That was close!
 harry_potter Hermione, come out. We’ve got loads to tell you!
 hermione_granger Go away!
-moaning_myrtle myrtle Ahh! Wait till you see. It’s awful! He- ha, ha, he- hee!
+moaning_myrtle Ahh! Wait till you see. It’s awful! He- ha, ha, he- hee!
 harry_potter Hermione? A- are you OK?
-moaning_myrtle myrtle Aaah!
+moaning_myrtle Aaah!
 hermione_granger Do you remember me telling you that the Polyjuice Potion was only
-moaning_myrtle myrtle Hee, ha, ha!
+moaning_myrtle Hee, ha, ha!
 ron_weasley Look at your tail!
-moaning_myrtle myrtle Ha, ha, ha!
+moaning_myrtle Ha, ha, ha!
 ron_weasley Have you spoken to Hermione?
 harry_potter She should be out of hospital in a few days, when she stops coughing
 ron_weasley Yuck!
 harry_potter Looks like Moaning Myrtle’s flooded the bathroom.
-moaning_myrtle myrtle Oooh, oooh, ooooh, huh– huh. Come to throw something else at
+moaning_myrtle Oooh, oooh, ooooh, huh– huh. Come to throw something else at
 harry_potter Why would I throw something at you?
-moaning_myrtle myrtle Don’t ask me! Here I am, minding my own business, and someone
+moaning_myrtle Don’t ask me! Here I am, minding my own business, and someone
 ron_weasley But, it can’t hurt if someone throws something at you. I mean, it’ll
-moaning_myrtle myrtle Sure! Let’s all throw books at Myrtle because she can’t feel
+moaning_myrtle Sure! Let’s all throw books at Myrtle because she can’t feel
 harry_potter But, who threw it at you, anyway?
-moaning_myrtle myrtle I don’t know, I didn’t see them. I was just sitting in the Ubend
+moaning_myrtle I don’t know, I didn’t see them. I was just sitting in the Ubend
 harry_potter ‘Tom Marvolo Riddle.’
 harry_potter ‘My name is harry potter.’
 tom_riddle Hello harry potter, my name is Tom Riddle.
@@ -691,14 +689,14 @@ harry_potter And they found it. Tom Riddle’s diary is gone.
 oliver_wood Alright, listen up. We play our game, Hufflepuff doesn’t stand a
 fred_weasley And not to mention, they’re dead scared that harry’ll Petrify them if
 oliver_wood Well, that too. Professor McGonagall.
-gilderoy_lockhart mcgonagall This match has been cancelled.
+professor_minerva_mcgonagall This match has been cancelled.
 oliver_wood We can’t cancel Quidditch.
-gilderoy_lockhart mcgonagall Silence, Wood. You and your teammates will go to
-gilderoy_lockhart mcgonagall I warn you, this could be a wee bit of a shock.
+professor_minerva_mcgonagall Silence, Wood. You and your teammates will go to
+professor_minerva_mcgonagall I warn you, this could be a wee bit of a shock.
 ron_weasley Hermione!
-gilderoy_lockhart mcgonagall She was found near the Library, along with this. Does
+professor_minerva_mcgonagall She was found near the Library, along with this. Does
 harry_potter No.
-gilderoy_lockhart mcgonagall Could I have your attention please? Because of recent
+professor_minerva_mcgonagall Could I have your attention please? Because of recent
 should#unknown#HarryPotter.Episode02 tell you this unless the culprit behind these attacks is caught, it
 harry_potter We’ve got to talk to Hagrid, Ron. I can’t believe it’s him, but if he
 ron_weasley But you heard McGonagall! We’re not allowed to leave the tower except
@@ -768,12 +766,12 @@ ron_weasley Know any spells?
 harry_potter One, but it’s not powerful enough for all of them.
 ron_weasley Where’s Hermione when you need her?
 harry_potter Let’s go! Arania exumai! Go!
-harry_potter ron Whoah!
+ron_weasley Whoah!
 ron_weasley Glad we’re out of there! Ah- Aaaah!
 harry_potter Arania exumai!
 ron_weasley Thanks for that.
 harry_potter Don’t mention it. Get us out of here. Now! Come on! Come on! Move
-harry_potter ron Aah!
+ron_weasley Aah!
 harry_potter Go on! Go! Get us in the air.
 ron_weasley The flying gear’s jammed!
 harry_potter Come on! Pull!
@@ -793,16 +791,16 @@ harry_potter Hermione’s answered that, too.
 ron_weasley Pipes? It’s using the plumbing!
 harry_potter Remember what Aragog said, about that girl fifty years ago? She died
 ron_weasley Moaning Myrtle.
-gilderoy_lockhart mcgonagall all students are to return to their house dormitories
-gilderoy_lockhart mcgonagall As you can see, the Heir of Slytherin has left another
+professor_minerva_mcgonagall all students are to return to their house dormitories
+professor_minerva_mcgonagall As you can see, the Heir of Slytherin has left another
 gilderoy_lockhart So sorry- dozed off- what have I missed?
 professor_snape A girl has been snatched by the monster, Lockhart. Your moment has
 gilderoy_lockhart My m-moment?
 professor_snape Weren’t you saying just last night that you’ve known all along where
-gilderoy_lockhart mcgonagall Well, that’s settled. We’ll leave you to deal with the
+professor_minerva_mcgonagall Well, that’s settled. We’ll leave you to deal with the
 gilderoy_lockhart Very well- ah- I’ll just be in my office getting, umgetting
-madam_pomfrey pomfrey Who is it that the monster’s taken, Minerva?
-gilderoy_lockhart mcgonagall Ginny Weasley.
+madam_pomfrey Who is it that the monster’s taken, Minerva?
+professor_minerva_mcgonagall Ginny Weasley.
 ron_weasley ‘Her skeleton will lie in the chamber forever.’ Ginny…
 harry_potter Lockhart may be useless, but he’s going to try and get into the
 harry_potter Professor, we have some information for you! Are you going somewhere?
@@ -819,13 +817,13 @@ harry_potter You’re a fraud! You’ve just been taking credit for what other w
 ron_weasley Is there anything you can do?
 gilderoy_lockhart Yes, now you mention it. I’m rather gifted with Memory
 harry_potter Don’t even think about it.
-moaning_myrtle myrtle Oh! Who’s there? Oh! Hello, harry! Ron. What do you want?
+moaning_myrtle Oh! Who’s there? Oh! Hello, harry! Ron. What do you want?
 harry_potter To ask you how you died.
-moaning_myrtle myrtle Oh! It was dreadful. It happened right here in this very
+moaning_myrtle Oh! It was dreadful. It happened right here in this very
 harry_potter Who was it Myrtle?
-moaning_myrtle myrtle I don’t know. I was Distraught! Huhh-huh…But they said
+moaning_myrtle I don’t know. I was Distraught! Huhh-huh…But they said
 harry_potter Just like that? How?
-moaning_myrtle myrtle I just remember seeing a pair of great big yellow eyes…over
+moaning_myrtle I just remember seeing a pair of great big yellow eyes…over
 harry_potter This is it. This is it, Ron. I think this is the entrance to the
 ron_weasley Say something. harry, say something in Parseltongue!
 harry_potter Hesha- Hassah.
@@ -835,9 +833,9 @@ gilderoy_lockhart Now, boys what good will it do?
 ron_weasley Better you than us.
 gilderoy_lockhart Um…but…obviously, yes. Sure you don’t want to test it
 harry_potter all right. Let’s go.
-moaning_myrtle myrtle Oh, harry? If you die down there, you’re welcome to share my
+moaning_myrtle Oh, harry? If you die down there, you’re welcome to share my
 harry_potter Uh…thanks Myrtle.
-harry_potter &amp; ron Aaah!
+harry_potter@ron_weasley Aaah!
 ron_weasley Ugh!
 harry_potter Now remember, any sign of movement, close your eyes straightaway.
 ron_weasley Go on.
@@ -903,9 +901,9 @@ ginny_weasley harry. It was me- but I swear, I didn’t mean to! Riddle made me,
 harry_potter Don’t worry. Ginny, you need to get yourself out. Follow the Chamber,
 gilderoy_lockhart Amazing! This is just like magic!
 albus_dumbledore You both realize, of course, that in the past few hours you have
-harry_potter ron Yes, sir.
+ron_weasley Yes, sir.
 albus_dumbledore And there is sufficient evidence to have you both expelled.
-harry_potter ron Yes, sir.
+harry_potter@ron_weasley Yes, sir.
 albus_dumbledore Therefore, it is only fitting, that you both receive Special
 ron_weasley Thanks, sir!
 albus_dumbledore And now, Mr. Weasley, if you would, have an owl deliver these
@@ -969,7 +967,7 @@ ron_weasley Uhh-um… Welcome back, Hermione.
 hermione_granger It’s good to be back! Congratulations! I can’t believe you solved it!
 harry_potter Well, we had loads of help from you. We couldn’t have done it without you.
 hermione_granger Thanks.
-gilderoy_lockhart mcgonagall Could I have your attention, please?
+professor_minerva_mcgonagall Could I have your attention, please?
 albus_dumbledore Before we begin the feast, let us have a round of applause for Professor Sprout and Madame Pomfrey, whose Mandrake juice has been so successfully administered to all who had been Petrified. Also, in light of the recent events, as a school treat, all exams have been canceled.
 hermione_granger Oh, no!
 hagrid Sorry I’m late! The owl that delivered my release papers got all lost and confused. Some ruddy bird called Errol. And I’d just like to say that aif it hadn’t been for you, harry, and Ron, and Hermione, o’ course, I woulduh- I’d still be you-know-where, so I- I’d just like to say ‘Thanks.’
