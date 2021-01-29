@@ -8,45 +8,38 @@ not_available Come on, love, off you get.
 not_available Do we have to?
 not_available Yes, we do.
 not_available I'll make you your favorite dinner to compensate.
-not_available He squealed like a pig, didn't he?
+dudleys_gang_member He squealed like a pig, didn't he?
 not_available Yeah, brilliant punch, Big D.
 not_available Did you see his face?
-not_available Hey, Big D.
-not_available Beat up another.
-not_available This one deserved it.
-not_available Yeah.
-not_available Five against one, very brave.
-not_available Well, you're one to talk.
-not_available Moaning in your sleep every night?
-not_available At least I'm not afraid of my pillow.
-not_available "Don't kill Cedric."
-not_available Who's Cedric, your boyfriend?
-not_available Shut up.
-not_available "He's going to kill me, Mum."
+harry_potter Hey Big D. Beat up another 10 year old?
+dudley_dursley This one deserved it.
+harry_potter Five against one. That's very brave.
+dudley_dursley Well you're one to talk, moaning in your sleep every night. At least I'm not afraid of my pillow. "Don't kill Cedric!" Who's Cedric, your boyfriend?
+harry_potter Shut up.
+dudley_dursley "He's going to kill me, Mum."
 not_available Where is your mum?
 not_available Where is your mum, Potter?
 not_available She dead?
 not_available Is she dead?
 not_available Is she a dead Pott...?
-not_available Dudley.
+dudleys_gang_member  Dudley.
 not_available Dudley, let's go.
-not_available What's going on?
+dudley_dursley What's going on?
 not_available What are you doing?
-not_available I'm not doing anything.
+harry_potter I'm not doing anything.
 not_available We're getting out of here, Dudley.
 not_available Come on, Dudley, hurry up.
 not_available Dudley, run.
 not_available Expecto Patronum.
 not_available Mrs. Figg.
-not_available Don't put away your wand, Harry.
-not_available They might come back.
-not_available Dementors in Little Whinging, whatever next?
-not_available Whole world's gone topsyturvy. 
-not_available I don't understand. How do you know...?
-not_available Dumbledore asked me to keep an eye on you.
-not_available Dumbledore asked you? You know Dumbledore?
-not_available After YouKnow
-not_available Who killed that poor Diggory boy last year... did you expect him to let you go wandering on your own?
+mrs_arabella_figg Don't put away your wand, Harry.
+mrs_arabella_figg They might come back.
+mrs_arabella_figg Dementors in Little Whinging, whatever next?
+mrs_arabella_figg Whole world's gone topsyturvy. 
+harry_potter I don't understand. How do you know...?
+mrs_arabella_figg Dumbledore asked me to keep an eye on you.
+mrs_arabella_figg After YouKnow
+mrs_arabella_figg Who killed that poor Diggory boy last year... did you expect him to let you go wandering on your own?
 not_available Good Lord, boy. They told me you were intelligent.
 not_available Now, get inside and stay there.
 not_available Expect someone will be in touch soon.
@@ -59,11 +52,10 @@ not_available Duddy. Vernon, come quick.
 not_available We're going to have to take him to a hospital.
 not_available Who did this to you, boy?
 not_available Happy, are we, now?
-not_available You've finally done it. You've finally driven him loopy.
-not_available Vernon, don't say that.
-not_available Well, just look at him, Petunia. Our boy has gone yumpy.
-not_available I've reached my limit, do you hear?
-not_available This is the last I'm gonna take of you and your nonsense.
+vernon_dursley Happy, are we, now? You've finally done it! You've finally driven him loopy!
+petunia_dursley Vernon! Don't say that!
+vernon_dursley Just look at him, Petunia! Our boy has gone yumpy!
+vernon_dursley I've reached my limit, do you hear? This is the last I'm gonna take of you and your nonsense!
 not_available Dear Mr. Potter.
 not_available What?
 not_available The Ministry has received intelligence that at 6:23 this evening... you performed the Patronus Charm in the presence of a Muggle.
@@ -78,8 +70,6 @@ not_available Unnatural.
 not_available Professor Moody.
 not_available What are you doing here?
 not_available Rescuing you, of course.
-not_available But where are we going? The letter said I've been expelled.
-not_available You haven't been. Not yet.
 not_available Kingsley, you take point.
 harry_potter Where are we going? The letter said I had been expelled from Hogwarts.
 alastor_moody Well, you haven't been. Not yet. Kingsley, you take point.
@@ -120,29 +110,18 @@ not_available There, there, mistress.
 not_available Scum of the earth. Not like it was in the days of my fathers.
 not_available Kreacher is here.
 not_available Oh, Harry.
-not_available Are you all right? We overheard them talking about the Dementor attack.
-not_available You must tell us everything.
-not_available Let the man breathe, Hermione.
-not_available And this hearing at the Ministry. It's just outrageous.
-not_available I've looked it up. They simply can't expel you.
-not_available It's completely unfair.
-not_available Yeah.
-not_available There's a lot of that going round at the moment.
-not_available So, what is this place?
-not_available It's headquarters.
-not_available Of the Order of the Phoenix.
-not_available It's a secret society.
-not_available Dumbledore formed it back when they fought YouKnow
-not_available Who.
-not_available Couldn't have put any of this in a letter, I suppose?
-not_available I've gone all summer without a scrap of news.
-not_available We wanted to write, mate. Really, we did.
-not_available Only...
-not_available Only what?
-not_available Only Dumbledore made us swear not to tell you anything.
-not_available Dumbledore said that?
-not_available But why would he keep me in the dark? Maybe I could help.
-not_available I'm the one who saw Voldemort return... the one who fought him, who saw Cedric Diggory get killed.
+hermione_granger Oh, Harry!
+hermione_granger Are you all right? We overheard them talking about the dementor attack. You must tell us everything.
+ron_weasley Let the man breathe, Hermione.
+hermione_granger And this hearing at the Ministry. It's just outrageous! I've looked it up, they simply can't expel you. It's completely unfair!
+harry_potter There's a lot of that going around, Hermione. So what is this place?
+ron_weasley Headquarters.
+hermione_granger Of the Order of the Phoenix. It's a secret society. Dumbledore formed it back when they first fought You-Know-Who.
+harry_potter You couldn't have put this in a letter, I suppose. I've gone all summer without a scrap of news.
+ron_weasley We wanted to tell you, mate. Really, we did. Only...
+harry_potter Only what?
+hermione_granger Only Dumbledore made us swear that we wouldn't tell you anything.
+harry_potter Dumbledore said that? But why would he want to keep me in the dark? Maybe I could help. After all, I'm the one who saw Voldemort return, I'm the one who fought him, I'm the one who saw Cedric Diggory get killed!
 not_available Harry.
 not_available Thought we heard your dulcet tones.
 not_available Don't bottle it up, though, mate. Let it out.
@@ -273,12 +252,10 @@ not_available I love you.
 not_available Hold my hand, lovey.
 not_available There they are. They're in the far carriage.
 not_available Bye.
-not_available I'm surprised the Ministry's still letting you walk around free.
-not_available Better enjoy it while you can.
-not_available I expect there's a cell in Azkaban with your name on it.
-not_available What'd I tell you? Complete nutter.
-not_available Just stay away from me!
-not_available It's only Malfoy.
+draco_malfoy I'm surprised the Ministry's still letting you walk around free, Potter. You better enjoy it while you can. I expect there's a cell in Azkaban with your name on it.
+draco_malfoy What'd I tell you? Complete nutter.
+harry_potter JUST STAY AWAY FROM ME!
+ron_weasley It's only Malfoy.
 not_available What'd you expect?
 not_available Hi, guys.
 not_available Hey, Neville.
@@ -289,15 +266,13 @@ ron_weasley What's what?
 harry_potter That. Pulling the carriage.
 hermione_granger Nothing's pulling the carriage, Harry. It's pulling itself like always.
 luna_lovegood You're not going mad. I see them too. You're just as sane as I am.
-not_available Everyone, this is Loony Love...
-not_available Luna Lovegood.
-not_available What an interesting necklace.
-not_available It's a charm, actually.
-not_available Keeps away the Nargles.
-not_available Hungry.
-not_available I hope there's pudding.
-not_available What's a Nargle?
-not_available No idea.
+hermione_granger Everyone, this is Loony Love...
+hermione_granger Luna Lovegood.
+hermione_granger So... that's an interesting necklace.
+luna_lovegood It's a charm actually. It keeps away the Nargles.
+luna_lovegood Hungry. I hope they have pudding.
+neville_longbottom What's a Nargle?
+hermione_granger No idea.
 not_available Good evening, children.
 not_available Now, we have two changes in staffing this year.
 not_available We're pleased to welcome back Professor Grubbly
@@ -362,14 +337,12 @@ dolores_umbridge ENOUGH! Enough. See me later, Mr. Potter. My office.
 not_available Come in.
 not_available Good evening, Mr. Potter.
 not_available Sit.
-not_available You're going to be doing some lines for me today, Mr. Potter.
-not_available No, not with your quill.
-not_available Going to be using a rather special one of mine.
-not_available Now... I want you to write, "I must not tell lies."
-not_available How many times?
-not_available Well, let's say for as long as it takes for the message to sink in.
-not_available You haven't given me any ink.
-not_available Oh, you won't need any ink.
+dolores_umbridge You're going to be doing some lines for me, Mr. Potter.
+dolores_umbridge No, not with your quill. You're going to be using a rather special one of mine. Now, I want you to write "I must not tell lies."
+harry_potter How many times?
+dolores_umbridge Let's see... As long as it takes for the message to sink in.
+harry_potter You haven't given me any ink.
+dolores_umbridge Oh, you won't need any ink.
 not_available Yes?
 not_available Nothing.
 not_available That's right.
@@ -402,14 +375,14 @@ not_available Winter is definitely on the way.
 not_available In spite of being back at Hogwarts, I feel more alone than ever.
 not_available I know you, of all people, will understand.
 not_available Hello, Harry Potter.
-not_available Your feet. Aren ' t they cold?
-not_available Bit.
+luna_lovegood Your feet. Aren ' t they cold?
+harry_potter Bit.
 not_available Unfortunately, all my shoes have mysteriously disappeared.
 not_available I suspect Nargles are behind it.
 not_available What are they?
-not_available They're called Thestrals.
-not_available They're quite gentle, really, but people avoid them because they're a bit...
-not_available Different.
+luna_lovegood They're called Thestrals.
+harry_potter They're quite gentle, really, but people avoid them because they're a bit...
+harry_potter Different.
 harry_potter So why can't the others see them?
 luna_lovegood They can only be seen by people who've seen death.
 harry_potter So... you've known someone who's died?
@@ -420,8 +393,8 @@ harry_potter Thanks. It seems you're about the only ones that do.
 luna_lovegood I don't think that's true. But I suppose that's how he wants you to feel.
 harry_potter What do you mean?
 luna_lovegood Well, if I were You-Know-Who, I'd want you to feel cut off from everyone else. Because if it's just you alone, you're not as much of a threat.
-not_available Do you ever stop eating?
-not_available What? I'm hungry.
+ hermione_granger Do you ever stop eating?
+ron_weasley What? I'm hungry. 
 not_available Harry.
 not_available Can I join you?
 dolores_umbridge Pardon me, professor, but what exactly are you insinuating?
@@ -442,12 +415,10 @@ professor_severus_snape Obviously.
 not_available Could you please predict something for me?
 not_available I'm sorry?
 not_available Move those mouths.
-not_available One teensy little prophecy?
-not_available Pity.
-not_available No, wait. Wait, no. I think I do see something.
-not_available Yes, I do. Something dark.
-not_available You are in grave danger.
-not_available Lovely.
+dolores_umbridge One teensy little prophecy?
+dolores_umbridge Pity.
+professor_sybil_trelawney No, wait! Wait! I think I do see something! Yes... I do! Something dark! You are in grave danger!
+dolores_umbridge Lovely!
 not_available Cho. What's going on?
 not_available It's Professor Trelawney.
 professor_sybil_trelawney Sixteen years I've lived and taught here! Hogwarts is my home! You can't do this!
@@ -479,15 +450,9 @@ not_available Training you to kill half
 not_available breeds?
 not_available She's not letting us use magic at all.
 not_available Well, I'm not surprised.
-not_available The latest intelligence is that Fudge doesn't want you trained in combat.
-not_available Combat?
-not_available What does he think, we're forming some sort of wizard army?
-not_available That's exactly what he thinks.
-not_available That Dumbledore is assembling his own forces to take on the Ministry.
-not_available He's becoming more paranoid by the minute.
-not_available The others wouldn't want me telling you this, Harry... but things aren't going at all well with the Order.
-not_available Fudge is blocking the truth at every turn... and these disappearances are just how it started before.
-not_available Voldemort is on the move.
+sirius_black The latest intelligence is that Fudge doesn't want you trained in combat.
+ron_weasley Combat? What does he think, that we're forming some sort of wizard army?
+sirius_black That's exactly what he thinks. That Dumbledore is assembling his own forces to take on the Ministry. He's becoming more paranoid by the minute. The others wouldn't want me telling you this, Harry, but things aren't going at all well with the Order. Fudge is blocking the truth at every turn, and these disappearances are just how it started before. Voldemort is on the move.
 not_available Well, what can we do?
 not_available Someone's coming.
 not_available I'm sorry I can't be of more help.
@@ -896,17 +861,10 @@ lord_voldemort I need that prophecy.
 sirius_black You'll have to kill me.
 lord_voldemort Oh I will, but first you will fetch it for me. Crucio! Crucio!
 not_available Sirius.
-not_available Harry, are you sure?
-not_available I saw it. It's just like with Mr. Weasley.
-not_available It's the door I've been dreaming about.
-not_available I couldn't remember where I'd seen it before.
-not_available Sirius said Voldemort was after something.
-not_available Something he didn't have the last time, in the Department of Mysteries.
-not_available Harry, please, just listen.
-not_available What if Voldemort meant for you to see this?
-not_available What if he's only hurting Sirius because he's trying to get to you?
-not_available What if he is? I'm supposed to just let him die?
-not_available Hermione, he's the only family I've got left.
+hermione_granger Harry, are you sure?
+harry_potter I saw it! It's just like with Mr. Weasley! It's the same door I've been dreaming about for months, only I couldn't remember where I'd seen it before! Sirius said Voldemort was after something, something he didn't have last time, and it's in the department of Mysteries!
+hermione_granger Harry, please just listen! What if Voldemort meant for you to see this? What if he's only hurting Sirius because he's trying to get to you?
+harry_potter What if he is? I'm supposed to just let him die? Hermione, he's the only family I've got left!
 not_available What do we do?
 not_available We'll have to use the Floo Network.
 not_available Umbridge has the chimneys under surveillance.
