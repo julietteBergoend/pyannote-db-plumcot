@@ -1,8 +1,8 @@
-not_available These are dark time there is no denying.
-not_available Our world has perhaps faced no greater threat than it does today.
-not_available But I say this to our citizens.
-not_available We, ever your servants ... Will continue to defend you liberty and repel the forces that seek to take it from you.
-not_available Your ministry remains strong.
+minister_rufus_scrimgeour These are dark time there is no denying.
+minister_rufus_scrimgeour Our world has perhaps faced no greater threat than it does today.
+minister_rufus_scrimgeour But I say this to our citizens.
+minister_rufus_scrimgeour We, ever your servants ... Will continue to defend you liberty and repel the forces that seek to take it from you.
+minister_rufus_scrimgeour Your ministry remains strong.
 not_available Dark Mark
 not_available SPARKS PANIC
 not_available VOILENCE SPREADS
@@ -39,34 +39,15 @@ not_available in the protection of Harry Potter.
 not_available Those closest to him think
 not_available that we have infiltrated the Ministry.
 not_available Well, they got that right., didn't they ?
-not_available What say you , Pius?
-not_available One hears many things
-not_available my lord.
-not_available But whether the truth is
-not_available among them, is not clear.
-not_available Spoken like a true politican.
-not_available you will I think
-not_available prove most useful, Pius.
-not_available Where will he be taken the boy?
-not_available To a safe house.
-not_available Most likely the home
-not_available of someone in the Order.
-not_available I'm told its been given protection
-not_available of every manner possible
-not_available Once there it will be
-not_available impractical to attack him
-not_available My lord, I'd like to
-not_available volunteer myself for this task.
-not_available I want to kill the boy
-not_available Wormtail
-not_available Have i not spoken to you
-not_available about keeping our guest quiet ?
-not_available Yes, my lord.
-not_available Right away, my lord.
-not_available As inspiring as I find
-not_available your bloodlust, Bellatrix ...
-not_available ... I must be the one
-not_available to kill Harry Potter.
+lord_voldemort What say you, Pius?
+pius_thicknesse One hears many things, my Lord. Which among them is the truth is not clear.
+lord_voldemort Ha! Spoken like a true politician. You will, I think, prove most useful, Pius.
+lord_voldemort Where will he be taken, the boy?
+professor_severus_snape To a safe house. Most likely the home of someone in the Order. I've been told he's been given every manner of protection possible. Once there, it will be impractical to attack him.
+bellatrix_lestrange My Lord, I'd like to volunteer for this task. I want to kill the boy.
+lord_voldemort Wormtail! Have I not spoken to you about keeping our guest quiet?
+wormtail Yes, my Lord. Right away, my Lord.
+lord_voldemort As inspiring as I find your bloodlust Bellatrix, I must be the one to kill Harry Potter.
 not_available But I face an
 not_available unfortunate complication.
 not_available My wand and the Potters
@@ -80,8 +61,8 @@ not_available anothers wand
 not_available Well, surely one of you
 not_available would like the honor
 not_available What about you, Lucius?
-not_available My lord?
-not_available "My Lord"?
+lucius_malfoy My Lord?
+lord_voldemort My Lord?
 not_available I require your wand.
 not_available Do I detect elm?
 not_available Yes, my Lord.
@@ -103,10 +84,9 @@ not_available Muggle blood is not an abomination ...
 not_available ... but something,
 not_available to be encouraged.
 not_available Severus.
-not_available Severus, please.
-not_available We're friends.
-not_available Nagini.
-not_available Dinner.
+charity_burbage Severus, please! We were friends...
+lord_voldemort Avada Kedavra!
+lord_voldemort Nagini... dinner.
 not_available Hello Harry!
 not_available Hi!
 not_available Hi!
@@ -133,24 +113,13 @@ not_available By the way,
 not_available Wait till you hear the news...
 not_available Can't wait no time for cozy catch up.
 not_available We have to get the hell out of here.
-not_available Potter, you are underage, which means
-not_available you've still got the trace on you.
-not_available What is the trace?
-not_available If you sneezed, the Ministry
-not_available will know who wiped your nose.
-not_available The point is that we have to use those modes,
-not_available of transport which the trace can't detect
-not_available Brooms, thestrals and like
-not_available We'll go in pairs.
-not_available That way if anything is out there waiting
-not_available for us...I reckon there will be
-not_available ... they won't know which
-not_available Harry Potter is the real one.
-not_available The real one ?
-not_available I do believe you are fully
-not_available aware of this particular brew
-not_available No, absolutely not.
-not_available I told you he won't take it well.
+alastor_moody Potter, you're underage. Which means you still have the trace on you.
+harry_potter What's the trace?
+alastor_moody If you sneeze, the Ministry will know who wipes your nose. Point is we'll have to use those means of transport the trace can't detect. Brooms, thestrals, anf the like. We'll go in pairs, that way if anyones out there waiting for us, and I reckon there will be, they won't know which Harry Potter is the real one.
+harry_potter The real one?
+alastor_moody I believe you're familiar with this particular brew.
+harry_potter No, absolutely not.
+hermione_granger Told you he'd take it well.
 not_available No, if you think that I'll let,
 not_available everyone risk their lives for me ...
 not_available Have done if before, haven't we.
@@ -169,15 +138,12 @@ not_available Nip it, Mundungus.
 not_available Alright Granger its discussed
 not_available Blimey, Hermione!
 not_available Put it in there, please.
-not_available For those of you who haven't taken
-not_available polyjuice potion before, fair warning.
-not_available Tastes like goblin piss
-not_available Have enough of that
-not_available experience do you Mad
-not_available eye?
-not_available Just trying to defuse the
-not_available tension.
-not_available Wow! we are identical!
+alastor_moody For those of you who haven't taken
+alastor_moody polyjuice potion before, 
+alastor_moody Fair warning, it tastes like goblin piss.
+fred_weasley Have lots of experience with that, do you, Mad-Eye?
+fred_weasley Just trying to diffuse the tension.
+fred_weasley@george_weasley Wow! we are identical!
 not_available Not yet you are not.
 not_available Haven't you got something a bit more sporting?
 not_available Yeah I don't really fancy this color.
@@ -185,9 +151,9 @@ not_available Well fancy this , you are not you
 not_available so shove it up and strip
 not_available Alright, Alright
 not_available You too, Potter.
-not_available Bill, look away, I'm hideous.
+fleur_delacour Bill, look away, I'm hideous.
 not_available Ginny did lie about that tattoo.
-not_available Harry, your eyesight really is aweful.
+herminone_granger Harry, your eyesight really is aweful.
 not_available Well,we will be pairing off.
 not_available Everyone will have a protector.
 not_available Mundungus, stick tight to me.
@@ -253,28 +219,23 @@ not_available you were being moved tonight.
 not_available I had to make sure,
 not_available you were not an imposter.
 not_available Wait!
-not_available The last words Albus Dumbledore,
-not_available spoke to the pair of us.
-not_available "Harry is the best hope we have."
-not_available "Trust him."
+kingsley_shacklebol The last words Albus Dumbledore spoke to the pair of us.
+remus_lupin "Harry is the best hope we have. Trust him."
 not_available What gave you away?
 not_available Hedwig i think.
 not_available She was trying to protect me.
 not_available Thanks.
-not_available He deserves that. Brilliant he was.
-not_available I wouldn't be standing here if it weren't for him.
-not_available Really?
-not_available Why is it always so suprising?
+nymphadora_tonks Deserves that. Brilliant, he was. Wouldn't be standing here without him.
+hermione_granger Really?
+ron_weasley Why is it so surprising ? 
 not_available We are the last back?.
 not_available Where's George?
-not_available How are you feeling, Georgie?
-not_available Saintlike.
-not_available Come again?
-not_available Saintlike.
-not_available Im holey. I'm holey fred
-not_available Get it?
-not_available A whole wide world of ear related
-not_available humour and you go for holey.
+fred_weasley How you feeling, Georgie?
+george_weasley ...Saint-like.
+fred_weasley ...Come again?
+george_weasley Saint-like.
+george_weasley I'm holey.
+fred_weasley Pathetic! With the whole wide world of ear-related humor before you, you go for "holey"?
 not_available Pathetic.
 not_available I'm still better looking than you.
 not_available Mad
@@ -294,25 +255,14 @@ not_available Harry ...
 not_available Trust me.
 not_available Do not lie to me. Do not lie to me.
 not_available Not
-not_available Going somewhere?
-not_available Nobody else is going to die.
-not_available Not for me.
-not_available Because of you?
-not_available You think Mad
-not_available Eye died
-not_available for you?
-not_available Think George
-not_available took that curse for you?
-not_available You maybe the chosen one, mate ...
-not_available ... but this is a whole lot bigger than that.
-not_available Its always been bigger than that.
+ ron_weasley Going somewhere?
+harry_potter No one else is going to die. Not for me.
+ron_weasley For you? You think Mad-Eye died for you? You think George took that curse for you? You may be the Chosen One, mate, but this is a whole lot bigger than that. 
 not_available Come with me.
 not_available And leave Hermione?
 not_available Are you mad.
-not_available We won't last two days.
-not_available without her
-not_available Do not tell her
-not_available I said that.
+ ron_weasley We wouldn't last two days without her.
+ron_weasley Don't tell her I said that. 
 not_available Besides you still have the trace on you,
 not_available you still got the wedding ...
 not_available ... the wedding ...
@@ -342,12 +292,8 @@ not_available RITA SKEETER LAUNCHES NEW BOOK
 not_available DUMBLEDORE REMEMBERED
 not_available BY ELPHIAS DOGE
 not_available Zip me up, will you ?
-not_available It seems silly doesn't it
-not_available the wedding
-not_available considering whats
-not_available going on
-not_available Maybe thats the best reason to have it.
-not_available inspite of whats going on
+ginny_weasley Seems silly, doesn't it? A wedding. Given everything that's going on.
+harry_potter Maybe that's the best reason to have it. Because of everything that's going on.
 not_available Morning.
 not_available All together now!
 not_available One! Two! Three!
@@ -380,12 +326,8 @@ not_available "... I leave my copy of
 not_available Tales of Beedle the Bard ..."
 not_available "... In the hope that she finds it
 not_available entertaining and instructive "
-not_available Mom used to tell me those.
-not_available The wizard and the hopping pot,
-not_available Babbity Rabbity and the Cackling Stump ...
-not_available Come on.
-not_available Babbity Rabbity...
-not_available No?
+ron_weasley Mum used to read those to me as a kid! "The Wizard and the Hopping Pot," "Babbity Rabbity And Her Cackling Stump"...
+ron_weasley Come on! Babitty Rabbity... No?
 not_available "To Harry James Potter ..."
 not_available "... I leave the snitch he caught
 not_available in his first match at Hogwarts... "
@@ -419,30 +361,14 @@ not_available to, Mr. Potter ...
 not_available ... but you can't fight
 not_available this war on your own
 not_available He is too strong.
-not_available Hello, Harry.
-not_available i've interrupted
-not_available deep thoughts, haven't I?
-not_available I see a growing
-not_available in your eyes
-not_available Of course not.
-not_available How are you, Luna?
-not_available Very well, The garden
-not_available gnome has bitten my finger...
-not_available Gnome saliva is s very benificial.
-not_available Xenophilius Lovegood.
-not_available We live just over the hill.
-not_available Pleasure to meet you, sir.
-not_available I trust you know
-not_available Mr. Potter ...
-not_available ... we at the Quibbler, disagree with Daily Prophet,
-not_available and have always fully supported Dumbledore ...
-not_available ... during his lifetime and after his death,
-not_available and we also support you.
-not_available Thank you.
-not_available Come Daddy.
-not_available Harry does not want to talk to us right now?.
-not_available He is just too polite
-not_available to point it out.
+luna_lovegood Hello, Harry! Oh, I've interrupted a deep thought, haven't I? I can see it growing smaller in your eyes.
+harry_potter No, of course not. How are you, Luna?
+luna_lovegood Very well. I was bitten by a garden gnome only moments ago.
+xenophilius_lovegood Gnome saliva is enormously beneficial! Xenophilius Lovegood.
+xenophilius_lovegood We live just over the hill!
+harry_potter Very nice to meet you, sir.
+xenophilius_lovegood I trust you to know, Mr. Potter, that we at the Quibbler, unlike those toadies at the Daily Prophet, fully supported Dumbledore during his lifetime, and his death support you as fully.
+luna_lovegood Come, Daddy. Harry doesn't wanna talk to us right now. He's just too polite to say so.
 not_available Harry Potter ...
 not_available Excuse me, sir.
 not_available May I sit down?
@@ -516,7 +442,7 @@ not_available Kreacher?
 not_available It is Master Regulus's locket!
 not_available There were two, weren't there?
 not_available Where is the other one?
-not_available Kreacher deosn't know
+not_available Kreacher doesn't know
 not_available about the other locket.
 not_available Yes, but did you ever see it?
 not_available It was in this house.
@@ -539,11 +465,8 @@ not_available Who was it, Kreacher?
 not_available Mundungus.
 not_available Mundungus Fletcher.
 not_available Find him.
-not_available My father will hear about this.
-not_available Hey loosers.
-not_available He isn't here.
-not_available HARRY POTTER
-not_available UNDESIRABLE NUMBER 1
+cormac_mclaggen My father *will* hear about this.
+neville_longbottom Hey, losers. He isn't here.
 not_available As your new Minister of Magic ...
 not_available ... I promise to restore this temple
 not_available of tolerance to its former glory.
@@ -617,14 +540,13 @@ not_available we'll get inside.
 not_available And then ...
 not_available It gets really tricky.
 not_available Right.
-not_available This is completely mental.
-not_available "Completely ?"
-not_available The world is mental.
+harry_potter This is mental.
+hermione_granger Completely mental.
+ron_weasley The world's mental.
 not_available Come on.
 not_available We have a Horcrux to find.
-not_available We have to flush
-not_available ourselves in.
-not_available Its bloody Disgusting.
+ ron_weasley We have to flush ourselves in!
+ron_weasley That's disgusting. 
 not_available Are those ...?
 not_available Muggles.
 not_available In there ... rightful place.
@@ -633,10 +555,8 @@ not_available stop to freak out a bit.
 not_available How long did you say
 not_available this polyjuice potion will last, Hermione?
 not_available I didn't.
-not_available Cattermole.
-not_available Its still raining inside my
-not_available office. Its been two days now.
-not_available Have you tried an umbrella?
+death_eater_yaxley Cattermole! It's still raining inside my office!
+ron_weasley Uh... have you tried an umbrella? 
 not_available You realize i'm going downstairs
 not_available don't you, Cattermole?
 not_available Downstairs?
@@ -648,12 +568,9 @@ not_available needed a job doing ...
 not_available ... I think I might just
 not_available make that a priority
 not_available You have one hour.
-not_available Oh my god,
-not_available what am I gonna do?
-not_available My wife is all alone
-not_available downstairs.
-not_available Ron, you don't have a wife.
-not_available Oh right.
+ron_weasley Oh my God. What am I gonna do? My wife's all alone downstairs!
+harry_potter Ron, you don't have a wife.
+ron_weasley Oh Right.
 not_available Level 2
 not_available How do I stop it raining
 not_available Try Finite Incantatem.
@@ -702,27 +619,20 @@ not_available Mother to Maisie, Ellie and Alfred;
 not_available Wife to Reginald?
 not_available Regi.
 not_available Thank you, Albert.
-not_available Mary Elizabeth Cattermole.
-not_available Yes?
-not_available A wand was taken from you
-not_available upon your arrival at the Ministry Mrs Cattermole
-not_available Is this that wand?
-not_available Would you please tell the court,
-not_available from witch or wizard you took this wand ?
-not_available No one.
-not_available I bought it in Diagon Alley,
-not_available by Ollivanders, when I was 11.
-not_available It chose me.
-not_available You are lying. Wands choose only witches,
-not_available and you're not a witch.
-not_available But I am.
-not_available Tell them, Reg, tell them I am.
-not_available What on Earth are you doing, Albert?
-not_available You are lying, Dolores.
-not_available One must not tell lies.
-not_available Stupefy!
-not_available It's Harry Potter!
-not_available It is him. Its okay to tell the kids.
+dolores_umbridge Mary Elizabeth Cattermole?
+mary_cattermole Yes?
+dolores_umbridge A wand was taken from you upon your arrival at the Ministry today, Mrs. Cattermole. Is this that wand?
+dolores_umbridge Would you please tell the court from which witch or wizard you took this wand?
+mary_cattermole But I didn't take it. I got it in Diagon Alley, at Ollivander's when I was eleven. It chose me.
+dolores_umbridge You're lying.
+dolores_umbridge Wands only choose witches, and you are not a witch.
+mary_cattermole But I am!
+mary_cattermole Tell them, Reg, tell them what I am! Reg, tell them what I am!
+dolores_umbridge What on earth are you doing, Albert?
+harry_potter You're lying, Dolores.
+harry_potter And one mustn't tell lies! STUPEFY!
+mary_cattermole It's Harry Potter!
+ron_weasley Yeah, it is, isn't it? This'll be one to tell the kids.
 not_available Expecto patronum!
 not_available Mary.
 not_available Go on home.
@@ -840,13 +750,12 @@ not_available These are confirmed.
 not_available Oh, thank you.
 not_available He doesn't know what he is doing? does he?
 not_available None of us do.
-not_available Oh My God !
-not_available What?
-not_available I'll tell you in a minute.
-not_available You can tell me now?
-not_available Sword of Gryffindor .
-not_available Its goblin made
-not_available Brilliant.
+hermione_granger Oh my God...
+harry_potter What?
+hermione_granger I'll tell you in a minute.
+harry_potter How about you tell me now?
+hermione_granger Alright. The Sword of Gryffindor. It's Goblin-made.
+harry_potter Brilliant!
 not_available No, you don't understand.
 not_available Dirt and dust
 not_available have no effect on the blade.
@@ -870,10 +779,7 @@ not_available Thats why Dumbledore
 not_available left it to you in his will.
 not_available You're brilliant, Hermione.
 not_available Truely.
-not_available Actually, I just highly logical thinking,
-not_available which allows to me see past and irrelevant details ...
-not_available ... and perceived cleary which
-not_available others overlook
+hermione_granger Actually I'm highly logical which allows me to look past extraneous detail and perceive clearly that which others overlook. 
 not_available Yeah, there is only one problem.
 not_available Someone stole the sword.
 not_available Hey, I'm still here.
@@ -888,25 +794,15 @@ not_available of it as we are to finding the rest, aren't we?
 not_available Ron, Please, take off the Horcrux ...
 not_available you wouldn't have spoken like this
 not_available if you hadn't wore it all day
-not_available You know, why I listen to the radio every night?
-not_available To make sure that i don't hear Ginny's name,
-not_available or Fred, or George or moms ...
-not_available You think i don't know that ?
-not_available You think i don't know how it feels?
-not_available You don't know how it feels!
-not_available Your parents are dead!
-not_available You have no family!
-not_available Stop! Stop!
-not_available Let me Go!
-not_available Go Then
-not_available Ron ...
-not_available And you?
-not_available Are you coming or
-not_available are you staying?
-not_available Fine. I get it.
-not_available I saw you two the other night.
-not_available Ron's ...
-not_available There is nothing.
+ron_weasley You don't know why I listen to the radio, do you? To make sure I don't hear Ginny's name. Or Fred, or George, or Mum.
+harry_potter You think I'm not listening too? You think I don't know how this feels?
+ron_weasley No, you *don't* know how it feels! Your parents are dead! You have no family!
+hermione_granger Stop!
+harry_potter Fine then, go! Go then! Leave the locket.
+hermione_granger Ron...
+ron_weasley And you? Are you coming or are you staying?
+ron_weasley Fine. I get it. I saw you two the other night.
+hermione_granger Ron, that's - that's nothing!
 not_available Ron!
 not_available Ron, where are you going?
 not_available Come back, now!
@@ -959,12 +855,8 @@ not_available than the birthplace of founder of Gryffindor
 not_available Hermione ...
 not_available Don't tell me I have to give
 not_available you a haircut again
-not_available I still think that we
-not_available should use Polyjuice Potion.
-not_available No.
-not_available This is where I was born.
-not_available I don't want to return?,
-not_available as someone else.
+hermione_granger I still think we should have used Polyjuice Potion.
+harry_potter No. This is where I was born. I'm not returning as someone else.
 not_available Harry, I think it is Christmas eve.
 not_available Listen.
 not_available Do you think they are here, Hermione?
@@ -972,8 +864,8 @@ not_available My mom and dad.
 not_available I think so.
 not_available Ignotus Peverell.
 not_available Hey, Harry?
-not_available Merry Christmas, Hermione.
-not_available Merry Christmas, Harry.
+ harry_potter Merry Christmas, Hermione.
+hermione_granger Merry Christmas, Harry. 
 not_available Harry, someone is watching us.
 not_available Near the church.
 not_available I think I know who it is.
@@ -1029,7 +921,7 @@ not_available Lumos.
 not_available Accio sword!
 not_available Diffindo.
 not_available Hermione?
-not_available Are you mental?
+ron_weasley Are you mental?
 not_available Ron, is that you?
 not_available Yes.
 not_available Didn't hurt yourself did you ?
@@ -1052,42 +944,29 @@ not_available The bit of Riddle in the diary was trying to kill me?.
 not_available One.
 not_available Two.
 not_available Three.
-not_available and I see your heart and it is mine.
-not_available I see your dreams,
-not_available Ronald Weasley.
-not_available I see your fear.
-not_available hated her mother,
-not_available who longed for a daughter.
-not_available Not My Favorites girl? om,
-not_available wishing your friend a.
-not_available Ron!
-not_available we were better without you.
-not_available happy without you ? astnej��.
-not_available Who would choose you ...
-not_available ... compared to Harry Potter?
-not_available What are you compared to the chosen one?
-not_available Ron, its lying!
-not_available Your mother confessed,
-not_available she would prefer as a son.
-not_available What woman would take you?
-not_available you are .
-not_available Nothing...Nothing
-not_available Nothing compared to him.
-not_available Just think
-not_available There are only three to go.
+tom_marvolo_riddle I have seen your heart and it is mine. I have seen your dreams, Ronald Weasley, and I have seen your fears...
+harry_potter Ron! Don't listen to it!
+tom_marvolo_riddle Least loved by the mother who craved a daughter. Least loved, by the girl who prefers your friend...
+harry_potter Ron! Stab it!
+tom_marvolo_riddle We were better without you, happier without you.
+tom_marvolo_riddle Who could look at you beside Harry Potter? What are you, compared to the Chosen One...?
+harry_potter Ron! It lies! Stab it! STAB IT!
+tom_marvolo_riddle Your mother confessed that she would have preferred me as a son...
+tom_marvolo_riddle Who wouldn't prefer him? What woman would take you? You are nothing... nothing... nothing to him...
+ron_weasley NOOO!
+ron_weasley Just think... only three to go.
 not_available Hermione?
 not_available Hermione?
 not_available Is everything alright?
 not_available Fine...
 not_available Actually its more than fine.
-not_available Hi.
-not_available You ...
-not_available ... a complete arse of,
-not_available a Weasley!
-not_available You show up here after weeks
-not_available and you say 'hey'?
-not_available Where's my wand, Harry?
-not_available Where is my wand?
+ron_weasley Hey!
+hermione_granger  You...
+hermione_granger Complete...
+hermione_granger *Arse*, Ronald Weasley! You show up here after weeks, and you say 'Hey'?
+hermione_granger Where's my wand, Harry? Where's my wand?
+harry_potter I don't know!
+hermione_granger Harry Potter, you give me my wand!
 not_available I don't know.
 not_available Harry Potter
 not_available You give me my wand!
@@ -1105,33 +984,13 @@ not_available bloody Horcrux, why will that change anything.
 not_available I wanted to come back
 not_available as soon as I left.
 not_available just didn't know how to find you
-not_available how did you found us ?
-not_available With this. Doesn't just
-not_available Turn out lights
-not_available I don't know how it works
-not_available but christmas morning I sleping in this little pub ...
-not_available ... keeping away from some snatchers.
-not_available When I heard it.
-not_available What?
-not_available Voice.
-not_available Your voice, Hermione.
-not_available comin out of it.
-not_available And what exactly did I say
-not_available if I may ask?
-not_available My name.
-not_available Just my name.
-not_available like a Whisper
-not_available So I took it, clicked it ...
-not_available ... this tiny ball of light appeared
-not_available And I knew.
-not_available sure enough.
-not_available Flew towards me,
-not_available ball of light.
-not_available Right into my chest.
-not_available Straight through me.
-not_available Right here
-not_available I knew that it was gonna take me
-not_available where I needed to go
+ harry_potter How did you find us?
+ron_weasley With this. It doesn't just turn off lights. I don't know how it works, but Christmas morning, I was sleeping in this little pub, keeping away from some Snatchers, and I heard it.
+harry_potter "It"?
+ron_weasley A voice. Your voice, Hermione. Coming out of it.
+hermione_granger And what exactly did I say, may I ask?
+ron_weasley My name. Just my name. Like a whisper. So I took it, clicked it and this tiny ball of light appeared. And I knew. And sure enough, it floated towards me, the ball of light, right through my chest and straight through me. Right here
+ron_weasley And I knew it was going to take me where I needed to go. 
 not_available so I disapparated
 not_available came to this hillside
 not_available It was dark, I had
@@ -1139,20 +998,10 @@ not_available no idea where I was.
 not_available I just hoped
 not_available One of you will show yourself
 not_available you did
-not_available I have always liked these flames
-not_available Hermione makes.
-not_available How long do you think
-not_available she will stay mad at me?
-not_available i don't know ...
-not_available just keep talking about that little ball,
-not_available and it might touch her in the heart ...
-not_available ... and she will come around.
-not_available It's true. Every word.
-not_available This is gonna sound crazy.
-not_available But I think,thats why Dubledore left it to me
-not_available The delumin�tor.
-not_available I think somehow he knew
-not_available I'll need to find my way back
+ron_weasley I've always liked these flames Hermione makes.
+ron_weasley How long do you reckon she'll stay mad at me?
+harry_potter Well, just keep talking about that little ball of light touching your heart, and she'll come 'round.
+ron_weasley It was true, every word. This is gonna sound crazy, but I think that's why Dumbledore left it to me, the Deluminator. I think he knew that somehow I'd need it to find my way back, and she'd lead me.
 not_available Hey, I just realized
 not_available you need a wand, don't yout?
 not_available I got one here.
@@ -1192,8 +1041,8 @@ not_available Yeah. Hermione's right.
 not_available We ought to see Lovegood
 not_available Lets vote.
 not_available Those in favor.
-not_available are you still mad at him?
-not_available I am always mad at him
+harry_potter You're not still mad at him, are you?
+hermione_granger I'm always mad at him.
 not_available KEEP OFF THE
 not_available DIRIGIBLE PLUMS
 not_available Do not touch
@@ -1228,104 +1077,13 @@ not_available familiar with the tale of the three brothers?
 not_available Yes.
 not_available No.
 not_available I have it in here.
-not_available There were once three brothers,
-not_available who were travelling along a lonely
-not_available winding road ...
-not_available ... at twilight
-not_available Midnight.
-not_available Mom always said midnight.
-not_available Twilight is fine.
-not_available better actually.
-not_available There were once three brothers,
-not_available who were travelling along a lonely
-not_available winding road ...
-not_available ... at twilight.
-not_available In time the brothers reached a
-not_available river too treacherous to pass
-not_available But they were learned in the magical arts
-not_available the three brothers simply waved their wands..
-not_available ... and made a bridge.
-not_available Before they could cross however they
-not_available found their path blocked by a hooded figure.
-not_available It was Death
-not_available And he felt cheated
-not_available Cheated, because travelers
-not_available usually drowned in the river.
-not_available But Death was cunning.
-not_available he pretended to congratulate
-not_available the three brothers .on their magic..
-not_available ... and said,
-not_available that each had earned a prize ...
-not_available ... for being clever enough
-not_available to evade him
-not_available the oldest asked for a wand,
-not_available more powerful than any in existence
-not_available so death fashioned him a wand
-not_available from the elder tree that stood nearby
-not_available The second brother he decided
-not_available he wanted to humiliate death
-not_available even further..
-not_available ... and asked for the power
-not_available to recall loved ones from
-not_available their graves
-not_available So Death picked a stone from the river
-not_available and offered it to him.
-not_available Finally, Death turned to
-not_available the third brother.
-not_available A humble man, asked for something
-not_available that allowed him to go from that place...
-not_available ...without being followed
-not_available by death
-not_available And so it was that death reluctantly
-not_available handed over his own cloak of
-not_available invisibility
-not_available The first brother travelled
-not_available to a distant village...
-not_available ... with the elder wand in his hand
-not_available he killed a wizard with whom he once had quarrels..
-not_available Drunk with the power that
-not_available the elder wand had given him..
-not_available ... he bragged about it
-not_available You shall not prevail against his nose? ou.
-not_available But that night ...
-not_available ...another wizard stole the wand
-not_available and slit the brothers throat for good measure.
-not_available And so the death took the first brother.
-not_available for his own
-not_available The second brother journeyed home,
-not_available where he took the stone and
-not_available turned it thrice in his hand
-not_available To his delight the girl he once
-not_available wanted to marry before her untimely death...
-not_available ... appeared before him.
-not_available But soon she turned sad and cold
-not_available because she did not belong to the mortal world
-not_available Driven mad with hopeless longing
-not_available the second brother killed himself
-not_available so as to join her
-not_available And so death took the second brother
-not_available As for the third brother Death
-not_available searched for many years
-not_available but was never able to find him
-not_available only when he had attained a great age the
-not_available youngest brother shed the cloak of invisibilty
-not_available and gave it to his son ...
-not_available .. he then greeted death
-not_available as a old friend
-not_available and went with him gladly
-not_available departing this life as equals
-not_available so there we are
-not_available Those are the Deathly Hallows.
+hermione_granger "There were once three brothers, who were traveling along a lonely winding road at twilight. In time, the brothers reached a river too treacherous to pass. But being learned in the magical arts, the three brothers simply waved their wands and made a bridge. Before they could cross, however, they found their path blocked by a hooded figure. It was Death, and he felt cheated, cheated because travelers would normally drown in the river. But Death was cunning. He pretended to congratulate the three brothers on their magic, and said that each had earned a prize for being clever enough to evade him. The oldest asked for a wand more powerful than any in existence, so Death fashioned one from an elder tree that stood nearby. The second brother decided he wanted to humiliate Death even further, and asked for the power to recall loved ones from the grave. So Death plucked a stone from the river and offered it to him. Finally, Death turned to the third brother. A humble man, he asked for something that would allow him to go forth from that place without being followed by Death. And so it was that Death reluctantly handed over his own cloak of invisibility. The first brother traveled to a distant village, where with the Elder Wand in hand, he killed a wizard with whom he had once quarreled. Drunk with the power that the Elder Wand had given him, he bragged of his invincibility. But that night, another wizard stole the Wand and slit the brother's throat for good measure. And so Death took the first brother for his own. The second brother journeyed to his home, where he took the Stone and turned it thrice in hand. To his delight, the girl he'd once hoped to marry before her untimely death appeared before him. Yet soon she turned sad and cold, for she did not belong in the living world. Driven mad with hopeless longing, the second brother killed himself so as to join her. And so Death took the second brother. As for the third brother, Death searched for many years, but was never able to find him. Only when he attained a great age did the youngest brother shed the Cloak of Invisibility and give it to his son. He then greeted Death as an old friend and went with him gladly, departing this life as equals."
+xenophilius_lovegood So there you are. Those are the Deathly Hallows.
 not_available I'm sorry sir,
 not_available I still don't quite understand.
-not_available The Elder wand ...
-not_available ... the most powerful wand
-not_available ever made.
-not_available The resurrection stone
-not_available The cloak of invisibility
-not_available Together, they make the Deathly Hallows.
-not_available Together they make one
-not_available master of death.
+xenophilius_lovegood The Elder Wand, the most powerful wand ever made.
+xenophilius_lovegood The Resurrection Stone.
+xenophilius_lovegood The Cloak of Invisibility. Together, they make the Deathly Hallows. Together, they make one master of death.
 not_available That mark was on the grave in
 not_available Godrics Hollow.
 not_available Mr. Lovegood, does the Peverell
@@ -1364,9 +1122,8 @@ not_available they kidnapped her
 not_available because he supported me.
 not_available He was just desperate.
 not_available I'll do the enchantments.
-not_available Hello beautiful.
-not_available Don;t just hang back
-not_available Snatch them
+scabior Hello beautiful.
+scabior Well, don't just hang in there. Snatch 'em!
 not_available Harry.
 not_available Tell me. what to do Tell me, where it is.
 not_available Grindelwald.
@@ -1392,8 +1149,8 @@ not_available you know who's had the elder wand.
 not_available Do not touch her!
 not_available Your boyfriend will get much worse for that
 not_available if he doesn't learn to behave himself
-not_available And what happened to you, ugly?
-not_available No, not you.
+scabior What happened to you ugly?
+scabior No, not you.
 not_available What is your name?
 not_available Dudley. Vernon Dudley.
 not_available Check it.
@@ -1426,10 +1183,10 @@ not_available If this isn't who you
 not_available think it is Draco ...
 not_available ... and we will call Him,
 not_available He'll kill us all. We need to be absolutely sure!
-not_available Whats wrong with his face?
-not_available Yes, what it wrong with his face?
-not_available We captured him like that.
-not_available Something he captured in the forrest I reckom
+draco_malfoy Whats wrong with his face?
+bellatrix_lestrange Yes, what it wrong with his face?
+scabior We captured him like that.
+scabior Something he captured in the forrest I reckon
 not_available That happens during a stinging jinx
 not_available Was it you
 not_available Give me your wand, let's see
@@ -1450,11 +1207,9 @@ not_available We can't leave Hermione alone with her!
 not_available Ron?
 not_available Harry?
 not_available Luna?
-not_available The Sword is meant to be in my vault
-not_available How did you get it?
-not_available Did you and your friend STEAL FROM MY VAULT?
-not_available I didn't take anything.
-not_available I do not believe you.
+bellatrix_lestrange That sword is meant to be in my vault at Gringotts, how did you get it? Did you and your friends take it from my vault?
+hermione_granger I didn't take anything. Please. I didn't take anything.
+bellatrix_lestrange I don't believe it.
 not_available We have to do something?!
 not_available There is no way out of here.
 not_available We tried everything.
@@ -1481,9 +1236,8 @@ not_available and Mr. Ollivander, please.
 not_available Take them to shell cottage
 not_available its near the sea.
 not_available Trust me.
-not_available When you're ready, sir.
-not_available Sir?
-not_available I like her very much!
+luna_lovegood Whenever you're ready, Sir.
+dobby "Sir"? I like her very much.
 not_available Meet me at top of the
 not_available stairs in ten seconds.
 not_available Who gets his wand?
@@ -1519,19 +1273,12 @@ not_available Just in time for the Dark Lord.
 not_available Call him.
 not_available Call him
 not_available Stupefy!
-not_available Stupid elf!
-not_available You could have kill me?!
-not_available Dobby never meant to kill .
-not_available Dobby only meant to maim or
-not_available seriously injure
+bellatrix_lestrange You stupid elf! You could have killed me!
+dobby Dobby never meant to kill! Dobby only meant to maim, or seriously injure!
 not_available How dare you take a
 not_available witch's wand?
-not_available How dare you
-not_available defy your masters?
-not_available Dobby has no master!
-not_available Dobby is a free elf...
-not_available ... and Dobby has come to save
-not_available Harry Potter and his friends
+bellatrix_lestrange How dare you defy your master!
+dobby Dobby has no master. Dobby is a free elf, and Dobby has come to save Harry Potter and his friends!
 not_available Hermione!
 not_available Are you alright?
 not_available We are safe.
@@ -1554,9 +1301,7 @@ not_available Dobby is Happy ...
 not_available ... that may be
 not_available with his friend ...
 not_available ... Harry Potter.
-not_available We should close his eyes ...
-not_available ... don't you think
-not_available There
-not_available Now he could be sleeping.
+luna_lovegood We should close his eyes. Don't you think?
+luna_lovegood There. Now he could be sleeping.
 not_available I want to bury him...
-not_available ...Properly, without magic.
+harry_potter I want to bury him. Properly, without magic. 
