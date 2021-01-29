@@ -1,22 +1,18 @@
-not_available It's beautiful here.
-not_available It was our aunt's.
-not_available We used to come here as kids.
-not_available The Order uses it now as a safe house.
-not_available What's left of us atleast.
-not_available Muggles think these things keep evil away.
-not_available But they're wrong.
-not_available I need to talk to the Goblin.
+ luna_lovegood It's beautiful here.
+bill_weasley It was our aunt's. We used to come here as kids. The order uses it now as a safe house. What's left of us at least.
+luna_lovegood Muggles think these keep away evil, but they're wrong.
+harry_potter I need to talk to the goblin. 
 not_available How are you?
 not_available You buried the elf?
 not_available Yes.
 not_available And brought me here.
 not_available You are...
 not_available Pretty unusual, is it?
-not_available How did you come by the sword?
-not_available It's complicated.
-not_available Why did Bellatrix Lestrange think
-not_available that it should be in her vault at Gringotts?
-not_available It's complicated.
+griphook How did you come by the sword?
+harry_potter  It's complicated.
+harry_potter  Why did Bellatrix Lestrange think
+harry_potter e that it should be in her vault at Gringotts?
+griphook It's complicated.
 not_available The sword presented itself to us,
 not_available in moment of need.
 not_available We didn't steal it.
@@ -205,19 +201,18 @@ not_available Everything you touch will multiply.
 not_available Give me the sword.
 not_available Stop moving!
 not_available Do it!
-not_available We had deal, Griphook!
-not_available The cup for the sword!
-not_available I said I'll get you in,
-not_available I didn't say anything about getting you out.
-not_available Griphook! Thieves!
-not_available Griphook!
-not_available Hey, thieves!
-not_available Is that okay?
-not_available We've still got Bogrod.
-not_available That's unfortunate.
-not_available We can't just stand here,
-not_available You got any idea?
-not_available Should be a brilliant one.
+harry_potter We had a deal, Griphook!
+griphook The cup for the sword!
+griphook I said I'd get you in. I didn't say anything about getting you out!
+harry_potter GRIPHOOK!
+griphook THIEVES!
+harry_potter GRIPHOOK!
+griphook HELP, THIEVES!
+ron_weasley That foul little git! At least we've still got Bogrod.
+ron_weasley That's unfortunate! 
+hermione_grander We can't just stand here. Who's got an idea?
+ron_weasley Don't ask us. You're the brilliant one!
+.
 not_available I've got something,
 not_available but it's mad!
 not_available Reducto
@@ -261,14 +256,14 @@ not_available You saw it?
 not_available I saw the castle.
 not_available And Rowena Ravenclaw.
 not_available It must have something to do with her.
-not_available We have to go there, now!
-not_available Well, we can't do that!
-not_available We've got to plan,
-not_available we've got to figure it out!
-not_available Hermione, when have any of
-not_available our plans ever actually worked?
-not_available We plan, we get there,
-not_available all hell breaks loose.
+harry_potter We have to go there, now!
+hermione_granger Well, we can't do that!
+hermione_granger We've got to plan,
+hermione_granger we've got to figure it out!
+harry_potter Hermione, when have any of
+harry_potter our plans ever actually worked?
+harry_potter We plan, we get there,
+harry_potter all hell breaks loose.
 not_available He's right!
 not_available One problem...
 not_available Snape's Headmaster now,
@@ -339,21 +334,12 @@ not_available Which job my brother has given you, it's a suicide mission.
 not_available Do yourself a favor, boy.
 not_available Go home!
 not_available Live a little longer.
-not_available Dumbledore trusted me to see this through.
-not_available What makes you think you can trust him?
-not_available What makes you think you can
-not_available believe anything my brother told you?
-not_available And in all the time you knew him...
-not_available Did he ever mention my name?
-not_available Did he ever mentioned hers?
-not_available Why should he...
-not_available Keep secrets.
-not_available You tell me?
-not_available I trusted him.
-not_available That's the boy's answer.
-not_available A boy goes chasing Horcruxes is on the word of
-not_available a man who wouldn't even tell him where to start.
-not_available You're lying!
+harry_potter Dumbledore trusted me to see this through.
+aberforth_dumbledore What makes you think you can trust him? What makes you think you can believe anything my brother told you? In all the time you knew him, did he ever mention my name? Did he ever mention hers?
+harry_potter Why should he...
+aberforth_dumbledore ...Keep secrets, you tell me?
+harry_potter I trusted him.
+aberforth_dumbledore That's a boy's answer. A boy who goes chasing horcruxes on the word of a man who wouldn't even tell you where to start. You're lying!
 not_available Not just on me, it doesn't matter.
 not_available To yourself as well.
 not_available That's what a fool does.
@@ -424,25 +410,18 @@ not_available Who does.
 not_available ...Do you read? we've a new weather report.
 not_available Lightning has struck. I 
 repeat Lightning has struck.
-not_available What's the fun, Harry?
-not_available Okay.
-not_available There's something we need to find.
-not_available There's something hidden here, in the castle.
-not_available And it may help us to defeat
-not_available YouKnow
-not_available Who.
-not_available Alright, what is it?
-not_available We don't know.
-not_available Where is it?
-not_available We don't know that either.
-not_available I realize that's not much to go on.
-not_available That's nothing to go on.
+neville_longbottom Right then, so what's the plan Harry?
+harry_potter Okay, there's something we need to find, something hidden here in the castle, and it may help us defeat You-Know-Who.
+neville_longbottom Right, what is it?
+harry_potter We don't know.
+dean_thomas Where is it?
+harry_potter We don't know that either. I realise that's not much to go on.
+seamus_finnigan That's nothing to go on.
 not_available I think it has something to do with Ravenclaw.
 not_available It'll be small, easily concealed.
 not_available Anyone, any ideas?
-not_available Well, there's Rowena Ravenclaw's lost diadem.
-not_available Oh, bloody hell!
-not_available Here we go!
+luna_lovegood Well, there's Rowena Ravenclaw's lost diadem.
+ron_weasley Oh bloody hell, here we go.
 not_available Lost diadem of Ravenclaw?
 not_available Hasn't anyone heard of it?
 not_available It's quite famous.
@@ -453,44 +432,22 @@ not_available Excuse me, can someone tell me what bloody diadem is?
 not_available It's a sort of crown.
 not_available You know, like a tiara.
 not_available Harry!
-not_available Hi, there.
-not_available Six months she hasn't seen me and
-not_available it's like I'm a frankie first
-not_available year.
-not_available I'm her brother!
-not_available She got lots of them, but she has got only one Harry.
-not_available Shut up, Seamus!
+ginny_weasley Harry!
+harry_potter Hi there.
+ron_weasley Six months she hadn't see me, it's like I'm a Frankie First Year. I'm only her brother...
+seamus_finnigan She's got lots of them, but there's only one Harry.
+ron_weasley Shut up Seamus.
 not_available What is it, Ginny?
 not_available Snape knows... he knows
 not_available that Harry was spotted in Hogsmeade.
-not_available Many of you are surely wondering,
-not_available why I have summoned you at this hour.
-not_available It's come to my attention,
-not_available that earlier this evening...
-not_available Harry Potter was sighted in Hogsmeade.
-not_available Now...
-not_available should anyone...
-not_available student or staff attempt to aid Mr. Potter?
-not_available They will be punished in a manner consistent with
-not_available the severity of their transcription, further more...
-not_available Any person found have
-not_available knowledge of these events...
-not_available who fails to come forward...
-not_available will be treated as equally guilty.
-not_available Another...
-not_available If anyone in here has any knowledge of
-not_available Mr. Potter's movements this evening.
-not_available I invite them to step forward.
-not_available Now!
-not_available It seems, despite your exhaustive defensive strategies,
-not_available ...you still have a security problem, Headmaster.
-not_available I'm afraid it's quite extensive.
-not_available How dare you stand where he stood?
-not_available Tell them how it happened that night?
-not_available Tell them how you looked him in the eye...
-not_available A man who trusted you, and killed him.
-not_available Tell them!
-not_available COWARD!
+professor_severus_snape You are surely wondering why I have summoned you at this hour. It has come to my attention earlier this evening, Harry Potter was sighted in Hogsmeade.
+professor_severus_snape Now, should anyone, student or staff, attempt to aid Mr. Potter, they will be punished in a manner consistent with the severity of their transgression.
+professor_severus_snape Furthermore, any person found to have knowledge of these events who fails to come forward will be treated as... equally guilty. Now then...
+professor_severus_snape ... if anyone in here has any knowledge of Mr. Potter's movements this evening...
+professor_severus_snape ... I invite them to step forward... now.
+harry_potter It seems, despite your exhaustive defenses strategies, you still have a bit of a security problem, Headmaster.
+harry_potter I'm afraid it's quite extensive, how dare you stand where he stood. Tell them how it happened that night! Tell them how you looked him in the eye, a man who trusted you, and killed him! Tell them!
+professor_minerva_mcgonagall Coward!
 not_available Harry.
 not_available Potter?
 not_available I know that many of you will want to fight.
@@ -501,8 +458,8 @@ not_available Do this and none shall be harmed.
 not_available Give me Harry Potter, and I shall leave Hogwarts untouched.
 not_available Give me Harry Potter, and you will be rewarded.
 not_available You have one hour.
-not_available What're you waiting for?
-not_available Someone grab him!
+pansy_parkinson What you waiting for?
+pansy_parkinson Someone grab him! 
 not_available Students out of bed!
 not_available Students in the corridor!
 not_available They're supposed to be out of bed,
@@ -514,12 +471,12 @@ not_available If you would, I wouldd like you please, to lead Miss Parkinson
 not_available and the rest of Slytherin house, from the hall.
 not_available Exactly where is it I'll be leading 'em to, ma'am?
 not_available The dungeons would do.
-not_available I presume you have a reason for returning, Potter.
-not_available What is it you need?
-not_available Time, Professor.
-not_available As much as you can get me.
-not_available Do what you have to do.
-not_available I'll secure the castle.
+professor_minerva_mcgonagall I presume you have a reason for returning, Potter.
+professor_minerva_mcgonagall What is it you need?
+harry_potter Time, Professor.
+harry_potte As much as you can get me.
+professor_minerva_mcgonagall Do what you have to do.
+professor_minerva_mcgonagall I'll secure the castle.
 not_available Potter...
 not_available It's good to see you.
 not_available It's good to see you too, Professor.
@@ -553,27 +510,17 @@ not_available Boom!
 not_available Boom!
 not_available Wicked!
 not_available But how on earth are we gonna do that?
-not_available Why don't you confer with Mr. Finnigan?
-not_available As I recall, he has a particular
-not_available proclivity for pyro
-not_available technics.
-not_available I can bring it down.
-not_available That's the spirit!
-not_available Well, you go.
-not_available You do realize, of course, we can't
-not_available keep out YouKnow
-not_available Who indefinitely.
-not_available That doesn't mean
-not_available we can't delay him.
-not_available And his name is Voldemort.
-not_available Filius, you might as well use it.
-not_available He's come to try to kill you, either way!
+professor_minerva_mcgonagall Why don't you confer with Mr. Finnigan? As I recall, he has a particular proclivity for pyrotechnics.
+seamus_finnigan I can bring it down!
+professor_minerva_mcgonagall That's the spirit, now away you go.
+griphook You do realize we can't keep out You-Know-Who indefinitely.
+professor_minerva_mcgonagall That doesn't mean we can't delay him. And his name is Voldemort, Filius. You might as well use it, he's going to try and kill you either way.
 not_available Piertotum Locomotor.
-not_available Hogwarts is threatened.
+professor_minerva_mcgonagall  Hogwarts is threatened.
 not_available Man the boundaries! Protect us.
 not_available Do your duty...
 not_available ...to our school.
-not_available I always wanted to use that spell!
+professor_minerva_mcgonagall  I always wanted to use that spell!
 not_available Protego Maxima
 not_available Fianto Duri
 not_available Repello Inimigotum
@@ -586,19 +533,13 @@ not_available Repello Inimigotum
 not_available Protego Maxima
 not_available Harry, wait!
 not_available I need to talk to you!
-not_available I'm a bit pre
-not_available occupied at the moment, Luna.
-not_available You don't know where you're going.
-not_available You're wasting your time!
-not_available Look, we'll talk later, okay?
-not_available Harry?
-not_available Later.
-not_available Harry Potter, you listen to me right now!
-not_available Do you remember what Cho said
-not_available about Rowena Ravenclaw's diadem?
-not_available There is not a person alive who's seen it.
-not_available It's obvious, isn't it?
-not_available We have to talk to someone who's dead.
+luna_lovegood Harry, wait, I need to talk to you.
+harry_potter I'm a bit preoccupied at the moment, Luna.
+luna_lovegood You won't find it where you're going, you're wasting your time.
+harry_potter We'll talk later, ok?
+luna_lovegood Harry!
+harry_potter Later!
+luna_lovegood Harry Potter! You listen to me right now! Don't you remember what Cho said about Rowena Ravenclaw's diadem? There's not a person alive whose seen it. It's obvious isn't it? You have to talk to someone who's dead.
 not_available It's very impressive, isn't it?
 not_available If you want to find her,
 not_available you'll find her down there.
@@ -664,13 +605,13 @@ not_available Remus and I will handle this side of the castle.
 not_available Yes, sir!
 not_available Hey Dean, with second thoughts, tell Professor McGonagall we
 not_available might need one or two more wands this side.
-not_available It is the quality of one's convictions that determines one's success..
-not_available ...not the number of followers.
-not_available Who said that?
-not_available Me.
-not_available You okay, Freddie?
-not_available Yeah.
-not_available Me too.
+remus_lupin  It is the quality of one's convictions that determines one's success..
+remus_lupin  ...not the number of followers.
+kingsley_shacklebolt Who said that?
+remus_lupin  Me.
+george_weasley You okay, Freddie?
+fred_weasley Yeah.
+george_weasley Me too.
 not_available Harry talks this in sleep.
 not_available You know it?
 not_available No, of course, not!
@@ -684,15 +625,11 @@ not_available Neville!
 not_available That went well.
 not_available Get inside!
 not_available Stupefy
-not_available Ginny, Neville!
-not_available You alright?
-not_available Never better!
-not_available I feel like I can spit fire!
-not_available Have you seen Luna up there?
-not_available Luna?
-not_available I'm mad for her. I think it�s about time I told her
-not_available since we�ll probably both be dead by dawn.
-not_available I know.
+harry_potter Ginny! Neville! Are you all right?
+neville_longbottom Never better! I feel like I could spit fire! You haven't seen Luna have you?
+harry_potter Luna?
+neville_longbottom I'm mad for her. I think it's about time I told her, since we'll probably both be dead by dawn!
+ginny_weasley I know.
 not_available Bloody hell!
 not_available We'll never find him on this.
 not_available Here he is!
@@ -707,30 +644,20 @@ not_available That's right, I did.
 not_available Let's go.
 not_available Brilliant!
 not_available Come on!
-not_available Well, well...
-not_available What brings you here, Potter?
-not_available I could ask you the same.
-not_available You have something that's mine.
-not_available I'd like it back.
-not_available What's wrong with the wand you have?
-not_available It's my mother's.
-not_available It's powerful, but it's...
-not_available ..not the same.
-not_available Doesn't quite understand me.
-not_available You know what I mean?
-not_available Why didn't you tell her?
-not_available Bellatrix?
-not_available You knew it was me.
-not_available You didn't say anything.
-not_available Come on, Draco!
-not_available Don't be a prat.
-not_available Do it!
-not_available Easy!
+draco_malfoy Well, well! What brings you here, Potter?
+harry_potter I would ask you the same.
+draco_malfoy You have something of mine, I'd like it back.
+harry_potter What's wrong with the one you have?
+draco_malfoy It's my mother's, it's powerful but it's... not the same. It doesn't quite... understand me. You know what I mean?
+harry_potter Why didn't you tell her? Bellatrix.
+harry_potter You knew it was me. You didn't say anything.
+gregory_goyle Go on, Draco! Don't be a prat! Do him!
+draco_malfoy Easy!
 not_available Expelliarmus
-not_available Avada Kedavra
+gregory_goyle Avada Kedavra
 not_available Stupefy
-not_available This is my girlfriend,
-not_available you bloody gits!
+ron_weasley This is my girlfriend,
+ron_weasley you bloody gits!
 not_available Got it!
 not_available They've set the bloody place on fire!
 not_available Come on!
@@ -750,19 +677,11 @@ not_available Look inside him, Harry.
 not_available Find out where he is,
 not_available if you find him, we can find the snake.
 not_available And we can end this!
-not_available My Lord...
-not_available Might it be less...
-not_available I should not be more prudent to call off this attack.
-not_available Simply seek the boy.
-not_available Yourself.
-not_available I do not need to seek the boy...
-not_available ...before the night is out, he will come to me!
-not_available Do you understand?
-not_available Look at me!
-not_available How can you live with yourself, Lucius?
-not_available I don't know.
-not_available Go and find Severus.
-not_available Bring him to me.
+lucius_malfoy My Lord... might it... be less, uh - might it not be more prudent to call off this attack and simply seek the boy yourself?
+lord_voldemort I do not need to seek the boy! Before the night is out, he will come to ME! Do you understand!
+lord_voldemort Look at me! How can you live with yourself, Lucius?
+lucius_malfoy I don't know.
+lord_voldemort Go and find Severus. Bring him to me.
 not_available I know where he is.
 not_available Come on!
 not_available No!
@@ -782,24 +701,12 @@ not_available It answers to you,
 not_available and you only.
 not_available Does it?
 not_available My Lord?
-not_available The wand, does it truly
-not_available answer to me?
-not_available You're a clever man, Severus.
-not_available Surely you must know...
-not_available Where does its true loyalty lie?
-not_available With you...
-not_available Of course, My Lord.
-not_available The Elder Wand cannot serve me properly,
-not_available because I am not its true master.
-not_available The Elder Wand belongs to the
-not_available wizard who killed its last owner.
-not_available You killed Dumbledore, Severus.
-not_available While you live, the Elder
-not_available Wand cannot truly be mine.
-not_available You've been a good and faithful servant, Severus.
-not_available But only I can live forever.
-not_available My Lord...
-not_available Nagini, kill!
+ lord_voldemort The wand, does it truly answer to me? You're a clever man, Severus. Surely you must know. Where does its true loyalty lie?
+professor_severus_snape With you... of course, my Lord.
+lord_voldemort The Elder Wand cannot serve me properly because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner.
+lord_voldemort You killed Dumbledore, Severus. While you live, the Elder Wand cannot truly be mine. You've been a good and faithful servant Severus - but only I can live... forever.
+professor_severus_snape My Lord...
+lord_voldemort Nagini, kill! 
 not_available Take it...
 not_available Take it up, please!
 not_available Give me something!
@@ -807,33 +714,21 @@ not_available Quickly, a flask. Anything!
 not_available Take them to the Pensieve.
 not_available Look at me...
 not_available You really have your mother's eyes.
-not_available You've fought valiantly,
-not_available but in vain...
-not_available I do not wish this. Every drop of magical blood
-not_available spilled is a terrible waste.
-not_available I therefore command my forces to retreat...
-not_available In their absence,
-not_available dispose your dead with dignity,
-not_available Harry Potter, I now speak directly to you.
-not_available On this night, you have allowed your friends to die
-not_available for you, rather than face me yourself.
-not_available There is no greater dishonor.
-not_available Join me in the Forbidden Forrest...
-not_available ...and confront your fate.
-not_available If you do not do this, I shall kill every last man,
-not_available woman and child who tries to conceal you from me.
-not_available Where's everybody?
-not_available Harry?
-not_available Oh, come on!
-not_available Don't be sad on it, she's passed.
-not_available There, she's gone.
+lord_voldemort You have fought valiantly, but in vain.
+lord_voldemort I do not wish this. Every drop of magical blood spilled is a terrible waste. I therefore command my forces to retreat.
+lord_voldemort In their absence, dispose of your dead with dignity. Harry Potter, I now speak directly to you. On this night, you have allowed your friends to die for you rather than face me yourself.
+lord_voldemort There is no greater dishonor. Join me in the Forbidden Forest and confront your fate. If you do not do this, I shall kill every last man, woman and child who tries to conceal you from me.
+ hermione_grander Where is everybody?
+professor_horace_slughorn  Harry...
+professor_pomona_sprout Oh come on, what's the matter with you?
+padma_patil Oh, she's passed.
+professor_sybil_trelawney There, she's gone.
 not_available Freak! Come here! I'm gonna tell mommy!
 not_available You're freak!
 not_available You're freak, Lily!
 not_available Come here!
-not_available She's jealous.
-not_available She's ordinary and you're special.
-not_available That's not true, Severus.
+young_severus_snape She's just jealous. That she's ordinary, and you're special.
+young_lily_potter That's mean, Severus.
 not_available Gryffindor!
 not_available Hi, I'm James.
 not_available Hi, I'm Lily.
@@ -841,15 +736,11 @@ not_available Just like your father.
 not_available Don't say a word against my father!
 not_available Masters shall be reunited once more!
 not_available Severus.
-not_available Don't kill me!
-not_available The prophecy did not refer to a woman.
-not_available It spoke about a boy born at the end of the July.
-not_available Yes, but it's her son!
-not_available He intends to hunt them down and kill them.
-not_available Hide him... hide them all.
-not_available I beg you!
-not_available What would you give me in exchange, Severus?
-not_available Anything.
+professor_severus_snape No! Don't kill me!
+albus_dumbledore The prophecy did not refer to a women. It spoke of a boy born at the end of July.
+professor_severus_snape Yes but, he thinks its her son! He intends to hunt them down now, to kill them. Hide her, hide them all. I beg you.
+albus_dumbledore What will you give me in return, Severus?
+professor_severus_snape Anything.
 not_available Harry...
 not_available Harry, you were so loved.
 not_available So loved!
@@ -862,17 +753,12 @@ not_available You said you would keep her safe.
 not_available Lily and James...
 not_available put their faith in the wrong person, Severus.
 not_available Rather like you.
-not_available The boy survives.
-not_available He doesn't need protection,
-not_available the Dark Lord has gone.
-not_available The Dark Lord will return.
-not_available And when he does, the boy
-not_available will be in terrible danger!
-not_available He has her eyes.
-not_available If you truly loved her...
-not_available No one, can know.
-not_available I shall never reveal the best of you,
-not_available Severus.
+albus_dumbledore The boy survives.
+professor_severus_snape He doesn't need protection, the Dark Lord is gone!
+albus_dumbledore The Dark Lord will return! And when he does, the boy will be in terrible danger! He has her eyes.
+albus_dumbledore If you truly loved her...
+professor_severus_snape No one... can know.
+albus_dumbledore That I shall never reveal the best of you, Severus?
 not_available Your word?
 not_available Can you risk your life every day
 not_available to protect the boy?
@@ -887,94 +773,59 @@ not_available It will spread, Albus.
 not_available How long?
 not_available Maybe a year.
 not_available Don't ignore me, Severus.
-not_available We both know Lord Voldemort has ordered
-not_available the Malfoy boy to murder me.
-not_available But should he fail, I should presume
-not_available the Dark Lord will turn to you.
-not_available You must be the one to kill me, Severus.
-not_available It is the only way.
-not_available Only then, will the Dark Lord trust you completely.
-not_available There will come a time, when Harry Potter,
-not_available must be told something.
-not_available But you must wait, until Voldemort is at his most vulnerable.
-not_available Must be told what?
-not_available On the night Lord Voldemort went
-not_available to Godric's Hollow to kill Harry...
-not_available Then, Lily Potter cast herself between them...
-not_available ...the curse rebounded.
-not_available When that happens, a part of Voldemort's soul...
-not_available latched itself onto the only living thing it could find...
-not_available Harry himself.
-not_available There's a reason Harry can speak with snakes...
-not_available There's a reason he can look into Lord Voldemort's mind...
-not_available A part of Voldemort lives inside him.
-not_available So, when the time comes...
-not_available ...the boy must die?
-not_available Yes... yes.
-not_available He must die.
-not_available You've kept him alive, so he can
-not_available die at the proper moment?
-not_available You've been raising him like a pig for slaughter.
-not_available Don't tell me now, that you've
-not_available grown to care for the boy.
-not_available Expecto Patronum
-not_available Lily!
-not_available After all this time!
-not_available Always.
+ albus_dumbledore We both know Lord Voldemort has ordered the Malfoy boy to murder me. But should he fail, I should presume the Dark Lord will turn to you. You must be the one to kill me, Severus. It is the only way. Only then will the Dark Lord trust you completely.
+albus_dumbledore There will come a time when Harry Potter must be told something. But you must wait until Voldemort is at his most vulnerable.
+professor_severus_snape Must be told what?
+albus_dumbledore On the night Lord Voldemort went to Godric's Hollow to kill Harry, and Lily Potter cast herself between them, the curse rebounded. When that happened, a part of Voldemort's soul latched itself onto the only living thing it could find. Harry himself. There's a reason Harry can speak with snakes. There's a reason he can look into Lord Voldemort's mind. A part of Voldemort lives inside him.
+professor_severus_snape So when the time comes... the boy must die?
+albus_dumbledore Yes. Yes... he must die.
+professor_severus_snape You've kept him alive so that he can die at the proper moment. You've been raising him like a pig for slaughter!
+albus_dumbledore Don't tell me now that you've grown to care for the boy.
+albus_dumbledore Lily.
+albus_dumbledore After all this time!
+professor_severus_snape Always.
 not_available So, when the time comes...
 not_available ...the boy must die?
 not_available Yes.
 not_available He must die.
 not_available And Voldemort himself must do it.
 not_available That is essential.
-not_available Where've you been?
-not_available I thought you went to the forest.
-not_available I'm going there now.
-not_available Are you mad?
-not_available No...
-not_available You can't give yourself up to him.
-not_available What is it, Harry?
-not_available What is it you know?
-not_available There is a reason I can hear them.
-not_available The Horcruxes.
-not_available I think I've known for a while.
-not_available And I think you have, too.
-not_available I'll go with you.
-not_available No, kill the snake.
-not_available Kill the snake, and it's just him!
-not_available I'm ready to die.
-not_available Resurrection Stone.
-not_available You've been so brave, sweetheart.
-not_available Why are you here?
-not_available All of you.
-not_available We never left.
-not_available Does...
-not_available Does it hurt?
-not_available Dying?
-not_available Quicker than falling asleep.
-not_available You're nearly there, son.
-not_available I'm sorry.
-not_available I never wanted any of you to die for me.
-not_available And, Remus, your son?
-not_available Others will tell him what his
-not_available mother and father died for.
-not_available One day, he'll understand.
-not_available You'll stay with me?
-not_available Until the end.
-not_available And he won't be able to see you?
-not_available No.
-not_available We're here, you see.
-not_available Stay close to me.
-not_available Always.
+ hermione_grander Where have you been?
+ron_weasley We thought you went to the Forest.
+harry_potter I'm going there now.
+ron_weasley Are you mad? No. You can't give yourself up to him.
+hermione_grander What is it, Harry? What is it you know?
+harry_potter There's a reason I can hear them... the Horcruxes. I think I've known for awhile.
+harry_potter And I think you have too.
+hermione_grander I'll go with you!
+harry_potter No. Kill the snake. Kill the snake and then it's just him. 
+ harry_potter I'm ready to die.
+harry_potter The Resurrection Stone...
+lily_potter You've been so brave, sweetheart.
+harry_potter Why are you here? All of you?
+lily_potter We never left.
+harry_potter Does it-does it hurt? Dying?
+sirius_black Quicker than falling asleep.
+james_potter You're nearly there, son.
+harry_potter I'm sorry. I never wanted any of you to die for me.
+harry_potter And Remus, your son...
+remus_lupin Others will tell him what his mother and father died for. One day, he'll understand.
+harry_potter You'll stay with me?
+james_potter Until the end.
+harry_potter And he won't be able to see you?
+sirius_black No.
+sirius_black We're here, you see.
+harry_potter Stay close to me.
+lily_potter Always. 
 not_available No sign of him, My Lord.
 not_available I thought he'd come.
 not_available Harry, no!
 not_available What're yeh doin' 'ere?
 not_available Quiet!
-not_available Harry Potter...
-not_available ...The Boy Who Lived...
-not_available ...come to die.
-not_available Avada Kedavra
+lord_voldemort Harry Potter...
+lord_voldemort ...The Boy Who Lived...
+lord_voldemort ...come to die.
+lord_voldemort Avada Kedavra
 not_available You can't help...
 not_available Harry, you're a wonderful boy...
 not_available You brave, brave man!
@@ -1000,25 +851,22 @@ not_available It's been just destroyed many moments
 not_available ago by none other than Voldemort himself.
 not_available You, were the Horcrux he
 not_available never meant to make, Harry.
-not_available I have to go back, haven't I?
-not_available Oh, that's up to you.
-not_available I've a choice?
-not_available Oh, yeah!
-not_available We're in King's Cross, you say.
-not_available I think if so decide,
-not_available you'll be able to board a train.
-not_available And where will it take me?
-not_available On.
-not_available Voldemort has the Elder Wand?
-not_available True.
-not_available And the snake is still alive?
-not_available Yes.
-not_available And I've nothing to kill it with?
+harry_potter I have to go back, haven't I?
+albus_dumbledore Oh, that's up to you.
+harry_potter I have a choice?
+albus_dumbledore Oh, yes. We're in King's Cross, you say? I think, if you so desired, you'd be able to board a train.
+harry_potter And where would it take me?
+albus_dumbledore On.
+harry_potter Voldemort has the Elder Wand ?
+albus_dumbledore True.
+harry_potter And the snake's still alive ?
+albus_dumbledore Yes.
+harry_potter And I have nothing to kill it with ?
 not_available Help will always be given at Hogwarts, Harry.
 not_available To those who ask for it.
 not_available I've always pride of myself
 not_available on my ability to turn a phrase.
-not_available Words are, in my not so humble opinion...
+albus_dumbledore Words are, in my not so humble opinion...
 not_available ..almost inexhaustible source of magic.
 not_available Capable of inflicting
 not_available injury and remedies.
@@ -1026,10 +874,10 @@ not_available But I would in this case...
 not_available amend my original statement to this:
 not_available Help, will always be given at Hogwarts,
 not_available To those who deserve it.
-not_available Do not pity the dead, Harry...
-not_available Pity the living.
-not_available And above all...
-not_available ...all those who live without love.
+albus_dumbledore Do not pity the dead, Harry...
+albus_dumbledore Pity the living.
+albus_dumbledore And above all...
+albus_dumbledore ...all those who live without love.
 not_available Professor, my mother's Patronus...
 not_available was a doe, wasn't it?
 not_available As the same as Professor Snape's.
@@ -1038,11 +886,11 @@ not_available Actually, if I think about it...
 not_available ...it doesn't seem curious at all!
 not_available I'll be going now, Harry.
 not_available Professor?
-not_available Is this all real?
-not_available Or is it just happening inside my head?
-not_available Of course it's happening
-not_available inside your head, Harry.
-not_available Why should that mean, that it's not real?
+harry_potter Is this all real?
+harry_potter Or is it just happening inside my head?
+albus_dumbledore Of course it's happening
+albus_dumbledore inside your head, Harry.
+albus_dumbledore Why should that mean, that it's not real?
 not_available Professor?
 not_available What should I do?
 not_available Professor!
@@ -1050,16 +898,12 @@ not_available My Lord, My Lord...
 not_available Are you hurt?
 not_available I don't need your help.
 not_available The boy...
-not_available Is he dead?
-not_available Is he alive?
-not_available Draco, is he alive?
-not_available Dead.
-not_available Who is that?
-not_available Hagrid's carrying?
-not_available Neville, who is it?
-not_available Harry Potter...
-not_available ... is dead!
-not_available No!
+bellatrix_lestrange The boy... is he dead?
+narcissa_malfoy Is he alive? Draco, is he alive?
+narcissa_malfoy Dead.
+ginny_weasley Dad? Who's Hagrid carrying? Dad? Who is it?
+lord_voldemort Harry Potter is dead!
+ginny_weasley No!
 not_available No!
 not_available Silence!
 not_available Stupid girl!
@@ -1085,69 +929,38 @@ not_available find a place for you in our rank.
 not_available I'd like to say something.
 not_available Well, Neville, I'm sure we'd all be
 not_available fascinated to hear what you have to say.
-not_available Doesn't matter that Harry is gone.
-not_available Stand down, Neville!
-not_available People die everyday!
-not_available Friends, family.
-not_available Yeah...
-not_available We lost Harry tonight.
-not_available He's still with us.
-not_available In here.
-not_available So as Fred, Remus...
-not_available Tonks...
-not_available All of them.
-not_available They didn't die in vain.
-not_available But you will.
-not_available Because you're wrong!
-not_available Harry's heart did beat for us.
-not_available For all of us!
-not_available It's not over!
-not_available Confringo
-not_available Come on!
-not_available All remain into the castle.
-not_available We have to kill the snake.
+neville_longbottom It doesn't matter that Harry's gone.
+seamus_finnigan Stand down Neville!
+neville_longbottom People die every day! Friends, family... Yeah. We still lost Harry tonight. But he's still with us--in here.
+neville_longbottom So's Fred, Remus, Tonks... all of them. They didn't die in vain.
+neville_longbottom But YOU will. Because you're wrong!
+neville_longbottom Harry's heart did beat for us! For ALL of us! It's not over!
+harry_potter Confringo!
+bellatrix_lestrange No! No, come back! Lucius! Come back! Come back and fight!
+harry_potter I'll lure him into the castle. We have to kill the snake.
 not_available Hey, Neville!
-not_available Not my daughter, you bitch!
+molly_weasley Not my daughter, you bitch!
 not_available Hey, you were right...
-not_available ...when you told Professor Snape
-not_available that wand was failing you.
-not_available It was always fail...
-not_available I killed Snape!
-not_available Yeah, but what if the wand never belonged to Snape?
-not_available What if its allegiance has always been
-not_available with someone else?
-not_available Oh, come on, Tom...
-not_available Let's finish it the way we started.
-not_available Together!
+harry_potter You were right. When you told Professor Snape that wand was failing you. It will always fail you!
+lord_voldemort I killed Snape!
+harry_potter But what if that wand never belonged to Snape? What if its allegiance was always to someone else? C'mon, Tom... let's finish this the way we started it. Together!
 not_available Die!
 not_available Harry!
-not_available Why didn't it work for him?
-not_available The Elder Wand?
-not_available It answers to somebody else.
-not_available When he killed Snape, he thought
-not_available the wand would become his.
-not_available But the thing is...
-not_available The wand never belongs to Snape.
-not_available It was Draco who disarmed Dumbledore
-not_available that night in the Astronomy tower.
-not_available From that moment on, the wand answered him.
-not_available Until, the other night when I disarmed Draco.
-not_available At Malfoy Manor.
-not_available So, that means...
-not_available It's mine!
-not_available What should we do with it?
-not_available We?
-not_available Just saying, that's the Elder Wand.
-not_available The most powerful wand in the world.
-not_available With that, he'll be invincible.
+ hermione_grander Why didn't it work for him, the Elder Wand?
+harry_potter It answered to somebody else. When he killed Snape, he thought the wand would become his, but the thing is, the wand never belonged to Snape. It was Draco who disarmed Dumbledore that night in the Astronomy Tower. From that moment on, the wand answered him... until the other night when I disarmed Draco at Malfoy Manor.
+ron_weasley So that means...
+harry_potter It's mine.
+ron_weasley What should we do with it?
+hermione_grander We?
+ron_weasley I'm just saying - that's the Elder Wand, the most powerful wand in the world. With that, we'd be invincible! 
 not_available Together.
 not_available Bag?
 not_available Yeah
 not_available Jumper?
 not_available I'm gonna miss you.
 not_available Here they come.last lines; 19 years later Harry and Ginny now married take their children to Platform Nine and ThreeQuarters to board Hogwarts Express
-not_available Dad, what if I am put in Slytherin?
-not_available Albus Severus Potter, you were named after two headmasters of Hogwarts. One of them was a Slytherin and he was the bravest man I’d ever known.
+albus_severus_potter_19_years_later Dad, what if I am put in Slytherin?
+harry_potter Albus Severus Potter... you were named for two Headmasters of Hogwarts. One of them was a Slytherin, and he was probably the bravest man I've ever known.
 not_available But just say that I am.
 not_available Then Slytherin House will have gained a wonderful young wizard. But listen, if it really means that much to you, you can choose Gryffindor. The Sorting Hat takes your choice into account.
 not_available Really?
