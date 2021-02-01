@@ -67,17 +67,17 @@ ron_weasley Been looking for you for ages. Thought we lost you.
 harry_potter What is THAT?
 arthur_weasley Stop! That's my son.
 arthur_weasley Ron, Harry, Hermione are you alright?
-barty_crouch Which of you conjured this?
+barty_crouch_junior Which of you conjured this?
 arthur_weasley You can't possibly..
-barty_crouch Do not lie! You have been discovered at the scene of the crime!
+barty_crouch_junior Do not lie! You have been discovered at the scene of the crime!
 harry_potter Crime?
 arthur_weasley Barty, they're just kids.
 harry_potter What crime?
 hermione_granger Harry it's his mark.
 harry_potter Those people tonight, in the masks... they're his too aren't they? they're his followers.
-barty_crouch Follow me.
+barty_crouch_junior Follow me.
 harry_potter There was a man. Before. There.
-barty_crouch All of you, this way.
+barty_crouch_junior All of you, this way.
 arthur_weasley Harry, who?
 harry_potter I dunno. I didn't see his face.
 lady#unknown#HarryPotter.Episode04 offscreen Anything from the trolley? Anything from the trolley?
@@ -95,7 +95,7 @@ ron_weasley Loads according to Dad, that's what worried them so much. Happened r
 hermione_granger It's hurting again isn't it, your scar.
 harry_potter I'm fine.
 hermione_granger You know Sirius will want to hear about this. What you saw at the world cup, and the dream.
-hagrid Clear the runway.
+rubeus_hagrid Clear the runway.
 harry_potter Well there's something you don't see every day.
 albus_dumbledore Now we're all settled in and sorted, I'd like to make an announcement. This castle will not only be your home this year but home to some very special guests as well. You see Hogwarts has been choosen...
 albus_dumbledore So Hogwarts has been choosen to host a legendary event. The Tri-Wizard tournament. Now for those of you who do not know, the tri-wizard tournament brings together three schools for a series of magical contests. From each school a single contestant is selected to compete. Now let me be clear, if choosen you stand alone. And trust me when I say these contests are not for the faint hearted, but more of that later. For now please join me in welcoming the lovely ladies of the Beauxbatons Academy of magic and their headmistress Madam Maxime.
@@ -118,7 +118,7 @@ albus_dumbledore My dear old friend, thanks for coming.
 alastor_moody That stupid roof.
 pupil#unknown#HarryPotter.Episode04 What's that he's drinking do you suppose?
 harry_potter I don't know but I don't think it's Pumpkin Juice.
-barty_crouch After much deliberation the ministry has concluded that for their own safety no student under the age of seventeen shall be allowed to put forth their name for the tri-wizard tournament. This decision is final.
+barty_crouch_junior After much deliberation the ministry has concluded that for their own safety no student under the age of seventeen shall be allowed to put forth their name for the tri-wizard tournament. This decision is final.
 george_weasley That's rubbish! You don't know what you're doing!
 albus_dumbledore Silence!
 albus_dumbledore The goblet of fire. Anyone wishing to submit themselves for the tournament merely write their name upon a piece of parchment and throw it in the flame before this hour on Thursday night. Do not do so lightly, if choosen there's no turning back. As from this moment the tri-wizard tournament has begun.
@@ -170,7 +170,7 @@ albus_dumbledore The champion from Beauxbatons... Fleur Delacour
 albus_dumbledore The Hogwarts champion... Cedric Diggory.
 albus_dumbledore Excellent! we now have our three champions!But in the end only one will go down in history. Only one will hoist this chalice of champions, this vessel of victory the tri-wizard cup!
 albus_dumbledore Harry Potter. Harry Potter?
-hagrid No... No.
+rubeus_hagrid No... No.
 albus_dumbledore Harry Potter!
 hermione_granger Go on Harry. Harry for goodness sake.
 voice#unknown#HarryPotter.Episode04 He's a cheat! He's not even seventeen yet.
@@ -185,14 +185,14 @@ alastor_moody The hell he is. The goblet of fire is an exceptionally powerful ma
 igor_karkaroff You seem to have given this a fair bit of thought Mad-Eye.
 alastor_moody It was once my job to think as dark wizards do Karkaroff perhaps you remember?
 albus_dumbledore That doesn't help Alastor. Leave this to you Barty.
-barty_crouch The rules are absolute, the goblet of fire constitutes a binding magical contract. Mr Potter has no choice, he is as of tonight... a tri-wizards champion.
-professor_mcgonagall This can't go on Albus. First the dark mark, now this?
+barty_crouch_junior The rules are absolute, the goblet of fire constitutes a binding magical contract. Mr Potter has no choice, he is as of tonight... a tri-wizards champion.
+professor_minerva_mcgonagall This can't go on Albus. First the dark mark, now this?
 albus_dumbledore What do you suggest Minerva?
-professor_mcgonagall Put an end to it. Don't let Potter compete.
+professor_minerva_mcgonagall Put an end to it. Don't let Potter compete.
 albus_dumbledore You heard Barty the rules are clear.
-professor_mcgonagall Well the devil with Barty and his rules. And since when did you accomodate them...
-professor_snape Master I too find it difficult to believe this mere coincidence, if we are to truly discover the meaning of these events perhaps we should for the time being let them unfold.
-professor_mcgonagall Do nothing?? Offer him up as bait? Potter is a boy not a piece of meat.
+professor_minerva_mcgonagall Well the devil with Barty and his rules. And since when did you accomodate them...
+professor_severus_snape Master I too find it difficult to believe this mere coincidence, if we are to truly discover the meaning of these events perhaps we should for the time being let them unfold.
+professor_minerva_mcgonagall Do nothing?? Offer him up as bait? Potter is a boy not a piece of meat.
 albus_dumbledore I agree with Severus. Alastor, keep an eye on Harry will you?
 alastor_moody I can do that.
 albus_dumbledore Don't let him know though, he must be anxious enough as it is... knowing what lies ahead. Then again, we all are.
@@ -260,25 +260,25 @@ hermione_granger Uhhh...
 hermione_granger Dean was told by Parvati that... Please don't ask me say it again. Hagrid's looking for you.
 harry_potter Well you can tell Ronald...
 hermione_granger I'm NOT an owl!
-hagrid Did you bring your father's cloak like I asked you?
+rubeus_hagrid Did you bring your father's cloak like I asked you?
 harry_potter Yeah I brought the cloak. Hagrid where are we going?
-hagrid You'll see soon enough. Pay attention this is important.
+rubeus_hagrid You'll see soon enough. Pay attention this is important.
 harry_potter What's with the flower? Hagrid have you combed your hair?
-hagrid As a matter of fact I have. You might like to try the same thing now and again.
+rubeus_hagrid As a matter of fact I have. You might like to try the same thing now and again.
 madame_olympe_maxime Hagrid?
-hagrid Oh, the cloak. Put the cloak on.
-hagrid Bonsoir Olympe.
+rubeus_hagrid Oh, the cloak. Put the cloak on.
+rubeus_hagrid Bonsoir Olympe.
 madame_olympe_maxime Oh Hagrid. I thought you weren't coming, I thought perhaps... you had... forgotten me.
-hagrid Couldn't forget you Olympe.
+rubeus_hagrid Couldn't forget you Olympe.
 madame_olympe_maxime What is it you want to show me? When we spoke earlier you sounded so exhilirated.
-hagrid You'll be glad you came. Trust me.
+rubeus_hagrid You'll be glad you came. Trust me.
 madame_olympe_maxime Ahh, c'est magnifique!
 madame_olympe_maxime Can we get closer?
 harry_potter Dragons? That's the first task? You're joking.
-hagrid Come on Harry. They're seriously misunderstood creatures.
-hagrid Although, I have to admit that horntail is a right nasty piece of work. Poor Ron nearly fainted just seeing him you know.
+rubeus_hagrid Come on Harry. They're seriously misunderstood creatures.
+rubeus_hagrid Although, I have to admit that horntail is a right nasty piece of work. Poor Ron nearly fainted just seeing him you know.
 harry_potter Ron was here?
-hagrid Oh sure. His brother Charlie helped bring him over from Romania. Didn't Ron tell you that?
+rubeus_hagrid Oh sure. His brother Charlie helped bring him over from Romania. Didn't Ron tell you that?
 harry_potter No he didn't. He didn't tell me a thing.
 boy#unknown#HarryPotter.Episode04 Cedric rules!
 harry_potter Thanks.
@@ -300,16 +300,16 @@ ron_weasley Fine.
 draco_malfoy Why so tense Potter? My father and I have a bet you see. I don't think you're gonna last ten minutes in this tournament. He disagrees. He thinks you won't last FIVE.
 harry_potter I don't give a damn what you or your father thinks Malfoy. He's vile and cruel, and you're just pathetic.
 alastor_moody I'll teach you to cast when someone's back is turned.
-professor_mcgonagall Professor Moody what are you doing?
+professor_minerva_mcgonagall Professor Moody what are you doing?
 alastor_moody Teaching.
-professor_mcgonagall Is that a student?
+professor_minerva_mcgonagall Is that a student?
 alastor_moody Technically it's a ferret.
 draco_malfoy My father will hear about this!
 alastor_moody Is that a threat!
 alastor_moody I could tell you stories about your father that would curl even your greasy hair boy! It doesn't end here!
-professor_mcgonagall We never use transfigration as a punishment, surely Dumbledore told you that.
+professor_minerva_mcgonagall We never use transfigration as a punishment, surely Dumbledore told you that.
 alastor_moody He might've mentioned it.
-professor_mcgonagall Well you will do well to remember it.
+professor_minerva_mcgonagall Well you will do well to remember it.
 alastor_moody come with me.
 alastor_moody That's a foal glass. Lets me keep an eye on my enemies. If I can see the whites of their eyes they're standing right behind me.
 alastor_moody Wouldn't even bother telling you what's in ther. You wouldn't believe it if I did. Now... what are you going to do about your dragon?
@@ -330,14 +330,14 @@ albus_dumbledore Good day champions. Gather round please. Now you've waited, you
 albus_dumbledore What are you doing here Miss Granger?
 hermione_granger Oh um.. Sorry I'll just go.
 albus_dumbledore Barty. The bag.
-barty_crouch Champions, in a circle around me. Miss Delacour over here, Mr Krum, and Potter over here. Right. Miss Delacour, if you will...
-barty_crouch The welsh green. Mr Krum...
-barty_crouch The chinese fireball. Oooooh.
-barty_crouch The swedish short-snout. Which leaves...
+barty_crouch_junior Champions, in a circle around me. Miss Delacour over here, Mr Krum, and Potter over here. Right. Miss Delacour, if you will...
+barty_crouch_junior The welsh green. Mr Krum...
+barty_crouch_junior The chinese fireball. Oooooh.
+barty_crouch_junior The swedish short-snout. Which leaves...
 harry_potter The horntail...
-barty_crouch What's that boy?
+barty_crouch_junior What's that boy?
 harry_potter Nothing.
-barty_crouch The hungarian horntail. These represent very real dragons, each of which has been given a golden egg to protect. Your objective is simple, collect the egg. This you must do, for each egg contains a clue without which you cannot hope to proceed to the next task. Any questions?
+barty_crouch_junior The hungarian horntail. These represent very real dragons, each of which has been given a golden egg to protect. Your objective is simple, collect the egg. This you must do, for each egg contains a clue without which you cannot hope to proceed to the next task. Any questions?
 albus_dumbledore Very well. Good luck champions. Mr Diggory the sound of the cannon...
 albus_dumbledore Three of our champions have now faced their dragons and so each one of them will proceed to the next task. And now our fourth and final contestant.
 hermione_granger Your wand harry! Your wand!
@@ -371,26 +371,26 @@ ginny_weasley I'm not wearing that it's ghastly.
 ron_weasley What are you on about?
 hermione_granger They're not for Ginny they're for you!Dress robes.
 ron_weasley Dress robes? for what?
-professor_mcgonagall The yule ball has been a tradition of the tri-wizard tournament since its inception. On Christmas eve night we and our guests gather in the great hall for well mannered frivolity. As representitives of the host school I expect each and every one of you to put your best foot forward, and I mean this literally because the yule ball is first and foremost... a dance.
-professor_mcgonagall Silence. The house of Godrick Griffindore has commanded the respect of the wizard world for nearly ten centuries. I will not have you in the course of a single evening besmirching that name by behaving like a babbling, bumbling band of baboons.
+professor_minerva_mcgonagall The yule ball has been a tradition of the tri-wizard tournament since its inception. On Christmas eve night we and our guests gather in the great hall for well mannered frivolity. As representitives of the host school I expect each and every one of you to put your best foot forward, and I mean this literally because the yule ball is first and foremost... a dance.
+professor_minerva_mcgonagall Silence. The house of Godrick Griffindore has commanded the respect of the wizard world for nearly ten centuries. I will not have you in the course of a single evening besmirching that name by behaving like a babbling, bumbling band of baboons.
 fred_weasley Try saying that five times faster.
-professor_mcgonagall Now to dance is to let the body breathe, inside every girl a secret swan slumbers longing to burst forth and take flight.
+professor_minerva_mcgonagall Now to dance is to let the body breathe, inside every girl a secret swan slumbers longing to burst forth and take flight.
 ron_weasley Something's about to burst out of Hilary but I don't think it's a swan.
-professor_mcgonagall Inside every boy a lordly lion prepared to prance. Mr Weasly, will you join me.
-professor_mcgonagall Now, place your right hand on my waist.
+professor_minerva_mcgonagall Inside every boy a lordly lion prepared to prance. Mr Weasly, will you join me.
+professor_minerva_mcgonagall Now, place your right hand on my waist.
 ron_weasley Where?
-professor_mcgonagall My waist.
-professor_mcgonagall Now bend your arm. Mr Filch...
-professor_mcgonagall One two three, one two three, one two three.
+professor_minerva_mcgonagall My waist.
+professor_minerva_mcgonagall Now bend your arm. Mr Filch...
+professor_minerva_mcgonagall One two three, one two three, one two three.
 harry_potter Oi! Never gonna let him forget this are you?
 twins#unknown#HarryPotter.Episode04 Never.
-professor_mcgonagall Everybody come together.
-professor_mcgonagall Boys, on your feet.
+professor_minerva_mcgonagall Everybody come together.
+professor_minerva_mcgonagall Boys, on your feet.
 harry_potter Why do they always have to travel in packs? How are you supposed to get one alone to ask them...
 ron_weasley Blimey Harry, you slayed dragons. If you can't get a date who can?
 harry_potter I think I'd take the dragon right now.
-hagrid I take after my mum. Though I didn't know her very well, she left when I was about three. No, not the maternal sort her, broke my dad's heart though. You know he was a tiny little fellow my dad, I could pick him up with one hand by the age of six and put him up in the dresser.
-hagrid And then he died when I was still in school. So I had to make me own way as it were. But enough of me, what about you!
+rubeus_hagrid I take after my mum. Though I didn't know her very well, she left when I was about three. No, not the maternal sort her, broke my dad's heart though. You know he was a tiny little fellow my dad, I could pick him up with one hand by the age of six and put him up in the dresser.
+rubeus_hagrid And then he died when I was still in school. So I had to make me own way as it were. But enough of me, what about you!
 ron_weasley This is mad. At this rate we'll be the only ones in our year without dates.
 ron_weasley Well, us and Neville!
 harry_potter But then again he can take himself.
@@ -442,11 +442,11 @@ harry_potter Because we'd take the mickey out of her if she did.
 ron_weasley Because nobody asked her. I would have taken her myself if she weren't so bleeding proud.
 parvati_patil Hello boys. Don't you look...
 parvati_patil ... dashing.
-professor_mcgonagall Here you are Potter. Are you and Miss Patil ready?
+professor_minerva_mcgonagall Here you are Potter. Are you and Miss Patil ready?
 harry_potter Ready professor?
-professor_mcgonagall To dance. It's traditional that the three champions or in this case four are the first to dance. Surely I told you that.
+professor_minerva_mcgonagall To dance. It's traditional that the three champions or in this case four are the first to dance. Surely I told you that.
 harry_potter No.
-professor_mcgonagall Oh well now you know. Oh, as for your Mr Weasly you may proceed into the great hall with Miss Patil.
+professor_minerva_mcgonagall Oh well now you know. Oh, as for your Mr Weasly you may proceed into the great hall with Miss Patil.
 parvati_patil She looks beautiful.
 harry_potter Yeah she does.
 padma_patil Is that Hermione Granger? With Viktor Krum??
@@ -536,7 +536,7 @@ albus_dumbledore The Beauxbatons champion Miss Delacour has unfortunately been f
 harry_potter But she's my friend too!
 merperson#unknown#HarryPotter.Episode04 Only one.
 albus_dumbledore Harry!
-barty_crouch Get him another towel.
+barty_crouch_junior Get him another towel.
 albus_dumbledore I want all the judges over here now.
 fleur_delacour You saved her, even though she wasn't yours to save. My little sister!
 fleur_delacour Thank you! And you... . You helped!
@@ -552,12 +552,12 @@ albus_dumbledore For showing unique command of the bubblehead shark. The way I s
 fred_weasley All that moral fibre eh?
 ron_weasley Blimey even when you go wrong it turns out right.
 george_weasley Well done 'moral fibre'.
-barty_crouch Congratulations Potter, fine achievement. Well done boy. I'm sorry we haven't spoken, after all your story is one I've heard many times. Quite remarkable. Tragic of course, to lose one's family. Never whole again are we? Still, life goes on. And here we stand. I'm sure your parents would be very proud today Potter.
+barty_crouch_junior Congratulations Potter, fine achievement. Well done boy. I'm sorry we haven't spoken, after all your story is one I've heard many times. Quite remarkable. Tragic of course, to lose one's family. Never whole again are we? Still, life goes on. And here we stand. I'm sure your parents would be very proud today Potter.
 alastor_moody Bartimus! Not trying to lure Potter into one of the ministry's summer internships are we? Last boy who went into the department of ministries never came out!
 alastor_moody And they say I'm mad.
-hagrid So I remember, I remember when I first met you all. Biggest bunch of misfits I've ever set eyes on. Always reminded me of myself a little. And here we all are, four years later.
+rubeus_hagrid So I remember, I remember when I first met you all. Biggest bunch of misfits I've ever set eyes on. Always reminded me of myself a little. And here we all are, four years later.
 ron_weasley We're still misfits.
-hagrid Maybe. But we've all got each other, and Harry of course. Soon to be! The youngest! Tri-Wizard champion there's ever been! Hooray!
+rubeus_hagrid Maybe. But we've all got each other, and Harry of course. Soon to be! The youngest! Tri-Wizard champion there's ever been! Hooray!
 harry_potter Mr Crouch?
 albus_dumbledore A man has died here. And he won't be the last, you must take action.
 cornelius_fudge I will not. In times like these the wizard world looks to its leaders for strength Dumbledore.
@@ -572,33 +572,33 @@ albus_dumbledore Oh not necessary Harry the minister and I are done. I'll be bac
 harry_potter Agh!
 harry_potter Professor?
 man#unknown#HarryPotter.Episode04 Professor.
-barty_crouch Igor Karkaroff, you have been brought from Azkaban at your own request to present evidence to this counsel. Should your testimony prove consequential. Counsel may be prepared to order your immediate release. Until such time you remain in the eyes of the ministry a convicted deatheater. Do you accept these terms?
+barty_crouch_junior Igor Karkaroff, you have been brought from Azkaban at your own request to present evidence to this counsel. Should your testimony prove consequential. Counsel may be prepared to order your immediate release. Until such time you remain in the eyes of the ministry a convicted deatheater. Do you accept these terms?
 igor_karkaroff I do sir.
-barty_crouch What do you wish to present?
+barty_crouch_junior What do you wish to present?
 igor_karkaroff I have names sir. There was a Rosier, Evan Rosier.
-barty_crouch Mr Rosier is dead.
+barty_crouch_junior Mr Rosier is dead.
 igor_karkaroff Dead?
 alastor_moody Yeah took a piece of me with him though didn't he.
 igor_karkaroff I didn't know.
-barty_crouch If that is all the witness has to offer...
+barty_crouch_junior If that is all the witness has to offer...
 igor_karkaroff No! No! There was Rookwood, he was a spy.
-barty_crouch Augustus Rookwood? Of the department of ministries.
+barty_crouch_junior Augustus Rookwood? Of the department of ministries.
 igor_karkaroff Ya ya, the same. He passed information to you know who from inside the ministry itself.
-barty_crouch Very well. Counsel will deliberate. In the meantime you will be returned to Azkaban.
+barty_crouch_junior Very well. Counsel will deliberate. In the meantime you will be returned to Azkaban.
 igor_karkaroff NO! WAIT! PLEASE! I have more. Snape, Severus Snape.
 albus_dumbledore The counsel is very much aware you have given evidence on this matter. Severus Snape was indeed a deatheater and prior to Lord Voldemort's downfall turned spy for us at great personal risk. Today he's no more a deatheater than I am.
 igor_karkaroff It's a lie! Severus Snape remains faithful to the dark lord.
-barty_crouch Silence!
-barty_crouch Unless the witness possesses any name of genuine consequence this session is now concluded.
+barty_crouch_junior Silence!
+barty_crouch_junior Unless the witness possesses any name of genuine consequence this session is now concluded.
 igor_karkaroff Oh no no no no no. I heard about one more.
-barty_crouch What's that?
+barty_crouch_junior What's that?
 igor_karkaroff The name...
-barty_crouch Yes?
+barty_crouch_junior Yes?
 igor_karkaroff I know for a fact this person took part in the capture, and by means of the cruciatus curse, torture of the aurer Frank Longbottom and...
-barty_crouch The name! Give me the wretched name!
+barty_crouch_junior The name! Give me the wretched name!
 igor_karkaroff Barty Crouch! ... Junior.
 barty_crouch_junior Get your hands off me you pathetic little men. Hello father.
-barty_crouch You are no son of mine.
+barty_crouch_junior You are no son of mine.
 barty_crouch_junior GAHHHH!
 albus_dumbledore Curiosity's not a sin Harry, but you should exercise caution. It's a pensieve, useful if like me you find your mind a wee bit stretched. It allows me to see what small things I've already seen. You see Harry I've searched and searched for something, some small detail. Something I might have overlooked, something that would explain why these terrible things have happened. Every time I get close to an answer it slips away, it's maddedning.
 harry_potter Sir, Mr Crouch's son, what happened to him?
@@ -609,13 +609,13 @@ harry_potter Yes. Always the same one. Sir... these dreams, what I see, you don'
 albus_dumbledore I think it's unwise for you to linger over these dreams Harry, I think it's best that you simply...
 albus_dumbledore Cast them away.
 igor_karkaroff It's a sign Severus, you know what it means as well as I.
-professor_snape Potter! What's your hurry? Congratulations, your performance in the black lake was inspiring. Gilliweed, am I correct?
+professor_severus_snape Potter! What's your hurry? Congratulations, your performance in the black lake was inspiring. Gilliweed, am I correct?
 harry_potter Yes sir.
-professor_snape Ingenious. A rather rare herb gilliweed, not something found in your every day garden. Nor is this, know what it is?
+professor_severus_snape Ingenious. A rather rare herb gilliweed, not something found in your every day garden. Nor is this, know what it is?
 harry_potter Bubble juice sir?
-professor_snape Veritaserum. Three drops of this and you-know-who himself will spill his darkest secrets. The use of this on a student is regrettably forbidden, however should you ever steal from my personal stores again, my hand might just slip over your morning pumpkin juice.
+professor_severus_snape Veritaserum. Three drops of this and you-know-who himself will spill his darkest secrets. The use of this on a student is regrettably forbidden, however should you ever steal from my personal stores again, my hand might just slip over your morning pumpkin juice.
 harry_potter I haven't stolen anything.
-professor_snape Don't lie to me. Gilliweed might be innocuous, but boomslang skin? lacewing flies? You and your friends are brewing polyjuice potion and believe me I'm going to find out why.
+professor_severus_snape Don't lie to me. Gilliweed might be innocuous, but boomslang skin? lacewing flies? You and your friends are brewing polyjuice potion and believe me I'm going to find out why.
 albus_dumbledore Earlier today Professor Moody placed the tri-wizards cup deep within the maze. Only he knows its exact position. Now as Mr Diggory...
 albus_dumbledore and Mr Potter tied for first position they will be the first to enter the maze. Followed by Mr Krum...
 albus_dumbledore The first person to touch the cup will be the winner. I've instructed the staff to patrol the perimeter, if at any point should a contestant wish to withdraw from the task he or she need only send up red sparks with their wands. Contestants, gather round.
@@ -706,7 +706,7 @@ albus_dumbledore Harry get away from there!
 albus_dumbledore Are you alright Alastor?
 alastor_moody I'm sorry Albus.
 harry_potter That's Moody, but then who's...?
-professor_snape Polyjuice potion.
+professor_severus_snape Polyjuice potion.
 albus_dumbledore Now we know who's been stealing it from your store Severus.
 albus_dumbledore We'll get you up in a minute.
 albus_dumbledore Barty Crouch Junior.
