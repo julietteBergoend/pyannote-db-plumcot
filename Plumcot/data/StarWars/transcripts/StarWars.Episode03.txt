@@ -47,11 +47,10 @@ obiwan_kenobi Just keep me steady . . . hold on ... not yet. . . now break left.
 obiwan_kenobi You'll never get through there, Anakin. It's too tight.
 anakin_skywalker Easy, Artoo . . . we've done this before.
 obiwan_kenobi Use the Force, think yourself through, the ship will follow.
-r2d2 SQUEALS in a panic. On the view screen Artoo's squeal reads out, "WE'RE NOT GOING TO MAKE IT."
 anakin_skywalker Wrong thought, Artoo.
 anakin_skywalker I'm through.
 odd_ball#unknown#StarWars.Episode03 There are too many of them.
-clone_trooper pilot 2 I'm on your wing. Break left. Break left. They're all over me. Get them off my . . .
+clone_trooper I'm on your wing. Break left. Break left. They're all over me. Get them off my . . .
 anakin_skywalker I'm going to go help them out!
 obiwan_kenobi No, no! They are doing their job so we can do ours. Head for the Command Ship!
 anakin_skywalker Missiles! Pull up!
@@ -151,11 +150,8 @@ obiwan_kenobi This time we will do it together.
 anakin_skywalker I was about to say that.
 senator_palpatine Get help! You're no match for him. He's a Sith Lord.
 obiwan_kenobi Chancellor Palpatine, Sith Lords are our specialty.
-obiwan_kenobi and anakin throw off their cloaks and ignite their lightsabers.
 count_dooku Your swords, please, Master Jedi. We don't want to make a mess of things in front of the Chancellor.
-obiwan_kenobi and anakin move toward DOOKU.
 obiwan_kenobi You won't get away this time, Dooku.
-obiwan_kenobi and anakin charge count_dooku. A great sword fight ensues.
 count_dooku I've been looking forward to this.
 anakin_skywalker My powers have doubled since the last time we met, Count.
 count_dooku Good. Twice the pride, double the fall.
@@ -176,7 +172,6 @@ anakin_skywalker His fate will be the same as ours.
 general_grievous Prepare for attack.
 pilot#unknown#StarWars.Episode03 All batteries fire! Fire!
 anakin_skywalker The elevator's not working, Artoo . . .
-r2d2 BEEPS a response to anakin.
 anakin_skywalker . . . Activate Elevator 3224.
 anakin_skywalker Artoo ... do you copy? Artoo, come in!
 pilot#unknown#StarWars.Episode03 Reverse stabilizers.
@@ -193,7 +188,6 @@ anakin_skywalker Artoo, Artoo, shut down the elevator!
 obiwan_kenobi Too late! Jump!
 obiwan_kenobi Let's see if we can find something in the hangar bay that's still flyable. Come on.
 anakin_skywalker Artoo, get down here. Artoo, do you copy?
-obiwan_kenobi and anakin lead palpatine down a hallway toward the hangar bay.
 obiwan_kenobi None of those ships will get us anywhere.
 anakin_skywalker I agree.
 senator_palpatine What are we going to do?
@@ -230,20 +224,17 @@ general_grievous Crush them! Make them suffer!
 general_grievous Stay and watch your stations.
 pilot#unknown#StarWars.Episode03 Sir, we are falling out of orbit. All aft control cells are dead.
 general_grievous Stay on course . . . Don't bother with them. Keep the ship in orbit.
-obiwan_kenobi and anakin destroy the remaining DROIDS. general grievous retrieves one of the bodyguard'S staffs and faces obi-wan. anakin leaps over a console and lands behind general grievous.
 general_grievous You lose, General Kenobi.
 pilot#unknown#StarWars.Episode03 The ship is breaking up!
 general_grievous We've run out of time.
 senator_palpatine The hull is burning up!
 general_grievous Time to abandon ship.
-obiwan_kenobi and anakin go over to the navigator's chair.
 anakin_skywalker All the escape pods have been launched.
 obiwan_kenobi Grievous. Can you fly a cruiser like this?
 anakin_skywalker You mean, do I know how to land what's left of this thing?
 obiwan_kenobi Well?
 anakin_skywalker Under the circumstances, I'd say the ability to pilot this thing is irrelevant. Strap yourselves in.
 obiwan_kenobi Steady . . . Attitude . . . eighteen degrees.
-r2d2 beeps.
 anakin_skywalker Pressure rising. We've got to slow this wreck down. Open all hatches, extend all flaps, and drag fins.
 obiwan_kenobi Temp steady. Hatches open, flaps extended, drag fins . . .
 anakin_skywalker We lost something.
@@ -252,7 +243,6 @@ anakin_skywalker Now we're really picking up speed . . . I'm going to shift a fe
 obiwan_kenobi Careful . . . we're heating up-twelve thousand . . . thirteen thousand . . .
 anakin_skywalker What's our speed?
 obiwan_kenobi Eight plus sixty-forty. Eight plus sixty-twenty. Eight plus sixty. Temp ten thousand, nine thousand . . . we're in the atmosphere . . .
-r2d2 beeps
 anakin_skywalker Grab that . . . Keep us level.
 obiwan_kenobi Steady. Steady.
 anakin_skywalker Easy, Artoo. Hang on, this may get a little rough. We lost our heat shields.
@@ -278,15 +268,12 @@ mace_windu Then the Jedi Council will make finding Grievous our highest priority
 senator_bail_organa Skywalker, the Republic cannot praise you enough.
 anakin_skywalker Thank you, Senator Organa. The kidnapping was a bold move by the Separatists, but it was a mistake that Obi-Wan and I were able to take advantage of.
 c3po It couldn't possibly be as bad as all that.
-r2d2 beeps.
 c3po Well, there, I agree with you. In fact, I could do with a tune-up myself.
 senator_bail_organa The end of Count Dooku will surely bring an end to this war, and an end to the Chancellor's draconian security measures.
 anakin_skywalker I wish that were so, but the fighting is going to continue until General Grievous is spare parts . . . The Chancellor is very clear about that.
-Behind#unknown#StarWars.Episode03 a row of large columns, a SHADOWY FIGURE follows the JEDI and the SENATOR. anakin senses the figure.
 senator_bail_organa I'll do everything I can with the Senate.
 anakin_skywalker Excuse me.
 senator_bail_organa Certainly.
-anakin_skywalker stops, and bail goes off after palpatine and the others. anakin goes behind one of the giant columns to meet up with the SHADOWY FIGURE, who is revealed to be SENATOR padme AMDALA. They embrace and kiss.
 padme Oh, Anakin! Thank goodness, you're back.
 anakin_skywalker I missed you, Padme. I've missed you so.
 padme There were whispers . . . that you'd been killed. I've been living with unbearable dread.
@@ -312,9 +299,9 @@ padme I'm . . . Annie, I'm pregnant.
 anakin_skywalker That's . . . that's wonderful.
 padme What are we going to do?
 anakin_skywalker We're not going to worry about anything right now, all right? This is a happy moment. The happiest moment of my life.
-battle_droid G21 The planet is secure, sir. The population is under control.
+battle_droid The planet is secure, sir. The population is under control.
 general_grievous Good. Where is the Separatist Council?
-battle_droid G21 This way, sir ...
+battle_droid This way, sir ...
 general_grievous Yes, Lord Sidious.
 darth_sidious#unknown#StarWars.Episode03 General Grievous, I suggest you move the Separatist leaders to Mustafar.
 general_grievous It will be done, My Lord.
@@ -573,9 +560,9 @@ yoda I agree.
 All#unknown#StarWars.Episode03 the JEDI concur.
 mace_windu Very well. Council is adjourned.
 mace_windu Obi-Wan, prepare two clone brigades as quickly as you can. If this report is true, there's no telling how many battle droids he may have with him.
-clone_trooper commander gree The droids have started up their main power generators.
+janus_greejatus_emperor_palpatines_advisor The droids have started up their main power generators.
 yoda Then now the time is, Commander.
-clone_trooper commander gree Yes, sir.
+janus_greejatus_emperor_palpatines_advisor Yes, sir.
 obiwan_kenobi Has Anakin been to see you?
 padme Several times . . . I was so happy to hear he was accepted on the Jedi Council.
 obiwan_kenobi I know ... he deserves it. He is impatient, strong willed, very opinionated, but truly gifted.
@@ -750,7 +737,6 @@ senator_palpatine Of course you should. But you're not sure of their intentions,
 anakin_skywalker I will quickly discover the truth of all this.
 senator_palpatine You have great wisdom, Anakin. Know the power of the dark side. The power to save Padme.
 senator_palpatine I am not going anywhere. You have time to decide my fate. Perhaps you'll reconsider and help me rule the galaxy for the good of all . . .
-obiwan_kenobi and general grievous race through the city at breakneck speed. Passing through battle zones, narrowly escaping EXPLOSIONS, laser bolts, and TROOPS from both sides.
 general_grievous Prepare to move out of orbit. I will be up in a few moments.
 obiwan_kenobi So uncivilized . . .
 anakin_skywalker Master Windu, I must talk to you.
@@ -829,40 +815,36 @@ commander_cody Very good, sir.
 commander_cody Oh, by the way, I think you'll be needing this.
 obiwan_kenobi Thank you, Cody, Now let's get a move on. We've got a battle to win here.
 commander_cody Yes, sir!
-obiwan_kenobi and the LIZARD ride off down the wall of the giant sinkhole.
 darth_sidious#unknown#StarWars.Episode03 Commander Cody, the time has come. Execute Order Sixty-Six.
 commander_cody It will be done, My Lord.
 commander_cody Blast him!
 darth_sidious#unknown#StarWars.Episode03 Commander 1138 . . .
-clone_trooper commander bacara Yes, sir.
+stormtrooper_captain bacara Yes, sir.
 darth_sidious#unknown#StarWars.Episode03 The time has come. Execute Order Sixty-Six.
-clone_trooper commander bacara It will be done, My Lord.
+stormtrooper_captain bacara It will be done, My Lord.
 aayla_secura Steady. . . . steady . . .
 aayla_secura Bly, do you think they're Droids?
 bly#unknown#StarWars.Episode03 No.
 darth_sidious#unknown#StarWars.Episode03 Execute Order Sixty-Six.
-CLONE#unknown#StarWars.Episode03 pilot It will be done, My Lord.
-plo_koon heads his ship toward a battle on a landing platform.
+CLONE#unknown#StarWars.Episode03 It will be done, My Lord.
 plo_koon There they are. Land on the nearest platform.
-clone_trooper commander gree Yes, My Lord.
+janus_greejatus_emperor_palpatines_advisor Yes, My Lord.
 darth_sidious#unknown#StarWars.Episode03 The time has come. Execute Order Sixty-Six.
-clone_trooper commander gree It will be done, My Lord.
-clone_trooper commander gree snaps his comlink shut.
+janus_greejatus_emperor_palpatines_advisor It will be done, My Lord.
 jedi_youngling Master Skywalker, there are too many of them. What are we going to do?
-c3po and padme look out the apartment window.
 c3po The Chancellor's office indicated Master Anakin returned to the Jedi Temple. Don't worry, My Lady. I am sure he will be all right.
 senator_bail_organa What's going on here?!?
 clone_sergeant#unknown#StarWars.Episode03 There's been a rebellion. Don't worry, sir, the situation is under control.
 clone_sergeant#unknown#StarWars.Episode03 I'm sorry, sir. No one is allowed entry.
 clone_sergeant#unknown#StarWars.Episode03 It's time for you to leave, sir.
 senator_bail_organa And so it is.
-clone_trooper commander appo Get him! Shoot him!
+stormtrooper_captain appo Get him! Shoot him!
 AT-ST#unknown#StarWars.Episode03 clone sergeant Everyone out of there!
 creature#unknown#StarWars.Episode03 Wookiee good . . . eat Wookiee.
 clone_sergeant#unknown#StarWars.Episode03 Did you find something?
 creature#unknown#StarWars.Episode03 It's nothing, nothing.
 clone_sergeant#unknown#StarWars.Episode03 It's nothing, nothing. All these Wookiees are dead. Move to the east.
-clone_trooper trooper Yes, sir.
+clone_trooper Yes, sir.
 creature#unknown#StarWars.Episode03 Right you are, Chewbacca. Faster that will be.
 yoda Stink, this mud does. A moment to bathe, give me.
 yoda Not far, are we, from the emergency ship. Quickly . . .
@@ -872,10 +854,10 @@ senator_bail_organa Senator Bail Organa of Alderaan.
 senator_bail_organa Were you able to get hold of a Jedi homing beacon?
 captain_raymus_antilles Yes, sir. We've encountered no opposition. The clones are still a bit confused. It appears no one is in command.
 senator_bail_organa That will change soon. Hopefully we will be able to intercept a few Jedi before they walk into this catastrophe.
-CLONE#unknown#StarWars.Episode03 captain Did you find Kenobi?
-clone_trooper trooper No one could have survived that fall.
-CLONE#unknown#StarWars.Episode03 captain Start loading your men on the ship.
-clone_trooper trooper Yes, sir.
+stormtrooper_captain Did you find Kenobi?
+clone_trooper No one could have survived that fall.
+stormtrooper_captain Start loading your men on the ship.
+clone_trooper Yes, sir.
 obiwan_kenobi Emergency Code Nine Thirteen ... I have no contact on any frequency. Are there any Jedi out there? . . . anywhere . . .
 senator_bail_organa . . . Kenobi . . .
 obiwan_kenobi I've locked on. Repeat.
@@ -888,15 +870,12 @@ padme Are you all right? I heard there was an attack on the Jedi Temple . . . yo
 anakin_skywalker I'm fine. I'm fine. I came to see if you and the baby are safe.
 padme Captain Typho's here, we're safe. What's happening?
 c3po What is going on?
-r2d2 SQUEAKS and BEEPS.
 c3po You can't be anymore confused than I am.
 anakin_skywalker The situation is not good. The Jedi have tried to overthrow the Republic . . .
 padme I can't believe that!
 anakin_skywalker I couldn't either at first, but it's true. I saw Master Windu attempt to assassinate the Chancellor myself.
 c3po Something important is going on! I heard a rumor they are going to banish all droids.
-r2d2 BEEPS rather loudly. c-3po puts his fingers to his lips.
 c3po Shhhhhh . . . not so loud.
-r2d2 BEEPS quietly.
 c3po Whatever it is, we'll be the last to know.
 padme Anakin, what are you going to do?
 anakin_skywalker I will not betray the Republic . . . my loyalties lie with the Chancellor and with the Senate . . . and with you.
@@ -913,9 +892,7 @@ anakin_skywalker Have faith, my love. Everything will soon be set right. The Cha
 anakin_skywalker Please, wait for me.
 padme I will.
 c3po Well, he is under a lot of stress, Artoo.
-r2d2 beeps.
 c3po Take care, my little friend.
-r2d2 BEEPS
 c3po My Lady, is there anything I might do?
 padme No thank you, Threepio.
 g3po A snack, perhaps?
@@ -953,7 +930,6 @@ guard#unknown#StarWars.Episode03 Thank you, you may proceed. We will take custod
 obiwan_kenobi It would be better if we stayed with the Senator.
 guard#unknown#StarWars.Episode03 It would be better if they stayed with you.
 anakin_skywalker Artoo . . . stay with the ship.
-r2d2 BEEP
 nute_gunray Welcome, Lord Vader. We've been expecting you.
 obiwan_kenobi There are several battalions of Clone Troopers on every level. Many are dressed as Jedi.
 yoda Dismantle the coded signal quickly. That group back there, soon discovered will be.
@@ -1082,7 +1058,6 @@ obiwan_kenobi Anakin, my allegiance is to the Republic ... to democracy.
 anakin_skywalker If you're not with me, you're my enemy.
 obiwan_kenobi Only a Sith Lord deals in absolutes. I will do what I must.
 anakin_skywalker You will try.
-r2d2 BEEPS
 yoda I hear a new apprentice, you have. Emperor, or should I call you Darth Sidious.
 darth_sidious#unknown#StarWars.Episode03 Master Yoda, you survived.
 yoda Surprised?
@@ -1098,21 +1073,18 @@ anakin_skywalker Don't make me destroy you, Master. You're no match for the dark
 obiwan_kenobi I've heard that before, Anakin . . . but I never thought I'd hear it from you.
 obiwan_kenobi The flaw of power is arrogance.
 anakin_skywalker You hesitate . . . the flaw of compassion.
-obiwan_kenobi and anakin lock sabers. obi-wan puts out his hand to use the Force to push anakin away. anakin puts out his hand to block obi-wan.
 yoda Destroy you I will, just as Master Kenobi, your apprentice will destroy.
 yoda Hurry. Careful timing we will need.
 senator_bail_organa There aren't many troops on this side. Activate your homing beacon when you're ready.
-clone_trooper commander thire There is no sign of his body, sir.
+stormtrooper_captain There is no sign of his body, sir.
 mas_amedda Then he is not dead.
 senator_palpatine Double your search.
-clone_trooper commander thire Yes sir. Right away, sir.
+stormtrooper_captain Yes sir. Right away, sir.
 senator_palpatine Tell Captain Kagi to prepare my shuttle for immediate takeoff.
 mas_amedda Yes, Master.
 senator_palpatine I sense Lord Vader is in danger.
-obiwan_kenobi and anakin battle on the top of the multispired collection panels, jumping from one to the other. At the end of the collection cluster, a huge spray of lava covers the attachments that hold up the collectors. The frame begins to melt. It's raining lava. Both anakin and obi-wan run for cover under the collection cluster. They continue to fight in the lava rain, darting from cover to attack, then quickly retreating to cover.
 yoda Into exile I must go. Failed, I have.
 c3po I am being careful. I've got a good hold on her, but . . . I'm worried about my back. I hope it's able to hold up under this weight.
-obiwan_kenobi and anakin continue the swordfight. They battle away, balancing on the tiny platform and puzzled DROID. anakin, standing on the Droid, approaches obi-wan on the work platform.
 obiwan_kenobi I have failed you, Anakin. I was never able to teach you to think.
 anakin_skywalker I should have known the Jedi were plotting to take over . . .
 obiwan_kenobi From the Sith!!! Anakin, Chancellor Palpatine is evil.
@@ -1128,7 +1100,7 @@ obiwan_kenobi You were my brother, Anakin. I loved you.
 c3po Master Kenobi! We have Miss Padme on board. Please, please hurry. We should leave this dreadful place.
 padme Obi-Wan? Is Anakin all right?
 darth_sidious#unknown#StarWars.Episode03 Anakin! Anakin! There he is. He's still alive. Get a medical capsule, immediately.
-CLONE#unknown#StarWars.Episode03 captain Yes sir. Right away.
+stormtrooper_captain Yes sir. Right away.
 yoda Failed to stop the Sith Lord, I have. Still much to learn, there is ...
 quigon_jinn Patience. You will have time. I did not. When I became one with the Force I made a great discovery. With my training, you will be able to merge with the Force at will. Your physical self will fade away, but you will still retain your consciousness. You will become more powerful than any Sith.
 yoda Eternal consciousness.
