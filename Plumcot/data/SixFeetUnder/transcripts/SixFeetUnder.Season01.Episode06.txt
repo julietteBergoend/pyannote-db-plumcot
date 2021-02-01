@@ -1,28 +1,28 @@
-not_available Damn , this house is cold .
-not_available Shit , Hattie , it's like a goddamn ice box .
+mr_jones Damn , this house is cold .
+mr_jones Shit , Hattie , it's like a goddamn ice box .
 not_available Well , no wonder !
 not_available Girl , are you crazy ?
-not_available We live in the desert .
+mr_jones We live in the desert .
 not_available gets cold at night .
 not_available You plan on sleeping all day ?
 not_available Plan on gettin' me some breakfast before nightfall !
 not_available Come on , bitch .
 not_available Get your lazy ass up .
-not_available Come on , this ain't the old folks' home .
+mr_jones Come on , this ain't the old folks' home .
 not_available Hattie ?
 not_available Hattie ?
 not_available Hattie ! "
-not_available " I hate this client .
+brenda_chenowith " I hate this client .
 not_available Every time she gets dumped by a guy , she gets a puppy .
 not_available So now she's got like 15 dogs , they're all male , they're all huge , and they sit there and watch with their tongues hanging out while I work on her .
 not_available It's like being in some live sex show for Asian businessmen , frat boys which I actually did for a while , back in the 80s , make some money .
-not_available I got this great thing going with ping pong balls you'd really like .
+brenda_chenowith I got this great thing going with ping pong balls you'd really like .
 not_available I must show it to you sometime .
 not_available Hey , wouldn't it be funny if I got some hedge clippers and cut off your dick ?
-not_available What ?
-not_available Do me a favor , OK ?
+brenda_chenowith What ?
+brenda_chenowith Do me a favor , OK ?
 not_available Don't read that shit in front of me .
-not_available You gave it to me .
+brenda_chenowith You gave it to me .
 not_available Yeah , come on , I'm late .
 not_available I'm at the part with the doll .
 not_available Why is your doll angry ?
@@ -30,22 +30,22 @@ not_available Because she got raped .
 not_available Really ?
 not_available By who ?
 not_available By you .
-not_available Brenda , do you know what " raped " means ?
+young_brenda Brenda , do you know what " raped " means ?
 not_available It means she was forced into sexual intercourse against her will .
-not_available It's so cool .
+nate_fisher It's so cool .
 not_available You were obviously doing it to scare him into leaving you alone , right ?
 not_available What do you want from me ?
 not_available I was 8 .
-not_available Did it work ?
+nate_fisher Did it work ?
 not_available No , it didn't work .
-not_available I just got a whole new level of scrutiny by a whole different set of vultures , only this time they were women .
+brenda_chenowith I just got a whole new level of scrutiny by a whole different set of vultures , only this time they were women .
 not_available I'm leaving .
 not_available You still want a ride ?
 not_available You alright ?
 not_available Yes , I'm fine .
 not_available What are you doing today ?
-not_available Um , well , the cabinets .
-not_available I'm gonna try to organize the cabinets .
+ruth_fisher Um , well , the cabinets .
+david_fisher I'm gonna try to organize the cabinets .
 not_available Good .
 not_available I'll be downstairs .
 not_available Alright .
@@ -53,56 +53,56 @@ not_available Hey , Bobby !
 not_available Yeah ?
 not_available Bring the Lincoln Town Car round front .
 not_available OK .
-not_available You're the other Fisher boy , huh ?
+mechanic You're the other Fisher boy , huh ?
 not_available The one from where ?
 not_available Oregon ?
 not_available Seattle .
-not_available Right .
+mechanic Right .
 not_available The health food thing .
 not_available Yup .
-not_available I remember your dad talked about you .
+mechanic I remember your dad talked about you .
 not_available Sorry to hear about him , man .
-not_available He was a funny guy .
+nate_fisher He was a funny guy .
 not_available Yeah ?
 not_available No , you don't pay .
 not_available Don't pay ?
 not_available Yeah , your dad buried my brother a few years back .
-not_available It was in trade .
-not_available My father traded a funeral for oil changes ?
+nate_fisher It was in trade .
+mechanic My father traded a funeral for oil changes ?
 not_available Yeah , I guess so .
 not_available Bye , Mom , have a good day .
-not_available So would you like us to take care of finding you a cemetery plot , Mr . Jones ?
+mr_jones So would you like us to take care of finding you a cemetery plot , Mr . Jones ?
 not_available Yeah , I don't wanna do that .
 not_available Would you like a double plot ?
 not_available What for ?
 not_available Well , one for your wife and one for you .
 not_available Next to each other .
-not_available Is this what you do all the time ?
-not_available Sell people their own graves ?
-not_available Well , yes , sir .
+mr_jones Is this what you do all the time ?
+david_fisher Sell people their own graves ?
+david_fisher Well , yes , sir .
 not_available This is my job .
 not_available Don't try to pull that shit with me , boy .
 not_available I want a simple box .
 not_available No frills .
-not_available You can't take advantage of me because I'm old .
-not_available I'll kick your ass !
+mr_jones You can't take advantage of me because I'm old .
+david_fisher I'll kick your ass !
 not_available Just a single plot , then .
 not_available No .
 not_available Double plot .
-not_available Shit .
-not_available Will you want Mrs . Jones prepared for viewing ?
+david_fisher Shit .
+mr_jones Will you want Mrs . Jones prepared for viewing ?
 not_available Yes , I want to see her , but I don't want you messin' with her none .
 not_available I don't want you to cut her or stick her or pickle her like an egg .
 not_available If you want a viewing , I strongly would recommend That's my wife , boy
 not_available , I don't want you to touch her !
 not_available Mr .
 not_available Jones , I can guarantee that you will not want to see her , nor will anybody else , unless she's been embalmed .
-not_available I would beg you to consider what your wife would want .
+mr_jones I would beg you to consider what your wife would want .
 not_available She's dead , fool !
-not_available Don't matter what she wants !
-not_available Well , yes , sir , but after death , the body immediately begins to decompose much quicker than you might think .
+david_fisher Don't matter what she wants !
+david_fisher Well , yes , sir , but after death , the body immediately begins to decompose much quicker than you might think .
 not_available The skin begins to separate , there's quite an unpleasant odor .
-not_available Should you choose to forego embalming , my recommendation would be cremation , as soon as possible .
+david_fisher Should you choose to forego embalming , my recommendation would be cremation , as soon as possible .
 not_available That's just the way it is , Mr . Jones .
 not_available I don't want to burn her up .
 not_available I want to see her .
@@ -110,10 +110,10 @@ not_available Fine .
 not_available You do understand , however , that that means she'll have to be embalmed .
 not_available I ain't payin' for that .
 not_available Sir , the cost is minimal I will waive the embalming fee , Mr . Jones , alright ?
-not_available That was a good sermon , I thought .
+ruth_fisher That was a good sermon , I thought .
 not_available Did you ?
 not_available You didn't ?
-not_available I didn't really listen to it .
+tracy_montrose_blair I didn't really listen to it .
 not_available Hello !
 not_available Hello !
 not_available Hello .
@@ -123,35 +123,35 @@ not_available Tracy .
 not_available I keep asking him when we're gonna meet his fiancee .
 not_available Does she go to another church ?
 not_available Yes .
-not_available What fiancee ?
+david_fisher What fiancee ?
 not_available Tracy , I told you , Jennifer and I had broken it off years ago .
-not_available You did ?
-not_available So there's no fiancee now ?
+tracy_montrose_blair You did ?
+david_fisher So there's no fiancee now ?
 not_available Excuse us .
 not_available That's really a sore subject for us all .
 not_available Ow !
 not_available You're hurting my arm .
 not_available Hiram !
-not_available How are you ?
+ruth_fisher How are you ?
 not_available I'm fine , thank you .
 not_available Have you come to church ?
-not_available I haven't seen you .
+hiram_gunderson I haven't seen you .
 not_available I wanted to give you some space .
 not_available Please don't sacrifice anything on my account .
 not_available A little late for that .
 not_available I miss you .
-not_available Can I see you ?
-not_available No .
+ruth_fisher Can I see you ?
+hiram_gunderson No .
 not_available Ruth , haven't you punished yourself enough ?
 not_available Shall we go ?
 not_available Hi , I'm David Fisher .
 not_available Hiram Gunderson .
-not_available Nice to meet you
+david_fisher Nice to meet you
 not_available You're the hairdresser .
 not_available It's nice to meet you , son .
 not_available Don't call me that .
 not_available David !
-not_available What ?
+david_fisher What ?
 not_available I'll go get the car .
 not_available No , I'm coming with you .
 not_available It's good to see you .
@@ -165,9 +165,9 @@ not_available Who are you ?
 not_available I want to see my wife .
 not_available Oh , I'm sorry .
 not_available We're not open yet .
-not_available Everyone who knows anything is gone .
+mr_jones Everyone who knows anything is gone .
 not_available I want to see my wife .
-not_available Look , sir , I'm sorry .
+claire_fisher Look , sir , I'm sorry .
 not_available I don't deal with the dead people , so you're just gonna have to come back when my brothers are home .
 not_available Bitch , I don't need your permission .
 not_available Sir , I'm sorry , you're just gonna have to come back later .
@@ -181,66 +181,66 @@ not_available Hello !
 not_available Hello , is anyone home ?
 not_available Yes , in here !
 not_available Who's your friend ?
-not_available Hell if I know !
-not_available His wife died , and he wanted to see her .
+claire_fisher Hell if I know !
+claire_fisher His wife died , and he wanted to see her .
 not_available I guess she isn't ready yet .
-not_available He looked like he was about to keel over , so I helped him sit down .
-not_available Then I had to listen to him bitch and moan about public transportation for fucking ever , and then he just , like , passed out .
+claire_fisher He looked like he was about to keel over , so I helped him sit down .
+claire_fisher Then I had to listen to him bitch and moan about public transportation for fucking ever , and then he just , like , passed out .
 not_available Now I can't get his fucking hand to let go !
 not_available Maybe he died .
 not_available Very funny .
 not_available No , he's still breathing .
-not_available And farting .
-not_available Can you help me pry his hand loose ?
+claire_fisher And farting .
+brenda_chenowith Can you help me pry his hand loose ?
 not_available Sure .
 not_available Is Nate around ?
-not_available I just bought this fabulous antique chest , weighs a ton .
-not_available I'm gonna need a hand getting it home .
+brenda_chenowith I just bought this fabulous antique chest , weighs a ton .
+claire_fisher I'm gonna need a hand getting it home .
 not_available No , I haven't seen him .
 not_available I can help you move it , though .
 not_available no , thanks .
 not_available So what ?
 not_available I'm no good because the whole cabinet thing is just foreplay for you to fuck my brother ?
-not_available No .
+brenda_chenowith No .
 not_available I'm just not into babysitting high school girls .
 not_available No offense .
-not_available Let go of me !
-not_available Goddamn !
-not_available What are you all trying to do ?
+mr_jones Let go of me !
+mr_jones Goddamn !
+mr_jones What are you all trying to do ?
 not_available Trying to steal my watch ?
 not_available I oughtta call the goddamn cops !
-not_available Why ?
-not_available You're the one who's breaking and entering !
-not_available Look , we've gotta go move a chest .
+claire_fisher Why ?
+claire_fisher You're the one who's breaking and entering !
+claire_fisher Look , we've gotta go move a chest .
 not_available Someone should be back soon to let you see your wife .
 not_available Hey , little girl .
-not_available What ?
+mr_jones What ?
 not_available You ain't foolin' nobody .
-not_available Great .
-not_available Thanks .
+claire_fisher Great .
+claire_fisher Thanks .
 not_available I'll work on that .
 not_available Look , I'll be like one minute to change , OK ?
-not_available Are you gonna be OK here alone ?
+mr_jones Are you gonna be OK here alone ?
 not_available Everybody's alone .
 not_available You're born alone , you die alone , goddamn it .
-not_available I'm sorry about your wife .
-not_available You didn't know her .
+mr_jones I'm sorry about your wife .
+nate_fisher You didn't know her .
 not_available jessica Wilcox ?
 not_available I'm Nate Fisher , Nathaniel's son .
 not_available I wondered why I hadn't heard from Nathaniel in quite a while .
-not_available I hate this .
+jessica_wilcox I hate this .
 not_available I hate that I'll never see him again .
-not_available He was such a kook !
+nate_fisher He was such a kook !
 not_available Kook ?
 not_available Dad ?
 not_available I don't think anybody made me laugh like that .
 not_available He had such a sense of humor .
-not_available So I hear .
+jessica_wilcox So I hear .
 not_available He was really proud of you .
-not_available I'm Nate , not David .
+jessica_wilcox I'm Nate , not David .
 not_available I know who you are .
-not_available You're the one who took off .
-not_available Your father really respected you for that .
+jessica_wilcox You're the one who took off .
+jessica_wilcox Your father really respected you for that .
 not_available Said he wished he'd had the guts to do that when he was a kid .
 not_available Ms Wilcox , did you have some kind of arrangement with my father ?
 not_available Arrangement ?
@@ -252,115 +252,115 @@ not_available Uh sure .
 not_available Libra , huh ?
 not_available I would've taken you for a Capricorn .
 not_available You drink a lot of coffee up in Seattle ?
-not_available Yeah .
+jessica_wilcox Yeah .
 not_available Better be careful .
 not_available Give you kidney stones .
 not_available Oh , come on !
 not_available Surely you wouldn't begrudge your father such a minor indulgence !
 not_available My father never smoked pot .
-not_available Not in front of you , he didn't .
+jessica_wilcox Not in front of you , he didn't .
 not_available It's the finest organic .
 not_available Grown in San Francisco by my son .
-not_available Take it .
+jessica_wilcox Take it .
 not_available It's your father's monthly supply .
 not_available How is your mother doing with the grieving , David ?
 not_available She is fine .
 not_available As far as I can tell .
-not_available You know her .
-not_available She likes to suffer in silence .
+david_fisher You know her .
+father_jack She likes to suffer in silence .
 not_available That seems to be a family trait .
 not_available You know it's God's will for us to live our lives fully .
 not_available Breathing in the joy around us , not just shouldering the pain .
 not_available God wants us to be happy .
 not_available I call them energy buns .
-not_available They're my own recipe .
+tracy_montrose_blair They're my own recipe .
 not_available Well , not really .
 not_available Adding the peppers was something I picked up on my honeymoon .
 not_available Have you ever been to Brazil ?
 not_available no .
 not_available Oh my God , Brazilians are the most beautiful people alive .
-not_available They're like these fabulous mongrels who've incorporated all the very best attributes from ever race .
+tracy_montrose_blair They're like these fabulous mongrels who've incorporated all the very best attributes from ever race .
 not_available I mean , all that crossbreeding , hello !
-not_available I had a half breed mutt who lived to be almost 20 ,
+tracy_montrose_blair I had a half breed mutt who lived to be almost 20 ,
 not_available and then I got this purebred ,
 not_available Corky , and its hips disintegrated before it was even 2
-not_available Here you go .
+indigent_man Here you go .
 not_available Fuck you , church freaks !
-not_available Well , enjoy .
-not_available Do you cook ?
+tracy_montrose_blair Well , enjoy .
+tracy_montrose_blair Do you cook ?
 not_available I hate cooking just for myself .
 not_available That's the worst part about being divorced .
 not_available That and the no regular sex thing .
-not_available Daivd , could I talk to you for a moment ?
+hiram_gunderson Daivd , could I talk to you for a moment ?
 not_available Alone .
-not_available Excuse us .
-not_available What do you want ?
-not_available Ruth won't talk to me .
+david_fisher Excuse us .
+hiram_gunderson What do you want ?
+hiram_gunderson Ruth won't talk to me .
 not_available I'm worried about her .
 not_available I was hoping that you couldYou were fucking my mother while my father was still alive , and now you want me to I understand if you're upset with me .
-not_available Understand this .
+david_fisher Understand this .
 not_available Whatever you have with my mother is between you and her , but I have no interest in helping you .
-not_available Table for one ?
-not_available Are you the owner ?
+nate_fisher Table for one ?
+restaurant_owner Are you the owner ?
 not_available Yes .
-not_available Did you know my father , Nathaniel Fisher ?
-not_available This used to be our storeroom .
+restaurant_owner Did you know my father , Nathaniel Fisher ?
+restaurant_owner This used to be our storeroom .
 not_available But when I finally got a loan from the bank , I put an extension onto the kitchen .
-not_available Your father buried my wife seven years ago .
-not_available I have very little money for the funeral .
+restaurant_owner Your father buried my wife seven years ago .
+restaurant_owner I have very little money for the funeral .
 not_available He asked if he could have this room as his own , and that would be my settlement .
-not_available What did he do here ?
+restaurant_owner What did he do here ?
 not_available I don't know .
 not_available Stay as long as you would like .
-not_available How often did he come here ?
-not_available Well , sometimes we wouldn't see him for months .
+restaurant_owner How often did he come here ?
+restaurant_owner Well , sometimes we wouldn't see him for months .
 not_available Sometimes he was here everyday .
 not_available Mrs .
-not_available Fisher !
-not_available Good afternoon , Nikolai !
-not_available I don't believe I've had the chance to thank you yet .
-not_available When Kroehner started pressuring everyone to cut us off , most of our suppliers just abandoned Fisher &amp ; Sons .
+ruth_fisher Fisher !
+ruth_fisher Good afternoon , Nikolai !
+ruth_fisher I don't believe I've had the chance to thank you yet .
+ruth_fisher When Kroehner started pressuring everyone to cut us off , most of our suppliers just abandoned Fisher &amp ; Sons .
 not_available You stuck with us .
-not_available Of course I stick with you !
+ruth_fisher Of course I stick with you !
 not_available Thank you .
 not_available These flowers are not gonna plant themselves .
 not_available Such delicate skin .
 not_available You have Russian color .
 not_available I do ?
 not_available You don't like the beauty you have ?
-not_available The front door is open .
+ruth_fisher The front door is open .
 not_available You can leave the flowers inside .
-not_available OK .
+brenda_chenowith OK .
 not_available OK , that is where the chest is gonna have to stay .
 not_available God , that shit is heavy .
 not_available You wanted to help .
-not_available Oh my God , is this yours ?
+brenda_chenowith Oh my God , is this yours ?
 not_available No , that's Nate's , but he keeps leaving it in my car .
 not_available I love this book !
 not_available You read it ?
-not_available Oh , yeah ,
-not_available my friends and re all over this like 2 summers ago , before they turned into pretentious drama nerds and totally abandoned me .
+claire_fisher Oh , yeah ,
+claire_fisher my friends and re all over this like 2 summers ago , before they turned into pretentious drama nerds and totally abandoned me .
 not_available Thank God .
 not_available What's your favorite part ?
 not_available Oh , they're too numerous to mention .
 not_available Where is that part where she like stops speaking for a month and just barks at them ?
 not_available Brenda Brenda
 not_available , I know you're angry .
-not_available Can you talk to me ?
+claire_fisher Can you talk to me ?
 not_available You know , they put me in therapy 'cause I stole that foot .
 not_available Yeah , Nate told me .
 not_available God , I would love to go into one of those sessions and just bark .
-not_available Just to see the look on his face .
-not_available Do you totally identify with this book ?
+claire_fisher Just to see the look on his face .
+billy_chenowith Do you totally identify with this book ?
 not_available Of course she does .
-not_available It's about her .
-not_available What?! ?
-not_available She's Charlotte .
+claire_fisher It's about her .
+not_available What? ! ?
+claire_fisher She's Charlotte .
 not_available You're shitting me !
 not_available Is he for real ?
-not_available Completely .
+brenda_chenowith Completely .
 not_available Oh my God !
-not_available Oh my God !
+claire_fisher Oh my God !
 not_available is like meeting Ghandi or Jesus !
 not_available Don't tell me .
 not_available The book spoke to you , like it was written specifically for you .
@@ -372,7 +372,7 @@ not_available Yeah , those lonely little girls desperate for something to emulat
 not_available Well , that's what I like to see .
 not_available ing before sundown .
 not_available Hi , I'm Billy .
-not_available I'm Claire .
+billy_chenowith I'm Claire .
 not_available How do you know my sister ?
 not_available Through my brother , Nate .
 not_available They're dating .
@@ -382,17 +382,17 @@ not_available what ?
 not_available Going steady ?
 not_available He give her his ID bracelet ?
 not_available She carve his initials in her arm so they'd be there forever ?
-not_available Yo , Bren , you should've seen me out on the ocean .
+billy_chenowith Yo , Bren , you should've seen me out on the ocean .
 not_available All those Venice dicks , taking themselves so seriously !
 not_available You surf ?
-not_available Me ?
+claire_fisher Me ?
 not_available do I look like I surf ?
 not_available Do I ?
 not_available Uh
 not_available oh .
 not_available You'll freeze your ass off this time of year , wearing that kind of thing .
 not_available So ?
-not_available It's my ass .
+brenda_chenowith It's my ass .
 not_available Oh , fine , you wanna get pneumonia again ?
 not_available Go right ahead !
 not_available Claire , I should take you home .
@@ -401,13 +401,13 @@ not_available No , that's alright .
 not_available I'll take her .
 not_available Great .
 not_available Oh , no .
-not_available I've got time .
+brenda_chenowith I've got time .
 not_available We just need to go right now .
-not_available Well , if you have got stuff to do , don't worry about it .
+billy_chenowith Well , if you have got stuff to do , don't worry about it .
 not_available Yeah , do your stuff .
-not_available I just have to take a shower .
+nathaniel_fisher I just have to take a shower .
 not_available So , I'm walking along one day , and this asshole stops me and asks if I'm alright .
-not_available He says I got a look .
+nathaniel_fisher He says I got a look .
 not_available He'd seen a man with that same look once and had ignored it .
 not_available And that man had jumped out of a 9 story window .
 not_available You know the reconstruction involved in a death like that ?
@@ -421,7 +421,7 @@ not_available Since when do you listen to The Classics Four ?
 not_available What the hell did you do here ?
 not_available Who the hell are you ?
 not_available So many questions .
-not_available Why couldn't you ask them when I was still ALIVE?! ?
+nathaniel_fisher Why couldn't you ask them when I was still ALIVE? ! ?
 not_available It's OK .
 not_available I couldn't answer most of them , anyway .
 not_available Unlike now .
@@ -430,95 +430,95 @@ not_available Right .
 not_available You think I'm kidding , buddy boy ?
 not_available That's one of the perks of being dead .
 not_available You know what happens after you're dead , and you know the meaning of life .
-not_available That seems fairly useless .
+nathaniel_fisher That seems fairly useless .
 not_available Yeah , I know .
 not_available Life is wasted on the living .
 not_available Could have told me you were proud of me .
-not_available You were never around for me to tell , which is exactly what I was proud of you for .
-not_available Therein lies your catch 22 .
+nathaniel_fisher You were never around for me to tell , which is exactly what I was proud of you for .
+nate_fisher Therein lies your catch 22 .
 not_available So , what's the meaning of life ?
 not_available Really wanna know ?
 not_available I don't know .
-not_available Will it fuck me up if I do ?
+tracy_montrose_blair Will it fuck me up if I do ?
 not_available Oh , David , you make such a handsome deacon .
 not_available All those old stiffs .
 not_available Finally , a dose of viagra to the place !
 not_available Oh , I don't mean that literally .
 not_available Not like you'd need it .
-not_available Thank you , Tracy .
-not_available So , no fiancee , huh ?
+tracy_montrose_blair Thank you , Tracy .
+david_fisher So , no fiancee , huh ?
 not_available No , no , that's over .
 not_available But she broke my heart , and I'm just not ready or interested in any sort of relationship right now .
 not_available Oh , come on , any relationship ?
 not_available I'm just not ready , and I doubt I will be for quite some time .
 not_available Well , what if Cindy Crawford were to walk up to you and say , " Just use me for sex " ?
-not_available I would say no .
+tracy_montrose_blair I would say no .
 not_available Liar .
-not_available Is it so wrong to want a little human contact ?
+tracy_montrose_blair Is it so wrong to want a little human contact ?
 not_available You're lonely , too .
 not_available I can tell .
 not_available For Chrissake , Tracy , what does it take ?
 not_available No .
 not_available Well , you don't have to be so mean about it .
-not_available Apparently I do .
+david_fisher Apparently I do .
 not_available Look , I come here to feed these people because I don't want to talk to anybody .
 not_available Do us both a favor .
 not_available Go to a bar .
-not_available Pick somebody up .
-not_available No , no , we just met .
+claire_fisher Pick somebody up .
+billy_chenowith No , no , we just met .
 not_available I know .
 not_available I'm sorry .
 not_available I'm just so turned on by you .
-not_available Shut up .
+claire_fisher Shut up .
 not_available I have to go home .
 not_available Hey , I wanna see you again .
-not_available Good .
+claire_fisher Good .
 not_available But I'm not some skank for you to fuck .
 not_available If that's what you're into , just go and find that somewhere else .
 not_available That's not what I'm into , Claire .
 not_available I swear .
-not_available If you're lying , I swear to God , I will kill you .
+claire_fisher If you're lying , I swear to God , I will kill you .
 not_available I will kick your ass .
 not_available You do not want to mess with me .
 not_available That ain't her .
-not_available Excuse me ?
+mr_jones Excuse me ?
 not_available That ain't my wife .
-not_available That ain't my Hattie
+mr_jones That ain't my Hattie
 not_available What'd you do with my Hattie ?
 not_available Mr .
-not_available Jones , with all due respect I don't want your respect .
-not_available I want my wife .
+mr_jones Jones , with all due respect I don't want your respect .
+federico_diaz I want my wife .
 not_available Sir , that is your wife .
-not_available You married ?
-not_available Yes , sir .
+federico_diaz You married ?
+mr_jones Yes , sir .
 not_available Is she all young and pretty and knows how to treat you right ?
-not_available Yes , sir .
+mr_jones Yes , sir .
 not_available You can't believe how lucky you are , how life can be so good to you , right ?
-not_available She gonna turn into that .
+federico_diaz She gonna turn into that .
 not_available We all do .
 not_available Well , don't that piss you off , boy ?
 not_available Not yet .
 not_available He used this how long ?
-not_available Seven years .
-not_available It's weird how you keep showing me rooms people used to live in .
+brenda_chenowith Seven years .
+nate_fisher It's weird how you keep showing me rooms people used to live in .
 not_available I just think it's so fucking weird .
-not_available He'd sit in
-not_available this sad , little room doing God knows what .
+nate_fisher He'd sit in
+brenda_chenowith this sad , little room doing God knows what .
 not_available Why does it have to be sad ?
 not_available Look around .
 not_available I think it's fascinating .
 not_available Really , why ?
 not_available Such a mystery , ya know ?
 not_available You'll neverk now what went on here .
-not_available That's exactly what's driving me crazy .
+brenda_chenowith That's exactly what's driving me crazy .
 not_available So what if you did know , had it all explained to you ?
 not_available I bet it wouldn't be nearly as interesting or fun .
 not_available Your father would be a lot more boring .
-not_available Enjoy this !
-not_available Come on , don't you pick up on something ?
-not_available I thought things left marks in people , in places , in time .
+nate_fisher Enjoy this !
+nate_fisher Come on , don't you pick up on something ?
+brenda_chenowith I thought things left marks in people , in places , in time .
 not_available So , what , you think I'm a witch ?
-not_available You really don't get any kind of vibe from this place at all ?
+brenda_chenowith You really don't get any kind of vibe from this place at all ?
 not_available You wanna know what I think ?
 not_available I think your father wanted some place that was just his and nobody else's .
 not_available Nate , if you didn't know him when he was alive , you never will .
@@ -530,79 +530,79 @@ not_available How do you think I'm doing ?
 not_available you'll let me know if you need anything .
 not_available hello .
 not_available For Jones .
-not_available Oh , Mr . Jones , see the beautiful flowers for your wife's viewing tomorrow ?
+mr_jones Oh , Mr . Jones , see the beautiful flowers for your wife's viewing tomorrow ?
 not_available I don't know why you so excited .
 not_available They're just gonna grow up and die .
 not_available Well , thank you .
 not_available I'll see you out .
-not_available I don't know what you think you're doing , but I'm going to have to ask my sons to order flowers from another florist if this behavior continues .
+nikolai I don't know what you think you're doing , but I'm going to have to ask my sons to order flowers from another florist if this behavior continues .
 not_available Which behavior ?
-not_available This is our place of business .
+ruth_fisher This is our place of business .
 not_available There are grieving people here .
 not_available I can't have you skulking round with that look in your eye .
 not_available What look ?
 not_available That sex look .
-not_available Maybe you like it .
+mr_jones Maybe you like it .
 not_available Lady wear red , she means business .
-not_available This is just what was clean .
-not_available Lady , I can see you from here , and I'm blind and deaf .
+mr_jones This is just what was clean .
+mr_jones Lady , I can see you from here , and I'm blind and deaf .
 not_available You need to get yourself laid .
-not_available Time warp !
-not_available I told you .
-not_available Pretty cozy for a morgue .
+claire_fisher Time warp !
+billy_chenowith I told you .
+billy_chenowith Pretty cozy for a morgue .
 not_available Must be weird living here .
 not_available You get used to it .
 not_available You ever done it with anyone in here ?
-not_available Yeah , right .
-not_available And have my mom walk in ?
+claire_fisher Yeah , right .
+claire_fisher And have my mom walk in ?
 not_available No .
 not_available you look great .
-not_available Shut up .
+billy_chenowith Shut up .
 not_available Come on , seduce me .
-not_available There ya go .
+billy_chenowith There ya go .
 not_available Oh , yeah , there ya go .
 not_available Don't pretend like you haven't done this before .
 not_available You are a natural !
 not_available Look at you !
-not_available Look at you !
+billy_chenowith Look at you !
 not_available No , no , don't hide , don't hide !
-not_available This what you do ?
+claire_fisher This what you do ?
 not_available You shoot models and stuff ?
-not_available Hardly .
-not_available Alright , it's on timer .
+billy_chenowith Hardly .
+billy_chenowith Alright , it's on timer .
 not_available Something to remember me by .
-not_available Hey , what do you think about Brenda and your brother ?
+billy_chenowith Hey , what do you think about Brenda and your brother ?
 not_available Think they have a chance in hell ?
 not_available I hope so .
-not_available She's pretty amazing .
-not_available He'd be a real idiot to let her go .
+claire_fisher She's pretty amazing .
+claire_fisher He'd be a real idiot to let her go .
 not_available But again he's capable of being an idiot sometimes .
 not_available So what is she to him ?
 not_available Just hot sex ?
 not_available I think he's really in love with her .
-not_available How could he not be ?
-not_available Shit , I'm thirsty .
+billy_chenowith How could he not be ?
+billy_chenowith Shit , I'm thirsty .
 not_available You got any beer ?
 not_available No , sorry .
 not_available It's alright .
 not_available I should be heading out anyway .
 not_available Oh , OK .
 not_available I had fun today .
-not_available Me too .
-not_available Let's do this again .
+billy_chenowith Me too .
+federico_diaz Let's do this again .
 not_available OK .
 not_available OK , Mr . Bosun is all juiced up .
-not_available I'll be in around 7 tomorrow to airbrush him .
+federico_diaz I'll be in around 7 tomorrow to airbrush him .
 not_available Get him ready for the viewing tomorrow .
-not_available Unless , you know , you want me to do him now .
-not_available I was kind of hoping to get home before Vanessa put Julio down .
+federico_diaz Unless , you know , you want me to do him now .
+david_fisher I was kind of hoping to get home before Vanessa put Julio down .
 not_available That's fine .
 not_available Good night .
 not_available Need any help ?
 not_available No , Federico , go home to your family .
 not_available Don't work too hard .
 not_available Mr .
-not_available Jones ?
+nate_fisher Jones ?
 not_available Time to go home .
 not_available Who the hell are you ?
 not_available I'm Nate .
@@ -614,50 +614,50 @@ not_available day in , day out .
 not_available It's late .
 not_available Maybe I should drive you home .
 not_available Shut the fuck up , boy , and let an old man speak .
-not_available OK .
+mr_jones OK .
 not_available She chased me across the front yard with a steak knife once , tried to cut my ass .
-not_available Then we spent close to a year apart .
+mr_jones Then we spent close to a year apart .
 not_available That time's like a hole in me now .
-not_available She was the only one who ever really knew me .
+nate_fisher She was the only one who ever really knew me .
 not_available You know , your wife will always be with you in your memories .
 not_available When you love somebody that much , they never really You sell that shit to somebody who's buyin'
 not_available it cause I ain't .
-not_available You don't know nothin' about love .
+mr_jones You don't know nothin' about love .
 not_available Some pretty little thing catches your eye , and the next thing you know it's been 56 years and you've shit all over yourself in the movie theatre , and she the only one to help you clean it up .
-not_available That's love .
+mr_jones That's love .
 not_available You don't know nothin' .
-not_available I won't argue that .
+one_night_stand_ I won't argue that .
 not_available Can I get you anything to drink ?
 not_available I have beer , red wine , a little vodka .
-not_available No , just water , thanks .
+one_night_stand_ No , just water , thanks .
 not_available I don't usually go out on a school night , but you know how it is .
 not_available Yeah .
 not_available Here ya go .
-not_available My ex .
+one_night_stand_ My ex .
 not_available We were together for nearly 2 years and then he dumped me for a 22 yearold stand in he
-not_available met on location .
+one_night_stand_ met on location .
 not_available I think that's the only picture I had of him that I didn't tear up .
 not_available Funny , you know , you think you know somebody , and I hear he's in AA now .
-not_available So , are you in the business ?
+david_fisher So , are you in the business ?
 not_available No , no , I'm a lawyer .
 not_available I'm from Boston .
-not_available God , how refreshing !
+one_night_stand_ God , how refreshing !
 not_available You tend to forget sometimes living in LA that there's this world outside the entertainment industry .
 not_available And that's the real world .
 not_available So what do you do ?
 not_available Production accounting .
 not_available I told you that .
 not_available Oh , right .
-not_available I'm sorry .
-not_available It's OK .
-not_available So , Jim , what do you like to do ?
+david_fisher I'm sorry .
+one_night_stand_ It's OK .
+david_fisher So , Jim , what do you like to do ?
 not_available Can we sit down ?
 not_available Sure .
 not_available Had a little too much to drink there , Jim ?
 not_available Are you OK ?
-not_available Yeah .
-not_available I want to apologize for what happened yesterday .
-not_available It's OK .
+ruth_fisher Yeah .
+nikolai I want to apologize for what happened yesterday .
+ruth_fisher It's OK .
 not_available I should never have lashed out at you like that .
 not_available It's just
 not_available , I don't know what's wrong with me .
@@ -672,109 +672,109 @@ not_available Oh , shit , Billy , did I wake you ?
 not_available I'm sorry .
 not_available Fuck !
 not_available Who is this ?
-not_available It's Claire .
+billy_chenowith It's Claire .
 not_available Who ?
-not_available It's Claire , Nate;s sister .
+claire_fisher It's Claire , Nate;s sister .
 not_available I just wanted to see if maybe you wanted to hang out again after school today .
-not_available Not really .
+billy_chenowith Not really .
 not_available Come on , Claire , you're what ?
 not_available What do you think I am , a pedophile ?
 not_available Well ?
-not_available I don't know what you want me to say .
-not_available Well , I don't want you to say anything .
-not_available I just thought you should see it .
+nate_fisher I don't know what you want me to say .
+nate_fisher Well , I don't want you to say anything .
+david_fisher I just thought you should see it .
 not_available I've seen it .
 not_available So , great !
 not_available Dad traded a room for a funeral .
-not_available No wonder we never had any money .
+nate_fisher No wonder we never had any money .
 not_available Didn't Dad ever say anything to you about this place at all ?
-not_available Dad and I never talked about anything but work .
+nate_fisher Dad and I never talked about anything but work .
 not_available That's exactly the relationship you
 not_available and I have .
-not_available Nate , people are allowed to have private lives .
+david_fisher Nate , people are allowed to have private lives .
 not_available So what if Dad had a secret room ?
 not_available I don't care .
 not_available I don't care if he brought women back here to fuck .
 not_available I don't care if he brought men back here to fuck .
 not_available You think we should tell Mom about it ?
-not_available Sure , why not ?
+david_fisher Sure , why not ?
 not_available You won't be happy until this whole family's in therapy .
 not_available That's kind of a leap .
-not_available Dave , look , I know you're pissed off about a lot of shit , but I didn't make any of that shit happen .
+nate_fisher Dave , look , I know you're pissed off about a lot of shit , but I didn't make any of that shit happen .
 not_available Oh , right , I I abandoned you .
 not_available Well , you know what ?
-not_available I'm not your father .
+nate_fisher I'm not your father .
 not_available I'm not the one whose responsibility it was not to abandon you .
 not_available So just get over it , please .
-not_available Life is just too fucking short .
-not_available Thank you , Nate .
-not_available I appreciate your honesty , wrapped as it was in such a bouquet of condescension .
+david_fisher Life is just too fucking short .
+david_fisher Thank you , Nate .
+david_fisher I appreciate your honesty , wrapped as it was in such a bouquet of condescension .
 not_available If I were you , I'd pack this place up before they start charging us for rent .
 not_available Quite a hottie , huh ?
-not_available This is Mom ?
+nathaniel_fisher This is Mom ?
 not_available You have no idea how beautiful she was , buddy boy .
 not_available I have no idea who you were .
 not_available I wasn't really that interesting .
-not_available No , I think you probably were .
+nate_fisher No , I think you probably were .
 not_available I think you were this great guy who was funny and weird and high .
 not_available I was just always so afraid of everything you did .
 not_available Death .
 not_available You know , I made the decision to come back home , to become a fucking undertaker , because I thought it was something you believed in , and now I find out you think running away was the best thing I ever did ?
-not_available Maybe .
-not_available Jesus Christ , I kept us from selling to Kroehner , and I'm taking the Funeral Director's License Test next month .
+nate_fisher Maybe .
+nathaniel_fisher Jesus Christ , I kept us from selling to Kroehner , and I'm taking the Funeral Director's License Test next month .
 not_available Well , maybe I was just covering up for how embarrassed I was when you left .
-not_available Is that why you left half the business to me ?
+nate_fisher Is that why you left half the business to me ?
 not_available To get back at me ?
 not_available Maybe .
-not_available Maybe I just wanted to see if you had the balls to go against me .
-not_available Or maybe I really wanted you to have it .
-not_available You'll never know .
+nathaniel_fisher Maybe I just wanted to see if you had the balls to go against me .
+nathaniel_fisher Or maybe I really wanted you to have it .
+nate_fisher You'll never know .
 not_available Goddamn it , when are you gonna stop fucking with me ?
 not_available When are you gonna stop caring what I thought .
-not_available " I never knew my father! "
-not_available Get over it !
+not_available " I never knew my father ! "
+nathaniel_fisher Get over it !
 not_available Please !
 not_available Life is just too fucking short .
 not_available My brother is a very complicated man and very high maintenance .
 not_available And , don't get me wrong , I love him dearly , but I pity the woman he ends up with .
 not_available See , that's the same thing I'd say about my brother .
 not_available Nate is not even in the same league .
-not_available Was I crazy ?
+claire_fisher Was I crazy ?
 not_available I mean , Billy was really acting like
 not_available Did you fuck him ?
-not_available No .
+brenda_chenowith No .
 not_available Well , you dodged a bullet there .
 not_available Is every man alive a total asshole ?
-not_available At some point or another .
+brenda_chenowith At some point or another .
 not_available Then , again , so are we .
 not_available Come on , we've gotta go .
 not_available I still cannot get over the fact that you are
-Charlotte Light &amp ;
-Charlotte Dark !
-Charlotte Well , you have to , because it's very irritating .
+not_available Light &amp ;
+brenda_chenowith Dark !
+not_available Well , you have to , because it's very irritating .
 not_available Mr .
 not_available Jones is still downstairs .
-not_available I know this silver has been in your father's family for three generations .
+ruth_fisher I know this silver has been in your father's family for three generations .
 not_available I don't believe I've ever used it .
 not_available I'm going to put an ad in the paper and see if I can sell them .
 not_available Mom , I found something you should probably have .
-not_available Where'd you find these ?
+nate_fisher Where'd you find these ?
 not_available In the office , among Dad's things .
 not_available Look at what a child I was !
-not_available Your father was leaving for Vietnam .
+ruth_fisher Your father was leaving for Vietnam .
 not_available He'd volunteered as a medic .
 not_available Your grandfather was furious !
 not_available You don't remember your grandfather , do you ?
-not_available No .
+ruth_fisher No .
 not_available He was a very unhappy man , and he wanted everyone else to be unhappy , too .
 not_available We were all living in this house .
-not_available Well , you were a baby , and there was no privacy , so Nathaniel and I got a room in a motel .
+ruth_fisher Well , you were a baby , and there was no privacy , so Nathaniel and I got a room in a motel .
 not_available Some seedy place in the Valley .
-not_available And we made love like maniacs .
+ruth_fisher And we made love like maniacs .
 not_available Like it was the last time .
 not_available Your father took these pictures , in that damp little room .
 not_available Told me he kept them in his pocket in Vietnam to protect him .
-not_available It's frightening how much we change .
+ruth_fisher It's frightening how much we change .
 not_available Are you staying for dinner , dear ?
 not_available Yeah .
 not_available Mr .
@@ -783,7 +783,7 @@ not_available Probably should think about heading home .
 not_available You've got a long day ahead of you tomorrow .
 not_available Funeral .
 not_available Mr .
-not_available Jones ?
+nate_fisher Jones ?
 not_available Mr .
 not_available Jones ?
 not_available Mr .
