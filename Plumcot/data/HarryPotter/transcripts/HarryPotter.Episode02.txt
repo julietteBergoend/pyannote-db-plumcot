@@ -455,7 +455,7 @@ dobby harry potter should have listened to dobby! harry potter should have
 harry_potter It was you… You stopped the barrier from letting Ron and me through.
 dobby Indeed. Yes, sir.
 harry_potter You nearly got Ron and me expelled!
-dobby At least you would be away from here. harry potter must go home! dobby
+dobby At least you would be away from here. harry potter must go home!
 harry_potter Your Bludger? You made that Bludger chase after me?
 dobby Uhuh… dobby feels most aggrieved, sir. dobby had to iron his hands.
 harry_potter You’d better clear off before my bones come back, dobby, or I might
@@ -678,7 +678,7 @@ harry_potter The monster had killed somebody, Ron. What would any of us have don
 hermione_granger Look. Hagrid’s our friend. Why don’t we just go and ask him about
 ron_weasley That’ll be a cheerful visit! “Hello, Hagrid! Tell us, have you been
 rubeus_hagrid Mad and hairy? You wouldn’t be talking about me now, would ya?
-harry_potter ron, hermione No!
+harry_potter@ron_weasley@hermione_granger No!
 harry_potter W- what’s that you’ve got, Hagrid?
 rubeus_hagrid Oh, It’s a- Flesh-Eatin’ Slug Repellent. For the Mandrakes, ya know.
 rubeus_hagrid Hello, Neville!

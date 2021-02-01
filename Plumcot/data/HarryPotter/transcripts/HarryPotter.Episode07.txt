@@ -4,11 +4,6 @@ minister_rufus_scrimgeour But I say this to our citizens.
 minister_rufus_scrimgeour We, ever your servants ... Will continue to defend you liberty and repel the forces that seek to take it from you.
 minister_rufus_scrimgeour Your ministry remains strong.
 not_available Dark Mark
-not_available SPARKS PANIC
-not_available VOILENCE SPREADS
-not_available MUGGLE FAMILY MURDERED
-not_available DEATH EATER NUMBER
-not_available GROWS
 not_available Hermione, tea is ready, Darling
 not_available I'm coming, Mom!
 not_available C'Mon Dudley hurry up
@@ -19,8 +14,6 @@ not_available not safe around here anymore
 not_available Ron?
 not_available evening is finished.
 not_available Obliviate.
-not_available HARRY POTTER AND
-not_available THE DEATHLY HALLOWS
 not_available Severus, I was beginning to worry
 not_available you'd lost your way...
 not_available ...Come, we have saved you a seat
@@ -287,10 +280,6 @@ not_available To kill thei other Horcruxes,
 not_available we have to find them?.
 not_available Where are they?
 not_available Where do we start?
-not_available DUMBLEDORE'S DARK SECRETS REVEALED
-not_available RITA SKEETER LAUNCHES NEW BOOK
-not_available DUMBLEDORE REMEMBERED
-not_available BY ELPHIAS DOGE
 not_available Zip me up, will you ?
 ginny_weasley Seems silly, doesn't it? A wedding. Given everything that's going on.
 harry_potter Maybe that's the best reason to have it. Because of everything that's going on.
@@ -587,13 +576,6 @@ not_available Trevor sent you, did he?
 not_available Good.
 not_available We'll go straight down.
 not_available Albert, weren't you getting out?
-not_available MUDBLOODS AND
-not_available DANGERS THEY POSE
-not_available DOLORES UMBRIDGE
-not_available SENIOR UNDERSECRETARY TO THE MINISTER
-not_available HEAD OF THE MUGGLE
-not_available BORN
-not_available REGISTRATION COMMISSION
 not_available Accio locket.
 not_available Take it easy,
 not_available Calm down.
@@ -1043,8 +1025,6 @@ not_available Lets vote.
 not_available Those in favor.
 harry_potter You're not still mad at him, are you?
 hermione_granger I'm always mad at him.
-not_available KEEP OFF THE
-not_available DIRIGIBLE PLUMS
 not_available Do not touch
 not_available Dirigible Plums.
 not_available What is it?

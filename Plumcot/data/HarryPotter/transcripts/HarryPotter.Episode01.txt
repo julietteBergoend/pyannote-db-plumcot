@@ -214,7 +214,6 @@ harry_potter Okay .
 harry_potter all students must be equipped with ...one standard size two pewter cauldron and may bring if they desire either an owl , a cat or a toad .
 harry_potter Can we find all this in London ?
 rubeus_hagrid If you know where to go .
-bartender_in_leaky_cauldron tom
 bartender_in_leaky_cauldron Ah , hagrid !
 bartender_in_leaky_cauldron The usual , I presume ?
 rubeus_hagrid No thanks , tom .
@@ -503,7 +502,6 @@ the_sorting_hat Let's see ...
 the_sorting_hat I know ...
 the_sorting_hat Hufflepuff !
 professor_minerva_mcgonagall ronald Weasley .
-the_sorting_hat hat
 the_sorting_hat Ah !
 the_sorting_hat Another Weasley .
 the_sorting_hat I know just where to put you ...
@@ -627,14 +625,14 @@ harry_potter That's odd .
 harry_potter That's the vault hagrid
 harry_potter and I went to .
 madame_hooch Good afternoon , class .
-class #unknown#HarryPotter Good afternoon , Madam hooch .
+class#unknown#HarryPotter Good afternoon , Madam hooch .
 madame_hooch Good afternoon , Amanda , good afternoon .
 madame_hooch Welcome to your first flying lesson .
 madame_hooch Well , what are you waiting for ?
 madame_hooch Everyone step up to the left side of their broomstick .
 madame_hooch Come on now , hurry up .
 madame_hooch Stick your right hand over the broom and say , Up !
-class #unknown#HarryPotter Up !
+class#unknown#HarryPotter Up !
 harry_potter Whoa .
 draco_malfoy Up !
 madame_hooch With feeling !
@@ -852,7 +850,6 @@ harry_potter Anything !
 harry_potter Hurry up !
 hermione_granger Swish and flick !
 ron_weasley Wingardium Leviosa !
-ron_weasley It hits the troll's head and the troll wavers , then drops harry , who crawls away , and comes crashing down , hard .
 hermione_granger Is it ...dead ?
 harry_potter I don't think so .
 harry_potter Just knocked out .
@@ -861,8 +858,7 @@ harry_potter Troll bogies .
 professor_minerva_mcgonagall Oh !
 professor_minerva_mcgonagall Oh , my goodness !
 professor_minerva_mcgonagall E-Explain yourselves , both of you !
-ron_weasley and harry
-ron_weasley Well , what it is ...
+ron_weasley@harry_potter Well , what it is ...
 hermione_granger It's my fault , Professor mcgonagall .
 professor_minerva_mcgonagall Ms .
 professor_minerva_mcgonagall Granger ?
@@ -1393,7 +1389,7 @@ hermione_granger You have to relax .
 hermione_granger If you don't , it will only kill you faster .
 ron_weasley Kill us faster? !
 ron_weasley Oh , now I can relax !
-ron_weasley and harry hermione! !
+ron_weasley@harry_potter hermione! !
 ron_weasley Now what are we gonna do? !
 hermione_granger voice Just relax !
 harry_potter hermione !
@@ -1499,7 +1495,6 @@ hermione_granger Books and cleverness ?
 hermione_granger There are more important things .
 hermione_granger Friendship , and bravery .
 hermione_granger And harry , just be careful .
-harry_potter You ?
 harry_potter No .
 harry_potter It can't be ...snape .
 harry_potter He was the one
