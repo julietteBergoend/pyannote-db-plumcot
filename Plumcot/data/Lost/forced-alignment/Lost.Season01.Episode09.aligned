@@ -248,6 +248,8 @@ Lost.Season01.Episode09 hugo_reyes 286.14 286.34 other 0.99
 Lost.Season01.Episode09 hugo_reyes 286.34 286.53 over 0.99
 Lost.Season01.Episode09 hugo_reyes 286.53 286.86 nothing 0.99
 Lost.Season01.Episode09 hugo_reyes 286.86 286.86 . 0.95
+Lost.Season01.Episode09 sullivan 286.96 287.02 (a 0.10
+Lost.Season01.Episode09 sullivan 287.02 287.07 redshirt) 0.10
 Lost.Season01.Episode09 sullivan 287.07 287.41 Doc 0.99
 Lost.Season01.Episode09 sullivan 287.41 287.41 , 0.10
 Lost.Season01.Episode09 sullivan 287.51 287.61 what 0.99
@@ -490,39 +492,10 @@ Lost.Season01.Episode09 sayid_jarrah 413.51 413.67 know 0.99
 Lost.Season01.Episode09 sayid_jarrah 413.71 413.92 any 0.99
 Lost.Season01.Episode09 sayid_jarrah 413.99 414.27 Alex 0.99
 Lost.Season01.Episode09 sayid_jarrah 414.27 414.27 . 0.95
-Lost.Season01.Episode09 sayid_jarrah 427.25 427.35 Stop 0.27
-Lost.Season01.Episode09 sayid_jarrah 427.35 427.35 ! 0.95
-Lost.Season01.Episode09 prisoner 427.64 427.64 Stop 0.10
-Lost.Season01.Episode09 prisoner 427.64 427.64 . 0.95
-Lost.Season01.Episode09 sayid_jarrah 427.64 427.73 Arabic 0.23
-Lost.Season01.Episode09 sayid_jarrah 427.73 427.82 ØªØ±ÙØ¯ÙÙ 0.10
-Lost.Season01.Episode09 sayid_jarrah 427.82 428.15 Ø£Ù 0.25
-Lost.Season01.Episode09 sayid_jarrah 428.42 428.53 Ø£ØªÙÙÙØ 0.10
-Lost.Season01.Episode09 sayid_jarrah 428.62 428.70 ÙØ§ÙØ­Ø 0.10
-Lost.Season01.Episode09 sayid_jarrah 431.61 431.76 Ø¥Ø°Ø§ 0.11
-Lost.Season01.Episode09 sayid_jarrah 431.76 431.84 Ø£Ø¬Ø¨ 0.11
-Lost.Season01.Episode09 sayid_jarrah 432.29 432.54 Ø¹Ù 0.19
-Lost.Season01.Episode09 sayid_jarrah 435.71 435.83 Ø£Ø³Ø¦ÙØªÙ 0.10
-Lost.Season01.Episode09 sayid_jarrah 435.91 436.08 ÙØ£ÙÙÙ 0.15
-Lost.Season01.Episode09 sayid_jarrah 436.13 436.33 ÙÙÙÙÙÙ 0.10
-Lost.Season01.Episode09 sayid_jarrah 436.54 436.74 ÙØ¹Ù 0.10
-Lost.Season01.Episode09 sayid_jarrah 436.87 437.02 ÙØ°Ø§ 0.10
-Lost.Season01.Episode09 sayid_jarrah 438.32 438.43 ÙÙ 0.10
-Lost.Season01.Episode09 sayid_jarrah 443.72 443.86 ÙÙÙ 0.10
-Lost.Season01.Episode09 sayid_jarrah 443.86 443.86 . 0.95
-Lost.Season01.Episode09 sayid_jarrah 444.12 444.34 Ø£Ø¤ÙØ¯ 0.10
-Lost.Season01.Episode09 sayid_jarrah 444.38 444.58 ÙÙ 0.10
-Lost.Season01.Episode09 sayid_jarrah 444.58 444.77 Ø¨Ø£ÙÙØ§ 0.10
-Lost.Season01.Episode09 sayid_jarrah 444.77 445.02 ÙØ¹Ø±Ù 0.10
-Lost.Season01.Episode09 sayid_jarrah 445.33 445.53 ÙØ³Ø¨ÙØ§ 0.10
-Lost.Season01.Episode09 sayid_jarrah 445.53 445.94 Ø§ÙØ­ÙÙÙØ© 0.10
-Lost.Season01.Episode09 sayid_jarrah 445.94 445.94 . 0.95
-Lost.Season01.Episode09 sayid_jarrah 447.45 447.65 ÙÙÙÙØ§ 0.10
-Lost.Season01.Episode09 sayid_jarrah 447.66 447.87 ÙØ±ÙØ¯ 0.10
-Lost.Season01.Episode09 sayid_jarrah 448.49 448.65 Ø£Ù 0.12
-Lost.Season01.Episode09 sayid_jarrah 448.68 448.81 ØªØ¹ØªØ±Ù 0.10
-Lost.Season01.Episode09 sayid_jarrah 449.10 449.41 Ø¨ÙÙØ³Ù 0.10
-Lost.Season01.Episode09 sayid_jarrah 449.41 449.41 ... 0.95
+Lost.Season01.Episode09 sayid_jarrah 444.77 445.02 Stop 0.27
+Lost.Season01.Episode09 sayid_jarrah 445.02 445.02 ! 0.95
+Lost.Season01.Episode09 prisoner 448.68 448.81 Stop 0.40
+Lost.Season01.Episode09 prisoner 448.81 448.81 . 0.95
 Lost.Season01.Episode09 sayid_jarrah 452.41 452.61 And 0.99
 Lost.Season01.Episode09 sayid_jarrah 452.65 452.82 all 0.99
 Lost.Season01.Episode09 sayid_jarrah 452.82 452.91 the 0.99
@@ -2803,11 +2776,11 @@ Lost.Season01.Episode09 sayid_jarrah 1646.52 1646.70 can 0.99
 Lost.Season01.Episode09 sayid_jarrah 1646.75 1646.86 be 0.99
 Lost.Season01.Episode09 sayid_jarrah 1646.96 1647.37 fixed 0.99
 Lost.Season01.Episode09 sayid_jarrah 1647.37 1647.37 . 0.95
-Lost.Season01.Episode09 danielle_rousseau 1652.01 1652.37 Thank 0.10
-Lost.Season01.Episode09 danielle_rousseau 1652.37 1652.73 you 0.10
-Lost.Season01.Episode09 danielle_rousseau 1652.73 1652.73 . 0.95
-Lost.Season01.Episode09 danielle_rousseau 1657.01 1657.37 Thank 0.10
-Lost.Season01.Episode09 danielle_rousseau 1657.37 1657.57 you 0.99
+Lost.Season01.Episode09 danielle_rousseau 1651.98 1652.34 Thank 0.10
+Lost.Season01.Episode09 danielle_rousseau 1652.35 1652.71 you 0.10
+Lost.Season01.Episode09 danielle_rousseau 1652.70 1652.70 . 0.95
+Lost.Season01.Episode09 danielle_rousseau 1656.96 1657.32 Thank 0.10
+Lost.Season01.Episode09 danielle_rousseau 1657.32 1657.52 you 0.99
 Lost.Season01.Episode09 danielle_rousseau 1657.57 1657.78 so 0.99
 Lost.Season01.Episode09 danielle_rousseau 1657.84 1658.18 much 0.99
 Lost.Season01.Episode09 danielle_rousseau 1658.18 1658.18 . 0.95
