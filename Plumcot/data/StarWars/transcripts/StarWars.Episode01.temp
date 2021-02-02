@@ -1,1031 +1,971 @@
-quigon_jinn Captain.
-captain#unknown#StarWars.Episode01 Yes, sir?
-quigon_jinn Tell them we wish to board at once.
-captain#unknown#StarWars.Episode01 Yes, sir.
-captain#unknown#StarWars.Episode01 With all due respect for the Trade Federation, the Ambassodors for the Supreme Chancellor wish to board immediately.
-nute_gunray Yes, yes, of course. As you know, our blockade is perfectly legal, and we'd be happy to recieve the Ambassador...Happy to.
-pk4 They must be important if the Viceroy sent one of those useless protocol gearheads to greet them.
-tc14 I'm tc-14 at your service. This way, please.
-eg9 A Republic cruiser! That's trouble...don't you think?
-pr4 I'm not made to think.
-tc14 I hope you honoured sirs with the most comfortable here. My master will be with you shortly.
-obiwan_kenobi I have a bad feeling about this.
-quigon_jinn I don't sense anything.
-obiwan_kenobi It's not about the mission, Master, it's something... elsewhere... elusive.
-quigon_jinn Don't center on your anxiety, Obi-Wan. Keep your concentration here and now where it belongs.
-obiwan_kenobi But Master Yoda says I should be mindful of the future...
-quigon_jinn ...but not at the expense of the moment. Be mindful of the living Force, my young Padawan.
-obiwan_kenobi Yes, Master... how do you think the trade viceroy will deal with the chancellor's demands?
-quigon_jinn These Federation types are cowards. The negotiations will be short.
-nute_gunray What?!? What did you say?
-tc14 The Ambassadors are Jedi Knights, I believe.
-daultay_dofine I knew it! They were sent to force a settlement, eh. Blind me, we're done for!
-nute_gunray Stay calm! I'll wager the Senate isn't aware of the Supreme Chancellor's moves here. Go. Distract them until I can contact Lord Sidious.
-daultay_dofine Are you brain dead? I'm not going in there with two Jedi! Send the droid. dofine turns to tc-14, who lets out a squeaky sigh. INTERIOR FEDERATION BATTLESHIP - CONFERENCE ROOM. qui-gon and obi-wan sit at the large conference table.
-obiwan_kenobi Is it their nature to make us wait this long?
-quigon_jinn No... I sense an unusual amount of fear for something as trivial as this trade dispute.
-daultay_dofine ...This scheme of yours has failed, Lord Sidious. The blockade is finished! We dare not go against these Jedi.
-darth_sidious You seem more worried about the Jedi than you are of me, Dofine. I am amused.
-nute_gunray Yes, My Lord.
-darth_sidious Viceroy. I don't want this stunted slime in my sight again...
-darth_sidious This turn of events is unfortunate. We must accelerate our plans, Viceroy. Begin landing your troops.
-nute_gunray Ahhh, My Lord, is that...legal?
-darth_sidious I will make it legal.
-nute_gunray And the...Jedi??
-darth_sidious The Chancellor should never have brought them in to this. Kill them, immediately.
-nute_gunray Yes...yes, My Lord. As you wish.
-pilot#unknown#StarWars.Episode01 Captain!? Look!!
-captain#unknown#StarWars.Episode01 No! Warn...
-tc14 Ahhh...Sorry sir. The Viceroy...
-quigon_jinn Gas! qui-gon and obi-wan each take a sudden deep breath and hold it. The exotic bird-like creatures in the cage drop dead. INTERIOR FEDERATION BATTLESHIP - HALLWAY. A hologram of nute, surrounded by BATTLE DROIDS, appears in the conference room hallway.
-nute_gunray They must be dead by now. Blast, what's left of them.
-tc14 Oh, excuse me, so sorry.
-owo1 Not sure exactly what...
-nute_gunray What in blazes is going on down there?
-rune_haako Have you ever encountered a Jedi Knight before, sir?
-nute_gunray Well, not exactly, but I don't... Seal off the bridge.
-rune_haako That won't be enough, sir.
-nute_gunray I want destroyer droids up here at once!!!
-rune_haako We will not survive this.
-nute_gunray Close the blast doors!!!
-rune_haako ...They're still coming through!
-nute_gunray Impossible!! This is impossible!!
-rune_haako Where are those destroyer droids?! INTERIOR FEDERATION BATTLESHIP - HALLWAY - OUTSIDE BRIDGE. Ten ugly destroyer WHEEL DROIDS roll down the hallway at full speed. Just before they get to the bridge area, they stop and transform into their battle configuration. qui-gon can't see them but senses their presence.
-quigon_jinn Destroyer droids!
-obiwan_kenobi Offhand, I'd say this mission is past the negotiaion stage.
-p59 Switch to bio...There they are!
-obiwan_kenobi They have shield generators!
-quigon_jinn It's a standoff! Let's go!
-rune_haako We have them on the run, sir...they're no match for destroyer droids.
-tey_how_ how Sir, they've gone up the ventilation shaft.
-quigon_jinn Battle droids.
-obiwan_kenobi It's an invisible army.
-quigon_jinn It's an odd play for the Trade Federation. We've got to warn the Naboo and contact Chancellor Valorum. Let's split up. Stow aboard separate ships and meet down on the planet.
-obiwan_kenobi You were right about one thing, Master. The negotiations were short.
-tey_how_ how Sir, a transmission from the planet.
-rune_haako It's Queen Amidala herself.
-nute_gunray At last we're getting results. Again you come before me, Your highness. The Federation is pleased.
-queen_amidala You will not be pleased when you hear what I have to say, Viceroy... Your trade boycott of our planet has ended.
-nute_gunray I was not aware of such a failure.
-queen_amidala I have word that the Senate is finally voting on this blockade of yours.
-nute_gunray I take it you know the outcome. I wonder why they bother to vote.
-queen_amidala Enough of this pretense, Viceroy! I'm aware the Chancellor's Ambassadors are with you now, and that you have been commanded to reach a settlement.
-nute_gunray I know nothing about any Ambassadors...you must be mistaken.
-queen_amidala Beware, Viceroy....the Federation is going too far this time.
-nute_gunray Your Highness, we would never do anything without the approval of the Senate. You assume too much.
-queen_amidala We will see.
-rune_haako She's right, the Senate will never....
-nute_gunray It's too late now.
-rune_haako Do you think she suspects an attack?
-nute_gunray I don't know, but we must move quickly to disrupt all communications down there.
-senator_palpatine ...How could that be true? I have assurances from the Chancellor... his Ambassadors did arrive. It must be the... get... negotiate...
-queen_amidala Senator Palpatine?!? What's happening?
-captain_panaka Check the transmission generators...
-sio_bibble A malfunction?
-captain_panaka It could be the Federation jamming us. Your Highness.
-sio_bibble A communications disruption can only mean one thing. Invasion.
-queen_amidala Don't jump to conclusions, Governor. The Federation would not dare go that far.
-captain_panaka The Senate would revoke their trade franchise, and they'd be finished.
-queen_amidala We must continue to rely on negotiation.
-sio_bibble Negotiation? We've lost all communications!...and where atre the Chancellors Ambassadors? How can we negotiate? We must prepare to defend ourselves.
-captain_panaka This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army.
-queen_amidala I will not condone a course of action that will lead us to war. EXTERIOR SPACE LANDING CRAFT - TWILIGHT Six landing craft fly in formation toward the surface of the planet Naboo. EXTERIOR NABOO SWAMP - SHALLOW LAKE - TWILIGHT. Three landing craft slowly descend through the cloud cover of the perpetually gray twilight side of the planet. One by one, the Federation warships land in the eerie swamp. obi-wan's head emerges from the mud of a shallow lake. For in the background, the activities of the invasion force can be seen in the mist. obi-wan takes several deep breaths, then dissapears again under the muddy swamp. Troop Transports emerge from the landing craft. EXTERIOR NABOO EDGE OF SWAMP / GRASS PLAINS - TWILIGHT . The droid invasion force moves out of the swamp and onto a grassy plain. OOM 9, in his tank, looks out over the vast ARMY marching across the rolling hills. A small hologram of rune and nute stands on the tank.
-rune_haako ...and there is no trace of the Jedi. They may have gotton onto one of your landing craft.
-oom9 If they are down here, sir, we'll find them. We are moving out of the swamp and are marching on the cities. We are meeting no resistance.
-nute_gunray Excellent. EXTERIOR NABOO SWAMP - TWILIGHT. qui-gon runs through the strange landscape, glancing back to see the monstrous troop transports, emerging from the mist. Animals begin to run past him in a panic. An odd, frog-like Gungan, jar jar INKS, squats holding a clam he has retrieved from the murky swamp. The shell pops open. jar jar's greta tongue snaps out and grabs the clam, swallowing it in one gulp. jar jar looks up and sees qui-gon and the other creatures running like the wind toward him. One of the huge MTT's bears down on the JEDI like a charging locomotive. jar jar stands transfixed, still holding the clam shell in one hand.
-jar_jar_binks jar Oh, noooooooooo! Hey, help me! Help me!!
-quigon_jinn Let go!
-jar_jar_binks jar Oyi, mooie-mooie! I luv yous!
-quigon_jinn Are you brainless? You almost got us killed!
-jar_jar_binks jar I spake.
-quigon_jinn The ability to speak does not make you intelligent. Now get outta here.
-jar_jar_binks jar No...no! Mesa stay... Mesa yous humble servaunt.
-quigon_jinn That wont be necessary.
-jar_jar_binks jar Oh boot tis! Tis demunded byda guds. Tis a live debett, tis. Mesa culled Jaja Binkss.
-quigon_jinn I have no time for this now...
-jar_jar_binks jar Say what? Oh, nooooo! Weesa ganna....
-quigon_jinn Stay down!
-jar_jar_binks jar ...dieeee!
-obiwan_kenobi Sorry, Master, the water fried my weapon.
-quigon_jinn You forgot to turn your power off again, didn't you? It won't take long to recharge, but this is a lesson I hope you've learned, my young Padawan.
-obiwan_kenobi Yes, Master.
-jar_jar_binks jar Yousa sav-ed my again, hey?
-obiwan_kenobi What's this?
-quigon_jinn A local. Let's go, before more of those droids show up.
-jar_jar_binks jar Mure? Mure did you spake??!? Ex-squeeze me, but da moto grande safe place would be Otoh Gunga. Tis where I grew up...Tis safe city.
-quigon_jinn A city! Can you take us there?
-jar_jar_binks jar Ahhh, will...on second taut...no, not willy.
-quigon_jinn No??!
-jar_jar_binks jar Iss embarrissing, boot... My afrai my've bean banished. My forgoten der Bosses would do terrible tings to my. Terrible tings if my goen back dare.
-quigon_jinn You hear that. That's the sound of a thousand terrible things heading this way...
-obiwan_kenobi When they find us, they will crush us, grind us into little pieces, then blast us into oblivion!
-jar_jar_binks jar Oh! Yousa point is well seen. Dis way! Hurry!
-quigon_jinn Much farther?
-jar_jar_binks jar Wesa goen underwater, okeyday? My warning yous. Gungans no liken outlaunders. Don't expict a wern welcome.
-obiwan_kenobi Don't worry, this has not been our day for warm welcomes. jar jar jumps, does a double somersault with a twist, and dives into the water. Breath masks on, qui-gon and obi-wan wade in after him. EXTERIOR NABOO LAKE - UNDERWATER. qui-gon and obi-wan swim behind jar jar, who is very much at home in the water. Down they swim into murky depths. In the distance the glow of Otoh Gunga, an underwater city made up of large bubbles, becomes more distinct. They approach the strange, art nouveau habitat. jar jar swims magically through one of the bubble membranes, which seals behind him. obi-wan and qui-gon follow. INTERIOR OTOH GUNGA - CITY SQUARE. GUNGANS in the square scatter when they see the strange JEDI. Four GUARDS armed with long electro-poles ride two-legged KAADUS into the square. The GUARDS, led by captain TARPALS, point their lethal poles at the dripping trio.
-jar_jar_binks jar Heyo-dalee, Cap'n Tarpals, Mesa back!
-captain_tarpals Noah gain, Jar Jar. Yousa goen tada Bosses. Yousa in big dudu this time.
-jar_jar_binks jar How wude. INTERIOR OTOH GUNGA - HIGH TOWER BOARD ROOM. The Bosses' Board Room has bubble walls, with small lighted fish swimming around outside like moving stars. A long circular judge's bench filled with GUNGAN OFFICIALS dominates the room. obi-wan and QUI- GON stand facing boss nass, who sits on a bench higher than the others.
-boss_nass nass Yousa cannot bees hair. Dis army of mackineeks up dare tis new weesong!
-quigon_jinn That droid army is about to attack the Naboo. We must warn them.
-boss_nass nass Wesa no like da Naboo! Un dey no like uss-ens. Da Naboo tink day so smarty den us-ens. Day tink day brains so big.
-obiwan_kenobi After those droids take control of the surface, they will come here and take control of you.
-boss_nass nass No, mesa no tink so. Mesa scant talkie witda Naboo, and no nutten talkie it outlaunders. Dos mackineeks no comen here! Dey not know of uss-en.
-obiwan_kenobi You and the Naboo form a symbiont circle. What happens to noe of you will affect the other. You must understand this.
-boss_nass nass Wesa wish no nutten in yousa tings, outlaunder, and wesa no caren about da Naboo.
-quigon_jinn Then speed us on our way.
-boss_nass nass Wesa gonna speed yousaway.
-quigon_jinn We need a transport.
-boss_nass nass Wesa give yousa una bongo. Da speedest way tooda Naboo tis goen through da core. Now go.
-quigon_jinn Thank you for your help. We go in peace.
-obiwan_kenobi Master, whats a bongo?
-quigon_jinn A transport, I hope.
-jar_jar_binks jar Daza setten yous up. Goen through da planet core is bad bombin!!
-quigon_jinn Thank you, my friend.
-jar_jar_binks jar Ahhh...any hep hair would be hot.
-obiwan_kenobi We are short of time, Master.
-quigon_jinn We'll need a navigator to get us through the planet's core. This Gungan may be of help. What is to become of Jar Jar Binks here?
-boss_nass nass Binkss brokeen the nocombackie law. Hisen to be pune-ished.
-quigon_jinn He has been a great help to us. I hope the punishment will not be too severe.
-boss_nass nass Pounded unto death.
-jar_jar_binks jar Oooooh...Ouch!
-quigon_jinn We need a navigator to get us through the planet's core. I have saved Jar Jar Binks' life. He owes me what you call a "life.debt."
-boss_nass nass Binks. Yousa havena liveplay with thisen hisen?
-quigon_jinn Your gods demand that his life belongs to me now.
-boss_nass nass Hisen live tis yos, outlauder. Begone wit him.
-jar_jar_binks jar Count mesa outta dis! Better dead here, den deader in da core... Yee guds, whata mesa sayin?! Dis is nusen.
-obiwan_kenobi Master, why do you keep dragging these pathetic life forms along with us?... Here, take over.
-jar_jar_binks jar Hey, ho? Where wesa goen??
-quigon_jinn You're the navigator.
-jar_jar_binks jar Yo dreamen mesa hopen...
-quigon_jinn Just relax, the Force will guide us...
-jar_jar_binks jar Ooooh, maxibig..."da Force"...Wellen, dat smells stinkowiff.
-obiwan_kenobi Why were you banished, Jar Jar?
-jar_jar_binks jar Tis a long tale, buta small part wawdabe mesa... ooooh... aaaa..... clumsy.
-obiwan_kenobi They banished you because you're clumsy?
-jar_jar_binks jar Mesa cause-ed mabee one or duey lettal bitty axadentes...yud say boom da gasser, un crash Der Bosses heyblibber...den banished.
-quigon_jinn Full speed ahead.
-jar_jar_binks jar Oooops.
-obiwan_kenobi Give me the controls.
-jar_jar_binks jar Wesa free!
-nute_gunray The invasion is on schedule, My Lord.
-darth_sidious Good. I have the Senate bogged down in procedures. By the time this incident comes up for a vote, they will have no choice but to accept your control of the system.
-nute_gunray The Queen has great faith the Senate will side with her.
-darth_sidious Queen Amidala is young and naive. You will find controlling her will not be difficult. You have done well, Viceroy.
-nute_gunray Thank you, My Lord.
-rune_haako You didn't tell him about the missing Jedi?
-nute_gunray No need to report that to him, until we have something to report.
-obiwan_kenobi .....we're losing power.
-quigon_jinn Stay calm. We're not in trouble yet.
-jar_jar_binks jar What yet? Monstairs out dare! Leak'n in here, all'n sink'n, and nooooo power! You nutsen! WHEN YOUSA TINK WESA IN TROUBLE?!!!?
-obiwan_kenobi Power's back.
-jar_jar_binks jar Monstairs back! Wesa in trouble now??
-quigon_jinn Relax.
-obiwan_kenobi You overdid it. This is not good!
-jar_jar_binks jar Wesa dead yet?? Oie Boie!
-quigon_jinn Head for that outcropping. EXTERIOR THEED - MAIN ROAD
-nute_gunray Ah, victory!
-jar_jar_binks jar Wesa dude it! Wesa safe now.
-quigon_jinn Get this thing started.
-jar_jar_binks jar Dissen berry good. Hey?
-obiwan_kenobi What is it?
-jar_jar_binks jar What!!?? Oie boie! Iyiiyi, wesa die'n here, hey!
-quigon_jinn Come on... Come on, Jar Jar.
-jar_jar_binks jar No! Too scary!
-obiwan_kenobi Get up here!
-jar_jar_binks jar No a mighty no! Oie boie...mesa comen. Mesa comen!
-obiwan_kenobi That was close.
-battle#unknown#StarWars.Episode01 droid 3b3 Drop your weapons! I said drop your weapons.
-jar_jar_binks jar Whoa!!!
-sio_bibble ...how will you explain this invasion to the Senate?
-nute_gunray The Naboo and the Federation will forge a treaty that will legitimize our occupation here. I've been assured it will be ratified by the Senate.
-queen_amidala I will not co-operate.
-nute_gunray Now, now, your Highness. You are not going to like what we have in store for your people. In time, their suffering will persuade you to see our point of view. Commander. Process them.
-oom9 Yes, sir! Take them to Camp Four.
-jar_jar_binks jar Yousa guys bombad!
-quigon_jinn Your Highness, we are the Ambassadors, for the Supreme Chancellor.
-sio_bibble Your negotiations seem to have failed, Ambassador.
-quigon_jinn The negotiations never took place. Your Highness, we must make contact with the republic.
-captain_panaka They've knocked out all our communications.
-quigon_jinn Do you have transports?
-captain_panaka In the main hanger. This way.
-captain_panaka There are too many of them.
-quigon_jinn That won't be a problem. Your Highness, under the circumstances, I suggest you come to Coruscant with us.
-queen_amidala Thank you, Ambassador, but my place is here with my people.
-quigon_jinn They will kill you if you stay.
-sio_bibble They wouldn't dare.
-captain_panaka They need her to sign a treaty to make this invasion of theirs legal. They can't afford to kill her.
-quigon_jinn The situation here is not what it seems. There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you.
-sio_bibble Please, Your Highness, reconsider. Our only hope is for the Senate to side with us... Senator Palpatine will need your help.
-captain_panaka Getting past their blockade is impossible, Your Highness. Any attempt to escape will be dangerous.
-sio_bibble Your Highness, I will stay here and do what I can...They will have to retain the Council of Governors in order to maintain control. But you must leave...
-queen_amidala Either choice presents a great risk...to all of us...
-padme We are brave, Your Highness.
-quigon_jinn If you are to leave, Your Highness, it must be now.
-queen_amidala Then, I will plead our case before the Senate. Be careful, Governor.
-captain_panaka We need to free those pilots.
-obiwan_kenobi I'll take care of that.
-guard#unknown#StarWars.Episode01 droid Where are you going?
-quigon_jinn I'm Ambassador for the Supreme Chancellor, and I'm taking those people to Coruscant.
-guard#unknown#StarWars.Episode01 droid You're under arrest!
-ric_olie olie ....our communications are still jammed.
-obiwan_kenobi Now stay here, and keep out of trouble.
-jar_jar_binks jar Ello, boyos. Disa wanna longo trip...hey? Tis opens?...Oooops! Yoi! Just yoken!
-ric_olie olie Powers back! That little droid did it. He bypassed the main power drive. Deflector shield up, at maximum.
-ric_olie olie There's not enough power to get us to Coruscant...the hyperdrive is leaking.
-quigon_jinn We'll have to land somewhere to refuel and repair the ship.
-obiwan_kenobi Here, Master. Tatooine... It's small, out of the way, poor... The Trade Federation has no presence there.
-captain_panaka How can you be sure?
-quigon_jinn It's controlled by the Hutts...
-captain_panaka The Hutts??
-obiwan_kenobi It's risky...but there's no alternative.
-captain_panaka You can't take Her Royal Highness there! The Hutts are gangsters... If they discovered her...
-quigon_jinn ...It would be no different than if we landed on a system controlled by the Federation...except the Hutts aren't looking for her, which gives us an advantage.
-nute_gunray We control all the cities in the North and are searching for any other settlements...
-darth_sidious Destroy all high-ranking officials, Viceroy...slowly...quietly. And Queen Amidala, has she signed the treaty?
-nute_gunray She has disappeared, My Lord. One Naboo cruiser got pat the blockade.
-darth_sidious Viceroy, find her! I want that treaty signed.
-nute_gunray My Lord, it's impossible to locate the ship. It's out of our range.
-darth_sidious ...not for a Sith... ...Viceroy, this is my apprentice. Lord Maul. He will find your lost ship.
-nute_gunray Yes, My Lord. This is getting out of hand...now there are two of them.
-rune_haako We should not have made this bargain. What will happen when the Jedi become aware of these Sith Lords?
-captain_panaka ...An extremely well put together little droid. Without a doubt, it saved the ship, as well as our lives.
-queen_amidala It is to be commended...what is its number?
-captain_panaka R2-D2, Your Highness.
-queen_amidala Thank you, Artoo Detoo. You have proven to be very loyal...Padme! Clean this droid up the best you can. It deserves our gratitude... Continue, Captain.
-quigon_jinn Yor Highness, we are heading for a remote planet called Tatooine. It is a system far beyond the reach of the Trade Federation. There we will be able to make needed repairs, then travel on to Coruscant.
-captain#unknown#StarWars.Episode01 PANAKA Your Highness, Tatooine is very dangerous. It's controlled by an alliance of gangs called the Hutts. I do not agree with the Jedi on this.
-quigon_jinn You must trust my judgement, Your Highness. amidala and PADME exchange looks. PADME moves next to the DROID.
-jar_jar_binks jar Hidoe! Sorry, nomeanen to scare yousa.
-padme That's all right.
-jar_jar_binks jar I scovered oily back dare. Needen it?
-padme Thank you. This little guy is quite a mess.
-jar_jar_binks jar Mesa Ja Ja Binksss...
-padme I'm Padme, I attend Her Highness, You're a Gungan, aren't you? How did you end up here with us?
-jar_jar_binks jar Me no know...mesa day starten pitty okeyday witda brisky morning munchen. Den boom....getten berry skeered, un grabbed dat Jedi, and before mesa knowen it...pow! Mesa here. ...getten berry berry skeered.
-obiwan_kenobi That's it. Tatooine.
-ric_olie olie There's a settlement...a spaceport, looks like.
-quigon_jinn Land near the outskirts. We don't want to attract any attention.
-jar_jar_binks jar Obi-Wan, sire, pleeese, no mesa go!
-obiwan_kenobi Sorry, Qui-Gon's right. You'll make things less obvious. The Hyperdrive generator is gone. We will need a new one.
-quigon_jinn Don't let them send ant transmissions. Be wary...I sense a disturbance in the Force.
-obiwan_kenobi I fell it also, Master. qui-gon goes into the hallway to meet up with ARTOO and jar jar. They head to the exit ramp.
-jar_jar_binks jar Dis sun doen murder tada skin.
-captain_panaka Wait! Her Highness commands you to take her handmaiden with you. She wishes for her to observe the local...
-quigon_jinn No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant...
-captain_panaka The Queen wishes it. She is curious about this planet.
-padme I've been trained in defense... I can take care of myself.
-captain_panaka Don't make me go back and tell her you refuse.
-quigon_jinn I don't have time to argue. But this is not a good idea. Stay close to me.
-quigon_jinn ...moisture farms for the most part, but also a few indigenous tribes and scavengers. The few spaceports like this one are havens for those who do not wish to be found...
-padme ....like us.
-jar_jar_binks jar Dissen berry berry bad. Ooooh...icky...icky...goo.
-quigon_jinn We'll try one of the smaller dealers.
-watto Hi chuba da naga?
-quigon_jinn I need parts for a J-type 327 Nubian.
-watto Ah yes, ah yes. Nubian. We have lots of that. What kinda junk? Peedenkel! Naba dee unko
-quigon_jinn My droid here has a readout of what I need.
-watto Coona tee-tocky malia?
-anakin_skywalker Mel tassa cho-passa...
-watto Chut-Chut! Ganda doe wallya. Me dwana no bata. Soooo, let me take- a thee out back. Ni you'll find what you need.
-quigon_jinn Don't touch anything.
-anakin_skywalker Are you an angel?
-padme What?
-anakin_skywalker An angel. I've heard the deep space pilots talk about them. They live on the Moons of Iego I thimk. They are the most beautiful creatures in the universe. They are good and kind, and so pretty they make even the most hardened spice pirate cry.
-padme I've never heard of angels.
-anakin_skywalker You must be one...maybe you just don't know it.
-padme You're a funny little boy. How do you know so much?
-anakin_skywalker Since I was very little, three, I think. My Mom and I were sold to Gardulla the Hutt, but she lost us, betting on the Podraces, to Watto, who's a lot better master than Gardulla, I think.
-padme You're...a slave?
-anakin_skywalker I am a person! My name is Anakin.
-padme I'm sorry. I don't fully understand. This is a strange world to me.
-anakin_skywalker You are a strange girl to me. Hit the nose! jar jar hits the nose, and the DROID collapses back into its original state. ANAKIN and PADME laugh. ANAKIN watches PADME straighten her hair.
-watto ...Here it is...a T-14 hyperdrive generator!! Thee in luck, I'm the only one hereabouts who has one...but thee might as well buy a new ship. It would be cheaper, I think...Sying of which, how's thee going to pay for all this?
-quigon_jinn I have 20,000 Republic dataries.
-watto Republic credits?!? Republic credits are no good out here. I need something more real...
-quigon_jinn I don't have anything else. But credits will do fine.
-watto No they won'ta.
-quigon_jinn Credits will do fine.
-watto No, they won'ta. What you think you're some kinda Jedi, waving your hand around like that? I'm a Toydarian. Mind tricks don'ta work on me-only money. No money, no parts! No deal! And no one else has a T-14 hyperdrive, I promise you that.
-anakin_skywalker ...wouldn't have lasted long if I weren't so good at fixing things. I'm making my own droid...
-quigon_jinn We're leaving.
-padme I'm glad I met you,....ah...
-anakin_skywalker ...Anakin.
-padme Anakin.
-anakin_skywalker Anakin Skywalker.
-padme Padme Naberrie.
-anakin_skywalker I'm glad I met you too.
-watto Ootmians! Tinka me chasa hopoe ma booty na nolia.
-anakin_skywalker La lova num botaffa.
-watto Fweepa niaga. Tolpa da bunky dunko.
-quigon_jinn ...Obi-Wan, you're sure there isn't anything of value left on board?
-obiwan_kenobi A few containers of supplies, the Queen's wardrobe, maybe. Not enough for you to barter with. Not in the ammounts you're talking about.
-quigon_jinn All right. Another solution will present itself. I'll check back.
-jar_jar_binks jar Noah gain...da beings hereabouts cawazy. Wesa be robbed un crunched.
-quigon_jinn Not likely. We have nothing of value, that's our problem.
-vendor#unknown#StarWars.Episode01 Hey, that will be seven truguts!!
-sebulba Chuba!!
-jar_jar_binks jar Who, mesa??
-sebulba Ni chuba na??
-jar_jar_binks jar Why mesa always da one??
-anakin_skywalker Because you're afraid. Chess ko, Sebulba...Coo wolpa tooney rana.
-sebulba Tooney rana nu pratta dunko, shag.
-anakin_skywalker Oh da Hutt...cha porko ootman geesa...me teesa rodda co pana pee choppa chawa.
-sebulba Neek me chowa, wermo, mo killee ma klounkee Una noto wo shag, me wompity du pom pom.
-anakin_skywalker Eh, chee bana do mullee ra. Hi! Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba.
-jar_jar_binks jar Nosir, nosir. Mesa hate crunchen. Dat's da last ting mesa wanten.
-quigon_jinn Nevertheless, the boy is right...you were heading for trouble. Thank you, my young friend.
-jar_jar_binks jar Mesa doen nutten!
-anakin_skywalker Fear attracts the fearful. He was trying to overcome his fear by squashing you...be less afraid.
-padme And that works for you.
-anakin_skywalker To a point.
-obiwan_kenobi This storm's going to slow them down.
-captain_panaka It looks pretty bad. We'd better seal the ship. Yes? We'll be right there.
-anakin_skywalker How are you feeling today, Jira?
-jira The heat's never been kind to me, you know, Annie!
-anakin_skywalker Guess what? I've found that cooling unit I've been searching for. It's pretty beat up, but I'll have it fixed up for you in no time, I promise.
-jira You're a fine boy, Annie.
-anakin_skywalker I'll take four pallies today. You'll like these... Whoops, I thought I had more...Make thgat three, I'm not hungry.
-jira Gracious, my bones are aching...storm's coming on, Annie. You'd better get home quick.
-anakin_skywalker Do you have shelter?
-quigon_jinn We'll hed back to our ship.
-anakin_skywalker Is it far?
-padme On the outskirts.
-anakin_skywalker You'll never reach the outskirts in time...sandstorms are very, very dangerous. Come with me. Hurry! The GROUP follows ANAKIN as he rushes down the windy street.
-anakin_skywalker Mom! Mom! I'm home.
-jar_jar_binks jar Dissen cozy.
-shmi_skywalker Oh, my!! Annie, what's this?
-anakin_skywalker These are my friends, Mom. This is Padme, and...gee, I don't know any of your names.
-quigon_jinn I'm Qui-Gon Jinn, and this is Jar Jar Binks.
-padme ...and our droid, Artoo-Detoo.
-anakin_skywalker I'm building a droid. You wanna see?
-shmi_skywalker Anakin! Why are they here?
-anakin_skywalker A sandstorm, Mom. Listen.
-quigon_jinn Your son was kind enough to offer us shelter.
-anakin_skywalker Come on! Let me show you Threepio!
-quigon_jinn I have enough food for a meal.
-shmi_skywalker Oh, tank you. Thank you so much. I'm sorry if I was abrupt. I'll never get used to Anakin's surprises.
-quigon_jinn He's a very special boy.
-shmi_skywalker Yes, I know.
-anakin_skywalker Isn't he great?! He's not finished yet.
-padme He's wonderful!
-anakin_skywalker You reall like him? He's a protocol droid...to help Mom. Watch!
-c3po How do you do, I am See-Threepio, Human Cyborg Relations. How might I serve you?
-padme He's perfect.
-anakin_skywalker When the storm is over, you can see my racer. I'm building a Podracer!
-c3po I beg your pardon....what do you mean I'm naked? My parts are showing? Oh, my goodness. How embarrassing!
-sio_bibble ...cut off all food supplies until you return...the death toll is catastrophic...we must bow to their wishes, Your Highness...Please tell us what to do! If you can hear us, Your Highness, you must contact me...
-obiwan_kenobi It's a trick. Send no reply... Send no transmission of any kind.
-obiwan_kenobi ...the Queen is upset...but absolutly no reply was sent.
-quigon_jinn It sounds like bait to establish a connection trace.
-obiwan_kenobi What if it is true and the people are dying?
-quigon_jinn Either way, we're running out of time.
-darth_maul_ Tatooine is sparsely populated. If the trace was correct, I will find them quickly, Master.
-darth_sidious Move against the Jedi first...you will then have no difficulty taking the Queen back to Naboo, where she will sign the treaty.
-darth_maul_ At last we will reveal ourselves to the Jedi. At last we will have revenge.
-darth_sidious You have been well trained, my young apprentice, they will be no match for you. It is too late for them to stop us now. Everything is going as planned. The Republic will soon be in my command. The hologram of DARTH MAUL fades off as darth sidious looks out over the city.
-shmi_skywalker All slaves have transmitters placed inside their bodies somewhere.
-anakin_skywalker I've been working on a scanner to try and locate them, but no luck.
-shmi_skywalker Any attempt to escape...
-anakin_skywalker ...and they blow you up...poof!
-jar_jar_binks jar How wude.
-padme I can't believe there is still slavery in the galaxy. The Republic's anti-slavery laws...
-shmi_skywalker The Republic doesn't exist out here...we must survive on our own.
-anakin_skywalker Have you ever seen a Podrace?
-quigon_jinn They have Podracing on Malastare. Very fast, very dangerous.
-anakin_skywalker I'm the only human who can do it. Mom, what? I'm not bragging. It's true. Watto says he's never heard of a human doing it.
-quigon_jinn You must have Jedi reflexes if you race Pods. Don't do that again.
-anakin_skywalker I...I was wondering...something...
-quigon_jinn What?
-anakin_skywalker Well, ahhh...you're a Jedi Knight, aren't you?
-quigon_jinn What makes you think that?
-anakin_skywalker I saw your laser sword. Only Jedi carry that kind of weapon.
-quigon_jinn Perhaps I killed a Jedi and stole it from him.
-anakin_skywalker I don't think so... No one can kill a Jedi Knight.
-quigon_jinn I wish that were so...
-anakin_skywalker I had a dream I was a Jedi. I came back here and freed all the slaves...have you come to free us?
-quigon_jinn No, I'm afraid not...
-anakin_skywalker I think you have...why else would you be here?
-quigon_jinn I can see there's no fooling you... You mustn't let anyone know about us...we're on our way to Coruscant, the central system in the Republic, on a very important mission, and it must be kept secret.
-anakin_skywalker Coruscant...wow...how did you end up here in the outer rim?
-padme Our ship was damaged, and we're stranded here until we can repair it.
-anakin_skywalker I can help! I can fix anything!
-quigon_jinn I believe you can, but our first job is to aquire the parts we need...
-jar_jar_binks jar Wit no-nutten mula to trade.
-padme These junk dealers must have a weakness of some kind.
-shmi_skywalker Gambling. Everything here revolves around betting on those awful races.
-quigon_jinn Podracing... Greed can be a powerful ally.. if it's used properly.
-anakin_skywalker I've built a racer! It's the fastest ever...There's a big race tomorrow, on Boonta Eve. You could enter my pod. It's all but finished...
-shmi_skywalker Anakin, settle down. Watto won't let you...
-anakin_skywalker Watto doesn't know I've built it. You could make him think it's your's, and you could get him to let me pilot it for you.
-shmi_skywalker I don't want you to race, Annie...It's awful. I die every time Watto makes you do it.
-anakin_skywalker But Mom, I love it...and they need help...they're in trouble. The prize money would more than pay for the parts they need.
-jar_jar_binks jar Wesa ina pitty bad goo.
-quigon_jinn Your mother's right. Is there anyone friendly to the Republic who might be able to help us?
-anakin_skywalker We have to help them, Mom...you said that the biggest problem in the universe is no one helps each other...
-shmi_skywalker Anakin, don't...
-padme I'm sure Qui-Gon doesn't want to put your son in danger. We will find another way...
-shmi_skywalker No, Annie's right, there is no other way... I may not like it, but he can help you...he was meant to help you.
-anakin_skywalker Is that a yes? That is a yes!
-padme Are you sure about this? Trusting our fate to a boy we hardly know. The Queen will not approve.
-quigon_jinn The Queen does not need to know.
-padme Well, I don't approve. qui-gon turns and starts into the shop.
-watto Patta go bolla!
-anakin_skywalker No batta!
-watto Pedunky. Maa kee cheelya.
-anakin_skywalker Bayno, Bayno!
-watto The boy tells me you wanta sponser hi insa race. You can't afford parts. How can you do this? Not on Republic credits, I think.
-quigon_jinn My ship will be the entry fee.
-watto Not bad...not bad...a Nubian.
-quigon_jinn It's in good order, except for the parts we need.
-watto ...but what would the boy ride? He smashed up my Pod in the last race. It will take some time to fix it.
-anakin_skywalker Ahhhh....it wasn't my fault really...Sebulba flashed me with his vent ports. I actually saved the Pod...mostly.
-watto That you did. The boy is good, no doubts there.
-quigon_jinn I have...acquired a Pod in a game of chance. "The fastest ever built."
-watto I hope you didn't kill anyone I know for it. So, you supply the Pod and the entry fee; I supply the boy. We split the winnings fifty-fifty, I think.
-quigon_jinn Fifty-fifty!?! If it's going to be fifty-fifty, I suggest you front the cash for the entry. If we win, you keep all the winnings, minus the cost of the parts I need...If we lose, you keep my ship. Either way, you win.
-watto Deal! Yo bana pee ho-tah, meedee ya.
-obiwan_kenobi What if this plan fails, Master? We could be stuck here for a long time.
-quigon_jinn A ship without a power supply will not get us anywhere, and there i
-quigon_jinn You should be proud of your son. He gives without any thought of reward.
-shmi_skywalker He knows nothing of greed. He has...
-quigon_jinn He has special powers.
-shmi_skywalker Yes...
-quigon_jinn He can see things before they happen. That's why he appears to have such quick reflexes. It is a Jedi trait.
-shmi_skywalker He deserves better than a slave's life.
-quigon_jinn The Force is unusally strong with him, that much is clear. Who was his father?
-shmi_skywalker There was no father, that I know of...I carried him, I gave him birth...I can't explain what happened. Can you help him?
-quigon_jinn I'm afraid not. Had he been born in the Republic, we would have identified him early, and he would have become Jedi, no doubt...he has the way. But it's too late for him now, he's too old.
-anakin_skywalker Padme and Jar Jar, this is my friend Kitster, and seek, Amee, and Wald.
-kitster Wow, a real Astro Droid...how'd you get so lucky?
-anakin_skywalker This isn't the half of it. I'm entered in the Boonta Race tomorrow!
-kitster What? With this??
-wald Annie, Jesko na joka. 9You are such a joke, Annie.)
-amee You've been working on that thing for years. It's never going to run.
-seek Come on, let's go play ball. Keep it up, Annie, and you're gonna be bug squash.
-anakin_skywalker Hey! Jar Jar! Stay away from those energy binders...
-jar_jar_binks jar Who, mesa?
-anakin_skywalker If your hand gets caught in that beam, it will go numb for hours.
-jar_jar_binks jar Ouch-dats muy bigo Oucho.
-kitster But you don't even know if this thing will run.
-anakin_skywalker It will.
-quigon_jinn I think it's time we found out. Use this power charge.
-anakin_skywalker Yes, sir!!
-quigon_jinn Sit still, Annie. Let me clean this cut.
-anakin_skywalker There are so many! Do they all have a system of planets?
-quigon_jinn Most of them.
-anakin_skywalker Has anyone been to them all?
-quigon_jinn Not likely.
-anakin_skywalker I want to be the first one to see them all... Ouch!
-quigon_jinn There, good as new...
-shmi_skywalker Annie, bedtime!
-anakin_skywalker What are you doing?
-quigon_jinn Checking your blood for infections.
-anakin_skywalker I've never seen...
-shmi_skywalker Annie! I'm not goiung to tell you again!
-quigon_jinn Go on, you have a big day tomorrow. Goodnight. Obi-Wan...
-obiwan_kenobi Yes, Master.
-quigon_jinn Make an analysis of this blood sample I'm sending you.
-obiwan_kenobi Wait a minute...
-quigon_jinn I need a midi-chlorian count.
-obiwan_kenobi All right. I've got it.
-quigon_jinn What are your readings?
-obiwan_kenobi Something must be wrong with the transmission.
-quigon_jinn Here's a signal check.
-obiwan_kenobi Strange. The transmission seems to be in good order, but the reading's off the chart...over twenty thousand.
-quigon_jinn That's it then.
-obiwan_kenobi Even Master Yoda doesn't have a midi-chlorian count that high!
-quigon_jinn No Jedi has.
-obiwan_kenobi What does it mean?
-quigon_jinn I'm not sure.
-padme I hope you're about finished.
-anakin_skywalker You were in my dream...you were leading a huge army into battle.
-padme I hope not; I hate fighting. Your mother wants you to come in and clean up. We have to leave soon.
-anakin_skywalker Hook 'em up, Kitster. I won't be long. Where's Qui-Gon?
-padme He and Jar Jar left already. They're with Watto at the arena.
-watto ...I want to see your spaceship the moment the race is over.
-quigon_jinn Patience, my blue friend. You'll have your winnings before the suns set, and we'll be far away from here.
-watto Not if your ship belongs to me, I think...I warn you, no funny business.
-quigon_jinn You don't think Anakin will win?
-watto Don't get me wrongo. I have great faith in the boy. He's a credit to your race, but Sebulba there is going to win, I think.
-quigon_jinn Why?
-watto He always wins. I'm betting heavily on Sebulba.
-quigon_jinn I'll take that bet.
-watto What??!! What do you mean?
-quigon_jinn I'll wager my new racing pod against...say...the boy and his mother.
-watto A Pod for slaves. I don't think so...well, perhaps. Just one...the mother, maybe...the boy isn't for sale.
-quigon_jinn The boy is small, he can't be worth much. For the fastest Pod ever built?! Both, or no bet.
-watto No Pod's worth two slaves...not by a long shot...one slave or nothing.
-quigon_jinn The boy, then...
-watto We'll let fate decide. Blue it's the boy, red his mother... You won the small toss, outlander, but you won't win the race, so...it makes little difference. Bonapa keesa pateeso, o wanna meetee chobodd.
-anakin_skywalker What did he mean by that?
-quigon_jinn I'll tell you later.
-c3po Oh my! Space travel sounds rather perilous. I can assure you they will never get me onto one of those dreadful starships!
-kitster This is so wizard! I'm sure you'll do it this time, Annie.
-padme Do what?
-kitster Finish the race, of course!
-padme You've never won a race?
-anakin_skywalker Well...not exactly...
-padme Not even finished?!
-anakin_skywalker ...but Kitster's right, I will this time.
-quigon_jinn Of course you will.
-fode Toogi! Toogie! Toong mee cha kulkah du Boonta magi! tah oos azalus ooval Poddraces.
-beed That's absolutly right. And a big turnout here, from all corners of the Outer Rim territories. I see the contestants are making their way out onto the starting grid.
-fode La Yma beestoo
-beed I see Ben Quadinaros from the Tund system.
-fode ...eh Gasgano doowa newpa Ord Petrovia!
-beed Two time winner, Boles Roor...
-fode Poo tula moosta, woe grane champio Sebulba du Pixelito! Splastyleeya bookie ookie!!
-beed And a late entry, Anakin Skywalker, a local boy.
-fode Wampa peedunkee unko
-beed I see the flaggers are moving onto the track.
-fode O grandio lust, Jabba Du Hutt, amu intoe tah parena.
-jabba Chowbaso! Tam ka chee Boonta rulee ya, kee madda hodrudda du wundee. Sebulba tuta Pixelito...
-shmi_skywalker Be safe.
-anakin_skywalker I will, Mom. I promise.
-jabba ...Mawhonic tuta Hok, Teemto Pagalies tuta Moonus Mandel, Anakin SKywalker tuta Tatoonine....
-jar_jar_binks jar Dis berry loony, Annie. May da guds be kind, mesa palo.
-padme You carry all our hopes.
-anakin_skywalker I won't let you down.
-sebulba Bazda wahota, shag. Dobiella Nok. Yoka to Bantha poodoo. 9You won't walk away from this one, slave scum! You're Bantha poodoo.)
-anakin_skywalker Cha skrundee da pat, sleemo.
-jabba ...Ka bazza kundee hodrudda!
-quigon_jinn Are you all set, Annie? Remember, concentrate on the moment. Feel. Don't think. Trust your instincts. May the Force be with you.
-jar_jar_binks jar Mesa no watch. Dissen ganna be messy!
-fode Ya pawa culka doe rundee!
-beed Hey, it looks like they're clearing the grid.
-shmi_skywalker Is he nervous?
-quigon_jinn He's fine.
-padme You Jedi are far too reckless. The Queen...
-quigon_jinn The Queen trusts my judgment, young handmaiden. You should too.
-padme You assume too much.
-beed Start your engines.
-fode An dare ovv!
-beed Oh...wait. Little Skywalker has stalled.
-beed And there goes Skywalker... He'll be hard pressed to catch up with the leaders today.
-beed Looks like a few Tusken Riaders have campe out on the canyon dune turn.
-jar_jar_binks jar Where's Skywalker?
-beed ; There goes Quadinaros' power couplings.
-fode Sebulba! Ka pa me cheespa wata!
-jar_jar_binks jar What gooie-on?
-fanta#unknown#StarWars.Episode01 Bug off.
-jar_jar_binks jar He musta crash-ud.
-padme Here he comes!
-c3po He has to complete two more circuits? Oh dear!
-beed It looks like Skywalker is moving up through the field. He's in...
-fode Steeth pa nagoola! Ody Mandrell! Coona wa wunda dunko!
-ody#unknown#StarWars.Episode01 Droids!
-beed At the start of the third and final lap, Sebulba is in the lead, closely followed by Skywalker... Skywalker is forced onto the service ramp!
-fode Oh noah!
-beedeed b Amazing... a controlled thrust and he's back on course! What a move!
-beed He's catching Sebulba.
-fode Inkabunga.
-beed That little human being is out of his mind.
-fode Punda tah punda!
-beed They're side by side!
-fode Bongo du bongu!
-beed It's Skywalker! The crowd are going nuts! Oh Ah Oh Ah
-watto You! You swindled me! You knew the boy was going to win! Somehow you knew it! I lost everything.
-quigon_jinn Whenever you gamble, my friend, eventually you'll lose. Bring the parts to the main hanger. I'll come by your shop later so you can release the boy.
-watto You can't have him! It wasn't a fair bet!
-quigon_jinn Would you like to discuss it with the Hutts...I'm sure they can settle this.
-watto No, no! I want no more of your tricks! Take him!
-anakin_skywalker Ah, gee...enough of this...
-shmi_skywalker It's so wonderful, Annie. You have brought hope to those who have none. I'm so very proud of you...
-padme We owe you everything.
-anakin_skywalker Just feeling this good was worth it.
-quigon_jinn Padme. Jar Jar, let's go, we've got to get these parts back to the ship. I'll return the eopies by midday.
-quigon_jinn Start getting this hyperdrive generator installed. I'm going back...some unfinished business. I won't be long.
-obiwan_kenobi Why do I sense we've picked up another pathetic life form...?
-quigon_jinn It's the boy who's responsible for getting those parts.
-quigon_jinn What's this?
-anakin_skywalker He said I cheated.
-quigon_jinn Did you?
-anakin_skywalker No!
-quigon_jinn Do you still think he cheated?
-greedo Yes.
-quigon_jinn Well, Annie. You know the truth... You will have to tolerate his opinion, fighting won't change it.
-wald Keep this up, Greedo, and you're gonna come to a bad end.
-quigon_jinn These are yours. We sold the Pod.
-anakin_skywalker Yes!
-anakin_skywalker Mom, he sold the Pod. Look at all the money we have!
-shmi_skywalker Oh, my goodness, That's wonderful.
-quigon_jinn And Anakin has been freed.
-anakin_skywalker What?!?
-quigon_jinn You're no longer a slave.
-anakin_skywalker Did you hear that, Mom? Was that part of the prize, or what?
-quigon_jinn Let's just say Watto has learned an important lesson about gambling.
-shmi_skywalker Now you can make your dreams come true, Annie. You're free! Will you take him with you? Is he to become a Jedi?
-quigon_jinn Our meeting was not a coincidence. Nothing happens by accident. You are strong with the Force, but you may not be accepted by the Coucil.
-anakin_skywalker A Jedi! Mighty blasters, you mean I get to go with you in your starship and everything?!
-quigon_jinn Anakin, training to be a Jedi will not be a easy challenge. And if you succeed, it will be a hard life.
-anakin_skywalker But it's what I want. What I've always dreamed about. Can I go, Mom?!
-quigon_jinn This path has been placed for you, Annie; the choice to take it is yours alone.
-anakin_skywalker I want to go.
-quigon_jinn Then, pack your things. We haven't much time.
-anakin_skywalker Yippee!! What about Mom? Is she free too? You're coming, aren't you, Mom?
-quigon_jinn I tried to free your mother, Annie, but Watto wouldn't have it.
-anakin_skywalker But the money from selling...
-quigon_jinn It's not nearly enough.
-shmi_skywalker Son, my place is here. My future is here. It is time for you to let go...to let go of me. I cannot go with you.
-anakin_skywalker I want to stay with you. I don't want things to change.
-shmi_skywalker You can't stop change any more than you can stop the suns from setting. Listen to your feelings; Annie, you know what's right.
-anakin_skywalker I'm going to miss you so much, Mom...
-shmi_skywalker I love you, Annie...now hurry. Thank you.
-quigon_jinn I will watch after him. You have my word. Will you be all right?
-shmi_skywalker He was in my life for such a short time.
-anakin_skywalker Well, Threepio, I'm free...and I'm going away...in a starship...
-c3po Master, Annie, you are my maker, and I wish you well. Although I'd like it better if I were a little less naked.
-anakin_skywalker I'm sorry I wasn't able to finish you, Threepio...give you coverings and all... I'm going to miss working on you. You've been a great pal. I'll make sure Mom doesn't sell you or anything. Bye.
-c3po Sell me?!?
-kitster There are so many of us who want you to stay, Annie... You're a hero.
-anakin_skywalker I... I... have to go.
-kitster Well.
-anakin_skywalker Well.
-kitster Thank's for every moment you've been here. You're my best friend.
-anakin_skywalker I won't forget. I can't do it, Mom. I just can't.
-shmi_skywalker Annie, remember when you climbed the great dune in order to chase the Banthas away so they wouldn't be shot... Remember how you collapses several times, exhausted thinking you couldn't do it? This is one of those times when you have to do something you don't think you can do. I know how strong you are, Annie. I know you can do this...
-anakin_skywalker Will I ever see you again?
-shmi_skywalker What does your heart tell you?
-anakin_skywalker I hope so...yes...I guess.
-shmi_skywalker Then we will see each other again.
-anakin_skywalker I.. will become a Jedi and I will come back and free you, Mom...I promise.
-shmi_skywalker No matter where you are, my love will be with you. Now be brave, and don't look back... don't look back.
-anakin_skywalker I love you so much.
-anakin_skywalker I've been freed, and I'm going away. Buy yourself a cooling unit with this... Otherwise I'll worry about you.
-jira Can I give you a hug?
-anakin_skywalker Sure.
-jira I'll miss you, Annie.. there isn't a kinder boy in the galaxy. You be careful...
-anakin_skywalker What is it?
-quigon_jinn Probe droid. Very unusual... not like anything I've seen before. Come on.
-anakin_skywalker Master Qui-Gon,sir, wait!
-quigon_jinn Anakin, drop! Annie, get to the ship! Take off! Go! Go!
-anakin_skywalker Qui-Gon's in trouble. He says to take off...now!!
-captain_panaka Who are you?
-padme He's a friend.
-captain_panaka Qui-Gon is in trouble, he says to take off!
-ric_olie olie I don't see anything.
-obiwan_kenobi Over there! Fly low!
-anakin_skywalker Are you all right?
-quigon_jinn I think so... that was a surpirse I wont soon forget.
-obiwan_kenobi What was it?
-quigon_jinn I don't know... but he was well trained in the Jedi arts. My guess is he was after the Queen...
-anakin_skywalker Do you think he'll follow us?
-quigon_jinn We'll be safe enough once we're in hyperspace, but I have no doubt he knows our destination.
-anakin_skywalker What are we going to do about it?
-quigon_jinn We will be patient. Anakin Skywalker, meet Obi-Wan Kenobi.
-anakin_skywalker Pleased to meet you. Wow! You're a Jedi too?
-quigon_jinn Let's hope this hyperdrive works and Watto didn't get the last laugh.
-nute_gunray When are you going to give up this pointless strike? Your Queen is lost, your people are starving, and you, Governor, are going to die, much sooner than your people, I'm afraid. Take him away!
-sio_bibble This invasion will gain you nothing. We're a democracy. The people have decided... They will not live under your tyranny.
-oom9 My troops are in position to begin searching the swamps for these rumored underwater villages... they will not stay hidden for long.
-padme Are you all right?
-anakin_skywalker It's very cold.
-padme You're from a warm planet, Annie. Too warm for my taste. Space is cold.
-anakin_skywalker You seem sad.
-padme The Queen is...worried. Her people are suffering...dying. She must convince the Senate to intervene, or...I'm not sure what will happen.
-anakin_skywalker I'm...I'm not sure what's going to happen to me. I dunno if I'll ever see you again.. I made this for you. Sou you'd remember me. I carved it out of a japor snippet... It will bring you good fortune.
-padme It's beautiful, but I don't need this to remember you. Many things will change when we reach the capital, Annie. My caring for you will always remain.
-anakin_skywalker I care for you too. Only I...miss...
-padme ...You miss your mother.
-ric_olie olie Coruscant...the capital of the Republic...the entire planet is one big city.
-anakin_skywalker Wow! It's so huge!
-senator_palpatine It is a great gift to see you alive, Your Majesty. May I present Supreme Chancellor Valorum.
-chancellor_valorum Welcome, Your Highness. It is an honor to finally meet you in person. I must relay to you how distressed everyone is over the currant situation. I've called for a special session of the Senate to hear your position.
-queen_amidala I am grateful for your concern, Chancellor.
-senator_palpatine There is a question of precedure, but I feel confident we can overcome it...
-jar_jar_binks jar Da Queens- a bein grossly nice, mesa tinks. Pitty hot!
-quigon_jinn I must speak with the Jei Council immediately, Your Honor. The situation has become more complicated.
-jar_jar_binks jar Dissen all pitty odd to my.
-anakin_skywalker Don't look at me. I don't know what's going on.
-senator_palpatine ...the Republic is not what it once was. The Senate is full of greedy, squabbling delegates who are only looking out for themselves and their home sytems. There is no interest in the common good...no civility, only politics...its disgusting. I must be frank, Your Majesty, there is little chance the Senate will act on the invasion.
-queen_amidala Chancellor Valorum seems to think there is hope.
-senator_palpatine If I may say so, Your Majesty, the Chancellor has little real power...he is mired down by baseless accusations of corruption. A manufactured scandal surrounds him. The bureaucrats are in charge now.
-queen_amidala What options do we have?
-senator_palpatine Our best choice would be to push for the election of a stronger Supreme Chancellor. One who will take control of the bureaucrats, enforces the laws, and give us justice. You could call for a vote of no confidence in Chancellor Valorum.
-queen_amidala He has been our strongest supporter. Is there any other way?
-senator_palpatine Our only other choice would to be to submit a plea to the courts...
-queen_amidala There's no time for that. The courts take even longer to decide things than the Senate. Our people are dying, Senator...more and more each day. We must do something quickly to stop the Federation.
-senator_palpatine To be realistic, Your Highness, I'd say we're going to have to accept Federation control for the time being.
-queen_amidala There is something I cannot do.
-quigon_jinn ...my only conclusion can be that it was a Sith Lord.
-mace_windu windu A Sith Lord?!?
-ki-adi#unknown#StarWars.Episode01 Impossible! The Sith have been extinct for a millenium.
-yoda The very Republic is threatened, if involved the Sith are.
-mace_windu windu I do not believe they could have returned without us knowing.
-yoda Hard to see, the dark side is. Discover who this assassin is, we must.
-ki-adi#unknown#StarWars.Episode01 I sense he will reveal himself again.
-mace_windu windu This attack was with purpose, that is clear, and I agree the Queen is the target.
-yoda With this Naboo queen you must stay, Qui-Gon. Protect her.
-mace_windu windu We will use all our resources here to unravel this mystery and discover the identity of your attacker... May the Force be with you.
-yoda May the Force be with you. Master Qui-Gon more to say have you?
-quigon_jinn With your permission, my Master. I have encountered a vergence in the Force.
-yoda A vergence, you say?
-mace_windu windu Located around a person?
-quigon_jinn A boy... his cells have the highest concentration of midi-chlorians I have seen in a life form. It is possible he was conceived by the midi-chlorians.
-mace_windu windu You're referring to the prophesy of the one who will bring balance to the Force...you believe it's this boy??
-quigon_jinn I don't pressume...
-yoda But you do! Rrevealed your opinion is.
-quigon_jinn I request the boy be tested.
-yoda Trained as a Jedi, you request for him?
-quigon_jinn Finding him was the will of the Force...I have no doubt of that. There is too much happening here...
-mace_windu windu Bring him before us, then.
-yoda Tested he will be.
-guard#unknown#StarWars.Episode01 May I help you, son?
-anakin_skywalker I'm...I'm looking for the handmaiden, Padme.
-guard#unknown#StarWars.Episode01 The boy is here to see Padme.
-rabe Send him in.
-anakin_skywalker I'd like to speak with Padme, if I could.
-rabe I'm sorry, Annie. Padme is not here right now.
-queen_amidala Who is it?
-rabe Anakin Skywalker, to see Padme, Your Highness.
-queen_amidala I've sent Padme on an errand.
-anakin_skywalker I'm going to the Jedi temple to start my training, I hope. I may not see her again...and... I just wanted to say goodbye.
-queen_amidala We will tell her for you. We're sure her heart goes with you.
-anakin_skywalker Thank you, Your Highness. I'm sorry to have disturbed you.
-senator_palpatine If the Federation moves to defer the motion...Your Majesty, Ibeg of you to ask for a resolution to end this congressional session.
-queen_amidala I wish I had your confidence in this, Senator.
-senator_palpatine You must force a new election for Supreme Chancellor...I promise you there are many who will support us...it is our best chance... Your Majesty, our only, chance.
-queen_amidala You truely believe Chancellor Valorum will not bring our motion to a vote?
-senator_palpatine He is distracted...he is afraid. He will be of no help.
-chancellor_valorum The Chair recognizes the Senator from the sovereign system of Naboo.
-senator_palpatine Supreme Chancellor, delegates of the Senate. A tragedy has occured on our peaceful system of Naboo. We have become caugt in a dispute you're all well aware of, which began right here with the taxation of trade routes, and has now engulfed our entire planet in the oppresion of the Trade Federation.
-sen_lott_dodd_ dod This is outrageous! I object to the Senator's statements!
-chancellor_valorum The Chair does not recognize the Senator from the Trade Federation at this time. Please return to your station.
-senator_palpatine To state our allegations, I present Queen Amidala, the recently elected ruler of Naboo, to speak on our behalf.
-queen_amidala Honorable representatives of the Republic, distinguished delegates, and Your Honor Supreme Chancellor Valorum, I come to you under the gravest of circumstances. The Naboo system has been invaded by force. Invaded...against all the laws of the Republic by the Droid Armies of the Trade...
-sen_lott_dodd_ dod I object! There is no proof. This is incredible. We recommend a commision be sent to Naboo to assertain the truth.
-chancellor_valorum Overruled.
-sen_lott_dodd_ dod Your Honor, you cannot allow us to be condemned without reasonable observation. It's against all the rules of procedure.
-aks_moe_ moe The Congress of Malastare concurs with the honorable delegate from the Trade Federation. A commision must be appointed...that is the law.
-chancellor_valorum The point...
-senator_palpatine Enter the bureaucrats, the true rulers of the Republic, and on the payroll of the Trade Federation, I might add. This is where Chancellor Valorum's strength will dissapear.
-chancellor_valorum The point is conceded...Section 523A take precedence here. Queen Amidala of the Naboo, will you defer your motion to allow a commission to explore the validity of your accusations?
-queen_amidala I will not defer...I have come before you to resolve this attack on our sovereignty now. I was not elected to watch my people suffer and die while you discuss this invasion in a committee. If this body is not capable of action, I suggest new leadership is needed. I move for a "vote of no confidence"...in Chancellor Valorum's leadership.
-chancellor_valorum What?...No!
-mas_amedda amedda Order! We shall have order...
-senator_bail_organa organa Alderaan seconds the motion for a vote of no confidence in Chancellor Valorum.
-mas_amedda amedda The motion has been seconded by Bail Organa of Alderaan.
-senator_bail_organa organa There must be no delays. The motion is on the floor and must be voted upon in this session.
-sen_lott_dodd_ dod The Trade Federation moves the motion be sent to the procedures committee for study.
-assembly#unknown#StarWars.Episode01 Vote now! Vote now! Vote now!
-senator_palpatine You see, Your Majesty, the tide is with us...Valorum will be voted out, I assure you, and they will elect in a new Chancellor, a strong Chancellor, one who will not let our tragedy continue...
-mas_amedda amedda The Supreme Chancellor requests a recess. Tomorrow we will begin the vote.
-chancellor_valorum Palpatine, I thought you were my ally...my friend. You have betrayed me! How could you do this?
-obiwan_kenobi The boy will not pass the Council's tests, Master, and you know it. He is far too old.
-quigon_jinn Anakin will become A Jedi...I promise you.
-obiwan_kenobi Don't defy the Council, Master..not again.
-quigon_jinn I will do what I must.
-obiwan_kenobi Master, you could be sitting on the Council by now if you would just follow the code. They will not go along with you this time.
-quigon_jinn You still have much to learn, my young apprentice.
-anakin_skywalker A ship...a cup...a speeder.
-yoda Good, good, young one. How feel you?
-anakin_skywalker Cold, sir.
-yoda Afraid are you?
-anakin_skywalker No, sir.
-mace_windu windu Afraid to give up your life?
-anakin_skywalker I don't think so.
-yoda See through you, we can.
-mace_windu windu Be mindful of your feelings...
-ki-adi#unknown#StarWars.Episode01 YOur thoughts dwell on your mother.
-anakin_skywalker I miss her.
-yoda Afraid to lose her..I think.
-anakin_skywalker What's that got to do with anything?
-yoda Eveything. Fear is the path to the dark side... fear leads to anger... anger leads to hate.. hate leads to suffering.
-anakin_skywalker I am not afraid!
-yoda A Jedi must have the deepest commitment, the most serious mind. I sense much fear in you.
-anakin_skywalker I am not afraid.
-yoda Then continue, we will.
-jar_jar_binks jar Mesa wonder why da guds invent pain?
-queen_amidala To motivate us, I imagine...
-jar_jar_binks jar Yousa tinken yousa people ganna die?
-queen_amidala I don't know.
-jar_jar_binks jar Gungans ganna get pasted too, eh?
-queen_amidala I hope not.
-jar_jar_binks jar Gungans do die'n without a fight.... wesa warriors. Wesa gotta grand army. Dat why you no liken us, metinks.
-captain_panaka Your Highness, Senator Palpatine has been nominated to succeed Valorum as Supreme Chancellor.
-senator_palpatine A surprise, to be sure, but a welcome one. I promise, Your Majesty, if I am elected, I will bring democracy back to the Republic. I will put an end to corruption. The Trade Fedreation will lose its influence over the bureaucrats, and our people will be freed.
-queen_amidala Who else can be nominated?
-captain_panaka Bail Antilles of Alderaan and Ainlee Teem of Malastare.
-senator_palpatine I feel confident...our "situation" will create a strong sympaphy vote for us... I will be Chancellor, I promise you.
-queen_amidala I fear by the time you have control of the bureaucrats, Senator, there will be nothing left of our cities, our people, our way of life...
-senator_palpatine I understand your concern, Your Majesty; unfortunately, the Federation has possession of our planet. The law is in their favor.
-queen_amidala With the Senate in transition, there is nothing more I can do here...Senator, this is your arena. I feel I must return to mine. I have decided to go back to Naboo. My place is with my people.
-senator_palpatine Go back!! But, Your Majesty, be realistic! You would be in danger. They will force you to sign the treaty.
-queen_amidala I will sign no treaty, Senator. My fate will be no different from that of our people. Captain!
-captain_panaka Yes, Your Highness?
-queen_amidala Ready my ship!
-captain_panaka Please, Your Majesty, stay here...where it's safe.
-queen_amidala No place is safe, if the Senate doesn't condemn this invasion. It is clear to me now that the Republic no longer functions as a democracy. If you win the election, Senator, I know you will do everything possible to stop the Federation. I pray you will bring sanity and compassion back to the Senate.
-yoda ...Correct you were, Qui-Gon.
-mace_windu windu His cells contain a high concentration of midi-chlorians.
-ki-adi#unknown#StarWars.Episode01 The Force is strong with him.
-quigon_jinn He's to be trained, then.
-mace_windu windu No. He will not be trained.
-quigon_jinn No??!!
-mace_windu windu He is too old. There is already too much anger in him.
-quigon_jinn He is the chosen one...you must see it.
-yoda Clouded, this boy's future is. Masked by his youth.
-quigon_jinn I will trin him, then. I take Anakin as my Padawan learner.
-yoda An apprentice, you have, Qui-Gon. Impossible, to take on a second.
-mace_windu windu The code forbids it.
-quigon_jinn Obi-Wan is ready...
-obiwan_kenobi Iam ready to face the trials.
-yoda Ready so early, are you? What know you of ready?
-quigon_jinn Headstrong....and he has much to learn about the living Force, but he is capabe. There is little more he will learn from me.
-yoda Our own counsel we will keep on who is ready. More to learn, he has...
-mace_windu windu Now is not the time for this...the Senate is voting for a new Supreme Chancellor. Queen Amidala is returning home, which will put pressure on the Federation, and could widen the confrontation.
-yoda And draw out the Queen's attacker.
-ki-adi#unknown#StarWars.Episode01 Events are moving fast...too fast.
-mace_windu windu Go with the Queen to Naboo and discover the identity of the dark warrior. That is the clue we need to unravel this mystery of the Sith.
-yoda Young Skywalker's fate will be decided later.
-quigon_jinn I brought Anakin here; he must stay in my charge. He has nowhere else to go.
-mace_windu windu He is your ward, Qui-Gon...we will not dispute that.
-yoda Train him not. Take him with you, but train him not!
-mace_windu windu Protect the Queen, but do not intercede if it comes to war until we have the Senate's approval.
-yoda May the Force be with you. obi-wan It is not disrespect, Master. It is the truth.
-quigon_jinn From your point of view....
-obiwan_kenobi The boy is dangerous... They all sense it. Why can't you?
-quigon_jinn His fate is uncertain. He's not dangerous. The Council will decide Anakin's future. That should be enough for you. Now, get on board.
-anakin_skywalker Qui-Gon, sir, I don't want to be a problem.
-quigon_jinn You won't be, Annie....I'm not allowed to train you, so I want you to watch me and be mindful...always remember, your focus determines your reality. Stay close to me and you will be safe.
-anakin_skywalker Master, sir...I've been wondering...what are midi-chlorians?
-quigon_jinn Midi-chlorians are a microcopic lifeform that reside within all living cells and communicates with the Force.
-anakin_skywalker They live inside of me?
-quigon_jinn In your cells. We are symbionts with the midi-chlorians.
-anakin_skywalker Symbionts?
-quigon_jinn Life forms living together for mutual advantage. Without the midi-chlorians, life could not exist, and we would have no knowledge of the Force. They continually speak to us, telling us the will of the Force.
-anakin_skywalker They do?
-quigon_jinn When you learn to quiet your mind, you will hear them speaking to you.
-anakin_skywalker I don't understand.
-quigon_jinn With time and training, Annie...you will.
-Your#unknown#StarWars.Episode01 Highness, it is our pleasure to continue to serve and protect you.
-queen_amidala I welcome your help. Senator Palpatine fears the Federation means to destroy me.
-quigon_jinn I promise you, I will not let that happen.
-jar_jar_binks jar Wesa goen home!
-darth_sidious The Queen is on her way to you. I regret she is of no further use to us. When she gets there, destroy her.
-nute_gunray Yes, my Lord.
-darth_sidious Viceroy, is the planet secure?
-nute_gunray Yes, my Lord, we have taken over the last pockets of primitive life forms. We are in complete control of the planet now.
-darth_sidious Good. I will see to it that in the Senate, things stay as they are. I am sending Darth Maul to join you. He will deal with the Jedi.
-nute_gunray Yes, my Lord.
-rune_haako A Sith lord here with us?!!
-anakin_skywalker ...and that one?
-ric_olie olie The forward stabalizer.
-anakin_skywalker And those control the pitch?
-ric_olie olie You catch on pretty quick.
-captain_panaka The moment we land the Federation will arrest you, and force you to sign the treaty.
-quigon_jinn I agree...I'm not sure what you hope to accomplish by this.
-queen_amidala I'm going to take back what's ours.
-captain_panaka There are only twelve of us, Your Highness....we have no army.
-quigon_jinn I cannot fight a war for you, Your Highness, only protect you.
-queen_amidala Jar Jar Binks!
-jar_jar_binks jar Mesa, Your Highness?
-queen_amidala Yes. I need your help.
-captain_panaka The blockade's gone.
-obiwan_kenobi The war's over...No need for it now.
-ric_olie olie I have one battleship on my scope.
-obiwan_kenobi A droid control ship.
-captain_panaka They've probably spotted us.
-obiwan_kenobi We haven't much time.
-anakin_skywalker Hi! Where have you been?
-padme Annie! What are you doing here?
-anakin_skywalker I'm with Qui-Gon...but...they're not going to let me be a Jedi. I'm too old.
-padme This is going to be dangerous, Annie.
-anakin_skywalker Is it? I can help... Where are we going?
-padme To war, I'm afraid. The Queen has had to make the most difficult decision of her life. She doesn't believe in fighting, Annie. We are a peaceful people...
-anakin_skywalker I want to help...I'm glad you're back.
-obiwan_kenobi Jar Jar is on his way to the Gungan city, Master.
-quigon_jinn Good.
-obiwan_kenobi Do you think the Queen's idea will work?
-quigon_jinn The Gungans will not easily be swayed, and we cannot use our power to help her.
-obiwan_kenobi I'm...I'm sorry for my behavior, Master. It is not my place to disagree with you about the boy. I am grateful you think I am ready for the trials.
-quigon_jinn You have been a good apprentice. You are much wiser than I am, Obi-Wan. I foresee you will become a great Jedi Knight.
-jar_jar_binks jar Ello! Where das everybody?
-jar_jar_binks jar Dare-sa nobody dare. All gone. Some kinda fight, I tink. Sorry, no Gungas...no Gungas.
-captain_panaka Do you think they have been taken to camps?
-obiwan_kenobi More likely they were wiped out.
-jar_jar_binks jar No...mesa no tink so. Gungan hiden. When in trouble, go to sacred place. Mackineeks no find them dare.
-quigon_jinn Do you know where they are?
-jar_jar_binks jar Dissen it. Heyo-dalee, Captain Tarpals.
-captain_tarpals Binks!! Noah gain!
-jar_jar_binks jar We comen to see da boss.
-captain_tarpals Ouch time, Binks... Ouch time for all-n youse.
-boss_nass nass Jar Jar, yousa payen dis time. Who's da uss-en others??
-queen_amidala I am Queen Amidala of the Naboo...I come before you in peace.
-boss_nass nass Naboo biggen. Yousa bringen da Mackineeks... Dya busten uss-en omm. Yousa all bombad. Yousa all die'n, mesa tink.
-queen_amidala We wish to form an alliance...
-padme Your Honor...
-boss_nass nass Whosa dis?
-padme I am Queen Amidala This is my decoy...my protection...my loyal bodyguard. ...I am sorry for my deception, but under the circumstances it has become necessary to protect myself. Although we do not always agree, Your Honor, our two great societies have always lived in peace...until now. The Trade Federation has destroyed all that we have worked so hard to build. You are in hiding, my people are in camps. If we do not act quickly, all will be lost forever...I ask you to help us...no, I beg you to help us. We are your humble servants...our fate is in your hands.
-boss_nass nass Yousa no tinken yousa greater den da Gungans.. Mesa like dis. Maybe wesa bein friends.
-nute_gunray ...we've sent out patrols. We've already located their starship in the swamp....It won't be long, My Lord.
-darth_sidious This is an unexpected move for her. It's too aggresive.. Lord Maul, be mindful.
-darth_maul_ Yes, my Master.
-darth_sidious Be patient... Let them make the first move.
-gungan_guard lookout Daza comen!
-anakin_skywalker All right. They're here!
-boss_nass nass Yousa doen grand. Jar Jar bringen da Naboo together.
-jar_jar_binks jar Oh, no, no, no...
-boss_nass nass So, wesa maken yousa Bombad General.
-jar_jar_binks jar General??! Oh, no..
-padme What is the situation?
-captain_panaka Almost everyone's in camps. A few hundred police and guards have formed an underground movement. I brought as many of the keaders as I could. The Federation Army's also much larger than we thought, and much stronger. Your Highness, this is a battle I do not think we can win.
-padme The battle is a diversion. The Gungans must draw the Droid Army away from the cities. We can enter the city using the secret passages on the waterfall side. Once we get to the main entrance, Captain Panaka will create a diversion, so that we can enter the palace and capture the Viceroy. Without the Viceroy, they will be lost and confused. What do you think, Master Jedi?
-quigon_jinn The Viceroy will be well guarded.
-captain_panaka The difficulty's getting into the throne room. Once we're inside, we shouldn't have a problem.
-quigon_jinn There is a possibility with this diversion many Gungans will be killed.
-boss_nass nass Wesa ready to do are-sa part.
-padme We have a plan which should immobilize the Droid Army. We will send what pilots we have to knock out the Droid control ship which is orbiting the planet. If we can get past their rayshields, we can sever communication and their droids will be helpless.
-quigon_jinn A well-conceived plan. However, there's great risk. The weapons on your fighters may not penetrate the shields on the control ship.
-obiwan_kenobi And there's an even bigger danger. If the Vicroy escapes, Your Highness, he will return with another droid army.
-padme That is why we must not fail to get to the Viceroy. Everything depends on it.
-darth_sidious ...she is more foolish than I thought.
-nute_gunray We are sending all available troops to meet this army of hers assembling near the swamp. It appears to be made up of primitives. We do not expect much resistance.
-oom9 I am increasing security at all Naboo detention camps.
-darth_maul_ I feel there is more to this, My Master. The two Jedi may be using the Queen for their own purposes.
-darth_sidious The Jedi cannot become involved. They can only protect the Queen. Even Qui-Gon Jinn will not break that covenant.... This will work to our advantage...
-nute_gunray I have your approval to proceed then, My Lord.
-darth_sidious Proceed. Wipe them put...all of them.
-general_ceel ceel Energize the shields.
-quigon_jinn Once we get inside, Annie, you find a safe place to hide and stay there.
-anakin_skywalker Sure.
-quigon_jinn And stay there!
-nute_gunray I thought the battle was going to take place far from here...this is too close!
-rune_haako What is going on?
-darth_maul_ I told you there was more to this...the Jedi are involved.
-padme Get to your ships!
-FIGHTER#unknown#StarWars.Episode01 pilot Better find a new hiding place, kid. I'm taking this ship.
-padme My guess is the Viceroy is in the throne room.
-quigon_jinn I agree.
-anakin_skywalker Hey! Wait for me.
-quigon_jinn No, Annie, you stay there. Stay right where you are.
-anakin_skywalker But, I...
-quigon_jinn Stay in that cockpit. We handle this...
-anakin_skywalker Oh, no... We gotta do something, Artoo. All right, thanks Artoo! Great idea! I'll take over. Let's see... Where's the trigger? Oops, wrong one.. Maybe this one.... Yeah, all right. "Droid blaster." Yeah!
-anakin_skywalker Oops...shield up! Always on the right...shields always on the right. I know we're moving. I'll shut the energy drive down. Oops!! Wrong one. I'm not doing anything! I know...I didn't push anything.
-ric_olie olie Bravo Flight A, take on the fighters. Flight B, make the run on the transmitter.
-bravo#unknown#StarWars.Episode01 two Roger, Bravo Leader.
-ric_olie olie Enemy fighters straight ahead!
-anakin_skywalker The Autopilot is searching for what other ships? There is no manual override, Artoo. You'll have to rewire it or something. Look! There they are! That's where the autopilot is taking us.
-padme We don't have time for this, Captain.
-captain_panaka Let's try the outside stairway.
-general_ceel ceel Retreat! Retreat!
-anakin_skywalker Whoo, boy! This is tense! Oops! Artoo, get us off Autopilot!
-anakin_skywalker I've got control? Okay, let's go left! Yes...I've got control. You did it, Artoo!
-anakin_skywalker Go back!?! Qui-Gon told me to stay in this cockpit and that's what I'm gonna do. Now c'mon! Oops! Whoa! I'll try spinning, that's a good trick.
-anakin_skywalker I know we're in trouble! Hang on! The way out of this mess is the way we got into it.
-anakin_skywalker Which one? This one?
-ric_olie olie Bravo flight...go for the central bridge.
-bravo#unknown#StarWars.Episode01 two ROger, Bravo Leader.
-ric_olie olie Their deflector shield is too strong. We'll never get through it.
-anakin_skywalker I know, Artoo! This isn't Podracing! We're hit! Great gobs of bantha poo-doo!
-anakin_skywalker I'm trying to stop! I'm trying to stop! Whoa! All right! All right! Get the system started! Everything's overheated. All the lights are red.
-padme Throw down your weapons. They win this round.
-captain_panaka But we can't....
-padme Captain, I said throw down your weapons.
-jar_jar_binks jar Dissa bad, berry bombad.
-general_ceel ceel Mesa hopen dissa working for da Queen.
-nute_gunray Your little insurrection is at an end, Your Highness. Time for you to sign the treaty...and end this pointless debate in the Senate.
-sabe I will not be signing any treaty, Viceroy, because you've lost!
-nute_gunray After her! This one is a decoy! Your Queen will not get away with this.
-padme Now, Viceroy, this is the end of your occupation here.
-nute_gunray Don't be absurd. There are too few of you. It won't be long before hundreds of destroyer droids break in to rescue us.
-obiwan_kenobi Master! Master!
-quigon_jinn It is too late...It's...
-obiwan_kenobi No!
-quigon_jinn Obi-Wan promise...promise me you'll train the boy...
-obiwan_kenobi Yes, Master...
-quigon_jinn He is the chosen one...he will...bring balance...train him!
-anakin_skywalker Uh oh. This is not good. The systems are still overheated, Artoo.
-BATTLE#unknown#StarWars.Episode01 DROID captain Where's your pilot?
-BATTLE#unknown#StarWars.Episode01 DROID captain You're the pilot?
-BATTLE#unknown#StarWars.Episode01 DROID captain Let me see your identification!
-anakin_skywalker Yes...we have ignition.
-BATTLE#unknown#StarWars.Episode01 DROID captain You! Come out of there or we'll blast you!
-anakin_skywalker Not if I can help it! Shields up! This should stop them. ...and take this! Darn...I missed! Let's get out of here! Now, this is Podracing! Whoopee!
-tey_how_ how Sir, we're losing power... There is some problem with the main reactor...
-daultay_dofine Impossible!! I don't...
-bravo#unknown#StarWars.Episode01 two What's that?? It's blowing up from the inside.
-ric_olie olie I don't know, we didn't hit it.
-bravo#unknown#StarWars.Episode01 three Look! One of ours! Outta the main hold!!
-jar_jar_binks jar Wierdind...
-bravo#unknown#StarWars.Episode01 two He flew into the hold, behind the deflector shield and blasted the main reactor...
-bravo#unknown#StarWars.Episode01 three Amazing... They don't teach that in the academy.
-ric_olie olie We're all accounted for. Who flew that ship?
-anakin_skywalker I'm not going to get into trouble, am I?
-padme Now, Viceroy, you are going to have to go back to the Senate and explain all this.
-captain_panaka I think you can kiss your Trade franchise goodbye.
-queen_amidala Congratulations on youer election, Chancellor. It is so good to see you again.
-senator_palpatine It's good to be home. Your boldness has saved our people, Your Majesty. It is you who should be congratulated. Together we shall bring peace and prosperity to the Republic.
-yoda Confer on you, the level of Jedi Knight the Coucil does. But agree on you taking this boy as your Padawan learner, I do not.
-obiwan_kenobi Qui-Gon believed in him. I believe in Qui-Gon.
-yoda The Chosen One the boy may be; nevertheless, grave danger I fear in his training.
-obiwan_kenobi Master Yoda, I gave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must.
-yoda Qui-Gon's defiance I sense in you. Need that, you do not. Agree, the council does. Your apprentice, young Skywalker will be.
-obiwan_kenobi He is one with the Force, Anakin...You must let go.
-anakin_skywalker What will happen to me now?
-obiwan_kenobi I am your Master now. You will become a Jedi, I promise.
-mace_windu windu There is no doubt. The mysterious warrior was a Sith.
-yoda Always two there are....no more...no less. A maste and an apprentice.
-mace_windu windu But which one was destroyed, the master or the apprentice?
+quigon_jinn  Captain. 
+captain#unknown#StarWars.Episode01 Yes, sir? 
+quigon_jinn  Tell them we wish to board at once. 
+captain#unknown#StarWars.Episode01 With all due respect, the Ambassadors for the Supreme Chancellor wish to board immediately. 
+nute_gunray#unknown#StarWars.Episode01 Yes, yes, of course... as you know, our blockade is perfectly legal, and we'd be happy to receive the Ambassador. 
+tc14 I'm TC-14 at your service. This way, please. 
+tc14 We are greatly honored by your visit Ambassadors. Make yourselves comfortable. My master will be with you shortly. 
+obiwan_kenobi I have a bad feeling about this. 
+quigon_jinn I don't sense anything. 
+obiwan_kenobi It's not about the mission, Master, it's something... elsewhere... elusive. 
+quigon_jinn Don't center on your anxieties, Obi-Wan. Keep your concentration here and now where it belongs. 
+obiwan_kenobi But Master Yoda says I should be mindful of the future... 
+quigon_jinn ... but not at the expense of the moment. Be mindful of the living Force, my young Padawan. 
+obiwan_kenobi Yes, Master. 
+obiwan_kenobi  How do you think the trade viceroy will deal with the chancellor's demands? 
+quigon_jinn These Federation types are cowards. The negotiations will be short. 
+nute_gunray#unknown#StarWars.Episode01  What?!? What did you say? 
+tc14 The Ambassadors are Jedi Knights, I believe. 
+daultay_dofine I knew it! They're here to force a settlement. 
+nute_gunray#unknown#StarWars.Episode01 Distract them. I will contact Lord Sidious. 
+daultay_dofine Are you brain dead? I'm not going in there with two Jedi! Send the droid. 
+obiwan_kenobi Is it in their nature to make us wait this long? 
+quigon_jinn No... I sense an unusual amount of fear for something as trivial as this trade dispute. 
+the_emperor What is it? 
+daultay_dofine ... This scheme of yours has failed, Lord Sidious. The blockade is finished! We dare not go against these Jedi. 
+the_emperor Viceroy, I don't want this stunted slim in my sight again. 
+the_emperor This turn of events is unfortunate. We must accelerate our plans. Begin landing your troops. 
+nute_gunray#unknown#StarWars.Episode01 My Lord, is that... legal? 
+the_emperor I will make it legal? 
+nute_gunray#unknown#StarWars.Episode01 And the... Jedi? 
+the_emperor The Chancellor should have never brought them into this. Kill them, immediately. 
+nute_gunray#unknown#StarWars.Episode01 Yes... yes, My Lord. As you wish. 
+pilot#unknown#StarWars.Episode01 Captain?! Look!! 
+tc14 ... Sorry. 
+quigon_jinn Dioxin! 
+nute_gunray#unknown#StarWars.Episode01 They must be dead by now. Destroy, what's left of them. 
+tc14 Oh, excuse me. 
+owo-1#unknown#StarWars.Episode01 Check it out Corporal. We'll cover you. 
+battle_droid Roger, roger. 
+owo-1#unknown#StarWars.Episode01 Uh-oh, blast them... 
+nute_gunray#unknown#StarWars.Episode01 What is going on down there? 
+tey_how#unknown#StarWars.Episode01 We've lost the transmission, sir. 
+rune_haako Have you ever encountered a Jedi Knight before, sir? 
+nute_gunray#unknown#StarWars.Episode01 Well, no, but I don't...  Seal off the bridge. 
+tey_how#unknown#StarWars.Episode01 Yes sir. 
+rune_haako That won't be enough, sir. 
+nute_gunray#unknown#StarWars.Episode01 I want droidekas up here at once!!! 
+rune_haako We will not survive this. 
+nute_gunray#unknown#StarWars.Episode01 Close the blast doors!!! 
+nute_gunray#unknown#StarWars.Episode01 That will hold them. 
+rune_haako ... They're still coming through! 
+nute_gunray#unknown#StarWars.Episode01 This is impossible!! 
+rune_haako Where are those droidekas?! 
+obiwan_kenobi Master, destroyers. 
+obiwan_kenobi They have shield generators. 
+quigon_jinn It's a standoff! Let's go! 
+rune_haako ... They're no match for droidekas. 
+tey_how#unknown#StarWars.Episode01 Sir, they've gone up the ventilation shaft. 
+quigon_jinn Battle droids. 
+obiwan_kenobi It's an invisible army. 
+quigon_jinn This is an odd play for the Trade Federation. We've got to warn the Naboo and contact Chancellor Valorum. Let's split up. Stow aboard separate ships and meet down on the planet. 
+obiwan_kenobi You were right about one thing, Master. The negotiations were short. 
+tey_how#unknown#StarWars.Episode01 Sir, a transmission from the planet. 
+rune_haako It's Queen Amidala herself. 
+nute_gunray#unknown#StarWars.Episode01 At last we're getting results. 
+nute_gunray#unknown#StarWars.Episode01  Again you come before me, Your highness. 
+padme You will not be pleased when you hear what I have to say, Viceroy ... Your trade boycott of our planet has ended. 
+nute_gunray#unknown#StarWars.Episode01 I was not aware of such a failure. 
+padme I'm aware the Chancellor's Ambassadors are with you now, and that you have been commanded to reach a settlement. 
+nute_gunray#unknown#StarWars.Episode01 I know nothing of any Ambassadors ... you must be mistaken. 
+padme Beware, Viceroy....the Federation has gone too far this time. 
+nute_gunray#unknown#StarWars.Episode01 We would never do anything without the approval of the Senate. You assume too much. 
+padme We will see. 
+rune_haako She's right, the Senate will never.... 
+nute_gunray#unknown#StarWars.Episode01 It's too late now. 
+rune_haako Do you think she suspects an attack? 
+nute_gunray#unknown#StarWars.Episode01 I don't know, but we must move quickly to disrupt all communications down there. 
+the_emperor ...The negotiations haven't started because the Ambassadors aren't there? How could that be true? I have assurances from the Chancellor... his Ambassadors did arrive. It must be the... get... negotiate... 
+padme Senator Palpatine?!?  What's happening? 
+captain_panaka Check the transmission generators... 
+sio_bibble A communications disruption can only mean one thing. Invasion. 
+padme The Federation would not dare go that far. 
+captain_panaka The Senate would revoke their trade franchise, and they'd be finished. 
+padme We must continue to rely on negotiation. 
+sio_bibble Negotiation? We've lost all communications! ... and where are the Chancellors Ambassadors? 
+captain_panaka This is a dangerous situation, Your Highness. Our security volunteers will be no match against a battle-hardened Federation army. 
+padme I will not condone a course of action that will lead us to war. 
+oom-9#unknown#StarWars.Episode01 Yes, Viceroy? 
+rune_haako Captain, we've searched the ship and there is no trace of the Jedi. They may have got on onto one of your landing craft. 
+oom-9#unknown#StarWars.Episode01 If they are down here, sir, we'll find them. 
+nute_gunray#unknown#StarWars.Episode01 Use caution. These Jedi are not to be underestimated. 
+jar_jar_binks Oh, noooooooooo! 
+quigon_jinn Quick! Get out of here! 
+quigon_jinn Get off! 
+jar_jar_binks Whas dat? 
+jar_jar_binks Hey wait! 
+jar_jar_binks Oyi, mooie-mooie! I luv yous! 
+quigon_jinn You almost got us killed! Are you brainless? 
+jar_jar_binks I spake. 
+quigon_jinn The ability to speak does not make you intelligent. Now get outta here! 
+jar_jar_binks No... no! Mesa stay...Mesa culled Ja Ja Binksss. Mesa yous humble servaunt. 
+quigon_jinn That won't be necessary. 
+jar_jar_binks Oh boot tit tis! Tis demunded byda guds it tis. 
+jar_jar_binks  Oh, nooooo! 
+quigon_jinn Stay down! 
+jar_jar_binks Yousa sav-ed my again! 
+obiwan_kenobi What's this? 
+quigon_jinn A local. Let's go, before more of those droids show up. 
+jar_jar_binks Mure? Mure did you spake??!? 
+jar_jar_binks  Ex-squeeze me, but de mosta safest place would be GungaCity. Tis where I grew up ... Tis a hidden city. 
+quigon_jinn A city! 
+jar_jar_binks Uhhu. 
+quigon_jinn  Can you take us there? 
+jar_jar_binks Ahhh, ... on second taut ... no, not willy, no. 
+quigon_jinn No??! 
+jar_jar_binks Iss embarrissing, boot ahh... My afrai my've bean banished. My forgoten der Bosses would do terrible tings to my. Terrible tings if my goen back dare. 
+quigon_jinn You hear that? 
+jar_jar_binks Yeah. 
+quigon_jinn  That's the sound of a thousand terrible things heading this way... 
+obiwan_kenobi If they find us, they will crush us, grind us into little pieces, then blast us into oblivion! 
+jar_jar_binks Oh! Yousa point is well said. Dis way! Hurry! 
+quigon_jinn How much farther? 
+jar_jar_binks Wesa goen underwater, okeyday? 
+jar_jar_binks  ... and my warning yous. Gungans no liken outsiders, so don't expicin wern welcome. 
+obiwan_kenobi Don't worry, this has not been our day for warm welcomes. 
+jar_jar_binks Ahh... yousa follow me now, okeyday? 
+jar_jar_binks Sooo good beein home. 
+captain_tarpals Hey yousa, stopa there. 
+jar_jar_binks Heyo-dalee, Cap'n Tarpals, Mesa back! 
+captain_tarpals Noah gain, Ja Ja. Yousa goen tada Bosses. Yousa in big dudu this time. 
+jar_jar_binks How wude. 
+boss_nass Yousa cannot bees hair. Dis army of mackineeks up dare tis new weesong! 
+quigon_jinn That droid army is about to attack the Naboo. We must warn them. 
+boss_nass Wesa no like da Naboo! Da Naboo tink day so smarty. Day tink day brains so big. 
+obiwan_kenobi Once those droids take control of the surface, they will take control of you. 
+boss_nass Mesa no tink so. Dey not know of uss-en. 
+obiwan_kenobi You and the Naboo form a symbiont circle. What happens to one of you will affect the other. You must understand this. 
+boss_nass Wesa no care-n about da Naboo. 
+quigon_jinn  Then speed us on our way. 
+boss_nass Wesa gonna speed yousaway. 
+quigon_jinn We could use a transport. 
+boss_nass Wesa give yousa una bongo. Da speedest way tooda Naboo tis goen through da core. Now go. 
+quigon_jinn Thank you for your help. We leave in peace. 
+obiwan_kenobi Master, what's a bongo? 
+quigon_jinn A transport, I hope. 
+jar_jar_binks Daza setten yousa up. Goen through da planet core is bad bombin!! Ahhh... any hep hair would be hot. 
+obiwan_kenobi Master, we're short of time. 
+quigon_jinn We'll need a navigator to get us through the planet's core. This Gungan my be of help. 
+quigon_jinn  What is to become of Jar Jar Binks here? 
+boss_nass Hisen to be pune-ished. 
+quigon_jinn I have saved his life. He owes me what you call a "life.debt." QUI-GON waves his hand. 
+quigon_jinn Your gods demand that his life belongs to me now. 
+boss_nass Binks. Yousa haveda liveplay with thisen hisen? 
+jar_jar_binks Ah-huh. 
+boss_nass Begone wit him. 
+jar_jar_binks Count mesa outta dis one! Better dead here, den deader in da core...Yee guds, whata mesa sayin?! 
+jar_jar_binks Dis is nutsen... Ooo, gooberfish! 
+obiwan_kenobi Why were you banished, Jar Jar? 
+jar_jar_binks Tis a longo taleo, buta small part of it wawdbe mesa... aaaa..... clumsy. 
+obiwan_kenobi You were banished because you were clumsy? 
+jar_jar_binks Ahh... Yousa mighten be sayin dat. 
+jar_jar_binks Mesa cause-ed mabee one or duey lettal bitty axadentes...yud-say boom da gasser, un crash Der Bosses heyblibber...den banished. 
+jar_jar_binks Uh-oh. Big gooberfish. Huge Opee. 
+quigon_jinn There's always a bigger fish. 
+nute_gunray#unknown#StarWars.Episode01 The invasion is on schedule, My Lord. 
+the_emperor I have the Senate bogged down in procedures. They will have no choice but to accept your control of the system. 
+nute_gunray#unknown#StarWars.Episode01 The Queen has great faith the Senate will side with her. 
+the_emperor Queen Amidala is young and naive. You will find controlling her will not be difficult. 
+nute_gunray#unknown#StarWars.Episode01 Yes, My Lord. 
+rune_haako You didn't tell him about the missing Jedi? 
+nute_gunray#unknown#StarWars.Episode01 No need to report that to him, until we have something to report. 
+jar_jar_binks Where wesa goin. 
+quigon_jinn Don't worry, the Force will guide us... 
+jar_jar_binks Ooooh, maxibig..."da Force"...Well, dat smells stinkowiff. 
+obiwan_kenobi ... we're losing power. 
+jar_jar_binks Oh, no... 
+jar_jar_binks Oh, wesa diein here. 
+quigon_jinn Just relax. We're not in trouble yet. 
+jar_jar_binks What yet? Monstairs out dare! Leak'n in here, all'n sink'n, and nooooo power! You nutsen! WHEN YOUSA TINKEN WESA IN TROUBLE?!!!? 
+obiwan_kenobi Power's back. 
+quigon_jinn Relax. 
+obiwan_kenobi You overdid it. 
+quigon_jinn Head for that outcropping. 
+jar_jar_binks Oie Boie! 
+oom-9#unknown#StarWars.Episode01 Viceroy, we have captured the queen. 
+nute_gunray#unknown#StarWars.Episode01 Ah, victory! 
+jar_jar_binks Oo. Dis seem uverly. 
+sio_bibble ...how will you explain this invasion to the Senate? 
+nute_gunray#unknown#StarWars.Episode01 The Queen and I will sign a treaty that will legitimize our occupation here. I assurances it will be ratified by the Senate. 
+padme I will not co-operate. 
+nute_gunray#unknown#StarWars.Episode01 Now, now, your Highness. In time, the suffering of your people will persuade you to see our point of view. Commander? 
+oom-9#unknown#StarWars.Episode01 Yes, sir! 
+nute_gunray#unknown#StarWars.Episode01 Process them. 
+oom-9#unknown#StarWars.Episode01 Captain, take them to Camp Four. 
+captain#unknown#StarWars.Episode01 Roger, roger. 
+quigon_jinn We should leave the streets, your highness. 
+captain_panaka Get their weapons. 
+jar_jar_binks Woah. Yousa guys bombad! 
+quigon_jinn We're the Ambassadors, for the Supreme Chancellor. 
+sio_bibble Your negotiations seem to have failed, Ambassador. 
+quigon_jinn The negotiations never took place. It's urgent that we make contact with the republic. 
+captain_panaka They've knocked out all our communications. 
+quigon_jinn Do you have transports? 
+captain_panaka In the main hanger. This way. 
+captain_panaka There are too many of them. 
+quigon_jinn That won't be a problem.  Your Highness, under the circumstances, Isuggest you come to Coruscant with us. 
+padme Thank you, Ambassador, but my place is here with my people. 
+quigon_jinn They will kill you if you stay. 
+sio_bibble They wouldn't dare. 
+captain_panaka They need her to sign a treaty to make this invasion of theirs legal. They can't afford to kill her. 
+quigon_jinn There is something else behind all this, Your Highness. There is no logic in the Federation's move here. My feelings tell me they will destroy you. 
+sio_bibble Our only hope is for the Senate to side with us ... Senator Palpatine will need your help. 
+padme Either choice presents great danger. 
+padme  ... to us all. 
+padme We are brave, Your Highness. 
+quigon_jinn If you are to leave, Your Highness, it must be now. 
+padme Then, I will plead our case to the Senate.  Be careful, Governor. 
+captain_panaka We need to free those pilots. 
+obiwan_kenobi I'll deal with that. 
+gonk_droid Halt? 
+quigon_jinn I'm Ambassador for the Supreme Chancellor, and I'm taking these people to Coruscant. 
+gonk_droid Where are you taking them? 
+quigon_jinn To Coruscant. 
+gonk_droid Coruscant!? Ahh, that doesn't compute. ... Ahh, wait! ... Ahh, you're under arrest! 
+obiwan_kenobi Go! 
+obiwan_kenobi Now stay here, and keep out of trouble. 
+jar_jar_binks Ello, boyos. 
+ric_olie There's the blockade. 
+ric_olie The shield generator's been hit. 
+jar_jar_binks How wude! 
+obiwan_kenobi We're loosing droids... fast. 
+captain_panaka If we can't get the shield generators fixed, we'll be sitting ducks. 
+ric_olie The shields are gone. 
+ric_olie Powers back! That little droid did it... bypassed the main power drive. Deflector shield up, at maximum. 
+ric_olie There's not enough power to get us to Coruscant... the hyperdrive is leaking. 
+quigon_jinn We'll have to land somewhere to refuel and repair the ship. 
+obiwan_kenobi Here, Master. Tatooine... It's small, out of the way, poor... The Trade Federation has no presence there. 
+captain_panaka How can you be sure? 
+quigon_jinn It's controlled by the Hutts... 
+captain_panaka You can't take Her Royal Highness there! The Hutts are gangsters ... If they discovered her ... 
+quigon_jinn ... It would be no different than if we landed on a system controlled by the Federation ... except the Hutts aren't looking for her, which gives us an advantage. 
+the_emperor ... And Queen Amidala, has she signed the treaty? 
+nute_gunray#unknown#StarWars.Episode01 She has disappeared, My Lord. One Naboo cruiser got pat the blockade. 
+the_emperor I want that treaty signed. 
+nute_gunray#unknown#StarWars.Episode01 My Lord, it's impossible to locate the ship. It's out of our range. 
+the_emperor ...not for a Sith... 
+the_emperor  ... This is my apprentice. Darth Maul. He will find your lost ship. 
+nute_gunray#unknown#StarWars.Episode01 This is getting out of hand ... now there are two of them. 
+rune_haako We should not have made this bargain. 
+captain_panaka ...An extremely well put together little droid. Without a doubt, it saved the ship, as well as our lives. 
+padme It is to be commended...what is its number? 
+captain_panaka R2-D2, Your Highness. 
+padme Thank you, Artoo Detoo... Padme! 
+padme  Clean this droid up the best you can. It deserves our gratitude...  Continue, Captain. 
+quigon_jinn Your Highness, with your permission we're heading for a remote planet called Tatooine. It is a system far beyond the reach of the Trade Federation. 
+captain_panaka I do not agree with the Jedi on this. 
+quigon_jinn You must trust my judgment, Your Highness. 
+jar_jar_binks Hidoe! 
+jar_jar_binks  Sorry. Whosa are yousa? 
+padme I'm Padme. 
+jar_jar_binks Mesa Ja Ja Binksss... 
+padme You're a GUNGAN, aren't you? 
+jar_jar_binks Ah-huh. 
+padme How did you end up here with us? 
+jar_jar_binks My no know... mesa day starten pitty okeyday witda brisky morning munchen. Den boom.... getten berry skeered, un grabbed dat Jedi, and before mesa knowen it... pow! Mesa here. ... getten berry berry skeered. 
+obiwan_kenobi That's it. Tatooine... There's a settlement. 
+quigon_jinn Land near the outskirts. We don't want to attract any attention. 
+obiwan_kenobi The hyperdrive generator's gone, Master. 
+quigon_jinn That'll complicate things. Be wary... I sense a disturbance in the Force. 
+obiwan_kenobi I feel it also, Master. 
+quigon_jinn Don't let them send ant transmissions. 
+jar_jar_binks Dis sun doen murder ta mesa skin. 
+captain_panaka Wait! 
+captain_panaka  Wait. Her Highness commands you to take her handmaiden with you. 
+quigon_jinn No more commands from Her Highness today, Captain. This spaceport is not going to be pleasant... 
+captain_panaka The Queen wishes it. She is curious about this planet. 
+quigon_jinn This is not a good idea. Stay close to me. 
+quigon_jinn ...moisture farms for the most part. Some indigenous tribes and scavengers. The few spaceports like this one are havens for those who do not wish to be found... 
+padme ... like us. 
+jar_jar_binks Dissen berry berry bad.  Ooooh... icky... icky... goo. 
+quigon_jinn We'll try one of the smaller dealers. 
+watto  Guta naloya.  
+watto  Ha chuba da nala?  
+quigon_jinn I need parts for a J-type 327 Nubian. 
+watto Ah yes, ah yes. Nubian. We have lots of that.  Peedenk! Naba dee unko  
+quigon_jinn My droid here has a readout of what I need. 
+watto  Coona tee-tocky malia?  
+anakin_skywalker  Mel tassa cho-passa...  
+watto  Chut-Chut! Ganda doe wallya. Me dwana no bata.   Soooo, let me take - a thee out back. Ni you'll find what you need. 
+quigon_jinn Don't touch anything. 
+anakin_skywalker Are you an angel? 
+padme What? 
+anakin_skywalker An angel. I've heard the deep space pilots talk about them. They are the most beautiful creatures in the universe. They live on the Moons of Iego I think. 
+padme You're a funny little boy. How do you know so much. 
+anakin_skywalker I listen to all the traders and starpilots that come by here. I'm a pilot, you know, and some day I'm gonna fly away from this place. 
+padme You're a pilot? 
+anakin_skywalker All my life. 
+padme How long have you been here? 
+anakin_skywalker Since I was very little, three, I think. My Mom and I were sold to Gardulla the Hutt, but she lost us, betting on the Podraces. 
+padme You're ... a slave? 
+anakin_skywalker I am a person! My name is Anakin. 
+padme I'm sorry. I don't fully understand.  This is a strange place to me. 
+anakin_skywalker Hey... 
+jar_jar_binks Wha? 
+anakin_skywalker Hit the nose! 
+jar_jar_binks Oh! 
+watto ... a T-14 hyperdrive generator!! Thee in luck, I'm the only one hereabouts who has one... but thee might as well buy a new ship. It would be cheaper, I think... Saying of which, how's thee going to pay for all this? 
+quigon_jinn I have 20,000 Republic dataries. 
+watto Republic credits?!? Republic credits are no good out here. I need something more real... 
+quigon_jinn I don't have anything else.  But credits will do fine. 
+watto No they won'ta. 
+quigon_jinn Credits will do fine. 
+watto No, they won'ta. What you think you're some kinda Jedi, waving your hand around like that? I'm a Toydarian. Mind tricks don'ta work on me-only money. No money, no parts! No deal! And no one else has a T-14 hyperdrive, I promise you that. 
+anakin_skywalker ... wouldn't have lasted long if I weren't so good at fixing things. 
+quigon_jinn We're leaving. Jar Jar? 
+padme I'm glad to have met you. 
+anakin_skywalker I was glad to meet you too. 
+watto  Ootmians! Tinka me chasa hopoe ma booty na nolia.  
+anakin_skywalker  La lova num botaffa.  
+watto  Fweepa niaga. Tolpa da bunky dunko.  
+quigon_jinn ... and you're sure there's nothing left on board? 
+obiwan_kenobi  A few containers of supplies, the Queen's wardrobe, maybe. But not enough for you to barter with. Not in the amounts you're talking about. 
+quigon_jinn All right. I'm sure another solution will present itself. I'll check back later. 
+jar_jar_binks Noah gain... Noah gain da beings hereabouts cawazy. Wesa be robbed un crunched. 
+quigon_jinn Not likely. We have nothing of value, that's our problem. 
+vendor#unknown#StarWars.Episode01  Ay, ay. Yawoba wonga?  
+vendor#unknown#StarWars.Episode01 Uga wupiupi wep. (It costs seven wupiupi. 
+sebulba Chuba!! 
+jar_jar_binks Ooops. 
+sebulba  Ni chuba ni??  
+jar_jar_binks Who, mesa? 
+anakin_skywalker  Chesko Sebulba... Cha pooka uman geesa... Matesa ratico ponipa chop chowa.  
+sebulba  Nic me chouwa wimo noke maka noke.  Una noto wo shag, me wompity du pom pom.  
+anakin_skywalker  Eh, chee bana do mullee ra.  
+anakin_skywalker  Hi! 
+quigon_jinn Hi there. 
+anakin_skywalker Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba. 
+jar_jar_binks Mesa haten crunchen. Dat's da last ting mesa wanten. 
+quigon_jinn Nevertheless, the boy is right ... you were heading for trouble... Thanks, my young friend. 
+jar_jar_binks But... but... mesa doen nutteen! 
+obiwan_kenobi This storm will slow them down. 
+captain_panaka It looks pretty bad. 
+captain_panaka  Panaka? 
+ric_olie  We're receiving a message from home. 
+captain_panaka We'll be right there. 
+anakin_skywalker Here, you'll like these pallies... Here. 
+quigon_jinn Thank you. 
+jira Oh, my bones are aching ... storm's coming up, Annie. You'd better get home quick. 
+anakin_skywalker  Do you have shelter? 
+quigon_jinn We'll head back to our ship. 
+anakin_skywalker Is it far? 
+padme It's on the outskirts. 
+anakin_skywalker You'll never reach the outskirts in time... sandstorms are very, very dangerous. Come on! I'll take you to my place. 
+anakin_skywalker Mom! Mom! I'm home. 
+jar_jar_binks Dissen cozy. 
+anakin_skywalker These are my friends, Mom. 
+jar_jar_binks Hidoe! 
+quigon_jinn I'm Qui-Gon Jinn. 
+anakin_skywalker I'm building a droid. You wanna see? 
+quigon_jinn Your son was kind enough to offer us shelter. 
+anakin_skywalker Come on! I'll show you Threepio! 
+anakin_skywalker Isn't he great?! He's not finished yet. 
+padme He's wonderful! 
+anakin_skywalker You really like him? He's a protocol droid ... to help Mom. Watch! 
+c3po Oh, oh. Where is everybody? 
+c3po Oh, hello, I am See-Threepio, Human Cyborg Relations. How might I serve you? 
+padme He's perfect. 
+c3po Oh, perfect. 
+anakin_skywalker When the storm is over, I'll show you my racer. 
+anakin_skywalker  I'm building a Podracer! 
+c3po I'm not sure this floor is entirely stable. Oh, hello. I don't believe we've been introduced. 
+c3po Artoo-Detoo. A pleasure to meet you. I am See-Threepio, Human Cyborg Relations. 
+c3po I beg your pardon .... what do you mean, naked? 
+c3po  My parts are showing? My goodness. 
+sio_bibble ... the death toll is catastrophic...we must bow to their wishes... you must contact me ... 
+obiwan_kenobi It's a trick. Send no reply... Send no transmission of any kind. 
+quigon_jinn It sounds like bait to establish a connection trace. 
+obiwan_kenobi What if it is true and the people are dying? 
+quigon_jinn Either way, we're running out of time. 
+darth_maul Tatooine is sparsely populated. If the trace was correct, I will find them quickly, Master. 
+the_emperor Move against the Jedi first...you will then have no difficulty in taking the Queen to Naboo to sign the treaty. 
+darth_maul At last we will reveal ourselves to the Jedi. At last we will have revenge. 
+the_emperor You have been well trained, my young apprentice, they will be no match for you. 
+shmi_skywalker All slaves have transmitters placed inside their bodies somewhere. 
+anakin_skywalker I've been working on a scanner to try and locate mine. 
+shmi_skywalker Any attempt to escape... 
+anakin_skywalker ... and they blow you up ... boom! 
+jar_jar_binks How wude. 
+padme I can't believe there is still slavery in the galaxy. The Republic's anti-slavery laws... 
+shmi_skywalker The Republic doesn't exist out here...we must survive on our own. 
+jar_jar_binks 'Scuse me. 
+anakin_skywalker Has anybody ever seen a Podrace? 
+quigon_jinn They have Podracing on Malastare. Very fast, very dangerous. 
+anakin_skywalker I'm the only human who can do it. 
+quigon_jinn You must have Jedi reflexes if you race Pods. 
+quigon_jinn  Don't do that again. 
+anakin_skywalker You're a Jedi Knight, aren't you? 
+quigon_jinn What makes you think that? 
+anakin_skywalker I saw your laser sword. Only Jedi carry that kind of weapon. 
+quigon_jinn Perhaps I killed a Jedi and took it from him. 
+anakin_skywalker I don't think so ... No one can kill a Jedi. 
+quigon_jinn I wish that were so... 
+anakin_skywalker I had a dream I was a Jedi. I came back here to free all the slaves... have you come to free us? 
+quigon_jinn No, I'm afraid not ... 
+anakin_skywalker I think you have ... why else would you be here? 
+quigon_jinn I can see there's no fooling you ...  We're on our way to Coruscant, the central system in the Republic, on a very important mission. 
+anakin_skywalker How did you end up here in the outer rim? 
+padme Our ship was damaged, and we're stranded here until we can repair it. 
+anakin_skywalker I can help! I can fix anything! 
+quigon_jinn I believe you can, but first we must acquire the parts we need... 
+jar_jar_binks Wit no-nutten mula to trade. 
+padme These junk dealers must have a weakness of some kind. 
+shmi_skywalker Gambling. Everything here revolves around betting on those awful races. 
+quigon_jinn Podracing ... Greed can be a powerful ally. 
+anakin_skywalker I've built a racer! It's the fastest ever...There's a big race tomorrow, on Boonta Eve. You could enter my pod. 
+shmi_skywalker Anakin! Watto won't let you... 
+anakin_skywalker Watto doesn't know I've built it.  You could make him think it's yours, and get him to let me pilot it for you. 
+shmi_skywalker I don't want you to race. It's awful. I die every time Watto makes you do it. 
+anakin_skywalker But Mom, I love it. The prize money would more than pay for the parts they need. 
+shmi_skywalker Anakin! 
+quigon_jinn Your mother's right. Is there anyone friendly to the Republic who might help us? 
+anakin_skywalker Mom... you said the biggest problem in the universe is nobody helps each other... 
+padme I'm sure Qui-Gon doesn't want to put your son in danger. We'll find some other way... 
+shmi_skywalker No, there is no other way... I may not like it, but... he can help you... he was meant to help you. 
+padme Are you sure about this? Trusting our fate to a boy we hardly know. The Queen will not approve. 
+quigon_jinn The Queen does not need to know. 
+padme Well, I don't approve. 
+watto The boy tells me you wanta sponser him in a race. How can you do this? Not on Republic credits, I think, huh.  
+quigon_jinn My ship will be the entry fee. 
+watto Oh, not bad... not bad... ah Nubian, ah. 
+quigon_jinn It's in good order, except for the parts I need. 
+watto ... what would the boy ride? He smashed up my Pod in the last race. It will take some time to fix it. 
+anakin_skywalker Ahhhh ... it wasn't my fault really... Sebulba flashed me with his vents. I actually saved the Pod... mostly. 
+watto  That you did huh. The boy is good, no doubts there huh. 
+quigon_jinn Well, I have acquired a Pod in a game of chance. "The fastest ever built." 
+watto I hope you didn't kill anyone I know for it.  So, you supply the Pod and the entry fee; I supply the boy. We split the winnings fifty-fifty, I think. 
+quigon_jinn If it's going to be fifty-fifty, I suggest you front the cash for the entry. If we win, you keep all the winnings, minus the cost of the parts I need... If we lose, you keep my ship. 
+quigon_jinn  Either way, you win. 
+watto Deal! 
+watto   Yo bana pee ho-tah, meedee ya.  
+obiwan_kenobi What if this plan fails, Master? We could be stuck here for a long time. 
+quigon_jinn  Well, it's too dangerous to call for help now. A ship without a power supply isn't gonna get us anywhere, and... there is something about this boy... 
+quigon_jinn You should be proud of your son. He gives without any thought of reward. 
+shmi_skywalker Well he knows nothing of greed. He has a... 
+quigon_jinn He has special powers. 
+shmi_skywalker Yes... 
+quigon_jinn He can see things before they happen. That's why he appears to have such quick reflexes. It is a Jedi trait. 
+shmi_skywalker He deserves better than a slave's life. 
+quigon_jinn Had he been born in the Republic, we would have identified him early. The Force is unusually strong with him, that much is clear. Who is his father? 
+shmi_skywalker There was no father. I carried him, I gave birth, I raised him, I can't explain what happened. 
+shmi_skywalker  Can you help him? 
+quigon_jinn I don't know. I didn't actually come here to free slaves. 
+kitser Wow, a real Astro Droid... how'd you get so lucky? 
+anakin_skywalker This isn't the half of it. I'm entered in the Boonta Race tomorrow! 
+kitser What? With this?? 
+wald#unknown#StarWars.Episode01  Ona joka, Annie.  
+amee#unknown#StarWars.Episode01 You've been working on that thing for years. 
+little_girl#unknown#StarWars.Episode01 It's never gonna run. 
+seek Come on, let's go and play ball. Keep racing, Ani, you're gonna be bug squash. 
+anakin_skywalker Hey! Jar Jar! Keep away from those energy binders... If your hand gets caught in that beam, it will go numb for hours. 
+jar_jar_binks Ouch muy tonge is fat. Muy togne. Oucho.  
+jar_jar_binks Hey! Ou-oh. Ow, hey, I'm stuck. 
+c3po You know, I find that Jar Jar creature very... odd. 
+kitser You don't even know if this things gonna run. 
+anakin_skywalker It will. 
+quigon_jinn I guess it's time we found out. Here use this power charge. 
+quigon_jinn Come on Kitster. Lets move away. 
+jar_jar_binks Mm... my mout. I'm stuck. Hep I'm s.. 
+jar_jar_binks Muy tonge is fat... 
+c3po You're quite right. He's very odd indeed. 
+jar_jar_binks Ow, th... thank yous. 
+anakin_skywalker It's working! It's working! 
+quigon_jinn Stay still, Annie. Let me clean this cut. 
+anakin_skywalker There are so many! Do they all have a system of planets? 
+quigon_jinn Most of them. 
+anakin_skywalker Has anyone been to them all? 
+quigon_jinn  Not likely. 
+anakin_skywalker I want to be the first one to see them all ... 
+shmi_skywalker  Annie, bedtime! 
+anakin_skywalker  ... Ouch! 
+quigon_jinn There we are, good as new... 
+shmi_skywalker  Ani! I'm not going to tell you again! 
+anakin_skywalker What are you doing? 
+quigon_jinn Checking your blood for infections. 
+quigon_jinn You have a big day tomorrow.  Goodnight. 
+quigon_jinn  Obi-Wan... 
+obiwan_kenobi Yes, Master. 
+quigon_jinn I need an analysis of this blood sample I'm sending you. 
+obiwan_kenobi Wait a minute... 
+quigon_jinn I need a midi-chlorian count. 
+obiwan_kenobi The reading's off the chart... over twenty thousand.  Even Master Yoda doesn't have a midi-chlorian count that high! 
+quigon_jinn No Jedi has. 
+obiwan_kenobi What does that mean? 
+quigon_jinn I'm not sure. 
+watto ... I wanta see your spaceship the moment the race is over. 
+quigon_jinn Patience, my good friend. You'll have your winnings before the suns set, and we'll be far away from here. 
+watto Not if your ship belongs to me, I think... I warn you, no funny business. 
+quigon_jinn You don't think Anakin will win? 
+watto Don't get me wrongo. I have great faith in the boy. He's a credit to your race, but Sebulba there is going to win, I think. 
+jar_jar_binks Oh-no! 
+quigon_jinn Why do you think that? 
+watto He always wins.  I'm betting heavily on Sebulba. 
+quigon_jinn I'll take that bet. 
+watto  You'll what??!! 
+quigon_jinn I'll wager my new racing pod against... say... the boy and his mother. 
+watto No Pod's worth two slaves ... not by a long shot. 
+quigon_jinn The boy, then ... 
+watto We'll let fate decide, huh. I just happen to have a chance cube here. Blue it's the boy, red his mother... 
+watto  You won the small toss, outlander, bou you won't win the race, so ... it makes little difference. 
+watto  Ouna bakeesa. Bonapa keesa pateeso, o wanna meetee chobodd.  
+anakin_skywalker What'd he mean by that? 
+quigon_jinn I'll tell you later. Goodmorning. 
+c3po Oh my! Space travel sounds rather perilous. 
+c3po I can assure you they will never get me onto one of those dreadful starships! 
+kitser  This is so wizard Ani! I'm sure you'll do it this time. 
+padme Do what? 
+kitser Finish the race, of course! 
+padme You've never won a race? 
+anakin_skywalker Well... not exactly... 
+padme Not even finished?! 
+anakin_skywalker ... Kitster's right, I will this time. 
+quigon_jinn Of course you will. 
+fode Toogi! Toogie! Toong mee cha kulkah du Boonta magi! tah oos azalus ooval Poddraces. 
+beed That's absolutly right. And a big turnout here, from all corners of the Outer Rim territories. I see the contestants are making their way out onto the starting grid. 
+fode La Yma beestoo. 
+beed I see Ben Quadinaros from the Tund system. 
+fode ... eh Gasgano doowa newpa Ord Petrovia! 
+beed Two time winner, Boles Roor ... 
+fode Poo tula moosta, woe grane champio Sebulba du Pixelito! Splastyleeya bookie ookie!! 
+beed And a late entry, Anakin Skywalker, a local boy. 
+fode Wampa peedunkee unko. 
+beed I see the flaggers are moving onto the track. 
+jar_jar_binks Peeusa! 
+sebulba Bazda wahota, shag. Dobiella Nok.  
+anakin_skywalker  Cha skrundee da pat, sleemo.  
+sebulba  Yoka to Bantha poodoo.  
+quigon_jinn You all set, Ani? 
+anakin_skywalker Yep. 
+quigon_jinn All right. 
+quigon_jinn Remember, concentrate on the moment. Feel. Don't think. Use your instincts. 
+anakin_skywalker I will. 
+quigon_jinn  May the Force be with you. 
+fode O grandio lust amu intoe tah parena, Jabba Du Hutt. 
+jabba_the_hutt  Chowbaso! Tam ka chee Boonta rulee ya, kee madda hodrudda du wundee.  
+shmi_skywalker Is he nervous? 
+quigon_jinn He's fine. 
+padme You Jedi are far too reckless. The Queen is not... 
+quigon_jinn The Queen trusts my judgment, young handmaiden. You should too. 
+padme You assume too much. 
+beed Start your engines. 
+jar_jar_binks Oh, dissen ganna be messy! Mesa no watchen. 
+fode An dare ovv! 
+beed Oh...wait. Little Skywalker has stalled. 
+beed Well it looks like Quadrinaros is having engine trouble also. 
+jar_jar_binks C'mon Ani! 
+beed And there goes Skywalker... 
+jar_jar_binks Go Ani, go! 
+beed  He'll be hard pressed to catch up with the leaders. 
+beed Looks like a few Tusken Riaders have camped out on the canyon dune turn. 
+beed Ooo! There goes Quadrinaros power cuppling. 
+fode Sebulba! Ka pa me cheespa wata! 
+fode Ody Mandrell! Coona wa wunda dunko! 
+ody#unknown#StarWars.Episode01 Droids! 
+c3po Where is master Anakin? 
+padme Look, here he comes! 
+beed It looks like Skywalker is moving up in the field... 
+c3po He has to complete two more circuits? Oh dear! 
+beed Oh, I don't care what universe you're from, that's gotta hurt. 
+jar_jar_binks Here he comes, yahoo! 
+beed At the start of the third and final lap, Sebulba is in the lead, closely followed by Skywalker... 
+beed Skywalker's been forced onto the service ramp! 
+beed It's Skywalker! 
+beed  Amazing... a quick controlled thrust and he's back on course! 
+jar_jar_binks Did he crashed? 
+beed Skywalker's in trouble. Sebulba takes the lead. 
+beed He's catching Sebulba. 
+fode Inkabunga. 
+jar_jar_binks Careful, Ani, careful, Ani! 
+beed That little human being is out of his mind. 
+fode Punda tah punda! 
+beed They're side by side! 
+fode Bongo du bongu! 
+sebulba Poodu! 
+c3po I can't believe it. 
+beed The crowds are going nuts! Oh Ah Oh Ah  
+anakin_skywalker Mom! I did it! Yeah! 
+jar_jar_binks Great job, Ani! 
+padme We owe you everything, Ani. 
+shmi_skywalker It's so wonderful, Ani. You have brought hope to those who have none. I'm so very proud of you... 
+anakin_skywalker Ah... 
+watto You! You swindled me! You knew the boy was going to win! Somehow you knew it! I lost everything. 
+quigon_jinn Whenever you gamble, my friend, eventually you'll lose. Bring the parts to the main hanger. I'll come by your shop later so you can release the boy. 
+watto You can't have him! It wasn't a fair bet! 
+quigon_jinn Would you like to discuss it with the Hutts ... I'm sure they can settle this. 
+watto Take him! 
+quigon_jinn Well, we have all the essential parts we need. I'm going back...some unfinished business. I won't be long. 
+obiwan_kenobi Why do I sense we've picked up another pathetic life form...? 
+quigon_jinn It's the boy who's responsible for getting those parts. Get this hyperdrive generator installed. 
+obiwan_kenobi Yes, Master. It shouldn't take long. 
+quigon_jinn Hi! 
+anakin_skywalker  Yes! 
+anakin_skywalker Mom, he sold the Pod. Look at all the money we have! 
+shmi_skywalker Oh, my goodness, That's wonderful Ani. 
+quigon_jinn And Anakin has been freed. 
+anakin_skywalker What?!? 
+quigon_jinn You're no longer a slave. 
+anakin_skywalker Did you hear that? 
+shmi_skywalker Now you can make your dreams come true, Annie. You're free!  Will you take him with you? Is he to become a Jedi? 
+quigon_jinn Yes. Our meeting was not a coincidence. Nothing happens by accident. 
+anakin_skywalker You mean I get to come with you in your starship?! 
+quigon_jinn Anakin, training to become a Jedi is not be a easy challenge. And if you succeed, it's a hard life. 
+anakin_skywalker But I want to go. It's what I've always dreamed of doing. Can I go, Mom?! 
+shmi_skywalker Anakin, this path has been placed for you; the choice is yours alone. 
+anakin_skywalker I want to do it. 
+quigon_jinn Then, pack your things. We haven't much time. 
+anakin_skywalker Yipee!! 
+anakin_skywalker  What about Mom? Is she free too? 
+quigon_jinn I tried to free your mother, Ani, but Watto wouldn't have it. 
+anakin_skywalker You're coming, aren't you, Mom? 
+shmi_skywalker Son, my place is here. My future is here. It is time for you to let go... 
+anakin_skywalker I don't want things to change. 
+shmi_skywalker But you can't stop change any more than you can stop the suns from setting. Now... hurry. 
+shmi_skywalker  Thank you. 
+quigon_jinn I'll watch after him. You have my word. Will you be all right? 
+c3po Oh! Oh my, oh. Hello Master Anakin. 
+anakin_skywalker Well, Threepio, I'm free ... and I'm going away ... in a starship ... 
+c3po Master, Annie, you are my maker, and I wish you well. However, I should prefer it if I were a little more... comepleted. 
+anakin_skywalker I'm sorry I wasn't able to finish you, Threepio ... give you coverings and all ... I'm going to miss working on you. You've been a great pal. I'll make sure Mom doesn't sell you or anything. 
+c3po Sell me?!? 
+anakin_skywalker Bye. 
+anakin_skywalker  I can't do it, Mom. I just can't do it. 
+shmi_skywalker Annie... 
+anakin_skywalker Will I ever see you again? 
+shmi_skywalker What does your heart tell you? 
+anakin_skywalker I hope so... yes... I guess. 
+shmi_skywalker Then we will see each other again. 
+anakin_skywalker I will come back and free you, Mom... I promise. 
+shmi_skywalker Now be brave, and don't look back... don't look back. 
+anakin_skywalker Qui-Gon, sir, wait, I'm tired! 
+quigon_jinn Anakin, drop! 
+quigon_jinn  Annie, tell them to take off! 
+captain_panaka Qui-Gon's in trouble! 
+obiwan_kenobi Take off. Over there! Fly low! 
+anakin_skywalker Are you all right? 
+quigon_jinn I think so. 
+obiwan_kenobi What was it? 
+quigon_jinn I'm not sure... but he was well trained in the Jedi arts. My guess is he was after the Queen... 
+anakin_skywalker What are we going to do about it? 
+quigon_jinn We will be patient. Anakin Skywalker, meet Obi-Wan Kenobi. 
+anakin_skywalker Hi. You're a Jedi too? Pleased to meet you. 
+nute_gunray#unknown#StarWars.Episode01 Your Queen is lost, your people are starving, and you, Governor, are going to die, much sooner than your people, I'm afraid. 
+sio_bibble This invasion will gain you nothing. We're a democracy. The people have decided... 
+nute_gunray#unknown#StarWars.Episode01 Take him away. 
+oom-9#unknown#StarWars.Episode01 My troops are in position to begin searching the swamps for these rumored underwater villages... they will not stay hidden for long. 
+padme Are you all right? 
+anakin_skywalker It's very cold. 
+padme You come from a warm planet, Annie. A little too warm for my taste. Space is cold. 
+anakin_skywalker You seem sad. 
+padme The Queen is... worried. Her people are suffering... dying. She must convince the Senate to intervene, I'm not sure what will happen. 
+anakin_skywalker  I made this for you. So you'd remember me. I carved it out of a japor snippet... It will bring you good fortune. 
+padme It's beautiful, but I don't need this to remember you by. Many things will change when we reach the capital, Ani. My caring for you will remain. 
+anakin_skywalker I care for you too. Only I... 
+padme ...Miss your mother. 
+ric_olie Coruscant... the entire planet is one big city. There's Chancellor Valorum's shuttle. And look over there, Senator Palpatine is waiting for us. 
+the_emperor It is a great gift to see you alive, Your Majesty. With the communications breakdown, we've become very concerned. I'm anxious to hear your report on the situation. May I present Supreme Chancellor Valorum. 
+chancellor_valorum Welcome, Your Highness. It's an honor to finally meet you in person. 
+padme Thank you, Supreme Chancellor. 
+chancellor_valorum  I must relay to you how distressed everyone is over the currant situation. I've called for a special session of the Senate to hear your position. 
+padme I am grateful for your concern, Chancellor. 
+the_emperor There is a question of precedure, but I feel confident we can overcome it... 
+quigon_jinn I must speak with the Jedi Council immediately. The situation has become more complicated. 
+the_emperor ...the Republic is not what it once was. The Senate is full of greedy, squabbling delegates. There is no interest in the common good. I must be frank, Your Majesty, there is little chance the Senate will act on the invasion. 
+padme Chancellor Valorum seems to think there is hope. 
+the_emperor If I may say so, Your Majesty, the Chancellor has little real power... he is mired by baseless accusations of corruption. The bureaucrats are in charge now. 
+padme What options have we? 
+the_emperor Our best choice would be to push for the election of a stronger Supreme Chancellor. One who will take control of the bureaucrats, and give us justice. You could call for a vote of no confidence in Chancellor Valorum. 
+padme He has been our strongest supporter? 
+the_emperor Our only other choice would to be to submit a plea to the courts... 
+padme The courts take even longer to decide things than the Senate. Our people are dying, Senator... We must do something quickly to stop the Federation. 
+the_emperor To be realistic, Your Majesty, I think we're going to have to accept Federation control for the time being. 
+padme That is something I cannot do. 
+quigon_jinn ... He was trained in the Jedi arts. My only conclusion can be that it was a Sith Lord. 
+kiadimundi Impossible! The Sith have been extinct for a millenium. 
+mace_windu I do not believe the Sith could have returned without us knowing. 
+yoda Ah, hard to see, the dark side is. 
+mace_windu We will use all our resources here to unravel this mystery and discover the identity of your attacker... May the Force be with you. 
+yoda  Master Qui-Gon more to say have you? 
+quigon_jinn With your permission, my Master. I have encountered a vergence in the Force. 
+yoda A vergence, you say? 
+mace_windu Located around a person? 
+quigon_jinn A boy... his cells have the highest concentration of midi-chlorians I have ever seen in a life form. It is possible he was conceived by the midi-chlorians. 
+mace_windu You're referring to the prophesy of the one who will bring balance to the Force... you believe it's this boy?? 
+quigon_jinn I don't presume... 
+yoda But you do! Revealed your opinion is. 
+quigon_jinn I request the boy be tested, Master. 
+yoda Trained as a Jedi, you request for him? 
+quigon_jinn Finding him was the will of the Force... I have no doubt of that. 
+mace_windu Bring him before us, then. 
+guard#unknown#StarWars.Episode01 The boy is here to see Padme. 
+rabe  Let him in. 
+rabe I'm sorry, Ani, but Padme is not here right now. 
+padme  Who is it? 
+rabe Anakin Skywalker, to see Padme, Your Highness. 
+padme I've sent Padme on an errand. 
+anakin_skywalker I'm on my way to the Jedi temple to start my training, I hope. 
+anakin_skywalker  I may not see her again... so... I came to say goodbye. 
+padme We will tell her for you. We are sure her heart goes with you. 
+anakin_skywalker Thank you, Your Highness. 
+chancellor_valorum The Chair recognizes the Senator from the sovereign system of Naboo. 
+the_emperor Supreme Chancellor, delegates of the Senate. A tragedy has occurred which started with the taxation of trade routes, and has now engulfed our entire planet in the oppression of the Trade Federation. 
+lott_dod This is outrageous! I object to the Senator's statements! 
+chancellor_valorum The Chair does not recognize the Senator from the Trade Federation at this time. Please return to your station. 
+the_emperor To state our allegations, I present Queen Amidala, recently elected ruler of Naboo, who speaks on our behalf. 
+padme Honorable representatives of the Republic, I come to you under the gravest of circumstances. Naboo system has been invaded by the droid armies of the Trade... 
+lott_dod I object! There is no proof. This is incredible. We recommend a commission be sent to Naboo to ascertain the truth. 
+aks_moe The Congress of Malastare concurs with the honorable delegate from the Trade Federation. A commission must be appointed. 
+chancellor_valorum The point... 
+the_emperor Enter the bureaucrats, the true rulers of the Republic, and on the payroll of the Trade Federation, I might add. This is where Chancellor Valorum's strength will dissapear. 
+chancellor_valorum The point is conceded ... will you defer your motion to allow a commission to explore the validity of your accusations? 
+padme  I will not defer... I have come before you to resolve this attack on our sovereignty now. I was not elected to watch my people suffer and die while you discuss this invasion in a committee. If this body is not capable of action, I suggest new leadership is needed... I move for a "vote of no confidence"... in Chancellor Valorum's leadership. 
+assembly#unknown#StarWars.Episode01 Vote now! Vote now! Vote now! 
+mas_amedda Order! 
+the_emperor Now they will elect a new Chancellor, a strong Chancellor, one who will not let our tragedy continue... 
+obiwan_kenobi The boy will not pass the Council's tests, Master. He's too old. 
+quigon_jinn Anakin will become a Jedi ... I promise you. 
+obiwan_kenobi Do not defy the Council, Master... not again. 
+quigon_jinn I shall do what I must, Obi-Wan. 
+obiwan_kenobi If you would just follow the code you would be on the council. They will not go along with you this time. 
+quigon_jinn You still have much to learn, my young apprentice. 
+anakin_skywalker A ship... a cup... a ship... a speeder. 
+yoda Hmm... how feel you? 
+anakin_skywalker Cold, sir. 
+yoda Afraid are you? 
+anakin_skywalker No, sir. 
+yoda See through you, we can. 
+mace_windu Be mindful of your feelings... 
+kiadimundi Your thoughts dwell on your mother. 
+anakin_skywalker I miss her. 
+yoda Afraid to lose her... I think, hmm? 
+anakin_skywalker  What's that got to do with anything? 
+yoda Everything. Fear is the path to the dark side... fear leads to anger... anger leads to hate.. hate leads to suffering... I sense much fear in you. 
+jar_jar_binks Yousa tinken yousa people ganna die? 
+padme I don't know. 
+jar_jar_binks Gungans get pasted too, eh? 
+padme I hope not. 
+jar_jar_binks Gungans no die'n without a fight... wesa warriors. Wesa gotta grand army. Dat why yousa no liken us, mesatinks. 
+captain_panaka Your Highness? Your Highness, Senator Palpatine has been nominated to succeed Valorum as Supreme Chancellor. 
+the_emperor A surprise, to be sure, but a welcome one. Your Majesty, if I am elected, I promise put an end to corruption. 
+padme Who else can be nominated? 
+captain_panaka Bail Antilles of Alderaan and Ailee Teem of Malastare. 
+the_emperor I feel confident ... our "situation" will create a strong sympathy vote for us ... I will be Chancellor. 
+padme I fear by the time you have control of the bureaucrats, Senator, there will be nothing left of our our people, our way of life... 
+the_emperor I understand your concern, Your Majesty; unfortunately, the Federation has possession of our planet. 
+padme Senator, this is your arena. I feel I must return to mine. I've decided to go back to Naboo. 
+the_emperor Go back!! But, Your Majesty, be realistic! They'll force you to sign the treaty. 
+padme I will sign no treaty, Senator. My fate will be no different from that of our people. Captain! 
+captain_panaka Your Highness? 
+padme Ready my ship! 
+captain_panaka Please, Your Majesty, stay here... where it's safe. 
+padme It is clear to me now that the Republic no longer functions. I pray you will bring sanity and compassion back to the Senate. 
+kiadimundi The Force is strong with him. 
+quigon_jinn He's to be trained, then? 
+mace_windu No. He will not be trained. 
+mace_windu He is too old. 
+quigon_jinn He is the chosen one... you must see it. 
+yoda Clouded, this boy's future is. 
+quigon_jinn I will train him, then. I take Anakin as my Padawan learner. 
+yoda An apprentice, you have, Qui-Gon. Impossible, to take on a second. 
+mace_windu The code forbids it. 
+quigon_jinn Obi-Wan is ready... 
+obiwan_kenobi I am ready to face the trials. 
+yoda Our own council we will keep on who is ready. 
+quigon_jinn He is headstrong and he has much to learn of the living Force, but he is capable. There is little more he can learn from me. 
+yoda Young Skywalker's fate will be decided later. 
+mace_windu Now is not the time for this... the Senate is voting for a new Supreme Chancellor and Queen Amidala is returning home, which will put pressure on the Federation, and could widen the confrontation. 
+kiadimundi And draw out the Queen's attacker. 
+mace_windu Go with the Queen to Naboo and discover the identity of the dark warrior. That is the clue we need to unravel this mystery of the Sith. 
+yoda May the Force be with you. 
+obiwan_kenobi It is not disrespect, Master, it is the truth. 
+quigon_jinn From your point of view.... 
+obiwan_kenobi The boy is dangerous... they all sense it. Why can't you? 
+quigon_jinn His fate is uncertain, he's not dangerous. The Council will decide Anakin's future... that should be enough for you. Now get on board! 
+anakin_skywalker Master Qui-Gon, sir, I don't want to be a problem. 
+quigon_jinn You won't be, Ani... I'm not allowed to train you, so I want you to watch me and be mindful... 
+quigon_jinn  ... always remember, your focus determines your reality. Stay close to me and you will be safe. 
+anakin_skywalker Master, sir... I heard Yoda talking about midi-chlorians. I've been wondering, what are midi-chlorians? 
+quigon_jinn Midi-chlorians are a microcopic lifeform that reside within all living cells. 
+anakin_skywalker They live inside of me? 
+quigon_jinn In your cells, yes... and we are symbionts with them. 
+anakin_skywalker Symbionts? 
+quigon_jinn Life forms living together for mutual advantage. Without the midi-chlorians, life could not exist, and we would have no knowledge of the Force. They continually speak to us, telling us the will of the Force. When you learn to quiet your mind, you will hear them speaking to you. 
+anakin_skywalker I don't understand. 
+quigon_jinn With time and training, Ani... you will... you will. 
+quigon_jinn  Your Majesty, it is our pleasure to continue to serve and protect you. 
+padme I welcome your help. Senator Palpatine fears the Federation means to destroy me. 
+quigon_jinn I assure you, I will not let that happen. 
+jar_jar_binks Wesa goen home! 
+anakin_skywalker C'mon, Artoo. 
+the_emperor Is the planet secure? 
+nute_gunray#unknown#StarWars.Episode01 We have taken over the last pockets of primitive life forms. We are in complete control of the planet now. 
+the_emperor Good. I will see to it that in the Senate, things stay as they are. I'm sending my apprentice, Darth Maul, to join you. 
+nute_gunray#unknown#StarWars.Episode01 Yes, my Lord. 
+rune_haako A Sith Lord here?!! 
+ric_olie Those are the forward stabalizers. 
+anakin_skywalker And those two control the pitch? 
+ric_olie You catch on pretty quick. 
+captain_panaka As soon as we land the Federation will arrest you, and force you to sign the treaty. 
+quigon_jinn I agree... I'm not sure what you wish to accomplish by this. 
+padme I will take back what's ours. 
+captain_panaka There are too few of us, Your Highness.... we have no army. 
+quigon_jinn And I can only protect you. I cannot fight a war for you. 
+padme Jar Jar Binks! 
+jar_jar_binks Mesa, Your Highness? 
+padme Yes. I need your help. 
+ric_olie I have one battleship on my scope. 
+obiwan_kenobi It's a droid control ship. 
+captain_panaka They've probably spotted us. 
+obiwan_kenobi We haven't much time. 
+obiwan_kenobi Jar Jar is on his way to the Gungan city, Master. 
+quigon_jinn Good. 
+obiwan_kenobi Do you think the Queen's idea will work? 
+quigon_jinn The Gungans will not easily be swayed, and we cannot use our power to help her. 
+obiwan_kenobi I'm... I'm sorry for my behavior, Master. It is not my place to disagree with you about the boy... and I am grateful you think I am ready to take the trials. 
+quigon_jinn You've been a good apprentice, Obi-Wan, and you're a much wiser man than I am. I foresee you will become a great Jedi Knight. 
+jar_jar_binks Dare-sa nobody dare. Da Gungan city is diserted. Some kinda fight, mesa tinks. 
+obiwan_kenobi Do you think they have been taken to camps? 
+captain_panaka More likely they were wiped out. 
+jar_jar_binks Mesa no tink so. 
+quigon_jinn Do you know where they are, Jar Jar? 
+jar_jar_binks When in trouble, Gungans go to sacred place. Mesa show you. C'mon, mesa show you. 
+captain_tarpals You Honor, Queen Amidala of the Naboo. 
+jar_jar_binks Ah, ello dare, ye big Boss Nass, You Honor. 
+boss_nass Jar Jar Binks, who's da uss-en others?? 
+padme I am Queen Amidala of the Naboo... I come before you in peace. 
+boss_nass Ah, Naboo biggen. Yousa bringen da Mackineeks... Yousa all bombad. 
+padme We have searched you out 'cause we wish to form an alliance... 
+padme Your Honor... 
+boss_nass Whosa dis? 
+padme I am Queen Amidala. 
+padme  This is my decoy... my protection... my loyal bodyguard. 
+padme  ... I am sorry for my deception, but it was necessary to protect myself. Although we do not always agree, Your Honor, our two great societies have always lived in peace. The Trade Federation has destroyed all that we have worked so hard to build. If we do not act quickly, all will be lost forever... I ask you to help us... ... no, I beg you to help us. We are your humble servants... 
+padme  ... Our fate is in your hands. 
+boss_nass Yousa no tinken yousa greater den da Gungans.. Mesa like dis. 
+boss_nass  Maybe wesa bein friends. 
+nute_gunray#unknown#StarWars.Episode01 ... we've sent out patrols. We've already located their starship in the swamp... It won't be long, My Lord. 
+the_emperor This is an unexpected move for her. It's too aggressive... Lord Maul, be mindful. Let them make the first move. 
+darth_maul Yes, my Master. 
+gungan_guard Daza comen! 
+anakin_skywalker All right... 
+anakin_skywalker  ... They're here. 
+padme Good, they made it. 
+boss_nass Yousa doen grand. Jar Jar bringen usen an da Naboo together. 
+jar_jar_binks Oh, no, no, no... 
+boss_nass So, wesa make yous Bombad General. 
+jar_jar_binks General??! Oh, no.. 
+padme What is the situation? 
+captain_panaka Almost everyone's in camps. A few hundred police and guards have formed an underground resistance movement. I brought back as many of the leaders as I could. The Federation Army's also much larger than we thought, and much stronger. Your Highness, this is a battle I do not think we can win. 
+padme The battle is a diversion. The Gungans must draw the Droid Army away from the cities.  Artoo, we can enter the city using the secret passages on the waterfall side. Once we get to the main entrance, Captain Panaka will create a diversion. Then we can enter the palace and capture the Viceroy. Without the Viceroy, they will be lost and confused. 
+padme  What do you think, Master Jedi? 
+quigon_jinn The Viceroy will be well guarded. 
+captain_panaka The difficulty's getting into the throne room. Once we're inside, we shouldn't have a problem. 
+quigon_jinn There is a possibility, with this diversion many, Gungans will be killed. 
+boss_nass Wesa ready to do are-sa part. 
+padme We have a plan which should immobilize the Droid Army. We will send what pilots we have to knock out the Droid control ship orbiting the planet. 
+quigon_jinn A well-conceived plan. However, there's great risk. The weapons on your fighters may not penetrate the shields. 
+obiwan_kenobi And there's an even bigger danger. If the Viceroy escapes, Your Highness, he will return with another droid army. 
+padme Well that is why we must not fail to get to the Viceroy. Everything depends on it. 
+the_emperor ... she is more foolish than I thought. 
+nute_gunray#unknown#StarWars.Episode01 We are sending more troops to meet this army assembling in the swamp. It appears to be made up of primitives. 
+the_emperor This will work to our advantage. 
+nute_gunray#unknown#StarWars.Episode01 I have your approval to proceed then, My Lord. 
+the_emperor Wipe them out... all of them. 
+general_ceel#unknown#StarWars.Episode01 Halt! Starten up the shield. 
+quigon_jinn Once we get inside, you find a safe place to hide and stay there. 
+anakin_skywalker Sure. 
+quigon_jinn  Stay there! 
+nute_gunray#unknown#StarWars.Episode01 I thought the battle was going to take place far from here... this is too close! 
+quigon_jinn Ani, find cover, quick! 
+padme Get to your ships! 
+ric_olie Fighters straight ahead. 
+fighter_pilot_bravo_2 Roger, Brovo Leader. 
+fighter_pilot_bravo_3 Roger, Brovo Leader. 
+oom-9#unknown#StarWars.Episode01 Cease fire! 
+jar_jar_binks  Steady, steady. 
+rune_haako Activate the droids. 
+tey_how#unknown#StarWars.Episode01 Yes, sir! 
+captain_tarpals  Ouch time. 
+captain_tarpals Fire! 
+padme My guess is the Viceroy is in the throne room. 
+captain_panaka Red Group, Blue Group, everybody, this way. 
+anakin_skywalker Hey! Wait for me. 
+quigon_jinn Anakin, stay where you are. You'll be safe there. 
+anakin_skywalker But, I... 
+quigon_jinn Stay in that cockpit. 
+quigon_jinn  We'll handle this... 
+padme We'll take the long way. 
+anakin_skywalker We've gotta do something, Artoo! 
+anakin_skywalker I'm trying to. I don't know where the trigger is. 
+anakin_skywalker  Oops, wrong one.. Maybe this one.... 
+anakin_skywalker No. Wait, here it is. 
+padme Let's go! 
+anakin_skywalker Ah... It's on automatic pilot. 
+anakin_skywalker Try and override it. 
+padme We don't have time for this, Captain. 
+anakin_skywalker Look! There they are! That's where the autopilot is taking us. 
+ric_olie Their deflector shield is too strong. 
+anakin_skywalker This is tense! 
+anakin_skywalker  Artoo, get us off this Autopilot! It's gonna get us both killed! 
+anakin_skywalker  You did it, Artoo! 
+anakin_skywalker  Okay, let's go left! 
+anakin_skywalker  Go back!?! Qui-Gon told me to stay in this cockpit and that's what I'm gonna do. 
+anakin_skywalker  I'll try spinning, that's a good trick. 
+anakin_skywalker  I know we're in trouble! Just hang on! 
+captain_panaka Go! 
+jar_jar_binks Dis is nuttsen. 
+jar_jar_binks O, oh. 
+jar_jar_binks Hey, hey! Gimme a lift. 
+captain_tarpals Ja Ja! Usen da booba! 
+jar_jar_binks Wat! Mesa no have a booba. 
+captain_tarpals Here, taken dis one. 
+captain_tarpals Ja Ja! Jump Ja Ja! Jump! 
+padme Throw down your weapons. They win this round. 
+anakin_skywalker We're hit Artoo! Wah...! 
+anakin_skywalker I'm tring to stop. I'm tring to stop. 
+anakin_skywalker  Everything's overheated. 
+anakin_skywalker Oops! This is not good. 
+obiwan_kenobi Noooo! 
+general_ceel#unknown#StarWars.Episode01 No given up General Ja Ja. Wesa tink of sometin. 
+jar_jar_binks My giv up. My giv up. 
+nute_gunray#unknown#StarWars.Episode01 Your little insurrection is at an end, Your Highness. Time for you to sign the treaty... and end this pointless debate in the Senate. 
+sabe Viceroy, your occupation here has ended! 
+nute_gunray#unknown#StarWars.Episode01 After her! This one is a decoy! 
+captain_panaka  Jam the doors! 
+padme Now, Viceroy, we will discuss a new treaty. 
+anakin_skywalker Yes! We have power. Shields up. 
+anakin_skywalker Take this!... 
+anakin_skywalker ... and this! 
+anakin_skywalker Woa! 
+anakin_skywalker Oops. 
+tey_how#unknown#StarWars.Episode01 Sir, we're losing power... There seems to be a problem with the main reactor... 
+daultay_dofine Impossible!! Nothing can get through our shield. 
+anakin_skywalker Let's get out of here. 
+fighter_pilot_bravo_2 What's that?? It's blowing up from the inside. 
+ric_olie We didn't hit it. 
+anakin_skywalker  Now, this is Podracing! 
+fighter_pilot_bravo_3 Look! One of ours! Outta the main hold!! 
+anakin_skywalker Whoo, hoo! 
+jar_jar_binks Whatsen dey doin? 
+captain_tarpals The control ship has been destroyed. Look! 
+jar_jar_binks Dey all broken. 
+quigon_jinn It is too late... It's... 
+obiwan_kenobi No! 
+quigon_jinn Obi-Wan promise ... promise me you'll train the boy... 
+obiwan_kenobi Yes, Master... 
+quigon_jinn He is the chosen one... he will... bring balance... train him! 
+padme Now, Viceroy, you are going to have to go back to the Senate and explain all this. 
+captain_panaka I think you can kiss your Trade franchise goodbye. 
+the_emperor  We are indebted to you for your bravery, Obi-Wan Kenobi.  And you, young Skywalker, we will watch your career with great interest. 
+padme Congratulations on your election, Chancellor. 
+the_emperor Your boldness has saved our people, Your Majesty. It is you who should be congratulated. Together we shall bring peace and prosperity to the Republic. 
+yoda Confer on you, the level of Jedi Knight the Council does. But agree on you taking this boy as your Padawan learner, I do not. 
+obiwan_kenobi Qui-Gon believed in him. 
+yoda The Chosen One the boy may be; nevertheless, grave danger I fear in his training. 
+obiwan_kenobi Master Yoda, I gave Qui-Gon my word. I will train Anakin. Without the approval of the Council if I must. 
+yoda Qui-Gon's defiance I sense in you. Need that, you do not. Agree with you, the council does. Your apprentice, Skywalker will be. 
+anakin_skywalker What will happen to me now? 
+obiwan_kenobi The Council has granted me permission to train you. You will be a Jedi, I promise. 
+mace_windu There's no doubt. The mysterious warrior was a Sith. 
+yoda Always two there are.... no more... no less. A master and an apprentice. 
+mace_windu But which one was destroyed, the master or the apprentice? 
+boss_nass Peace!
