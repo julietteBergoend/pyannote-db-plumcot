@@ -295,7 +295,7 @@ luke_skywalker Blast it!
 c3po Pardon me, sir, but couldn't we go after him?
 luke_skywalker It's too dangerous with all the Sandpeople around.
 luke_skywalker We'll have to wait until morning.
-luke_skywalker Uncle Owen: Luke!
+uncle_owen Luke!
 uncle_owen I'm shutting the power down.
 clone_trooper All right!
 luke_skywalker I'll be there in a few minutes.
@@ -721,7 +721,7 @@ obiwan_kenobi Don't trust them.
 obiwan_kenobi Stretch out with your feelings.
 han_solo You see?
 obiwan_kenobi You can do it.
-han_solo Han: I call it luck.
+han_solo I call it luck.
 obiwan_kenobi In my experience, there's no such thing as luck.
 han_solo Look, good against remotes is one thing.
 han_solo Looks like we're coming up on Alderaan.
@@ -913,18 +913,18 @@ c3po Master Luke, sir, pardon me for asking, but what should R2 and I do if we'r
 c3po Lock the door.
 han_solo And hope they don't have blasters.
 c3po That isn't very reassuring.
-luke_skywalker Luke: I can't see a thing in this helmet.
-han_solo Han: This is not gonna work.
-luke_skywalker Luke: Why didn't you say so before?
+luke_skywalker I can't see a thing in this helmet.
+han_solo This is not gonna work.
+luke_skywalker Why didn't you say so before?
 luke_skywalker I did say so before.
 c3po Where are you taking this thing?
 officer#unknown#StarWars.Episode04 I wasn't notified.
 officer#unknown#StarWars.Episode04 I'll have to clear it.
-han_solo Han: Look out!
+han_solo Look out!
 han_solo He's loose!
 luke_skywalker I'll get him!
 luke_skywalker Look out!
-han_solo Han: We gotta find out which cell this princess of yours is in.
+han_solo We gotta find out which cell this princess of yours is in.
 han_solo You go and get her.
 han_solo I'll hold them here.
 han_solo Uh Uh, everything's under control.
@@ -987,7 +987,7 @@ luke_skywalker We've been cut off!
 c3po What was that?
 luke_skywalker I didn't copy.
 c3po I said all systems have been alerted to your presence, sir.
-clone_trooper Stormtrooper: Open up in there!
+clone_trooper Open up in there!
 clone_trooper Open up in there!
 luke_skywalker Oh, no!
 chief_pilot#unknown#StarWars.Episode04 There isn't any other way out!
@@ -1255,7 +1255,7 @@ voice_over_death_star_intercom#unknown#StarWars.Episode04 We are preparing to or
 general_dodonna The battle station is heavily shielded and carries a firepower greater than half the starfleet.
 general_dodonna Its defenses are designed around a direct large-scale assault.
 general_dodonna A small, one-man fighter should be able to penetrate the outer defense.
-gold_leader Pilot: Pardon me for asking, sir, but what good are snub fighters going to be against that?
+pilot#unknown#StarWars.Episode04 Pardon me for asking, sir, but what good are snub fighters going to be against that?
 general_dodonna The Empire doesn't consider a small, one-man fighter to be any threat, or they'd have a tighter defense.
 general_dodonna An analysis of the plans provided by Princess Leia has demonstrated a weakness in the battle station.
 general_dodonna The approach will not be easy.
@@ -1325,7 +1325,7 @@ luke_skywalker That little droid and I have been through a lot together.
 luke_skywalker Good.
 luke_skywalker You've got to come back.
 c3po You wouldn't want my life to get boring, would you?
-general_dodonna Obi-Wan: Luke, the Force will be with you.
+obiwan_kenobi Luke, the Force will be with you.
 luke_skywalker Standby alert.
 massassi_outpost_announcer_ Death Star approaching.
 massassi_outpost_announcer_ Estimated time to firing range, 15 minutes.
@@ -1495,7 +1495,7 @@ luke_skywalker Hurry up, Luke!
 voice#unknown#StarWars.Episode04 Rebel base, 30 seconds and closing.
 darth_vader I'm on the leader.
 c3po Hang on, R2.
-darth_vader Obi-Wan: Use the Force, Luke.
+obiwan_kenobi Use the Force, Luke.
 obiwan_kenobi Let go, Luke.
 darth_vader The Force is strong with this one.
 obiwan_kenobi Luke, trust me.
@@ -1518,7 +1518,7 @@ han_solo Now let's blow this thing and go home!
 luke_skywalker Stand by.
 han_solo Great shot, kid!
 han_solo That was one in a million!
-obiwan_kenobi Obi-Wan: Remember, the Force will be with you always.
+obiwan_kenobi Remember, the Force will be with you always.
 aunt_beru Luke!
 luke_skywalker Hey!
 luke_skywalker Hey!
