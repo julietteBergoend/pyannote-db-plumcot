@@ -3,10 +3,10 @@ anakin_skywalker Master, General Grievous's ship is directly ahead- the one craw
 obiwan_kenobi I see it.
 obiwan_kenobi Oh, this is going to be easy.
 obiwan_kenobi - Oddball, do you copy?
-odd_ball#unknown#StarWars.Episode03 - Copy, Red Leader.
+r2d2 - Copy, Red Leader.
 obiwan_kenobi Form your squad up behind me.
-odd_ball#unknown#StarWars.Episode03 We're on your tail, General Kenobi.
-odd_ball#unknown#StarWars.Episode03 Set S-foils in attack position.
+r2d2 We're on your tail, General Kenobi.
+r2d2 Set S-foils in attack position.
 anakin_skywalker This is where the fun begins.
 obiwan_kenobi Let them pass between us.
 obiwan_kenobi They're all over me.
@@ -63,13 +63,13 @@ obiwan_kenobi Spring the trap.
 anakin_skywalker R2, go back.
 anakin_skywalker I need you to stay with the ship.
 obiwan_kenobi Take this and wait for orders.
-general_grievous What's the situation, Captain?
+general_grievous#unknown#StarWars.Episode03 What's the situation, Captain?
 captain_raymus_antilles Two Jedi have landed in the main hangar bay.
-general_grievous Just as Count Dooku predicted.
+general_grievous#unknown#StarWars.Episode03 Just as Count Dooku predicted.
 anakin_skywalker Destroyers.
 battle_droid Drop your weapons.
 battle_droid I said drop 'em.
-droid#unknown#StarWars.Episode03 - Roger, roger.
+battle_droid - Roger, roger.
 obiwan_kenobi - Did you press the stop button?
 obiwan_kenobi - No.
 anakin_skywalker There's more than one way out of here.
@@ -87,7 +87,7 @@ anakin_skywalker R2, can you hear me?
 obiwan_kenobi Stop.
 obiwan_kenobi Stop.
 obiwan_kenobi R2, we need to be going up.
-droid#unknown#StarWars.Episode03 Hands up, Jedi.
+battle_droid Hands up, Jedi.
 obiwan_kenobi R2, do you copy?
 anakin_skywalker R2, do you hear me?
 obiwan_kenobi R2, we need to be going up, not down.
@@ -104,14 +104,14 @@ anakin_skywalker - Are you all right?
 anakin_skywalker Count Dooku.
 obiwan_kenobi - This time we will do it together.
 anakin_skywalker - I was about to say that.
-senator_palpatine Get help.
-senator_palpatine You're no match for him.
-senator_palpatine He's a Sith lord.
+the_emperor Get help.
+the_emperor You're no match for him.
+the_emperor He's a Sith lord.
 obiwan_kenobi Chancellor Palpatine, Sith lords are our speciality.
 count_dooku Your swords, please.
 count_dooku We don't want to make a mess of things in front of the chancellor.
 obiwan_kenobi You won't get away this time, Dooku.
-naboo_royal_security_guard I've been looking forward to this.
+naboo_royal_guard I've been looking forward to this.
 anakin_skywalker My powers have doubled since the last time we met, Count.
 count_dooku Good.
 count_dooku Twice the pride, double the fall.
@@ -121,26 +121,26 @@ obiwan_kenobi You have anger.
 anakin_skywalker But you don't use them.
 obiwan_kenobi Good, Anakin.
 count_dooku Good.
-senator_palpatine Kill him.
-senator_palpatine Kill him now.
+the_emperor Kill him.
+the_emperor Kill him now.
 anakin_skywalker I shouldn't.
-senator_palpatine Do it.
-senator_palpatine You did well, Anakin.
-senator_palpatine He was too dangerous to be kept alive.
+the_emperor Do it.
+the_emperor You did well, Anakin.
+the_emperor He was too dangerous to be kept alive.
 anakin_skywalker Yes, but he was an unarmed prisoner.
 anakin_skywalker I shouldn't have done that.
 anakin_skywalker It's not the Jedi way.
-senator_palpatine It is only natural.
-senator_palpatine He cut off your arm, and you wanted revenge.
-senator_palpatine It wasn't the frst time, Anakin.
-senator_palpatine Remember what you told me about your mother and the Sand People?
-senator_palpatine Now we must leave before more security droids arrive.
+the_emperor It is only natural.
+the_emperor He cut off your arm, and you wanted revenge.
+the_emperor It wasn't the frst time, Anakin.
+the_emperor Remember what you told me about your mother and the Sand People?
+the_emperor Now we must leave before more security droids arrive.
 obiwan_kenobi Anakin, there's no time.
-senator_palpatine We must get off this ship before it's too late.
+the_emperor We must get off this ship before it's too late.
 anakin_skywalker - He seems to be all right.
-senator_palpatine - Leave him, or we'll never make it.
+the_emperor - Leave him, or we'll never make it.
 anakin_skywalker His fate will be the same as ours.
-general_grievous Prepare for attack!
+general_grievous#unknown#StarWars.Episode03 Prepare for attack!
 pilot#unknown#StarWars.Episode03 All batteries, fre!
 pilot#unknown#StarWars.Episode03 Fire!
 anakin_skywalker Elevator's not working.
@@ -149,7 +149,7 @@ pilot#unknown#StarWars.Episode03 - Reverse stabilizers.
 pilot#unknown#StarWars.Episode03 - Reversing stabilizers.
 pilot#unknown#StarWars.Episode03 Magnetize!
 pilot#unknown#StarWars.Episode03 Magnetize!
-general_grievous Fire the emergency booster engines.
+general_grievous#unknown#StarWars.Episode03 Fire the emergency booster engines.
 pilot#unknown#StarWars.Episode03 We're levelling out, sir.
 anakin_skywalker Easy.
 anakin_skywalker We're in a bit of a situation here.
@@ -163,9 +163,9 @@ obiwan_kenobi Jump!
 obiwan_kenobi Let's see if we can fnd something in the hangar bay that's still flyable.
 anakin_skywalker R2, get down here.
 obiwan_kenobi R2, do you copy?
-naboo_royal_security_guard General, we found the Jedi.
-naboo_royal_security_guard They're in hallway 328.
-general_grievous Activate ray shields.
+naboo_royal_guard General, we found the Jedi.
+naboo_royal_guard They're in hallway 328.
+general_grievous#unknown#StarWars.Episode03 Activate ray shields.
 anakin_skywalker Ray shields.
 fang_zar How did this happen?
 obiwan_kenobi We're smarter than this.
@@ -177,30 +177,30 @@ anakin_skywalker See?
 anakin_skywalker No problem.
 anakin_skywalker Don't move.
 obiwan_kenobi Do you have a plan B?
-general_grievous Ah, yes.
-general_grievous General Kenobi.
-naboo_royal_security_guard We've been waiting for you.
+general_grievous#unknown#StarWars.Episode03 Ah, yes.
+general_grievous#unknown#StarWars.Episode03 General Kenobi.
+naboo_royal_guard We've been waiting for you.
 anakin_skywalker Excuse me.
-general_grievous - That wasn't much of a rescue.
-general_grievous And- Anakin Skywalker.
-general_grievous I was expecting someone with your reputation to be a little older.
+general_grievous#unknown#StarWars.Episode03 - That wasn't much of a rescue.
+general_grievous#unknown#StarWars.Episode03 And- Anakin Skywalker.
+general_grievous#unknown#StarWars.Episode03 I was expecting someone with your reputation to be a little older.
 anakin_skywalker General Grievous.
 anakin_skywalker You're shorter than I expected.
 obiwan_kenobi We have a job to do, Anakin.
 obiwan_kenobi Try not to upset him.
-general_grievous Your lightsabres will make a fne addition to my collection.
+general_grievous#unknown#StarWars.Episode03 Your lightsabres will make a fne addition to my collection.
 obiwan_kenobi Not this time.
 obiwan_kenobi And this time, you won't escape.
-general_grievous Crush them!
-general_grievous Make them suffer!
+general_grievous#unknown#StarWars.Episode03 Crush them!
+general_grievous#unknown#StarWars.Episode03 Make them suffer!
 obiwan_kenobi Now!
-general_grievous Stay at your stations!
-general_grievous Don't bother with them.
-general_grievous - Keep the ship in orbit.
-commander_cody - Yes, sir.
-odd_ball#unknown#StarWars.Episode03 You lose, General Kenobi.
+general_grievous#unknown#StarWars.Episode03 Stay at your stations!
+general_grievous#unknown#StarWars.Episode03 Don't bother with them.
+general_grievous#unknown#StarWars.Episode03 - Keep the ship in orbit.
+boba_fett - Yes, sir.
+r2d2 You lose, General Kenobi.
 obiwan_kenobi Get out of here!
-general_grievous Time to abandon ship.
+general_grievous#unknown#StarWars.Episode03 Time to abandon ship.
 anakin_skywalker All the escape pods have been launched.
 obiwan_kenobi Grievous.
 obiwan_kenobi Can you fly a cruiser like this?
@@ -243,8 +243,8 @@ obiwan_kenobi That business on Cato Neimoidia doesn't count.
 obiwan_kenobi I'll see you at the briefng.
 obiwan_kenobi Chancellor Palpatine, are you all right?
 anakin_skywalker Yes.
-senator_palpatine Thanks to your two Jedi knights.
-senator_palpatine They killed Count Dooku, but General Grievous has escaped once again.
+the_emperor Thanks to your two Jedi knights.
+the_emperor They killed Count Dooku, but General Grievous has escaped once again.
 mace_windu General Grievous will run and hide, as he always does.
 mace_windu He's a coward.
 mace_windu Then the Jedi Council will make fnding Grievous our highest priority.
@@ -274,14 +274,14 @@ anakin_skywalker What's going on?
 padme Something wonderful has happened.
 padme Ani, I'm pregnant.
 anakin_skywalker That's wonderful.
-senator_palpatine What are we gonna do?
+the_emperor What are we gonna do?
 anakin_skywalker We're not gonna worry about anything right now.
 anakin_skywalker All right?
 anakin_skywalker This is a happy moment.
 anakin_skywalker The happiest moment of my life.
-general_grievous Yes, Lord Sidious?
-darth_sidious#unknown#StarWars.Episode03 General Grievous I suggest you move the separatist leaders to Mustafar.
-general_grievous It will be done, my lord.
+general_grievous#unknown#StarWars.Episode03 Yes, Lord Sidious?
+the_emperor General Grievous I suggest you move the separatist leaders to Mustafar.
+general_grievous#unknown#StarWars.Episode03 It will be done, my lord.
 padme Ani, I want to have our baby back home on Naboo.
 padme We can go to the lake country where no one will know where we can be safe.
 padme I can go early and fx up the baby's room.
@@ -301,11 +301,11 @@ anakin_skywalker Like the ones I used to have about my mother, just before she d
 padme And?
 anakin_skywalker And it was about you.
 padme Tell me.
-senator_palpatine It was only a dream.
+the_emperor It was only a dream.
 anakin_skywalker You die in childbirth.
 padme And the baby?
 anakin_skywalker I don't know.
-senator_palpatine - It was only a dream.
+the_emperor - It was only a dream.
 anakin_skywalker - I won't let this one become real.
 padme This baby will change our lives.
 anakin_skywalker I know.
@@ -348,21 +348,21 @@ obiwan_kenobi He would not say.
 anakin_skywalker He didn't inform the council?
 anakin_skywalker That's unusual, isn't it?
 obiwan_kenobi And it's making me feel uneasy.
-senator_palpatine I hope you trust me, Anakin.
+the_emperor I hope you trust me, Anakin.
 anakin_skywalker Of course.
-senator_palpatine I need your help, son.
+the_emperor I need your help, son.
 anakin_skywalker What do you mean?
-senator_palpatine I'm depending on you.
+the_emperor I'm depending on you.
 anakin_skywalker For what?
 anakin_skywalker I don't understand.
-senator_palpatine To be the eyes, ears and voice of the Republic.
-senator_palpatine I'm appointing you to be my personal representative on the Jedi Council.
+the_emperor To be the eyes, ears and voice of the Republic.
+the_emperor I'm appointing you to be my personal representative on the Jedi Council.
 anakin_skywalker Me?
 anakin_skywalker A master?
 anakin_skywalker But the council elects its own members.
 anakin_skywalker They'll never accept this.
-senator_palpatine I think they will.
-senator_palpatine They need you.
+the_emperor I think they will.
+the_emperor They need you.
 yoda Allow this appointment lightly the council does not.
 yoda Disturbing is this move by Chancellor Palpatine.
 anakin_skywalker I understand.
@@ -459,52 +459,52 @@ padme No politics, no plotting, no war.
 anakin_skywalker - You wanted to see me, Chancellor.
 padme - Yes, Anakin.
 obiwan_kenobi Come closer.
-senator_palpatine I have good news.
-senator_palpatine Our clone intelligence units have discovered the location of General Grievous.
-senator_palpatine He's hiding in the Utapau system.
+the_emperor I have good news.
+the_emperor Our clone intelligence units have discovered the location of General Grievous.
+the_emperor He's hiding in the Utapau system.
 anakin_skywalker We'll be able to capture that monster and end this war.
-senator_palpatine I would worry about the collective wisdom of the council if it didn't select you for this assignment.
-senator_palpatine You're the best choice, by far.
-senator_palpatine You know I'm not able to rely on the Jedi Council.
-senator_palpatine If they haven't included you in their plot, they soon will.
+the_emperor I would worry about the collective wisdom of the council if it didn't select you for this assignment.
+the_emperor You're the best choice, by far.
+the_emperor You know I'm not able to rely on the Jedi Council.
+the_emperor If they haven't included you in their plot, they soon will.
 anakin_skywalker I'm not sure I understand.
-senator_palpatine You must sense what I have come to suspect.
-senator_palpatine The Jedi Council want control of the Republic.
+the_emperor You must sense what I have come to suspect.
+the_emperor The Jedi Council want control of the Republic.
 clone_trooper They're planning to betray me.
 obiwan_kenobi Search your feelings.
-senator_palpatine You know, don't you?
+the_emperor You know, don't you?
 anakin_skywalker I know they don't trust you.
-senator_palpatine Or the senate.
+the_emperor Or the senate.
 anakin_skywalker Or the Republic.
-senator_palpatine Or democracy, for that matter.
+the_emperor Or democracy, for that matter.
 anakin_skywalker I have to admit, my trust in them has been shaken.
-senator_palpatine Why?
-senator_palpatine They asked you to do something that made you feel dishonest, didn't they?
-senator_palpatine They asked you to spy on me, didn't they?
+the_emperor Why?
+the_emperor They asked you to do something that made you feel dishonest, didn't they?
+the_emperor They asked you to spy on me, didn't they?
 anakin_skywalker I don't know what to say.
-senator_palpatine Remember back to your early teachings.
-senator_palpatine All who gain power are afraid to lose it.
-senator_palpatine - Even the Jedi.
+the_emperor Remember back to your early teachings.
+the_emperor All who gain power are afraid to lose it.
+the_emperor - Even the Jedi.
 anakin_skywalker - The Jedi use their power for good.
-senator_palpatine Good is a point of view, Anakin.
-senator_palpatine The Sith and the Jedi are similar in almost every way including their quest for greater power.
+the_emperor Good is a point of view, Anakin.
+the_emperor The Sith and the Jedi are similar in almost every way including their quest for greater power.
 anakin_skywalker The Sith rely on their passion for their strength.
 anakin_skywalker They think inwards- only about themselves.
-senator_palpatine And the Jedi don't?
+the_emperor And the Jedi don't?
 anakin_skywalker The Jedi are selfless.
 anakin_skywalker They only care about others.
-senator_palpatine Did you ever hear the tragedy of Darth Plagueis the Wise?
-senator_palpatine I thought not.
-senator_palpatine It's not a story the Jedi would tell you.
-senator_palpatine It's a Sith legend.
-senator_palpatine He had such a knowledge of the dark side he could even keep the ones he cared about from dying.
+the_emperor Did you ever hear the tragedy of Darth Plagueis the Wise?
+the_emperor I thought not.
+the_emperor It's not a story the Jedi would tell you.
+the_emperor It's a Sith legend.
+the_emperor He had such a knowledge of the dark side he could even keep the ones he cared about from dying.
 anakin_skywalker He could actually save people from death?
-senator_palpatine The dark side of the Force is a pathway to many abilities some consider to be unnatural.
+the_emperor The dark side of the Force is a pathway to many abilities some consider to be unnatural.
 anakin_skywalker What happened to him?
-senator_palpatine Unfortunately, he taught his apprentice everything he knew.
-senator_palpatine He could save others from death but not himself.
+the_emperor Unfortunately, he taught his apprentice everything he knew.
+the_emperor He could save others from death but not himself.
 anakin_skywalker Is it possible to learn this power?
-senator_palpatine Not from a Jedi.
+the_emperor Not from a Jedi.
 kiadimundi Palpatine thinks General Grievous is on Utapau?
 anakin_skywalker A partial message was intercepted in a diplomatic packet from the chairman of Utapau.
 yoda Act on this we must.
@@ -516,11 +516,11 @@ yoda A master is needed, with more experience.
 kiadimundi I concur.
 mace_windu Master Kenobi should go.
 anakin_skywalker I agree.
-capt_typho Very well.
+captain_typho Very well.
 mace_windu Council adjourned.
 clone_trooper The droids have started up their main power generators.
 yoda - Then now the time is, Commander.
-commander_cody - Yes, sir.
+boba_fett - Yes, sir.
 anakin_skywalker - You're gonna need me on this one.
 anakin_skywalker - I agree.
 obiwan_kenobi However, it may turn out Just to be a wild bantha chase.
@@ -530,7 +530,7 @@ anakin_skywalker I haven't been very appreciative of your training.
 anakin_skywalker I've been arrogant, and I apologize.
 anakin_skywalker I've just been so frustrated with the council.
 obiwan_kenobi You are strong and wise, Anakin, and I am very proud of you.
-senator_palpatine I have trained you since you were a small boy.
+the_emperor I have trained you since you were a small boy.
 obiwan_kenobi I have taught you everything I know.
 obiwan_kenobi And you have become a far greater Jedi than I could ever hope to be.
 obiwan_kenobi But be patient, Anakin.
@@ -539,13 +539,13 @@ padme Obi-Wan.
 mace_windu May the Force be with you.
 obiwan_kenobi Goodbye, old friend.
 mace_windu May the Force be with you.
-commander_cody Fortunately, most of the cities are concentrated on this small continent here.
-commander_cody On the far side.
+boba_fett Fortunately, most of the cities are concentrated on this small continent here.
+boba_fett On the far side.
 obiwan_kenobi I'll keep them distracted until you get there.
 obiwan_kenobi - Just don't take too long.
 obiwan_kenobi - Come on.
-commander_cody When have I ever let you down?
-capt_typho Very well.
+boba_fett When have I ever let you down?
+captain_typho Very well.
 obiwan_kenobi The burden is on me not to destroy all the droids until you arrive.
 obiwan_kenobi Save your energy.
 obiwan_kenobi I can't.
@@ -589,27 +589,27 @@ obiwan_kenobi Take the fghter back to the ship.
 obiwan_kenobi Tell Cody I've made contact.
 tion_medon - He didn't say.
 obiwan_kenobi It won't be long before the armies of the Republic track us here.
-general_grievous I am sending you to the Mustafar system in the outer rim.
-general_grievous - You will be safe there.
-nute_gunray - Safe?
+general_grievous#unknown#StarWars.Episode03 I am sending you to the Mustafar system in the outer rim.
+general_grievous#unknown#StarWars.Episode03 - You will be safe there.
+nute_gunray#unknown#StarWars.Episode03 - Safe?
 obiwan_kenobi Chancellor Palpatine managed to escape your grip, General.
-nute_gunray Without Count Dooku, I have doubts about your ability to keep us safe.
-general_grievous Be thankful, Viceroy, you have not found yourself in my grip.
-general_grievous Your ship is waiting.
+nute_gunray#unknown#StarWars.Episode03 Without Count Dooku, I have doubts about your ability to keep us safe.
+general_grievous#unknown#StarWars.Episode03 Be thankful, Viceroy, you have not found yourself in my grip.
+general_grievous#unknown#StarWars.Episode03 Your ship is waiting.
 tion_medon Hello there.
-general_grievous General Kenobi.
+general_grievous#unknown#StarWars.Episode03 General Kenobi.
 padme You are a bold one.
-senator_palpatine Kill him.
-general_grievous Back away.
-general_grievous I will deal with this Jedi slime myself.
+the_emperor Kill him.
+general_grievous#unknown#StarWars.Episode03 Back away.
+general_grievous#unknown#StarWars.Episode03 I will deal with this Jedi slime myself.
 obiwan_kenobi Your move.
-general_grievous You fool.
-general_grievous I've been trained in your Jedi arts by Count Dooku.
-general_grievous Attack, Kenobi.
-general_grievous Army or not you must realize you are doomed.
+general_grievous#unknown#StarWars.Episode03 You fool.
+general_grievous#unknown#StarWars.Episode03 I've been trained in your Jedi arts by Count Dooku.
+general_grievous#unknown#StarWars.Episode03 Attack, Kenobi.
+general_grievous#unknown#StarWars.Episode03 Army or not you must realize you are doomed.
 anakin_skywalker I don't think so.
-commander_cody Master Windu, may I interrupt?
-commander_cody General Kenobi has made contact with General Grievous and we have begun our attack.
+boba_fett Master Windu, may I interrupt?
+boba_fett General Kenobi has made contact with General Grievous and we have begun our attack.
 padme Thank you, Commander.
 obiwan_kenobi Anakin, deliver this report to the chancellor.
 mace_windu His reaction will give us a clue to his intentions.
@@ -623,49 +623,49 @@ yoda Great care we must take.
 obiwan_kenobi Chancellor.
 anakin_skywalker We've just received a report from Master Kenobi.
 anakin_skywalker He has engaged General Grievous.
-senator_palpatine We can only hope that Master Kenobi is up to the challenge.
+the_emperor We can only hope that Master Kenobi is up to the challenge.
 anakin_skywalker I should be there with him.
-senator_palpatine It's upsetting to me to see that the council doesn't seem to fully appreciate your talents.
+the_emperor It's upsetting to me to see that the council doesn't seem to fully appreciate your talents.
 obiwan_kenobi Don't you wonder why they won't make you a Jedi master?
 mace_windu I wish I knew.
 anakin_skywalker More and more I get the feeling that I'm being excluded from the council.
 anakin_skywalker I know there are things about the Force that they're not telling me.
-senator_palpatine They don't trust you, Anakin.
-senator_palpatine They see your future.
-senator_palpatine They know your power will be too strong to control.
-senator_palpatine You must break through the fog of lies the Jedi have created around you.
-senator_palpatine Let me help you to know the subtleties of the Force.
-senator_palpatine How do you know the ways of the Force?
-senator_palpatine My mentor taught me everything about the Force.
-senator_palpatine Even the nature of the dark side.
-commander_cody You know the dark side?
-senator_palpatine If one is to understand the great mystery one must study all its aspects not just the dogmatic narrow view of the Jedi.
-senator_palpatine If you wish to become a complete and wise leader you must embrace a larger view of the Force.
-senator_palpatine Be careful of the Jedi, Anakin.
-senator_palpatine Only through me can you achieve a power greater than any Jedi.
-senator_palpatine Learn to know the dark side of the Force and you will be able to save your wife from certain death.
+the_emperor They don't trust you, Anakin.
+the_emperor They see your future.
+the_emperor They know your power will be too strong to control.
+the_emperor You must break through the fog of lies the Jedi have created around you.
+the_emperor Let me help you to know the subtleties of the Force.
+the_emperor How do you know the ways of the Force?
+the_emperor My mentor taught me everything about the Force.
+the_emperor Even the nature of the dark side.
+boba_fett You know the dark side?
+the_emperor If one is to understand the great mystery one must study all its aspects not just the dogmatic narrow view of the Jedi.
+the_emperor If you wish to become a complete and wise leader you must embrace a larger view of the Force.
+the_emperor Be careful of the Jedi, Anakin.
+the_emperor Only through me can you achieve a power greater than any Jedi.
+the_emperor Learn to know the dark side of the Force and you will be able to save your wife from certain death.
 anakin_skywalker What did you say?
-senator_palpatine Use my knowledge.
+the_emperor Use my knowledge.
 obiwan_kenobi I beg you.
 obiwan_kenobi You're the Sith lord.
 padme I know what's been troubling you.
 obiwan_kenobi Listen to me.
-senator_palpatine Don't continue to be a pawn of the Jedi Council.
-senator_palpatine Ever since I've known you, you've been searching for a life greater than that of an ordinary Jedi.
-senator_palpatine A life of signifcance of conscience.
+the_emperor Don't continue to be a pawn of the Jedi Council.
+the_emperor Ever since I've known you, you've been searching for a life greater than that of an ordinary Jedi.
+the_emperor A life of signifcance of conscience.
 anakin_skywalker - Are you going to kill me?
 anakin_skywalker - I would certainly like to.
-senator_palpatine I know you would.
-senator_palpatine I can feel your anger.
-senator_palpatine It gives you focus makes you stronger.
-senator_palpatine I'm going to turn you over to the Jedi Council.
+the_emperor I know you would.
+the_emperor I can feel your anger.
+the_emperor It gives you focus makes you stronger.
+the_emperor I'm going to turn you over to the Jedi Council.
 anakin_skywalker Of course.
-general_grievous You should.
-senator_palpatine But you're not sure of their intentions, are you?
+general_grievous#unknown#StarWars.Episode03 You should.
+the_emperor But you're not sure of their intentions, are you?
 anakin_skywalker I will quickly discover the truth of all this.
 obiwan_kenobi You have great wisdom, Anakin.
-senator_palpatine Know the power of the dark side.
-senator_palpatine Power to save Padm.
+the_emperor Know the power of the dark side.
+the_emperor Power to save Padm.
 obiwan_kenobi So uncivilized.
 anakin_skywalker Master Windu, I must talk to you.
 mace_windu Skywalker, we just received word that Obi-Wan has destroyed General Grievous.
@@ -678,7 +678,7 @@ anakin_skywalker Yes.
 anakin_skywalker The one we've been looking for.
 anakin_skywalker - How do you know this?
 anakin_skywalker - He knows the ways of the Force.
-senator_palpatine He's been trained to use the dark side.
+the_emperor He's been trained to use the dark side.
 mace_windu - Are you sure?
 anakin_skywalker - Absolutely.
 mace_windu Then our worst fears have been realized.
@@ -693,108 +693,108 @@ obiwan_kenobi - No.
 mace_windu If what you've told me is true, you will have gained my trust.
 mace_windu Wait in the council chambers until we return.
 anakin_skywalker Yes, Master.
-senator_palpatine You do know, don't you if theJedi destroy me any chance of saving her will be lost.
+the_emperor You do know, don't you if theJedi destroy me any chance of saving her will be lost.
 mace_windu Master Windu.
-senator_palpatine I take it General Grievous has been destroyed then.
-senator_palpatine I must say you're here sooner than expected.
+the_emperor I take it General Grievous has been destroyed then.
+the_emperor I must say you're here sooner than expected.
 mace_windu In the name of the Galactic Senate of the Republic you're under arrest, Chancellor.
 anakin_skywalker Are you threatening me, Master Jedi?
 mace_windu The senate will decide your fate.
-senator_palpatine - I am the senate.
+the_emperor - I am the senate.
 mace_windu - Not yet.
 anakin_skywalker It's treason then.
 mace_windu You are under arrest, my lord.
-senator_palpatine Anakin, I told you it would come to this.
+the_emperor Anakin, I told you it would come to this.
 obiwan_kenobi I was right.
 anakin_skywalker The Jedi are taking over.
 mace_windu The oppression of the Sith will never return.
 obiwan_kenobi You have lost.
-senator_palpatine You will die!
+the_emperor You will die!
 anakin_skywalker He's a traitor!
 tion_medon He is the traitor!
-senator_palpatine I have the power to save the one you love.
-senator_palpatine You must choose.
+the_emperor I have the power to save the one you love.
+the_emperor You must choose.
 obiwan_kenobi Don't listen to him, Anakin!
-senator_palpatine Don't let him kill me.
-senator_palpatine I can't hold it any longer.
+the_emperor Don't let him kill me.
+the_emperor I can't hold it any longer.
 obiwan_kenobi I can't.
-senator_palpatine I'm weak.
-senator_palpatine I'm too weak.
+the_emperor I'm weak.
+the_emperor I'm too weak.
 padme Help me.
 padme Help me!
-senator_palpatine I can't hold on any longer.
+the_emperor I can't hold on any longer.
 mace_windu I am going to end this once and for all.
 padme You can't.
 anakin_skywalker He must stand trial.
 mace_windu He has control of the senate and the courts.
-senator_palpatine He's too dangerous to be left alive.
-senator_palpatine I'm too weak.
+the_emperor He's too dangerous to be left alive.
+the_emperor I'm too weak.
 anakin_skywalker - Don't kill me.
-senator_palpatine Please.
+the_emperor Please.
 anakin_skywalker - It's not the Jedi way.
 anakin_skywalker He must live.
-senator_palpatine - Please don't.
+the_emperor - Please don't.
 anakin_skywalker - I need him.
-senator_palpatine Please don't!
-senator_palpatine Power!
-senator_palpatine Unlimited power!
+the_emperor Please don't!
+the_emperor Power!
+the_emperor Unlimited power!
 anakin_skywalker What have I done?
-senator_palpatine You're fulflling your destiny, Anakin.
-senator_palpatine Become my apprentice.
+the_emperor You're fulflling your destiny, Anakin.
+the_emperor Become my apprentice.
 anakin_skywalker Learn to use the dark side of the Force.
 wrangler#unknown#StarWars.Episode03 I will do whatever you ask.
 count_dooku Good.
 obiwan_kenobi Just help me save Padm's life.
 padme I can't live without her.
-senator_palpatine To cheat death is a power only one has achieved but if we work together I know we can discover the secret.
+the_emperor To cheat death is a power only one has achieved but if we work together I know we can discover the secret.
 anakin_skywalker I pledge myself to your teachings.
 count_dooku Good.
 count_dooku Good.
-senator_palpatine The Force is strong with you.
-senator_palpatine A powerful Sith you will become.
-senator_palpatine Henceforth you shall be known as Darth Vader.
+the_emperor The Force is strong with you.
+the_emperor A powerful Sith you will become.
+the_emperor Henceforth you shall be known as Darth Vader.
 padme Thank you, my master.
-senator_palpatine Because the council did not trust you, my young apprentice I believe you are the only Jedi with no knowledge of this plot.
-senator_palpatine When the Jedi learn what has transpired here they will kill us, along with all the senators.
+the_emperor Because the council did not trust you, my young apprentice I believe you are the only Jedi with no knowledge of this plot.
+the_emperor When the Jedi learn what has transpired here they will kill us, along with all the senators.
 anakin_skywalker I agree.
 anakin_skywalker The council's next move will be against the senate.
-senator_palpatine Every single Jedi including your friend Obi-Wan Kenobi is now an enemy of the Republic.
+the_emperor Every single Jedi including your friend Obi-Wan Kenobi is now an enemy of the Republic.
 padme I understand, Master.
-senator_palpatine We must move quickly.
+the_emperor We must move quickly.
 anakin_skywalker The Jedi are relentless.
-senator_palpatine If they are not all destroyed, it will be civil war without end.
-senator_palpatine First I want you to go to the Jedi temple.
-senator_palpatine We will catch them off-balance.
-senator_palpatine Do what must be done, Lord Vader.
-senator_palpatine Do not hesitate.
+the_emperor If they are not all destroyed, it will be civil war without end.
+the_emperor First I want you to go to the Jedi temple.
+the_emperor We will catch them off-balance.
+the_emperor Do what must be done, Lord Vader.
+the_emperor Do not hesitate.
 padme Show no mercy.
-senator_palpatine Only then will you be strong enough with the dark side to save Padm.
+the_emperor Only then will you be strong enough with the dark side to save Padm.
 anakin_skywalker What about the other Jedi spread across the galaxy?
-senator_palpatine Their betrayal will be dealt with.
-senator_palpatine After you have killed all the Jedi in the temple go to the Mustafar system.
-senator_palpatine Wipe out Viceroy Gunray and the other separatist leaders.
-senator_palpatine Once more the Sith will rule the galaxy!
+the_emperor Their betrayal will be dealt with.
+the_emperor After you have killed all the Jedi in the temple go to the Mustafar system.
+the_emperor Wipe out Viceroy Gunray and the other separatist leaders.
+the_emperor Once more the Sith will rule the galaxy!
 yoda Hurry!
 obiwan_kenobi Come on.
 obiwan_kenobi Let's go!
 obiwan_kenobi Commander, contact your troops.
 obiwan_kenobi Tell them to move to the higher levels.
-commander_cody Very good, sir.
-commander_cody By the way, I think you'll be needing this.
+boba_fett Very good, sir.
+boba_fett By the way, I think you'll be needing this.
 padme Thank you, Cody.
 obiwan_kenobi Let's get a move on.
 obiwan_kenobi We've got a battle to win.
-commander_cody Yes, sir.
-darth_sidious#unknown#StarWars.Episode03 Commander Cody the time has come.
-darth_sidious#unknown#StarWars.Episode03 Execute order 66.
+boba_fett Yes, sir.
+the_emperor Commander Cody the time has come.
+the_emperor Execute order 66.
 motee Yes, my lord.
-commander_cody Blast him!
+boba_fett Blast him!
 obiwan_kenobi Come on!
-darth_sidious#unknown#StarWars.Episode03 Execute order 66.
-general_grievous It will be done, my lord.
-general_grievous It will be done, my lord.
-odd_ball#unknown#StarWars.Episode03 Master Skywalker, there are too many of them.
-senator_palpatine What are we going to do?
+the_emperor Execute order 66.
+general_grievous#unknown#StarWars.Episode03 It will be done, my lord.
+general_grievous#unknown#StarWars.Episode03 It will be done, my lord.
+r2d2 Master Skywalker, there are too many of them.
+the_emperor What are we going to do?
 c3po The chancellor's offce indicated Master Anakin returned to the Jedi temple.
 anakin_skywalker Don't worry.
 anakin_skywalker I'm sure he'll be all right.
@@ -809,7 +809,7 @@ anakin_skywalker Don't worry about him.
 obiwan_kenobi Let him go.
 pilot#unknown#StarWars.Episode03 All these Wookiees are dead.
 anakin_skywalker Move to the east.
-commander_cody Yes, sir.
+boba_fett Yes, sir.
 senator_bail_organa Hopefully we'll be able to intercept a few Jedi before they walk into this catastrophe.
 clone_sergeant#unknown#StarWars.Episode03 Did you fnd Kenobi?
 clone_trooper Sir, no one could have survived that fall.
@@ -833,16 +833,16 @@ padme - You could see the smoke from here.
 anakin_skywalker - I'm fne.
 anakin_skywalker I came to see if you and the baby are safe.
 anakin_skywalker What's happening?
-senator_palpatine The Jedi have tried to overthrow the Republic.
+the_emperor The Jedi have tried to overthrow the Republic.
 obiwan_kenobi I can't believe that.
 anakin_skywalker I saw Master Windu attempt to assassinate the chancellor myself.
-senator_palpatine What are you gonna do?
+the_emperor What are you gonna do?
 anakin_skywalker I will not betray the Republic.
 anakin_skywalker My loyalties lie with the chancellor and with the senate and with you.
 padme - What about Obi-Wan?
 anakin_skywalker - I don't know.
 anakin_skywalker Many Jedi have been killed.
-senator_palpatine We can only hope that he's remained loyal to the chancellor.
+the_emperor We can only hope that he's remained loyal to the chancellor.
 padme Anakin, I'm afraid.
 anakin_skywalker Have faith, my love.
 anakin_skywalker Everything will soon be set right.
@@ -873,35 +873,35 @@ anakin_skywalker Yes, Master.
 obiwan_kenobi There is too much at stake.
 anakin_skywalker I agree.
 yoda And a little more knowledge might light our way.
-nute_gunray The plan has gone as you had promised, my lord.
-darth_sidious#unknown#StarWars.Episode03 You have done well, Viceroy.
-darth_sidious#unknown#StarWars.Episode03 When my new apprentice Darth Vader arrives he will take care of you.
+nute_gunray#unknown#StarWars.Episode03 The plan has gone as you had promised, my lord.
+the_emperor You have done well, Viceroy.
+the_emperor When my new apprentice Darth Vader arrives he will take care of you.
 pilot#unknown#StarWars.Episode03 We're receiving a message from the chancellor's offce, sir.
 senator_bail_organa - Send it through.
-commander_cody - Yes, sir.
+boba_fett - Yes, sir.
 mas_amedda Senator Organa, the supreme chancellor requests your presence at a special session of Congress.
-general_grievous - I will be there.
+general_grievous#unknown#StarWars.Episode03 - I will be there.
 mas_amedda - He'll be expecting you.
 senator_bail_organa - Could be a trap.
 anakin_skywalker - I don't think so.
 obiwan_kenobi The chancellor will not be able to control the thousands of star systems without keeping the senate intact.
 yoda If a special session of Congress there is easier for us to enter the Jedi temple it will be.
 anakin_skywalker R2, stay with the ship.
-nute_gunray Welcome, Lord Vader.
-naboo_royal_security_guard We've been expecting you.
-senator_palpatine And the Jedi rebellion has been foiled.
+nute_gunray#unknown#StarWars.Episode03 Welcome, Lord Vader.
+naboo_royal_guard We've been expecting you.
+the_emperor And the Jedi rebellion has been foiled.
 super_battle_droid_1#unknown#StarWars.Episode03 What's happened?
 padme The chancellor's been elaborating on a plot by the Jedi to overthrow the senate.
-senator_palpatine The remaining Jedi will be hunted down and defeated.
+the_emperor The remaining Jedi will be hunted down and defeated.
 obiwan_kenobi Not even the younglings survived.
 yoda Killed not by clones this Padawan.
 yoda By a lightsabre he was.
 anakin_skywalker Who?
 obiwan_kenobi Who could have done this?
 obiwan_kenobi Stop!
-senator_palpatine In order to ensure the security and continuing stability the Republic will be reorganized into the frst Galactic Empire!
-senator_palpatine The war is over.
-nute_gunray Lord Sidious promised us peace.
+the_emperor In order to ensure the security and continuing stability the Republic will be reorganized into the frst Galactic Empire!
+the_emperor The war is over.
+nute_gunray#unknown#StarWars.Episode03 Lord Sidious promised us peace.
 obiwan_kenobi We only want- I have recalibrated the code, warning all surviving Jedi to stay away.
 yoda For the clones to discover the recalibration a long time it will take.
 obiwan_kenobi Wait.
@@ -911,9 +911,9 @@ yoda If into the security recordings you go, only pain will you fnd.
 anakin_skywalker I must know the truth, Master.
 obiwan_kenobi It can't be.
 obiwan_kenobi It can't be.
-darth_sidious#unknown#StarWars.Episode03 You have done well, my new apprentice.
-darth_sidious#unknown#StarWars.Episode03 Now, Lord Vader go and bring peace to the Empire.
-senator_palpatine I can't watch any more.
+the_emperor You have done well, my new apprentice.
+the_emperor Now, Lord Vader go and bring peace to the Empire.
+the_emperor I can't watch any more.
 yoda Destroy the Sith we must.
 obiwan_kenobi Send me to kill the emperor.
 padme I will not kill Anakin.
@@ -922,7 +922,7 @@ obiwan_kenobi He is like my brother.
 anakin_skywalker I cannot do it.
 yoda Twisted by the dark side young Skywalker has become.
 yoda The boy you trained, gone he is.
-senator_palpatine Consumed by Darth Vader.
+the_emperor Consumed by Darth Vader.
 obiwan_kenobi I do not know where the emperor has sent him.
 anakin_skywalker I don't know where to look.
 yoda Use your feelings, Obi-Wan, and fnd him you will.
@@ -933,7 +933,7 @@ obiwan_kenobi Padm, I need your help.
 obiwan_kenobi - He is in grave danger.
 padme - From the Sith?
 obiwan_kenobi From himself.
-senator_palpatine Anakin has turned to the dark side.
+the_emperor Anakin has turned to the dark side.
 anakin_skywalker You're wrong.
 padme How could you even say that?
 obiwan_kenobi I have seen a security hologram of him killing younglings.
@@ -946,15 +946,15 @@ obiwan_kenobi Palpatine is the Sith lord we've been looking for.
 obiwan_kenobi After the death of Count Dooku, Anakin became his new apprentice.
 obiwan_kenobi I don't believe you.
 obiwan_kenobi I can't.
-senator_palpatine I must fnd him.
+the_emperor I must fnd him.
 padme You're going to kill him, aren't you?
 obiwan_kenobi He has become a very great threat.
 obiwan_kenobi I can't.
 obiwan_kenobi Anakin is the father, isn't he?
 anakin_skywalker I'm so sorry.
-capt_typho - Milady, let me come with you.
+captain_typho - Milady, let me come with you.
 padme - There's no danger.
-senator_palpatine The fghting's over.
+the_emperor The fghting's over.
 padme And this is personal.
 obiwan_kenobi I'll be all right, Captain.
 obiwan_kenobi This is something I must do myself.
@@ -964,12 +964,12 @@ obiwan_kenobi Do you know?
 c3po I think I'm beginning to get the hang of this flying business.
 anakin_skywalker The separatists have been taken care of, my master.
 mace_windu It is fnished then.
-darth_sidious#unknown#StarWars.Episode03 You have restored peace and justice to the galaxy.
-darth_sidious#unknown#StarWars.Episode03 Send a message to the ships of the Trade Federation.
-darth_sidious#unknown#StarWars.Episode03 All droid units must shut down immediately.
-commander_cody Very good, my lord.
+the_emperor You have restored peace and justice to the galaxy.
+the_emperor Send a message to the ships of the Trade Federation.
+the_emperor All droid units must shut down immediately.
+boba_fett Very good, my lord.
 anakin_skywalker I saw your ship.
-senator_palpatine - What are you doing out here?
+the_emperor - What are you doing out here?
 obiwan_kenobi - I was so worried about you.
 padme Obi-Wan told me terrible things.
 anakin_skywalker What things?
@@ -993,12 +993,12 @@ anakin_skywalker To protect you.
 obiwan_kenobi Come away with me.
 padme Help me raise our child.
 padme Leave everything else behind while we still can.
-droid#unknown#StarWars.Episode03 Don't you see?
+battle_droid Don't you see?
 anakin_skywalker We don't have to run away any more.
 anakin_skywalker I have brought peace to the Republic.
 anakin_skywalker I am more powerful than the chancellor.
 padme I don't believe what I'm hearing.
-senator_palpatine Obi-Wan was right.
+the_emperor Obi-Wan was right.
 padme You've changed.
 anakin_skywalker I don't want to hear any more about Obi-Wan.
 anakin_skywalker The Jedi turned against me.
@@ -1007,19 +1007,19 @@ anakin_skywalker I don't know you any more.
 padme You're breaking my heart.
 anakin_skywalker Because of Obi-Wan?
 padme Because of what you've done.
-senator_palpatine What you plan to do.
+the_emperor What you plan to do.
 obiwan_kenobi Stop.
 obiwan_kenobi Stop now.
 obiwan_kenobi Come back.
 padme - I love you.
 anakin_skywalker - Liar!
-senator_palpatine You're with him!
+the_emperor You're with him!
 anakin_skywalker You brought him here to kill me.
 obiwan_kenobi Let her go, Anakin.
 obiwan_kenobi Let her go.
 anakin_skywalker You turned her against me!
 padme You have done that yourself.
-general_grievous You will not take her from me!
+general_grievous#unknown#StarWars.Episode03 You will not take her from me!
 obiwan_kenobi Your anger and your lust for power have already done that.
 obiwan_kenobi You have allowed this dark lord to twist your mind until now you have become the very thing you swore to destroy.
 anakin_skywalker Don't lecture me, Obi-Wan.
@@ -1032,32 +1032,32 @@ obiwan_kenobi Anakin, my allegiance is to the Republic, to democracy!
 anakin_skywalker If you're not with me then you're my enemy.
 obiwan_kenobi Only a Sith deals in absolutes.
 anakin_skywalker I will do what I must.
-senator_palpatine You will try.
+the_emperor You will try.
 yoda I hear a new apprentice you have, Emperor.
 yoda Or should I call you Darth Sidious?
 mace_windu Master Yoda.
 yoda Surprised?
 obiwan_kenobi Your arrogance blinds you, Master Yoda.
-senator_palpatine Now you will experience the full power of the dark side.
-darth_sidious#unknown#StarWars.Episode03 I have waited a long time for this moment my little green friend.
-darth_sidious#unknown#StarWars.Episode03 At last the Jedi are no more.
+the_emperor Now you will experience the full power of the dark side.
+the_emperor I have waited a long time for this moment my little green friend.
+the_emperor At last the Jedi are no more.
 yoda Not if anything to say about it I have.
 yoda At an end your rule is.
 yoda If so powerful you are why leave?
 anakin_skywalker You will not stop me.
-darth_sidious#unknown#StarWars.Episode03 Darth Vader will become more powerful than either of us.
+the_emperor Darth Vader will become more powerful than either of us.
 anakin_skywalker As is your faith in the dark side of the Force.
 yoda Hurry.
 yoda Careful timing we will need.
 senator_bail_organa Activate your homing beacon when you're ready.
 clone_trooper There's no sign of his body, sir.
 mas_amedda - Then he is not dead.
-senator_palpatine - Double your search.
-commander_cody Yes, sir.
+the_emperor - Double your search.
+boba_fett Yes, sir.
 clone_trooper Right away, sir.
-senator_palpatine Tell Captain Kagi to prepare my shuttle for immediate take-off.
+the_emperor Tell Captain Kagi to prepare my shuttle for immediate take-off.
 anakin_skywalker - Yes, Master.
-senator_palpatine - I sense Lord Vader is in danger.
+the_emperor - I sense Lord Vader is in danger.
 yoda Into exile I must go.
 yoda Failed I have.
 obiwan_kenobi I have failed you, Anakin.
@@ -1080,13 +1080,13 @@ padme I loved you.
 mace_windu Master Kenobi.
 c3po We have Miss Padm on board.
 anakin_skywalker Yes.
-senator_palpatine Please, please hurry.
+the_emperor Please, please hurry.
 c3po We should leave this dreadful place.
 anakin_skywalker Is Anakin all right?
 plo_koon There he is.
-darth_sidious#unknown#StarWars.Episode03 He's still alive.
-darth_sidious#unknown#StarWars.Episode03 Get a medical capsule immediately.
-commander_cody Yes, sir.
+the_emperor He's still alive.
+the_emperor Get a medical capsule immediately.
+boba_fett Yes, sir.
 clone_trooper Right away.
 anakin_skywalker Excuse me, Master Yoda.
 senator_bail_organa Obi-Wan Kenobi has made contact.
@@ -1109,7 +1109,7 @@ anakin_skywalker Can you hear me?
 anakin_skywalker Yes, Master.
 darth_vader Where is Padm?
 anakin_skywalker Is she all right?
-darth_sidious#unknown#StarWars.Episode03 It seems, in your anger, you killed her.
+the_emperor It seems, in your anger, you killed her.
 obiwan_kenobi I?
 anakin_skywalker I couldn't have.
 darth_vader She was alive.
