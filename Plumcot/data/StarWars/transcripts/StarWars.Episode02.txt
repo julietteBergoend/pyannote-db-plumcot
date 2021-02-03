@@ -8,7 +8,7 @@ captain_typho My lady, we’re still in danger here.
 padme I shouldn’t have come back.
 captain_typho This vote is very important. You do your duty; Cordé did hers, now come.
 captain_typho Senator Amidala, Please.
-the_emperor the_emperor I don’t know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists.
+the_emperor I don’t know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists.
 mace_windu If they do break away-
 the_emperor I will not let this republic that has stood for a thousand years be split in two. My negotiations will not fail.
 mace_windu If they do, you must realize that there aren’t enough Jedi to protect the Republic. We’re Keepers of the Peace, not soldiers.
@@ -63,7 +63,8 @@ jar_jar_binks Mesa bustin’ with happiness seein’ yousa again, Ani.
 anakin_skywalker She hardly even recognized me, Jar-Jar. I’ve thought about her every day since we parted. She’s forgotten me completely.
 jar_jar_binks Shesa happy. Happier than mesa seein’ her in a longo time.
 obiwan_kenobi You’re focusing on the negative, Anakin, be mindful of your thoughts. She was pleased to see us. Now, let’s check the security.
-zam_wesell I hit the ship but they used a decoy. bounty_hunter#unknown#StarWars.Episode02 We’ll have to try something more subtle this time, Zam. My client is getting impatient. Here- take these.
+zam_wesell I hit the ship but they used a decoy.
+bounty_hunter#unknown#StarWars.Episode02 We’ll have to try something more subtle this time, Zam. My client is getting impatient. Here- take these.
 bounty_hunter#unknown#StarWars.Episode02 Be careful- they’re very poisonous. Zam- there can be no mistakes this time.
 obiwan_kenobi Typho has more than enough men downstairs. No assassin would try that way. Any activity up here?
 anakin_skywalker Quiet as a tomb. I don’t like just waiting here for something to happen to her.
