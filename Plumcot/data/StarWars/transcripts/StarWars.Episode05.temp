@@ -10,7 +10,12 @@ han_solo All right, don't lose your temper. I'll come right back and give you a 
 rebel_force_general_rieekan Solo?
 han_solo No sign of life out there, General. The sensors are in place. You'll know if anything comes around.
 rebel_force_general_rieekan Commander Skywalker reported in yet?
-han_solo No. He's checking out a meteorite that hit near him. rieekan With all the meteor activity in this system, it's going to be difficult to spot approaching ships. Taking a deep breath, Han blurts out what is on his mind. han General, I've got to leave. I can't stay anymore. Princess Leia, standing at a console nearby, is dressed in a short white combat jacket and pants. Her hair is braided across her head in a Nordic fashion. She overhears their conversation and seems somewhat distressed. rieekan I'm sorry to hear that. han Well, there's a price on my head. If I don't pay off Jabba the Hut, I'm a dead man. rieekan A death mark's not an easy thing to live with. You're a good fighter, Solo. I hate to lose you. han Thank you, General. He turns to Leia as Rieekan moves away.
+han_solo No. 
+rebel_force_general_rieekan With all the meteor activity in this system, it's going to be difficult to spot approaching ships. 
+rebel_force_general_rieekan I'm sorry to hear that. 
+han Well, there's a price on my head. If I don't pay off Jabba the Hut, I'm a dead man. 
+rebel_force_general_rieekan A death mark's not an easy thing to live with. You're a good fighter, Solo. I hate to lose you. 
+han_solo Thank you, General.
 han_solo Well, Your Highness, I guess this is it.
 princess_leia That's right.
 han_solo Well, don't get all mushy on me. So long, Princess.
@@ -33,7 +38,6 @@ han_solo Am I? Then why are you following me? Afraid I was going to leave withou
 princess_leia I'd just as soon kiss a Wookiee.
 han_solo I can arrange that. You could use a good kiss!
 c3po Don't try to blame me. I didn't ask you to turn on the thermal heater. I merely commented that it was freezing in the princess' chamber. But it's supposed to be freezing. How are we going to dry out all her clothes? I really don't know.
-r2d2 beeps
 c3po Oh, switch off.
 han_solo Why do you take this apart now? I'm trying to get us out of here and you pull both of these.
 chewbacca grumbles
@@ -50,26 +54,24 @@ han_solo What do you mean, "nobody knows"?
 c3po Well, uh, you see...
 han_solo Deck Officer. Deck Officer!
 c3po Excuse me, sir. Might I inqu...
-han_solo abruptly puts his hand over Threepio's mouth as the deck officer approaches.
-rebel_force_deck_lieutenant officer Yes, sir?
+rebel_force_deck_lieutenant Yes, sir?
 han_solo Do you know where Commander Skywalker is?
-rebel_force_deck_lieutenant officer I haven't seen him. It's possible he came in through the south entrance.
+rebel_force_deck_lieutenant I haven't seen him. It's possible he came in through the south entrance.
 han_solo It's possible? Why don't you go find out? It's getting dark out there.
-rebel_force_deck_lieutenant officer Yes, sir.
+rebel_force_deck_lieutenant Yes, sir.
 c3po Excuse me, sir. Might I inquire what's going on?
 han_solo Why not?
 c3po Impossible man. Come along, Artoo, let's find Princess Leia. Between ourselves, I think Master Luke is in considerable danger.
-rebel_force_deck_lieutenant officer Sir, Commander Skywalker hasn't come in through the south entrance. He might have forgotten to check in.
+rebel_force_deck_lieutenant Sir, Commander Skywalker hasn't come in through the south entrance. He might have forgotten to check in.
 han_solo Not likely. Are the speeders ready?
-rebel_force_deck_lieutenant officer Not yet. We're having some trouble adapting them to the cold.
+rebel_force_deck_lieutenant Not yet. We're having some trouble adapting them to the cold.
 han_solo Then we'll have to go out on Tauntauns.
-rebel_force_deck_lieutenant officer Sir, the temperature's dropping too rapidly.
+rebel_force_deck_lieutenant Sir, the temperature's dropping too rapidly.
 han_solo That's right. And my friends out in it.
 assistant#unknown#StarWars.Episode05 officer I'll cover sector twelve. Have com-control set screen alpha.
-rebel_force_deck_lieutenant officer Your Tauntaun'll freeze before you reach the first marker.
+rebel_force_deck_lieutenant Your Tauntaun'll freeze before you reach the first marker.
 han_solo Then I'll see you in hell!
 c3po You must come along now, Artoo. There's really nothing more we can do. And my joints are freezing up.
-r2d2 beeps
 c3po Don't say thing like that! Of course we'll see Master Luke again. He'll be quite all right, you'll see. Stupid little short-circuit. He'll be quite all right.
 lieutenant#unknown#StarWars.Episode05 Sir, all the patrols are in. There's still no contact from Skywalker or Solo.
 c3po Mistress Leia, Artoo says he's been quite unable to pick up any signals, although he does admit that his own range is far too weak to abandon all hope.
@@ -94,13 +96,11 @@ luke_skywalker Dagobah...
 han_solo This may smell bad, kid...
 luke_skywalker Yoda...
 han_solo ...but it will keep you warm... til I get the shelter built. Ooh... I thought they smelled bad on the outside!
-Four#unknown#StarWars.Episode05 snub-nosed armored snowspeeders race across the white landscape.
 rebel_force_zev_ Echo Base... I've got something! Not much, but it could be a life form.
 rebel_force_zev_ This is Rogue Two. this is Rogue Two. Captain Solo, so you copy? Commander Skywalker, do you copy? This is Rogue Two.
 han_solo Good morning. Nice of you guys to drop by.
 rebel_force_zev_ Echo Base... this is Rogue Two. I found them. Repeat, I found them.
 c3po Master Luke, sir, it's so good to see you fully functional again.
-r2d2 beeps
 c3po Artoo expresses his relief, also.
 han_solo How are you feeling, kid? You don't look so bad to me. In fact, you look strong enough to pull the ears off a Gundark.
 luke_skywalker Thanks to you.
@@ -132,8 +132,6 @@ han_solo Droid of some kind. I didn't hit it that hard. It must have had a self-
 princess_leia An Imperial probe droid.
 han_solo It's a good bet the Empire knows we're here.
 rebel_force_general_rieekan We'd better start the evacuation.
-darth_vader Vader's Star Destroyer, larger and more awesome than the five Imperial Star Destroyers that surround it, sits in the vastness of space. The six huge ships are surrounded by a convoy of smaller spacecraft. TIE fighters dart to and fro.
-Controllers#unknown#StarWars.Episode05 working the vast complex of electronic controls hear ominous approaching footsteps and look up from their controls. The squat, evil-looking Admiral Ozzel and the young, powerfully built General Veers, who have been conferring near the front, also feel the approaching presence and turn toward it. Darth Vader, Lord of the Sith, enters like a chill wind. As Vader moves across the wide bridge, Captain Piett hurries up to Ozzel.
 admiral_piett Admiral.
 admiral_ozzel Yes, Captain
 admiral_piett I think we've got something, sir. The report is only a fragment from a probe droid in the Hoth system, but it's the best lead we've had.
@@ -199,7 +197,6 @@ luke_skywalker That armor's too strong for blasters.
 luke_skywalker Rogue Group, use your harpoons and tow cables. Go for the legs. It might be our only chance of stopping them. All right, stand by, Dack.
 rebel_force_deck_lieutenant Luke, we've got a malfunction in fire control. I'll have to cut in the auxiliary.
 luke_skywalker Just hang on. Hang on, Dack. Get ready to fire that tow cable.
-After#unknown#StarWars.Episode05 sustaining a heavy volley of fire, Luke turns around to see if Dack is all right.
 luke_skywalker Dack? Dack!
 general_veers Yes, Lord Vader. I've reached the main power generator. The shield will be down in moments. You may start your landing.
 luke_skywalker Rogue Three.
@@ -234,7 +231,6 @@ rebel_force_zev_ Set for position three. Steady.
 luke_skywalker Stay tight and low.
 luke_skywalker Hobbie, I've been hit!
 han_solo You all right?
-princess_leia nods. She is surprised to see him.
 princess_leia Why are you still here?
 han_solo I heard the command center had been hit.
 princess_leia You got your clearance to leave.
@@ -265,7 +261,6 @@ c3po Captain Solo, Captain Solo... sir, might I suggest that you...
 c3po It can wait.
 princess_leia This bucket of bolts is never going to get us past that blockade.
 han_solo This baby's got a few surprises left in her, sweetheart.
-The#unknown#StarWars.Episode05 stormtroopers, preparing to fire their bazooka cannon, are hit by the Falcon's fire and are thrown about in all directions.
 han_solo Come on! Come on! Switch over. Let's hope we don't have a burnout.
 han_solo See?
 princess_leia Someday you're going to be wrong, and I hope I'm there to see it.
@@ -273,9 +268,7 @@ han_solo Punch it!
 luke_skywalker Artoo! Get her ready for takeoff.
 red_two_ Good luck, Luke. See you at the rendezvous.
 luke_skywalker Don't worry, Artoo. We're going, we're going.
-The#unknown#StarWars.Episode05 canopy over the X-wing lowers and snaps shut.
 luke_skywalker There's nothing wrong, Artoo. I'm just setting a new course.
-r2d2 beeps
 luke_skywalker We're not going to regroup with the others.
 luke_skywalker We're going to the Dagobah system.
 luke_skywalker Yes, Artoo?
@@ -323,9 +316,7 @@ c3po Excuse me, ma'am, but where are we going?
 princess_leia I hope you know what you're doing.
 han_solo Yeah, me too.
 luke_skywalker Yes, that's it. Dagobah.
-r2d2 beeps
 luke_skywalker No, I'm not going to change my mind about this. I'm not picking up any cities or technology. Massive life-form readings, though. There's something alive down there...
-r2d2 beeps
 luke_skywalker Yes, I'm sure it's perfectly safe for droids.
 luke_skywalker I know, I know! All the scopes are dead. I can't see a thing! Just hang on, I'm going to start the landing cycle...
 luke_skywalker No, Artoo, you stay put. I'll have a look around.
@@ -352,11 +343,10 @@ princess_leia Let go, please.
 han_solo Don't get excited.
 princess_leia Captain, being held by you isn't quite enough to get me excited.
 han_solo Sorry, sweetheart. We haven't got time for anything else.
-The#unknown#StarWars.Episode05 mist has dispersed a bit, but it is still a very gloomy-looking swamp.
 luke_skywalker Ready for some power? Okay. Let's see now. Put that in there. There you go.
 luke_skywalker Now all I have to do is find this Yoda... if he even exists.
 luke_skywalker Still... there's something familiar about this place. I feel like... I don't know...
-strange#unknown#StarWars.Episode05 voice Feel like what?
+strange#unknown#StarWars.Episode05 Feel like what?
 luke_skywalker Like we're being watched!
 snow_creature Away with your weapon! I mean you no harm.
 snow_creature I am wondering, why are you here?
@@ -374,7 +364,6 @@ luke_skywalker Hey, you could have broken this. Don't do that. Ohhh... you're ma
 snow_creature Mine! Or I will help you not.
 luke_skywalker I don't want your help. I want my lamp back. I'll need it to get out of this slimy mudhole.
 snow_creature Mudhole? Slimy? My home this is.
-r2d2 beeps
 snow_creature Ah, ah, ah!
 luke_skywalker Oh, Artoo, let him have it!
 snow_creature Mine! Mine!
@@ -389,7 +378,6 @@ luke_skywalker You know him?
 snow_creature Mmm. Take you to him, I will. Yes, yes. But now, we must eat. Come. Good food. Come.
 snow_creature Come, come.
 luke_skywalker Stay here and watch after the camp, Artoo.
-r2d2 beeps
 c3po Oh, where is Artoo when I need him?
 c3po Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect. I believe, sir, it says that the power coupling on the negative axis has been polarized. I'm afraid you'll have to replace it.
 han_solo Well, of course I'll have to replace it.
@@ -434,7 +422,6 @@ emperor The Force is strong with him. The son of Skywalker must not become a Jed
 darth_vader If he could be turned, he would become a powerful ally.
 emperor Yes. Yes. He would be a great asset. Can it be done?
 darth_vader He will join us or die, my master.
-darth_vader kneels. The supreme Emperor passes a hand over the crouched Lord of the Sith and fades away.
 luke_skywalker Look, I'm sure it's delicious. I just don't understand why we can't see Yoda now.
 snow_creature Patience! For the Jedi it is time to eat as well. Eat, eat. Hot. Good food, hm? Good, hmm?
 luke_skywalker How far away is Yoda? Will it take us long to get there?
@@ -443,13 +430,13 @@ luke_skywalker Mostly because of my father, I guess.
 snow_creature Ah, your father. Powerful Jedi was he, powerful Jedi, mmm.
 luke_skywalker Oh, come on. How could you know my father? You don't even know who I am. Oh, I don't know what I'm doing here. We're wasting our time.
 snow_creature I cannot teach him. The boy has no patience.
-ben_kenobi VOICE He will learn patience.
+ben_kenobi He will learn patience.
 yoda Hmmm. Much anger in him, like his father.
-ben_kenobi VOICE Was I any different when you taught me?
+ben_kenobi Was I any different when you taught me?
 yoda Hah. He is not ready.
 luke_skywalker Yoda! I am ready. I... Ben! I can be a Jedi. Ben, tell him I'm ready.
 yoda Ready, are you? What know you of ready? For eight hundred years have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind. This one a long time have I watched. All his life has he looked away... to the future, to the horizon. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. You are reckless!
-ben_kenobi VOICE So was I, if you'll remember.
+ben_kenobi So was I, if you'll remember.
 yoda He is too old. Yes, too old to begin the training.
 luke_skywalker But I've learned so much.
 yoda Will he finished what he begins?
@@ -476,7 +463,6 @@ princess_leia Mynocks?
 han_solo Go on inside. We'll clean them off if there are any more.
 c3po Ohhh! Go away! Go away! Beastly little thing. Shoo! Shoo!
 han_solo Wait a minute...
-chewbacca barks
 han_solo All right, Chewie, let's get out of here!
 princess_leia The Empire is still out there. I don't think it's wise to...
 han_solo No time to discuss this in committee.
@@ -636,7 +622,7 @@ yoda Luke! You must complete the training.
 luke_skywalker I can't keep the vision out of my head. They're my friends. I've got to help them.
 yoda You must not go!
 luke_skywalker But Han and Leia will die if I don't.
-ben_kenobi VOICE You don't know that.
+ben_kenobi You don't know that.
 ben_kenobi Even Yoda cannot see their fate.
 luke_skywalker But I can help them! I feel the Force!
 ben_kenobi But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force.
@@ -746,7 +732,6 @@ imperial_officer Skywalker has just landed, my lord.
 darth_vader Good. See to it that he finds his way here. Calrissian, take the princess and the Wookiee to my ship.
 lando_calrissian You said they'd be left in the city under my supervision.
 darth_vader I am altering the deal. Pray I don't alter it any further.
-boba_fett enters from a side hallway followed by two guards pushing the floating, encased body of Han Solo. Two stormtroopers, who follow, immediately spot Luke and open fire on him. The youth draws his weapon and blasts the two troopers before they can get off a second shot. The two guards whisk Han into another hallway as Fett lowers his arm and fires a deadly laser at Luke, which explodes to one side and tears up a huge chunk of wall.
 princess_leia Luke! Luke, don't - it's a trap! It's a trap!
 darth_vader The Force is with you, young Skywalker. But you are not a Jedi yet.
 lando_calrissian Well done. Hold them in the security tower - and keep it quiet. Move.
@@ -769,7 +754,6 @@ boba_fett Put Captain Solo in the cargo hold.
 c3po Artoo! Artoo! Where have you been?
 c3po Turn around, you wooly...! Hurry, hurry! We're trying to save Han from the bounty hunter!
 c3po Well, at least your still in one piece! Look what happened to me!
-chewbacca howls
 c3po Oh, no! Chewie, they're behind you!
 darth_vader You have learned much, young one.
 luke_skywalker You'll find I'm full of surprises.
@@ -806,7 +790,6 @@ princess_leia Luke... We've got to go back.
 lando_calrissian What?
 princess_leia I know where Luke is.
 lando_calrissian But what about those fighter?
-chewbacca barks
 princess_leia Chewie, just do it.
 lando_calrissian But what about Vader?
 lando_calrissian All right, all right, all right.
@@ -818,7 +801,6 @@ princess_leia Lando?
 lando_calrissian Okay, let's go.
 luke_skywalker Oh, Leia.
 lando_calrissian All right, Chewie. Let's go.
-The#unknown#StarWars.Episode05 Falcon, still followed by the three TIE fighters, races away from the cloud-covered city.
 princess_leia I'll be back.
 princess_leia Star Destroyer.
 lando_calrissian All right, Chewie. Ready for light-speed.
@@ -848,7 +830,6 @@ c3po Oh, you did it!
 lando_calrissian Luke, we're ready for takeoff.
 luke_skywalker Good luck, Lando
 lando_calrissian When we find Jabba the Hut and that bounty hunter, we'll contact you.
-luke_skywalker speaking into the comlink as a medical droid works on his hand. Leia stands near him while Threepio and Artoo look out the window.
 luke_skywalker I'll meet you at the rendezvous point on Tatooine.
 lando_calrissian Princess, we'll find Han. I promise.
 luke_skywalker Chewie, I'll be waiting for your signal.

@@ -1,4 +1,4 @@
-c3po  Did you hear that?
+c3po Did you hear that?
 c3po They shut down the main reactor.
 c3po We'll be destroyed for sure.
 c3po This is madness.
@@ -45,13 +45,13 @@ luke_skywalker That's funny.
 c3po The damage doesn't look as bad from out here.
 c3po Are you sure this thing is safe?
 han_solo Oh.
-leia Only you could be so bold.
+princess_leia Only you could be so bold.
 grand_moff_tarkin The Imperial Senate will not sit still for this.
 darth_vader You weren't on any mercy mission this time.
 darth_vader Several transmissions were beamed to this ship by rebel spies.
 darth_vader I want to know what happened to the plans they sent you.
-leia I don't know what you're talking about.
-leia I'm a member of the Imperial Senate on a diplomatic mission to Alderaan.
+princess_leia I don't know what you're talking about.
+princess_leia I'm a member of the Imperial Senate on a diplomatic mission to Alderaan.
 darth_vader You are part of the Rebel Alliance and a traitor.
 darth_vader Take her away!
 commander#unknown#StarWars.Episode04 Holding her is dangerous.
@@ -61,8 +61,8 @@ darth_vader Now she is my only link to finding their secret base.
 commander#unknown#StarWars.Episode04 She'll die before she'll tell you anything.
 darth_vader Leave that to me.
 darth_vader Send a distress signal, and then inform the senate that all aboard were killed.
-senator Lord Vader, the battle station plans are not aboard this ship, and no transmissions were made.
-senator An escape pod was jettisoned during the fighting, but no life-forms were aboard.
+the_emperor Lord Vader, the battle station plans are not aboard this ship, and no transmissions were made.
+the_emperor An escape pod was jettisoned during the fighting, but no life-forms were aboard.
 darth_vader She must have hidden the plans in the escape pod.
 darth_vader Send a detachment down to retrieve them- See to it personally, Commander.
 c3po There'll be no one to stop us this time.
@@ -157,7 +157,7 @@ luke_skywalker Itjust isn't fair.
 luke_skywalker Oh, Biggs is right.
 luke_skywalker I'm never gonna get out of here.
 c3po Is there anything I might do to help?
-leia No.
+princess_leia No.
 luke_skywalker Not unless you can alter time, speed up the harvest, or teleport me off this rock.
 c3po I don't think so, sir.
 c3po I'm only a droid and not very knowledgeable about such things, not on this planet, anyway.
@@ -173,7 +173,7 @@ luke_skywalker You got a lot of carbon scoring.
 luke_skywalker Looks like you boys have seen a lot of action.
 c3po With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the rebellion and all.
 luke_skywalker You know of the rebellion against the Empire?
-c3po 
+c3po
 c3po !
 c3po That's how we came to be in your service, if you take my meaning, sir.
 luke_skywalker Have you been in many battles?
@@ -182,15 +182,15 @@ c3po Actually, there's not much to tell.
 c3po I'm not much more than an interpreter and not very good at telling stories.
 c3po Well, not at making them interesting, anyway.
 luke_skywalker Well, my little friend, you got something jammed in here real good.
-leia You're my only hope.
+princess_leia You're my only hope.
 c3po What's this?
 c3po "What is what"?
 c3po He asked you a question.
 c3po What is that?
-leia Help me, Obi-Wan Kenobi.
-leia You're my only hope.
-leia Help me, Obi-Wan Kenobi.
-leia You're my only hope.
+princess_leia Help me, Obi-Wan Kenobi.
+princess_leia You're my only hope.
+princess_leia Help me, Obi-Wan Kenobi.
+princess_leia You're my only hope.
 c3po Old data.
 c3po Pay it no mind.
 luke_skywalker Who is she?
@@ -201,23 +201,23 @@ c3po A person of some importance, I believe.
 c3po Behave yourself, R2.
 c3po You're going to get us into trouble.
 clone_trooper It's all right.
-ben_obiwan_kenobi You can trust him.
+obiwan_kenobi You can trust him.
 c3po He's our new master.
 c3po He says that he's the property of Obi-Wan Kenobi, a resident of these parts, and it's a private message for him.
-leia Quite frankly, sir, I don't know what he's talking about.
+princess_leia Quite frankly, sir, I don't know what he's talking about.
 c3po But with all we've been through, this little R2 unit has become a bit eccentric.
-leia Obi-Wan Kenobi.
+princess_leia Obi-Wan Kenobi.
 luke_skywalker I wonder if he means old Ben Kenobi.
 c3po I beg your pardon, sir, but do you know what he's talking about?
 luke_skywalker I don't know any Obi-Wan, but old Ben lives out beyond the Dune Sea.
 luke_skywalker He's kind of a strange old hermit.
-leia Help me, Obi-Wan Kenobi.
+princess_leia Help me, Obi-Wan Kenobi.
 luke_skywalker I wonder who she is.
 c3po Sounds like she's in trouble.
 luke_skywalker I better play back the whole thing.
 r2d2 [Beep!
 r2d2 Beep!
-c3po 
+c3po
 c3po ]He says the restraining bolt has short-circuited his recording system.
 c3po He suggests that if you remove the bolt, he might be able to play back the entire recording.
 luke_skywalker Oh, yeah.
@@ -243,7 +243,7 @@ c3po What makes you think that?
 luke_skywalker Well, I stumbled across a recording while I was cleaning him.
 luke_skywalker He says he belongs to someone called Obi-Wan Kenobi.
 luke_skywalker I thought he might have meant old Ben.
-leia Do you know what he's talking about?
+princess_leia Do you know what he's talking about?
 luke_skywalker I wonder if he's related to Ben.
 uncle_owen That wizard's just a crazy old man.
 uncle_owen Tomorrow, I want you to take that R2 unit to Anchorhead and have its memory erased.
@@ -295,7 +295,7 @@ luke_skywalker Blast it!
 c3po Pardon me, sir, but couldn't we go after him?
 luke_skywalker It's too dangerous with all the Sandpeople around.
 luke_skywalker We'll have to wait until morning.
-luke_skywalker Uncle Owen: Luke!
+uncle_owen Luke!
 uncle_owen I'm shutting the power down.
 clone_trooper All right!
 luke_skywalker I'll be there in a few minutes.
@@ -314,44 +314,44 @@ luke_skywalker Lookit, there's a droid on the scanner.
 luke_skywalker Where do you think you're going?
 c3po Master Luke is your rightful owner now.
 c3po You're fortunate he doesn't blast you into a million pieces right here!
-leia No.
+princess_leia No.
 luke_skywalker What's wrong with him now?
 c3po There are several creatures approaching from the southeast.
 luke_skywalker Come on.
 luke_skywalker Come on!
 luke_skywalker They're Sandpeople, all right.
 luke_skywalker I can see one of them now.
-ben_obiwan_kenobi Hello, there.
-ben_obiwan_kenobi Come here, my little friend.
-ben_obiwan_kenobi Don't be afraid.
+obiwan_kenobi Hello, there.
+obiwan_kenobi Come here, my little friend.
+obiwan_kenobi Don't be afraid.
 grand_moff_tarkin Oh, don't worry.
 clone_trooper He'll be all right.
-ben_obiwan_kenobi You're fortunate to be all in one piece.
+obiwan_kenobi You're fortunate to be all in one piece.
 luke_skywalker Ben?
 luke_skywalker Ben Kenobi?
 luke_skywalker Boy, am I glad to see you.
-ben_obiwan_kenobi The Jundland Wastes are not to be traveled lightly.
-ben_obiwan_kenobi Tell me, young Luke, what brings you out this far?
+obiwan_kenobi The Jundland Wastes are not to be traveled lightly.
+obiwan_kenobi Tell me, young Luke, what brings you out this far?
 luke_skywalker This little droid.
 luke_skywalker He claims to be the property of an Obi-Wan Kenobi.
 luke_skywalker Is he a relative of yours?
-leia Do you know who he's talking about?
-leia Obi-Wan Kenobi?
-ben_obiwan_kenobi Obi-Wan.
-ben_obiwan_kenobi Now, that's a name I've not heard in a long time.
-ben_obiwan_kenobi A long time.
+princess_leia Do you know who he's talking about?
+princess_leia Obi-Wan Kenobi?
+obiwan_kenobi Obi-Wan.
+obiwan_kenobi Now, that's a name I've not heard in a long time.
+obiwan_kenobi A long time.
 luke_skywalker I think my uncle knows him.
 luke_skywalker He said he was dead.
 clone_trooper Oh, he's not dead.
 luke_skywalker You know him?
-ben_obiwan_kenobi Well, of course I know him.
-ben_obiwan_kenobi He's me.
-ben_obiwan_kenobi I haven't gone by the name of Obi-Wan since, oh, before you were born.
+obiwan_kenobi Well, of course I know him.
+obiwan_kenobi He's me.
+obiwan_kenobi I haven't gone by the name of Obi-Wan since, oh, before you were born.
 luke_skywalker Well, then the droid does belong to you.
-ben_obiwan_kenobi I don't seem to remember ever owning a droid.
-ben_obiwan_kenobi Very interesting.
-ben_obiwan_kenobi I think we better get indoors.
-ben_obiwan_kenobi The Sandpeople are easily startled, but they'll soon be back, and in greater numbers.
+obiwan_kenobi I don't seem to remember ever owning a droid.
+obiwan_kenobi Very interesting.
+obiwan_kenobi I think we better get indoors.
+obiwan_kenobi The Sandpeople are easily startled, but they'll soon be back, and in greater numbers.
 c3po Where am I?
 c3po I must have taken a bad step.
 luke_skywalker Can you stand?
@@ -362,83 +362,83 @@ c3po There's no sense in you risking yourself on my account.
 c3po I'm done for.
 luke_skywalker No, you're not.
 luke_skywalker What kind of talk is that?
-leia They're on the move.
+princess_leia They're on the move.
 luke_skywalker No, my father didn't fight in the wars.
 luke_skywalker He was a navigator on a spice freighter.
-ben_obiwan_kenobi That's what your uncle told you.
-ben_obiwan_kenobi He didn't hold with your father's ideals.
-ben_obiwan_kenobi Thought he should have stayed here and not gotten involved.
+obiwan_kenobi That's what your uncle told you.
+obiwan_kenobi He didn't hold with your father's ideals.
+obiwan_kenobi Thought he should have stayed here and not gotten involved.
 luke_skywalker You fought in the Clone Wars?
 grand_moff_tarkin Yes.
-ben_obiwan_kenobi I was once a Jedi knight, the same as your father.
+obiwan_kenobi I was once a Jedi knight, the same as your father.
 luke_skywalker I wish I'd known him.
-ben_obiwan_kenobi He was the best starpilot in the galaxy and a cunning warrior.
-ben_obiwan_kenobi I understand you've become quite a good pilot yourself.
-ben_obiwan_kenobi And he was a good friend.
-ben_obiwan_kenobi Which reminds me, I have something here for you.
-ben_obiwan_kenobi Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it.
-ben_obiwan_kenobi He feared you might follow old Obi-Wan on some damn-fool idealistic crusade like your father did.
+obiwan_kenobi He was the best starpilot in the galaxy and a cunning warrior.
+obiwan_kenobi I understand you've become quite a good pilot yourself.
+obiwan_kenobi And he was a good friend.
+obiwan_kenobi Which reminds me, I have something here for you.
+obiwan_kenobi Your father wanted you to have this when you were old enough, but your uncle wouldn't allow it.
+obiwan_kenobi He feared you might follow old Obi-Wan on some damn-fool idealistic crusade like your father did.
 c3po Sir, if you'll not be needing me, I'll close down for a while.
 luke_skywalker Sure.
 c3po What is it?
-ben_obiwan_kenobi It's your father's lightsaber.
-ben_obiwan_kenobi This is the weapon of a Jedi knight.
-ben_obiwan_kenobi Not as clumsy or random as a blaster.
-ben_obiwan_kenobi An elegant weapon for a more civilized age.
-ben_obiwan_kenobi For over a thousand generations, the Jedi knights were the guardians of peace and justice in the old Republic, before the dark times, before the Empire.
+obiwan_kenobi It's your father's lightsaber.
+obiwan_kenobi This is the weapon of a Jedi knight.
+obiwan_kenobi Not as clumsy or random as a blaster.
+obiwan_kenobi An elegant weapon for a more civilized age.
+obiwan_kenobi For over a thousand generations, the Jedi knights were the guardians of peace and justice in the old Republic, before the dark times, before the Empire.
 luke_skywalker How did my father die?
-ben_obiwan_kenobi A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi knights.
-ben_obiwan_kenobi He betrayed and murdered your father.
-ben_obiwan_kenobi Now the Jedi are all but extinct.
-ben_obiwan_kenobi Vader was seduced by the dark side of the Force.
+obiwan_kenobi A young Jedi named Darth Vader, who was a pupil of mine until he turned to evil, helped the Empire hunt down and destroy the Jedi knights.
+obiwan_kenobi He betrayed and murdered your father.
+obiwan_kenobi Now the Jedi are all but extinct.
+obiwan_kenobi Vader was seduced by the dark side of the Force.
 luke_skywalker The Force?
-ben_obiwan_kenobi The Force is what gives a Jedi his power.
-ben_obiwan_kenobi It's an energy field created by all living things.
-ben_obiwan_kenobi Now let's see if we can't figure out what you are, my little friend, and where you come from.
+obiwan_kenobi The Force is what gives a Jedi his power.
+obiwan_kenobi It's an energy field created by all living things.
+obiwan_kenobi Now let's see if we can't figure out what you are, my little friend, and where you come from.
 luke_skywalker I saw part of a message he was I seem to have found it.
-leia General Kenobi, years ago you served my father in the Clone Wars.
-leia Now he begs you to help him in his struggle against the Empire.
-leia I regret that I am unable to present my father's request to you in person.
-leia But my ship has fallen under attack, and I am afraid my mission to bring you to Alderaan has failed.
-leia I have placed information vital to the survival of the rebellion into the memory systems of this R2 unit.
-leia My father will know how to retrieve it.
-leia You must see this droid safely delivered to him on Alderaan.
-leia This is our most desperate hour.
-leia Help me, Obi-Wan Kenobi.
-leia You're my only hope.
-ben_obiwan_kenobi You must learn the ways of the Force if you're to come with me to Alderaan.
+princess_leia General Kenobi, years ago you served my father in the Clone Wars.
+princess_leia Now he begs you to help him in his struggle against the Empire.
+princess_leia I regret that I am unable to present my father's request to you in person.
+princess_leia But my ship has fallen under attack, and I am afraid my mission to bring you to Alderaan has failed.
+princess_leia I have placed information vital to the survival of the rebellion into the memory systems of this R2 unit.
+princess_leia My father will know how to retrieve it.
+princess_leia You must see this droid safely delivered to him on Alderaan.
+princess_leia This is our most desperate hour.
+princess_leia Help me, Obi-Wan Kenobi.
+princess_leia You're my only hope.
+obiwan_kenobi You must learn the ways of the Force if you're to come with me to Alderaan.
 luke_skywalker Alderaan?
 c3po I'm not going to Alderaan.
 luke_skywalker I've got to get home.
 luke_skywalker It's late.
 luke_skywalker I'm in for it as it is.
-ben_obiwan_kenobi I need your help, Luke.
+obiwan_kenobi I need your help, Luke.
 luke_skywalker She needs your help.
-ben_obiwan_kenobi I'm getting too old for this sort of thing.
+obiwan_kenobi I'm getting too old for this sort of thing.
 luke_skywalker I can't get involved.
 luke_skywalker I've got work to do.
 luke_skywalker It's not that I like the Empire.
 luke_skywalker I hate it, but there's nothing I can do about it right now.
 luke_skywalker It's all such a long way from here.
-ben_obiwan_kenobi That's your uncle talking.
+obiwan_kenobi That's your uncle talking.
 luke_skywalker How am I ever gonna explain this?
-ben_obiwan_kenobi Learn about the Force, Luke.
+obiwan_kenobi Learn about the Force, Luke.
 luke_skywalker Look, I can take you as far as Anchorhead.
 luke_skywalker You can get a transport there to Mos Eisley or wherever you're going.
-ben_obiwan_kenobi You must do what you feel is right, of course.
-tagge#unknown#StarWars.Episode04 Until this battle station is fully operational, we are vulnerable.
-tagge#unknown#StarWars.Episode04 The Rebel Alliance is too well equipped.
-tagge#unknown#StarWars.Episode04 They're more dangerous than you realize.
+obiwan_kenobi You must do what you feel is right, of course.
+general_taggi Until this battle station is fully operational, we are vulnerable.
+general_taggi The Rebel Alliance is too well equipped.
+general_taggi They're more dangerous than you realize.
 general_motti Dangerous to your starfleet, Commander, not to this battle station.
-tagge#unknown#StarWars.Episode04 The rebellion will continue to gain support in the Imperial Senate- The Imperial Senate will no longer be of any concern to us.
+general_taggi The rebellion will continue to gain support in the Imperial Senate- The Imperial Senate will no longer be of any concern to us.
 grand_moff_tarkin I have just received word that the emperor has dissolved the council permanently.
 grand_moff_tarkin The last remnants of the old Republic have been swept away.
-tagge#unknown#StarWars.Episode04 That's impossible.
-tagge#unknown#StarWars.Episode04 How will the emperor maintain control without the bureaucracy?
+general_taggi That's impossible.
+general_taggi How will the emperor maintain control without the bureaucracy?
 grand_moff_tarkin The regional governors now have direct control over their territories.
 grand_moff_tarkin Fear will keep the local systems in line- fear of this battle station.
-tagge#unknown#StarWars.Episode04 And what of the rebellion?
-tagge#unknown#StarWars.Episode04 If the rebels have obtained a complete technical readout of this station, it is possible, however unlikely, that they might find a weakness and exploit it.
+general_taggi And what of the rebellion?
+general_taggi If the rebels have obtained a complete technical readout of this station, it is possible, however unlikely, that they might find a weakness and exploit it.
 darth_vader The plans you refer to will soon be back in our hands.
 general_motti Any attack made by the rebels against this station would be a useless gesture, no matter what technical data they've obtained.
 general_motti This station is now the ultimate power in the universe.
@@ -457,57 +457,57 @@ luke_skywalker It looks like the Sandpeople did this, all right.
 luke_skywalker Look.
 luke_skywalker There's gaffi sticks, bantha tracks.
 luke_skywalker It's just, I've never heard of them hitting anything this big before.
-ben_obiwan_kenobi They didn't, but we are meant to think they did.
-ben_obiwan_kenobi These tracks are side-by-side.
-ben_obiwan_kenobi Sandpeople always ride single file to hide their numbers.
+obiwan_kenobi They didn't, but we are meant to think they did.
+obiwan_kenobi These tracks are side-by-side.
+obiwan_kenobi Sandpeople always ride single file to hide their numbers.
 luke_skywalker These are the same Jawas that sold us R2 and 3PO.
-ben_obiwan_kenobi And these blast points, too accurate for Sandpeople.
-ben_obiwan_kenobi Only imperial stormtroopers are so precise.
+obiwan_kenobi And these blast points, too accurate for Sandpeople.
+obiwan_kenobi Only imperial stormtroopers are so precise.
 luke_skywalker But why would imperial troops want to slaughterJawas?
 luke_skywalker If they traced the robots here, they may have learned who they sold them to, and that would lead them back home!
-ben_obiwan_kenobi Wait, Luke!
-ben_obiwan_kenobi It's too dangerous!
+obiwan_kenobi Wait, Luke!
+obiwan_kenobi It's too dangerous!
 luke_skywalker Uncle Owen!
 luke_skywalker Aunt Beru!
 luke_skywalker Uncle Owen!
 darth_vader And now, Your Highness, we will discuss the location of your hidden rebel base.
-ben_obiwan_kenobi There's nothing you could have done, Luke, had you been there.
-ben_obiwan_kenobi You'd have been killed, too, and the droids would now be in the hands of the Empire.
+obiwan_kenobi There's nothing you could have done, Luke, had you been there.
+obiwan_kenobi You'd have been killed, too, and the droids would now be in the hands of the Empire.
 luke_skywalker I want to come with you to Alderaan.
 luke_skywalker There's nothing for me here now.
-ben_obiwan_kenobi I want to learn the ways of the Force and become a Jedi like my father.
-ben_obiwan_kenobi Mos Eisley spaceport.
-ben_obiwan_kenobi You will never find a more wretched hive of scum and villainy.
-ben_obiwan_kenobi We must be cautious.
+obiwan_kenobi I want to learn the ways of the Force and become a Jedi like my father.
+obiwan_kenobi Mos Eisley spaceport.
+obiwan_kenobi You will never find a more wretched hive of scum and villainy.
+obiwan_kenobi We must be cautious.
 clone_trooper How long have you had these droids?
 luke_skywalker Three or four seasons.
-ben_obiwan_kenobi They're up for sale if you want them.
+obiwan_kenobi They're up for sale if you want them.
 clone_trooper Let me see your identification.
 clone_trooper You don't need to see his identification.
 clone_trooper We don't need to see his identification.
-ben_obiwan_kenobi These aren't the droids you're looking for.
-ben_obiwan_kenobi These aren't the droids we're looking for.
-ben_obiwan_kenobi He can go about his business.
-ben_obiwan_kenobi You can go about your business.
-ben_obiwan_kenobi Move along.
+obiwan_kenobi These aren't the droids you're looking for.
+obiwan_kenobi These aren't the droids we're looking for.
+obiwan_kenobi He can go about his business.
+obiwan_kenobi You can go about your business.
+obiwan_kenobi Move along.
 luke_skywalker I can't abide those Jawas.
 c3po Disgusting creatures!
 luke_skywalker Go on, go on.
 luke_skywalker I can't understand how we got by those troops.
 red_three_ I thought we were dead.
-ben_obiwan_kenobi The Force can have a strong influence on the weak-minded.
+obiwan_kenobi The Force can have a strong influence on the weak-minded.
 luke_skywalker Do you really think we're gonna find a pilot here that'll take us to Alderaan?
-ben_obiwan_kenobi Most of the best freighter pilots are to be found here, only watch your step.
-ben_obiwan_kenobi This place can be a little rough.
+obiwan_kenobi Most of the best freighter pilots are to be found here, only watch your step.
+obiwan_kenobi This place can be a little rough.
 luke_skywalker I'm ready for anything.
 luke_skywalker Come along, R2.
 luke_skywalker Hey!
-bartender#unknown#StarWars.Episode04 We don't serve their kind here.
+wuher We don't serve their kind here.
 luke_skywalker What?
-bartender#unknown#StarWars.Episode04 Your droids, they'll have to wait outside.
-bartender#unknown#StarWars.Episode04 We don't want them here.
+wuher Your droids, they'll have to wait outside.
+wuher We don't want them here.
 luke_skywalker Why don't you wait out by the speeder?
-bartender#unknown#StarWars.Episode04 We don't want any trouble.
+wuher We don't want any trouble.
 c3po I heartily agree with you, sir.
 human#unknown#StarWars.Episode04 He doesn't like you.
 luke_skywalker I'm sorry.
@@ -517,25 +517,25 @@ c3po We're wanted men.
 human#unknown#StarWars.Episode04 I have the death sentence on 12 systems.
 luke_skywalker I'll be careful.
 human#unknown#StarWars.Episode04 You'll be dead!
-ben_obiwan_kenobi This little one's not worth the effort.
-ben_obiwan_kenobi Come, let me get you something.
+obiwan_kenobi This little one's not worth the effort.
+obiwan_kenobi Come, let me get you something.
 clone_trooper I'm all right.
-ben_obiwan_kenobi Chewbacca here is first mate on a ship that might suit us.
+obiwan_kenobi Chewbacca here is first mate on a ship that might suit us.
 human#unknown#StarWars.Episode04 I don't like the look of this.
 han_solo Han Solo.
 han_solo I'm captain of the Millennium Falcon.
 han_solo Chewie here tells me you're looking for passage to the Alderaan system.
-ben_obiwan_kenobi Yes, indeed, if it's a fast ship.
+obiwan_kenobi Yes, indeed, if it's a fast ship.
 han_solo Fast ship?
 han_solo You've never heard of the Millennium Falcon?
-ben_obiwan_kenobi Should I have?
+obiwan_kenobi Should I have?
 han_solo It's the ship that made the Kessel run in less than 12 parsecs.
 han_solo I'm talking about the big Corellian ships now.
 han_solo She's fast enough for you, old man.
 c3po What's the cargo?
-ben_obiwan_kenobi Only passengers myself, the boy, two droids, and no questions asked.
+obiwan_kenobi Only passengers myself, the boy, two droids, and no questions asked.
 han_solo What is it, some kind of local trouble?
-ben_obiwan_kenobi Let's just say we'd like to avoid any imperial entanglements.
+obiwan_kenobi Let's just say we'd like to avoid any imperial entanglements.
 han_solo Well, that's the real trick, isn't it?
 han_solo And it's gonna cost you something extra.
 luke_skywalker We could almost buy our own ship for that!
@@ -545,18 +545,18 @@ luke_skywalker I'm not such a bad pilot myself.
 han_solo Seventeen, huh?
 han_solo You guys got yourselves a ship.
 han_solo We'll leave as soon as you're ready.
-ben_obiwan_kenobi Ninety-four.
+obiwan_kenobi Ninety-four.
 han_solo Looks like somebody's beginning to take an interest in your handiwork.
 clone_trooper All right.
 clone_trooper We'll check it out.
 han_solo Those guys must really be desperate.
 han_solo This could really save my neck.
 han_solo Get back to the ship, get it ready.
-bartender#unknown#StarWars.Episode04 You'll have to sell your speeder.
+wuher You'll have to sell your speeder.
 luke_skywalker That's O.K.
 luke_skywalker I'm never coming back to this planet again.
 greedo Going somewhere, Solo?
-ben_obiwan_kenobi Yes, Greedo.
+obiwan_kenobi Yes, Greedo.
 han_solo As a matter of fact, I was just going to see your boss.
 han_solo Tell Jabba that I've got his money.
 luke_skywalker It's too late.
@@ -598,7 +598,7 @@ darth_vader Give it to me.
 uncle_owen I'll take it.
 luke_skywalker Look at this.
 luke_skywalker Ever since the XP-38 came out, they just aren't in demand.
-ben_obiwan_kenobi It'll be enough.
+obiwan_kenobi It'll be enough.
 jabba_the_hutt Come out of there, Solo!
 han_solo I've been waitin' for you.
 darth_vader Have you now.
@@ -616,7 +616,7 @@ c3po Don't push it.
 luke_skywalker Okay, 15%.
 jabba_the_hutt But if you fail me again I'll put a price on your head so big you won't be able to go near a civilized system.
 luke_skywalker Come on!
-ben_obiwan_kenobi If the ship's as fast as he's boasting, we ought to do well.
+obiwan_kenobi If the ship's as fast as he's boasting, we ought to do well.
 luke_skywalker What a piece of junk!
 clone_trooper She'll make.5 past light speed.
 han_solo She may not look like much, but she's got it where it counts, kid.
@@ -644,7 +644,7 @@ han_solo We'll be safe enough once we make the jump to hyperspace.
 han_solo Besides, I know a few maneuvers.
 han_solo We'll lose 'em.
 han_solo Here's where the fun begins.
-ben_obiwan_kenobi How long before you can make the jump to light speed?
+obiwan_kenobi How long before you can make the jump to light speed?
 han_solo It'll take a few moments to get the coordinates from the navicomputer.
 luke_skywalker Are you kidding?
 luke_skywalker At the rate they're gaining?
@@ -652,28 +652,28 @@ han_solo Traveling through hyperspace ain't like dustin' crops, boy!
 han_solo Without precise calculations, we'd fly right through a star or bounce too close to a supernova, and that would end your trip real quick, wouldn't it?
 c3po What's that flashing?
 han_solo We're losing a deflector shield.
-ben_obiwan_kenobi I'm gonna make the jump to light speed.
+obiwan_kenobi I'm gonna make the jump to light speed.
 general_motti We've entered the Alderaan system.
-leia I should have expected to find you holding Vader's leash.
-leia I recognized your foul stench when I was brought on board.
+princess_leia I should have expected to find you holding Vader's leash.
+princess_leia I recognized your foul stench when I was brought on board.
 grand_moff_tarkin Charming to the last.
 grand_moff_tarkin You don't know how hard I found it signing the order to terminate your life.
-leia I'm surprised you had the courage to take the responsibility yourself.
+princess_leia I'm surprised you had the courage to take the responsibility yourself.
 grand_moff_tarkin Princess Leia, before your execution I would like you to be my guest at a ceremony that will make this battle station operational.
 grand_moff_tarkin No star system will dare oppose the emperor now.
-leia The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.
+princess_leia The more you tighten your grip, Tarkin, the more star systems will slip through your fingers.
 grand_moff_tarkin Not after we demonstrate the power of this station.
 grand_moff_tarkin In a way, you have determined the choice of the planet that will be destroyed first.
 grand_moff_tarkin Since you are reluctant to provide us with the location of the rebel base, I have chosen to test this station's destructive power on your home planet ofAlderaan.
-leia No!
-leia Alderaan is peaceful.
-leia We have no weapons.
+princess_leia No!
+princess_leia Alderaan is peaceful.
+princess_leia We have no weapons.
 grand_moff_tarkin You can't possibly You would prefer another target?
 grand_moff_tarkin A military target?
 grand_moff_tarkin Then name the system.
 grand_moff_tarkin Where is the rebel base?
-leia Dantooine.
-leia They're on Dantooine.
+princess_leia Dantooine.
+princess_leia They're on Dantooine.
 grand_moff_tarkin There.
 grand_moff_tarkin Continue with the operation.
 grand_moff_tarkin You may fire when ready.
@@ -681,13 +681,13 @@ luke_skywalker What?
 grand_moff_tarkin You're far too trusting.
 grand_moff_tarkin Dantooine is too remote to make an effective demonstration, but don't worry.
 grand_moff_tarkin We will deal with your rebel friends soon enough.
-leia No!
+princess_leia No!
 darth_vader Commence primary ignition.
 clone_trooper Are you all right?
 c3po What's wrong?
-ben_obiwan_kenobi I felt a great disturbance in the Force, as if millions of voices suddenly cried out in terror and were suddenly silenced.
-ben_obiwan_kenobi I fear something terrible has happened.
-ben_obiwan_kenobi You'd better get on with your exercises.
+obiwan_kenobi I felt a great disturbance in the Force, as if millions of voices suddenly cried out in terror and were suddenly silenced.
+obiwan_kenobi I fear something terrible has happened.
+obiwan_kenobi You'd better get on with your exercises.
 han_solo Well, you can forget your troubles with those imperial slugs.
 luke_skywalker I told you I'd outrun them.
 han_solo Don't everybody thank me at once.
@@ -703,32 +703,32 @@ han_solo Wookiees are known to do that.
 c3po Grrr I see your point, sir.
 c3po I suggest a new strategy, R2.
 c3po Let the Wookiee win.
-ben_obiwan_kenobi Remember, a Jedi can feel the Force flowing through him.
+obiwan_kenobi Remember, a Jedi can feel the Force flowing through him.
 luke_skywalker You mean it controls your actions?
-ben_obiwan_kenobi Partially, but it also obeys your commands.
+obiwan_kenobi Partially, but it also obeys your commands.
 han_solo Hokey religions and ancient weapons are no match for a good blaster at your side, kid.
 luke_skywalker You don't believe in the Force, do you?
 han_solo Kid, I've flown from one side of this galaxy to the other.
 han_solo I've seen a lot of strange stuff, but I've never seen anything to make me believe there's one all-powerful force controlling everything.
 han_solo There's no mystical energy field controls my destiny.
 han_solo It's all a lot of simple tricks and nonsense.
-ben_obiwan_kenobi I suggest you try it again, Luke.
-ben_obiwan_kenobi This time, let go your conscious self and act on instinct.
+obiwan_kenobi I suggest you try it again, Luke.
+obiwan_kenobi This time, let go your conscious self and act on instinct.
 luke_skywalker With the blast shield down, I can't even see.
 luke_skywalker How am I supposed to fight?
-ben_obiwan_kenobi Your eyes can deceive you.
-ben_obiwan_kenobi Don't trust them.
-ben_obiwan_kenobi Stretch out with your feelings.
+obiwan_kenobi Your eyes can deceive you.
+obiwan_kenobi Don't trust them.
+obiwan_kenobi Stretch out with your feelings.
 han_solo You see?
-ben_obiwan_kenobi You can do it.
-han_solo Han: I call it luck.
-ben_obiwan_kenobi In my experience, there's no such thing as luck.
+obiwan_kenobi You can do it.
+han_solo I call it luck.
+obiwan_kenobi In my experience, there's no such thing as luck.
 han_solo Look, good against remotes is one thing.
 han_solo Looks like we're coming up on Alderaan.
 luke_skywalker You know, I did feel something.
 luke_skywalker I could almost see the remote.
 luke_skywalker That's good.
-ben_obiwan_kenobi You've taken your first step into a larger world.
+obiwan_kenobi You've taken your first step into a larger world.
 grand_moff_tarkin Yes?
 officer_cass#unknown#StarWars.Episode04 Our scout ships have reached Dantooine.
 officer_cass#unknown#StarWars.Episode04 They found the remains of a rebel base, but they estimate that it has been deserted for some time.
@@ -752,23 +752,23 @@ han_solo It ain't there.
 han_solo It's been totally blown away.
 luke_skywalker What?
 luke_skywalker How?
-ben_obiwan_kenobi Destroyed by the Empire.
+obiwan_kenobi Destroyed by the Empire.
 han_solo The entire starfleet couldn't destroy the whole planet.
 luke_skywalker Maybe they know what happened.
-ben_obiwan_kenobi It's an imperial fighter.
+obiwan_kenobi It's an imperial fighter.
 luke_skywalker It followed us!
-leia No.
-ben_obiwan_kenobi It's a short-range fighter.
+princess_leia No.
+obiwan_kenobi It's a short-range fighter.
 luke_skywalker There aren't any bases around here.
 han_solo Where did it come from?
 luke_skywalker It sure is leaving in a big hurry.
 luke_skywalker If they identify us, we're in big trouble.
 han_solo Not if I can help it.
 han_solo Chewie, jam its transmissions.
-ben_obiwan_kenobi It would be as well to let it go.
-ben_obiwan_kenobi It's too far out of range.
+obiwan_kenobi It would be as well to let it go.
+obiwan_kenobi It's too far out of range.
 han_solo Not for long.
-ben_obiwan_kenobi A fighter that size couldn't get this deep into space on its own.
+obiwan_kenobi A fighter that size couldn't get this deep into space on its own.
 luke_skywalker He must have gotten lost, been part of a convoy or something.
 han_solo Well, he ain't gonna be around long enough to tell anybody about us.
 luke_skywalker Look at him.
@@ -776,8 +776,8 @@ luke_skywalker He's heading for that small moon.
 han_solo I think I can get him before he gets there.
 han_solo He's almost in range.
 luke_skywalker That's no moon.
-ben_obiwan_kenobi It's a space station.
-ben_obiwan_kenobi It's too big to be a space station.
+obiwan_kenobi It's a space station.
+obiwan_kenobi It's too big to be a space station.
 luke_skywalker I have a very bad feeling about this.
 uncle_owen Yeah.
 han_solo I think you're right.
@@ -785,7 +785,7 @@ han_solo Full reverse!
 han_solo Chewie, lock in the auxiliary power.
 han_solo Chewie, lock in the auxiliary power!
 c3po Why are we still moving towards it?
-c3po 
+c3po
 c3po !
 han_solo We're caught in a tractor beam.
 han_solo It's pulling us in!
@@ -794,7 +794,7 @@ luke_skywalker There's nothing I can do about it, kid.
 han_solo I'm at full power.
 han_solo I'm gonna have to shut down.
 han_solo They're not gonna get me without a fight.
-ben_obiwan_kenobi You can't win, but there are alternatives to fighting.
+obiwan_kenobi You can't win, but there are alternatives to fighting.
 voice_over_death_star_intercom#unknown#StarWars.Episode04 We are opening the magnetic field.
 clone_trooper To your stations!
 luke_skywalker Come with me.
@@ -824,21 +824,21 @@ han_solo This is ridiculous.
 han_solo Even if I could take off, I'd never get past the tractor beam.
 darth_vader Leave that to me.
 han_solo Damn fool, I knew that you were gonna say that.
-ben_obiwan_kenobi Who's the more foolish, the fool or the fool who follows him?
+obiwan_kenobi Who's the more foolish, the fool or the fool who follows him?
 clone_trooper The ship's all yours.
 clone_trooper If the scanners pick up anything, report it immediately.
 uncle_owen All right, let's go.
 han_solo Could you give us a hand with this?
-GANTRY_officer#unknown#StarWars.Episode04 TK-421, why aren't you at your post?
-GANTRY_officer#unknown#StarWars.Episode04 Take over.
-GANTRY_officer#unknown#StarWars.Episode04 We've got a bad transmitter.
+lt_pol_treidum TK-421, why aren't you at your post?
+lt_pol_treidum Take over.
+lt_pol_treidum We've got a bad transmitter.
 luke_skywalker I'll see what I can do.
 luke_skywalker Between his howling and your blasting everything in sight, it's a wonder the whole station doesn't know we're here.
 han_solo Bring them on!
 han_solo I'd prefer a straight fight to all this sneakin' around.
 c3po We've found the computer outlet, sir.
-ben_obiwan_kenobi Plug in.
-ben_obiwan_kenobi He should be able to interpret the entire imperial network.
+obiwan_kenobi Plug in.
+obiwan_kenobi He should be able to interpret the entire imperial network.
 c3po He says he's found the main controls to the power beam that's holding the ship here.
 c3po He'll try to make the precise location appear on the monitor.
 c3po The tractor beam is coupled to the main reactor in seven locations.
@@ -848,11 +848,11 @@ luke_skywalker I must go alone.
 han_solo Whatever you say.
 han_solo I've done more than I bargained for on this trip already.
 luke_skywalker I want to go with you.
-ben_obiwan_kenobi Be patient, Luke.
-ben_obiwan_kenobi Stay and watch over the droids.
-ben_obiwan_kenobi They must be delivered safely, or other star systems will suffer the same fate as Alderaan.
-ben_obiwan_kenobi Your destiny lies along a different path from mine.
-ben_obiwan_kenobi The Force will be with you always.
+obiwan_kenobi Be patient, Luke.
+obiwan_kenobi Stay and watch over the droids.
+obiwan_kenobi They must be delivered safely, or other star systems will suffer the same fate as Alderaan.
+obiwan_kenobi Your destiny lies along a different path from mine.
+obiwan_kenobi The Force will be with you always.
 luke_skywalker You said it, Chewie.
 han_solo Where did you dig up that old fossil?
 luke_skywalker Ben is a great man.
@@ -865,7 +865,7 @@ c3po He says "I've found her" and keeps repeating "She's here." Well, who who ha
 c3po Princess Leia.
 luke_skywalker The princess?
 luke_skywalker She's here?
-c3po 
+c3po
 c3po !
 c3po Princess?
 grand_moff_tarkin Where?
@@ -903,28 +903,28 @@ luke_skywalker You will.
 luke_skywalker All right, kid.
 han_solo You better be right about this.
 clone_trooper All right.
-ben_obiwan_kenobi What's your plan?
+obiwan_kenobi What's your plan?
 luke_skywalker Um 3 PO, hand me those binders there, will you?
 luke_skywalker Now I'm gonna put these on you.
 luke_skywalker Han, you you put those on.
-ben_obiwan_kenobi Don't worry, Chewie.
+obiwan_kenobi Don't worry, Chewie.
 han_solo I think I know what he has in mind.
 c3po Master Luke, sir, pardon me for asking, but what should R2 and I do if we're discovered here?
 c3po Lock the door.
 han_solo And hope they don't have blasters.
 c3po That isn't very reassuring.
-luke_skywalker Luke: I can't see a thing in this helmet.
-han_solo Han: This is not gonna work.
-luke_skywalker Luke: Why didn't you say so before?
+luke_skywalker I can't see a thing in this helmet.
+han_solo This is not gonna work.
+luke_skywalker Why didn't you say so before?
 luke_skywalker I did say so before.
 c3po Where are you taking this thing?
 officer#unknown#StarWars.Episode04 I wasn't notified.
 officer#unknown#StarWars.Episode04 I'll have to clear it.
-han_solo Han: Look out!
+han_solo Look out!
 han_solo He's loose!
 luke_skywalker I'll get him!
 luke_skywalker Look out!
-han_solo Han: We gotta find out which cell this princess of yours is in.
+han_solo We gotta find out which cell this princess of yours is in.
 han_solo You go and get her.
 han_solo I'll hold them here.
 han_solo Uh Uh, everything's under control.
@@ -943,27 +943,27 @@ han_solo What's your operating number?
 han_solo Uh Boring conversation anyway.
 aunt_beru Luke!
 han_solo We're gonna have company!
-leia Aren't you a little short for a stormtrooper?
+princess_leia Aren't you a little short for a stormtrooper?
 luke_skywalker Oh, the uniform.
 luke_skywalker I'm Luke Skywalker.
 luke_skywalker I'm here to rescue you.
-leia You're who?
+princess_leia You're who?
 luke_skywalker I'm here to rescue you.
 luke_skywalker I've got your R2 unit.
 luke_skywalker I'm here with Ben Kenobi.
 luke_skywalker Ben Kenobi?
-c3po 
+c3po
 c3po !
 luke_skywalker Where is he?
 luke_skywalker Come on!
-ben_obiwan_kenobi He is here.
-leia Obi-Wan Kenobi?
+obiwan_kenobi He is here.
+princess_leia Obi-Wan Kenobi?
 luke_skywalker What makes you think so?
 darth_vader A tremor in the Force.
 darth_vader The last time I felt it was in the presence of my old master.
 grand_moff_tarkin Surely he must be dead by now.
 darth_vader Don't underestimate the Force.
-ben_obiwan_kenobi The Jedi are extinct.
+obiwan_kenobi The Jedi are extinct.
 grand_moff_tarkin Their fire has gone out of the universe.
 grand_moff_tarkin You, my friend, are all that's left of their religion.
 grand_moff_tarkin Yes.
@@ -974,12 +974,12 @@ darth_vader Obi-Wan is here.
 darth_vader The Force is with him.
 grand_moff_tarkin If you're right, he must not be allowed to escape.
 darth_vader Escape is not his plan.
-ben_obiwan_kenobi I must face him alone.
+obiwan_kenobi I must face him alone.
 han_solo Get behind me!
 han_solo Get behind me!
 red_leader Watch your left.
 han_solo Can't get out that way.
-leia Looks like you managed to cut off our only escape route.
+princess_leia Looks like you managed to cut off our only escape route.
 han_solo Maybe you'd like it back in your cell, Your Highness.
 commander#unknown#StarWars.Episode04 Yes, sir?
 luke_skywalker Are there any other ways out of the cell bay?
@@ -987,20 +987,20 @@ luke_skywalker We've been cut off!
 c3po What was that?
 luke_skywalker I didn't copy.
 c3po I said all systems have been alerted to your presence, sir.
-clone_trooper Stormtrooper: Open up in there!
+clone_trooper Open up in there!
 clone_trooper Open up in there!
 luke_skywalker Oh, no!
 chief_pilot#unknown#StarWars.Episode04 There isn't any other way out!
 han_solo I can't hold them off forever!
 han_solo Now what?
-c3po 
+c3po
 c3po !
 c3po This is some rescue!
-leia You came in here, and you didn't have a plan for getting out?
+princess_leia You came in here, and you didn't have a plan for getting out?
 han_solo He's the brains, sweetheart!
 c3po Well, I didn't- What the hell are you doing?
-leia Somebody has to save our skins.
-leia Into the garbage chute, flyboy.
+princess_leia Somebody has to save our skins.
+princess_leia Into the garbage chute, flyboy.
 luke_skywalker Get in there!
 han_solo Get in there, you big furry oaf!
 han_solo I don't care what you smell.
@@ -1013,19 +1013,19 @@ luke_skywalker Let's get out of here.
 han_solo Get away from there.
 luke_skywalker No, wait!
 uncle_owen Will you forget it?
-c3po 
+c3po
 c3po !
 luke_skywalker I already tried it!
 luke_skywalker It's magnetically sealed.
-leia Put that thing away!
+princess_leia Put that thing away!
 c3po You're gonna get us all killed!
 han_solo Absolutely, Your Worship.
 han_solo Look, I had everything under control till you led us down here!
 han_solo Ya know, it's not gonna take 'em long to figure out what happened to us!
-leia It could be worse.
+princess_leia It could be worse.
 han_solo It's worse.
 han_solo There's something alive in here.
-ben_obiwan_kenobi That's your imagination.
+obiwan_kenobi That's your imagination.
 luke_skywalker Something just moved past my leg.
 luke_skywalker Look!
 c3po Did you see that?
@@ -1033,12 +1033,12 @@ luke_skywalker What?
 han_solo Kid!
 aunt_beru Luke!
 aunt_beru Luke!
-leia Luke, grab hold of this!
+princess_leia Luke, grab hold of this!
 luke_skywalker Blast it!
 luke_skywalker My gun's jammed.
 grand_moff_tarkin Where?
 luke_skywalker Anywhere!
-ben_obiwan_kenobi Luke, Luke!
+obiwan_kenobi Luke, Luke!
 c3po Help him!
 c3po What happened?
 luke_skywalker I don't know.
@@ -1046,12 +1046,12 @@ luke_skywalker Itjust let go of me and disappeared.
 luke_skywalker I got a bad feeling about this.
 luke_skywalker The walls are moving!
 red_three_ Don't just stand there!
-leia Try and brace it with something.
+princess_leia Try and brace it with something.
 c3po Help me!
 luke_skywalker Wait a minute!
 luke_skywalker Come in, 3PO!
 uncle_owen Where could he be?
-GANTRY_officer#unknown#StarWars.Episode04 Take over.
+lt_pol_treidum Take over.
 See#unknown#StarWars.Episode04 Look, there.
 c3po They're madmen.
 c3po They're heading for the prison level.
@@ -1065,19 +1065,19 @@ c3po If you don't mind, I'd like to take him down to maintenance.
 clone_trooper All right.
 luke_skywalker Come in, 3PO!
 han_solo Get on top!
-leia I can't.
+princess_leia I can't.
 uncle_owen Where could he be?
-c3po 
+c3po
 c3po !
 luke_skywalker 3 PO, will you come in!
-ben_obiwan_kenobi They aren't here.
+obiwan_kenobi They aren't here.
 luke_skywalker Something must have happened to them.
 c3po See if they've been captured.
 c3po Hurry.
 han_solo Get on top of it.
-leia I'm trying.
+princess_leia I'm trying.
 c3po Thank goodness they haven't found them.
-leia Where could they be?
+princess_leia Where could they be?
 c3po "Use the comlink"?
 c3po Oh, my.
 c3po I forgot.
@@ -1085,16 +1085,16 @@ c3po I turned it off.
 c3po Are you there, sir?
 c3po We've had some problems.
 luke_skywalker Will you shut up and listen to me?
-c3po 
+c3po
 c3po !
 luke_skywalker Shut down all the garbage mashers on the detention level, will ya?
-c3po 
+c3po
 c3po !
 luke_skywalker Do you copy!
-c3po 
+c3po
 c3po ?
 luke_skywalker Shut down all the garbage mashers on the detention level!
-leia No!
+princess_leia No!
 c3po Shut them all down.
 c3po Hurry!
 luke_skywalker What?
@@ -1111,14 +1111,14 @@ luke_skywalker Open the pressure maintenance hatch on unit number Where are we?
 han_solo If we can just avoid any more female advice, we ought to be able to get outta here.
 luke_skywalker Well, let's get moving.
 luke_skywalker Where are you going?
-leia Aw No, wait!
-leia They'll hear!
+princess_leia Aw No, wait!
+princess_leia They'll hear!
 han_solo Come here, you big coward.
-leia Listen I don't know who you are or where you came from, but from now on, you do as I tell you, O.
+princess_leia Listen I don't know who you are or where you came from, but from now on, you do as I tell you, O.
 han_solo Look, Your Worshipfulness, let's get one thing straight.
 han_solo I take orders from just one personme.
-leia It's a wonder you're still alive.
-leia Will somebody get this big walking carpet out of my way?
+princess_leia It's a wonder you're still alive.
+princess_leia Will somebody get this big walking carpet out of my way?
 han_solo No reward is worth this.
 clone_trooper Give me regular reports, please.
 luke_skywalker Do you know what's going on?
@@ -1134,8 +1134,8 @@ c3po For the moment.
 c3po We're in the main hangar across from the ship.
 luke_skywalker We're right above you.
 luke_skywalker Stand by.
-leia You came in that thing?
-leia You're braver than I thought.
+princess_leia You came in that thing?
+princess_leia You're braver than I thought.
 han_solo Nice!
 luke_skywalker Come on.
 c3po It's them!
@@ -1143,20 +1143,20 @@ luke_skywalker Blast them!
 han_solo Get back to the ship!
 luke_skywalker Where are you going?
 luke_skywalker Come back!
-leia He certainly has courage.
+princess_leia He certainly has courage.
 luke_skywalker What good will it do us if he gets himself killed?
 luke_skywalker Come on.
 luke_skywalker I think we took a wrong turn.
 luke_skywalker There's no lock.
 luke_skywalker That oughta hold them for a while.
 luke_skywalker We've got to get across.
-leia Find the controls that extend the bridge.
+princess_leia Find the controls that extend the bridge.
 luke_skywalker I think I just blasted it.
 c3po They're coming through!
 luke_skywalker Here, hold this.
 luke_skywalker Here they come.
-leia For luck.
-leia Where could they be?
+princess_leia For luck.
+princess_leia Where could they be?
 clone_trooper Close the blast doors!
 clone_trooper Open the blast doors!
 clone_trooper Open the blast doors!
@@ -1164,13 +1164,13 @@ han_solo I've been waiting for you, Obi-Wan.
 darth_vader We meet again at last.
 darth_vader The circle is now complete.
 darth_vader When I left you, I was but the learner.
-ben_obiwan_kenobi Only a master of evil, Darth.
+obiwan_kenobi Only a master of evil, Darth.
 darth_vader Your powers are weak, old man.
-ben_obiwan_kenobi You can't win, Darth.
-ben_obiwan_kenobi If you strike me down, I shall become more powerful than you can possibly imagine.
+obiwan_kenobi You can't win, Darth.
+obiwan_kenobi If you strike me down, I shall become more powerful than you can possibly imagine.
 han_solo Didn't we just leave this party?
 han_solo What kept you?
-leia We, uh, ran into some old friends.
+princess_leia We, uh, ran into some old friends.
 clone_trooper The ship all right?
 han_solo It seems O.K., if we can get to it.
 han_solo I just hope the old man got the tractor beam out of commission.
@@ -1179,7 +1179,7 @@ c3po Come on, R2, we're going.
 han_solo Now's our chance!
 han_solo Go!
 luke_skywalker Ben?
-leia No!
+princess_leia No!
 luke_skywalker Come on!
 greedo Luke, it's too late!
 luke_skywalker Blast the door, kid!
@@ -1188,14 +1188,14 @@ han_solo We're coming up on their sentry ships.
 han_solo Hold them off.
 han_solo Angle the deflector shields while I charge up the main guns.
 luke_skywalker I can't believe he's gone.
-leia There wasn't anything you could have done.
+princess_leia There wasn't anything you could have done.
 luke_skywalker Come on, buddy.
 han_solo We're not out of this yet.
 han_solo You in, kid?
 han_solo O.K., stay sharp.
 luke_skywalker Here they come.
 c3po They're coming in too fast!
-leia We've lost the lateral controls!
+princess_leia We've lost the lateral controls!
 grand_moff_tarkin Don't worry.
 han_solo She'll hold together.
 han_solo Hear me, baby?
@@ -1204,7 +1204,7 @@ han_solo Got him!
 han_solo I got him!
 han_solo Great, kid!
 han_solo Don't get cocky.
-leia There's still two more of them out there!
+princess_leia There's still two more of them out there!
 c3po That's it!
 luke_skywalker We did it!
 luke_skywalker We did it!
@@ -1218,25 +1218,25 @@ grand_moff_tarkin I'm taking an awful risk, Vader.
 grand_moff_tarkin This had better work.
 han_solo Not a bad bit of rescuing, huh?
 han_solo You know, sometimes I amaze even myself.
-leia That doesn't sound too hard.
-leia It's the only explanation for the ease of our escape.
+princess_leia That doesn't sound too hard.
+princess_leia It's the only explanation for the ease of our escape.
 greedo You call that easy?
 c3po They're tracking us.
 jabba_the_hutt Not this ship, sister.
-leia At least the information in R2 is still intact.
+princess_leia At least the information in R2 is still intact.
 luke_skywalker What's so important?
 han_solo What's he carrying?
 grand_moff_tarkin The technical readouts of that battle station.
-leia I only hope that when the data's analyzed, a weakness can be found.
-leia It's not over yet.
+princess_leia I only hope that when the data's analyzed, a weakness can be found.
+princess_leia It's not over yet.
 han_solo It is for me, sister.
 han_solo Look, I ain't in this for your revolution, and I'm not in it for you, Princess.
 han_solo I expect to be well paid.
 han_solo I'm in it for the money.
 clone_trooper You needn't worry about your reward.
-leia If money is all that you love, then that's what you'll receive.
-leia Your friend is quite a mercenary.
-leia I wonder if he really cares about anything or anybody.
+princess_leia If money is all that you love, then that's what you'll receive.
+princess_leia Your friend is quite a mercenary.
+princess_leia I wonder if he really cares about anything or anybody.
 luke_skywalker I care.
 luke_skywalker So what do you think of her, Han?
 han_solo I'm trying not to, kid.
@@ -1246,7 +1246,7 @@ luke_skywalker I don't know.
 luke_skywalker What do you think?
 han_solo You think a princess and a guy like me- No!
 luke_skywalker You're safe.
-leia We have no time for sorrows, Commander.
+princess_leia We have no time for sorrows, Commander.
 c3po It's our only hope.
 grand_moff_tarkin Yes.
 voice_over_death_star_intercom#unknown#StarWars.Episode04 We're approaching the planet Yavin.
@@ -1255,7 +1255,7 @@ voice_over_death_star_intercom#unknown#StarWars.Episode04 We are preparing to or
 general_dodonna The battle station is heavily shielded and carries a firepower greater than half the starfleet.
 general_dodonna Its defenses are designed around a direct large-scale assault.
 general_dodonna A small, one-man fighter should be able to penetrate the outer defense.
-gold_leader Pilot: Pardon me for asking, sir, but what good are snub fighters going to be against that?
+pilot#unknown#StarWars.Episode04 Pardon me for asking, sir, but what good are snub fighters going to be against that?
 general_dodonna The Empire doesn't consider a small, one-man fighter to be any threat, or they'd have a tighter defense.
 general_dodonna An analysis of the plans provided by Princess Leia has demonstrated a weakness in the battle station.
 general_dodonna The approach will not be easy.
@@ -1266,8 +1266,8 @@ general_dodonna The shaft leads directly to the reactor system.
 general_dodonna A precise hit will start a chain reaction which should destroy the station.
 general_dodonna Only a precise hit will set up a chain reaction.
 general_dodonna The shaft is ray-shielded, so you'll have to use proton torpedoes.
-red_two_ That's impossible, even for a computer.
-tagge#unknown#StarWars.Episode04 It's not impossible.
+red_two That's impossible, even for a computer.
+general_taggi It's not impossible.
 luke_skywalker I used to bull's-eye womp rats in my T-16 back home.
 luke_skywalker They're not much bigger than 2 meters.
 general_dodonna Then man your ships, and may the Force be with you.
@@ -1304,7 +1304,7 @@ clone_trooper Oh, it's Han.
 luke_skywalker I don't know.
 luke_skywalker I really thought he'd change his mind.
 luke_skywalker He's got to follow his own path.
-leia No one can choose it for him.
+princess_leia No one can choose it for him.
 luke_skywalker I only wish Ben were here.
 luke_skywalker Biggs!
 luke_skywalker I don't believe it.
@@ -1325,10 +1325,10 @@ luke_skywalker That little droid and I have been through a lot together.
 luke_skywalker Good.
 luke_skywalker You've got to come back.
 c3po You wouldn't want my life to get boring, would you?
-general_dodonna Obi-Wan: Luke, the Force will be with you.
+obiwan_kenobi Luke, the Force will be with you.
 luke_skywalker Standby alert.
-MASSASSI_INTERCOM_voice#unknown#StarWars.Episode04 Death Star approaching.
-MASSASSI_INTERCOM_voice#unknown#StarWars.Episode04 Estimated time to firing range, 15 minutes.
+massassi_outpost_announcer_ Death Star approaching.
+massassi_outpost_announcer_ Estimated time to firing range, 15 minutes.
 red_leader All wings report in.
 red_ten#unknown#StarWars.Episode04 Red 10 standing by.
 red_ten#unknown#StarWars.Episode04 Red Seven standing by.
@@ -1343,7 +1343,7 @@ voice_over_death_star_intercom#unknown#StarWars.Episode04 We're passing through 
 han_solo Hold tight.
 red_leader Switch your deflectors on.
 red_leader Double front.
-red_two_ Look at the size of that thing!
+red_two Look at the size of that thing!
 red_leader Cut the chatter, Red Two.
 han_solo This is it, boys.
 red_leader Red Leader, this is Gold Leader.
@@ -1351,10 +1351,10 @@ red_leader I copy, Gold Leader.
 gold_leader We're starting for the target shaft now.
 red_leader We're in position.
 red_leader I'm going to cut across the axis and try and draw their fire.
-red_two_ Heavy fire, boss, 23 degrees.
+red_two Heavy fire, boss, 23 degrees.
 c3po I see it.
 red_leader Stay low.
-red_two_ This is Red Five.
+red_two This is Red Five.
 luke_skywalker I'm going in.
 red_three_ Luke, pull up!
 clone_trooper Are you all right?
@@ -1366,7 +1366,7 @@ human#unknown#StarWars.Episode04 Watch yourself.
 red_leader There's a lot of fire coming from the right side of that deflection tower.
 luke_skywalker I'm on it.
 luke_skywalker I'm going in.
-red_two_ I'm right with you, Red Three.
+red_two I'm right with you, Red Three.
 luke_skywalker I've got a problem here.
 red_ten#unknown#StarWars.Episode04 I can hold it.
 red_three_ Pull up!
@@ -1386,7 +1386,7 @@ darth_vader Several fighters have broken off from the main group.
 luke_skywalker Come with me.
 red_three_ Fall in!
 red_three_ Fall in!
-red_two_ Watch your back, Luke.
+red_two Watch your back, Luke.
 red_leader Watch your back.
 c3po Fighters above you, coming in.
 luke_skywalker I'm hit, but not bad.
@@ -1397,7 +1397,7 @@ red_ten#unknown#StarWars.Episode04 There's a heavy fire zone.
 c3po Red Five, where are you?
 luke_skywalker I can't shake him!
 luke_skywalker I'm on him, Luke.
-red_two_ Hold on.
+red_two Hold on.
 luke_skywalker Blast it, Biggs!
 c3po Where are you?
 luke_skywalker Thanks, Wedge.
@@ -1421,7 +1421,7 @@ gold_leader Three marks at 210.
 uncle_owen I'll take them myself.
 darth_vader Cover me.
 commander#unknown#StarWars.Episode04 Yes, sir.
-ben_obiwan_kenobi It's no good.
+obiwan_kenobi It's no good.
 red_three_ I can't maneuver.
 gold_five Stay on target.
 c3po We're too close.
@@ -1453,7 +1453,7 @@ red_leader I'm in range.
 red_leader Just hold them off for a few seconds.
 darth_vader Close up formation.
 red_leader Almost there.
-ben_obiwan_kenobi You'd better let her loose.
+obiwan_kenobi You'd better let her loose.
 gold_five They're right behind me.
 red_leader Almost there.
 han_solo I can't hold them.
@@ -1469,11 +1469,11 @@ red_leader Get set up for your attack run.
 voice#unknown#StarWars.Episode04 Rebel base, one minute and closing.
 luke_skywalker Biggs, Wedge, let's close it up.
 luke_skywalker We're going in full throttle.
-red_two_ Right with you, boss.
+red_two Right with you, boss.
 luke_skywalker It'll be just like Beggars Canyon back home.
 red_three_ We'll stay back far enough to cover you.
-red_two_ My scope shows the tower, but I can't see the exhaust port.
-red_two_ Are you sure the computer can hit it?
+red_two My scope shows the tower, but I can't see the exhaust port.
+red_two Are you sure the computer can hit it?
 human#unknown#StarWars.Episode04 Watch yourself.
 luke_skywalker Increase speed, full throttle.
 luke_skywalker What about that tower?
@@ -1495,10 +1495,10 @@ luke_skywalker Hurry up, Luke!
 voice#unknown#StarWars.Episode04 Rebel base, 30 seconds and closing.
 darth_vader I'm on the leader.
 c3po Hang on, R2.
-darth_vader Obi-Wan: Use the Force, Luke.
-ben_obiwan_kenobi Let go, Luke.
+obiwan_kenobi Use the Force, Luke.
+obiwan_kenobi Let go, Luke.
 darth_vader The Force is strong with this one.
-ben_obiwan_kenobi Luke, trust me.
+obiwan_kenobi Luke, trust me.
 BASE_voice#unknown#StarWars.Episode04 His computer's off.
 gold_leader Luke, you switched off your targeting computer!
 c3po What's wrong?
@@ -1518,14 +1518,14 @@ han_solo Now let's blow this thing and go home!
 luke_skywalker Stand by.
 han_solo Great shot, kid!
 han_solo That was one in a million!
-ben_obiwan_kenobi Obi-Wan: Remember, the Force will be with you always.
+obiwan_kenobi Remember, the Force will be with you always.
 aunt_beru Luke!
 luke_skywalker Hey!
 luke_skywalker Hey!
 luke_skywalker I knew you'd come back.
 luke_skywalker I just knew it.
 han_solo Well, I wasn't going to let you get all the credit and take all the reward.
-leia Hey, I knew there was more to you than money.
+princess_leia Hey, I knew there was more to you than money.
 luke_skywalker Oh, no!
 c3po Oh, my.
 c3po R2, can you hear me?
