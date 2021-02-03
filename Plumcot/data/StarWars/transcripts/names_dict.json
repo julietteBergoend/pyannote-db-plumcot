@@ -304,5 +304,14 @@
     "lott_dod": "lott_dod",
     "aks_moe": "aks_moe",
     "fighter_pilot_bravo_2": "fighter_pilot_bravo_2",
-    "fighter_pilot_bravo_3": "fighter_pilot_bravo_3"
+    "fighter_pilot_bravo_3": "fighter_pilot_bravo_3",
+    "odd_ball#unknown#StarWars.Episode03": "r2d2",
+    "captain_raymus_antilles": "captain_raymus_antilles",
+    "droid#unknown#StarWars.Episode03": "battle_droid",
+    "naboo_royal_security_guard": "naboo_royal_guard",
+    "commander_cody": "boba_fett",
+    "darth_sidious#unknown#StarWars.Episode03": "the_emperor",
+    "clone_trooper": "clone_trooper",
+    "capt_typho": "captain_typho",
+    "darth_vader": "darth_vader"
 }
