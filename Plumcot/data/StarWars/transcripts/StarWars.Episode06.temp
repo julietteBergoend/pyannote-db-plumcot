@@ -1,693 +1,1081 @@
-shuttle_captain#unknown#StarWars.Episode06 Command station, this is ST 321. Code Clearance Blue. We're starting our approach. Deactivate the security shield.
-death_star_gunner The security deflector shield will be deactivated when we have confirmation of your code transmission. Stand by... You are clear to proceed.
+shuttle_captain#unknown#StarWars.Episode06 Command station, this is ST-321.
+shuttle_captain#unknown#StarWars.Episode06 Code clearance blue.
+shuttle_captain#unknown#StarWars.Episode06 We're starting our approach.
+shuttle_captain#unknown#StarWars.Episode06 Deactivate the security shield.
+imperial_gunner The security deflector shield will be deactivated when we have confirmation of your code transmission.
+imperial_gunner Stand by.
+imperial_gunner You are clear to proceed.
 shuttle_captain#unknown#StarWars.Episode06 We're starting our approach.
 officer#unknown#StarWars.Episode06 Inform the commander that Lord Vader's shuttle has arrived.
-operator#unknown#StarWars.Episode06 Yes, sir.
-moff_jerjerrod Lord Vader, this is an unexpected pleasure. We're honored by your presence.
-darth_vader You may dispense with the pleasantries, Commander. I'm here to put you back on schedule.
-moff_jerjerrod I assure you, Lord Vader, my men are working as fast as they can.
+moff_jerjerrod Lord Vader, this is an unexpected pleasure.
+moff_jerjerrod We're honored by your presence.
+darth_vader You may dispense with the pleasantries, Commander.
+darth_vader I'm here to put you back on schedule.
+moff_jerjerrod I assure you, Lord Vader my men are working as fast as they can.
 darth_vader Perhaps I can find new ways to motivate them.
-moff_jerjerrod I tell you, this station will be operational as planned.
-darth_vader The Emperor does not share your optimistic appraisal of the situation.
-moff_jerjerrod But he asks the impossible. I need more men.
+moff_jerjerrod I tell you this station will be operational, as planned.
+darth_vader The emperor does not share your optimistic appraisal of the situation.
+moff_jerjerrod But he asks the impossible.
+moff_jerjerrod I need more men.
 darth_vader Then perhaps you can tell him when he arrives.
-moff_jerjerrod The Emperor's coming here?
-darth_vader That is correct, Commander. And he is most displeased with your apparent lack of progress.
+moff_jerjerrod The emperor's coming here?
+darth_vader That is correct, Commander and he is most displeased with your apparent lack of progress.
 moff_jerjerrod We shall double our efforts.
-darth_vader I hope so, Commander, for your sake. The Emperor is not as forgiving as I am.
-c3po Of course I'm worried. And you should be, too. Lando Calrissian and poor Chewbacca never returned from this awful place.
-c3po Don't be so sure. If I told you half the things I've heard about this Jabba the Hutt, you'd probably short-circuit.
-c3po Artoo, are you sure this is the right place? I better knock, I suppose.
-c3po There doesn't seem to be anyone there. Let's go back and tell Master Luke.
-strange#unknown#StarWars.Episode06 VOICE Tee chuta hhat yudd!
+darth_vader I hope so, Commander, for your sake.
+darth_vader The emperor is not as forgiving as I am.
+c3po Of course I'm worried.
+c3po And you should be, too.
+c3po Lando Calrissian and poor Chewbacca never returned from this awful place.
+c3po Don't be so sure.
+c3po If I told you half the things I've heard about this Jabba the Hutt you'd probably short-circuit.
+c3po R2, are you sure this is the right place?
+c3po I'd better knock, I suppose.
+c3po There doesn't seem to be anyone here.
+c3po Let's go back and tell Master Luke.
 c3po Goodness gracious me!
-c3po Artoo Detoowha bo Seethreepiowha ey toota odd mischka Jabba du Hutt.
-c3po I don't think they're going to let us in, Artoo. We'd better go.
-c3po Artoo, wait. Oh, dear! Artoo. Artoo, I really don't think we should rush into all this.
-c3po Oh, Artoo! Artoo, wait for me!
-c3po Just you deliver Master Luke's message and get us out of here. Oh my! Oh! Oh, no.
-bib_fortuna Die Wanna Wanga!
-c3po Oh, my! Die Wanna Wauaga. We -- we bring a message to your master, Jabba the Hutt.
-c3po ...and a gift. Gift, what gift?
-bib_fortuna Nee Jabba no badda. Me chaade su goodie.
-c3po He says that our instructions are to give it only to Jabba himself.
-c3po I'm terribly sorry. I'm afraid he's ever so stubborn about these sort of things.
-bib_fortuna Nudd Chaa.
-c3po Artoo, I have a bad feeling about this.
+c3po Ay tuta mishka Jabba du Hutt?
+c3po I don't think they're going to let us in, R2.
+c3po We'd better go.
+lando_calrissian R2, wait!
+c3po Oh, dear!
+c3po R2, I really don't think we should rush into all this.
+c3po Oh!
+c3po R2, wait for me!
+c3po Just you deliver Master Luke's message and get us out of here.
+c3po Oh, my!
+c3po Oh!
+c3po Oh, no.
+bib_fortuna Day wonna wonga?
+c3po Oh, my!
+c3po We bring a message to your master Jabba the Hutt.
+c3po And a gift.
+c3po Gift?
+c3po What gift?
+bib_fortuna Ne charda so dehdi.
+c3po He says that our instructions are to give it only toJabba himself.
+c3po I'm terribly sorry.
+c3po I'm afraid he's ever so stubborn about these sort of things.
+c3po R2, I have a bad feeling about this.
 c3po Good morning.
-jabba_the_hutt Bo Shuda!
-c3po The message, Artoo, the message.
-luke_skywalker Greetings, Exalted One. Allow me to introduce myself. I am Luke Skywalker, Jedi Knight and friend to Captain Solo. I know that you are powerful, mighty Jabba, and that your anger with Solo must be equally powerful. I seek an audience with Your Greatness to bargain for Solo's life. With your wisdom, I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation. As a token of my goodwill, I present to you a gift: these two droids.
+c3po The message, R2, the message.
+luke_skywalker Greetings, Exalted One.
+luke_skywalker Allow me to introduce myself.
+luke_skywalker I am Luke Skywalker Jedi knight and friend to Captain Solo.
+luke_skywalker I know that you are powerful, mightyJabba and that your anger with Solo must be equally powerful.
+luke_skywalker I seek an audience with Your Greatness to bargain for Solo's life.
+luke_skywalker With your wisdom I'm sure that we can work out an arrangement which will be mutually beneficial and enable us to avoid any unpleasant confrontation.
+luke_skywalker As a token of my goodwill, I present to you a gift these two droids.
 c3po What did he say?
-luke_skywalker ... Both are hardworking and will serve you well.
-c3po This can't be! Artoo, you're playing the wrong message.
+luke_skywalker Both are hardworking and will serve you well.
+c3po This can't be!
+c3po R2, you're playing the wrong message.
 jabba_the_hutt There will be no bargain.
 c3po We're doomed.
-jabba_the_hutt I will not give up my favorite decoration. I like Captain Solo where he is.
-c3po Artoo, look! Captain Solo. And he's still frozen in carbonite.
-c3po What could possibly have come over Master Luke. Is it something I did? He never expressed any unhappiness with my work. Oh! Oh! Hold it! Ohh!
-ninedenine#unknown#StarWars.Episode06 Ah, good. New acquisitions. You are a protocol droid, are you not?
-c3po I am See-Threepio, human-cy...
-ninedenine#unknown#StarWars.Episode06 Yes or no will do.
-c3po Oh. Well, yes.
+jabba_the_hutt I will not give up my favorite decoration.
+jabba_the_hutt I like Captain Solo where he is.
+c3po R2, look Captain Solo.
+c3po And he's still frozen in carbonite.
+c3po What could possibly have come over Master Luke?
+c3po Was it something I did?
+c3po He never expressed any unhappiness with my work.
+c3po Ohh!
+c3po Ohh!
+ninedenine#unknown#StarWars.Episode06 Ah, good.
+ninedenine#unknown#StarWars.Episode06 New acquisitions.
+ninedenine#unknown#StarWars.Episode06 You are a protocol droid are you not?
+ninedenine#unknown#StarWars.Episode06 I am C-3PO Yes or no will do.
+c3po Oh.
+c3po Well, yes.
 ninedenine#unknown#StarWars.Episode06 How many languages do you speak?
-c3po I am fluent in over six million forms of communication, and can readily...
-ninedenine#unknown#StarWars.Episode06 Splendid! We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
+c3po I am fluent in over six million forms of communication and can Splendid.
+ninedenine#unknown#StarWars.Episode06 We have been without an interpreter since our master got angry with our last protocol droid and disintegrated him.
 c3po Disintegrated?
-ninedenine#unknown#StarWars.Episode06 Guard! This protocol droid might be useful. Fit him with a restraining bolt and take him back to His Excellency's main audience chamber.
-c3po Artoo, don't leave me! Ohhh!
-ninedenine#unknown#StarWars.Episode06 You're a feisty little one, but you'll soon learn some respect. I have need for you on the master's Sail Barge. And I think you'll fit in nicely.
-jabba_the_hutt Da Eitha!
-oola Na Chuba negatorie Na! Na! Natoota...
-jabba_the_hutt Boscka!
+c3po Oh!
+ninedenine#unknown#StarWars.Episode06 Guard!
+ninedenine#unknown#StarWars.Episode06 This protocol droid might be useful.
+ninedenine#unknown#StarWars.Episode06 Fit him with a restraining bolt and take him back up to His Excellency's main audience chamber.
+c3po R2, don't leave me!
+c3po Oh!
+ninedenine#unknown#StarWars.Episode06 You're a feisty little one but you'll soon learn some respect.
+ninedenine#unknown#StarWars.Episode06 I have need for you on the master's sail barge and I think you'll fill in nicely.
+luke_skywalker No!
+luke_skywalker No!
+luke_skywalker No!
+han_solo Ah!
 boushh I have come for the bounty on this Wookiee.
-c3po Oh, no! Chewbacca!
+c3po Oh, no.
+c3po Chewbacca!
 jabba_the_hutt At last we have the mighty Chewbacca.
-c3po Oh, uh, yes, uh, I am here, Your Worshipfulness. Uh... yes!
-c3po Oh. The illustrious Jabba bids you welcome and will gladly pay you the reward of twenty-five thousand.
-boushh I want fifty thousand. No less.
-c3po Uh, oh... but what, what did I say? Uh, the mighty Jabba asks why he must pay fifty thousand.
-c3po Because he's holding a thermal detonator.
-jabba_the_hutt This bounty hunter is my kind of scum. Fearless and inventive.
-c3po Jabba offers the sum of thirty-five. And I suggest you take it.
-boushh Zeebuss.
+c3po Yes, I am here, Your Worshipfulness.
+c3po Yes?
+c3po The illustrious Jabba bids you welcome and will gladly pay you the reward of 25,000.
+boushh No less.
+boushh No less.
+c3po Ohh!
+c3po What What did I say?
+c3po The mightyJabba asks why he must pay 50,000.
+c3po Because he's holding a thermal detonator!
+c3po Oh!
+jabba_the_hutt This bounty hunter is my kind of scum fearless and inventive.
+c3po Jabba offers the sum of 35 and I do suggest you take it.
 c3po He agrees!
-boushh Just relax for a moment. You're free of the carbonite.
-boushh Shhh. You have hibernation sickness.
+han_solo Ahh!
+boushh Just relax for a moment.
+boushh You're free of the carbonite.
+boushh You have hibernation sickness.
 han_solo I can't see.
 boushh Your eyesight will return in time.
 han_solo Where am I?
 boushh Jabba's palace.
 han_solo Who are you?
 princess_leia Someone who loves you.
-han_solo Leia!
-princess_leia I gotta get you out of here.
-han_solo What's that? I know that laugh.
-han_solo Hey, Jabba. Look, Jabba, I was just on my way to pay you back, but I got a little sidetracked. It's not my fault.
-jabba_the_hutt It's too late for that, Solo. You may have been a good smuggler, but now you're Bantha fodder.
-han_solo Look...
-jabba_the_hutt Take him away!
-han_solo Jabba... I'll pay you triple! You're throwing away a fortune here. Don't be a fool!
+han_solo Leia.
+princess_leia I got to get you out of here.
+han_solo What's that?
+han_solo I know that laugh.
+han_solo Hey, Jabba Look, Jabba I was just on my way to pay you back and I got a little sidetracked.
+han_solo It's not my fault.
+jabba_the_hutt It's too late for that, Solo.
+jabba_the_hutt You may have been a good smuggler but now you're Bantha fodder.
+jabba_the_hutt Look Take him away.
+han_solo Jabba, I'll pay you triple.
+han_solo You're throwing away a fortune!
+c3po Don't be a fool!
 jabba_the_hutt Bring her to me.
-princess_leia We have powerful friends. You're gonna regret this...
+princess_leia We have powerful friends.
+princess_leia You're going to regret this.
 jabba_the_hutt I'm sure.
 princess_leia Ugh!
-c3po Ohhh, I can't bear to watch.
-han_solo Chewie? Chewie, is that you?
-han_solo Ah! Chew--Chewie!
-han_solo Wait. I can't see, pal. What's goin' on?
-chewbacca
-han_solo Luke? Luke's crazy. He can't even take care of himself, much less rescue anybody.
-chewbacca
-han_solo A...Jedi Knight? I--I'm out of it for a little while, everybody gets delusions of grandeur.
-chewbacca
-han_solo I'm all right, pal. I'm all right.
+c3po Oh, I can't bear to watch.
+c3po Oh!
+han_solo Chewie?
+han_solo Chewie, is that you?
+han_solo Ch-Chewie!
+han_solo I can't see, pal.
+han_solo What's going on?
+han_solo Luke?
+han_solo Luke's crazy.
+han_solo He can't even take care of himself much less rescue anybody.
+han_solo AJedi knight?
+han_solo I'm out of it for a little while everybody gets delusions of grandeur.
+han_solo I'm all right, pal.
+han_solo I'm all right.
 luke_skywalker I must speak with Jabba.
-luke_skywalker You will take me to Jabba now!
+luke_skywalker You will take me toJabba now.
 luke_skywalker You serve your master well.
 luke_skywalker And you will be rewarded.
-c3po At last! Master Luke's come to rescue me.
+c3po At last!
+c3po Master Luke's come to rescue me.
 bib_fortuna Master.
-bib_fortuna ...Luke Skywalker, Jedi Knight.
+bib_fortuna Gabba nopez Luke Skywalker, Jedi knight.
 jabba_the_hutt I told you not to admit him.
 luke_skywalker I must be allowed to speak.
-bib_fortuna He must be allowed to speak.
-jabba_the_hutt You weak-minded fool! He's using an old Jedi mind trick.
+luke_skywalker He must be allowed to speak.
+jabba_the_hutt You weak-minded fool!
+han_solo Ah!
+jabba_the_hutt He's using an old Jedi mind trick.
 luke_skywalker You will bring Captain Solo and the Wookiee to me.
 jabba_the_hutt Your mind powers will not work on me, boy.
-luke_skywalker Nevertheless, I'm taking Captain Solo and his friends. You can either profit by this... or be destroyed! It's your choice. But I warn you not to underestimate my powers.
-c3po Master Luke, you're standing on...
-jabba_the_hutt There will be no bargain, young Jedi. I shall enjoy watching you die.
-jabba_the_hutt Bascka!
-c3po Oh, no! The Rancor!
-jabba_the_hutt Bring me Solo and the Wookiee. They will all suffer for this outrage.
+luke_skywalker Nevertheless I'm taking Captain Solo and his friends.
+luke_skywalker You can either profit by this or be destroyed.
+luke_skywalker It's your choice but I warn you not to underestimate my powers.
+jabba_the_hutt I shall enjoy watching you die.
+c3po Oh, no!
+c3po The rancor!
+c3po Oh!
+luke_skywalker Bring me Solo and the Wookiee.
+jabba_the_hutt They will all suffer for this outrage.
 luke_skywalker Han!
 han_solo Luke!
-luke_skywalker Are you all right?
-han_solo Fine. Together again, huh?
+han_solo Are you all right?
+han_solo Fine.
+han_solo Together again, huh?
 luke_skywalker Wouldn't miss it.
 han_solo How are we doing?
-luke_skywalker The same as always.
-han_solo That bad, huh? Where's Leia?
-princess_leia I'm here.
-c3po Oh, dear. His High Exaltedness, the great Jabba the Hutt, has decreed that you are to be terminated immediately.
-han_solo Good, I hate long waits.
-c3po You will therefore be taken to the Dune Sea and cast into the pit of Carkoon, the nesting place of the all-powerful Sarlacc.
+luke_skywalker Same as always.
+han_solo That bad, huh?
+han_solo Where's Leia?
+jabba_the_hutt I'm here.
+c3po Oh, dear.
+c3po His High Exaltedness, the greatJabba the Hutt has decreed that you are to be terminated immediately.
+han_solo Good.
+han_solo I hate long waits.
+c3po You will therefore be taken to the Dune Sea and cast into the Pit of Carkoon the nesting place of the all-powerful Sarlacc.
 han_solo Doesn't sound so bad.
-c3po In his belly, you will find a new definition of pain and suffering, as you are slowly digested over a thousand years.
-han_solo On second thought, let's pass on that, huh?
-chewbacca
-luke_skywalker You should have bargained, Jabba. That's the last mistake you'll ever make.
-han_solo I think my eyes are getting better. Instead of a big dark blur, I see a big light blur.
-luke_skywalker There's nothing to see. I used to live here, you know.
-han_solo You're gonna die here, you know. Convenient.
-luke_skywalker Just stick close to Chewie and Lando. I've taken care of everything.
-han_solo Oh... great!
+c3po In his belly, you will find a new definition of pain and suffering as you are slowly digested over 1,000 years.
+han_solo On second thought, let's pass on that.
+luke_skywalker You should have bargained.
+luke_skywalker That's the last mistake you'll ever make.
+han_solo I think my eyes are getting better.
+han_solo Instead of a big dark blur, I see a big light blur.
+luke_skywalker There's nothing to see.
+luke_skywalker I used to live here, you know.
+luke_skywalker You're going to die here, you know.
+han_solo Convenient.
+luke_skywalker Just stick close to Chewie and Lando.
+luke_skywalker I've taken care of everything.
+c3po Oh.
+luke_skywalker Great.
 jabba_the_hutt Soon you will learn to appreciate me.
-c3po Oh, I'm terribly sor... Artoo! What are you doing here?
-c3po Well, I can see you're serving drinks, but this place is dangerous. They're going to execute Master Luke and, if we're not careful, us too!
-c3po Hmm. I wish I had your confidence.
-c3po Victims of the almighty Sarlacc: His Excellency hopes that you will die honorably. But should any of you wish to beg for mercy, the great Jabba the Hutt will now listen to your pleas.
-han_solo Threepio, you tell that slimy piece of... worm-ridden filth he'll get no such pleasure from us. Right?
-chewbacca
-luke_skywalker Jabba! This is your last chance. Free us or die.
+c3po I'm terribly sorry.
+c3po R2, what are you doing here?
+c3po Well, I can see you're serving drinks but this place is dangerous.
+c3po They're going to execute Master Luke and, if we're not careful, us, too.
+c3po I wish I had your confidence.
+c3po Victims of the almighty Sarlacc His Excellency hopes that you will die honorably.
+c3po But should any of you wish to beg for mercy the greatJabba the Hutt will now listen to your pleas.
+han_solo 3PO, you tell that slimy piece of worm-ridden filth he'll get no such pleasure from us!
+han_solo Right?
+luke_skywalker Jabba this is your last chance.
+luke_skywalker Free us or die.
 jabba_the_hutt Move him into position.
 jabba_the_hutt Put him in.
 luke_skywalker Easy, Chewie.
-lando_calrissian Whoa! Whoa! Help!
-han_solo Chewie, you okay? Where is he?
-han_solo I'm okay, pal.
-lando_calrissian Han! Chewie?
+lando_calrissian Help!
+han_solo Where is it?
+luke_skywalker Han!
+han_solo Chewie!
 han_solo Lando!
-chewbacca
-han_solo Boba Fett?! Boba Fett?! Where?
+han_solo Boba Fett?
+han_solo Boba Fett?
+han_solo Where?
 han_solo Lando, grab it!
 lando_calrissian Lower it!
 han_solo I'm trying!
-han_solo Whoa! Whoa! Grab me, Chewie! I'm slipping.
-han_solo Grab it! L--Lando. Grab!
-han_solo Grab it! Almost... You almost got it!
-lando_calrissian Hold it! Whoa!
-han_solo Gently now. All... all right. Now easy, easy. Hold me, Chewie.
-han_solo Chewie! Chewie, give me the gun. Don't move, Lando.
-lando_calrissian No, wait! I thought you were blind!
-han_solo It's all right. Trust me. Don't move.
-lando_calrissian All right! A little higher! Just a little higher!
-han_solo Chewie, Pull us up! Come on! Okay... up, Chewie, up!
-princess_leia Come on. We gotta get out of here quick.
-c3po Not my eyes! Artoo, help! Quickly, Artoo. Oh! Ohhh! You beast!
-luke_skywalker Get the gun! Point it at the deck!
+han_solo - Grab me, Chewie.
+han_solo - I'm slipping!
+han_solo Grab it!
+han_solo Almost You almost got it.
+han_solo Gently, now.
+han_solo All right.
+han_solo Easy, easy.
+luke_skywalker Hold me, Chewie.
+han_solo Chewie!
+han_solo Chewie, give me the gun.
+han_solo Don't move, Lando.
+han_solo Wait!
+lando_calrissian I thought you were blind!
+han_solo It's all right!
+han_solo Don't move!
+lando_calrissian A little higher!
+lando_calrissian Just a little higher!
+han_solo Chewie, pull us up.
+luke_skywalker Up, Chewie.
+han_solo Up.
+han_solo Come on.
+princess_leia We gotta get out of here.
+c3po Not my eyes!
+c3po Quickly, R2!
+luke_skywalker Get the gun!
 luke_skywalker Point it at the deck!
-c3po Artoo, where are we going? I couldn't possibly jump.
-luke_skywalker Come on!
-luke_skywalker Let's go! And don't forget the droids.
+luke_skywalker Point it at the deck!
+han_solo R2, where are we going?
+c3po I couldn't possibly go Aah!
+han_solo Come on!
+luke_skywalker Let's go.
+luke_skywalker And don't forget the droids.
 lando_calrissian We're on our way.
-han_solo I don't know. All I can see is a lot of blowing sand!
-princess_leia That's all any of us can see.
-han_solo Then I guess I'm getting better.
-han_solo I've got to hand it to you, kid, you were pretty good out there.
-luke_skywalker I had a lot of help. Think nothing of it.
-han_solo No, I'm thinking a lot about it. That carbon freeze was the closest thing to dead there is. And it wasn't just sleepin'. It was a big wide awake nothing!
-luke_skywalker I'll see you back at the fleet.
-han_solo Why don't you leave that crate and come with us?
-luke_skywalker I have a promise I have to keep first... to an old friend.
-han_solo Guess I owe you some thanks, too, Lando.
-lando_calrissian Figured if I left you frozen like that you'd just give me bad luck the rest of my life, so I might as well get you unfrozen sooner or later.
-princess_leia He means "You're welcome."
-lando_calrissian Come on, let's get off this miserable dust ball.
 luke_skywalker I'll meet you back at the fleet.
-princess_leia Hurry. The Alliance should be assembled by now.
+princess_leia Hurry.
+princess_leia The Alliance should be assembled by now.
 luke_skywalker I will.
-han_solo Hey, Luke, thanks. Thanks for comin' after me. Now I owe you one.
-luke_skywalker That's right, Artoo. We're going to the Dagobah system. I have a promise to keep... to an old friend.
-emperor Rise, my friend.
+han_solo Hey, Luke, thanks.
+han_solo Thanks for coming after me.
+han_solo Now I owe you one.
+luke_skywalker That's right, R2.
+luke_skywalker We're going to the Dagobah system.
+luke_skywalker I have a promise to keep to an old friend.
+the_emperor Rise, my friend.
 darth_vader The Death Star will be completed on schedule.
-emperor You have done well, Lord Vader. And now I sense you wish to continue your search for young Skywalker.
-darth_vader Yes, my Master.
-emperor Patience, my friend. In time he will seek you out. And when he does, you must bring him before me. He has grown strong. Only together can we turn him to the dark side of the Force.
+the_emperor You've done well, Lord Vader.
+the_emperor And now I sense you wish to continue..
+the_emperor your search for young Skywalker.
+darth_vader Yes, my master.
+the_emperor Patience, my friend.
+the_emperor In time, he will seek you out.
+the_emperor And when he does you must bring him before me.
+the_emperor He has grown strong.
+the_emperor Only together can we turn him to the dark side of the Force.
 darth_vader As you wish.
-emperor Everything is proceeding as I have foreseen.
-yoda Hmm. That face you make. Look I so old to young eyes?
-luke_skywalker No... of course not.
-yoda I do, yes, I do! Sick have I become. Old and weak. When nine hundred years old you reach, look as good you will not. Hmm?
-yoda Soon will I rest. Yes, forever sleep. Earned it, I have.
+the_emperor Everything is proceeding as I have foreseen.
+yoda That face you make Look I so old to young eyes?
+luke_skywalker No, of course not.
+the_emperor Yes, I do.
+yoda Sick have I become.
+yoda Old and weak.
+yoda When 900 years old you reach Iook as good you will not, hmm?
+yoda Soon will I rest.
+c3po Yes.
+yoda Forever sleep.
+yoda Earned it I have.
 luke_skywalker Master Yoda, you can't die.
-yoda Strong am I with the Force... but not that strong! Twilight is upon me and soon night must fall. That is the way of things... the way of the Force.
-luke_skywalker But I need your help. I've come back to complete the training.
-yoda No more training do you require. Already know you that which you need.
-yoda sighs, and lies back on his bed.
-luke_skywalker Then I am a Jedi?
-yoda Ohhh. Not yet. One thing remains: Vader. You must confront Vader. Then, only then, a Jedi will you be. And confront him you will.
-luke_skywalker Master Yoda... is Darth Vader my father?
-yoda Mmm... rest I need. Yes... rest.
+yoda Strong am I with the Force but not that strong.
+yoda Twilight is upon me, and soon night must fall.
+yoda That is the way of things the way of the Force.
+luke_skywalker But I need your help.
+luke_skywalker I've come back to complete the training.
+yoda No more training do you require.
+yoda Already know you that which you need.
+luke_skywalker Then I am a Jedi.
+c3po Oh!
+yoda Not yet.
+yoda One thing remains Vader.
+yoda You must confront Vader.
+yoda Then, only then, a Jedi will you be.
+yoda And confront him you will.
+luke_skywalker Master Yoda is Darth Vader my father?
+yoda Rest I need.
+c3po Yes.
 luke_skywalker Yoda, I must know.
 yoda Your father he is.
 yoda Told you, did he?
-luke_skywalker Yes.
-yoda Unexpected this is, and unfortunate...
+c3po Yes.
 luke_skywalker Unfortunate that I know the truth?
-yoda No. Unfortunate that you rushed to face him... that incomplete was your training. Not ready for the burden were you.
-luke_skywalker Well, I'm sorry.
-yoda Remember, a Jedi's strength flows from the Force. But beware. Anger, fear, aggression. The dark side are they. Once you start down the dark path, forever will it dominate your destiny.
-yoda Luke...Luke...Do not...Do not underestimate the powers of the Emperor, or suffer your father's fate, you will. Luke, when gone am I , the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned, Luke... There is...another...Sky...Sky...walker.
-luke_skywalker I can't do it, Artoo. I can't go on alone.
-ben_kenobi Yoda will always be with you.
-luke_skywalker Obi-Wan! Why didn't you tell me?
+luke_skywalker No.
+jabba_the_hutt I'm sorry.
+yoda Remember a Jedi's strength flows from the Force.
+yoda Once you start down the dark path forever will it dominate your destiny.
+yoda Luke Luke do not do not underestimate the powers of the emperor or suffer your father's fate you will.
+yoda Luke when gone am I the last of theJedi will you be.
+yoda Luke the Force runs strong in your family.
+yoda Pass on what you have learned.
+han_solo I can't do it, R2.
+han_solo I can't go on alone.
+obiwan_kenobi Yoda will always be with you.
+luke_skywalker Obi-Wan.
+luke_skywalker Why didn't you tell me?
 luke_skywalker You told me Vader betrayed and murdered my father.
-ben_kenobi You father was seduced by the dark side of the Force. He ceased to be Anakin Skywalker and became Darth Vader. When that happened, the good man who was your father was destroyed. So what I have told you was true... from a certain point of view.
-luke_skywalker A certain point of view!
-ben_kenobi Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
-ben_kenobi I don't blame you for being angry. If I was wrong in what I did, it certainly wouldn't have been for the first time. You see, what happened to your father was my fault.
-ben_kenobi Anakin was a good friend.
-ben_kenobi When I first knew him, your father was already a great pilot. But I was amazed how strongly the Force was with him. I took it upon myself to train him as a Jedi. I thought that I could instruct him just as well as Yoda. I was wrong. My pride has had terrible consequences for the galaxy.
-luke_skywalker There's still good in him.
-ben_kenobi I also thought he could be turned back to the good side. It couldn't be done. He is more machine now than man. Twisted and evil.
+the_emperor Your father was seduced by the dark side of the Force.
+obiwan_kenobi He ceased to be Anakin Skywalker and became Darth Vader.
+obiwan_kenobi When that happened the good man who was your father was destroyed.
+obiwan_kenobi So what I told you was true from a certain point of view.
+luke_skywalker A certain point of view?
+obiwan_kenobi Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
+obiwan_kenobi Anakin was a good friend.
+obiwan_kenobi When I first knew him your father was already a great pilot but I was amazed how strongly the Force was with him.
+obiwan_kenobi I took it upon myself to train him as a Jedi.
+obiwan_kenobi I thought that I could instruct him just as well as Yoda.
+obiwan_kenobi I was wrong.
+luke_skywalker There is still good in him.
+obiwan_kenobi He's more machine now than man twisted and evil.
 luke_skywalker I can't do it, Ben.
-ben_kenobi You cannot escape your destiny.
-luke_skywalker I tried to stop him once. I couldn't do it.
-ben_kenobi Vader humbled you when first you met him, Luke... but that experience was part of your training. It taught you, among other things, the value of patience. Had you not been so impatient to defeat Vader then, you could have finished your training here with Yoda. You would have been prepared.
-luke_skywalker But I had to help my friends.
-ben_kenobi And did you help them? It was they who had to save you. You achieved little by rushing back prematurely, I fear.
-luke_skywalker I found out Darth Vader was my father.
-ben_kenobi To be a Jedi, Luke, you must confront and then go beyond the dark side - the side your father couldn't get past. Impatience is the easiest door - for you, like your father. Only, your father was seduced by what he found on the other side of the door, and you have held firm. You're no longer so reckless now, Luke. You are strong and patient. And now, you must face Darth Vader again!
+obiwan_kenobi You cannot escape your destiny.
+yoda You must face Darth Vader again.
 luke_skywalker I can't kill my own father.
-ben_kenobi Then the Emperor has already won. You were our only hope.
+obiwan_kenobi Then the emperor has already won.
+obiwan_kenobi You were our only hope.
 luke_skywalker Yoda spoke of another.
-ben_kenobi The other he spoke of is your twin sister.
+obiwan_kenobi The other he spoke of is your twin sister.
 luke_skywalker But I have no sister.
-ben_kenobi Hmm. To protect you both from the Emperor, you were hidden from your father when you were born. The Emperor knew, as I did, if Anakin were to have any offspring, they would be a threat to him. That is the reason why your sister remains safely anonymous.
-luke_skywalker Leia! Leia's my sister.
-ben_kenobi Your insight serves you well. Bury your feelings deep down, Luke. They do you credit. But they could be made to serve the Emperor.
-ben_kenobi When your father left, he didn't know your mother was pregnant. Your mother and I knew he would find out eventually, but we wanted to keep you both as safe as possible, for as long as possible. So I took you to live with my brother Owen on Tatooine... and your mother took Leia to live as the daughter of Senator Organa, on Alderaan.
-ben_kenobi The Organa household was high-born and politically quite powerful in that system. Leia became a princess by virtue of lineage... no one knew she'd been adopted, of course. But it was a title without real power, since Alderaan had long been a democracy. Even so, the family continued to be politically powerful, and Leia, following in her foster father's path, became a senator as well. That's not all she became, of course... she became the leader of her cell in the Alliance against the corrupt Empire. And because she had diplomatic immunity, she was a vital link for getting information to the Rebel cause. That's what she was doing when her path crossed yours... for her foster parents had always told her to contact me on Tatooine, if her troubles became desperate.
-luke_skywalker But you can't let her get involved now, Ben. Vader will destroy her.
-ben_kenobi She hasn't been trained in the ways of the Jedi the way you have, Luke... but the Force is strong with her, as it is with all of your family. There is no avoiding the battle. You must face and destroy Vader!
-han_solo Well, look at you, a general, huh?
-lando_calrissian Oh, well, someone must have told them about my little maneuver at the battle of Taanab.
-han_solo Well, don't look at me, pal. I just said you were a fair pilot. I didn't know they were lookin' for somebody to lead this crazy attack.
+obiwan_kenobi To protect you both from the emperor you were hidden from your father when you were born.
+obiwan_kenobi The emperor knew, as I did if Anakin were to have any offspring they would be a threat to him.
+obiwan_kenobi That is the reason why your sister remains safely anonymous.
+han_solo Leia!
+luke_skywalker Leia's my sister.
+obiwan_kenobi Your insight serves you well.
+obiwan_kenobi Bury your feelings deep down, Luke.
+obiwan_kenobi They do you credit but they could be made to serve the emperor.
+han_solo Well, look at you a general, huh?
+lando_calrissian Someone must have told them about my little maneuver at the Battle ofTanaab.
+han_solo Well, don't look at me, pal.
+han_solo I just said you were a fair pilot.
+han_solo I didn't know they were looking for somebody to lead this crazy attack.
 lando_calrissian I'm surprised they didn't ask you to do it.
-han_solo Well, who says they didn't. But I ain't crazy. You're the respectable one, remember?
-mon_mothma The Emperor has made a critical error and the time for our attack has come.
-mon_mothma The data brought to us by the Bothan spies pinpoints the exact location of the Emperor's new battle station. We also know that the weapon systems of this Death Star are not yet operational. With the Imperial Fleet spread throughout the galaxy in a vain effort to engage us, it is relatively unprotected. But most important of all, we've learned that the Emperor himself is personally overseeing the final stages of the construction of this Death Star.
-mon_mothma Many Bothans died to bring us this information. Admiral Ackbar, please.
-admiral_ackbar You can see here the Death Star orbiting the forest Moon of Endor. Although the weapon systems on this Death Star are not yet operational, the Death Star does have a strong defense mechanism. It is protected by an energy shield, which is generated from the nearby forest Moon of Endor. The shield must be deactivated if any attack is to be attempted. Once the shield is down, our cruisers will create a perimeter, while the fighters fly into the superstructure and attempt to knock out the main reactor.
-admiral_ackbar General Calrissian has volunteered to lead the fighter attack
+han_solo Who says they didn't?
+han_solo But I ain't crazy.
+han_solo You're the respectable one, remember?
+mon_mothma The emperor's made a critical error and the time for our attack has come.
+mon_mothma The data brought to us by the Bothan spies pinpoint the exact location of the emperor's new battle station.
+mon_mothma We also know that the weapon systems of this Death Star are not yet operational.
+mon_mothma With the imperial fleet spread throughout the galaxy in a vain effort to engage us it is relatively unprotected.
+mon_mothma But most important of all we've learned that the emperor himself is personally overseeing the final stages of the construction of this Death Star.
+mon_mothma Many Bothans died to bring us this information.
+mon_mothma Admiral Ackbar, please.
+admiral_ackbar You can see here the Death Star orbiting the forest moon of Endor.
+admiral_ackbar Although the weapon systems on this Death Star are not yet operational the Death Star does have a strong defense mechanism.
+admiral_ackbar It is protected by an energy shield which is generated from the nearby forest moon of Endor.
+admiral_ackbar The shield must be deactivated if any attack is to be attempted.
+admiral_ackbar Once the shield is down our cruisers will create a perimeter while the fighters fly into the superstructure and attempt to knock out the main reactor.
+admiral_ackbar General Calrissian has volunteered to lead the fighter attack.
 han_solo Good luck.
-han_solo You're gonna need it.
-admiral_ackbar GENERAL_MADINE.
-general_madine We have stolen a small Imperial shuttle. Disguised as a cargo ship, and using a secret Imperial code, a strike team will land on the moon and deactivate the shield generator.
+han_solo You're going to need it.
+admiral_ackbar General Madine.
+general_madine We have stolen a small imperial shuttle.
+general_madine Disguised as a cargo ship and using a secret imperial code a strike team will land on the moon and deactivate the shield generator.
 c3po Sounds dangerous.
 princess_leia I wonder who they found to pull that off.
 general_madine General Solo, is your strike team assembled?
-han_solo Uh, my team's ready. I don't have a command crew for the shuttle.
-han_solo Well, it's gonna be rough, pal. I didn't want to speak for you.
+han_solo Uh, my team's ready.
+han_solo I don't have a command crew for the shuttle.
+han_solo It's going to be rough, pal.
+han_solo I didn't wanna speak for you.
 han_solo That's one.
-princess_leia Uh, General... count me in.
-voice#unknown#StarWars.Episode06 I'm with you, too!
+princess_leia General count me in.
+voice#unknown#StarWars.Episode06 I'm with you, too.
 princess_leia What is it?
 luke_skywalker Ask me again sometime.
 han_solo Luke.
-luke_skywalker Hi, Han... Chewie.
-c3po "Exciting" is hardly the word I would use.
-han_solo Look. I want you to take her. I mean it. Take her. You need all the help you can get. She's the fastest ship in the fleet.
-lando_calrissian All right, old buddy. You know, I know what she means to you. I'll take good care of her. She-she won't get a scratch. All right?
-han_solo Right. I got your promise now. Not a scratch.
-lando_calrissian Look, would you get going, you pirate.
-lando_calrissian Good luck.
+han_solo Hi, Han, Chewie.
+c3po "Exciting" is hardly the word I would choose.
+han_solo Look, I want you to take her.
+han_solo I mean it.
+han_solo Take her.
+han_solo You need all the help you can get.
+han_solo She's the fastest ship in the fleet.
+lando_calrissian All right, old buddy.
+lando_calrissian I know what she means to you.
+lando_calrissian I'll take good care of her.
+lando_calrissian She won't get a scratch.
+han_solo All right?
+han_solo Right.
+han_solo I got your promise.
+han_solo Not a scratch.
+lando_calrissian Would you get going, you pirate?
+han_solo Good luck.
 han_solo You, too.
-han_solo You got her warmed?
-luke_skywalker Yeah, she's comin' up.
-han_solo No. I don't think the Empire had Wookiees in mind when they designed her, Chewie.
-princess_leia Hey, are you awake?
-han_solo Yeah, I just got a funny feeling. Like I'm not gonna see her again.
+han_solo Got her warmed?
+luke_skywalker She's coming up.
+han_solo Yeah, well, I don't think the Empire had Wookiees in mind when they designed her, Chewie.
+princess_leia Hey, you awake?
+han_solo I just got a funny feeling like I'm not gonna see her again.
 princess_leia Come on, General, let's move.
-han_solo Right. Chewie, let's see what this piece of junk can do. Ready, everybody?
+han_solo Right.
+han_solo Chewie, let's see what this piece of junk can do.
+han_solo Ready, everybody?
 luke_skywalker All set.
-c3po Here we go again.
+jabba_the_hutt Here we go again.
 han_solo All right, hang on.
-darth_vader What is thy bidding, my Master?
-emperor Send the fleet to the far side of Endor. There it will stay until called for.
-darth_vader What of the reports of the Rebel fleet massing near Sullust?
-emperor It is of no concern. Soon the Rebellion will be crushed and young Skywalker will be one of us! Your work here is finished, my friend. Go out to the command ship and await my orders.
-darth_vader Yes, my Master.
-han_solo If they don't go for this, we're gonna have to get outta here pretty quick, Chewie.
-controller#unknown#StarWars.Episode06 We have you on our screen now. Please identify.
+darth_vader What is thy bidding, my master?
+the_emperor Send the fleet to the far side of Endor.
+the_emperor There it will stay until called for.
+darth_vader What of the reports of the rebel fleet massing near Sullust?
+the_emperor It is of no concern.
+the_emperor Soon the rebellion will be crushed and young Skywalker will be one of us.
+the_emperor Your work here is finished, my friend.
+the_emperor Go out to the command ship and await my orders.
+darth_vader Yes, my master.
+han_solo If they don't go for this we're gonna have to get out of here pretty quick, Chewie.
+controller#unknown#StarWars.Episode06 We have you on our screen now.
+controller#unknown#StarWars.Episode06 Please identify.
 han_solo Shuttle Tydirium requesting deactivation of the deflector shield.
-controller#unknown#StarWars.Episode06 Shuttle Tydirium, transmit the clearance code for shield passage.
+controller#unknown#StarWars.Episode06 Shuttle Tydirium transmit the clearance code for shield passage.
 han_solo Transmission commencing.
 princess_leia Now we find out if that code is worth the price we paid.
-han_solo It'll work. It'll work.
+han_solo It'll work.
+han_solo It'll work.
 luke_skywalker Vader's on that ship.
-han_solo Now don't get jittery, Luke. There are a lot of command ships. Keep your distance though, Chewie, but don't look like you're trying to keep your distance.
-han_solo I don't know. Fly casual.
-luke_skywalker I'm endangering the mission. I shouldn't have come.
-han_solo It's your imagination, kid. Come on. Let's keep a little optimism here.
-darth_vader Vader stands, back to us, staring out a window at the Death Star. Now, some vibration felt only by him causes him to turn. After a moment of stillness, he walks down the row of controllers to where ADMIRAL PIETT is leaning over the tracking screen of the controller we've seen earlier. Piett straightens at Vader's approach.
+han_solo Now, don't get jittery, Luke.
+han_solo There are a lot of command ships.
+han_solo Keep your distance, though, Chewie but don't look like you're trying to keep your distance.
+han_solo I don't know.
+han_solo Fly casual.
 darth_vader Where is that shuttle going?
 admiral_piett Shuttle Tydirium, what is your cargo and destination?
 pilot_voice#unknown#StarWars.Episode06 Parts and technical crew for the forest moon.
 darth_vader Do they have a code clearance?
-admiral_piett It's an older code, sir, but it checks out. I was about to clear them.
+admiral_piett It's an older code, sir, but it checks out.
+admiral_piett I was about to clear them.
+luke_skywalker I'm endangering the mission.
+obiwan_kenobi I shouldn't have come.
+han_solo It's your imagination, kid.
+han_solo Let's keep a little optimism here.
 admiral_piett Shall I hold them?
-darth_vader No. Leave them to me. I will deal with them myself.
-admiral_piett As you wish, my lord. Carry on.
-han_solo They're not goin' for it, Chewie.
-controller#unknown#StarWars.Episode06 Shuttle Tydirium, deactivation of the shield will commence immediately. Follow your present course.
-han_solo Okay! I told you it was gonna work. No problem.
-c3po Oh, I told you it was dangerous here.
-their#unknown#StarWars.Episode06 POV. Not far below them, two IMPERIAL SCOUTS are wandering through bushes in the valley below. Their two ROCKET BIKES are parked nearby.
-princess_leia Shall we try and go around?
-han_solo It'll take time. This whole party'll be for nothing if they see us.
-han_solo Chewie and I will take care of this. You stay here.
-luke_skywalker Quietly, there might be more of them out there.
-han_solo Hey... it's me.
-scout#unknown#StarWars.Episode06 #1 Go for help! Go!
-luke_skywalker Great. Come on.
-princess_leia Over there! Two more of them!
-luke_skywalker I see them. Wait, Leia!
-but#unknown#StarWars.Episode06 Leia doesn't hear him and races for the remaining speeder bike. She starts it up and takes off as Luke jumps on the bike behind her.
-luke_skywalker Quick! Jam their comlink. Center switch!
-han_solo Hey, wait! Ahhh!
+luke_skywalker No.
+darth_vader Leave them to me.
+darth_vader I will deal with them myself.
+darth_vader As you wish, my lord.
+admiral_piett Carry on.
+han_solo They're not going for it, Chewie.
+controller#unknown#StarWars.Episode06 Shuttle Tydirium deactivation of the shield will commence immediately.
+controller#unknown#StarWars.Episode06 Follow your present course.
+han_solo I told you it was going to work.
+han_solo No problem.
+han_solo Oh, I told you it was dangerous here!
+princess_leia Should we try and go around?
+han_solo It'll take time.
+han_solo This whole party will be for nothing if they see us.
+han_solo Chewie and I will take care of this.
+han_solo You stay here.
+princess_leia Quietly.
+luke_skywalker There might be more of them out there.
+han_solo Hey, it's me.
+biker_scout_pushed_off_bike Go for help!
+biker_scout_pushed_off_bike Go!
+luke_skywalker Great.
+han_solo Come on!
+princess_leia Over there!
+princess_leia Two more of them.
+luke_skywalker I see them.
+luke_skywalker Wait, Leia!
+lando_calrissian Hey, wait!
+luke_skywalker Quick.
+luke_skywalker Jam their comlink!
+luke_skywalker Center switch!
 luke_skywalker Move closer!
 luke_skywalker Get alongside that one!
-luke_skywalker Get him!
-luke_skywalker Keep on that one! I'll take these two!
-c3po Oh, General Solo, somebody's coming. Oh!
-han_solo Luke! Where's Leia?
-luke_skywalker What? She didn't come back?
+c3po Oh!
+luke_skywalker Keep on that one!
+han_solo I'll take these two!
+c3po General Solo, somebody's coming.
+c3po Oh!
+han_solo Luke!
+han_solo Where's Leia?
+luke_skywalker She didn't come back?
 han_solo I thought she was with you.
 luke_skywalker We got separated.
-luke_skywalker Hey, we better go look for her.
-han_solo nods, and signals to a Rebel officer.
-han_solo Take the squad ahead. We'll meet at the shield generator at 0300.
-luke_skywalker Come on, Artoo. We'll need your scanners.
-c3po Don't worry, Master Luke. We know what to do.
-c3po And you said it was pretty here. Ugh!
+luke_skywalker We better go look for her.
+han_solo Take the squad ahead.
+han_solo We'll meet at the shield generator at 0300.
+luke_skywalker Come on, R2, we'll need your scanners.
+c3po Don't worry, Master Luke.
+c3po We know what to do.
+c3po And you said it was pretty here.
 princess_leia Cut it out!
-princess_leia I'm not gonna hurt you.
-princess_leia Well, looks like I'm stuck here. Trouble is, I don't know where here is.
-princess_leia Well, maybe you can help me. Come on, sit down.
-princess_leia I promise I won't hurt you. Now come here.
-princess_leia All right. You want something to eat?
-princess_leia That's right. Come on. Hmmm?
-sniffing#unknown#StarWars.Episode06 the food curiously, the Ewok comes toward Leia and sits on the log beside her. She takes off her helmet, and the little creature jumps back, startled again. He runs along the log, pointing his spear at her and chattering a blue streak. Leia holds out the helmet to him.
-princess_leia Look, it's a hat. It's not gonna hurt you. Look. You're a jittery little thing, aren't you?
+princess_leia I'm not going to hurt you.
+c3po Oh.
+princess_leia Well, looks like I'm stuck here.
+princess_leia Trouble is, I don't know where here is.
+princess_leia Maybe you can help me.
+han_solo Come on.
+princess_leia I promise I won't hurt you.
+princess_leia Now come here.
+han_solo All right.
+c3po You want something to eat?
+luke_skywalker That's right.
+han_solo - Come on.
+luke_skywalker -
+c3po Hmm?
+han_solo Look.
+admiral_ackbar It's a hat.
+princess_leia It's not going to hurt you.
+han_solo Look.
+princess_leia You're a jittery little thing, aren't you?
 princess_leia What is it?
-scout_l#unknown#StarWars.Episode06 Freeze! Come on, get up!
-scout_1#unknown#StarWars.Episode06 Go get your ride and take her back to base.
-scout_2#unknown#StarWars.Episode06 Yes, sir.
-princess_leia Come on, let's get outta here.
-guard#unknown#StarWars.Episode06 Halt! The Emperor does not wish to be disturbed at the moment.
-darth_vader The Emperor will see me, now!
-guard#unknown#StarWars.Episode06 The Emperor will see you, now.
-emperor I told you to remain on the command ship.
-darth_vader A small Rebel force has penetrated the shield and landed on Endor.
-emperor Yes, I know.
+c3po Oh!
+biker_scout_pushed_off_bike Freeze!
+han_solo Come on, get up!
+operator#unknown#StarWars.Episode06 Yes, sir.
+c3po What the Ya!
+han_solo Come on.
+princess_leia Let's get out of here.
+the_emperor I told you to remain on the command ship.
+darth_vader A small rebel force has penetrated the shield and landed on Endor.
+the_emperor Yes, I know.
 darth_vader My son is with them.
-emperor Are you sure?
-darth_vader I have felt him, my Master.
-emperor Strange, that I have not. I wonder if your feelings on this matter are clear, Lord Vader.
-darth_vader They are clear, my Master.
-emperor Then you must go to the Sanctuary Moon and wait for them.
+the_emperor Are you sure?
+darth_vader I have felt him, my master.
+the_emperor Strange that I have not.
+the_emperor I wonder if your feelings on this matter are clear Lord Vader.
+darth_vader They are clear, my master.
+the_emperor Then you must go to the sanctuary moon and wait for him.
 darth_vader He will come to me?
-emperor I have foreseen it. His compassion for you will be his undoing. He will come to you and then you will bring him before me.
+the_emperor I have foreseen it.
+the_emperor His compassion for you will be his undoing.
+the_emperor He will come to you and then you will bring him before me.
 darth_vader As you wish.
-han_solo Luke! Luke!
+han_solo Luke!
+han_solo Luke!
 c3po Oh, Master Luke.
-luke_skywalker There's two more wrecked speeders back there. And I found this.
-c3po I'm afraid that Artoo's sensors can find no trace of Princess Leia.
-han_solo I hope she's alright.
-chewbacca
-han_solo What, Chewie? What? Chewie!
-han_solo Hey, I don't get it.
-han_solo Nah, it's just a dead animal, Chewie.
-chewbacca can't resist. He reaches toward the meat.
-luke_skywalker Chewie, wa-wait! Don't!
-han_solo Nice work. Great, Chewie! Great! Always thinking with your stomach.
-luke_skywalker Will you take it easy? Let's just figure out a way to get out of this thing. Han, can you reach my lightsaber?
-han_solo Yeah, sure.
-c3po Artoo, I'm not sure that's such a good idea. It's a very long dro-o- op!!
-han_solo Wha--? Hey! Point that thing someplace else.
+luke_skywalker There's two more wrecked speeders back there.
+luke_skywalker And I found this.
+c3po I'm afraid that R2's sensors can find no trace of Princess Leia.
+han_solo I hope she's all right.
+luke_skywalker What, Chewie?
+luke_skywalker What, Chewie?
+han_solo I don't get it.
+han_solo It's just a dead animal, Chewie.
+han_solo Chewie, wait!
+luke_skywalker Don't!
+han_solo Nice work.
+luke_skywalker Great, Chewie.
+luke_skywalker Great.
+han_solo Always thinking with your stomach.
+jabba_the_hutt Take it easy.
+luke_skywalker Let's just figure a way to get out of this thing.
+luke_skywalker Han, can you reach my lightsaber?
+c3po R2, I'm not sure that's such a good idea.
+c3po It's a very long drop!
+han_solo Ah.
+han_solo Point that thing someplace else.
 han_solo Hey!
-luke_skywalker Han, don't. It'll be all right.
-luke_skywalker Chewie, give 'em your crossbow.
-c3po Oh, my head. Oh, my goodness!
+luke_skywalker Han, don't.
+han_solo It'll be all right.
+luke_skywalker Chewie, give them your crossbow.
+c3po Oh, my head!
+c3po Oh, my goodness.
 luke_skywalker Do you understand anything they're saying?
-c3po Oh, yes, Master Luke! Remember that I am fluent in over six million forms of communication.
-han_solo What are you telling them?
-c3po Hello, I think... I could be mistaken. They're using a very primitive dialect. But I do believe they think I am some sort of god.
-han_solo Well, why don't you use your divine influence and get us out of this?
+c3po Oh, yes, Master Luke.
+c3po Remember that I am fluent in over six million forms What are you telling them?
+c3po Hello, I think.
+c3po I could be mistaken.
+c3po They're using a very primitive dialect.
+c3po I do believe they think I am some sort of god.
+han_solo Why don't you use your divine influence and get us out of this?
 c3po I beg your pardon, General Solo, but that just wouldn't be proper.
-han_solo Proper?!
+han_solo Proper?
 c3po It's against my programming to impersonate a deity.
-han_solo Why, you--
-han_solo My mistake. He's an old friend of mine.
-han_solo I have a really bad feeling about this.
-han_solo What did he say?
-c3po I'm rather embarrassed, General Solo, but it appears you are to be the main course at a banquet in my honor.
-han/LUKE#unknown#StarWars.Episode06 Leia!
-princess_leia Oh!
+han_solo Why, you
+han_solo My mistake.
+han_solo He's an old friend of mine.
+han_solo Hey!
+c3po I have a really bad feeling about this.
+c3po What did he say?
+c3po I'm rather embarrassed, General Solo but it appears you are to be the main course at a banquet in my honor.
+han_solo Leia!
+han_solo Leia!
 c3po Your Royal Highness.
-princess_leia But these are my friends. Threepio, tell them they must be set free.
-han_solo Somehow, I got the feeling that didn't help us very much.
-luke_skywalker Threepio, tell them if they don't do as you wish, you'll become angry and use your magic.
-c3po But Master Luke, what magic? I couldn't possibly --
+the_emperor But these are my friends.
+princess_leia 3PO, tell them they must be set free.
+han_solo Somehow I got the feeling that didn't help us very much.
+luke_skywalker 3PO, tell them if they don't do as you wish you'll become angry and use your magic.
+c3po But, Master Luke, what magic?
+luke_skywalker I couldn't possibly.
 luke_skywalker Just tell them.
-c3po You see, Master Luke; they didn't believe me. Just...
-c3po ... as I said they wouldn't. Wha-wha-what's happening! Oh! Oh, dear! Oh!
-c3po Put me down! He-e-elp! Master Luke! Artoo! Somebody, somebody, help! Master Luke, Artoo! Artoo, quickly! Do something, somebody! Oh! Ohhh!
-c3po Oh, oh, oh, oh! Thank goodness.
-luke_skywalker Thanks, Threepio.
-c3po I...I never knew I had it in me.
-c3po Yes, Artoo. I was just coming to that.
+c3po You see, Master Luke?
+luke_skywalker Wait, wait.
+c3po Put me down!
+lando_calrissian Help!
+bib_fortuna Master Luke!
+c3po R2, R2, quickly!
+c3po Oh!
+c3po Oh!
+c3po Oh!
+c3po Thank goodness.
+c3po I never knew I had it in me.
+c3po Yes, R2, I was just coming to that.
 han_solo What's going on?
-princess_leia I don't know.
-c3po Wonderful! We are now a part of the tribe.
+han_solo I don't know.
+c3po Wonderful.
+c3po We are now a part of the tribe.
 han_solo Just what I always wanted.
-han_solo Well, short help is better than no help at all, Chewie. Thank you. Okay.
+han_solo Short help's better than no help at all.
 c3po He says the scouts are going to show us the quickest way to the shield generator.
-chewbacca
-han_solo Good. How far is it? Ask him. We need some fresh supplies, too. And try and get our weapons back.
-han_solo And hurry up, will ya? I haven't got all day.
+han_solo How far is it?
+han_solo Ask him.
+han_solo We need some fresh supplies, too.
+han_solo Try and get our weapons back.
+han_solo Hurry up, will you?
+han_solo I haven't got all day.
 princess_leia Luke, what's wrong?
-luke_skywalker Leia... do you remember your mother? Your real mother?
-princess_leia Just a little bit. She died when I was very young.
+luke_skywalker Leia, do you remember your mother your real mother?
+lando_calrissian Just a little bit.
+princess_leia She died when I was very young.
 luke_skywalker What do you remember?
-princess_leia Just...images, really. Feelings.
+princess_leia Just images, really.
+princess_leia Feelings.
 luke_skywalker Tell me.
-princess_leia She was very beautiful. Kind, but...sad. Why are you asking me all this?
-luke_skywalker I have no memory of my mother. I never knew her.
-princess_leia Luke, tell me. What's troubling you?
-luke_skywalker Vader is here...now, on this moon.
+princess_leia She was very beautiful.
+princess_leia Kind but sad.
+c3po Why are you asking me this?
+luke_skywalker I have no memory of my mother.
+c3po I never knew her.
+princess_leia Luke, tell me what's troubling you?
+luke_skywalker Vader is here.
+yoda Now.
+luke_skywalker On this moon.
 princess_leia How do you know?
-luke_skywalker I felt his presence. He's come for me. He can feel when I'm near. That's why I have to go. As long as I stay, I'm endangering the group and our mission here. I have to face him.
+luke_skywalker I felt his presence.
+darth_vader He's come for me.
+luke_skywalker He can feel when I'm near.
+luke_skywalker That's why I have to go.
+luke_skywalker As long as I stay I'm endangering the group and our mission here.
+luke_skywalker I have to face him.
 princess_leia Why?
 luke_skywalker He's my father.
-princess_leia Your father?
-luke_skywalker There's more. It won't be easy for you to hear it, but you must. If I don't make it back, you're the only hope for the Alliance.
-princess_leia Luke, don't talk that way. You have a power I--I don't understand and could never have.
-luke_skywalker You're wrong, Leia. You have that power too. In time you'll learn to use it as I have. The Force is strong in my family. My father has it...I have it...and...my sister has it.
-luke_skywalker Yes. It's you Leia.
-princess_leia I know. Somehow...I've always known.
+yoda Your father?
+luke_skywalker There's more.
+luke_skywalker It won't be easy for you to hear it, but you must.
+luke_skywalker If I don't make it back you're the only hope for the Alliance.
+princess_leia Don't talk that way.
+princess_leia You have a power I don't understand and could never have.
+luke_skywalker You're wrong, Leia.
+princess_leia You have that power, too.
+luke_skywalker In time, you'll learn to use it as I have.
+yoda The Force is strong in my family.
+yoda My father has it.
+luke_skywalker I have it.
+luke_skywalker And my sister has it.
+c3po Yes.
+luke_skywalker It's you, Leia.
+princess_leia I know.
+princess_leia Somehow I've always known.
 luke_skywalker Then you know why I have to face him.
-princess_leia No! Luke, run away, far away. If he can feel your presence, then leave this place. I wish I could go with you.
-luke_skywalker No, you don't. You've always been strong.
-princess_leia But, why must you confront him?
-luke_skywalker Because...there is good in him. I've felt it. He won't turn me over to the Emperor. I can save him. I can turn him back to the good side. I have to try.
-han_solo Hey, what's goin' on?
-princess_leia Nothing. I - just want to be alone for a little while.
-han_solo Nothing? Come on, tell me. What's goin' on?
-princess_leia I...I can't tell you.
-han_solo Did you tell Luke? Is that who you could tell?
-princess_leia I...
-han_solo Ahhh...
-han_solo I'm sorry.
-princess_leia Hold me.
-commander#unknown#StarWars.Episode06 This is a Rebel that surrendered to us. Although he denies it, I believe there may be more of them, and I request permission to conduct a further search of the area.
+luke_skywalker No!
+princess_leia If he can feel your presence then leave this place.
+princess_leia I wish I could go with you.
+luke_skywalker No, you don't.
+luke_skywalker You've always been strong.
+princess_leia But why must you confront him?
+luke_skywalker Because there is good in him.
+luke_skywalker I've felt it.
+luke_skywalker He won't turn me over to the emperor.
+luke_skywalker I can save him.
+obiwan_kenobi I can turn him back to the good side.
+luke_skywalker I have to try.
+han_solo Hey, what's going on?
+princess_leia Nothing.
+princess_leia I just want to be alone for a little while.
+princess_leia Nothing?
+biker_scout_pushed_off_bike Come on, tell me.
+han_solo What's going on?
+han_solo I I can't tell you.
+han_solo Could you tell Luke?
+han_solo Is that who you could tell?
+jabba_the_hutt I'm sorry.
+c3po Hold me.
+commander#unknown#StarWars.Episode06 This is the rebel that surrendered to us.
+commander#unknown#StarWars.Episode06 Although he denies it, I believe there may be more of them and I request permission to conduct a further search of the area.
 commander#unknown#StarWars.Episode06 He was armed only with this.
-darth_vader Good work, Commander. Leave us. Conduct your search and bring his companions to me.
-commander#unknown#StarWars.Episode06 Yes, my Lord.
-darth_vader The Emperor has been expecting you.
-luke_skywalker I know, father.
+darth_vader Good work, Commander.
+darth_vader Leave us.
+darth_vader Conduct your search and bring his companions to me.
+darth_vader Yes, my lord.
+darth_vader The emperor has been expecting you.
+luke_skywalker I know, Father.
 darth_vader So, you have accepted the truth.
-lure#unknown#StarWars.Episode06 I've accepted the truth that you were once Anakin Skywalker, my father.
+luke_skywalker I've accepted the truth that you were once Anakin Skywalker, my father.
 darth_vader That name no longer has any meaning for me.
-luke_skywalker It is the name of your true self. You've only forgotten. I know there is good in you. The Emperor hasn't driven it from you fully. That is why you couldn't destroy me. That's why you won't bring me to your Emperor now.
+luke_skywalker It is the name of your true self.
+luke_skywalker You've only forgotten.
+luke_skywalker I know there is good in you.
+luke_skywalker The emperor hasn't driven it from you fully.
+luke_skywalker That was why you couldn't destroy me.
+luke_skywalker That's why you won't bring me to your emperor now.
 darth_vader I see you have constructed a new lightsaber.
-darth_vader Your skills are complete. Indeed, you are powerful, as the Emperor has foreseen.
+darth_vader Your skills are complete.
+darth_vader Indeed you are powerful as the emperor has foreseen.
 luke_skywalker Come with me.
 darth_vader Obi-Wan once thought as you do.
-darth_vader You don't know the power of the dark side. I must obey my master.
-luke_skywalker I will not turn...and you'll be forced to kill me.
-darth_vader If that is your destiny.
-luke_skywalker Search your feelings, father. You can't do this. I feel the conflict within you. Let go of your hate.
-darth_vader It is too late for me, son. The Emperor will show you the true nature of the Force. He is your master now.
+darth_vader You don't know the power of the dark side.
+darth_vader I must obey my master.
+luke_skywalker I will not turn and you'll be forced to kill me.
+obiwan_kenobi If that is your destiny.
+luke_skywalker Search your feelings, Father.
+luke_skywalker You can't do this.
+luke_skywalker I feel the conflict within you.
+luke_skywalker Let go of your hate.
+jabba_the_hutt It is too late for me, son.
+darth_vader The emperor will show you the true nature of the Force.
+darth_vader He is your master now.
 luke_skywalker Then my father is truly dead.
-princess_leia The main entrance to the control bunker's on the far side of that landing platform. This isn't gonna be easy.
-han_solo Hey, don't worry. Chewie and me got into a lot of places more heavily guarded than this.
-princess_leia What's he saying?
+princess_leia The main entrance to the control bunker is on the far side of that landing platform.
+princess_leia This isn't going to be easy.
+han_solo Hey, don't worry.
+han_solo Chewie and me got into a lot of places more heavily guarded than this.
+c3po What's he saying?
 c3po He says there's a secret entrance on the other side of the ridge.
-lando_calrissian Admiral, we're in position. All fighters accounted for.
-admiral_ackbar Proceed with the countdown. All groups assume attack coordinates.
-lando_calrissian Don't worry, my friends are down there. They'll have that shield down on time... or this'll be the shortest offensive of all time.
-admiral_ackbar All craft, prepare to jump to hyperspace on my mark.
-lando_calrissian All right. Stand by.
-han_solo Back door, huh? Good idea.
-han_solo It's only a few guards. This shouldn't be too much trouble.
-princess_leia Well, it only takes one to sound the alarm.
-han_solo Then we'll do it real quiet-like.
-c3po Oh! Oh, my. Uh, Princess Leia!
-princess_leia Quiet.
+lando_calrissian Admiral, we're in position.
+lando_calrissian All fighters accounted for.
+admiral_ackbar Proceed with the countdown.
+admiral_ackbar All groups assume attack coordinates.
+han_solo Don't worry.
+lando_calrissian He'll have that shield down on time.
+lando_calrissian Or this will be the shortest offensive of all time.
+admiral_ackbar All craft, prepare to jump into hyperspace on my mark.
+han_solo All right.
+imperial_gunner Stand by.
+han_solo Back door, huh?
+han_solo Good idea.
+han_solo It's only a few guards.
+han_solo This shouldn't be too much trouble.
+princess_leia It only takes one to sound the alarm.
+han_solo Then we'll do it real quiet like.
+c3po Oh, my!
+c3po Princess Leia!
 c3po I'm afraid our furry companion has gone and done something rather rash.
-princess_leia Oh, no.
+c3po Oh, no.
 han_solo There goes our surprise attack.
-scout#unknown#StarWars.Episode06 Look! Over there! Stop him!
-han_solo Not bad for a little furball. There's only one left. You stay here. We'll take care of this.
-c3po I have decided that we shall stay here.
-emperor Welcome, young Skywalker. I have been expecting you.
-emperor You no longer need those.
-emperor Guards, leave us.
-emperor I'm looking forward to completing your training. In time you will call me Master.
-luke_skywalker You're gravely mistaken. You won't convert me as you did my father.
-emperor Oh, no, my young Jedi. You will find that it is you who are mistaken...about a great many things.
+c3po Look, over there!
+biker_scout_pushed_off_bike Stop him!
+han_solo Not bad for a little furball.
+luke_skywalker There's only one left.
+han_solo You stay here.
+luke_skywalker We'll take care of this.
+luke_skywalker I have decided.
+c3po that we shall stay here.
+han_solo Hey!
+the_emperor Welcome, young Skywalker.
+darth_vader I have been expecting you.
+the_emperor You'll no longer need those.
+the_emperor Guards, leave us.
+luke_skywalker I'm looking forward to completing your training.
+the_emperor In time, you will call me master.
+luke_skywalker You're gravely mistaken.
+luke_skywalker You won't convert me as you did my father.
+the_emperor Oh, no, my young Jedi.
+the_emperor You will find that it is you who are mistaken about a great many things.
 darth_vader His lightsaber.
-emperor Ah, yes, a Jedi's weapon. Much like your father's. By now you must know your father can never be turned from the dark side. So will it be with you.
-luke_skywalker You're wrong. Soon I'll be dead...and you with me.
-emperor Perhaps you refer to the imminent attack of your Rebel fleet.
-emperor Yes...I assure you we are quite safe from your friends here.
+the_emperor Much like your father's.
+the_emperor By now you must know your father can never be turned from the dark side.
+obiwan_kenobi So will it be with you.
+luke_skywalker You're wrong.
+luke_skywalker Soon I'll be dead, and you with me.
+the_emperor Perhaps you refer to the imminent attack of your rebel fleet.
+c3po Yes.
+the_emperor I assure you we are quite safe from your friends here.
 luke_skywalker Your overconfidence is your weakness.
-emperor Your faith in your friends is yours.
+the_emperor Your faith in your friends is yours.
 darth_vader It is pointless to resist, my son.
-emperor Everything that has transpired has done so according to my design. Your friends up there on the Sanctuary Moon...
-emperor ...are walking into a trap. As is your Rebel fleet! It was I who allowed the Alliance to know the location of the shield generator. It is quite safe from your pitiful little band. An entire legion of my best troops awaits them.
-emperor Oh...I'm afraid the deflector shield will be quite operational when your friends arrive.
-han_solo All right! Up! Move! Come on! Quickly! Quickly, Chewie.
-princess_leia Han! Hurry! The fleet will be here any moment.
-han_solo Charges! Come on, come on!
-c3po Oh, my! They'll be captured!
-c3po Wa-wait! Wait, come back! Artoo, stay with me.
-commander#unknown#StarWars.Episode06 Freeze! You Rebel scum.
+the_emperor Everything that has transpired has done so according to my design.
+the_emperor Your friends up there on the sanctuary moon are walking into a trap, as is your rebel fleet.
+the_emperor It was I who allowed the Alliance to know the location of the shield generator.
+the_emperor It is quite safe from your pitiful little band.
+the_emperor An entire legion of my best troops awaits them.
+the_emperor Oh I'm afraid the deflector shield will be quite operational when your friends arrive.
+lando_calrissian All right, up!
+han_solo Move!
+han_solo Come on.
+luke_skywalker Quickly.
+luke_skywalker Quickly.
+han_solo Chewie.
+princess_leia The fleet will be here any moment.
+han_solo Charges!
+princess_leia Come on, come on!
+c3po Oh, my!
+c3po They'll be captured!
+han_solo Wait!
+han_solo Wait!
+han_solo Come back!
+c3po R2, stay with me.
+biker_scout_pushed_off_bike Freeze!
+commander#unknown#StarWars.Episode06 You rebel scum.
 lando_calrissian All wings report in.
-wedge standing by.
+gray_leader#unknown#StarWars.Episode06 Red Leader standing by.
 gray_leader#unknown#StarWars.Episode06 Gray Leader standing by.
-green_leader#unknown#StarWars.Episode06 Green Leader standing by.
+gray_leader#unknown#StarWars.Episode06 Green Leader standing by.
 wedge Lock S-foils in attack positions.
 admiral_ackbar May the Force be with us.
-lando_calrissian We've got to be able to get some kind of a reading on that shield, up or down. Well, how could they be jamming us if they don't know if we're coming.
-lando_calrissian Break off the attack! The shield is still up.
-red_leader I get no reading. Are you sure?
-lando_calrissian Pull up! All craft pull up!
-admiral_ackbar Take evasive action! Green Group, stick close to holding sector MV-7.
-controller#unknown#StarWars.Episode06 Admiral, we have enemy ships in sector 47.
+lando_calrissian We've got to get a reading.
+lando_calrissian How could they be jamming us if they don't know if we're coming.
+lando_calrissian Break off the attack!
+lando_calrissian The shield is still up.
+red_leader I get no reading.
+lando_calrissian Pull up!
+lando_calrissian All craft pull up!
+admiral_ackbar Take evasive action.
+admiral_ackbar Green Group, stick to Holding Sector MV-7.
+controller#unknown#StarWars.Episode06 Admiral, we have enemy ships in Sector 47.
 admiral_ackbar It's a trap!
-lando_calrissian Fighters coming in.
+lando_calrissian Fighters coming in!
 rebel_pilot There's too many of them!
-lando_calrissian Accelerate to attack speed! Draw their fire away from the cruisers.
+lando_calrissian Accelerate to attack speed.
+lando_calrissian Draw their fire away from the cruisers.
 wedge Copy, Gold Leader.
-emperor Come, boy. See for yourself.
-emperor From here you will witness the final destruction of the Alliance, and the end of your insignificant Rebellion.
-emperor You want this, don't you? The hate is swelling in you now. Take your Jedi weapon. Use it. I am unarmed. Strike me down with it. Give in to your anger. With each passing moment, you make yourself more my servant.
-luke_skywalker No!
-emperor It is unavoidable. It is your destiny. You, like your father, are now mine!
-stormtrooper All right, move it! I said move it! Go on!
-c3po Hello! I say, over there! Were you looking for me?
-bunker#unknown#StarWars.Episode06 COMMANDER Bring those two down here!
-stormtrooper Let's go!
-c3po Well, they're on their way. Artoo, are you sure this was a good idea?
-stormtrooper Freeze! Don't move!
+han_solo Come, boy.
+the_emperor See for yourself.
+the_emperor From here, you will witness the final destruction of the Alliance and the end of your insignificant rebellion.
+the_emperor You want this don't you?
+the_emperor The hate is swelling in you now.
+the_emperor Take yourJedi weapon.
+the_emperor Use it.
+the_emperor I am unarmed.
+the_emperor Strike me down with it.
+the_emperor Give in to your anger.
+the_emperor With each passing moment you make yourself more my servant.
+luke_skywalker No.
+the_emperor It is unavoidable.
+luke_skywalker It is your destiny.
+the_emperor You, like your father are now mine.
+lando_calrissian All right, move it!
+han_solo Come on.
+lando_calrissian Hello!
+c3po I say, over there!
+c3po Were you looking for me?
+bunker#unknown#StarWars.Episode06 Bring those two down here.
+c3po Well, they're on their way.
+c3po R2, are you sure this was a good idea?
+biker_scout_pushed_off_bike Freeze!
+han_solo Don't move!
 c3po We surrender.
-c3po Ohhh! Stand back, Artoo.
-princess_leia The code's changed. We need Artoo!
+princess_leia The code's changed.
+princess_leia We need R2.
 han_solo Here's the terminal.
-princess_leia Artoo, where are you? We need you at the bunker right away.
-c3po Going? What do you mean, you're going. But-- but going where, Artoo? No, what! Artoo! Oh, this is no time for heroics. Come back!
-lando_calrissian Watch yourself, Wedge! Three from above!
-red_three_ RED_TWO, pull in!
-red_two_ Got it!
-red_three_ Three of them coming in, twenty degrees!
-wedge Cut to the left! I'll take the leader! They're heading for the medical frigate.
-navigator#unknown#StarWars.Episode06 Pressure's steady.
-lando_calrissian Only the fighters are attacking. I wonder what those Star Destroyers are waiting for.
-commander#unknown#StarWars.Episode06 We're in attack position now, sir.
-admiral_piett Hold here.
+princess_leia R2, where are you?
+princess_leia We need you at the bunker right away.
+c3po What do you mean, you're going?
+lando_calrissian No, wait!
+c3po This is no time for heroics!
+han_solo Come back!
+lando_calrissian Watch yourself, Wedge.
+lando_calrissian Three from above.
+red_two Got it.
+red_three_ Three of them coming in, 20 degrees.
+wedge Cut to the left.
+han_solo I'll take the leader.
+wedge They're heading for the medical frigate.
+navigator#unknown#StarWars.Episode06 Pressure steady.
+lando_calrissian Only the fighters are attacking.
+lando_calrissian I wonder what those Stardestroyers are waiting for.
+commander#unknown#StarWars.Episode06 We're in attack position, sir.
+princess_leia Hold here.
 commander#unknown#StarWars.Episode06 We're not going to attack?
-admiral_piett I have my orders from the Emperor himself. He has something special planned for them. We only need to keep them from escaping.
-emperor As you can see, my young apprentice, your friends have failed. Now witness the firepower of this fully armed and operational battle station. Fire at will, Commander.
-moff_jerjerrod Fire!
-lando_calrissian That blast came from the Death Star! That thing's operational! Home One, this is Gold Leader.
-admiral_ackbar We saw it. All craft prepare to retreat.
+admiral_piett I have my orders from the emperor himself.
+admiral_piett He has something special planned for them.
+admiral_piett We only need to keep them from escaping.
+the_emperor As you can see, my young apprentice your friends have failed.
+the_emperor Now witness the firepower of this fully armed and operational battle station.
+the_emperor Fire at will, Commander.
+moff_jerjerrod Fire.
+c3po Oh!
+lando_calrissian That blast came from the Death Star.
+lando_calrissian That thing's operational!
+wedge Home 1, this is Gold Leader.
+admiral_ackbar All craft prepare to retreat.
 lando_calrissian You won't get another chance at this, Admiral.
-admiral_ackbar We have no choice, General Calrissian. Our cruisers can't repel firepower of that magnitude.
-lando_calrissian Han will have that shield down. We've got to give him more time.
+admiral_ackbar We have no choice, General Calrissian.
+admiral_ackbar Our cruisers can't repel firepower of that magnitude.
+lando_calrissian Han will have that shield down.
+lando_calrissian We've got to give him more time.
 c3po We're coming!
-han_solo Come on! Come on!
-c3po Oh, Artoo, hurry!
-c3po My goodness! Artoo, why did you have to be so brave?
-han_solo Well, I suppose I could hotwire this thing.
+princess_leia Come on, come on!
+c3po Oh, R2, hurry!
+c3po Oh, my goodness!
+c3po Why did you have to be so brave?
+han_solo Eeooow Well, I suppose I could hot-wire this thing.
 princess_leia I'll cover you.
-lando_calrissian Yes! I said closer! Move as close as you can and engage those Star Destroyers at point- blank range.
-admiral_ackbar At that close range, we won't last long against those Star Destroyers.
-lando_calrissian We'll last longer then we will against that Death Star...and we might just take a few of them with us.
-rebel_pilot She's gonna blow!
+lando_calrissian Yes, I said closer.
+lando_calrissian Move as close as you can and engage those Stardestroyers at point-blank range!
+admiral_ackbar At that close range, we won't last long against those Stardestroyers.
+lando_calrissian We'll last longer than we will against that Death Star!
+lando_calrissian And we might just take a few of them with us.
+rebel_pilot She's going to blow!
 ywing_pilot I'm hit!
-emperor Your fleet has lost. And your friends on the Endor moon will not survive. There is no escape, my young apprentice. The Alliance will die...as will your friends.
-emperor Good. I can feel your anger. I am defenseless. Take your weapon! Strike me down with all your hatred, and your journey towards the dark side will be complete.
-walker_pilot_1#unknown#StarWars.Episode06 Look!
+the_emperor Your fleet is lost and your friends on the Endor moon will not survive.
+the_emperor There is no escape my young apprentice.
+the_emperor The Alliance will die as will your friends.
+han_solo Good.
+princess_leia I can feel your anger.
+the_emperor I am defenseless.
+the_emperor Take your weapon.
+the_emperor Strike me down with all of your hatred and your journey towards the dark side will be complete!
+han_solo Look!
 pilot_2#unknown#StarWars.Episode06 Get him off of there!
-han_solo I think I got it. I got it!
-c3po Oh, Princess Leia, are you all right?
-han_solo Let's see.
-princess_leia It's not bad.
-stormtrooper Freeze!
-c3po Oh, dear.
-stormtrooper Don't move!
-han_solo I love you.
+han_solo I think I got it.
+han_solo I got it!
+c3po Princess Leia, are you all right?
+luke_skywalker Let's see.
+han_solo It's not bad.
+biker_scout_pushed_off_bike - Freeze!
+c3po - Oh, dear.
+han_solo Don't move!
+princess_leia I love you.
 princess_leia I know.
-stormtrooper Hands up! Stand up!
+stormtrooper Hands up!
+lando_calrissian Stand up!
 han_solo Stay back.
-han_solo Chewie! Get down here! She's wounded! No, wait.... I got an idea.
-emperor Good. Use your aggressive feelings, boy! Let the hate flow through you.
+han_solo Chewie!
+han_solo Get down here!
+han_solo She's wounded!
+lando_calrissian No, wait!
+han_solo I got an idea.
+han_solo Good.
+the_emperor Use your aggressive feelings, boy.
+the_emperor Let the hate flow through you.
 darth_vader Obi-Wan has taught you well.
-luke_skywalker I will not fight you, father.
+luke_skywalker I will not fight you, Father.
 darth_vader You are unwise to lower your defenses.
-luke_skywalker Your thoughts betray you, father. I feel the good in you...the conflict.
+luke_skywalker Your thoughts betray you, Father.
+luke_skywalker I feel the good in you, the conflict.
 darth_vader There is no conflict.
-luke_skywalker You couldn't bring yourself to kill me before, and I don't believe you'll destroy me now.
-darth_vader You underestimate the power of the dark side. If you will not fight, then you will meet your destiny.
-emperor Good. Good.
-lando_calrissian Watch out. Squad at .06.
-rebel_pilot I'm on it, Gold Leader.
-wedge Good shot, RED_TWO.
-lando_calrissian Now...come on, Han, old buddy. Don't let me down.
-han/PILOT#unknown#StarWars.Episode06 It's over, Commander. The Rebels have been routed. They're fleeing into the woods. We need reinforcements to continue the pursuit.
-control_room_commander#unknown#StarWars.Episode06 Send three squads to help. Open the back door.
-yoda Yes, sir.
+darth_vader You underestimate the power of the dark side.
+darth_vader If you will not fight then you will meet your destiny.
+han_solo Good.
+han_solo Good.
+lando_calrissian Watch out!
+lando_calrissian Squad at.06.
+wedge I'm on it, Gold Leader.
+wedge Good shot, Red 2.
+darth_vader It's over, Commander.
+han_solo The rebels have been routed.
+han_solo They're fleeing into the woods.
+han_solo We need reinforcements to continue the pursuit.
+control_room_commander#unknown#StarWars.Episode06 Send three squads to help.
+control_room_commander#unknown#StarWars.Episode06 Open the back door.
 han_solo Throw me another charge.
 darth_vader You cannot hide forever, Luke.
 luke_skywalker I will not fight you.
-darth_vader Give yourself to the dark side. It is the only way you can save your friends. Yes, your thoughts betray you. Your feelings for them are strong. Especially for...
-darth_vader Sister! So...you have a twin sister. Your feelings have now betrayed her, too. Obi-Wan was wise to hide her from me. Now his failure is complete. If you will not turn to the dark side, then perhaps she will.
-luke_skywalker Never-r-r!
-emperor Good! Your hate has made you powerful. Now, fulfill your destiny and take your father's place at my side!
-luke_skywalker Never! I'll never turn to the dark side. You've failed, Your Highness. I am a Jedi, like my father before me.
-emperor So be it...Jedi.
-han_solo Move! Move!
-admiral_ackbar The shield is down! Commence attack on theDeath Star's main reactor.
-lando_calrissian We're on our way. Red Group, Gold Group, all fighters follow me. Told you they'd do it!
-emperor If you will not be turned, you will be destroyed.
-emperor Young fool...only now, at the end, do you understand.
-emperor Your feeble skills are no match for the power of the dark side. You have paid the price for your lack of vision.
-luke_skywalker Father, please. Help me.
-emperor Now, young Skywalker...you will die.
-wedge I'm going in.
+darth_vader Give yourself to the dark side.
+darth_vader It is the only way you can save your friends.
+c3po Yes.
+luke_skywalker Your thoughts betray you.
+darth_vader Your feelings for them are strong especially for sister.
+darth_vader So you have a twin sister.
+darth_vader Your feelings have now betrayed her, too.
+darth_vader Obi-Wan was wise to hide her from me.
+darth_vader Now his failure is complete.
+darth_vader If you will not turn to the dark side then perhaps she will.
+luke_skywalker Never!
+han_solo Good!
+the_emperor Your hate has made you powerful.
+the_emperor Now fulfill your destiny and take your father's place at my side.
+luke_skywalker Never.
+darth_vader I'll never turn to the dark side.
+luke_skywalker You've failed, Your Highness.
+luke_skywalker I am a Jedi like my father before me.
+the_emperor So be it Jedi.
+han_solo Move!
+han_solo Move!
+lando_calrissian The shield is down!
+admiral_ackbar Commence attack on the Death Star's main reactor!
+lando_calrissian We're on our way.
+lando_calrissian Red Group, Gold Group, all fighters follow me.
+jabba_the_hutt I told you they'd do it!
+darth_vader If you will not be turned you will be destroyed.
+han_solo Young fool.
+the_emperor Only now, at the end do you understand.
+darth_vader Your feeble skills are no match for the power of the dark side.
+the_emperor You have paid the price for your lack of vision.
+luke_skywalker Father, please!
+lando_calrissian Help me!
+the_emperor Now, young Skywalker you will die.
+han_solo I'm going in.
 lando_calrissian Here goes nothing.
-lando_calrissian Now lock onto the strongest power source. It should be the power generator.
-wedge Form up. And stay alert. We could run out of space real fast.
-lando_calrissian Split up and head back to the surface. See if you can get a few of those TIE fighters to follow you.
-pilot#unknown#StarWars.Episode06 Copy, Gold Leader.
+lando_calrissian Now lock onto the strongest power source.
+lando_calrissian It should be the power generator.
+wedge Form up.
+wedge Stay alert.
+wedge We could run out of space real fast.
+lando_calrissian Split up and head back to the surface.
+lando_calrissian See if you can get a few of those TI E fighters to follow you.
+wedge Copy, Gold Leader.
 lando_calrissian That was too close.
-nien_nunb Nunb agrees. The battle between the Rebel and Imperial fleet rages on. Several cruisers fire at the giant Super Star Destroyer.
-admiral_ackbar We've got to give those fighters more time. Concentrate all fire on that Super Star Destroyer.
-admiral#unknown#StarWars.Episode06 Piett and a commander stand at the window, looking out to the battle. They look concerned.
-controller#unknown#StarWars.Episode06 Sir, we've lost our bridge deflector shield.
-admiral_piett Intensify the forward batteries. I don't want anything to get through.
+lando_calrissian We've got to give those fighters more time.
+nien_nunb Concentrate all fire on that Super Stardestroyer.
+controller#unknown#StarWars.Episode06 Sir, we've lost our bridge deflector shields.
+admiral_piett Intensify the forward batteries.
+admiral_piett I don't want anything to get through!
 admiral_piett Intensify forward firepower!
-commander#unknown#StarWars.Episode06 It's too late!
-darth_vader Luke, help me take this mask off.
-lure#unknown#StarWars.Episode06 But you'll die.
-darth_vader Nothing can stop that now. Just for once... let me look on you with my own eyes.
-anakin_skywalker Now...go, my son. Leave me.
-luke_skywalker No. You're coming with me. I can't leave you here. I've got to save you.
-anakin_skywalker You already have, Luke. You were right about me. Tell your sister...you were right.
-luke_skywalker Father...I won't leave you.
-wedge There it is!
-lando_calrissian All right, Wedge. Go for the power regulator on the north tower.
-wedge Copy, Gold Leader. I'm already on my way out.
-admiral_ackbar Move the fleet away from the Death Star.
+han_solo Luke.
+darth_vader Help me take this mask off.
+luke_skywalker But you'll die.
+darth_vader Nothing can stop that now.
+darth_vader Just for once let me look on you with my own eyes.
+anakin_skywalker Now go, my son.
+darth_vader Leave me.
+luke_skywalker No.
+luke_skywalker You're coming with me.
+princess_leia I'll not leave you here.
+han_solo I've got to save you.
+anakin_skywalker You already have, Luke.
+anakin_skywalker You were right.
+anakin_skywalker You were right about me.
+anakin_skywalker Tell your sister you were right.
+luke_skywalker Father.
+han_solo I won't leave you.
+han_solo There it is.
+lando_calrissian All right, Wedge, go for the power regulator on the north tower.
+wedge Copy, Gold Leader.
+wedge I'm already on my way out.
+lando_calrissian Move the fleet away from the Death Star.
 c3po They did it!
 han_solo I'm sure Luke wasn't on that thing when it blew.
-princess_leia He wasn't. I can feel it.
-han_solo You love him, don't you?
-princess_leia Yes.
-han_solo All right. I understand. Fine. When he comes back, I won't get in the way.
-princess_leia Oh. No, it's not like that at all. He's my brother £
+princess_leia He wasn't.
+han_solo I can feel it.
+han_solo Don't you?
+c3po Yes.
+han_solo All right.
+han_solo I understand.
+han_solo Fine.
+han_solo When he comes back I won't get in the way.
+han_solo It's not like that at all.
+luke_skywalker He's my brother.

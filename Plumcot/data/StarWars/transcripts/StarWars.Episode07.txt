@@ -147,7 +147,7 @@ kylo_ren They're obviously skilled at committing high treason. Perhaps Leader Sn
 general_hux My men are exceptionally trained -- programmed from birth--
 kylo_ren Then they should have no problem retrieving the droid. Unharmed.
 general_hux Careful, Ren. That your "personal interests" not interfere with orders from Leader Snoke.
-kylo_ren I want that map. For your sake, I suggest you get it. Ren heads off. Hux hates him.
+kylo_ren I want that map. For your sake, I suggest you get it.
 finn Water... water... water..
 finn -- Awgh, GAH!
 rey Who? Him?
@@ -301,7 +301,7 @@ finn Han Solo? The Rebellion General?
 rey No, the smuggler!
 finn Wasn't he a war hero?!
 rey This is the ship that made the Kessel Run in fourteen parsecs...!
-han_solo Twelve! Fourteen. A moment of private joy. 
+han_solo Twelve! Fourteen.
 han_solo Hey! Some moof-milker put a compressor on the ignition line!
 rey Unkar Plutt did. I thought it was a mistake too, puts too much stress on
 han_solo -- Stress on the hyperdrive-- Chewie, throw 'em in a pod, we'll drop them at the nearest inhabited planet.
@@ -316,7 +316,6 @@ finn Wait -- a what?! Did you just say Rathtars? Hey!
 finn You're not hauling Rathtars on this freighter, are you?
 han_solo I'm hauling Rathtars.
 han_solo Oh great. It's the Guavian Death Gang -- they must've tracked us from Nantoon.
-han_solo heads off as
 rey What's a Rathtar?
 han_solo They're big and dangerous...
 finn Y'ever heard of the Trillia Massacre?!
@@ -672,7 +671,7 @@ snap_wexley We're not sure how to describe a weapon of this scale.
 major_ematt It's another Death Star.
 poe_dameron I wish that were the case, Major.
 poe_dameron This was the Death Star.
-poe_dameron This is Starkiller Base. This is news to many here, and they're stunned.
+poe_dameron This is Starkiller Base.
 han_solo So it's big.
 admiral_ackbar How is it possible to power a weapon of this size?
 finn It uses the power of the sun. As the weapon is charged, the sun is drained until it disappears.
@@ -705,7 +704,7 @@ han_solo It wasn't all bad, was it? Huh?
 han_solo Some of it was...good.
 princess_leia ... Pretty good.
 han_solo Some things never change.
-princess_leia True. You still drive me crazy. It could be thirty years ago.
+princess_leia True. You still drive me crazy.
 princess_leia If you see our son again, bring him home.
 stormtrooper Sir, sensors triggered in hangar 718. We're searching the area.
 kylo_ren She's just beginning to test her powers. The longer it takes to find her, the more dangerous she becomes.

@@ -10,11 +10,11 @@ han_solo All right, don't lose your temper. I'll come right back and give you a 
 rebel_force_general_rieekan Solo?
 han_solo No sign of life out there, General. The sensors are in place. You'll know if anything comes around.
 rebel_force_general_rieekan Commander Skywalker reported in yet?
-han_solo No. 
-rebel_force_general_rieekan With all the meteor activity in this system, it's going to be difficult to spot approaching ships. 
-rebel_force_general_rieekan I'm sorry to hear that. 
-han Well, there's a price on my head. If I don't pay off Jabba the Hut, I'm a dead man. 
-rebel_force_general_rieekan A death mark's not an easy thing to live with. You're a good fighter, Solo. I hate to lose you. 
+han_solo No.
+rebel_force_general_rieekan With all the meteor activity in this system, it's going to be difficult to spot approaching ships.
+rebel_force_general_rieekan I'm sorry to hear that.
+imperial_shuttle_mechanic Well, there's a price on my head. If I don't pay off Jabba the Hut, I'm a dead man.
+rebel_force_general_rieekan A death mark's not an easy thing to live with. You're a good fighter, Solo. I hate to lose you.
 han_solo Thank you, General.
 han_solo Well, Your Highness, I guess this is it.
 princess_leia That's right.
@@ -80,11 +80,11 @@ rebel_force_major_derlin Close the doors.
 lieutenant#unknown#StarWars.Episode05 Yes, sir.
 c3po Artoo says the chances of survival are seven hundred seventy-five... to one.
 c3po Actually, Artoo has been known to make mistakes... from time to time. Oh, dear, oh, dear. Don't worry about Master Luke. I'm sure he'll be all right. He's quite clever, you know... for a human being.
-ben_kenobi Luke... Luke.
+obiwan_kenobi Luke... Luke.
 luke_skywalker Ben?
-ben_kenobi You will go to the Dagobah system.
+obiwan_kenobi You will go to the Dagobah system.
 luke_skywalker Dagobah system?
-ben_kenobi There you will learn from Yoda, the Jedi Master who instructed me.
+obiwan_kenobi There you will learn from Yoda, the Jedi Master who instructed me.
 luke_skywalker Ben... Ben.
 han_solo Luke! Luke! Don't do this, Luke. Come on, give me a sign here.
 han_solo Not much time.
@@ -119,10 +119,10 @@ han_solo Take it easy.
 c3po Excuse us, please.
 rebel_force_general_rieekan Princess... we have a visitor.
 rebel_force_general_rieekan We've picked up something outside the base in zone twelve, moving east.
-senior_controller#unknown#StarWars.Episode05 It's metal.
+rebel_force_head_controller It's metal.
 princess_leia Then it couldn't be one of those creatures that attacked Luke.
 han_solo It could be a speeder, one of ours.
-senior_controller#unknown#StarWars.Episode05 No. Wait - there's something very weak coming through.
+rebel_force_head_controller No. Wait - there's something very weak coming through.
 c3po Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code.
 han_solo It isn't friendly, whatever it is. Come on, Chewie, let's check it out.
 rebel_force_general_rieekan Send Rogues Ten and Eleven to station three-eight.
@@ -200,20 +200,20 @@ luke_skywalker Just hang on. Hang on, Dack. Get ready to fire that tow cable.
 luke_skywalker Dack? Dack!
 general_veers Yes, Lord Vader. I've reached the main power generator. The shield will be down in moments. You may start your landing.
 luke_skywalker Rogue Three.
-red_two_ Copy, Rogue Leader
+red_two Copy, Rogue Leader
 luke_skywalker Wedge, I've lost my gunner. You'll have to make this shot. I'll cover for you. Set your harpoon. Follow me on the next pass.
-red_two_ Coming around, Rogue Leader.
+red_two Coming around, Rogue Leader.
 luke_skywalker Steady, Rogue Two
-red_two_ Activate harpoon.
-red_two_ Good shot, Janson.
-red_two_ One more pass.
+red_two Activate harpoon.
+red_two Good shot, Janson.
+red_two One more pass.
 rebel_force_janson_ Coming around. Once more.
 rebel_force_janson_ Once more.
 rebel_force_janson_ Cable out! Let her go!
-red_two_ Detach cable.
+red_two Detach cable.
 rebel_force_janson_ Cable detached.
 trench_officer#unknown#StarWars.Episode05 Come on!
-red_two_ Whooha! That got him!
+red_two Whooha! That got him!
 luke_skywalker I see it, Wedge. Good work.
 rebel_force_general_rieekan I don't think we can protect two transports at a time.
 princess_leia It's risky, but we can't hold out much longer. We have no choice.
@@ -266,7 +266,7 @@ han_solo See?
 princess_leia Someday you're going to be wrong, and I hope I'm there to see it.
 han_solo Punch it!
 luke_skywalker Artoo! Get her ready for takeoff.
-red_two_ Good luck, Luke. See you at the rendezvous.
+red_two Good luck, Luke. See you at the rendezvous.
 luke_skywalker Don't worry, Artoo. We're going, we're going.
 luke_skywalker There's nothing wrong, Artoo. I'm just setting a new course.
 luke_skywalker We're not going to regroup with the others.
@@ -430,13 +430,13 @@ luke_skywalker Mostly because of my father, I guess.
 snow_creature Ah, your father. Powerful Jedi was he, powerful Jedi, mmm.
 luke_skywalker Oh, come on. How could you know my father? You don't even know who I am. Oh, I don't know what I'm doing here. We're wasting our time.
 snow_creature I cannot teach him. The boy has no patience.
-ben_kenobi He will learn patience.
+obiwan_kenobi He will learn patience.
 yoda Hmmm. Much anger in him, like his father.
-ben_kenobi Was I any different when you taught me?
+obiwan_kenobi Was I any different when you taught me?
 yoda Hah. He is not ready.
 luke_skywalker Yoda! I am ready. I... Ben! I can be a Jedi. Ben, tell him I'm ready.
 yoda Ready, are you? What know you of ready? For eight hundred years have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind. This one a long time have I watched. All his life has he looked away... to the future, to the horizon. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. You are reckless!
-ben_kenobi So was I, if you'll remember.
+obiwan_kenobi So was I, if you'll remember.
 yoda He is too old. Yes, too old to begin the training.
 luke_skywalker But I've learned so much.
 yoda Will he finished what he begins?
@@ -622,27 +622,27 @@ yoda Luke! You must complete the training.
 luke_skywalker I can't keep the vision out of my head. They're my friends. I've got to help them.
 yoda You must not go!
 luke_skywalker But Han and Leia will die if I don't.
-ben_kenobi You don't know that.
-ben_kenobi Even Yoda cannot see their fate.
+obiwan_kenobi You don't know that.
+obiwan_kenobi Even Yoda cannot see their fate.
 luke_skywalker But I can help them! I feel the Force!
-ben_kenobi But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force.
+obiwan_kenobi But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force.
 yoda Yes, yes. To Obi-Wan you listen. The cave. Remember your failure at the cave!
 luke_skywalker But I've learned so much since then. Master Yoda, I promise to return and finish what I've begun. You have my word.
-ben_kenobi It is you and your abilities the Emperor wants. that is why your friends are made to suffer.
+obiwan_kenobi It is you and your abilities the Emperor wants. that is why your friends are made to suffer.
 luke_skywalker And that is why I have to go.
-ben_kenobi Luke, I don't want to lose you to the Emperor the way I lost Vader.
+obiwan_kenobi Luke, I don't want to lose you to the Emperor the way I lost Vader.
 luke_skywalker You won't.
 yoda Stopped they must be. On this all depends. Only a fully trained Jedi Knight with the Force as his ally will conquer Vader and his Emperor. If you end your training now, if you choose the quick and easy path, as Vader did, you will become an agent of evil.
-ben_kenobi Patience.
+obiwan_kenobi Patience.
 luke_skywalker And sacrifice Han and Leia?
 yoda If you honor what they fight for ... yes!
-ben_kenobi If you choose to face Vader, you will do it alone. I cannot interfere.
+obiwan_kenobi If you choose to face Vader, you will do it alone. I cannot interfere.
 luke_skywalker I understand. Artoo, fire up the converters.
-ben_kenobi Luke, don't give in to hate - that leads to the dark side.
+obiwan_kenobi Luke, don't give in to hate - that leads to the dark side.
 yoda Strong is Vader. Mind what you have learned. Save you it can.
 luke_skywalker I will. And I'll return. I promise.
 yoda Told you, I did. Reckless is he. Now matters are worse.
-ben_kenobi That boy is our last hope.
+obiwan_kenobi That boy is our last hope.
 yoda No. There is another.
 han_solo The ship is almost finished. Two or Three more things and we're in great shape.
 princess_leia The sooner the better. Something's wrong here. No one has seen or knows anything about Threepio. He's been gone too long to have gotten lost.

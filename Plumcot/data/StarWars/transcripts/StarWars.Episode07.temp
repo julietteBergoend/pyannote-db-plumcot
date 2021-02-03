@@ -7,7 +7,7 @@ poe_dameron You take this. It's safer with you than it is with me. You get as fa
 poe_dameron I'll come back for you! It will be alright.
 lead_stormtrooper Stay here. Our Trooper nods.
 kylo_ren Look how old you've become.
-lor_san_tekka Something far worse has happened to you. Our blood-marked TROOPER is placed in line with other stormtroopers.
+lor_san_tekka Something far worse has happened to you.
 kylo_ren You know what I've come for.
 lor_san_tekka I know where you come from. Before you called yourself Kylo Ren.
 kylo_ren The map to Skywalker. We know you've found it, and now you're going to give it to the First Order.
@@ -29,25 +29,21 @@ captain_phasma Fire!
 stormtrooper #2 Nothing here. Go ahead!
 poe_dameron All right. All right!
 captain_phasma fn-2187. Submit your blaster for inspection.
-fn2187 Yes, Captain.
+fn2187#unknown#StarWars.Episode07 Yes, Captain.
 captain_phasma And who gave you permission to remove that helmet?
-fn2187 I'm sorry, Captain.
+fn2187#unknown#StarWars.Episode07 I'm sorry, Captain.
 captain_phasma Report to my division at once.
-captain_phasma heads off. Shattered, fn-2187 replaces his helmet.
 unkar_plutt What you've brought me today is worth... Hmmm... One quarter portion.
 rey Tal'ama parqual!
 rey Parqual zatana!
-rey NOMA. The Teedo barks a sort of "AHHHHH!" , Then heads off on his beast. This prompts BB-8 to start BEEP-YELLING at the departing bully, provocatively.
 rey Shhhh.
-bb8_performed_by quiets instantly. The two watch the Teedo head off. Finally, BB-8 BEEPS a question. She KNEELS to him.
 rey That's just Teedo. Wants you for parts. He has no respect for anyone. Your antenna's bent. Where do you come from?
 rey Really? Me too. Big secret. Niima Outpost is that way, stay off Kelvin Ridge.
 rey Keep away from the Sinking Fields in the north, you'll drown in the sand.
-bb8_performed_by BEEPS
 rey Don't follow me. Town is that way.
 rey No!
 rey In the morning, you go.
-rey You're welcome. The two disappear behind a dune.
+rey You're welcome.
 kylo_ren I had no idea we had the best pilot in the Resistance on board. Comfortable?
 poe_dameron Not really.
 kylo_ren I'm impressed. No one has been able to get out of you what you did with the map.
@@ -58,9 +54,7 @@ kylo_ren Where... is it?
 kylo_ren It's in a droid. A BB unit.
 general_hux Well then. If it's on Jakku, we'll soon have it.
 kylo_ren I leave that to you.
-bb8_performed_by is dropped to the sand.
 rey Don't give up. He still might show up. Whoever it is you're waiting for. Classified. I know all about waiting.
-bb8_performed_by BEEPTALKS a question.
 rey For my family. They'll be back. One day. Come on.
 unkar_plutt These five pieces are worth... Let me see here... One half portion.
 rey Last week they were a half portion each.
@@ -70,50 +64,42 @@ unkar_plutt I'll pay for him.
 unkar_plutt Sixty portions.
 rey Actually... the droid's not for sale.
 rey Come on.
-unkar_plutt Follow the girl and get that droid. He SLAMS the service window door SHUT.
-stormtrooper Ren wants the prisoner. TIGHT ON poe, in pain, drained, as the Guard unshackles him.
-stormtrooper Turn here. Poe turns into a narrow passageway --
+unkar_plutt Follow the girl and get that droid.
+stormtrooper Turn here.
 stormtrooper Listen carefully you do exactly as I say, I can get you out of here.
 poe_dameron If -- what--?
-fn2187 This is a rescue, I'm helping you escape. Can you fly a TIE fighter?
+fn2187#unknown#StarWars.Episode07 This is a rescue, I'm helping you escape. Can you fly a TIE fighter?
 poe_dameron You with the Resistance--?!
-fn2187 What?
-fn2187 No no no! I'm breaking you out. Can you fly a TIE fighter?
+fn2187#unknown#StarWars.Episode07 What?
+fn2187#unknown#StarWars.Episode07 No no no! I'm breaking you out. Can you fly a TIE fighter?
 poe_dameron I can fly anything. Why, why are you helping me?
-fn2187 Because it's the right thing to do.
+fn2187#unknown#StarWars.Episode07 Because it's the right thing to do.
 poe_dameron You need a pilot.
-fn2187 I need a pilot.
+fn2187#unknown#StarWars.Episode07 I need a pilot.
 poe_dameron We're gonna do this.
-fn2187 ... Yeah?
-fn2187 Okay, stay calm, stay calm.
+fn2187#unknown#StarWars.Episode07 ... Yeah?
+fn2187#unknown#StarWars.Episode07 Okay, stay calm, stay calm.
 poe_dameron I am calm.
-fn2187 I'm talking to myself.
+fn2187#unknown#StarWars.Episode07 I'm talking to myself.
 poe_dameron Not yet. Okay, go. This way.
-fn2187 walks quickly toward the far wall -- Poe follows -- up the stairs to a two-man SPECIAL FORCES TIE FIGHTER --
-fn2187 and Poe drop into the back-to-back cockpit. fn-2187 pulls off his helmet as Poe removes his cuffs and jacket, fires up the ship with excitement.
 poe_dameron I always wanted to fly one of these things. Can ya shoot?
-fn2187 Blasters, I can!
+fn2187#unknown#StarWars.Episode07 Blasters, I can!
 poe_dameron Okay, same principal! Use the toggle on the left to switch between missiles, cannons, and mag pulse -- use the site on the right to aim, triggers to fire!
-fn2187 This is very complicated FWOOOOOOM! The TIE FIGHTER LURCHES FORWARD --
+fn2187#unknown#StarWars.Episode07 This is very complicated
 poe_dameron I can fix this.
-fn2187 opens fire.
-fn2187 TEARS UP PARKED TIE FIGHTERS and GUN EMPLACEMENTS WITH WELL-AIMED, STRATEGIC LASER BLASTS! Hits the CONTROL room!
+fn2187#unknown#StarWars.Episode07 opens fire.
 poe_dameron I got it!
-poe_dameron pilots -- amazed, almost enjoying it.
 poe_dameron Woooahhh! This thing really moves. All right, we gotta take out as many cannons as we can or we're not gonna get very far!
-fn2187 All right!
+fn2187#unknown#StarWars.Episode07 All right!
 poe_dameron I'm gonna get us in position, just stay sharp!
-poe_dameron flies toward the CANONS --
 poe_dameron Up ahead! Up ahead! You see it?
 poe_dameron I've got us dead centered. It's a clean shot.
-fn2187 Okay, got it.
-fn2187 gets a target, FIRES!
-fn2187 YELLS in celebration
-fn2187 YES! You see that?! DID YOU SEE THAT?
+fn2187#unknown#StarWars.Episode07 Okay, got it.
+fn2187#unknown#StarWars.Episode07 YES! You see that?! DID YOU SEE THAT?
 poe_dameron I saw it! Hey, what's your name?
-fn2187 fn-2187!
+fn2187#unknown#StarWars.Episode07 fn-2187!
 poe_dameron FN-whaa?
-fn2187 That's the only name they ever gave me!
+fn2187#unknown#StarWars.Episode07 That's the only name they ever gave me!
 poe_dameron Well I ain't using it! FN, huh?
 poe_dameron Finn. I'm gonna call you Finn! That all right?
 finn "Finn." Yeah, "Finn", I like that! I like that!
@@ -125,15 +111,14 @@ general_hux Use the ventral cannons.
 lieutenant_mitaka Yes, sir. Bringing them online --
 kylo_ren General Hux. Is it the Resistance pilot?
 general_hux Yes, and he had help.
-general_hux From one of our own. PUSH IN ON REN
+general_hux From one of our own.
 general_hux We're checking the registers now to identify which Stormtrooper it was.
 kylo_ren ... The one from the village.
-fn2187 Hux is unnerved that Ren knows -- he chalks it up to Ren's Force ability. Kylo Ren heads off.
 lieutenant_mitaka Sir. Ventral cannons hot.
 general_hux Fire.
 poe_dameron One's coming towards you. My right, your left. Do you see it?
 finn Hold on! I see it!
-poe_dameron Nice shot. Finn looks up suddenly in alarm --
+poe_dameron Nice shot.
 finn Where are you going?
 poe_dameron We're going back to Jakku. That's where.
 finn No no no! We can't go back to Jakku! We need to get outta this system!
@@ -144,18 +129,17 @@ finn I don't care what color he is! No droid can be that important!
 poe_dameron This one is, pal.
 finn We need to get as far away from the First Order as we can! We go back to Jakku, we die!
 poe_dameron That droid's got a map that leads straight to Luke Skywalker!
-finn Oh, you gotta be kidding me!!! I-- Suddenly BAM! THEY ARE HIT!
+finn Oh, you gotta be kidding me!!! I--
 captain_phasma fn-2187 reported to my division, was evaluated and sent to Reconditioning.
 general_hux No prior signs of non-conformity?
-captain_phasma This was his first offense. A technician checks her readings, reports to General Hux.
+captain_phasma This was his first offense.
 technician#unknown#StarWars.Episode07 #1 General. They've been hit.
 general_hux Destroyed?
 technician#unknown#StarWars.Episode07 #1 Disabled. They were headed back to Jakku -- the fighter's projected to crash in the Goazon badlands.
 general_hux They were going back for the droid -- send a squad to the wreckage.
 finn Poe! Poe!
 finn Poe!!! poe!
-finn poe!!! poe!!! It becomes clear fast if Finn doesn't get away, he's gonna get sucked in too! So Finn scampers away from the TIE FIGHTER as it SINKS
-general_hux and Kylo Ren walk the length of the bridge.
+finn poe!!! poe!!!
 general_hux Supreme Leader Snoke was explicit. Capture the droid if we can, but destroy it if we must.
 kylo_ren How capable are your soldiers, General?
 general_hux I won't have you question my methods.
@@ -164,8 +148,8 @@ general_hux My men are exceptionally trained -- programmed from birth--
 kylo_ren Then they should have no problem retrieving the droid. Unharmed.
 general_hux Careful, Ren. That your "personal interests" not interfere with orders from Leader Snoke.
 kylo_ren I want that map. For your sake, I suggest you get it. Ren heads off. Hux hates him.
-finn Water... water... water.. He sees a WATER TROUGH where a filthy, slobbering hippo-like creature DRINKS. Finn moves to it, uses his hands to desperately DRINK the filthy water. After a couple swallows he SPITS IT OUT, disgusted.
-finn -- Awgh, GAH! But he's parched and immediately RETURNS FOR MORE. ACROSS THE MARKETPLACE, rey kneels with an emphatically
+finn Water... water... water..
+finn -- Awgh, GAH!
 rey Who? Him?
 rey What's your hurry, thief?
 finn What--?! Thief?
@@ -181,17 +165,15 @@ finn Obviously. Yes. I am. I'm with the Resistance, yeah. I'm with the Resistanc
 rey I've never met a Resistance fighter before.
 finn Well, this is what we look like. Some of us. Others look different.
 rey BB-8 says he's on a secret mission, he has to get back to your base.
-finn Apparently he's carrying a map that leads to Luke Skywalker, and everyone's after it.
 rey Luke Skywalker? I thought he was a myth.
 rey What is it?
 rey What are you doing?!
 finn Come on!
-finn and rey holding hands, the three race, zigzagging through a maze of tents
 finn Come on, BB-8!
 rey Let go of me!
 finn No, we gotta move!
 rey I know how to run without you holding my hand! BB-8 stay close! This way!
-stormtrooper Call in the air strike! rey, finn AND BB-8 duck into another tent
+stormtrooper Call in the air strike!
 rey They're shooting at both of us!
 finn Yeah, they saw you with me! You're marked!
 rey Well, thanks for that!
@@ -200,8 +182,8 @@ rey Are you okay?
 rey Stop taking my hand!
 rey Hey!
 finn -- Are you okay?
-rey Yeah. Follow me. Grateful, Finn takes it. They're off.
-finn We can't outrun them! Rey PO
+rey Yeah. Follow me.
+finn We can't outrun them!
 rey We might in that quad-jumper!
 finn We need a pilot!
 rey We've got one!
@@ -214,28 +196,21 @@ rey No! This ship hasn't been flown in years!
 finn Great. Whoa! I can do this, I can do this--
 rey bucks herself up. doesn't believe her quick words
 rey I can do this, I can do this--
-rey pulls the yoke
 unkar_plutt HEY!!!! THAT'S MIIIIIIINE!!!
 rey pilots, headed for the sky!
-finn SWINGS into frame, trying to work the GUNS.
 finn Whoa! Hey! Oh! Stay low! Stay low!
 rey WHAT?
 finn Stay low! It confuses their tracking!
 rey BB-8, hold on!
-rey finally REACHES the switches, returns to the yoke, stabilizing the ship, afraid of this next move.
 rey I'M GOING LOW!!!
 rey What are you doing back there? Are you ever gonna fire back?!
-finn flicks switches -- the gun targeting lights up
 finn I'm working on it! Are the shields up?
-rey strains, reaching for something in the co-pilot seat.
-rey Not so easy without a co-pilot! Finn struggles with the gun controls and SWEEPING CHAIR
+rey Not so easy without a co-pilot!
 finn Try sitting in this thing!
 finn We need cover, quick!
-rey hits switches, pilots the best she can
 rey We're about to get some!
 rey I hope.
 finn Damn it!
-finn SWOOPS into frame, FIRES --
 finn Come on... come on...
 rey Nice shot!
 finn I'm getting pretty good at this!
@@ -255,27 +230,24 @@ bb8_performed_by really?
 finn Rey...
 rey Help me with this! Quick!
 finn Whoa! What's going on?
-lieutenant_mitaka Sir. We were unable to acquire the droid on Jakku. Ren turns to look at him, he says nothing.
+lieutenant_mitaka Sir. We were unable to acquire the droid on Jakku.
 lieutenant_mitaka It escaped capture aboard a stolen Corellian YT model freighter.
 kylo_ren The droid... stole a freighter?
 lieutenant_mitaka Not exactly, sir. It had help. Ren says nothing. Which says everything. Mitaka sweats.
 lieutenant_mitaka We have no confirmation, but we believe fn-2187 may have been helped in the escape--
 kylo_ren Anything else?
 lieutenant_mitaka hates to say the following, but
-lieutenant_mitaka The two were accompanied by a girl.
 kylo_ren What girl?
 rey It's the motivator! Grab me a Harris wrench -- check in there!
 finn How bad is it?!
 rey If we wanna live, not good!
 finn They're hunting for us now, we gotta get outta this system!
-rey re-emerges, Finn hands her the wrench.
 rey BB-8 said the location of the Resistance Base is "need to know" -- if I'm taking you there, I need to know!
 finn This?
 finn You gotta tell us where the base is.
 finn I don't speak that. Alright, between us, I'm not with the Resistance, okay?
 finn -- I'm just trying to get away from the First Order -- but you tell us where your base is, I'll get there first -- deal?! Droid, please.
 rey Pilex driver, hurry!
-finn moves for the tool.
 rey So where's your base?
 finn Go on BB-8, tell her.
 finn Please!
@@ -286,7 +258,6 @@ finn What about you?
 rey I gotta get back to Jakku!
 finn BACK TO JAK--?! Why does everyone always wanna go back to Jakku?! !
 rey No, that one! No. No. The one I'm pointing to! No. NO. NO. If we don't patch it up, the propulsion tank will overflow and flood the ship with poisonous gas!
-bb8_performed_by has moved to finn -- tips his head, shows him the tool. he throws her the tape, she disappears below
 finn This?
 rey Yes!
 finn Hey. Rey. You're a pilot -- you can fly anywhere! Why go back?! You got a family? You got a boyfriend? Cute boyfriend?
@@ -294,12 +265,10 @@ rey None of your business, THAT'S WHY!
 finn ... That can't be good.
 rey -- No it can't be --
 rey Someone's locked onto us -- all controls are overridden.
-finn quickly, awkwardly climbs up, looks out.
 rey Get off. Get off! See anything?
 finn ... Oh no.
 finn It's the First Order.
-rey What do we do-- there must be
-something#unknown#StarWars.Episode07 -- Finn's mind races -- then
+rey What do we do-- there must be something
 finn You said poisonous gas --
 rey -- Yeah, but I fixed that --
 finn Can you unfix it?
@@ -312,11 +281,9 @@ finn Yeah. Their masks filter out smoke, not toxins.
 finn Hurry!
 rey I'm hurrying!
 han_solo Chewie, we're home.
-han_solo gives Chewie a nod to check out the ship. Chewie heads off one way, Han in another. The grating above LIFTS OFF -- hands in surrender, they look up at Han, who's training his blaster on them, threatening. They're SCARED.
 han_solo Where are the others? Where's the pilot?
 rey ...I'm the pilot...
 han_solo You?
-chewbacca MOANS/TALKS
 rey No, it's true we're the only ones on board.
 finn You can understand that thing?
 han_solo And "that thing" can understand you too, so watch it. Come on outta there.
@@ -328,21 +295,20 @@ han_solo Told ya we should've double-checked the Western Reaches!
 han_solo Who had it, Ducain?
 rey I stole it from Unkar Plutt. He stole it from the Irving Boys, who stole it from Ducain.
 han_solo Who stole it from me! Well, you tell him Han Solo just stole back the Millennium Falcon for good.
-han_solo walks away, takes in the ship it's his again. Doesn't see that Rey is awed. His back to all of them, he smiles. Chewie responds as Han heads toward the cockpit.
 rey This is the Millennium Falcon? You're Han Solo?
 han_solo I used to be.
 finn Han Solo? The Rebellion General?
 rey No, the smuggler!
-finn Wasn't he a war hero?! Chewie replies "Yeah, I guess, kinda..." Rey calls out
+finn Wasn't he a war hero?!
 rey This is the ship that made the Kessel Run in fourteen parsecs...!
-han_solo Twelve! Fourteen. A moment of private joy. Then he sees something that ANNOYS
-him#unknown#StarWars.Episode07 han Hey! Some moof-milker put a compressor on the ignition line! Han moves to the corridor.
+han_solo Twelve! Fourteen. A moment of private joy.
+han_solo Hey! Some moof-milker put a compressor on the ignition line!
 rey Unkar Plutt did. I thought it was a mistake too, puts too much stress on
 han_solo -- Stress on the hyperdrive-- Chewie, throw 'em in a pod, we'll drop them at the nearest inhabited planet.
 rey Wait! No -- we need your help!
 han_solo My help?
 rey This droid has to get to the Resistance base as soon as possible!
-finn He's carrying a map to Luke Skywalker. Yup Han stops in his tracks.
+finn He's carrying a map to Luke Skywalker. Yup.
 finn You are the Han Solo that fought with the Rebellion. You knew him.
 han_solo Yeah, I knew him. I knew Luke.
 han_solo Don't tell me a Rathtar's gotten
@@ -352,15 +318,14 @@ han_solo I'm hauling Rathtars.
 han_solo Oh great. It's the Guavian Death Gang -- they must've tracked us from Nantoon.
 han_solo heads off as
 rey What's a Rathtar?
-han_solo leads our group down a LONG NARROW HALL lined with cargo containers.
 han_solo They're big and dangerous...
 finn Y'ever heard of the Trillia Massacre?!
 rey No.
-finn Good. They turn a corner
+finn Good.
 han_solo I got three of 'em going to King Prana.
 finn THREE?! How'd you get them on board?
-han_solo I used to have a bigger crew. Chewie GROAN-TALKS, concurring.
-coo2180 are there.
+han_solo I used to have a bigger crew.
+coo2180#unknown#StarWars.Episode07 are there.
 han_solo Get below deck and stay there until I say so -- don't even think about taking the Falcon.
 rey What about BB-8?
 han_solo He stays with me -- until I get rid of the gang, then you can have him back and be on your way.
@@ -368,36 +333,28 @@ finn What about the Rathtars... where are you keeping them?
 han_solo There's one.
 rey What are you gonna do?
 han_solo Same thing I always do talk my way out of it.
-chewbacca MOANS/TALKS Yes, I do. Every time.
 balatik Han Solo. You are a dead man.
 han_solo Bala-Tik. What's the problem?
 balatik The problem is we loaned you fifty thousand for this job.
 rey Can you see them?
-finn No. They start crawling down the crawl space.
 balatik I heard you also borrowed fifty thousand from Kanjiklub.
 han_solo You know you can't trust those little freaks! How long've we known each other?
-rey and finn arrive under the gang. they whisper
 rey They have blasters...
-finn A lot of 'em. We RISE THROUGH THE FLOOR to see the GANG and Han and company in the distance.
+finn A lot of 'em.
 balatik The question is how much longer will we know each other? Not long. We want our money back now.
 han_solo Ya think hunting Rathtars is cheap? I spent that money.
-balatik Kanjiklub wants their investment back, too.
 han_solo I never made a deal with Kanjiklub!
-balatik Tell that to Kanjiklub. The SOUND of a PORTAL OPENING. Han's face GOES WHITE as he turns to the OTHER END OF THE CORRIDOR, where KANJIKLUB MEMBERS APPEAR. A GANG in a MEDIEVAL BANDITO style.
-han_solo Tasu Leech. Good to see you. Tasu speaks an alien language, we SUBTITLE
+balatik Tell that to Kanjiklub.
 tasu_leech Wrong again, Solo. It's over for you.
 han_solo Boys. You're both gonna get what I promised! Have I ever not delivered for you before?
 balatik Yeah.
-tasu_leech Twice! Han realizes he's right.
+tasu_leech Twice!
 han_solo What was the second time?
 balatik Your game is old. There's no one in the galaxy left for you to swindle.
 tasu_leech Nowhere left for you to hide.
 balatik That BB unit... the First Order is looking for one just like it. And two fugitives.
-finn and rey suddenly stop crawling, tense. bb-8 hides behind han's leg. push in on han as he realizes
-finn and Rey are in real trouble.
 han_solo First I've heard of it.
-razoo_quinfee Search the freighter. One of the Kanjiklubbers begins moving down the corridor, AIMING A FLASHLIGHT DOWN BELOW, searching for
-finn AND rey, in a quiet PANIC BELOW THEY START CRAWLING FAST in the opposite direction they came. Rey crawls off fast, Finn follows. They quickly arrive at a JUNCTION BOX AREA, Rey looking at the controls.
+razoo_quinfee Search the freighter.
 rey Wait wait wait wait. If we close the blast doors in that corridor, we can trap both gangs!
 finn Close the blast doors from here?
 rey Resetting the fuses should do it.
@@ -406,52 +363,43 @@ rey Oh no.
 finn Oh no, what?
 rey Wrong fuses.
 balatik Kill them! And take the droid!
-rey and Finn hurriedly crawl through the space below decks.
 finn This was a mistake!
 rey Huge!
 rey What do they look like?
-finn They look like that. Finn yanks her away. They race around another corner -- a RATHTAR IS THERE! finn This way!
+finn They look like that.
+finn This way!
 rey Are you sure?
 finn rey!
 rey finn!!!!
 rey Finn!
 finn It had me! But the door--!
 rey That was lucky!
-han_solo Chewie and BB-8 take cover, Han exchanging BLASTER FIRE with GANG MEMBERS AT THE OTHER END OF THE HALL.
 han_solo I got the door. Cover us!
-chewbacca MOANS/TALKS GROAN-AGREES.
 han_solo Chewie! You okay?
-han_solo GRABS CHEWIE'S BOWCASTER, FIRES at the DOOR CONTROLS, badass!
+han_solo badass!
 han_solo Wow. Come on! Come on!
-run#unknown#StarWars.Episode07 with Finn and Rey as they turn into the hangar, toward the Falcon.
-rey Han! Finn and Rey race past BB-8 -- as they go up the ramp, Han says to Rey
+rey Han!
 han_solo You, close the door behind us!
 han_solo You take care of Chewie!
-han_solo and Rey race up the ramp as Finn heads up with Chewie, who SCREAMS WILDLY IN PAIN!
-han_solo stands at the navicomputer, hitting switches. Rey enters fast, moves past him to Chewie's seat.
 han_solo Hey, where are you going?
 rey Unkar Plutt installed a fuel pump too -- if we don't prime that we're not going anywhere.
 han_solo I hate that guy.
-han_solo sits as, rey hitting buttons
 rey And you could use a co-pilot.
 han_solo I got one, he's back there.
-han_solo and rey in the seats
 han_solo Watch the thrust, we're goin' out of here at lightspeed --
 rey From inside the hangar? Is that even possible?
 han_solo I never ask that question until after I've done it.
 han_solo This is not how I thought this day was gonna go -- angle the shields -- Hang on back there!
 finn No problem!
-han_solo Come on baby, don't let me down! He hits a switch -- but NOTHING.
-han_solo What?! But Rey reaches over, hits a switch, matter-of-factly.
+han_solo Come on baby, don't let me down!
+han_solo What?!
 rey Compressor.
-han_solo doesn't like it but she's right -- he hits the switch again and the HYPERDRIVE FIRES! The hangar is FILLED WITH LIGHTSPEED BLAST as the ATTACKING GANG MEMBERS ARE BLASTED BACK LIKE DRY LEAVES. In the cockpit the RATHTAR RIPS AWAY as THE STARS STRETCH LIKE ELASTIC and we
 balatik Inform the First Order that Han Solo has the droid they want. And it's aboard the Millennium Falcon.
 supreme_leader_snoke The droid will soon be delivered to the Resistance...
-kylo_ren and General Hux in a dark space, looking UPWARD at someone addressing them. We're in a massive and dark ASSEMBLY ROOM. Hundreds of DESKS in a stadium arc, focused on a platform where we see SUPREME LEADER snoke. Not entirely human, at nearly twenty-five feet tall. All of him a STONY Grey. Old, wounded, fragile and powerful, all at the same time.
 supreme_leader_snoke ... Leading them to the last Jedi. If Skywalker returns, the new Jedi will rise.
 general_hux Supreme Leader, I take full responsibility for th--
 supreme_leader_snoke General! Our strategy must now change.
-general_hux The weapon. It is ready. I believe the time has come to use it. We shall destroy the government that supports the Resistance, the Republic. Without their friends to protect them, the Resistance will be vulnerable, and we will stop them before they reach Skywalker. Snoke considers. Almost seems to die for a moment. Then
+general_hux The weapon. It is ready. I believe the time has come to use it. We shall destroy the government that supports the Resistance, the Republic. Without their friends to protect them, the Resistance will be vulnerable, and we will stop them before they reach Skywalker.
 supreme_leader_snoke Go. Oversee preparations.
 general_hux Yes, Supreme Leader.
 supreme_leader_snoke There's been an awakening. Have you felt it?
@@ -470,15 +418,12 @@ han_solo You hurt Chewie, you're gonna deal with me!
 finn Hurt him?! He almost killed me six times!
 finn Which is fine.
 han_solo This hyperdrive blows there's gonna be pieces of us in three different systems.
-han_solo at the controls when all the alarms STOP. Rey, satisfied, sits in the co-pilot seat. Han is confused.
 han_solo What'd you do?
 rey I by-passed the compressor.
 han_solo Move, Ball.
-han_solo kneels at Chewie, who lies awake but recovering. Han checks his friend's wound with care. Chewie MOAN-TALKS.
 han_solo Nah, don't say that, you did great. Just rest.
 han_solo Good job, kid. And thanks.
 finn You're welcome.
-finn has accidentally hit a button on the chess set, and the PIECES appear, looking up at Finn, curiously. The pieces start to FIGHT as Finn fiddles with the controls, trying to turn it off.
 han_solo So, fugitives, huh?
 rey The First Order wants the map.
 rey Finn is with the Resistance...
@@ -494,13 +439,12 @@ rey The Jedi were real?
 han_solo I used to wonder that myself. Thought it was a bunch of mumbo-jumbo -- magical power holding together good, evil, the dark side and the light.
 han_solo 'Crazy thing is, it's true. The Force, the Jedi, all of it. It's all true.
 han_solo No, you rest. You want my help? You're getting it. Gonna see an old friend. She'll get your droid home. This is our stop.
-rey ... I didn't know there was this much green in the whole galaxy... Han watches her -- sees a vulnerability that touches him.
+rey ... I didn't know there was this much green in the whole galaxy...
 finn Hey, Solo -- I'm not sure what we're walking into here --
 han_solo D'you just call me "Solo"?
 finn Sorry. Han-- Mr. Solo. You should know, I'm a big deal in the Resistance. Which puts a real target on my back. Are there any conspirators here? First Order sympathizers?
 han_solo Listen big deal, you've got another problem. Women always figure out the truth.
-han_solo Always. Han walks off. Finn watches him go, wracked with guilt.
-han_solo hands Rey a blaster pistol as she stands at looks at the castle.
+han_solo Always.
 han_solo You might need this.
 rey I think I can handle myself.
 han_solo I know you do. That's why I'm giving it to you. Take it.
@@ -513,30 +457,28 @@ han_solo Rey. I've been thinkin' about bringing on some more crew, Rey. A second
 rey Are you offering me a job?
 han_solo I wouldn't be nice to you. It doesn't pay much.
 rey You're offering me a job.
-han_solo I'm thinking about it. Rey wants to say yes. But something stops her. A line she can't cross.
+han_solo I'm thinking about it.
 han_solo Well?
-rey If you were, I'd be flattered. But I have to get home. Han looks at her, questioningly.
+rey If you were, I'd be flattered. But I have to get home.
 han_solo Jakku?
-rey looks off, in thought. Yeah, Jakku.
+rey Yeah, Jakku.
 rey I've already been away too long.
 han_solo Chewie, check out the ship as best you can.
-han_solo It's too bad. Chewie kind of likes you. Han heads off. HOLD on Rey.
-han_solo walks them to the castle.
+han_solo It's too bad. Chewie kind of likes you.
 finn Solo, why are we here again?
 han_solo To get your droid on a clean ship.
 rey Clean?
 han_solo Do you think it was luck that Chewie and I found the Falcon? If we can find it on our scanners, the First Order's not far behind. Want to get BB-8 to the Resistance? Maz Kanata is our best bet.
 finn We can trust her, right?
 han_solo Relax, kid. She's run this watering hole for a thousand years. Maz is a bit of an acquired taste, so let me do the talking. And whatever you do, don't stare...
-rey AND finn At what?
-han_solo Any of it. The door opens. Music. Madness. And... we enter the loud, crowded mess of a hall -- pushing past a room full of rough and odd aliens and humans, who gamble, drink, scheme, negotiate, argue -- until we end up on the back of a tiny, thousand year-old, four foot tall alien, who suddenly starts, as if sensing something -- the alien turns to us she is FEMALE, wearing large ADJUSTABLE GOGGLES. This is maz KANATA.
-maz_kanata Han Solo! Everyone turns to look. It's ALL quiet in here.
+rey@finn At what?
+han_solo Any of it.
+maz_kanata Han Solo!
 han_solo Oh boy. Hey, Maz!
 maz_kanata Where's my boyfriend?
 han_solo Chewie's working on the Falcon.
 maz_kanata I like that Wookiee. I assume you need something. Desperately. Let's get to it.
-maz_kanata walks off, gesturing for them to follow. Finn and Rey are confused. Han indicates for them to follow. They do -- passing the enormous GRUMMGAR, who sits with vixen bazine NETAL, who watches them suspiciously. A SMALL DROID , who turns its head to see BB-8
-ga97 Alert the Resistance. Their missing droid is here!
+ga97#unknown#StarWars.Episode07 Alert the Resistance. Their missing droid is here!
 bazine_netal Inform the First Order... I've found the droid.
 kylo_ren Forgive me. I feel it again. The pull to the light. Supreme Leader senses it. Show me again, the power of the darkness, and I will let nothing stand in our way. Show me, Grandfather, and I will finish what you started.
 maz_kanata A map to Skywalker himself? You're right back in the mess.
@@ -546,23 +488,21 @@ han_solo Leia doesn't want to see me.
 finn Please, we came here for your help.
 rey What fight?
 maz_kanata The only fight against the dark side. Through the ages, I've seen evil take many forms. The Sith. The Empire. Today, it is the First Order. Their shadow is spreading across the galaxy. We must face them. Fight them. All of us.
-finn There is no fight against the First Order! Not one we can win. Look around. There's no chance we haven't been recognized already. I bet you the First Order is on their way right-- Finn stops, seeing Maz adjusting her goggles, scrutinizing him -- her eyes get HUGE.
+finn There is no fight against the First Order! Not one we can win. Look around. There's no chance we haven't been recognized already. I bet you the First Order is on their way right--
 finn What's this? What are you doing?
 finn Solo, what is she doing?
 han_solo I don't know, but it ain't good.
 maz_kanata If you live long enough you see the same eyes in different people. I'm looking at the eyes of a man who wants to run.
 finn You don't know a thing about me. Where I'm from. What I've seen.
 finn You don't know the First Order like I do. They'll slaughter us. We all need to run.
-rey is stunned. Maz, not so much. She crawls back to her chair. She points to some pirates in the corner.
 maz_kanata You see those two? They'll trade work for transportation to the Outer Rim. There, you can disappear.
 rey Finn!
 finn Come with me.
 rey What about BB-8? We're not done yet. We have to get him back to your base.
-finn I can't. Finn stands to leave. He offers the gun back to Han.
-han_solo Keep it, kid. Finn heads off. Rey gets up to follow. Maz dials her lenses back to normal, and turns to Han.
+finn I can't.
+han_solo Keep it, kid.
 maz_kanata Who's the girl?
 finn I was told you could get me to the Outer Rim.
-rey barges into the conversation, interrupting.
 rey What are you doing?
 finn Don't leave without me.
 rey You can't just go. I won't let you.
@@ -573,62 +513,51 @@ finn Like all of them, I was taken from a family I'll never know. And raised to 
 finn But my first battle, I made a choice. I wasn't going to kill for them. So I ran.
 finn Right into you. And you looked at me like no one ever had. I was ashamed of what I was. But I'm done with the First Order. I'm never going back. Rey, come with me.
 rey Don't go.
-finn Take care of yourself. Please. Rey looks at him, crushed. With quiet resignation, Rey watches Finn return to the aliens... And all three head off. He gets to the front door and walks through it.
-young_girl#unknown#StarWars.Episode07 NO! She stands -- looks around, confused by all she sees and hears. -- Turns and sees, through a DOORWAY. We follow Rey and she runs down the corridor, but it all TILTS -- TURNS -- and she lands on the WALL -- which is now the GROUND -- dried GRASS. She turns to look -- we PIVOT -- and see a BURNING TEMPLE AT NIGHT. We PAN to
+finn Take care of yourself. Please.
+young_girl#unknown#StarWars.Episode07 NO!
 young_girl#unknown#StarWars.Episode07 No, come back!
-unkar_plutt PLUTT Quiet, girl!
+unkar_plutt Quiet, girl!
 rey What was that? I shouldn't have gone in there.
 maz_kanata That lightsaber was Luke's. And his father's before him and now, it calls to you!
-rey stands, fast. Still overwhelmed, emotional, speechless.
 rey I have to get back to Jakku.
 maz_kanata Han told me. Dear child. I see your eyes. You already know the truth. Whomever you're waiting for on Jakku, they're never coming back. But... there's someone who still could.
 rey Luke.
 maz_kanata The belonging you seek is not behind you. It is ahead. I am no Jedi, but I know the Force. It moves through and surrounds every living thing. Close your eyes. Feel it.
 maz_kanata The light. It's always been there. It will guide you. The saber. Take it.
-rey suddenly stands.
 rey I'm never touching that again. I don't want any part of this.
-general_hux Today is the end of the Republic! The end of a regime that acquiesces to disorder! At this very moment, in a system far from here the New Republic LIES to the GALAXY while secretly supporting the treachery of the loathsome Resistance. This fierce machine which you have built, upon which we stand, will bring an end to the Senate! To their cherished fleet! All remaining systems will bow to the First Order! And will remember this... as the last day of the Republic!
+general_hux Today is the end of the Republic! The end of a regime that acquiesces to disorder!
 general_hux FIRE!
 finn It was the Republic.
-han_solo and chewie turn as finn arrives, moving quickly through the crowd. with dread
 finn The First Order, they've done it. Where's Rey?
 rey What are you doing?
 rey You have to go back.
-rey BB-8. No, you can't -- you have to go back, you're too important. They'll help you. Then, ANOTHER SOUND -- LOUDER NOW -- they LOOK UP AGAIN in front of the system attack, A FLEET OF FIRST ORDER SHIPS ROAR OVERHEAD, TOWARD THE CASTLE!
-maz_kanata leads han, finn and chewie down the hall, fast
+rey BB-8. No, you can't -- you have to go back, you're too important. They'll help you.
 maz_kanata I've had this for ages...
 maz_kanata Kept it locked away.
 han_solo Where'd you get that?
 maz_kanata A good question for another time.
 maz_kanata Take it! Find your friend!
-finn grabs it as the room is SHAKEN by an above ground attack.
 maz_kanata Those beasts! They're here!
-rey and BB-8 race fast back toward the castle -- EXPLOSION SOUNDS can be HEARD from the direction they're headed!
 stormtrooper FN-417, hold position!
 rey Safety!
 stormtrooper #4 Sir, the droid was spotted heading west, with a girl.
-rey You have to keep going, stay out of sight, I'll try to fight 'em off. I hope so, too. BB-8 BEEPS and heads off -- Rey RUNS and TAKES COVER behind a massive, mossy tree. TIGHT on her TERRIFIED FACE --
+rey You have to keep going, stay out of sight, I'll try to fight 'em off. I hope so, too.
 han_solo Come on, Chewie!
 maz_kanata Rey and BB-8, they need you. Now go.
 finn I need a weapon.
-maz_kanata grabs his wrist -- holds up his hand -- THE SABER.
+maz_kanata THE SABER.
 maz_kanata You have one!
-han_solo AND CHEWIE RUN, TAKE COVER from BLASTS, FIRING BACK at Stormtroopers, taking some out!
 han_solo Hey, can I try that?
-han_solo borrows Chewbacca's bowcaster, fires on Stormtroopers and sends them flying.
-han_solo I like this thing. finn SURPRISES A stormtrooper WITH THE LIGHTSABER, then another! Untrained, he's athletic, brave, impressive. One Stormtrooper has a MACE --
+han_solo I like this thing.
 stormtrooper Traitor!
-finn and the TROOPER WITH THE MACE battle. The Mace Trooper KNOCKS finn DOWN! The Stormtrooper is about to end him, when THE stormtrooper IS SHOT AND FALLS! Wide-eyed Finn sees Han run over, having fired the blast! Han helps him up.
 han_solo You okay, Big deal?
-finn Thanks! But TEN stormtrooperS come over a RISE, BLASTERS AIMED.
+finn Thanks!
 stormtrooper Don't move! TK-338, we have targets in custody!
-chewbacca MOANS/TALKS
 stormtrooper We have incoming at two-eight-point- six! Move! Dispatch! Move! Scramble all squads! Repeat, scramble all squads! Anti-air cover en route to our position!
 han_solo It's the Resistance.
 poe_dameron Go straight ahead and don't let these dogs scare you!
 jess_testor Copy that!
 snap_wexley We're with you, Poe!
-chewbacca MOANS/TALKS
 finn Woohoo! YEAH! That's one helluva pilot!
 poe_dameron WOOHOO!
 kylo_ren The girl I've heard so much about.
@@ -637,7 +566,6 @@ kylo_ren Where is it?
 stormtrooper Request air support!
 kylo_ren The map. You've seen it.
 stormtrooper Sir, Resistance fighters! We need more troops.
-kylo_ren TURNS BACK TO Rey, his hand still on her face.
 kylo_ren Pull the division out. Forget the droid. We have what we need.
 stormtrooper Pull back the tree line!
 finn NO!! rey!!!
@@ -650,14 +578,12 @@ c3po Yes, I must get my proper arm reinstalled.
 han_solo You changed your hair.
 princess_leia Same jacket.
 han_solo No, new jacket.
-chewbacca MOANS/TALKS
-han_solo ... I saw him. Leia, I saw our son. He was here. Leia hears this. Maz watches through the smoke. This is D'QAR.
+han_solo ... I saw him. Leia, I saw our son. He was here.
 finn Poe. Poe Dameron.
 finn You're alive!
 poe_dameron So are you!
 finn What happened to you?
 poe_dameron What happened? I got thrown from the crash, woke up at night -- no you, no ship, nothing--
-bb8_performed_by BEEPS
 poe_dameron BB-8 says that you saved him.
 finn No, no, no. It wasn't just me.
 poe_dameron You completed my mission, Finn. That's my jacket?
@@ -668,15 +594,12 @@ poe_dameron General Organa. Sorry to interrupt, this is Finn, he needs to talk t
 princess_leia And I need to talk to him. That was incredibly brave, what you did. Renouncing the First Order, saving this man's life --
 finn Thank you, ma'am -- but a friend of mine was taken prisoner--
 princess_leia Han told me about the girl, I'm sorry.
-finn is startled -- poe jumps in
 poe_dameron Finn's familiar with the weapon that destroyed the Hosnian system. He worked on the base.
 princess_leia We're desperate for anything you can tell us.
 finn That's where my friend was taken -- I've got to get there, fast.
 princess_leia And I will do everything I can to help, but first you must tell us all you know.
-chewbacca sits on a bed in the med bay. DR. KALONIA uses a device to help heal his shoulder. Chewie TALKS.
 dr_kalonia That sounds very scary.
 dr_kalonia You must be so brave.
-chewbacca MOANS/TALKS
 c3po General, I regret to inform you, but this map recovered from BB-8 is only partially complete. And even worse, it matches no charted system on record. We simply do not have enough information to locate Master Luke.
 princess_leia I can't believe I was so foolish to think that I could just find Luke and bring him home.
 han_solo Leia...
@@ -712,20 +635,20 @@ kylo_ren You still want to kill me.
 rey That happens when you're being hunted by a creature in a mask.
 kylo_ren Tell me about the droid.
 rey He's a BB unit with a selenium drive and a thermal hyperscan vindicator --
-kylo_ren He's carrying a section of a navigational chart. We have the rest, recovered from archives of the Empire. We need the last piece. And somehow, you convinced the droid to show it to you. You. A scavenger -- Rey reacts -- afraid -- how does he know?
-kylo_ren You know I can take whatever I want. Trepidation flashes across Rey's eyes. Kylo Ren moves closer, his hand rising toward her. She recoils, but has nowhere to go. Kylo Ren nearly TOUCHES HER FACE...
-kylo_ren ... You're so lonely... so afraid to leave... At night, desperate to sleep... you imagine an ocean. I see it -- I see the island... Tears stream down her face as she resists. She tries to break free, but can't budge.
+kylo_ren He's carrying a section of a navigational chart. We have the rest, recovered from archives of the Empire. We need the last piece. And somehow, you convinced the droid to show it to you. You. A scavenger.
+kylo_ren You know I can take whatever I want.
+kylo_ren ... You're so lonely... so afraid to leave... At night, desperate to sleep... you imagine an ocean. I see it -- I see the island...
 kylo_ren And Han Solo. You feel like he's the father you never had. He would've disappointed you.
-rey -- Get out of my head -- But this just makes Kylo lean closer.
-kylo_ren I know you've seen the map. It's in there... and now you'll give it to me. Don't be afraid. I feel it too. where her strength comes from, she doesn't know, but
+rey -- Get out of my head --.
+kylo_ren I know you've seen the map. It's in there... and now you'll give it to me. Don't be afraid. I feel it too.
 rey I'm not giving you anything.
-kylo_ren We'll see. He peers into her eyes intensely. She meets his gaze --
+kylo_ren We'll see.
 rey ... You... you're afraid... that you will never be as strong as... Darth Vader!
 supreme_leader_snoke This scavenger, resisted you?
-kylo_ren She's strong with the Force, untrained but, stronger than she knows. And while Ren's mind no doubt goes to Luke
+kylo_ren She's strong with the Force, untrained but, stronger than she knows.
 supreme_leader_snoke And the droid?
 general_hux Ren believed it was no longer valuable to us.
-general_hux That the girl was all we needed. As a result, the droid has most likely been returned to the hands of the enemy. They may have the map already. Snoke is visibly furious.
+general_hux That the girl was all we needed. As a result, the droid has most likely been returned to the hands of the enemy. They may have the map already.
 supreme_leader_snoke Then the Resistance must be destroyed before they get to Skywalker.
 general_hux We have their location. We tracked their reconnaissance ship to the Ileenium system.
 supreme_leader_snoke Good. Then we will crush them once and for all. Prepare the weapon.
@@ -754,15 +677,14 @@ han_solo So it's big.
 admiral_ackbar How is it possible to power a weapon of this size?
 finn It uses the power of the sun. As the weapon is charged, the sun is drained until it disappears.
 princess_leia The First Order they're charging the weapon again, now. Our system is the next target.
-c3po Oh my. Without the Republic fleet, we're doomed. They all react to this horrible news.
+c3po Oh my. Without the Republic fleet, we're doomed.
 han_solo Okay, how do we blow it up?
 han_solo There's always a way to do that.
-princess_leia Han's right. Han is surprised.
+princess_leia Han's right.
 admiral_statura In order for that amount of power to be contained, that base would need some kind of thermal oscillator...
 finn There is one.
 admiral_statura If we can destroy that oscillator, it might de-stabilize the core and cripple the weapon.
 major_ematt ... Maybe the planet.
-poe_dameron then tries to bolster spirits, looking at the big hexagonal structure the Oscillator.
 poe_dameron We'll go in there and we'll hit that oscillator with everything we got.
 admiral_ackbar They have defensive shields that our ships cannot penetrate.
 han_solo We disable the shields.
@@ -774,32 +696,26 @@ han_solo We'll get you there.
 princess_leia Han, how?
 han_solo If I told you, you wouldn't like it.
 poe_dameron So we disable the shields, take out the oscillator and we blow up their big gun. All right. Let's go! And everyone splits.
-chewbacca MOANS/TALKS and finn follow han's orders as they prepare the falcon for one more daring run, maybe its last
 han_solo Chewie, check that donal capitator. Come on. Let's go. -- Finn, be careful with those - they're explosives.
 finn Now you tell me?
-princess_leia No matter how much we fought, I've always hated watching you leave. Han looks over, there's Leia.
+princess_leia No matter how much we fought, I've always hated watching you leave.
 han_solo That's what I did it. So you'd miss me.
-princess_leia I did miss you. He looks at her, says sweetly, out of the blue
+princess_leia I did miss you.
 han_solo It wasn't all bad, was it? Huh?
 han_solo Some of it was...good.
 princess_leia ... Pretty good.
 han_solo Some things never change.
-princess_leia True. You still drive me crazy. Han places his hands on her shoulders. It could be thirty years ago.
+princess_leia True. You still drive me crazy. It could be thirty years ago.
 princess_leia If you see our son again, bring him home.
 stormtrooper Sir, sensors triggered in hangar 718. We're searching the area.
-kylo_ren She's just beginning to test her powers. The longer it takes to find her, the more dangerous she becomes. Kylo exits.
+kylo_ren She's just beginning to test her powers. The longer it takes to find her, the more dangerous she becomes.
 finn How are we getting in?
 han_solo Their shields have a fractional refresh rate. Keeps anything traveling slower than lightspeed from getting through.
-finn is suddenly filled with dread.
 finn We're gonna make our landing approach at lightspeed?!
-chewbacca MOANS/TALKS, thinking it's crazy too, says HELL YES WE ARE!
 han_solo Alright, Chewie, get ready.
-chewbacca groans
 han_solo And Now!
-chewbacca MOANS/TALKS
-chewbacca groans
-han_solo I AM PULLING UP!!! But the Falcon has no time
-han_solo I get any higher, they'll see us! And the ship DIVES again, back into the trees!
+han_solo I AM PULLING UP!!!
+han_solo I get any higher, they'll see us!
 officer#unknown#StarWars.Episode07 Sir, she was not found in hangar 718 but all troops are on alert.
 kylo_ren Put every hangar on lock-down. She's going to try to steal a ship to--
 kylo_ren Han Solo...
@@ -811,22 +727,20 @@ finn I don't. I'm just here to get Rey.
 han_solo People are counting on us! The galaxy is counting on us--!
 finn Solo, we'll figure it out! We'll use the Force!
 han_solo That's not how the Force works--!
-chewbacca MOANS/TALKS
 han_solo Oh really, you're cold?
 finn Come on!
 general_hux Report.
 first_order_officer Weapon charged in fifteen minutes, sir.
-stormtrooper FN-9330 Hey! He fumbles for his blaster but Chewie shoots first. wide ANGLE of the corridor as the Trooper flies back, dead. Chewie drags him out of sight. Han and Finn peer around a corner, wary.
+stormtrooper Hey!
 han_solo The longer we're here, less luck we're going to have. The shields?
 finn I have an idea about that.
 finn Remember me?
-captain_phasma fn-2187. finn Not anymore. The name's Finn, and I'm in charge. I'm in charge now, Phasma. I'm in charge.
+captain_phasma fn-2187.
+finn Not anymore. The name's Finn, and I'm in charge. I'm in charge now, Phasma. I'm in charge.
 han_solo Bring it down. Bring it down.
-finn Follow me.
 finn You want me to blast that bucket off your head? Lower the shields.
 captain_phasma You're making a big mistake.
 finn Do it.
-chewbacca MOANS/TALKS
 finn Solo, if this works, we're not going to have a lot of time to find Rey.
 han_solo Don't worry kid, we won't leave here without her.
 captain_phasma You can't be so stupid as to think this will be easy. My troops will storm this block and kill you all.
@@ -851,7 +765,7 @@ poe_dameron Yeah, we gotta keep hitting it! Another bombing run! Remember, when 
 poe_dameron Guys, we got a lot of company!
 finn We'll use the charges to blow that blast door. I'll go in and draw fire, but I'm gonna need cover.
 han_solo You sure you're up for this?
-finn Hell no -- I'll go in find and try to find Rey -- -- The troopers'll be on our tail. We have to be ready for that. There's an access tunnel that'll leads -- (Han starts pointing with his chin to
+finn Hell no -- I'll go in find and try to find Rey -- -- The troopers'll be on our tail. We have to be ready for that. There's an access tunnel that'll leads --
 finn Why are you doing that? Why are you doing -- this? I'm trying to come up with a plan.
 admiral_ackbar The Oscillator's still standing.
 officer#unknown#StarWars.Episode07 X-wings coming back for another round of attacks!
@@ -863,7 +777,7 @@ rey Finn. What are you doing here?!
 finn We came back for you.
 finn What'd he say?
 rey ... That it was your idea.
-finn awkwardly smiles. It's his nature. They embrace.
+finn awkwardly smiles. It's his nature.
 rey Thank you.
 finn How did you get away?
 rey I can't explain it. And you wouldn't believe it.
@@ -874,17 +788,15 @@ jess_testor Furillo's been hit!
 snap_wexley Watch out for ground fire!
 han_solo They're in trouble. We can't leave. My friend here has a bag full of explosives. Let's use 'em.
 lieutenant_connix General, are you seeing this?
-vober#unknown#StarWars.Episode07 dand Two more X-wings down. That's half our fleet destroyed.
+dand#unknown#StarWars.Episode07 Two more X-wings down. That's half our fleet destroyed.
 c3po And their weapon will be fully charged in 10 minutes! It would take a miracle to save us now.
 han_solo That girl knows her stuff.
 han_solo We'll set the charges at every other column.
-chewbacca MOANS/TALKS
 han_solo You're right. That's a better idea. You take the top.
 han_solo I'll go down below. Detonator. We'll meet back here.
 kylo_ren Find them.
-han_solo Ben! The name ECHOES as Kylo Ren STOPS, far across the vast catwalk. He turns.
+han_solo Ben!
 kylo_ren Han Solo. I've been waiting for this day for a long time.
-finn and Rey make their way into the space, opening a HATCH that allows A BEAM OF PRECIOUS SUNLIGHT to stream down like a spotlight on Han and his son. Finn and Rey get to a railing and look down. They can SEE and HEAR Han and Kylo Ren on the catwalk below.
 han_solo Take off that mask. You don't need it.
 kylo_ren What do you think you'll see if I do?
 han_solo The face of my son.
@@ -896,24 +808,22 @@ kylo_ren It's too late.
 han_solo No it's not. Leave here with me. Come home. We miss you.
 kylo_ren I'm being torn apart. I want to be free of this pain.
 kylo_ren I know what I have to do, but I don't know if I have the strength to do it. Will you help me?
-han_solo hears his son's voice again, pained and vulnerable.
 han_solo Yes. Anything.
 kylo_ren Thank you.
 finn Solo.
 rey No, no.
 admiral_ackbar The Oscillator's been damaged but is still functional.
 tabala_zo Admiral, their weapon will fire in two minutes.
-finn The Falcon's this way. Finn and Rey, overcome with emotion, race through the snowy forest -- until Finn SLOWS AND STOPS. Rey stops too, both out of breath. They look at each other. They both know
+finn The Falcon's this way.
 kylo_ren We're not done yet.
 rey You're a monster!
 kylo_ren It's just us now. Han Solo can't save you.
 finn Rey! Rey! Rey... Rey... Oh no. Oh no no no...
-finn turns to her, afraid and concerned. But the SOUND OF kylo ren'S LIGHTSABER moving makes Finn TURN BACK TO kylo ren, lit by the glowing YELLOW AND RED BLADE.
-kylo_ren TRAITOR! In reply, Finn TURNS ON LUKE'S LIGHTSABER -- upon seeing the weapon, Kylo Ren REACTS IN SHOCK.
+kylo_ren TRAITOR!
 kylo_ren That lightsaber. It belongs to me!
 finn Come get it.
 niv_lek We just lost R-1!
-jess_testor We're overwhelmed! What do we do? it isn't working! another pilot looks down -- sees the explosion -- coming from the oscillator. relatively small, it's an opening
+jess_testor We're overwhelmed! What do we do? it isn't working!
 yolo_ziff ziff Black Leader, there's a brand new hole in that oscillator. Looks like our friends got in!
 poe_dameron Red Four! Red Six! Cover us!
 lieutenant_bastian I'm on it!
@@ -922,7 +832,7 @@ poe_dameron Everybody else, hit the target hard! Give it everything you got!
 poe_dameron I need some help here! I need some help!
 lieutenant_bastian I'm coming in!
 jess_testor Watch out!
-ello_asty I'm hit! The alien pilot's X-wing is blasted to pieces.
+ello_asty I'm hit!
 poe_dameron All teams - I'm going in! Pull up and cover me!
 niv_lek Copy that, Black Leader! Good luck, Poe!
 starkiller_technician#unknown#StarWars.Episode07 Weapon at full capacity in thirty seconds.
@@ -930,13 +840,12 @@ general_hux Prepare to fire.
 kylo_ren You need a teacher! I can show you the ways of the Force!
 rey The Force.
 colonel_datoo Lieutenant, get back to your station!
-young_technician#unknown#StarWars.Episode07 Just look. We won't survive -- even Hux has gone! As he hurries off, WE HEAR
+young_technician#unknown#StarWars.Episode07 Just look. We won't survive -- even Hux has gone!
 general_hux Supreme Leader.
 general_hux The fuel cells have ruptured. The collapse of the planet has begun. Snoke takes this in. Furious, desolate... knowing.
 supreme_leader_snoke Leave the base at once and come to me with Kylo Ren.
 supreme_leader_snoke It is time to complete his training.
 rey Finn! Finn...
-chewbacca MOANS/TALKS
 poe_dameron All teams! I got eyes on them!
 snap_wexley Yes!
 poe_dameron Our job's done here. Let's go home!
@@ -952,4 +861,4 @@ princess_leia -- Luke --
 c3po Oh my dear friend. How I've missed you.
 rey We'll see each other again. I believe that. Thank you, my friend.
 princess_leia Rey.
-princess_leia May the Force be with you. This fills Rey up. She smiles gratefully.
+princess_leia May the Force be with you.
