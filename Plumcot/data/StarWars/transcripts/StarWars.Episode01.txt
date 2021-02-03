@@ -94,7 +94,6 @@ quigon_jinn Quick! Get out of here!
 quigon_jinn Get off!
 jar_jar_binks Whas dat?
 jar_jar_binks Hey wait!
-jar_jar_binks Oyi, mooie-mooie! I luv yous!
 quigon_jinn You almost got us killed! Are you brainless?
 jar_jar_binks I spake.
 quigon_jinn The ability to speak does not make you intelligent. Now get outta here!
@@ -129,17 +128,13 @@ captain_tarpals Hey yousa, stopa there.
 jar_jar_binks Heyo-dalee, Cap'n Tarpals, Mesa back!
 captain_tarpals Noah gain, Ja Ja. Yousa goen tada Bosses. Yousa in big dudu this time.
 jar_jar_binks How wude.
-boss_nass Yousa cannot bees hair. Dis army of mackineeks up dare tis new weesong!
 quigon_jinn That droid army is about to attack the Naboo. We must warn them.
 boss_nass Wesa no like da Naboo! Da Naboo tink day so smarty. Day tink day brains so big.
 obiwan_kenobi Once those droids take control of the surface, they will take control of you.
 boss_nass Mesa no tink so. Dey not know of uss-en.
 obiwan_kenobi You and the Naboo form a symbiont circle. What happens to one of you will affect the other. You must understand this.
-boss_nass Wesa no care-n about da Naboo.
 quigon_jinn Then speed us on our way.
-boss_nass Wesa gonna speed yousaway.
 quigon_jinn We could use a transport.
-boss_nass Wesa give yousa una bongo. Da speedest way tooda Naboo tis goen through da core. Now go.
 quigon_jinn Thank you for your help. We leave in peace.
 obiwan_kenobi Master, what's a bongo?
 quigon_jinn A transport, I hope.
@@ -147,10 +142,8 @@ jar_jar_binks Daza setten yousa up. Goen through da planet core is bad bombin!! 
 obiwan_kenobi Master, we're short of time.
 quigon_jinn We'll need a navigator to get us through the planet's core. This Gungan my be of help.
 quigon_jinn What is to become of Jar Jar Binks here?
-boss_nass Hisen to be pune-ished.
-quigon_jinn I have saved his life. He owes me what you call a "life.debt." QUI-GON waves his hand.
+quigon_jinn I have saved his life. He owes me what you call a "life.debt."
 quigon_jinn Your gods demand that his life belongs to me now.
-boss_nass Binks. Yousa haveda liveplay with thisen hisen?
 jar_jar_binks Ah-huh.
 boss_nass Begone wit him.
 jar_jar_binks Count mesa outta dis one! Better dead here, den deader in da core...Yee guds, whata mesa sayin?!
@@ -174,7 +167,6 @@ quigon_jinn Don't worry, the Force will guide us...
 jar_jar_binks Ooooh, maxibig..."da Force"...Well, dat smells stinkowiff.
 obiwan_kenobi ... we're losing power.
 jar_jar_binks Oh, no...
-jar_jar_binks Oh, wesa diein here.
 quigon_jinn Just relax. We're not in trouble yet.
 jar_jar_binks What yet? Monstairs out dare! Leak'n in here, all'n sink'n, and nooooo power! You nutsen! WHEN YOUSA TINKEN WESA IN TROUBLE?!!!?
 obiwan_kenobi Power's back.
@@ -279,15 +271,10 @@ quigon_jinn ...moisture farms for the most part. Some indigenous tribes and scav
 padme ... like us.
 jar_jar_binks Dissen berry berry bad. Ooooh... icky... icky... goo.
 quigon_jinn We'll try one of the smaller dealers.
-watto Guta naloya.
-watto Ha chuba da nala?
 quigon_jinn I need parts for a J-type 327 Nubian.
 watto Ah yes, ah yes. Nubian. We have lots of that. Peedenk! Naba dee unko
 quigon_jinn My droid here has a readout of what I need.
-watto Coona tee-tocky malia?
-anakin_skywalker Mel tassa cho-passa...
-watto Chut-Chut! Ganda doe wallya. Me dwana no bata. Soooo, let me take - a thee out back. Ni you'll find what you need.
-quigon_jinn Don't touch anything.
+aquigon_jinn Don't touch anything.
 anakin_skywalker Are you an angel?
 padme What?
 anakin_skywalker An angel. I've heard the deep space pilots talk about them. They are the most beautiful creatures in the universe. They live on the Moons of Iego I think.
@@ -315,23 +302,12 @@ anakin_skywalker ... wouldn't have lasted long if I weren't so good at fixing th
 quigon_jinn We're leaving. Jar Jar?
 padme I'm glad to have met you.
 anakin_skywalker I was glad to meet you too.
-watto Ootmians! Tinka me chasa hopoe ma booty na nolia.
-anakin_skywalker La lova num botaffa.
-watto Fweepa niaga. Tolpa da bunky dunko.
 quigon_jinn ... and you're sure there's nothing left on board?
 obiwan_kenobi A few containers of supplies, the Queen's wardrobe, maybe. But not enough for you to barter with. Not in the amounts you're talking about.
 quigon_jinn All right. I'm sure another solution will present itself. I'll check back later.
-jar_jar_binks Noah gain... Noah gain da beings hereabouts cawazy. Wesa be robbed un crunched.
 quigon_jinn Not likely. We have nothing of value, that's our problem.
-vendor#unknown#StarWars.Episode01 Ay, ay. Yawoba wonga?
-vendor#unknown#StarWars.Episode01 Uga wupiupi wep. (It costs seven wupiupi.
-sebulba Chuba!!
 jar_jar_binks Ooops.
-sebulba Ni chuba ni??
 jar_jar_binks Who, mesa?
-anakin_skywalker Chesko Sebulba... Cha pooka uman geesa... Matesa ratico ponipa chop chowa.
-sebulba Nic me chouwa wimo noke maka noke. Una noto wo shag, me wompity du pom pom.
-anakin_skywalker Eh, chee bana do mullee ra.
 anakin_skywalker Hi!
 quigon_jinn Hi there.
 anakin_skywalker Your buddy here was about to be turned into orange goo. He picked a fight with a Dug. An especially dangerous Dug called Sebulba.
@@ -437,7 +413,6 @@ watto I hope you didn't kill anyone I know for it. So, you supply the Pod and th
 quigon_jinn If it's going to be fifty-fifty, I suggest you front the cash for the entry. If we win, you keep all the winnings, minus the cost of the parts I need... If we lose, you keep my ship.
 quigon_jinn Either way, you win.
 watto Deal!
-watto Yo bana pee ho-tah, meedee ya.
 obiwan_kenobi What if this plan fails, Master? We could be stuck here for a long time.
 quigon_jinn Well, it's too dangerous to call for help now. A ship without a power supply isn't gonna get us anywhere, and... there is something about this boy...
 quigon_jinn You should be proud of your son. He gives without any thought of reward.
@@ -507,7 +482,6 @@ watto No Pod's worth two slaves ... not by a long shot.
 quigon_jinn The boy, then ...
 watto We'll let fate decide, huh. I just happen to have a chance cube here. Blue it's the boy, red his mother...
 watto You won the small toss, outlander, bou you won't win the race, so ... it makes little difference.
-watto Ouna bakeesa. Bonapa keesa pateeso, o wanna meetee chobodd.
 anakin_skywalker What'd he mean by that?
 quigon_jinn I'll tell you later. Goodmorning.
 c3po Oh my! Space travel sounds rather perilous.
@@ -520,36 +494,23 @@ anakin_skywalker Well... not exactly...
 padme Not even finished?!
 anakin_skywalker ... Kitster's right, I will this time.
 quigon_jinn Of course you will.
-fode Toogi! Toogie! Toong mee cha kulkah du Boonta magi! tah oos azalus ooval Poddraces.
 beed That's absolutly right. And a big turnout here, from all corners of the Outer Rim territories. I see the contestants are making their way out onto the starting grid.
-fode La Yma beestoo.
 beed I see Ben Quadinaros from the Tund system.
-fode ... eh Gasgano doowa newpa Ord Petrovia!
 beed Two time winner, Boles Roor ...
-fode Poo tula moosta, woe grane champio Sebulba du Pixelito! Splastyleeya bookie ookie!!
 beed And a late entry, Anakin Skywalker, a local boy.
-fode Wampa peedunkee unko.
 beed I see the flaggers are moving onto the track.
-jar_jar_binks Peeusa!
-sebulba Bazda wahota, shag. Dobiella Nok.
-anakin_skywalker Cha skrundee da pat, sleemo.
-sebulba Yoka to Bantha poodoo.
 quigon_jinn You all set, Ani?
 anakin_skywalker Yep.
 quigon_jinn All right.
 quigon_jinn Remember, concentrate on the moment. Feel. Don't think. Use your instincts.
 anakin_skywalker I will.
 quigon_jinn May the Force be with you.
-fode O grandio lust amu intoe tah parena, Jabba Du Hutt.
-jabba_the_hutt Chowbaso! Tam ka chee Boonta rulee ya, kee madda hodrudda du wundee.
 shmi_skywalker Is he nervous?
 quigon_jinn He's fine.
 padme You Jedi are far too reckless. The Queen is not...
 quigon_jinn The Queen trusts my judgment, young handmaiden. You should too.
 padme You assume too much.
 beed Start your engines.
-jar_jar_binks Oh, dissen ganna be messy! Mesa no watchen.
-fode An dare ovv!
 beed Oh...wait. Little Skywalker has stalled.
 beed Well it looks like Quadrinaros is having engine trouble also.
 jar_jar_binks C'mon Ani!
@@ -558,8 +519,6 @@ jar_jar_binks Go Ani, go!
 beed He'll be hard pressed to catch up with the leaders.
 beed Looks like a few Tusken Riaders have camped out on the canyon dune turn.
 beed Ooo! There goes Quadrinaros power cuppling.
-fode Sebulba! Ka pa me cheespa wata!
-fode Ody Mandrell! Coona wa wunda dunko!
 ody#unknown#StarWars.Episode01 Droids!
 c3po Where is master Anakin?
 padme Look, here he comes!
@@ -574,13 +533,9 @@ beed Amazing... a quick controlled thrust and he's back on course!
 jar_jar_binks Did he crashed?
 beed Skywalker's in trouble. Sebulba takes the lead.
 beed He's catching Sebulba.
-fode Inkabunga.
 jar_jar_binks Careful, Ani, careful, Ani!
 beed That little human being is out of his mind.
-fode Punda tah punda!
 beed They're side by side!
-fode Bongo du bongu!
-sebulba Poodu!
 c3po I can't believe it.
 beed The crowds are going nuts! Oh Ah Oh Ah
 anakin_skywalker Mom! I did it! Yeah!
@@ -849,9 +804,7 @@ gungan_guard Daza comen!
 anakin_skywalker All right...
 anakin_skywalker ... They're here.
 padme Good, they made it.
-boss_nass Yousa doen grand. Jar Jar bringen usen an da Naboo together.
 jar_jar_binks Oh, no, no, no...
-boss_nass So, wesa make yous Bombad General.
 jar_jar_binks General??! Oh, no..
 padme What is the situation?
 captain_panaka Almost everyone's in camps. A few hundred police and guards have formed an underground resistance movement. I brought back as many of the leaders as I could. The Federation Army's also much larger than we thought, and much stronger. Your Highness, this is a battle I do not think we can win.
@@ -860,7 +813,6 @@ padme What do you think, Master Jedi?
 quigon_jinn The Viceroy will be well guarded.
 captain_panaka The difficulty's getting into the throne room. Once we're inside, we shouldn't have a problem.
 quigon_jinn There is a possibility, with this diversion many, Gungans will be killed.
-boss_nass Wesa ready to do are-sa part.
 padme We have a plan which should immobilize the Droid Army. We will send what pilots we have to knock out the Droid control ship orbiting the planet.
 quigon_jinn A well-conceived plan. However, there's great risk. The weapons on your fighters may not penetrate the shields.
 obiwan_kenobi And there's an even bigger danger. If the Viceroy escapes, Your Highness, he will return with another droid army.
