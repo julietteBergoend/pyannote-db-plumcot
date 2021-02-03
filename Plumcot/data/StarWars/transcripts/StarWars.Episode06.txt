@@ -2,9 +2,9 @@ shuttle_captain#unknown#StarWars.Episode06 Command station, this is ST-321.
 shuttle_captain#unknown#StarWars.Episode06 Code clearance blue.
 shuttle_captain#unknown#StarWars.Episode06 We're starting our approach.
 shuttle_captain#unknown#StarWars.Episode06 Deactivate the security shield.
-death_star_gunner The security deflector shield will be deactivated when we have confirmation of your code transmission.
-death_star_gunner Stand by.
-death_star_gunner You are clear to proceed.
+imperial_gunner The security deflector shield will be deactivated when we have confirmation of your code transmission.
+imperial_gunner Stand by.
+imperial_gunner You are clear to proceed.
 shuttle_captain#unknown#StarWars.Episode06 We're starting our approach.
 officer#unknown#StarWars.Episode06 Inform the commander that Lord Vader's shuttle has arrived.
 moff_jerjerrod Lord Vader, this is an unexpected pleasure.
@@ -285,22 +285,22 @@ han_solo Now I owe you one.
 luke_skywalker That's right, R2.
 luke_skywalker We're going to the Dagobah system.
 luke_skywalker I have a promise to keep to an old friend.
-emperor Rise, my friend.
+the_emperor Rise, my friend.
 darth_vader The Death Star will be completed on schedule.
-emperor You've done well, Lord Vader.
-emperor And now I sense you wish to continue..
-emperor your search for young Skywalker.
+the_emperor You've done well, Lord Vader.
+the_emperor And now I sense you wish to continue..
+the_emperor your search for young Skywalker.
 darth_vader Yes, my master.
-emperor Patience, my friend.
-emperor In time, he will seek you out.
-emperor And when he does you must bring him before me.
-emperor He has grown strong.
-emperor Only together can we turn him to the dark side of the Force.
+the_emperor Patience, my friend.
+the_emperor In time, he will seek you out.
+the_emperor And when he does you must bring him before me.
+the_emperor He has grown strong.
+the_emperor Only together can we turn him to the dark side of the Force.
 darth_vader As you wish.
-emperor Everything is proceeding as I have foreseen.
+the_emperor Everything is proceeding as I have foreseen.
 yoda That face you make Look I so old to young eyes?
 luke_skywalker No, of course not.
-emperor Yes, I do.
+the_emperor Yes, I do.
 yoda Sick have I become.
 yoda Old and weak.
 yoda When 900 years old you reach Iook as good you will not, hmm?
@@ -341,40 +341,40 @@ yoda Luke the Force runs strong in your family.
 yoda Pass on what you have learned.
 han_solo I can't do it, R2.
 han_solo I can't go on alone.
-ben_kenobi Yoda will always be with you.
+obiwan_kenobi Yoda will always be with you.
 luke_skywalker Obi-Wan.
 luke_skywalker Why didn't you tell me?
 luke_skywalker You told me Vader betrayed and murdered my father.
-emperor Your father was seduced by the dark side of the Force.
-ben_kenobi He ceased to be Anakin Skywalker and became Darth Vader.
-ben_kenobi When that happened the good man who was your father was destroyed.
-ben_kenobi So what I told you was true from a certain point of view.
+the_emperor Your father was seduced by the dark side of the Force.
+obiwan_kenobi He ceased to be Anakin Skywalker and became Darth Vader.
+obiwan_kenobi When that happened the good man who was your father was destroyed.
+obiwan_kenobi So what I told you was true from a certain point of view.
 luke_skywalker A certain point of view?
-ben_kenobi Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
-ben_kenobi Anakin was a good friend.
-ben_kenobi When I first knew him your father was already a great pilot but I was amazed how strongly the Force was with him.
-ben_kenobi I took it upon myself to train him as a Jedi.
-ben_kenobi I thought that I could instruct him just as well as Yoda.
-ben_kenobi I was wrong.
+obiwan_kenobi Luke, you're going to find that many of the truths we cling to depend greatly on our own point of view.
+obiwan_kenobi Anakin was a good friend.
+obiwan_kenobi When I first knew him your father was already a great pilot but I was amazed how strongly the Force was with him.
+obiwan_kenobi I took it upon myself to train him as a Jedi.
+obiwan_kenobi I thought that I could instruct him just as well as Yoda.
+obiwan_kenobi I was wrong.
 luke_skywalker There is still good in him.
-ben_kenobi He's more machine now than man twisted and evil.
+obiwan_kenobi He's more machine now than man twisted and evil.
 luke_skywalker I can't do it, Ben.
-ben_kenobi You cannot escape your destiny.
+obiwan_kenobi You cannot escape your destiny.
 yoda You must face Darth Vader again.
 luke_skywalker I can't kill my own father.
-ben_kenobi Then the emperor has already won.
-ben_kenobi You were our only hope.
+obiwan_kenobi Then the emperor has already won.
+obiwan_kenobi You were our only hope.
 luke_skywalker Yoda spoke of another.
-ben_kenobi The other he spoke of is your twin sister.
+obiwan_kenobi The other he spoke of is your twin sister.
 luke_skywalker But I have no sister.
-ben_kenobi To protect you both from the emperor you were hidden from your father when you were born.
-ben_kenobi The emperor knew, as I did if Anakin were to have any offspring they would be a threat to him.
-ben_kenobi That is the reason why your sister remains safely anonymous.
+obiwan_kenobi To protect you both from the emperor you were hidden from your father when you were born.
+obiwan_kenobi The emperor knew, as I did if Anakin were to have any offspring they would be a threat to him.
+obiwan_kenobi That is the reason why your sister remains safely anonymous.
 han_solo Leia!
 luke_skywalker Leia's my sister.
-ben_kenobi Your insight serves you well.
-ben_kenobi Bury your feelings deep down, Luke.
-ben_kenobi They do you credit but they could be made to serve the emperor.
+obiwan_kenobi Your insight serves you well.
+obiwan_kenobi Bury your feelings deep down, Luke.
+obiwan_kenobi They do you credit but they could be made to serve the emperor.
 han_solo Well, look at you a general, huh?
 lando_calrissian Someone must have told them about my little maneuver at the Battle ofTanaab.
 han_solo Well, don't look at me, pal.
@@ -446,13 +446,13 @@ luke_skywalker All set.
 jabba_the_hutt Here we go again.
 han_solo All right, hang on.
 darth_vader What is thy bidding, my master?
-emperor Send the fleet to the far side of Endor.
-emperor There it will stay until called for.
+the_emperor Send the fleet to the far side of Endor.
+the_emperor There it will stay until called for.
 darth_vader What of the reports of the rebel fleet massing near Sullust?
-emperor It is of no concern.
-emperor Soon the rebellion will be crushed and young Skywalker will be one of us.
-emperor Your work here is finished, my friend.
-emperor Go out to the command ship and await my orders.
+the_emperor It is of no concern.
+the_emperor Soon the rebellion will be crushed and young Skywalker will be one of us.
+the_emperor Your work here is finished, my friend.
+the_emperor Go out to the command ship and await my orders.
 darth_vader Yes, my master.
 han_solo If they don't go for this we're gonna have to get out of here pretty quick, Chewie.
 controller#unknown#StarWars.Episode06 We have you on our screen now.
@@ -476,7 +476,7 @@ darth_vader Do they have a code clearance?
 admiral_piett It's an older code, sir, but it checks out.
 admiral_piett I was about to clear them.
 luke_skywalker I'm endangering the mission.
-ben_kenobi I shouldn't have come.
+obiwan_kenobi I shouldn't have come.
 han_solo It's your imagination, kid.
 han_solo Let's keep a little optimism here.
 admiral_piett Shall I hold them?
@@ -499,8 +499,8 @@ han_solo You stay here.
 princess_leia Quietly.
 luke_skywalker There might be more of them out there.
 han_solo Hey, it's me.
-scout#unknown#StarWars.Episode06 Go for help!
-scout#unknown#StarWars.Episode06 Go!
+biker_scout_pushed_off_bike Go for help!
+biker_scout_pushed_off_bike Go!
 luke_skywalker Great.
 han_solo Come on!
 princess_leia Over there!
@@ -543,7 +543,7 @@ han_solo All right.
 c3po You want something to eat?
 luke_skywalker That's right.
 han_solo - Come on.
-luke_skywalker - 
+luke_skywalker -
 c3po Hmm?
 han_solo Look.
 admiral_ackbar It's a hat.
@@ -552,26 +552,26 @@ han_solo Look.
 princess_leia You're a jittery little thing, aren't you?
 princess_leia What is it?
 c3po Oh!
-scout_l#unknown#StarWars.Episode06 Freeze!
+biker_scout_pushed_off_bike Freeze!
 han_solo Come on, get up!
 operator#unknown#StarWars.Episode06 Yes, sir.
 c3po What the Ya!
 han_solo Come on.
 princess_leia Let's get out of here.
-emperor I told you to remain on the command ship.
+the_emperor I told you to remain on the command ship.
 darth_vader A small rebel force has penetrated the shield and landed on Endor.
-emperor Yes, I know.
+the_emperor Yes, I know.
 darth_vader My son is with them.
-emperor Are you sure?
+the_emperor Are you sure?
 darth_vader I have felt him, my master.
-emperor Strange that I have not.
-emperor I wonder if your feelings on this matter are clear Lord Vader.
+the_emperor Strange that I have not.
+the_emperor I wonder if your feelings on this matter are clear Lord Vader.
 darth_vader They are clear, my master.
-emperor Then you must go to the sanctuary moon and wait for him.
+the_emperor Then you must go to the sanctuary moon and wait for him.
 darth_vader He will come to me?
-emperor I have foreseen it.
-emperor His compassion for you will be his undoing.
-emperor He will come to you and then you will bring him before me.
+the_emperor I have foreseen it.
+the_emperor His compassion for you will be his undoing.
+the_emperor He will come to you and then you will bring him before me.
 darth_vader As you wish.
 han_solo Luke!
 han_solo Luke!
@@ -614,7 +614,7 @@ han_solo Why don't you use your divine influence and get us out of this?
 c3po I beg your pardon, General Solo, but that just wouldn't be proper.
 han_solo Proper?
 c3po It's against my programming to impersonate a deity.
-han_solo Why, you 
+han_solo Why, you
 han_solo My mistake.
 han_solo He's an old friend of mine.
 han_solo Hey!
@@ -624,7 +624,7 @@ c3po I'm rather embarrassed, General Solo but it appears you are to be the main 
 han_solo Leia!
 han_solo Leia!
 c3po Your Royal Highness.
-emperor But these are my friends.
+the_emperor But these are my friends.
 princess_leia 3PO, tell them they must be set free.
 han_solo Somehow I got the feeling that didn't help us very much.
 luke_skywalker 3PO, tell them if they don't do as you wish you'll become angry and use your magic.
@@ -710,13 +710,13 @@ luke_skywalker Because there is good in him.
 luke_skywalker I've felt it.
 luke_skywalker He won't turn me over to the emperor.
 luke_skywalker I can save him.
-ben_kenobi I can turn him back to the good side.
+obiwan_kenobi I can turn him back to the good side.
 luke_skywalker I have to try.
 han_solo Hey, what's going on?
 princess_leia Nothing.
 princess_leia I just want to be alone for a little while.
 princess_leia Nothing?
-scout_l#unknown#StarWars.Episode06 Come on, tell me.
+biker_scout_pushed_off_bike Come on, tell me.
 han_solo What's going on?
 han_solo I I can't tell you.
 han_solo Could you tell Luke?
@@ -733,7 +733,7 @@ darth_vader Yes, my lord.
 darth_vader The emperor has been expecting you.
 luke_skywalker I know, Father.
 darth_vader So, you have accepted the truth.
-lure#unknown#StarWars.Episode06 I've accepted the truth that you were once Anakin Skywalker, my father.
+luke_skywalker I've accepted the truth that you were once Anakin Skywalker, my father.
 darth_vader That name no longer has any meaning for me.
 luke_skywalker It is the name of your true self.
 luke_skywalker You've only forgotten.
@@ -749,7 +749,7 @@ darth_vader Obi-Wan once thought as you do.
 darth_vader You don't know the power of the dark side.
 darth_vader I must obey my master.
 luke_skywalker I will not turn and you'll be forced to kill me.
-ben_kenobi If that is your destiny.
+obiwan_kenobi If that is your destiny.
 luke_skywalker Search your feelings, Father.
 luke_skywalker You can't do this.
 luke_skywalker I feel the conflict within you.
@@ -773,7 +773,7 @@ lando_calrissian He'll have that shield down on time.
 lando_calrissian Or this will be the shortest offensive of all time.
 admiral_ackbar All craft, prepare to jump into hyperspace on my mark.
 han_solo All right.
-death_star_gunner Stand by.
+imperial_gunner Stand by.
 han_solo Back door, huh?
 han_solo Good idea.
 han_solo It's only a few guards.
@@ -786,7 +786,7 @@ c3po I'm afraid our furry companion has gone and done something rather rash.
 c3po Oh, no.
 han_solo There goes our surprise attack.
 c3po Look, over there!
-scout#unknown#StarWars.Episode06 Stop him!
+biker_scout_pushed_off_bike Stop him!
 han_solo Not bad for a little furball.
 luke_skywalker There's only one left.
 han_solo You stay here.
@@ -794,34 +794,34 @@ luke_skywalker We'll take care of this.
 luke_skywalker I have decided.
 c3po that we shall stay here.
 han_solo Hey!
-emperor Welcome, young Skywalker.
+the_emperor Welcome, young Skywalker.
 darth_vader I have been expecting you.
-emperor You'll no longer need those.
-emperor Guards, leave us.
+the_emperor You'll no longer need those.
+the_emperor Guards, leave us.
 luke_skywalker I'm looking forward to completing your training.
-emperor In time, you will call me master.
+the_emperor In time, you will call me master.
 luke_skywalker You're gravely mistaken.
 luke_skywalker You won't convert me as you did my father.
-emperor Oh, no, my young Jedi.
-emperor You will find that it is you who are mistaken about a great many things.
+the_emperor Oh, no, my young Jedi.
+the_emperor You will find that it is you who are mistaken about a great many things.
 darth_vader His lightsaber.
-emperor Much like your father's.
-emperor By now you must know your father can never be turned from the dark side.
-ben_kenobi So will it be with you.
+the_emperor Much like your father's.
+the_emperor By now you must know your father can never be turned from the dark side.
+obiwan_kenobi So will it be with you.
 luke_skywalker You're wrong.
 luke_skywalker Soon I'll be dead, and you with me.
-emperor Perhaps you refer to the imminent attack of your rebel fleet.
+the_emperor Perhaps you refer to the imminent attack of your rebel fleet.
 c3po Yes.
-emperor I assure you we are quite safe from your friends here.
+the_emperor I assure you we are quite safe from your friends here.
 luke_skywalker Your overconfidence is your weakness.
-emperor Your faith in your friends is yours.
+the_emperor Your faith in your friends is yours.
 darth_vader It is pointless to resist, my son.
-emperor Everything that has transpired has done so according to my design.
-emperor Your friends up there on the sanctuary moon are walking into a trap, as is your rebel fleet.
-emperor It was I who allowed the Alliance to know the location of the shield generator.
-emperor It is quite safe from your pitiful little band.
-emperor An entire legion of my best troops awaits them.
-emperor Oh I'm afraid the deflector shield will be quite operational when your friends arrive.
+the_emperor Everything that has transpired has done so according to my design.
+the_emperor Your friends up there on the sanctuary moon are walking into a trap, as is your rebel fleet.
+the_emperor It was I who allowed the Alliance to know the location of the shield generator.
+the_emperor It is quite safe from your pitiful little band.
+the_emperor An entire legion of my best troops awaits them.
+the_emperor Oh I'm afraid the deflector shield will be quite operational when your friends arrive.
 lando_calrissian All right, up!
 han_solo Move!
 han_solo Come on.
@@ -837,7 +837,7 @@ han_solo Wait!
 han_solo Wait!
 han_solo Come back!
 c3po R2, stay with me.
-scout_l#unknown#StarWars.Episode06 Freeze!
+biker_scout_pushed_off_bike Freeze!
 commander#unknown#StarWars.Episode06 You rebel scum.
 lando_calrissian All wings report in.
 gray_leader#unknown#StarWars.Episode06 Red Leader standing by.
@@ -862,20 +862,20 @@ lando_calrissian Accelerate to attack speed.
 lando_calrissian Draw their fire away from the cruisers.
 wedge Copy, Gold Leader.
 han_solo Come, boy.
-emperor See for yourself.
-emperor From here, you will witness the final destruction of the Alliance and the end of your insignificant rebellion.
-emperor You want this don't you?
-emperor The hate is swelling in you now.
-emperor Take yourJedi weapon.
-emperor Use it.
-emperor I am unarmed.
-emperor Strike me down with it.
-emperor Give in to your anger.
-emperor With each passing moment you make yourself more my servant.
+the_emperor See for yourself.
+the_emperor From here, you will witness the final destruction of the Alliance and the end of your insignificant rebellion.
+the_emperor You want this don't you?
+the_emperor The hate is swelling in you now.
+the_emperor Take yourJedi weapon.
+the_emperor Use it.
+the_emperor I am unarmed.
+the_emperor Strike me down with it.
+the_emperor Give in to your anger.
+the_emperor With each passing moment you make yourself more my servant.
 luke_skywalker No.
-emperor It is unavoidable.
+the_emperor It is unavoidable.
 luke_skywalker It is your destiny.
-emperor You, like your father are now mine.
+the_emperor You, like your father are now mine.
 lando_calrissian All right, move it!
 han_solo Come on.
 lando_calrissian Hello!
@@ -884,7 +884,7 @@ c3po Were you looking for me?
 bunker#unknown#StarWars.Episode06 Bring those two down here.
 c3po Well, they're on their way.
 c3po R2, are you sure this was a good idea?
-scout_l#unknown#StarWars.Episode06 Freeze!
+biker_scout_pushed_off_bike Freeze!
 han_solo Don't move!
 c3po We surrender.
 princess_leia The code's changed.
@@ -898,7 +898,7 @@ c3po This is no time for heroics!
 han_solo Come back!
 lando_calrissian Watch yourself, Wedge.
 lando_calrissian Three from above.
-red_two_ Got it.
+red_two Got it.
 red_three_ Three of them coming in, 20 degrees.
 wedge Cut to the left.
 han_solo I'll take the leader.
@@ -912,9 +912,9 @@ commander#unknown#StarWars.Episode06 We're not going to attack?
 admiral_piett I have my orders from the emperor himself.
 admiral_piett He has something special planned for them.
 admiral_piett We only need to keep them from escaping.
-emperor As you can see, my young apprentice your friends have failed.
-emperor Now witness the firepower of this fully armed and operational battle station.
-emperor Fire at will, Commander.
+the_emperor As you can see, my young apprentice your friends have failed.
+the_emperor Now witness the firepower of this fully armed and operational battle station.
+the_emperor Fire at will, Commander.
 moff_jerjerrod Fire.
 c3po Oh!
 lando_calrissian That blast came from the Death Star.
@@ -940,14 +940,14 @@ lando_calrissian We'll last longer than we will against that Death Star!
 lando_calrissian And we might just take a few of them with us.
 rebel_pilot She's going to blow!
 ywing_pilot I'm hit!
-emperor Your fleet is lost and your friends on the Endor moon will not survive.
-emperor There is no escape my young apprentice.
-emperor The Alliance will die as will your friends.
+the_emperor Your fleet is lost and your friends on the Endor moon will not survive.
+the_emperor There is no escape my young apprentice.
+the_emperor The Alliance will die as will your friends.
 han_solo Good.
 princess_leia I can feel your anger.
-emperor I am defenseless.
-emperor Take your weapon.
-emperor Strike me down with all of your hatred and your journey towards the dark side will be complete!
+the_emperor I am defenseless.
+the_emperor Take your weapon.
+the_emperor Strike me down with all of your hatred and your journey towards the dark side will be complete!
 han_solo Look!
 pilot_2#unknown#StarWars.Episode06 Get him off of there!
 han_solo I think I got it.
@@ -955,7 +955,7 @@ han_solo I got it!
 c3po Princess Leia, are you all right?
 luke_skywalker Let's see.
 han_solo It's not bad.
-scout_l#unknown#StarWars.Episode06 - Freeze!
+biker_scout_pushed_off_bike - Freeze!
 c3po - Oh, dear.
 han_solo Don't move!
 princess_leia I love you.
@@ -969,8 +969,8 @@ han_solo She's wounded!
 lando_calrissian No, wait!
 han_solo I got an idea.
 han_solo Good.
-emperor Use your aggressive feelings, boy.
-emperor Let the hate flow through you.
+the_emperor Use your aggressive feelings, boy.
+the_emperor Let the hate flow through you.
 darth_vader Obi-Wan has taught you well.
 luke_skywalker I will not fight you, Father.
 darth_vader You are unwise to lower your defenses.
@@ -986,9 +986,9 @@ lando_calrissian Squad at.06.
 wedge I'm on it, Gold Leader.
 wedge Good shot, Red 2.
 darth_vader It's over, Commander.
-han/PILOT#unknown#StarWars.Episode06 The rebels have been routed.
-han/PILOT#unknown#StarWars.Episode06 They're fleeing into the woods.
-han/PILOT#unknown#StarWars.Episode06 We need reinforcements to continue the pursuit.
+han_solo The rebels have been routed.
+han_solo They're fleeing into the woods.
+han_solo We need reinforcements to continue the pursuit.
 control_room_commander#unknown#StarWars.Episode06 Send three squads to help.
 control_room_commander#unknown#StarWars.Episode06 Open the back door.
 han_solo Throw me another charge.
@@ -1006,13 +1006,13 @@ darth_vader Now his failure is complete.
 darth_vader If you will not turn to the dark side then perhaps she will.
 luke_skywalker Never!
 han_solo Good!
-emperor Your hate has made you powerful.
-emperor Now fulfill your destiny and take your father's place at my side.
+the_emperor Your hate has made you powerful.
+the_emperor Now fulfill your destiny and take your father's place at my side.
 luke_skywalker Never.
 darth_vader I'll never turn to the dark side.
 luke_skywalker You've failed, Your Highness.
 luke_skywalker I am a Jedi like my father before me.
-emperor So be it Jedi.
+the_emperor So be it Jedi.
 han_solo Move!
 han_solo Move!
 lando_calrissian The shield is down!
@@ -1022,12 +1022,12 @@ lando_calrissian Red Group, Gold Group, all fighters follow me.
 jabba_the_hutt I told you they'd do it!
 darth_vader If you will not be turned you will be destroyed.
 han_solo Young fool.
-emperor Only now, at the end do you understand.
+the_emperor Only now, at the end do you understand.
 darth_vader Your feeble skills are no match for the power of the dark side.
-emperor You have paid the price for your lack of vision.
+the_emperor You have paid the price for your lack of vision.
 luke_skywalker Father, please!
 lando_calrissian Help me!
-emperor Now, young Skywalker you will die.
+the_emperor Now, young Skywalker you will die.
 han_solo I'm going in.
 lando_calrissian Here goes nothing.
 lando_calrissian Now lock onto the strongest power source.
@@ -1047,7 +1047,7 @@ admiral_piett I don't want anything to get through!
 admiral_piett Intensify forward firepower!
 han_solo Luke.
 darth_vader Help me take this mask off.
-lure#unknown#StarWars.Episode06 But you'll die.
+luke_skywalker But you'll die.
 darth_vader Nothing can stop that now.
 darth_vader Just for once let me look on you with my own eyes.
 anakin_skywalker Now go, my son.
@@ -1079,4 +1079,3 @@ han_solo Fine.
 han_solo When he comes back I won't get in the way.
 han_solo It's not like that at all.
 luke_skywalker He's my brother.
-
