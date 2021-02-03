@@ -2,19 +2,19 @@ lieutenant#unknown#StarWars.Episode02 Senator, we’re making our final approach
 the_emperor Very good, Lieutenant.
 captain_typho We made it. I guess I was wrong. There was no danger at all.
 padme Cordé!
-corde  My lady… So sorry… I’ve failed you Senator…
-padme  No…
+corde My lady… So sorry… I’ve failed you Senator…
+padme No…
 captain_typho My lady, we’re still in danger here.
 padme I shouldn’t have come back.
 captain_typho This vote is very important. You do your duty; Cordé did hers, now come.
 captain_typho Senator Amidala, Please.
-Chancellor the_emperor I don’t know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists.
+the_emperor the_emperor I don’t know how much longer I can hold off the vote, my friends. More and more star systems are joining the separatists.
 mace_windu If they do break away-
 the_emperor I will not let this republic that has stood for a thousand years be split in two. My negotiations will not fail.
 mace_windu If they do, you must realize that there aren’t enough Jedi to protect the Republic. We’re Keepers of the Peace, not soldiers.
 the_emperor Master Yoda- do you think it will really come to war?
-yoda  The Dark Side clouds everything. Impossible to see, the future is.
-hologram_alien#unknown#StarWars.Episode02  The Loyalist Committee has arrived, your Honor.
+yoda The Dark Side clouds everything. Impossible to see, the future is.
+hologram_alien#unknown#StarWars.Episode02 The Loyalist Committee has arrived, your Honor.
 the_emperor Good. Send them in.
 the_emperor We will discuss this matter later.
 yoda Senator Amidala… Your tragedy on the landing platform… terrible. Seeing you alive brings warm feelings to my heart.
@@ -35,14 +35,14 @@ padme Thank you, Master Windu.
 obiwan_kenobi You seem a little on edge.
 anakin_skywalker Not at all.
 obiwan_kenobi I haven’t felt you this tense since… since we fell into that nest of gundarks.
-anakin_skywalker  You fell into that nightmare, Master, and I rescued you. Remember?
-obiwan_kenobi Oh… yes.  You’re sweating. Relax. Take a deep breath.
+anakin_skywalker You fell into that nightmare, Master, and I rescued you. Remember?
+obiwan_kenobi Oh… yes. You’re sweating. Relax. Take a deep breath.
 anakin_skywalker I haven’t seen her in ten years, master.
 jar_jar_binks Obi? Obi! Mesa so smilin’ to seein’ yousa.
 obiwan_kenobi Good to see you again, Jar-Jar.
 jar_jar_binks Senator Padmé! Mesa palos here. Lookie, lookie, Senator. Desa Jedi arriven.
 obiwan_kenobi It’s a great pleasure to see you again milady.
-padme It has been far too long Master Kenobi.  Ani? My goodness, you’ve grown.
+padme It has been far too long Master Kenobi. Ani? My goodness, you’ve grown.
 anakin_skywalker So have you. Grown more beautiful, I mean. Well, for- for a senator, I mean.
 padme Ani, you’ll always be that little boy I knew on Tatooine.
 obiwan_kenobi Our presence here will be invisible, milady, I can assure you.
@@ -81,7 +81,7 @@ obiwan_kenobi Possibly.
 obiwan_kenobi You look tired.
 anakin_skywalker I don’t sleep well anymore.
 obiwan_kenobi Because of your mother?
-anakin_skywalker  I don’t know why I keep dreaming about her.
+anakin_skywalker I don’t know why I keep dreaming about her.
 obiwan_kenobi Dreams pass, in time.
 anakin_skywalker I’d much rather dream about Padmé. Just being around her is… intoxicating.
 obiwan_kenobi Your thoughts betray you, Anakin. You have made a commitment to the Jedi Order, a commitment not easily broken. And don’t forget, she’s a politician, and they’re not to be trusted.
@@ -92,7 +92,7 @@ anakin_skywalker And besides, you’re generalizing. The Chancellor doesn’t ap
 obiwan_kenobi Palpatine is a politician. I have observed that he is very clever in following the passions and the prejudices of senators.
 anakin_skywalker I think he is a good man. But-
 obiwan_kenobi I sense it, too!
-anakin_skywalker  Stay here!
+anakin_skywalker Stay here!
 dorme Are you all right, milady?
 alien_in_speeder#unknown#StarWars.Episode02 What the-?
 obiwan_kenobi What took you so long?
@@ -107,7 +107,7 @@ obiwan_kenobi You know I don’t like it when you do that!
 anakin_skywalker Sorry, Master. I forgot you don’t like flying.
 obiwan_kenobi I don’t mind flying, but what you’re doing is suicide!
 anakin_skywalker Ow- ow- ow- ow- ow…
-obiwan_kenobi Anakin! How many times have I told you to stay- away- from- power- couplings…!   That was good!
+obiwan_kenobi Anakin! How many times have I told you to stay- away- from- power- couplings…! That was good!
 obiwan_kenobi Where are you going? He went that way!
 anakin_skywalker Master, if we keep this chase going any longer that creep is gonna end up deep-fried. Personally, I’d like to know who he is and who he’s working for. This is a shortcut… I think.
 obiwan_kenobi Well, you’ve lost him.
@@ -132,19 +132,19 @@ anakin_skywalker I think that he is a she. And I think that she is a Changeling.
 obiwan_kenobi In that case be extra careful. Go and find her.
 anakin_skywalker Where are you going, Master?
 obiwan_kenobi For a drink.
-obiwan_kenobi  Thank you.
+obiwan_kenobi Thank you.
 stranger#unknown#StarWars.Episode02 You want to buy some death sticks?
 obiwan_kenobi You don’t want to sell me death sticks.
 stranger#unknown#StarWars.Episode02 Oh… uh… I don’t want to sell you death sticks.
 obiwan_kenobi You want to go home and rethink your life.
 stranger#unknown#StarWars.Episode02 I want to go home and… rethink my life…
-anakin_skywalker  Easy…  Jedi business. Go back to your drinks.
+anakin_skywalker Easy… Jedi business. Go back to your drinks.
 obiwan_kenobi Do you know who it was that you were tring to kill?
-zam_wesell  Mmph… It was a senator from Naboo.
+zam_wesell Mmph… It was a senator from Naboo.
 obiwan_kenobi And who hired you?
 zam_wesell It was just a job.
-anakin_skywalker  Who hired you? Tell us.   Tell us now!
-zam_wesell  It was a bounty hunter called-
+anakin_skywalker Who hired you? Tell us. Tell us now!
+zam_wesell It was a bounty hunter called-
 obiwan_kenobi A toxic dart…
 yoda Track down this bounty hunter, you must, Obi-Wan.
 mace_windu Most importantly, find out who he’s working for.
@@ -166,12 +166,12 @@ yoda The Council is confident in its decision, Obi-Wan.
 mace_windu The boy has exceptional skills.
 obiwan_kenobi But he still has much to learn, Master. His abilities have made him, well, arrogant.
 yoda Yes, yes. A flaw more and more common among
-Jedi. Hmm… Too sure of themselves, they are: even the older, more experienced ones.
+jedi Hmm… Too sure of themselves, they are: even the older, more experienced ones.
 mace_windu Remember, Obi-Wan: if the prophecy is true, your apprentice is the only one who can bring the force back into balance.
 padme I’m taking an extended leave of absence. It will your responsibility to take my place in the senate. Representative Binks, I know I can count on you.
 jar_jar_binks Mesa honored to be taking on disa heavy burden. Mesa accept dis wit moy moy humility and euh…
 padme Jar Jar- I don’t wish to hold you up. I’m sure you have a great deal of work to do.
-jar_jar_binks Of course… milady. 
+jar_jar_binks Of course… milady.
 padme I do not like this idea of hiding.
 anakin_skywalker Don't worry.
 anakin_skywalker Now that the council has ordered an investigation it won't take Master Obi-Wan long to find this bounty hunter.
@@ -201,15 +201,15 @@ anakin_skywalker Please don't look at me like that.
 anakin_skywalker Why not?
 padme It makes me feel uncomfortable.
 anakin_skywalker Sorry, milady.
-captain_raymus_antilles Be safe, milady.
+captain_raymus_antilles#unknown#StarWars.Episode02 Be safe, milady.
 padme Thank you, Captain.
 padme Take good care of Dorm.
 padme The threat's on you two now.
-dorme#unknown#StarWars.Episode02 He'll be safe with me.
+dorme He'll be safe with me.
 padme You'll be fine.
-dorme#unknown#StarWars.Episode02 It's not me, milady.
-dorme#unknown#StarWars.Episode02 I worry about you.
-dorme#unknown#StarWars.Episode02 What if they realize you've left the capital?
+dorme It's not me, milady.
+dorme I worry about you.
+dorme What if they realize you've left the capital?
 padme Well, then myJedi protector will have to prove how good he is.
 padme Anakin.
 obiwan_kenobi Don't do anything without first consulting either myself or the council.
@@ -227,12 +227,12 @@ anakin_skywalker I am too.
 anakin_skywalker Don't worry.
 padme We have R2 with us.
 obiwan_kenobi I do hope he doesn't try anything foolish.
-captain_raymus_antilles I'd be more concerned about her doing something than him.
+captain_raymus_antilles#unknown#StarWars.Episode02 I'd be more concerned about her doing something than him.
 c3po Someone to see ya, honey!
 dexter_jettster Obi-Wan!
 obiwan_kenobi Hello, Dex.
 dexter_jettster Take a seat.
-dorme#unknown#StarWars.Episode02 I'll be right with ya.
+dorme I'll be right with ya.
 hermione_bagwa_ You wanna cup o'jawa juice?
 madame_jocasta_nu Oh, yes.
 anakin_skywalker Thank you.
@@ -248,7 +248,7 @@ dexter_jettster What you got here is a Kamino saberdart.
 obiwan_kenobi I wonder why it didn't show up in the analysis archives.
 dexter_jettster It's these funny little cuts on the side that give it away.
 dexter_jettster Those analysis droids only focus on symbols.
-dexter_jettster I should think that you Jedi would have more respect for the difference between knowledge and 
+dexter_jettster I should think that you Jedi would have more respect for the difference between knowledge and
 obiwan_kenobi Well, if droids could think, there'd be none of us here, would there?
 madame_jocasta_nu Kamino.
 madame_jocasta_nu I'm not familiar with it.
@@ -341,14 +341,14 @@ queen_jamillia Perfect.
 queen_jamillia It's settled, then.
 mace_windu Our missing planet Kamino.
 count_dooku MasterJedi.
-taun_we The prime minister is expecting you.
+taun_we#unknown#StarWars.Episode02 The prime minister is expecting you.
 obiwan_kenobi I'm expected?
-taun_we Of course.
-taun_we He is anxious to meet you.
-taun_we After all these years we were beginning to think you weren't coming.
-taun_we Now, please, this way.
-taun_we May I present Lama Su prime minister of Kamino.
-taun_we And this is MasterJedi-Obi-Wan Kenobi.
+taun_we#unknown#StarWars.Episode02 Of course.
+taun_we#unknown#StarWars.Episode02 He is anxious to meet you.
+taun_we#unknown#StarWars.Episode02 After all these years we were beginning to think you weren't coming.
+taun_we#unknown#StarWars.Episode02 Now, please, this way.
+taun_we#unknown#StarWars.Episode02 May I present Lama Su prime minister of Kamino.
+taun_we#unknown#StarWars.Episode02 And this is MasterJedi-Obi-Wan Kenobi.
 lama_su I trust you're going to enjoy your stay.
 lama_su And now to business.
 lama_su You will be delighted to hear that we are on schedule.
@@ -358,7 +358,7 @@ padme I'm sorry.
 lama_su Master-Jedi Master Sifo-Dyas is still a leading member of theJedi Council is he not?
 anakin_skywalker Yes.
 obiwan_kenobi Tell me, Prime Minister when my master first contacted you about the army did-did he say who it was for?
-taun_we Of course he did.
+taun_we#unknown#StarWars.Episode02 Of course he did.
 obiwan_kenobi This army is for the Republic.
 lama_su But you must be anxious to inspect the units for yourself.
 padme That's why I'm here.
@@ -390,7 +390,7 @@ obiwan_kenobi ''Unaltered''?
 lama_su Pure genetic replication.
 lama_su No tampering with the structure to make it more docile and no growth acceleration.
 obiwan_kenobi I should very much like to meet this Jango Fett.
-taun_we I would be very happy to arrange it for you.
+taun_we#unknown#StarWars.Episode02 I would be very happy to arrange it for you.
 lama_su Magnificent, aren't they?
 anakin_skywalker I don't know.
 anakin_skywalker Sure you do.
@@ -420,7 +420,7 @@ padme Who's gonna make them?
 padme You?
 anakin_skywalker I don't know.
 anakin_skywalker Someone.
-taun_we Of course not me.
+taun_we#unknown#StarWars.Episode02 Of course not me.
 padme But someone.
 children#unknown#StarWars.Episode02 Someone wise.
 padme Sounds an awful lot like a dictatorship to me.
@@ -428,35 +428,35 @@ anakin_skywalker Well, if it works.
 padme You're making fun of me.
 padme No.
 anakin_skywalker I'd be much too frightened to tease a senator.
-taun_we Boba, is your father here?
-taun_we Boba, is your father here?
-taun_we May we see him?
+taun_we#unknown#StarWars.Episode02 Boba, is your father here?
+taun_we#unknown#StarWars.Episode02 Boba, is your father here?
+taun_we#unknown#StarWars.Episode02 May we see him?
 boba_fett Sure.
-taun_we Was your trip productive?
-jango_fett Fairly.
-taun_we This is Jedi Master Obi-Wan Kenobi.
-taun_we He's come to check on our progress.
+taun_we#unknown#StarWars.Episode02 Was your trip productive?
+jango_fett#unknown#StarWars.Episode02 Fairly.
+taun_we#unknown#StarWars.Episode02 This is Jedi Master Obi-Wan Kenobi.
+taun_we#unknown#StarWars.Episode02 He's come to check on our progress.
 obiwan_kenobi Your clones are very impressive.
 obiwan_kenobi You must be very proud.
-jango_fett I'm just a simple man trying to make my way in the universe.
+jango_fett#unknown#StarWars.Episode02 I'm just a simple man trying to make my way in the universe.
 obiwan_kenobi Ever made your way as far into the interior as Coruscant?
-jango_fett Once or twice.
+jango_fett#unknown#StarWars.Episode02 Once or twice.
 obiwan_kenobi Recently?
-jango_fett Possibly.
+jango_fett#unknown#StarWars.Episode02 Possibly.
 obiwan_kenobi Then you must know Master Sifo-Dyas.
-jango_fett Master who?
+jango_fett#unknown#StarWars.Episode02 Master who?
 obiwan_kenobi Sifo-Dyas.
 obiwan_kenobi Is he not theJedi who hired you for this job?
 anakin_skywalker Never heard of him.
 obiwan_kenobi Really?
-jango_fett I was recruited by a man called Tyranus on one of the moons of Bogden.
+jango_fett#unknown#StarWars.Episode02 I was recruited by a man called Tyranus on one of the moons of Bogden.
 obiwan_kenobi Curious.
-jango_fett Do you like your army?
+jango_fett#unknown#StarWars.Episode02 Do you like your army?
 anakin_skywalker I look forward to seeing them in action.
-jango_fett They'll do their job well.
-jango_fett I'll guarantee that.
+jango_fett#unknown#StarWars.Episode02 They'll do their job well.
+jango_fett#unknown#StarWars.Episode02 I'll guarantee that.
 obiwan_kenobi Thank you for your time,Jango.
-jango_fett Always a pleasure to meet a Jedi.
+jango_fett#unknown#StarWars.Episode02 Always a pleasure to meet a Jedi.
 boba_fett What is it, Dad?
 padme We're leaving.
 anakin_skywalker Thank you.
@@ -556,12 +556,12 @@ anakin_skywalker I'd like to know.
 obiwan_kenobi Absolutely!
 watto Let's go look at my records, huh?
 boba_fett Dad!
-jango_fett Hang on, son.
+jango_fett#unknown#StarWars.Episode02 Hang on, son.
 boba_fett Watch out!
 boba_fett Get him, Dad!
 boba_fett Get him!
 yoda We got him!
-jango_fett Well, we won't be seeing him again.
+jango_fett#unknown#StarWars.Episode02 Well, we won't be seeing him again.
 padme Stay with the ship, R2.
 lama_su Oh!
 c3po Oh, Master Ani!
@@ -652,7 +652,7 @@ padme He gave you strict orders to protect me and I'm going to help Obi-Wan.
 padme If you plan to protect me, you'll just have to come along.
 anakin_skywalker I'm not worried, R2.
 senator_bail_organa The Commerce Guilds are preparing for war.
-senator_palpatine Count Dooku must have made a treaty with them.
+senator_palpatine#unknown#StarWars.Episode02 Count Dooku must have made a treaty with them.
 senator_bail_organa Unfortunately, the debate is not over.
 senator_bail_organa The senate will never approve the use of clones before the separatists attack.
 padme This is a crisis.
@@ -666,10 +666,10 @@ anakin_skywalker I don't believe you.
 mace_windu I will never join you, Dooku.
 jar_jar_binks Senators, ''dellow felagates''.: In response to this direct threat to the Republic mesa propose that the senate give immediately emergency powers to the supreme chancellor.
 mas_amedda Order!
-senator_palpatine It is with great reluctance that I have agreed to this calling.
-senator_palpatine I love democracy.
+senator_palpatine#unknown#StarWars.Episode02 It is with great reluctance that I have agreed to this calling.
+senator_palpatine#unknown#StarWars.Episode02 I love democracy.
 obiwan_kenobi I love the Republic.
-senator_palpatine The power you give me I will lay down when this crisis has abated.
+senator_palpatine#unknown#StarWars.Episode02 The power you give me I will lay down when this crisis has abated.
 anakin_skywalker Don't worry.
 lama_su '' Oh!
 owen_lars Where are you going now?
@@ -700,8 +700,8 @@ anakin_skywalker I've got a bad feeling about this.
 anakin_skywalker What about Padm?
 anakin_skywalker She can't do that!
 anakin_skywalker Jump!
-nute_gunray This isn't how it's supposed to be!
-nute_gunray Finish her off!
+nute_gunray#unknown#StarWars.Episode02 This isn't how it's supposed to be!
+nute_gunray#unknown#StarWars.Episode02 Finish her off!
 padme .
 count_dooku Patience, Viceroy, patience.
 count_dooku She will die.
@@ -710,7 +710,7 @@ mace_windu This party's over.
 count_dooku Brave but, uh, foolish, my old Jedi friend.
 count_dooku You're impossibly outnumbered.
 padme I don't think so.
-jango_fett We'll see.
+jango_fett#unknown#StarWars.Episode02 We'll see.
 senator_bail_organa What's all this noise?
 lama_su Oh!
 anakin_skywalker What did I say?
@@ -763,14 +763,14 @@ anakin_skywalker Ahh!
 count_dooku But I would have thought you had learned your lesson.
 anakin_skywalker I am a slow learner.
 padme Anakin!
-jango_fett Master Yoda.
+jango_fett#unknown#StarWars.Episode02 Master Yoda.
 yoda Count Dooku.
 padme Anakin!
 anakin_skywalker The Force is with us, Master Sidious.
-darth_sidious#unknown#StarWars.Episode02 Welcome home, Lord Tyranus.
-darth_sidious#unknown#StarWars.Episode02 You have done well.
+the_emperor Welcome home, Lord Tyranus.
+the_emperor You have done well.
 count_dooku The war has begun.
-darth_sidious#unknown#StarWars.Episode02 Excellent.
+the_emperor Excellent.
 anakin_skywalker Everything is going as planned.
 anakin_skywalker I agree.
 mace_windu Where is your apprentice?
