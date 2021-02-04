@@ -28,6 +28,9 @@ Plumcot/data/*/forced-alignment/*.json
 Plumcot/data/*/serial_speakers/*.json
 Plumcot/data/*/forced-alignment-no_loc/*.json
 
+#stuff necessary for name normalization
+Plumcot/data/*/transcripts/*.temp
+
 #NFS
 .nfs*
 
