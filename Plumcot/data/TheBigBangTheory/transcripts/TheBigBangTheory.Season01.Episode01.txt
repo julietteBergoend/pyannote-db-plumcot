@@ -255,11 +255,11 @@ howard_wolowitz Oh, he speaks English, he just can't speak to women.
 penny Really, why?
 howard_wolowitz He's kind of a nerd. Juice box?
 leonard_hofstadter I'll do the talking.
-voice_from_buzzer#unknown#TheBigBangTheory.Season01.Episode01 Yeah.
+kurt Yeah.
 leonard_hofstadter Hi, I'm Leonard, this is Sheldon.
 sheldon_cooper Hello.
 leonard_hofstadter What did I just... Uh, we're here to pick up Penny's TV.
-voice#unknown#TheBigBangTheory.Season01.Episode01 Get lost.
+kurt Get lost.
 sheldon_cooper Okay, thanks for your time.
 leonard_hofstadter We're not going to give up just like that.
 sheldon_cooper Leonard, the TV is in the building, we've been denied access to the building, ergo we are done.
@@ -274,7 +274,7 @@ sheldon_cooper Good thinking, I'll just be the muscle.
 kurt Yeah?
 leonard_hofstadter I'm Leonard, this is Sheldon.
 sheldon_cooper From the intercom.
-man#unknown#TheBigBangTheory.Season01.Episode01 How the hell did you get in the building?
+kurt How the hell did you get in the building?
 leonard_hofstadter Oh. We're scientists.
 sheldon_cooper Tell him about our IQ.
 sheldon_cooper Leonard.

@@ -1,10 +1,10 @@
 howard_wolowitz Watch this, it's really cool. Call Leonard Hofstadter.
-howards_phone#unknown#TheBigBangTheory.Season01.Episode07 Did you say, call Helen Boxleitner?
+computer Did you say, call Helen Boxleitner?
 howard_wolowitz No. Call Leonard Hofstadter.
-howards_phone#unknown#TheBigBangTheory.Season01.Episode07 Did you say, call Temple Beth Sader.
+computer Did you say, call Temple Beth Sader.
 howard_wolowitz No.
 leonard_hofstadter Here, let me try. Call McFlono McFloonyloo. Heh-heh.
-howards_phone#unknown#TheBigBangTheory.Season01.Episode07 Calling Rajesh Koothrappali. .
+computer Calling Rajesh Koothrappali. .
 raj_koothrappali Oh, that's very impressive. And a little racist.
 sheldon_cooper If we're all through playing mock the flawed technology, can we get on with Halo night, we were supposed to start at eight, it is now 8.
 leonard_hofstadter So? We'll start now.
@@ -181,17 +181,17 @@ leonard_hofstadter So, we'll just order three entrees.
 sheldon_cooper Fine, what do you want to eliminate, and who gets the extra dumpling?
 raj_koothrappali We could cut it into thirds.
 sheldon_cooper Then it is no longer a dumpling, once you cut it open, it is at best a very small open faced sandwich.
-waiter#unknown#TheBigBangTheory.Season01.Episode07 Hi fellas. Oh, where's your annoying little friend who thinks he speaks Mandarin?
+chen Hi fellas. Oh, where's your annoying little friend who thinks he speaks Mandarin?
 sheldon_cooper He's putting his needs ahead of the collective good. Where he comes from, that's punishable by death.
-waiter#unknown#TheBigBangTheory.Season01.Episode07 I come from Sacramento.
+chen I come from Sacramento.
 leonard_hofstadter Can we get an order of dumplings, but with three instead of four.
-waiter#unknown#TheBigBangTheory.Season01.Episode07 No substitutions.
+chen No substitutions.
 leonard_hofstadter This isn't a substitution, it's a reduction.
-waiter#unknown#TheBigBangTheory.Season01.Episode07 Okay, no reductions.
+chen Okay, no reductions.
 leonard_hofstadter Fine, bring us three orders of dumplings, that's twelve, we'll each have four.
 raj_koothrappali That works.
 sheldon_cooper No, if we fill up on dumplings we'll need to eliminate another entree.
-waiter#unknown#TheBigBangTheory.Season01.Episode07 No eliminations.
+chen No eliminations.
 leonard_hofstadter If we have extra, we'll just take the leftovers home.
 sheldon_cooper And divide it how, I'm telling you, we cannot do this without Wolowitz.
 leonard_hofstadter Wolowitz is with his new girlfriend, if you had let me invite Penny, then you would have had your fourth.
@@ -202,9 +202,9 @@ raj_koothrappali Can we please make a decision, not only are there children star
 leonard_hofstadter Here's an idea, why don't we just go out for Indian food.
 sheldon_cooper No.
 raj_koothrappali Uurgh.
-waiter#unknown#TheBigBangTheory.Season01.Episode07 You are nice boys. Tell you what I'm going to do. I'm going to bring you the four dumplings. When I'm walking over to the table, maybe I get bumped, one of the dumplings falls to the floor, no-one has to know.
+chen You are nice boys. Tell you what I'm going to do. I'm going to bring you the four dumplings. When I'm walking over to the table, maybe I get bumped, one of the dumplings falls to the floor, no-one has to know.
 sheldon_cooper I'll know.
-waiter#unknown#TheBigBangTheory.Season01.Episode07
+chen
 raj_koothrappali How about soup?
 leonard_hofstadter Yeah, we can always divide soup.
 sheldon_cooper What about the won-tons?
