@@ -1,19 +1,19 @@
-not_available These are serious people , and they want you dead , today .
-not_available You air that allegation or anything remotely like it
-not_available This conversation's over , Maureen .
-not_available She claims that Keith murdered the boy who raped Nicole .
-not_available David , you can't seriously think that our son might be a killer ?
-not_available This guy is not waiting for me , so you better shoot me or help me , but decide now .
+aaron_pierce These are serious people , and they want you dead , today .
+president_david_palmer You air that allegation or anything remotely like it
+president_david_palmer This conversation's over , Maureen .
+president_david_palmer She claims that Keith murdered the boy who raped Nicole .
+sherry_palmer David , you can't seriously think that our son might be a killer ?
+jack_bauer This guy is not waiting for me , so you better shoot me or help me , but decide now .
 not_available Put down the gun .
 not_available Now ! l'm putting down the gun .
 not_available Now !
 not_available Now !
 not_available The gun's going down .
 not_available How do you know my name ?
-not_available Time's up .
-not_available l know more than that .
-not_available lf you ever wanna see your daughter again
-not_available What do you know about my daughter? !
+jack_bauer Time's up .
+jack_bauer l know more than that .
+greg_penticoff lf you ever wanna see your daughter again
+jack_bauer What do you know about my daughter ? !
 not_available Mom , come get us .
 not_available What's wrong ?
 not_available Are you at the party ?
@@ -22,10 +22,10 @@ not_available They made us say that .
 not_available Mom , you gotta come now !
 not_available Kim !
 not_available You're with me now .
-not_available Be good , you'll be back at the mall in a day or two .
-not_available Be bad , you won't .
+ira_gaines Be good , you'll be back at the mall in a day or two .
+ira_gaines Be bad , you won't .
 not_available Clear ?
-not_available Please tell me what happened .
+teri_bauer Please tell me what happened .
 not_available A girl was hit by a car .
 not_available Ma'am
 not_available , do you know where they took her ?
@@ -54,26 +54,26 @@ not_available Hello ?
 not_available Excuse me .
 not_available Hello ?
 not_available Excuse me .
-not_available There was a teenage girl in an accident .
+teri_bauer There was a teenage girl in an accident .
 not_available A teenage girl in a traffic accident .
 not_available l'll be right with you .
 not_available We just called .
-not_available There was a traffic accident .
+alan_york There was a traffic accident .
 not_available Certainly .
 not_available You have our fax number ?
 not_available Excuse me .
 not_available Thank you .
 not_available You're welcome .
-not_available Doctor , did you get the message about the heart seminar ?
+receptionist Doctor , did you get the message about the heart seminar ?
 not_available Yes , l did .
 not_available There was a car accident .
 not_available Sorry .
 not_available My shift starts at four .
-not_available l just got here .
+dr_kinnard l just got here .
 not_available Please help me .
-not_available A teenage girl , traffic accident .
+teri_bauer A teenage girl , traffic accident .
 not_available The name ?
-not_available Kimberly Bauer or Janet York .
+teri_bauer Kimberly Bauer or Janet York .
 not_available Baue r.
 not_available Yor k.
 not_available No name listed .
@@ -85,25 +85,25 @@ not_available Janet .
 not_available l'm sure you're gonna find Kim .
 not_available Hello .
 not_available Honey , it's me .
-not_available Jack , l've been trying to reach you .
+teri_bauer Jack , l've been trying to reach you .
 not_available Have you found Kim yet ?
 not_available No .
-not_available We're at St Mark's Hospital .
+teri_bauer We're at St Mark's Hospital .
 not_available Hospital ?
-not_available Kim's friend , Janet , was in a car accident .
+teri_bauer Kim's friend , Janet , was in a car accident .
 not_available And Kim ?
 not_available l don't know .
 not_available She tried to call me .
-not_available She was in a panic , like she was in trouble , and l tried to get her , but we were stopped by a cop Teri , Teri , Teri , calm down .
+teri_bauer She was in a panic , like she was in trouble , and l tried to get her , but we were stopped by a cop Teri , Teri , Teri , calm down .
 not_available l'm losing my mind .
 not_available l need you here .
 not_available l know , sweetheart .
-not_available l'm gonna get there as soon as l can .
-not_available Where was Kim when she called the second time ?
+jack_bauer l'm gonna get there as soon as l can .
+jack_bauer Where was Kim when she called the second time ?
 not_available l
 not_available l don't know .
-not_available She was uh North Hollywood .
-not_available lt sounded like she was being chased , and then when we got there , she was gone .
+teri_bauer She was uh North Hollywood .
+teri_bauer lt sounded like she was being chased , and then when we got there , she was gone .
 not_available Kim's friend , Janet .
 not_available Let me speak to her .
 not_available She's in surgery .
@@ -111,21 +111,21 @@ not_available Surgery ?
 not_available ls she gonna make it ?
 not_available l don't know .
 not_available Listen to me , Teri .
-not_available What l'm trying to do right now is to find Kim .
-not_available Stay where you are , and l will get there as soon as l can .
+jack_bauer What l'm trying to do right now is to find Kim .
+jack_bauer Stay where you are , and l will get there as soon as l can .
 not_available What do you mean ?
-not_available l've been trying to find Kim .
-not_available l've been out all night trying to find Kim .
-not_available Teri , l'm gonna explain it to you later , OK ?
-not_available You're gonna have to trust me .
+teri_bauer l've been trying to find Kim .
+teri_bauer l've been out all night trying to find Kim .
+jack_bauer Teri , l'm gonna explain it to you later , OK ?
+jack_bauer You're gonna have to trust me .
 not_available Teri ?
-not_available Honey , l love you .
-not_available l promise you , we're gonna get through this , OK ?
+jack_bauer Honey , l love you .
+jack_bauer l promise you , we're gonna get through this , OK ?
 not_available l
-not_available love you too , Jack .
-not_available l'll get back to you as soon as l know anything .
+teri_bauer love you too , Jack .
+jack_bauer l'll get back to you as soon as l know anything .
 not_available Yeah , she's here .
-not_available They say the other one's dead .
+ira_gaines They say the other one's dead .
 not_available Don't worry .
 not_available l will .
 not_available OK .
@@ -134,7 +134,7 @@ not_available Drive to the compound .
 not_available You'll get your money there .
 not_available No problem .
 not_available Use a different route .
-not_available l don't want us to look like a caravan .
+ira_gaines l don't want us to look like a caravan .
 not_available Right .
 not_available OK .
 not_available Let's just split .
@@ -146,19 +146,19 @@ not_available You're forgetting something .
 not_available Last month ?
 not_available Phoenix ?
 not_available You owe me .
-not_available So let's get the money , then split .
+dan_mounts So let's get the money , then split .
 not_available All right ?
 not_available Mm hm .
 not_available This is fine , Patty .
-not_available We'll finish it after the breakfast .
-not_available Still got a couple of hours to grab some sleep .
+president_david_palmer We'll finish it after the breakfast .
+president_david_palmer Still got a couple of hours to grab some sleep .
 not_available Only if you do .
 not_available l made mochas .
 not_available Hey .
-not_available l thought you were down .
+president_david_palmer l thought you were down .
 not_available l'm up .
 not_available l couldn't sleep .
-not_available The polls open in less than three hours Mr PresidentTo Be .
+nicole_palmer The polls open in less than three hours Mr PresidentTo Be .
 not_available Heavy on the caffeine for me .
 not_available Patty ?
 not_available Nothin' for me .
@@ -168,199 +168,200 @@ not_available No .
 not_available You look exhausted .
 not_available Go to bed .
 not_available That's an order .
-not_available All right .
-not_available Promise you'll wake me if you need anything ?
+patty_brooks All right .
+patty_brooks Promise you'll wake me if you need anything ?
 not_available Absolutely .
 not_available OK .
 not_available Night .
 not_available Good night .
 not_available David .
-not_available You won't say anything to Nicole about Keith , will you ?
-not_available We don't even know whether Maureen Kingsley's going to go forward with the story .
+sherry_palmer You won't say anything to Nicole about Keith , will you ?
+sherry_palmer We don't even know whether Maureen Kingsley's going to go forward with the story .
 not_available l have to , Sherry .
 not_available Why ?
-not_available Because the press is gonna get a hold of this , whether it's today , tomorrow or next week .
-not_available Nicole should be prepared .
-not_available l thought you said Carl would take care of it .
-not_available He'll do what he can , but l don't want her to suddenly hear something on the news .
+president_david_palmer Because the press is gonna get a hold of this , whether it's today , tomorrow or next week .
+president_david_palmer Nicole should be prepared .
+sherry_palmer l thought you said Carl would take care of it .
+president_david_palmer He'll do what he can , but l don't want her to suddenly hear something on the news .
 not_available She'd be devastated .
-not_available She's so happy right now , David .
-not_available We've gotta take it one step at a time .
+sherry_palmer She's so happy right now , David .
+sherry_palmer We've gotta take it one step at a time .
 not_available Dad , it's ready .
 not_available Dad , l've figured it all out .
-not_available Even if we lose Orange County , we're still gonna win .
-not_available lf we win Ventura by a ten per cent margin .
+nicole_palmer Even if we lose Orange County , we're still gonna win .
+president_david_palmer lf we win Ventura by a ten per cent margin .
 not_available No .
 not_available Even seven .
-not_available lt's all right there in last night's poll .
-not_available You make it look like there's nothing to worry about .
-not_available That's because there is nothing to worry about .
+nicole_palmer lt's all right there in last night's poll .
+president_david_palmer You make it look like there's nothing to worry about .
+nicole_palmer That's because there is nothing to worry about .
 not_available Mm .
-not_available Dad Nicole
+not_available Dad 
+not_available Nicole
 not_available No , go ahead .
 not_available No , no , no .
 not_available You first .
-not_available l talked to Suzy and Rachel Brenner .
+nicole_palmer l talked to Suzy and Rachel Brenner .
 not_available They're flying out .
-not_available l invited them to the victory party .
+nicole_palmer l invited them to the victory party .
 not_available My Lord .
-not_available l haven't seen them since you all were in high school .
+president_david_palmer l haven't seen them since you all were in high school .
 not_available Well , we're gonna see them tomorrow .
 not_available Actually , tonight .
 not_available Ah , that's great .
 not_available What were you gonna say ?
 not_available Nothin' .
-not_available CTU , this is Myers .
+nina_myers CTU , this is Myers .
 not_available Mason looking overyour shoulder ?
 not_available No .
-not_available He ended the lockdown as soon as he found out where you were .
+nina_myers He ended the lockdown as soon as he found out where you were .
 not_available Be careful .
 not_available He'll come after you .
 not_available l'm at the precinct .
-not_available They've got a ring around the suspect .
+jack_bauer They've got a ring around the suspect .
 not_available l need help .
-not_available Get Ryan Sealey over at District .
-not_available Say it's about Palmer and l need an override .
+jack_bauer Get Ryan Sealey over at District .
+jack_bauer Say it's about Palmer and l need an override .
 not_available OK .
 not_available l'll take care of it .
 not_available Damn it .
-not_available Tony , l'm still off the net .
-not_available l need a contact number for Ryan Sealey at District Two .
+nina_myers Tony , l'm still off the net .
+nina_myers l need a contact number for Ryan Sealey at District Two .
 not_available Sure .
 not_available You still pissed off about the lockdown ?
-not_available Jack's never gonna trust you again , and l'm not sure l will either .
-not_available You don't trust me , but you trust Jack ?
-not_available Come on , Nina .
-not_available He's been lying .
-not_available He's been hiding things from us .
-not_available lt may be OK for you , but it's not OK for me .
+nina_myers Jack's never gonna trust you again , and l'm not sure l will either .
+tony_almeida You don't trust me , but you trust Jack ?
+tony_almeida Come on , Nina .
+tony_almeida He's been lying .
+tony_almeida He's been hiding things from us .
+tony_almeida lt may be OK for you , but it's not OK for me .
 not_available Do you have the number ?
 not_available Thank you .
-not_available Sorry , but this guy killed a cop .
-not_available l won't interfere with booking protocol .
-not_available l told you you'll get a call from Ryan Sealey , our liaison to the PD's office .
-not_available Until then , you can have my badge , my gun , and l will not interfere .
-not_available But l need to see that man now .
+douglas_newman Sorry , but this guy killed a cop .
+douglas_newman l won't interfere with booking protocol .
+jack_bauer l told you you'll get a call from Ryan Sealey , our liaison to the PD's office .
+jack_bauer Until then , you can have my badge , my gun , and l will not interfere .
+jack_bauer But l need to see that man now .
 not_available What can l tell you ?
 not_available Fine .
 not_available Where's your lieutenant ?
 not_available He checked out .
 not_available Midnight .
-not_available But if he was here , he'd tell you the same thing .
-not_available Sergeant , the cop that was killed tonight , Officer Hampton .
-not_available Did you know her ?
-not_available l knew her .
-not_available l'm investigating a federal case .
+douglas_newman But if he was here , he'd tell you the same thing .
+jack_bauer Sergeant , the cop that was killed tonight , Officer Hampton .
+jack_bauer Did you know her ?
+douglas_newman l knew her .
+jack_bauer l'm investigating a federal case .
 not_available She was helping me .
-not_available Do you want her death to be in vain ?
-not_available Please forget about the damn chain of command .
-not_available l need to see this man now .
-not_available Just for a few minutes .
+jack_bauer Do you want her death to be in vain ?
+jack_bauer Please forget about the damn chain of command .
+jack_bauer l need to see this man now .
+jack_bauer Just for a few minutes .
 not_available Please .
 not_available Where's the suspect ?
-not_available Move him to room two .
+douglas_newman Move him to room two .
 not_available Thank you .
 not_available Follow me .
 not_available Hold it , Sergeant .
 not_available This man's under my authority .
 not_available We shouldn't have let him take her !
-not_available There's two of us , one of him , and we got a gun .
-not_available You don't wanna pull a piece on Mr Gaines .
+rick_allen There's two of us , one of him , and we got a gun .
+dan_mounts You don't wanna pull a piece on Mr Gaines .
 not_available No ?
 not_available Just on girls ?
-not_available lf you had the hots for her , then you should have done something .
+dan_mounts lf you had the hots for her , then you should have done something .
 not_available l
-not_available just don't want her to get hurt .
+rick_allen just don't want her to get hurt .
 not_available Get real , dude .
 not_available She saw our faces .
 not_available She saw his face .
 not_available She's not walking .
 not_available She never was .
-not_available You think he's gonna kill her ?
-not_available Maybe he already has .
+rick_allen You think he's gonna kill her ?
+dan_mounts Maybe he already has .
 not_available Rick .
 not_available Dude .
 not_available Come on .
-not_available lt's ten grand apiece .
+dan_mounts lt's ten grand apiece .
 not_available All right ?
-not_available We just wanna get paid and get going .
+dan_mounts We just wanna get paid and get going .
 not_available Forget Kimberly , man .
 not_available She's history .
-not_available Listen , till you can tell me what you were doing at Dunlop Plaza with Richard Walsh , l'm treating you as a prime suspect .
-not_available Why would l kill my only ally at the agency ?
+george_mason Listen , till you can tell me what you were doing at Dunlop Plaza with Richard Walsh , l'm treating you as a prime suspect .
+jack_bauer Why would l kill my only ally at the agency ?
 not_available You tell me .
-not_available Why'd you blow the whistle on your own agents , and try to blackmail me ?
-not_available Because you were with holding vital information .
-not_available l was following orders .
+george_mason Why'd you blow the whistle on your own agents , and try to blackmail me ?
+jack_bauer Because you were with holding vital information .
+george_mason l was following orders .
 not_available l realise
-not_available that's a concept you may be unfamiliar with , Jack , but it's something that some of us actually do take seriously .
-not_available Through there is a suspect who is connected with the people who want Palmer dead .
+george_mason that's a concept you may be unfamiliar with , Jack , but it's something that some of us actually do take seriously .
+jack_bauer Through there is a suspect who is connected with the people who want Palmer dead .
 not_available How do you know ?
-not_available Walsh and Baylor died because they got information that led me to him .
-not_available And if you interfere now and something happens to Palmer , you'll be seen as impeding this investigation cos of a grudge against me , so cut the crap .
-not_available How do you wanna play this ?
+jack_bauer Walsh and Baylor died because they got information that led me to him .
+jack_bauer And if you interfere now and something happens to Palmer , you'll be seen as impeding this investigation cos of a grudge against me , so cut the crap .
+jack_bauer How do you wanna play this ?
 not_available l'll talk to him myself .
-not_available Look , you're lucky l haven't already put you in cuffs .
+george_mason Look , you're lucky l haven't already put you in cuffs .
 not_available Just sit down .
 not_available Gaines .
 not_available Have you heard from him ?
 not_available No .
-not_available l'm gonna be calling him in about l've
+ira_gaines l'm gonna be calling him in about l've
 not_available got the girl
 not_available and we're on our way to the compound right now .
 not_available Gotta go .
-not_available Stop , please .
-not_available Listen , l don't have time for this , you understand ?
+ira_gaines Stop , please .
+ira_gaines Listen , l don't have time for this , you understand ?
 not_available Maureen , it's David Palmer .
 not_available Senator ?
 not_available l'm sorry to wake you .
-not_available Oh , no , no , that's OK .
+maureen_kingsley Oh , no , no , that's OK .
 not_available What's up ?
-not_available The matter you called about earlier .
+president_david_palmer The matter you called about earlier .
 not_available Mm hm .
 not_available We need to talk about it .
 not_available OK .
 not_available Um let's talk .
-not_available Since we're just a few floors apart , l was thinking maybe we could get together .
+president_david_palmer Since we're just a few floors apart , l was thinking maybe we could get together .
 not_available OK .
-not_available How about l meetyou in the lobby ?
+maureen_kingsley How about l meetyou in the lobby ?
 not_available No , no .
 not_available The lobby's too public .
-not_available The conference room on the third floor l'll have it opened .
-not_available ljust need about ten minutes to get dressed .
+president_david_palmer The conference room on the third floor l'll have it opened .
+maureen_kingsley ljust need about ten minutes to get dressed .
 not_available How does that sound ?
 not_available Yeah , that's good .
 not_available l'll see you in ten .
 not_available Thanks , Maureen .
 not_available Sure .
-not_available And those are the only places you know they were ?
+abbott And those are the only places you know they were ?
 not_available Yes .
-not_available What about this boy , uh , Dan , who works at the furniture store ?
-not_available We don't know anything about him , but the store owner's a Mr Nowrasteh .
+abbott What about this boy , uh , Dan , who works at the furniture store ?
+teri_bauer We don't know anything about him , but the store owner's a Mr Nowrasteh .
 not_available l have his number in here somewhere .
 not_available Here you are .
 not_available Excuse me .
 not_available Hello ?
-not_available Hey , it's me .
-not_available ls Janet out of surgery yet ?
+jack_bauer Hey , it's me .
+jack_bauer ls Janet out of surgery yet ?
 not_available Yeah .
 not_available The police showed up .
 not_available We're talking to them now .
 not_available Anything new ?
 not_available No .
 not_available How about you ?
-not_available l'm at the Van Nuys police station .
-not_available Someone here knows where the girls were tonight .
-not_available You mean one of the police officers ?
+jack_bauer l'm at the Van Nuys police station .
+jack_bauer Someone here knows where the girls were tonight .
+teri_bauer You mean one of the police officers ?
 not_available No .
-not_available They picked him up in North Hollywood .
-not_available l think he saw Kim .
+jack_bauer They picked him up in North Hollywood .
+jack_bauer l think he saw Kim .
 not_available Who ?
 not_available l don't know .
 not_available A man .
 not_available Well , what did he say ?
 not_available l'm waiting to talk to him .
-not_available You've gotta talk to Janet as soon as she gets out of surgery , OK ?
+jack_bauer You've gotta talk to Janet as soon as she gets out of surgery , OK ?
 not_available l know .
 not_available l know
 not_available , l know .
@@ -368,18 +369,18 @@ not_available l'll call you as soon as l can .
 not_available l gotta go .
 not_available Bye .
 not_available So what did he say ?
-not_available He says he won't talk to anybody except you .
-not_available So , can l go in ?
+george_mason He says he won't talk to anybody except you .
+jack_bauer So , can l go in ?
 not_available Yeah .
 not_available Thank you .
-not_available My colleague said you only wanted to speak to me .
+jack_bauer My colleague said you only wanted to speak to me .
 not_available Well , here l am .
 not_available And guess what ?
-not_available Right now , you're speaking to everyone .
-not_available What the hell is he doing ?
+jack_bauer Right now , you're speaking to everyone .
+george_mason What the hell is he doing ?
 not_available l thought we were going to talk alone .
 not_available You killed a cop .
-not_available What you need to do right now is start telling me the truth .
+jack_bauer What you need to do right now is start telling me the truth .
 not_available lt was self defence .
 not_available You were chasing me .
 not_available What's he saying ?
@@ -393,52 +394,52 @@ not_available l'll take him .
 not_available Come on .
 not_available l want my phone call .
 not_available You've got nothing !
-not_available l want my phone call , now !
+greg_penticoff l want my phone call , now !
 not_available Jack .
 not_available Great job .
 not_available He knows something .
-not_available So are you gonna beat it out of him ?
+george_mason So are you gonna beat it out of him ?
 not_available What's the plan , Jack ?
 not_available Hm ?
 not_available What's the plan ?
 not_available Take a walk .
 not_available Bauer .
 not_available ls this line safe ?
-not_available Tell me about my daughter .
+jack_bauer Tell me about my daughter .
 not_available Not till you get me out .
 not_available How do you know where she is ?
-not_available l heard some guys talking .
+greg_penticoff l heard some guys talking .
 not_available Guys l work with .
 not_available What guys ?
-not_available All you need to know is they have her .
-not_available They're gonna call me in 20 minutes .
+greg_penticoff All you need to know is they have her .
+greg_penticoff They're gonna call me in 20 minutes .
 not_available Where ?
-not_available Back where you first saw me .
+greg_penticoff Back where you first saw me .
 not_available San Fernando Road ?
 not_available Yeah .
-not_available But if l don't answer , they'll know something's wrong , so get me out .
-not_available l don't know if l can .
-not_available l'm the one chance you got to find her .
-not_available l'm not there for that call , the chance is over .
-not_available Better think of something fast .
+greg_penticoff But if l don't answer , they'll know something's wrong , so get me out .
+jack_bauer l don't know if l can .
+greg_penticoff l'm the one chance you got to find her .
+greg_penticoff l'm not there for that call , the chance is over .
+greg_penticoff Better think of something fast .
 not_available CTU .
 not_available This is Myers .
 not_available Hey .
 not_available lt's Jack .
-not_available The suspect's name is Penticoff .
-not_available He's expecting a call in 20 minutes at 18166 San Fernando Road .
-not_available l need you to trace all available public lines .
-not_available l see water lines , utilities , no phone lines .
+jack_bauer The suspect's name is Penticoff .
+jack_bauer He's expecting a call in 20 minutes at 18166 San Fernando Road .
+jack_bauer l need you to trace all available public lines .
+nina_myers l see water lines , utilities , no phone lines .
 not_available Keep looking .
-not_available He said he'd get the call there .
+jack_bauer He said he'd get the call there .
 not_available Wait .
-not_available There's a pay phone halfway down the block .
-not_available And it's in service .
+nina_myers There's a pay phone halfway down the block .
+nina_myers And it's in service .
 not_available Set up a trace .
-not_available There's not enough time for a warrant .
+nina_myers There's not enough time for a warrant .
 not_available Forget the warrant !
 not_available lf
-not_available they're expecting Penticoff , they'll hang up when they hear your voice .
+nina_myers they're expecting Penticoff , they'll hang up when they hear your voice .
 not_available They won't .
 not_available They'll hear Penticoff's .
 not_available Did Mason get him out ?
@@ -447,69 +448,69 @@ not_available So what are you planning ?
 not_available A jailbreak ?
 not_available Jack ?
 not_available Set up the trace .
-not_available Bauer's behaviour is far from representative of this agency's work .
-not_available Whether you like it or not , we have to be involved , because this is bigger than Hey .
-not_available Are you the officer that interviewed Penticoff ?
-not_available No , l just transferred him to a holding cell .
-not_available l still need to see him .
+george_mason Bauer's behaviour is far from representative of this agency's work .
+george_mason Whether you like it or not , we have to be involved , because this is bigger than Hey .
+jack_bauer Are you the officer that interviewed Penticoff ?
+philips No , l just transferred him to a holding cell .
+jack_bauer l still need to see him .
 not_available You Bauer from CTU ?
 not_available Yeah , that's right .
-not_available Look , the cop that he killed , she was my partner , you understand ?
-not_available l'm sorry .
-not_available l heard you went off on him before .
-not_available l want him to go down for it , which means a clean bust .
-not_available No more extracurricular activities .
+philips Look , the cop that he killed , she was my partner , you understand ?
+jack_bauer l'm sorry .
+philips l heard you went off on him before .
+philips l want him to go down for it , which means a clean bust .
+philips No more extracurricular activities .
 not_available Understood .
 not_available All right .
-not_available But l've got the access card .
-not_available Now , you can go in with me or you don't go in .
-not_available l'm fine with that .
-not_available Keep him away from me .
-not_available Just a few more questions .
-not_available No more questions without my lawyer .
+philips But l've got the access card .
+philips Now , you can go in with me or you don't go in .
+jack_bauer l'm fine with that .
+greg_penticoff Keep him away from me .
+philips Just a few more questions .
+greg_penticoff No more questions without my lawyer .
 not_available Who are you working for ?
 not_available Are you deaf ?
-not_available l said no questions without my lawyer .
-not_available Your lawyer can kiss my ass .
+greg_penticoff l said no questions without my lawyer .
+jack_bauer Your lawyer can kiss my ass .
 not_available Oh , yeah ?
 not_available Who do you work for ?
 not_available Hey , hey !
 not_available Back off !
-not_available Get your hands off of me .
+jack_bauer Get your hands off of me .
 not_available He killed my partner !
 not_available l know .
 not_available l was there .
 not_available Where were you ?
 not_available What ?
-not_available Where were you when your partner really needed you ?
+jack_bauer Where were you when your partner really needed you ?
 not_available Hey !
 not_available Get him outta here !
-not_available What the hell's the matter with you ?
+philips What the hell's the matter with you ?
 not_available He's crazy .
 not_available l'm filing charges .
-not_available You oughta get yourself under control , Bauer .
+douglas_newman You oughta get yourself under control , Bauer .
 not_available What's going on ?
 not_available l'll take care of it .
 not_available Paediatric resident to Labour and Delivery .
 not_available Paediatric resident to Labour and Delivery .
 not_available l'm sorry .
 not_available l
-not_available l didn't mean to wake you .
+alan_york l didn't mean to wake you .
 not_available l wasn't asleep .
-not_available l thought you might like some coffee .
+alan_york l thought you might like some coffee .
 not_available Thank you .
-not_available She'll turn up .
+alan_york She'll turn up .
 not_available How's Janet ?
-not_available Um They're relieving some pressure on her spine .
+alan_york Um They're relieving some pressure on her spine .
 not_available But she's gonna be OK .
-not_available At least , that's what they say .
-not_available Of course she will .
+alan_york At least , that's what they say .
+teri_bauer Of course she will .
 not_available Any news from Jack ?
 not_available No .
-not_available As far as l know , he's still out looking for Kim .
-not_available Well , that's good .
-not_available You said he has resources the police don't have , right ?
-not_available Even so , um l imagine you wish he were here .
+teri_bauer As far as l know , he's still out looking for Kim .
+alan_york Well , that's good .
+alan_york You said he has resources the police don't have , right ?
+alan_york Even so , um l imagine you wish he were here .
 not_available Hands out , please .
 not_available Turn around .
 not_available Oh , enough .
@@ -518,135 +519,134 @@ not_available lt's all right .
 not_available He's just doing his job .
 not_available Thank you .
 not_available Your lD , ma'am .
-not_available Would you excuse us ?
-not_available How long have we known each other , Maureen ?
+president_david_palmer Would you excuse us ?
+president_david_palmer How long have we known each other , Maureen ?
 not_available Come on , Senator .
 not_available That's not fair .
 not_available No , l'm just saying .
-not_available You , me , my family .
-not_available We made a journey together , from local politics to where we are now .
-not_available We helped each other along , because we cared about the same things .
-not_available l know that .
+president_david_palmer You , me , my family .
+president_david_palmer We made a journey together , from local politics to where we are now .
+president_david_palmer We helped each other along , because we cared about the same things .
+maureen_kingsley l know that .
 not_available Have l ever lied to you ?
 not_available No .
 not_available Embarrassed you ?
 not_available No .
 not_available Then why are you doing this ?
-not_available Senator , l wish to God that l didn't get this information .
-not_available But we're talking about murder .
+maureen_kingsley Senator , l wish to God that l didn't get this information .
+maureen_kingsley But we're talking about murder .
 not_available A rumour .
-not_available Started by my enemies , of whom , as you well know , l have many .
-not_available That's what l thought too , at first .
+president_david_palmer Started by my enemies , of whom , as you well know , l have many .
+maureen_kingsley That's what l thought too , at first .
 not_available But Please .
-not_available Go on .
-not_available You know l can't tell you my sources .
+president_david_palmer Go on .
+maureen_kingsley You know l can't tell you my sources .
 not_available Come on , Maureen .
 not_available We're not in court here .
-not_available l'm just an old friend , with a career and family that you just may destroy .
-not_available You owe me that much , at least .
+president_david_palmer l'm just an old friend , with a career and family that you just may destroy .
+president_david_palmer You owe me that much , at least .
 not_available OK .
 not_available Two sources .
-not_available One , a man named George Ferragamo .
-not_available He was your son's therapist for four years .
-not_available He came to me with the story .
-not_available And the second source ?
-not_available The boy who raped your daughter , then threw himself off the balcony Lyle Gibson ?
-not_available His autopsy showed that he had cuts and scratches that pointed to ''a violent struggle'' .
+maureen_kingsley One , a man named George Ferragamo .
+maureen_kingsley He was your son's therapist for four years .
+maureen_kingsley He came to me with the story .
+president_david_palmer And the second source ?
+maureen_kingsley The boy who raped your daughter , then threw himself off the balcony Lyle Gibson ?
+maureen_kingsley His autopsy showed that he had cuts and scratches that pointed to ''a violent struggle'' .
 not_available Nicole tried to fight him off .
-not_available Yes , that was the explanation .
-not_available But an hour later , an African American teenage boy went to an emergency room , one block away , with similar injuries .
-not_available The name here says Edward Johnson .
-not_available The handwriting where he filled out the form and signed his name ?
-not_available l had it analysed by an expert .
+maureen_kingsley Yes , that was the explanation .
+maureen_kingsley But an hour later , an African American teenage boy went to an emergency room , one block away , with similar injuries .
+president_david_palmer The name here says Edward Johnson .
+maureen_kingsley The handwriting where he filled out the form and signed his name ?
+maureen_kingsley l had it analysed by an expert .
 not_available lt's your son's .
-not_available l don't give a damn about your expert .
-not_available My son never killed anybody .
-not_available Senator , l would never You do what you have to do , Maureen .
-not_available Just be prepared to accept the consequences .
-not_available .<br>.<br
-not_available >truth in the rumour that the Pentagon wastefully dumped military supplies costing millions , perhaps billions , of taxpayer dollars in the years since the Vietnam War started .
-not_available The spokesman , who declined to be interviewed on camera , states only that ''in the hurly burly of war and the constant movement of perimeters and people , one must expect that there would be a certain amount of acceptable loss of supplies and armaments.<br>''
+president_david_palmer l don't give a damn about your expert .
+president_david_palmer My son never killed anybody .
+maureen_kingsley Senator , l would never You do what you have to do , Maureen .
+president_david_palmer Just be prepared to accept the consequences .
+maureen_kingsley truth in the rumour that the Pentagon wastefully dumped military supplies costing millions , perhaps billions , of taxpayer dollars in the years since the Vietnam War started .
+maureen_kingsley The spokesman , who declined to be interviewed on camera , states only that ''in the hurly burly of war and the constant movement of perimeters and people , one must expect that there would be a certain amount of acceptable loss of supplies and armaments.
 not_available Hey , Dad .
 not_available Somethin' wrong ?
-not_available l guess you'll have to tell me .
-not_available The night your sister was raped , did you have any contact with the boy who raped her ?
+president_david_palmer l guess you'll have to tell me .
+president_david_palmer The night your sister was raped , did you have any contact with the boy who raped her ?
 not_available What ?
 not_available You heard me .
 not_available l l don't believe this .
 not_available l mean
-not_available What brought this up all of a sudden ?
-not_available l mean , let's just leave that all in the past where it belongs .
-not_available l'd like to , believe me .
-not_available But , as it happens , l can't .
-not_available What did you do that night , after you found out that Nicole had been attacked ?
+keith_palmer What brought this up all of a sudden ?
+keith_palmer l mean , let's just leave that all in the past where it belongs .
+president_david_palmer l'd like to , believe me .
+president_david_palmer But , as it happens , l can't .
+president_david_palmer What did you do that night , after you found out that Nicole had been attacked ?
 not_available The truth , now .
-not_available All of it .
-not_available l don't think you have a right to ask me that .
-not_available You don't think l have the right ?
+keith_palmer All of it .
+keith_palmer l don't think you have a right to ask me that .
+president_david_palmer You don't think l have the right ?
 not_available No , l don't .
 not_available See , this thing happened .
-not_available Somebody had to deal with it .
-not_available But you were in Chicago givin' a speech , or New York
-not_available We'll deal with my shortcomings as a father later .
-not_available Now l wanna know what you did after you found out your sister had been raped .
+keith_palmer Somebody had to deal with it .
+keith_palmer But you were in Chicago givin' a speech , or New York
+president_david_palmer We'll deal with my shortcomings as a father later .
+president_david_palmer Now l wanna know what you did after you found out your sister had been raped .
 not_available And l told you .
 not_available l'm not gonna answer .
 not_available You will answer me !
-not_available l apologise about Bauer .
-not_available But l'd really appreciate it if we could handle this internally .
-not_available l got no problem with that .
-not_available Sergeant , excuse me , but if our federal colleagues are through with Penticoff , l'd like to process him into the system .
+george_mason l apologise about Bauer .
+george_mason But l'd really appreciate it if we could handle this internally .
+douglas_newman l got no problem with that .
+philips Sergeant , excuse me , but if our federal colleagues are through with Penticoff , l'd like to process him into the system .
 not_available Why are you here ?
 not_available l thought you left .
-not_available l'm not leaving till Penticoff is behind bars without bail .
-not_available The computer says you left five minutes ago .
+philips l'm not leaving till Penticoff is behind bars without bail .
+douglas_newman The computer says you left five minutes ago .
 not_available All right , guys , we're on the move .
 not_available Damn it !
-not_available l got this notice in the mail this afternoon .
-not_available Actually , it was yesterday afternoon .
-not_available Kimberly was failing algebra .
-not_available lt was the second notice .
-not_available She intercepted the first one and threw it away .
-not_available When she got home , l was so mad at her .
-not_available l guess l accused her , and l l said things to her l
-not_available shouldn't have said .
-not_available There isn't a parent in the world who hasn't been there .
-not_available Last night , when l told her good night , she wouldn't even acknowledge me .
-not_available l actually had the thought that l'd be l'd be so glad when she got out of the house .
-not_available When Janet wakes up , she'll know where Kim is
+teri_bauer l got this notice in the mail this afternoon .
+teri_bauer Actually , it was yesterday afternoon .
+teri_bauer Kimberly was failing algebra .
+teri_bauer lt was the second notice .
+teri_bauer She intercepted the first one and threw it away .
+teri_bauer When she got home , l was so mad at her .
+teri_bauer l guess l accused her , and l l said things to her l
+teri_bauer shouldn't have said .
+teri_bauer There isn't a parent in the world who hasn't been there .
+teri_bauer Last night , when l told her good night , she wouldn't even acknowledge me .
+teri_bauer l actually had the thought that l'd be l'd be so glad when she got out of the house .
+alan_york When Janet wakes up , she'll know where Kim is
 not_available and then we'll find her .
-not_available l just hope it'll be that easy .
+teri_bauer l just hope it'll be that easy .
 not_available lt will .
-not_available But why wasn't she with Janet ?
-not_available lt doesn't make any sense .
-not_available Maybe she got freaked out by the accident .
+teri_bauer But why wasn't she with Janet ?
+teri_bauer lt doesn't make any sense .
+alan_york Maybe she got freaked out by the accident .
 not_available We should've waited .
 not_available We should've waited .
 not_available No , no , no .
-not_available We were right to come here .
-not_available All we had to go on was the ambulance .
-not_available We had to follow up on it .
-not_available Listen , whatever happens , l'm gonna stay with you until we find Kim .
+alan_york We were right to come here .
+alan_york All we had to go on was the ambulance .
+alan_york We had to follow up on it .
+alan_york Listen , whatever happens , l'm gonna stay with you until we find Kim .
 not_available You have my promise .
 not_available Thank you .
-not_available Come on , Davis , we need that uplink .
-not_available He says we oughta have a picture by now .
-not_available W 7 satellite was in the southwest sector when Bauer helped Penticoff escape , so , with luck , we'll be able to pull up some visuals that'll help us pinpoint his location .
+george_mason Come on , Davis , we need that uplink .
+george_mason He says we oughta have a picture by now .
+george_mason W 7 satellite was in the southwest sector when Bauer helped Penticoff escape , so , with luck , we'll be able to pull up some visuals that'll help us pinpoint his location .
 not_available That's it .
 not_available Here we go .
 not_available All right .
-not_available Davis , the link's up .
-not_available Now l gotta get a back trace .
-not_available This is the roof of the building from 200 miles up .
-not_available About how long would you say since they got out ?
+george_mason Davis , the link's up .
+george_mason Now l gotta get a back trace .
+george_mason This is the roof of the building from 200 miles up .
+george_mason About how long would you say since they got out ?
 not_available l don't know .
 not_available Seven or eight minutes ?
 not_available OK .
 not_available Davis ?
-not_available l wanna go back ten minutes , and give me stills at 30 second intervals .
-not_available Look for two men exiting the building together .
-not_available As often minutes ago 30 There they are .
-not_available OK , you can speed it up .
+george_mason l wanna go back ten minutes , and give me stills at 30 second intervals .
+george_mason Look for two men exiting the building together .
+george_mason As often minutes ago 30 There they are .
+george_mason OK , you can speed it up .
 not_available All right .
 not_available Speeding up .
 not_available Slow it down now .
@@ -665,78 +665,78 @@ not_available l don't know .
 not_available They tell me what to do .
 not_available l do it , they pay me .
 not_available That's it .
-not_available lt's ringing .
+jack_bauer lt's ringing .
 not_available Yeah ?
 not_available l'm not showing anything .
 not_available Yeah ?
 not_available lt's a cellphone .
 not_available We're screwed .
 not_available l don't know the frequency .
-not_available l'll get back to you .
+jack_bauer l'll get back to you .
 not_available Jack ?
 not_available Yeah ?
 not_available lt's Gaines .
 not_available There's a change of plan .
-not_available Nothing you can't handle .
-not_available Taped to the back of the phone is a set of keys with a remote .
+ira_gaines Nothing you can't handle .
+ira_gaines Taped to the back of the phone is a set of keys with a remote .
 not_available Got 'em .
-not_available lt's for a parked car on Avenue 26 .
-not_available Nevada plates , 782NOF .
-not_available Find it with the remote .
-not_available There's a body in the trunk .
-not_available Get rid of it .
+ira_gaines lt's for a parked car on Avenue 26 .
+ira_gaines Nevada plates , 782NOF .
+ira_gaines Find it with the remote .
+ira_gaines There's a body in the trunk .
+ira_gaines Get rid of it .
 not_available What does he mean , body ?
 not_available l don't know .
-not_available Whose body is in the trunk ?
+jack_bauer Whose body is in the trunk ?
 not_available l don't know !
 not_available Walk in front of me .
 not_available Come on .
-not_available Kneel up against that wall and interlock your fingers behind your head .
+jack_bauer Kneel up against that wall and interlock your fingers behind your head .
 not_available Now .
 not_available Don't move .
-not_available Oh , my God .
+jack_bauer Oh , my God .
 not_available Hey , Jack .
-not_available Hey , we had a deal .
+greg_penticoff Hey , we had a deal .
 not_available Shut up .
-not_available Put him in the car .
+george_mason Put him in the car .
 not_available Hey !
 not_available Hey !
 not_available Bauer !
-not_available That's pretty quick work , George .
-not_available Trackin' me on a satellite ?
-not_available l'm takin' you in , Jack .
-not_available He had evidence on the Palmer hit .
-not_available That's why l broke him out .
+jack_bauer That's pretty quick work , George .
+jack_bauer Trackin' me on a satellite ?
+george_mason l'm takin' you in , Jack .
+jack_bauer He had evidence on the Palmer hit .
+jack_bauer That's why l broke him out .
 not_available So who was this ?
 not_available l don't know yet .
-not_available You're havin' quite a night here , aren't you , Jack ?
-not_available Why don't you tell me what the hell is going on here ?
-not_available Unless you want me to throw you back to the cops ?
+george_mason You're havin' quite a night here , aren't you , Jack ?
+george_mason Why don't you tell me what the hell is going on here ?
+george_mason Unless you want me to throw you back to the cops ?
 not_available They're ready for you .
-not_available There are people within the agency that are supporting the Palmer hit .
-not_available That's why Walsh and Baylor were killed .
+jack_bauer There are people within the agency that are supporting the Palmer hit .
+jack_bauer That's why Walsh and Baylor were killed .
 not_available They found out .
-not_available The truth is , l thought you were a part of it .
-not_available l apologise if l was wrong .
-not_available George , as crazy as this sounds , you're gonna have to trust me .
-not_available This is gonna look very bad for us if something happens to Palmer tonight .
+jack_bauer The truth is , l thought you were a part of it .
+jack_bauer l apologise if l was wrong .
+jack_bauer George , as crazy as this sounds , you're gonna have to trust me .
+jack_bauer This is gonna look very bad for us if something happens to Palmer tonight .
 not_available So what's next ?
-not_available l need to take the body down to CTU , and try and make an lD .
-not_available l'll go grill Penticoff , get what l can outta him .
-not_available We never had this conversation , right ?
+jack_bauer l need to take the body down to CTU , and try and make an lD .
+george_mason l'll go grill Penticoff , get what l can outta him .
+george_mason We never had this conversation , right ?
 not_available Right .
 not_available l'll be at District .
 not_available OK .
-not_available Call the precinct , tell 'em we've recovered Penticoff .
-not_available What have we got ?
+george_mason Call the precinct , tell 'em we've recovered Penticoff .
+nina_myers What have we got ?
 not_available Body .
 not_available Male .
 not_available Badly mutilated .
-not_available l need a positive lD now .
+jack_bauer l need a positive lD now .
 not_available Who's our best forensic ?
 not_available Perry Tanaka .
 not_available Get him .
-not_available l'll be there in ten minutes .
+jack_bauer l'll be there in ten minutes .
 not_available l'm on it .
 not_available OK .
 not_available Yes , Doctor .
@@ -744,38 +744,38 @@ not_available Clamp , please .
 not_available Hello ?
 not_available Hey .
 not_available lt's me .
-not_available Jack , did you find out anything ?
+teri_bauer Jack , did you find out anything ?
 not_available Maybe .
 not_available l'm not sure yet .
 not_available What have you been doing ?
-not_available l'll be there in 20 minutes .
+jack_bauer l'll be there in 20 minutes .
 not_available l'll explain then .
 not_available All right .
 not_available Janet out of surgery yet ?
 not_available No , not yet .
 not_available She should be soon .
 not_available Good .
-not_available lt's really important l talk to her .
-not_available l know it sounds cold , sweetheart , but she's our only link to Kimberly .
+jack_bauer lt's really important l talk to her .
+jack_bauer l know it sounds cold , sweetheart , but she's our only link to Kimberly .
 not_available Hang in there , honey .
 not_available l love you .
 not_available l'm on my way , OK ?
 not_available OK .
-not_available  Just be cool .
-not_available We'd like our money now , if that's like , you know , OK .
-not_available Well , just so we're , like , you know , clear what happened to the other girl ?
+not_available Just be cool .
+dan_mounts We'd like our money now , if that's like , you know , OK .
+ira_gaines Well , just so we're , like , you know , clear what happened to the other girl ?
 not_available Janet ?
 not_available lt's like l told you .
 not_available We had to kill her .
-not_available My people say someone fitting her description was taken to a hospital near to where you were .
-not_available How do you explain that ?
-not_available Well , the thing is Maybe , uh , she wasn't quite dead .
-not_available Well , l'll tell you , Dan , you're either dead or you're not dead .
-not_available There's no such thing as sorta dead .
+ira_gaines My people say someone fitting her description was taken to a hospital near to where you were .
+ira_gaines How do you explain that ?
+dan_mounts Well , the thing is Maybe , uh , she wasn't quite dead .
+ira_gaines Well , l'll tell you , Dan , you're either dead or you're not dead .
+ira_gaines There's no such thing as sorta dead .
 not_available Here .
-not_available Let me show you .
+ira_gaines Let me show you .
 not_available No !
-not_available You've just been promoted .
+ira_gaines You've just been promoted .
 not_available Congratulations .
 not_available We're losin' her .
 not_available We've lost pulse .

@@ -1,525 +1,656 @@
-
-not_available Kim got an email this morning from Janet York.
-not_available They might be out together.
-not_available You're going to the valley with Alan York? 
-not_available l'm starting to worry.
-not_available Can't you get here? l don't have time to explain.
-not_available Very bad things are happening.
-not_available Our daughter is missing.
-not_available That's pretty bad.
-not_available My dad is a government agent.
-not_available lf l'm not home in the next half
-not_available hour, he'll be all over this.
-not_available Time to call Mommy.
-not_available Go to hell! Call your mom! The firstAfrican
-not_available American with a shot at the White House.
-not_available Palmer has left the suite.
-not_available He is exposed.
-not_available We have a very high confidence that there will be an attempt on his life today.
-not_available A 747just blew up over the Mojave Desert.
-not_available You look just like Martin Belkin.
-not_available So when do l get the lD? 
-not_available Soon.
-not_available There may be an element inside the agency involved with the hit on Palmer.
-not_available Don't trust anybody.
-not_available l'm gonna go lD 'em.
-not_available Take this card.
-not_available Give it to Jamey.
-not_available She'll match it to a computer.
-not_available Find the computer, you've got the dirty agent.
-not_available l got a match on the card.
-not_available lt came from Nina's computer.
-not_available Authorisation? Bauer, 4393, CTU.
-not_available OK, we're on it.
-not_available Get back to me as soon as you get a match.
-not_available Bauer.
-not_available Jack, l talked to her.
-not_available Thank God.
-not_available What'd she say? 
-not_available She and Janet went to some party.
-not_available So are you gonna pick 'em up? 
-not_available l don't know where she is.
-not_available She wouldn't say.
-not_available What? Well, l don't know, maybe l'm being paranoid, but she sounded different.
-not_available l don't know.
-not_available She told me that she loved me before she hung up.
-not_available That's not Kim.
-not_available She knows she'll get grounded.
-not_available She's trying to reduce the sentence.
-not_available Yeah, you're probably right.
-not_available How are you? Are you OK? Yeah, yeah, l'm fine.
-not_available Look, is that guy York still with you? 
-not_available Yeah, he's gonna take me home now.
-not_available Shouldn't you wait by Janet's car? Who knows what shape the girls are gonna be in when they get back? Well, no.
-not_available Alan doesn't seem to think that's necessary.
-not_available Why don't you put Alan on the phone? 
-not_available Jack, don't do this.
-not_available Teri, just put him on the phone.
-not_available OK.
-not_available Alan, my husband would like to speak with you.
-not_available Hi, this is Alan.
-not_available Alan, Jack Bauer.
-not_available Can't thankyou enough for helping out with this.
-not_available l'm just glad the girls are with each other.
-not_available Me too.
-not_available Look, l'm stuck at work.
-not_available Yeah.
-not_available Teri said l would appreciate it if you would hang out at the store and wait for them to return.
-not_available Uh, l don't think they're gonna be back here for at least a couple of hours.
-not_available lt's a pretty rough neighbourhood and l'd hate for there to be a problem when they return.
-not_available Sure.
-not_available We'll stay.
-not_available Thank you.
-not_available Thank you.
-not_available You gotta be kidding me.
-not_available We had a deal, Mandy.
-not_available You promised to get Belkin's lD in exchange for $1 million.
-not_available Now she wants to double it? 
-not_available She doesn't know how this works.
-not_available No, this is your fault.
-not_available You should never have involved an amateur.
-not_available lf l'm such an amateur, how 
-not_available l'm just trying to get us more money.
-not_available There is no money.
-not_available Not any more.
-not_available lra, don't turn this into something else.
-not_available l will fix it.
-not_available What? No, we don't have it yet.
-not_available Yes.
-not_available No, of course.
-not_available l will get back to you as soon as we're ready.
-not_available Talk to her.
-not_available Explain what l do.
-not_available l will, but our deal stands.
-not_available Take care of it! l need to get out of here, my friend.
-not_available lt'll just be a little longer.
-not_available We've been getting death threats ever since my husband announced his candidacy.
-not_available What is different about this one? 
-not_available l'm not privy to that kind of information.
-not_available All l can tell you is that my unit is only called in when the threat becomes more serious.
-not_available Then why did you let him walk out on his own? We will find him, Mrs Palmer.
-not_available l, uh, l'm sorry.
-not_available We're grateful to have you here.
-not_available He's not in the lobby.
-not_available l looked everywhere.
-not_available You shouldn't leave the suites.
-not_available Let these men do their jobs.
-not_available There's a coffee shop a few blocks down.
-not_available l bet he wanted to be by himself.
-not_available l'll get him.
-not_available No, Keith.
-not_available You're not going anywhere.
-not_available Secret Service knows this city a lot better than we do.
-not_available l'll be right back.
-not_available l'm sorry, son.
-not_available We need you to stay here.
-not_available Why? We treat a threat on a candidate's life as a threat to the entire family.
-not_available We need to protect you as well.
-not_available Keith Your father's going to be fine.
-not_available Yeah? 
-not_available Gaines.
-not_available l need an update on the Bauer girl.
-not_available Everything's copa.
-not_available We're just waiting for you.
-not_available l'm running a little late.
-not_available We're not going anywhere.
-not_available That's right, you're not.
-not_available She's in a lot of pain, man.
-not_available l think you broke her arm.
-not_available Think so? Should we take her to the hospital and get some x
-not_available rays? Gaines is running late.
+teri_bauer Kim got an email this morning from Janet York .
+teri_bauer They might be out together .
+jack_bauer You're going to the valley with Alan York ?
+teri_bauer l'm starting to worry .
+teri_bauer Can't you get here ?
+jack_bauer l don't have time to explain .
+jack_bauer Very bad things are happening .
+not_available Our daughter is missing .
+not_available That's pretty bad .
+kim_bauer My dad is a government agent .
+kim_bauer lf l'm not home in the next half hour , he'll be all over this .
+not_available Time to call Mommy .
+not_available Go to hell !
+dan_mounts Call your mom !
+aaron_pierce The first African American with a shot at the White House .
+aaron_pierce Palmer has left the suite .
+aaron_pierce He is exposed .
+aaron_pierce We have a very high confidence that there will be an attempt on his life today .
+not_available A 747just blew up over the Mojave Desert .
+mandy You look just like Martin Belkin .
+ira_gaines So when do l get the lD ?
+not_available Soon .
+not_available There may be an element inside the agency involved with the hit on Palmer .
+not_available Don't trust anybody .
+not_available l'm gonna go
+not_available lD
+not_available 'em .
+not_available Take this card .
+not_available Give it to Jamey .
+not_available She'll match it to a computer .
+not_available Find the computer , you've got the dirty agent .
+nina_myers l got a match on the card .
+not_available lt came from Nina's computer .
+not_available Authorisation ?
+jack_bauer Bauer , 4393 , CTU .
+not_available OK , we're on it .
+jack_bauer Get back to me as soon as you get a match .
+not_available Bauer .
+teri_bauer Jack , l talked to her .
+not_available Thank God .
+not_available What'd she say ?
+teri_bauer She and Janet went to some party .
+jack_bauer So are you gonna pick 'em up ?
+not_available l don't know where she is .
+not_available She wouldn't say .
+not_available What ?
+teri_bauer Well , l don't know , maybe l'm being paranoid , but she sounded different .
+not_available l don't know .
+teri_bauer She told me that she loved me before she hung up .
+not_available That's not Kim .
+jack_bauer She knows she'll get grounded .
+jack_bauer She's trying to reduce the sentence .
+teri_bauer Yeah , you're probably right .
+not_available How are you ?
+teri_bauer Are you OK ?
+not_available Yeah ,
+not_available yeah , l'm fine .
+jack_bauer Look , is that guy York still with you ?
+teri_bauer Yeah , he's gonna take me home now .
+jack_bauer Shouldn't you wait by Janet's car ?
+jack_bauer Who knows what shape the girls are gonna be in when they get back ?
+not_available Well , no .
+teri_bauer Alan doesn't seem to think that's necessary .
+jack_bauer Why don't you put Alan on the phone ?
+not_available Jack , don't do this .
+jack_bauer Teri , just put him on the phone .
+not_available OK .
+teri_bauer Alan , my husband would like to speak with you .
+alan_york Hi , this is Alan .
+jack_bauer Alan , Jack Bauer .
+jack_bauer Can't thankyou enough for helping out with this .
+alan_york l'm just glad the girls are with each other .
+not_available Me too .
+not_available Look , l'm stuck at work .
+not_available Yeah .
+not_available Teri said l would appreciate it if you would hang out at the store and wait for them to return .
+alan_york Uh , l don't think they're gonna be back here for at least a couple of hours .
+jack_bauer lt's a pretty rough neighbourhood and l'd hate for there to be a problem when they return .
+not_available Sure .
+not_available We'll stay .
+not_available Thank you .
+not_available Thank you .
+not_available You gotta be kidding me .
+ira_gaines We had a deal , Mandy .
+ira_gaines You promised to get Belkin's lD in exchange for $1 million .
+ira_gaines Now she wants to double it ?
+mandy She doesn't know how this works .
+not_available No , this is your fault .
+ira_gaines You should never have involved an amateur .
+not_available lf l'm such an amateur
+mandy , how l'm just trying to get us more money .
+ira_gaines There is no money .
+not_available Not any more .
+mandy lra , don't turn this into something else .
+not_available l will fix it .
+not_available What ?
+ira_gaines No , we don't have it yet .
+not_available Yes .
+ira_gaines No , of course .
+ira_gaines l will get back to you as soon as we're ready .
+not_available Talk to her .
+ira_gaines Explain what l do .
+mandy l will , but our deal stands .
+not_available Take care of it !
+not_available l need to get out of here , my friend .
+not_available lt'll just be a little longer .
+sherry_palmer We've been getting death threats ever since my husband announced his candidacy .
+sherry_palmer What is different about this one ?
+aaron_pierce l'm not privy to that kind of information .
+aaron_pierce All l can tell you is that my unit is only called in when the threat becomes more serious .
+sherry_palmer Then why did you let him walk out on his own ?
+aaron_pierce We will find him , Mrs Palmer .
+not_available l , uh , l'm sorry .
+sherry_palmer We're grateful to have you here .
+not_available He's not in the lobby .
+not_available l looked everywhere .
+sherry_palmer You shouldn't leave the suites .
+sherry_palmer Let these men do their jobs .
+keith_palmer There's a coffee shop a few blocks down .
+not_available l bet he wanted to be by himself .
+not_available l'll get him .
+sherry_palmer No , Keith .
+not_available You're not going anywhere .
+sherry_palmer Secret Service knows this city a lot better than we do .
+not_available l'll be right back .
+aaron_pierce l'm sorry , son .
+aaron_pierce We need you to stay here .
+not_available Why ?
+aaron_pierce We treat a threat on a candidate's life as a threat to the entire family .
+aaron_pierce We need to protect you as well .
+not_available Keith
+sherry_palmer Your father's going to be fine .
+not_available Yeah ?
+not_available Gaines .
+not_available l need an update on the Bauer girl .
+not_available Everything's copa .
+dan_mounts We're just waiting for you .
+not_available l'm running a little late .
+not_available We're not going anywhere .
+not_available That's right , you're not .
+not_available She's in a lot of pain , man .
+not_available l think you broke her arm .
+not_available Think so ?
+dan_mounts Should we take her to the hospital and get some x rays ?
+not_available Gaines is running late .
 not_available l'm gonna smoke another j.
-not_available You want one? Sure.
-not_available My arm My arm Dan, please.
-not_available She needs to see a doctor.
-not_available At least give her something, man.
-not_available l'm not wasting my stash on her.
-not_available So, what, is Dan the boss and you do everything he says? Thought l told you Don't press me, man.
-not_available l should never have used you.
-not_available You're gonna give her that? Want me to take away the pain or not? Hey.
-not_available Hey, man, this is a private lot, homey.
-not_available You gotta pay to park here.
-not_available l see.
-not_available And you're the attendant? That's right.
-not_available And it's gonna cost you a hundred dollars.
-not_available So deal it up.
-not_available You that dude! Uh, Palmer.
-not_available No.
-not_available That's not me.
-not_available Yeah, it's you.
-not_available lt's him! Yo, this guy's running for president, dog.
-not_available l seen him on TV.
-not_available Yeah? Yeah, yeah.
-not_available Yeah.
-not_available So what you gonna do for me, Mr President? See, that's your problem.
-not_available You want everyone else to do the work.
-not_available What are you gonna do for yourselves? See, man? All y'all, y'all got the same rap.
-not_available Keep going like this and you'll be dead in five years.
-not_available Man, like you know my life.
-not_available More than you think.
-not_available Whoo! Yeah! Whoo! 
-not_available CTU.
-not_available Myers.
-not_available Hey, it's me.
-not_available Jack, where are you? 
-not_available About a block away.
-not_available l need you to print up a hard copy of Tony's passenger breakdown and put it on my desk.
-not_available Wait for me.
-not_available l wanna talk to you, but not in front of the others.
-not_available Sure.
-not_available Great.
-not_available l'll be there in a minute.
-not_available Bye.
-not_available Keep working.
-not_available Has Division responded to the two dead agents yet? 
-not_available Yeah, they're picking them up now.
-not_available Good.
-not_available Anyone we know? 
-not_available Someone we know.
-not_available l'm afraid it was Richard Walsh.
-not_available l'm sorry, Jamey, l know what he meant to you.
-not_available What is going on? ls this anything to do with Palmer? That's what we gotta find out.
-not_available Look, l don't have time to go into all the details, but l've got to put you in a difficult position.
-not_available You're the only person l can trust.
-not_available What do you mean? Walsh said we've got a problem on the inside.
-not_available He told me to talk only to you.
-not_available This is the key card l sent you.
-not_available On it is pertinent information to the hit on Palmer.
-not_available How long is it gonna take you to pull all the data off it? Depending on the kind of encryption, it could take hours.
-not_available Palmer's day starts at six.
-not_available l need it before then.
-not_available One more thing.
-not_available l need to be certain that it was Nina's computer that burnt that card.
-not_available Why? Because if it was, she's dirty.
-not_available l'll need a few minutes alone at her workstation.
-not_available Fine.
-not_available You got it.
-not_available Did you cut yourself? 
-not_available Yeah.
-not_available What are you working on? 
-not_available l gave Nina the passenger list.
-not_available l'm cross
-not_available checking everything else we've got.
-not_available Good.
-not_available l'll be down in a sec.
-not_available So why were you at Dunlop Plaza? 
-not_available l had a meeting with Walsh.
-not_available ls that the passenger list? 
-not_available Yes.
-not_available Anything unusual? There's one red flag.
-not_available A man in first class.
-not_available His information is inconsistent.
-not_available l'm trying to piece it together now.
-not_available Good.
-not_available l don't wanna tell you how to do your job, but not letting me know where you are, holding back information How can l help you without you letting me? Do you think that it's possible that someone from within the agency is behind the hit on Palmer? Anything's possible.
-not_available Do you have a lead? No.
-not_available Not really.
-not_available No.
-not_available Why do l feel like you're not telling me the truth? lf you've got something, tell me.
-not_available l'll work it up with you.
-not_available No, l'm l'm just thinking out loud.
-not_available OK.
-not_available Fine.
-not_available ls there anything else? No.
-not_available Actually, there is.
-not_available Are you seeing Tony? Why? ls it serious? What is this, Jack? What do you want to know? Am l over you? Why are we talking about this now? l'm trying to understand why he's been giving me such a hard time.
-not_available Yeah, well, l can't answer that for you.
-not_available Hold on.
-not_available Yeah? 
-not_available l confirmed it.
-not_available The file on the key card definitely came from Nina's computer.
-not_available OK.
-not_available Thank you.
-not_available lt's Division.
-not_available They want the passenger breakdown.
-not_available Please send it to them.
-not_available Sure.
-not_available By the way, your wife called.
-not_available Bauer.
-not_available This is Data Services.
-not_available You called in a thumbprint an hour ago? 
-not_available Yeah.
-not_available We checked every database we have.
-not_available Nothing.
-not_available Either this guy doesn't exist or his identity was wiped off the record.
-not_available Thank you.
-not_available This is gonna work out better for both of us.
-not_available l don't care, Bridgit.
-not_available Where is the lD? This is not some secret l'm keeping from you.
-not_available This is for both of us.
-not_available Do you wanna get both of us killed? 
-not_available They hired you to blow up a plane.
-not_available Another million dollars means nothing to these people.
-not_available You're wrong.
-not_available Money is the only thing ''these people'' care about.
-not_available Let's do it anyway.
-not_available You know he can't hurt us.
-not_available Baby Nobody can hurt us.
-not_available One million for you, one million for me.
-not_available Don't you like the way that sounds? OK.
-not_available We're gonna do this your way.
-not_available Great.
-not_available OK, let's tell him.
-not_available No.
-not_available lt'll be better if l do it myself.
-not_available You're always looking out for me.
-not_available What happened? 
-not_available Do you remember anything? Yeah.
-not_available We were at the furniture store dancing Where's Dan? Shh.
-not_available Dan broke your arm.
-not_available He didn't break my arm.
-not_available Dan likes me.
-not_available Yeah, look at it.
-not_available Ow My arm OK.
-not_available Come on.
-not_available Listen to me.
-not_available This is serious.
-not_available We're being kidnapped.
-not_available We need to escape.
-not_available Can you walk? 
-not_available l guess.
-not_available OK.
-not_available Come on.
-not_available Get ready.
-not_available When l say ''go'', we go.
-not_available Go where? Just stay with me, OK? You gotta understand this, OK? We could die if we don't get out of here.
-not_available Hold my hand.
-not_available Go.
-not_available Hey! Hey! No! Get back here! 
-not_available We gotta get them.
-not_available Hey! Catch them! l am! This is your fault! This is what l was talking about! Shut up! Get back here! 
-not_available We gotta get them.
-not_available They can not get away.
-not_available This is good work.
-not_available Keep me informed.
-not_available Thank you.
-not_available Certainly.
-not_available Thanks, Jack.
-not_available Shut the door.
-not_available Are we saying Nina's a traitor? 
-not_available Not yet.
-not_available We need to know more.
-not_available Should l shut down her confidential access? No, that'll slow everything down.
-not_available There's gotta be some kind of explanation for this.
-not_available Right now what l really need is the data off that card.
-not_available But aren't we obligated to seal off her channels with this much evidence? Look, you were seeing her, weren't you? 
-not_available That is none of your business.
-not_available l think in this case it is.
-not_available Yes.
-not_available When my wife and l were separated, yes, l was seeing Nina.
-not_available Did you say anything you shouldn't have? 
-not_available No.
-not_available l don't think so.
-not_available l trusted her with everything that was coming through here, but 
-not_available Fine.
-not_available Shut down her access.
-not_available OK.
-not_available What's she working on? 
-not_available 747 passenger list.
-not_available Good.
-not_available That's not on a secure socket.
-not_available l can do it without her knowing.
-not_available Good.
-not_available Jamey? 
-not_available Don't worry, l won't say anything.
-not_available Thank you.
-not_available Gotta get them.
-not_available Hey, get outta here.
-not_available Where'd they go? 
-not_available Ah, forget it.
-not_available Aw, come on, man.
-not_available Come on.
-not_available Don't.
-not_available Hey, come back! Scumbag.
-not_available You just cost me 50 bucks! You're gonna pay for this.
-not_available Word up.
-not_available Did you see two girls run past here? 
-not_available Yeah, l seen 'em.
-not_available Which way did they go? Who are they? Did you see 'em or not? 
-not_available They went down Central.
-not_available Check it out.
-not_available l'll look around here.
-not_available Yeah? 
-not_available lt's Gaines.
-not_available How's it going? 
-not_available Everything's fine.
-not_available Change of plan.
-not_available We meet at a new location.
-not_available Just let me know.
-not_available l'll meet you there.
-not_available We need to get to a phone.
-not_available No, you need to pay up.
-not_available ls this real? Thank you very much.
-not_available What couldn't wait till morning? 
-not_available Maureen Kingsley called.
-not_available Said she had some new information.
-not_available David, you got me out of bed at 2am.
-not_available What did she say? She said the Gibson boy, the one who raped Nicole, didn't commit suicide.
-not_available That he was thrown out of the window.
-not_available So, he was thrown out of a window.
-not_available Who cares? She said it was Keith! She's gonna publicly accuse my son of murder.
-not_available OK, there's a couple of ways to handle this.
-not_available lt's a lie, Carl.
-not_available lt's dirty politics and l won't stand for it.
-not_available My family lived through that nightmare and l won't put Nicole through it again.
-not_available And Keith? Keith couldn't 
-not_available This bastard, Hodges, he waits till the day of the primary so you can't respond.
-not_available l don't care what day it is.
-not_available lt's a lie 
-not_available l know.
-not_available But we can't pretend today isn't important.
-not_available l'll put a lid on Kingsley until the polls close.
-not_available We win the primary then take it from there.
-not_available No.
-not_available We find the source, make them recant.
-not_available Oh, l'll figure out where this is coming from and l'll cut it off, but, David We go back years.
-not_available You have your principles, you don't compromise, blah blah blah.
-not_available That's why l love you.
-not_available But you knew the gloves would come off.
-not_available Well, they are off.
-not_available That's why you have me.
-not_available Go back and forget about this.
-not_available l'm on it.
-not_available l can't let them throw my son to the wolves.
-not_available David, l'll take care of it.
-not_available ls that you? 
-not_available Yeah.
-not_available You better get lost.
-not_available Call you in an hour.
-not_available lt's OK, fellas.
-not_available l'm fine.
-not_available Dammit.
-not_available Janet, let's go back to the front and wait for them to leave.
-not_available They're not on Central.
-not_available Keep looking.
-not_available We gotta find 'em.
-not_available OK, l'll take the side streets.
-not_available They're around here somewhere.
-not_available Gaines just called me.
-not_available We gotta find them! 
-not_available You're in my space.
-not_available l'm sorry.
-not_available We'll leave.
-not_available ls there a phone around here? 
-not_available No.
-not_available What are you looking for? You wanna score some dope? We need to get rid of those guys.
-not_available ls there any way you can help us get to a phone? You want me to help you? What are your little designer jeans worth? 500 bills? And those kicks, like another, what, 25? You wanna trade places with me for a while? Wanna turn some tricks while l go snuggle with your daddy in the Hollywood foothills? Go away.
-not_available We've been kidnapped.
-not_available l don't know Her arm is broken.
-not_available Those guys are still out there.
-not_available Welcome to the neighbourhood.
-not_available Well, is there any other way out besides the front door? But if we just 
-not_available ''But'' nothing.
-not_available Get out! Go! How long have you been playing me? Playing you? 
-not_available Playing me.
-not_available What are you doing? Why don't you tell me about this? 
-not_available Tell you what? You loaded this card with intel on the hit on Palmer.
-not_available l wanna know who you work for and who you smuggled this card to.
-not_available You're delirious.
-not_available Who are you working for? 
-not_available l work for you.
-not_available Who are you working for? Who are you working for?! 
-not_available l work for you! Whoever programmed this card is involved with the hit on Palmer.
-not_available This came from your computer.
-not_available l don't care where it came from, l didn't do it.
-not_available And l can't believe that you think l did.
-not_available There it is.
-not_available One million in your account in addition to what we already agreed on.
-not_available Where's the lD? Let's get it.
-not_available No, just the three of us.
-not_available And why do l trust you? Because you want the lD.
-not_available l'm gonna miss you, Mandy.
-not_available How's your arm? 
-not_available lt's OK if l don't move it.
-not_available Then don't move it.
-not_available l know you're in here.
-not_available l can smell your perfume.
-not_available Where are you? This is starting to piss me off! He's gonna be ready.
-not_available Hey, l'm telling you, you know, l saw him work out yesterday.
-not_available He looked good.
-not_available He's gonna be ready.
-not_available Excuse me.
-not_available Let me call you back.
-not_available You looking for something? 
-not_available Please, help us.
-not_available These guys are after us.
-not_available What guys? 
-not_available l'll pay whatever you want.
-not_available Just get us out of here.
-not_available Let's see the money.
-not_available l don't have it on me right now.
-not_available But when you get us home, my parents will pay whatever you want.
-not_available Sorry, l run a cashup
-not_available front business.
-not_available What's your name, sweetheart? 
-not_available Janet.
-not_available Look, can we just use your phone at least? Please? Come here! Go! Take the phone and run! Go! Go! Go! Go! Run! 
-not_available lt's cool, man.
-not_available lt's cool.
-not_available Run! ls this right? What? 
-not_available They just posted a memorandum.
-not_available Richard Walsh is dead.
-not_available That can't be.
-not_available l mean, he was just here an hour ago.
-not_available That's what it says.
-not_available Oh, my God.
-not_available Can you find out what happened? Jack's got me working on something.
-not_available Can you open up a socket on the terminal? l'll check it myself.
-not_available Sure.
-not_available Thanks.
-not_available Farrell.
-not_available l need you up here now.
-not_available Do you have it yet? 
-not_available Almost.
-not_available Another couple of minutes.
-not_available Soon as you're done, come up.
-not_available Thank you.
-not_available That job this summer 
-not_available you in? Yes.
-not_available OK, Jonathan, you're done.
-not_available You had no choice.
-not_available The key card was definitely programmed on Nina's computer.
-not_available Login time was 10.<br>14pm.
-not_available Looks like the next 20 minutes were spent gathering data, and then another seven to burn it into the key card.
-not_available Logout was 10.<br>41, January 14.
-not_available lt specifies which files were accessed.
-not_available lf you want details, there are two screens of Wait a sec.
-not_available What was the date? 
-not_available January 14, a couple of months ago.
-not_available Second weekend in January, Jack.
-not_available That's all l got.
-not_available Thank you, Jamey, that's all l need right now.
-not_available That was the same weekend that we were in Santa Barbara together.
-not_available So someone from this office has hacked your login code.
-not_available They're in your system.
-not_available You were way off on this one, Jack.
-not_available l'm sorry How could you? 
-not_available Division.
-not_available lt's Tony Almeida at CTU.
-not_available Look, you'd better get down here right away.
-not_available Jack Bauer needs to be relieved of his command.
-not_available Hello? 
-not_available Mom, you gotta come get us.
-not_available What's wrong? Are you at the party? 
-not_available There was no party.
-not_available They made us say that.
-not_available Who? 
-not_available These guys.
-not_available We're in North Hollywood.
-not_available Behind 
-not_available Platt's Auto Body.
-not_available Platt's Auto Body.
-not_available They're coming! Mom, you gotta come now! Kim! Kim! What's going on? Teri? 
-not_available 911 emergency.
-not_available My daughter's in trouble.
-not_available She's in North Hollywood behind Platt's Auto Body.
-not_available Someone was chasing her.
-not_available Come on, Kim.
-not_available No No No! No, look at me.
-not_available No! l told you to chill! Why didn't you listen? Let go of me! No! Shut up! No! What about her? 
-not_available Forget her.
-not_available Let's go.
-not_available Come on! 
-not_available No! No! Come on.
-not_available Let's keep moving.
-not_available Shut up! 
+not_available You want one ?
+not_available Sure .
+not_available My arm My arm Dan , please .
+kim_bauer She needs to see a doctor .
+rick_allen At least give her something , man .
+dan_mounts l'm not wasting my stash on her .
+kim_bauer So , what , is Dan the boss and you do everything he says ?
+not_available Thought
+not_available l told you Don't press me , man .
+not_available l should never have used you .
+not_available You're gonna give her that ?
+rick_allen Want me to take away the pain or not ?
+not_available Hey .
+not_available Hey , man , this is a private lot , homey .
+not_available You gotta pay to park here .
+president_david_palmer l see .
+president_david_palmer And you're the attendant ?
+not_available That's right .
+not_available And it's gonna cost you a hundred dollars .
+not_available So deal it up .
+not_available You that dude !
+not_available Uh , Palmer .
+not_available No .
+not_available That's not me .
+not_available Yeah , it's you .
+not_available lt's him !
+not_available Yo , this guy's running for president , dog .
+not_available l seen him on TV .
+not_available Yeah ?
+not_available Yeah ,
+not_available yeah .
+not_available Yeah .
+not_available So what you gonna do for me , Mr President ?
+not_available See , that's your problem .
+president_david_palmer You want everyone else to do the work .
+not_available What are you gonna do for yourselves ?
+not_available See , man ?
+not_available All y'all , y'all got the same rap .
+president_david_palmer Keep going like this and you'll be dead in five years .
+not_available Man , like you know my life .
+not_available More than you think .
+not_available Whoo !
+not_available Yeah !
+not_available Whoo ! CTU .
+not_available Myers .
+not_available Hey , it's me .
+teri_bauer Jack , where are you ?
+not_available About a block away .
+jack_bauer l need you to print up a hard copy of Tony's passenger breakdown and put it on my desk .
+not_available Wait for me .
+jack_bauer l wanna talk to you , but not in front of the others .
+not_available Sure .
+not_available Great .
+not_available l'll be there in a minute .
+not_available Bye .
+not_available Keep working .
+jack_bauer Has Division responded to the two dead agents yet ?
+jamey_farrell Yeah , they're picking them up now .
+not_available Good .
+jamey_farrell Anyone we know ?
+not_available Someone we know .
+jack_bauer l'm afraid it was Richard Walsh .
+jack_bauer l'm sorry , Jamey ,
+jack_bauer l know what he meant to you .
+not_available What is going on ?
+jamey_farrell ls this anything to do with Palmer ?
+jack_bauer That's what we gotta find out .
+jack_bauer Look , l don't have time to go into all the details , but l've got to put you in a difficult position .
+jack_bauer You're the only person l can trust .
+not_available What do you mean ?
+jack_bauer Walsh said we've got a problem on the inside .
+jack_bauer He told me to talk only to you .
+jack_bauer This is the key card l sent you .
+jack_bauer On it is pertinent information to the hit on Palmer .
+jack_bauer How long is it gonna take you to pull all the data off it ?
+jamey_farrell Depending on the kind of encryption , it could take hours .
+jack_bauer Palmer's day starts at six .
+not_available l need it before then .
+not_available One more thing .
+jack_bauer l need to be certain that it was Nina's computer that burnt that card .
+not_available Why ?
+not_available Because if it was , she's dirty .
+jamey_farrell l'll need a few minutes alone at her workstation .
+not_available Fine .
+not_available You got it .
+not_available Did you cut yourself ?
+not_available Yeah .
+not_available What are you working on ?
+tony_almeida l gave Nina the passenger list .
+tony_almeida l'm cross checking everything else we've got .
+not_available Good .
+not_available l'll be down in a sec .
+nina_myers So why were you at Dunlop Plaza ?
+jack_bauer l had a meeting with Walsh .
+not_available ls that
+not_available the passenger list ?
+not_available Yes .
+not_available Anything unusual ?
+not_available There's one red flag .
+nina_myers A man in first class .
+nina_myers His information is inconsistent .
+nina_myers l'm trying to piece it together now .
+not_available Good .
+not_available l
+nina_myers don't wanna tell you how to do your job , but not letting me know where you are , holding back information
+nina_myers How can l help you without you letting me ?
+jack_bauer Do you think that it's possible that someone from within the agency is behind the hit on Palmer ?
+not_available Anything's possible .
+nina_myers Do you have a lead ?
+not_available No .
+not_available Not really .
+not_available No .
+nina_myers Why do l feel like you're not telling me the truth ?
+nina_myers lf you've got something , tell me .
+not_available l'll work it up with you .
+not_available No , l'm l'm just thinking out loud .
+not_available OK .
+not_available Fine .
+not_available ls there anything else ?
+not_available No .
+not_available Actually , there is .
+not_available Are you seeing Tony ?
+not_available Why ?
+not_available ls it serious ?
+not_available What is this , Jack ?
+not_available What do you want to know ?
+not_available Am l over you ?
+nina_myers Why are we talking about this now ?
+jack_bauer l'm trying to understand why he's been giving me such a hard time .
+nina_myers Yeah , well , l can't answer that for you .
+not_available Hold on .
+not_available Yeah ?
+not_available l confirmed it .
+jamey_farrell The file on the key card definitely came from Nina's computer .
+not_available OK .
+not_available Thank you .
+not_available lt's Division .
+jack_bauer They want the passenger breakdown .
+not_available Please send it to them .
+not_available Sure .
+not_available By the way , your wife called .
+not_available Bauer .
+ctu_staffer This is Data Services .
+ctu_staffer You called in a thumbprint an hour ago ?
+not_available Yeah .
+ctu_staffer We checked every database we have .
+not_available Nothing .
+ctu_staffer Either this guy doesn't exist or his identity was wiped off the record .
+not_available Thank you .
+mandy This is gonna work out better for both of us .
+not_available l don't care , Bridgit .
+bridget Where is the lD ?
+bridget This is not some secret l'm keeping from you .
+bridget This is for both of us .
+not_available Do you wanna
+not_available get both of us killed ?
+bridget They hired you to blow up a plane .
+bridget Another million dollars means nothing to these people .
+not_available You're wrong .
+mandy Money is the only thing ''these people'' care about .
+not_available Let's do it anyway .
+not_available You know he can't hurt us .
+not_available Baby Nobody can hurt us .
+bridget One million for you , one million for me .
+not_available Don't you like the way that sounds ?
+not_available OK .
+not_available We're gonna do this your way .
+not_available Great .
+not_available OK , let's tell him .
+not_available No .
+not_available lt'll be better if l do it myself .
+not_available You're always looking out for me .
+not_available What happened ?
+not_available Do you remember anything ?
+not_available Yeah .
+janet_york We were at the furniture store dancing
+not_available Where's Dan ?
+not_available Shh .
+not_available Dan broke your arm .
+janet_york He didn't break my arm .
+not_available Dan likes me .
+not_available Yeah , look at it .
+janet_york Ow My arm OK .
+not_available Come on .
+not_available Listen to me .
+not_available This is serious .
+not_available We're being kidnapped .
+not_available We need to escape .
+not_available Can you walk ?
+not_available l guess .
+not_available OK .
+not_available Come on .
+not_available Get ready .
+not_available When l say ''go'' , we go .
+janet_york Go where ?
+kim_bauer Just stay with me , OK ?
+kim_bauer You gotta understand this , OK ?
+kim_bauer We could die if we don't get out of here .
+not_available Hold my hand .
+not_available Go .
+not_available Hey !
+not_available Hey !
+not_available No !
+not_available Get back here !
+not_available We gotta get them .
+not_available Hey !
+not_available Catch them !
+not_available l am !
+not_available This is your fault !
+not_available This is what l was talking about !
+not_available Shut up !
+not_available Get back here !
+not_available We gotta get them .
+not_available They can not get away .
+not_available This is good work .
+not_available Keep me informed .
+not_available Thank you .
+not_available Certainly .
+not_available Thanks , Jack .
+not_available Shut the door .
+jamey_farrell Are we saying Nina's a traitor ?
+not_available Not yet .
+not_available We need to know more .
+jamey_farrell Should l shut down her confidential access ?
+jack_bauer No , that'll slow everything down .
+jack_bauer There's gotta be some kind of explanation for this .
+jack_bauer Right now what l really need is the data off that card .
+jamey_farrell But aren't we obligated to seal off her channels with this much evidence ?
+jamey_farrell Look , you were seeing her , weren't you ?
+jack_bauer That is none of your business .
+not_available l think in this case it is .
+not_available Yes .
+jack_bauer When my wife and l were separated , yes , l was seeing Nina .
+jamey_farrell Did you say anything you shouldn't have ?
+not_available No .
+jack_bauer l don't think so .
+jack_bauer l trusted her with everything that was coming through here , but
+not_available Fine .
+not_available Shut down her access .
+not_available OK .
+not_available What's she working on ?
+jack_bauer 747 passenger list .
+not_available Good .
+jamey_farrell That's not on a secure socket .
+not_available l can do it without her knowing .
+not_available Good .
+not_available Jamey ?
+jamey_farrell Don't worry , l won't say anything .
+not_available Thank you .
+not_available Gotta get them .
+not_available Hey , get outta here .
+not_available Where'd they go ?
+not_available Ah , forget it .
+not_available Aw , come on , man .
+not_available Come on .
+not_available Don't .
+not_available Hey , come back !
+not_available Scumbag .
+larry_rogow You just cost me 50 bucks !
+larry_rogow You're gonna pay for this .
+not_available Word up .
+not_available Did you see two girls run past here ?
+not_available Yeah , l seen 'em .
+not_available Which way did they go ?
+not_available Who are they ?
+dan_mounts Did you see 'em or not ?
+not_available They went down Central .
+not_available Check it out .
+dan_mounts l'll look around here .
+not_available Yeah ?
+not_available lt's Gaines .
+not_available How's it going ?
+not_available Everything's fine .
+not_available Change of plan .
+not_available We meet at a new location .
+dan_mounts Just let me know .
+not_available l'll meet you there .
+kim_bauer We need to get to a phone .
+larry_rogow No , you need to pay up .
+not_available ls this real ?
+larry_rogow Thank you very much .
+carl_webb What couldn't wait till morning ?
+not_available Maureen Kingsley called .
+president_david_palmer Said she had some new information .
+carl_webb David , you got me out of bed at 2am .
+not_available What did she say ?
+president_david_palmer She said the Gibson boy , the one who raped Nicole , didn't commit suicide .
+president_david_palmer That he was thrown out of the window .
+carl_webb So , he was thrown out of a window .
+not_available Who cares ?
+not_available She said it was Keith !
+president_david_palmer She's gonna publicly accuse my son of murder .
+carl_webb OK , there's a couple of ways to handle this .
+president_david_palmer lt's a lie , Carl .
+president_david_palmer lt's dirty politics and l won't stand for it .
+president_david_palmer My family lived through that nightmare and l won't put Nicole through it again .
+not_available And Keith ?
+carl_webb Keith couldn't This bastard , Hodges
+carl_webb , he waits till the day of the primary so you can't respond .
+president_david_palmer l don't care what day it is .
+not_available lt's a lie
+not_available l know .
+carl_webb But we can't pretend today isn't important .
+carl_webb l'll put a lid on Kingsley until the polls close .
+carl_webb We win the primary then take it from there .
+not_available No .
+president_david_palmer We find the source , make them recant .
+carl_webb Oh , l'll figure out where this is coming from and l'll cut it off , but , David We go back years .
+carl_webb You have your principles , you don't compromise , blah blah blah .
+not_available That's why l love you .
+carl_webb But you knew the gloves would come off .
+not_available Well , they are off .
+not_available That's why you have me .
+carl_webb Go back and forget about this .
+not_available l'm on it .
+president_david_palmer l can't let them throw my son to the wolves .
+carl_webb David , l'll take care of it .
+not_available ls that you ?
+not_available Yeah .
+not_available You better get lost .
+carl_webb Call you in an hour .
+not_available lt's OK , fellas .
+not_available l'm fine .
+not_available Dammit .
+kim_bauer Janet , let's go back to the front and wait for them to leave .
+not_available They're not on Central .
+not_available Keep looking .
+not_available We gotta find 'em .
+dan_mounts OK , l'll take the side streets .
+not_available They're around here somewhere .
+dan_mounts Gaines just called me .
+not_available We gotta find them !
+larry_rogow You're in my space .
+not_available l'm sorry .
+not_available We'll leave .
+kim_bauer ls there a phone around here ?
+not_available No .
+not_available What are you looking for ?
+not_available You wanna score some dope ?
+kim_bauer We need to get rid of those guys .
+kim_bauer ls there any way you can help us get to a phone ?
+larry_rogow You want me to help you ?
+larry_rogow What are your little designer jeans worth ?
+larry_rogow 500 bills ?
+larry_rogow And those kicks , like another , what , 25 ?
+larry_rogow You wanna trade places with me for a while ?
+larry_rogow Wanna turn some tricks while l go snuggle with your daddy in the Hollywood foothills ?
+not_available Go away .
+kim_bauer We've been kidnapped .
+kim_bauer l don't know Her arm is broken .
+kim_bauer Those guys are still out there .
+not_available Welcome to the neighbourhood .
+janet_york Well , is there any other way out besides the front door ?
+not_available But if we just ''
+not_available But'' nothing .
+not_available Get out !
+not_available Go !
+not_available How long have you been playing me ?
+not_available Playing you ?
+not_available Playing me .
+not_available What are you doing ?
+not_available Why don't you tell me about this ?
+not_available Tell you what ?
+jack_bauer You loaded this card with intel on the hit on Palmer .
+jack_bauer l wanna know who you work for and who you smuggled this card to .
+not_available You're delirious .
+jack_bauer Who are you working for ?
+nina_myers l work for you .
+jack_bauer Who are you working for ?
+jack_bauer Who are you working for? !
+not_available l work for you !
+not_available Whoever programmed this card is involved with the hit on Palmer .
+not_available This came from your computer .
+nina_myers l don't care where it came from , l didn't do it .
+nina_myers And l can't believe that you think l did .
+not_available There it is .
+ira_gaines One million in your account in addition to what we already agreed on .
+not_available Where's the lD ?
+not_available Let's get it .
+bridget No , just the three of us .
+ira_gaines And why do l trust you ?
+bridget Because you want the lD .
+not_available l'm gonna miss you , Mandy .
+not_available How's your arm ?
+not_available lt's OK if l don't move it .
+not_available Then don't move it .
+dan_mounts l know you're in here .
+dan_mounts l can smell your perfume .
+not_available Where are you ?
+dan_mounts This is starting to piss me off !
+not_available He's gonna be ready .
+not_available Hey , l'm telling you , you know , l saw him work out yesterday .
+not_available He looked good .
+not_available He's gonna be ready .
+not_available Excuse me .
+not_available Let me call you back .
+not_available You looking for something ?
+not_available Please , help us .
+not_available These guys are after us .
+not_available What guys ?
+not_available l'll pay whatever you want .
+not_available Just get us out of here .
+not_available Let's see the money .
+not_available l don't have it on me right now .
+kim_bauer But when you get us home , my parents will pay whatever you want .
+businessman Sorry , l run a cashup front business .
+not_available What's your name , sweetheart ?
+not_available Janet .
+kim_bauer Look , can we just use your phone at least ?
+not_available Please ?
+not_available Come here !
+not_available Go !
+not_available Take the phone and run !
+not_available Go !
+not_available Go !
+not_available Go !
+not_available Go !
+not_available Run !
+not_available lt's cool , man .
+not_available lt's cool .
+not_available Run !
+not_available ls this
+not_available right ?
+not_available What ?
+not_available They just posted a memorandum .
+not_available Richard Walsh is dead .
+not_available That can't be .
+jamey_farrell l mean , he was just here an hour ago .
+not_available That's what it says .
+not_available Oh , my God .
+not_available Can you find out what happened ?
+jamey_farrell Jack's got me working on something .
+tony_almeida Can you open up a socket on the terminal ?
+not_available l'll check it myself .
+not_available Sure .
+not_available Thanks .
+not_available Farrell .
+not_available l need you up here now .
+not_available Do you have it yet ?
+not_available Almost .
+not_available Another couple of minutes .
+not_available Soon as you're done , come up .
+not_available Thank you .
+ira_gaines That job this summer you in ?
+not_available Yes .
+not_available OK , Jonathan , you're done .
+not_available You had no choice .
+jamey_farrell The key card was definitely programmed on Nina's computer .
+jamey_farrell Login time was 10. 14pm .
+jamey_farrell Looks like the next 20 minutes were spent gathering data , and then another seven to burn it into the key card .
+jamey_farrell Logout was 10. 41 , January 14 .
+jamey_farrell lt specifies which files were accessed .
+not_available lf you want details , there are two screens of Wait a sec .
+not_available What was the date ?
+jamey_farrell January 14 , a couple of months ago .
+nina_myers Second weekend in January , Jack .
+not_available That's all l got .
+jack_bauer Thank you , Jamey , that's all l need right now .
+jack_bauer That was the same weekend that we were in Santa Barbara together .
+jack_bauer So someone from this office has hacked your login code .
+not_available They're in your system .
+nina_myers You were way off on this one , Jack .
+not_available l'm sorry
+not_available How could you ?
+not_available Division .
+tony_almeida lt's Tony Almeida at CTU .
+tony_almeida Look , you'd better get down here right away .
+tony_almeida Jack Bauer needs to be relieved of his command .
+not_available Hello ?
+not_available Mom , you gotta come get us .
+not_available What's wrong ?
+not_available Are you at the party ?
+not_available There was no party .
+not_available They made us say that .
+not_available Who ?
+not_available These guys .
+kim_bauer We're in North Hollywood .
+kim_bauer Behind Platt's Auto Body .
+not_available Platt's Auto Body .
+not_available They're coming !
+not_available Mom , you gotta come now !
+not_available Kim !
+not_available Kim !
+not_available What's going on ?
+not_available Teri ?
+not_available 911 emergency .
+not_available My daughter's in trouble .
+teri_bauer She's in North Hollywood behind Platt's Auto Body .
+not_available Someone was chasing her .
+not_available Come on , Kim .
+not_available No
+not_available No
+not_available No !
+not_available No , look at me .
+not_available No !
+not_available l told you to chill !
+not_available Why didn't you listen ?
+not_available Let go of me !
+not_available No !
+not_available Shut up !
+not_available No !
+not_available What about her ?
+not_available Forget her .
+not_available Let's go .
+not_available Come on !
+not_available No !
+not_available No !
+not_available Come on .
+not_available Let's keep moving .
+not_available Shut up !

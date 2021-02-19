@@ -1,10 +1,9 @@
-not_available Right now , terrorists are plotting to assassinate a presidential candidate .
-not_available My teenage daughter is missing .
-not_available And people that I work with may be involved in both .
-not_available I'm Federal Agent Jack Bauer .
-not_available Today is going to be the longest day of my life .
-not_available It is just after 7:00 a.<br
-not_available >m .
+jack_bauer Right now , terrorists are plotting to assassinate a presidential candidate .
+jack_bauer My teenage daughter is missing .
+jack_bauer And people that I work with may be involved in both .
+jack_bauer I'm Federal Agent Jack Bauer .
+jack_bauer Today is going to be the longest day of my life .
+not_available It is just after 7:00 am.
 not_available on the West Coast and the California Primary is now officially underway .
 not_available We're here outside the San Clarita Power Plant in Los Angeles where Senator David Palmer will be addressing local labor leaders and some members of the state energy council .
 not_available The senator has pledged support for renovations that would advance this power plant to production .
@@ -21,112 +20,111 @@ not_available Have you decided ?
 not_available I've rewritten the speech I was going to give this morning .
 not_available I'm going to tell them about Keith .
 not_available What are you going to say ?
-not_available The truth .
-not_available That seven years ago he was involved in an accidental death .
-not_available I need you to stand by me , Sherry .
-not_available It's the only way to protect Keith .
-not_available For the man seen as the best hope for their country's financial future .
-not_available I will never forgive you if something bad happens to my son .
+president_david_palmer The truth .
+president_david_palmer That seven years ago he was involved in an accidental death .
+president_david_palmer I need you to stand by me , Sherry .
+president_david_palmer It's the only way to protect Keith .
+president_david_palmer For the man seen as the best hope for their country's financial future .
+sherry_palmer I will never forgive you if something bad happens to my son .
 not_available He's my son , too .
 not_available We'll get through this .
-not_available I hope so , David .
+sherry_palmer I hope so , David .
 not_available We caught up with some voters who started lining up at 6:00 a. m. Hey , ma .
 not_available Good morning , honey .
 not_available Where's your sister ?
 not_available Oh , she changed her mind .
 not_available She's not going .
 not_available Really ?
-not_available Yeah , she went to the airport to pick up Susie and Rachel instead .
+keith_palmer Yeah , she went to the airport to pick up Susie and Rachel instead .
 not_available Oh , that's right .
-not_available The Brenner girls are flying in .
+sherry_palmer The Brenner girls are flying in .
 not_available So , uh . what's gonna to happen this morning ? We have to put this thing behind us , Keith .
-not_available By me being in prison and you in the Oval Office ?
-not_available Is that how we're going to put it behind us ?
+keith_palmer By me being in prison and you in the Oval Office ?
+keith_palmer Is that how we're going to put it behind us ?
 not_available You're not going to prison .
-not_available You didn't do anything wrong .
-not_available That's not how a jury will see it .
-not_available Why don't you just have a little faith in the system ?
-not_available What's this fairy tale that you're living in ?
-not_available The world's going to believe that I killed a white kid who raped my sister .
-not_available Do you think that anyone will believe it was an accident ?
+president_david_palmer You didn't do anything wrong .
+keith_palmer That's not how a jury will see it .
+president_david_palmer Why don't you just have a little faith in the system ?
+keith_palmer What's this fairy tale that you're living in ?
+keith_palmer The world's going to believe that I killed a white kid who raped my sister .
+keith_palmer Do you think that anyone will believe it was an accident ?
 not_available Yes , I do .
 not_available Then you're a fool .
 not_available Keith , no .
 not_available No , that's all right .
-not_available You talk about fairy tales .
-not_available You think you can run from this ?
-not_available You think it's going to make things better ?
-not_available I'm not running anywhere .
-not_available I'd just rather not spend my last hour of freedom with you .
-not_available Let's go and get this over with .
+president_david_palmer You talk about fairy tales .
+president_david_palmer You think you can run from this ?
+president_david_palmer You think it's going to make things better ?
+keith_palmer I'm not running anywhere .
+keith_palmer I'd just rather not spend my last hour of freedom with you .
+president_david_palmer Let's go and get this over with .
 not_available Martin Belkin ?
 not_available Yes .
-not_available Hi , I'm Jessica Abrams .
+jessica_abrams Hi , I'm Jessica Abrams .
 not_available I work for Senator Palmer .
 not_available Hi .
 not_available Pleasure to meet you .
-not_available Can I help you with.<br
-not_available > .
+not_available Can I help you with.
 not_available I got it .
 not_available Okay .
 not_available Great .
 not_available Follow me .
-not_available Is the senator here yet ?
-not_available Not yet , but he is on his way .
+jonathan_matijevich Is the senator here yet ?
+jessica_abrams Not yet , but he is on his way .
 not_available Great .
 not_available I am a huge fan of your work .
 not_available Thank you .
 not_available Right this way , please .
 not_available Hi .
-not_available I'm going to be taking some photographs of the senator .
-not_available I need a check on a Belkin : BELKI N. First name , Martin .
+jonathan_matijevich I'm going to be taking some photographs of the senator .
+aaron_pierce I need a check on a Belkin : BELKI N. First name , Martin .
 not_available Clear on Belkin .
 not_available All right , copy that .
 not_available Thank you .
 not_available You can go in .
 not_available Turn right at the light .
-not_available You see the bus stop on your left ?
+ira_gaines You see the bus stop on your left ?
 not_available Yes .
 not_available Pull over to it .
 not_available Hey , Jack .
 not_available How are you doing ?
-not_available Don't touch it until I tell you to .
+ira_gaines Don't touch it until I tell you to .
 not_available Now , go .
-not_available I'm not going anywhere until I can talk to my wife and my daughter .
-not_available Oh , you'll do this , because it really isn't an inconvenience for me to hurt your daughter .
-not_available Or your wife , for that matter .
+jack_bauer I'm not going anywhere until I can talk to my wife and my daughter .
+ira_gaines Oh , you'll do this , because it really isn't an inconvenience for me to hurt your daughter .
+ira_gaines Or your wife , for that matter .
 not_available In fact , here she is .
-not_available Would you like to speak to your husband ?
-not_available Say anything you want .
-not_available Tell him you love him .
+ira_gaines Would you like to speak to your husband ?
+ira_gaines Say anything you want .
+ira_gaines Tell him you love him .
 not_available Jack .
 not_available Teri ?
-not_available I don't know where I am yet , and I haven't seen Kimberly
-not_available You were saying , Jack , you're not sure you wanted to do this ?
+teri_bauer I don't know where I am yet , and I haven't seen Kimberly
+ira_gaines You were saying , Jack , you're not sure you wanted to do this ?
 not_available That's what I thought .
-not_available San Clarita Power Station .
-not_available This is only temporary , Mrs . Bauer .
-not_available If Jack follows instructions , you'll be released within the hour .
+ira_gaines San Clarita Power Station .
+ira_gaines This is only temporary , Mrs . Bauer .
+ira_gaines If Jack follows instructions , you'll be released within the hour .
 not_available Where's my daughter ?
 not_available She's here
 not_available and she's safe .
-not_available Could you take me to her , please ?
+teri_bauer Could you take me to her , please ?
 not_available Hey .
 not_available What , Milo ?
 not_available What happened to Nina ?
 not_available She got called out .
-not_available What am I supposed to do about this keycard ?
-not_available Because this was supposed to be the most important thing we're doing .
-not_available They brought me in here on the highest priority and now I'm just sitting around .
-not_available I think Nina's got some new intel that preempts this .
+milo_pressman What am I supposed to do about this keycard ?
+milo_pressman Because this was supposed to be the most important thing we're doing .
+milo_pressman They brought me in here on the highest priority and now I'm just sitting around .
+jamey_farrell I think Nina's got some new intel that preempts this .
 not_available That's why she had to run out .
-not_available So , what should I be doing ?
-not_available Why don't you help me format some files ?
-not_available They didn't bring me in here at 5:00 a.<br>m . to format files !
-not_available Does this kid Milo know he's working on the wrong keycard ?
+milo_pressman So , what should I be doing ?
+jamey_farrell Why don't you help me format some files ?
+milo_pressman They didn't bring me in here at 5:00 am . to format files !
+ira_gaines Does this kid Milo know he's working on the wrong keycard ?
 not_available Is this going to be a problem ?
-not_available Nina Myers is dead .
-not_available Make up a story for why she's not there .
+ira_gaines Nina Myers is dead .
+ira_gaines Make up a story for why she's not there .
 not_available Mom !
 not_available Kimberly !
 not_available It's okay .
@@ -135,104 +133,103 @@ not_available Where's Dad ?
 not_available I don't know .
 not_available He knows we're in trouble ?
 not_available Yeah , he does .
-not_available He's doing everything he can , baby .
+teri_bauer He's doing everything he can , baby .
 not_available I'm sorry .
 not_available I'm sorry .
 not_available No , no , no , no .
 not_available it's not your fault .
-not_available It's not your fault , honey .
-not_available Why don't you tell me about these boys ?
-not_available I met them through Janet , and She started dating this guy , Dan and his friend Rick came into town
+teri_bauer It's not your fault , honey .
+teri_bauer Why don't you tell me about these boys ?
+kim_bauer I met them through Janet , and She started dating this guy , Dan and his friend Rick came into town
 not_available and we just hang out
 not_available and oh , God .
-not_available They kept you here the whole time ?
+teri_bauer They kept you here the whole time ?
 not_available Yes .
 not_available Janet was hit by a car .
 not_available I know .
 not_available You do ?
-not_available We are going to get through this .
+teri_bauer We are going to get through this .
 not_available I promise you .
 not_available Hello ?
 not_available Come on , Jamey !
 not_available Pick up !
 not_available Almeida .
 not_available Tony .
-not_available Nina , where've you been ?
+tony_almeida Nina , where've you been ?
 not_available I can't get into it .
 not_available Well , force yourself .
 not_available Where are you ?
-not_available Just east of downtown .
+nina_myers Just east of downtown .
 not_available What are you doing there ?
-not_available Tony , you have to listen to me carefully .
-not_available No one at CTU can know I'm alive .
-not_available Who would think you were dead ?
-not_available I can't tell you any more right now .
+nina_myers Tony , you have to listen to me carefully .
+nina_myers No one at CTU can know I'm alive .
+tony_almeida Who would think you were dead ?
+nina_myers I can't tell you any more right now .
 not_available Where's Jamey ?
-not_available She's working with Milo .
+tony_almeida She's working with Milo .
 not_available Get her for me .
-not_available No , not until you tell me what's going on .
+tony_almeida No , not until you tell me what's going on .
 not_available Please , Tony .
 not_available This is an order .
 not_available I need your help .
 not_available All right .
-not_available Threatening emails , hate mail for Palmer .
-not_available This is a giant waste of time .
-not_available When is Nina coming back ?
-not_available Probably not for a couple of hours .
-not_available What makes you say that ?
-not_available I just talked to her .
+milo_pressman Threatening emails , hate mail for Palmer .
+milo_pressman This is a giant waste of time .
+milo_pressman When is Nina coming back ?
+jamey_farrell Probably not for a couple of hours .
+tony_almeida What makes you say that ?
+jamey_farrell I just talked to her .
 not_available When ?
-not_available A couple minutes ago .
-not_available She's at Division .
-not_available It's possible she'll be there all day .
-not_available What do you need ?
-not_available Never mind .
-not_available Look , if somebody doesn't tell me what's going on right now.<br
-not_available > .
+jamey_farrell A couple minutes ago .
+jamey_farrell She's at Division .
+jamey_farrell It's possible she'll be there all day .
+jamey_farrell What do you need ?
+tony_almeida Never mind .
+tony_almeida Look , if somebody doesn't tell me what's going on right now.
 not_available I'm going to Chapelle .
-not_available I told you , I have to speak to Jamey .
-not_available Yes , and I just heard her tell Milo that you'll be at Division all day .
+nina_myers I told you , I have to speak to Jamey .
+tony_almeida Yes , and I just heard her tell Milo that you'll be at Division all day .
 not_available Oh , my God .
 not_available What ?
 not_available Who did she hear that from ?
-not_available She said she talked to you minutes ago .
+tony_almeida She said she talked to you minutes ago .
 not_available Nina , what is going on ?
 not_available We can't trust Jamey .
-not_available Jack said CTU had been infiltrated .
-not_available Are you saying Jamey's a spy ?
-not_available Why else would she lie ?
-not_available She must think I'm dead .
+nina_myers Jack said CTU had been infiltrated .
+tony_almeida Are you saying Jamey's a spy ?
+nina_myers Why else would she lie ?
+nina_myers She must think I'm dead .
 not_available Why would she think that ?
 not_available I'll explain later .
-not_available You have to bring me back in now .
-not_available Okay , I'll come get you .
+nina_myers You have to bring me back in now .
+tony_almeida Okay , I'll come get you .
 not_available No , stay there .
-not_available Act as if everything is all right .
-not_available Jack was behaving very strangely back at CTU .
-not_available These people must be watching us .
-not_available I don't know , probably through our own surveillance .
-not_available All right , look .
+nina_myers Act as if everything is all right .
+nina_myers Jack was behaving very strangely back at CTU .
+nina_myers These people must be watching us .
+nina_myers I don't know , probably through our own surveillance .
+tony_almeida All right , look .
 not_available I'll send a car .
 not_available What's your address ?
 not_available Senator .
 not_available How are you ?
 not_available Copy that .
 not_available GAll
-not_available you have to do now Jack , is get through security .
-not_available Jack Bauer , CTU .
-not_available I've been cleared by Frank Simes .
-not_available All right , I'll need you to open the case .
+ira_gaines you have to do now Jack , is get through security .
+jack_bauer Jack Bauer , CTU .
+jack_bauer I've been cleared by Frank Simes .
+aaron_pierce All right , I'll need you to open the case .
 not_available Sure .
-not_available What do you need a laptop for ?
-not_available Everything that we've compiled on Palmer over the last eight hours is in there .
-not_available You want to lift that up , please ?
-not_available Turn it on .
+aaron_pierce What do you need a laptop for ?
+jack_bauer Everything that we've compiled on Palmer over the last eight hours is in there .
+aaron_pierce You want to lift that up , please ?
+aaron_pierce Turn it on .
 not_available Press any two buttons .
-not_available All right , go ahead .
+aaron_pierce All right , go ahead .
 not_available Thank you .
 not_available Thank you .
-not_available Where is Senator Palmer now ?
-not_available He's on his way up .
+jack_bauer Where is Senator Palmer now ?
+aaron_pierce He's on his way up .
 not_available Good .
 not_available Excuse me .
 not_available Jack Bauer ?
@@ -245,201 +242,201 @@ not_available Since high school ?
 not_available Yes .
 not_available I'm sorry
 not_available , I've got to get going .
-not_available Are you still racing motorcycles ?
+jessica_abrams Are you still racing motorcycles ?
 not_available Keep moving , Jack .
-not_available Not since my daughter was born .
+jack_bauer Not since my daughter was born .
 not_available I'd like to catch up .
 not_available Maybe later .
 not_available I've just got to get going .
-not_available Great , I'll be here .
+jessica_abrams Great , I'll be here .
 not_available Okay .
 not_available What do I do now ?
-not_available You'll hand the briefcase to one of our people .
+ira_gaines You'll hand the briefcase to one of our people .
 not_available Who ?
-not_available I'll tell you when it's time .
-not_available Go wait by the buffet table .
+ira_gaines I'll tell you when it's time .
+ira_gaines Go wait by the buffet table .
 not_available But now our election coverage shifts to the polls .
 not_available Back east , we've had some interesting developments .
 not_available Good to see you .
 not_available Senator , I'd like you to meet Martin Belkin .
 not_available Good you could make it , Martin .
-not_available Jessica says you're the best .
-not_available Thank you .
+president_david_palmer Jessica says you're the best .
+jonathan_matijevich Thank you .
 not_available I look forward to working with you .
-not_available Honey , you're so tired .
+teri_bauer Honey , you're so tired .
 not_available Hi .
-not_available I brought you some breakfast .
+rick_allen I brought you some breakfast .
 not_available Is Kim okay ?
 not_available Who are you ?
 not_available Rick .
 not_available You kidnapped my daughter .
 not_available I didn't know .
-not_available How could you not know ?
+teri_bauer How could you not know ?
 not_available I tried to help her get out , okay ?
-not_available Gaines wants to go over some things with us .
-not_available What's going on here , Rick ?
+eli_stram Gaines wants to go over some things with us .
+eli_stram What's going on here , Rick ?
 not_available Nothing .
 not_available Don't make friends .
 not_available I wasn't .
-not_available Good , they ain't gonna be around much longer .
+eli_stram Good , they ain't gonna be around much longer .
 not_available What do you mean ?
 not_available Move it .
-not_available Okay , time to move , Jack .
+jack_bauer Okay , time to move , Jack .
 not_available Head across the floor .
 not_available Excuse me .
 not_available Excuse me .
-not_available Okay , Jack , head towards the south wall .
-not_available Hello , Jack .
+ira_gaines Okay , Jack , head towards the south wall .
+jessica_abrams Hello , Jack .
 not_available Hello , Jess .
-not_available Do you remember Tracy Zigler ?
+jessica_abrams Do you remember Tracy Zigler ?
 not_available Yes .
 not_available I just saw her last winter .
-not_available Well , we keep in touch
-not_available and she said you and Teri got divorced .
+jessica_abrams Well , we keep in touch
+jessica_abrams and she said you and Teri got divorced .
 not_available Get out of there .
-not_available No , we just got separated .
-not_available Jared , take care of this .
-not_available If you want to get in touch , reach me at this number here .
+jack_bauer No , we just got separated .
+ira_gaines Jared , take care of this .
+jack_bauer If you want to get in touch , reach me at this number here .
 not_available Are you all right ?
 not_available I'm fine .
 not_available Sorry .
 not_available No , it's fine .
 not_available You sure ?
 not_available Yeah .
-not_available He's heading across now .
-not_available Make a left in front of the turbines .
+jared He's heading across now .
+ira_gaines Make a left in front of the turbines .
 not_available Show him your ID .
 not_available Jack Bauer , CTU .
 not_available That's my boy .
 not_available Thank you .
 not_available Thank you .
-not_available Go to the end .
-not_available On the left is Medical Station 3 .
+ira_gaines Go to the end .
+ira_gaines On the left is Medical Station 3 .
 not_available I'm here .
 not_available It's where I want you .
 not_available Go in and wait .
-not_available Oh , my God .
+jack_bauer Oh , my God .
 not_available What happened to you ?
-not_available I'm okay .
+nina_myers I'm okay .
 not_available You don't look okay .
-not_available Is it safe to come in here ?
+nina_myers Is it safe to come in here ?
 not_available Yeah , I looped the cameras .
-not_available They can't see us .
-not_available Why is Jack doing all this ?
-not_available They've kidnapped his wife and daughter .
+tony_almeida They can't see us .
+tony_almeida Why is Jack doing all this ?
+nina_myers They've kidnapped his wife and daughter .
 not_available How long have you known this ?
-not_available Not long .
+nina_myers Not long .
 not_available You chose not to tell me .
 not_available That's right .
-not_available I was acting on orders .
+nina_myers I was acting on orders .
 not_available Screw orders !
-not_available Tony , I'm sorry .
+nina_myers Tony , I'm sorry .
 not_available Where's Jamey ?
 not_available She's still working with Milo .
 not_available So what do you want to do ?
-not_available Restrain her and call in Division ?
+tony_almeida Restrain her and call in Division ?
 not_available No , we can't call anyone yet .
 not_available We've gotta do something .
 not_available I know .
-not_available This whole thing must be about Palmer .
-not_available They're using Jack to stop the investigation ?
+tony_almeida This whole thing must be about Palmer .
+tony_almeida They're using Jack to stop the investigation ?
 not_available Maybe .
 not_available Hang on .
 not_available We've got to do something .
 not_available You sure this room is dark ?
 not_available I checked the log .
 not_available There are no active cameras .
-not_available We've got to call Secret Service .
+tony_almeida We've got to call Secret Service .
 not_available No .
-not_available The people holding Teri and Kim will think Jack gave the order .
-not_available I hate to say it , but it's not our problem .
-not_available We have to protect Palmer .
+nina_myers The people holding Teri and Kim will think Jack gave the order .
+tony_almeida I hate to say it , but it's not our problem .
+tony_almeida We have to protect Palmer .
 not_available We got to make the call now .
 not_available Wait .
-not_available Jack wouldn't put Palmer's life in danger .
-not_available Let's try to find out more before we do anything .
-not_available Are you ordering me not to call Secret Service ?
-not_available No , you're right .
+nina_myers Jack wouldn't put Palmer's life in danger .
+nina_myers Let's try to find out more before we do anything .
+tony_almeida Are you ordering me not to call Secret Service ?
+nina_myers No , you're right .
 not_available Hi , it's Tony .
-not_available Can you get me Agent Pierce's number ?
+tony_almeida Can you get me Agent Pierce's number ?
 not_available Assemble it .
-not_available You want my prints on this weapon ?
-not_available Do you really think that anybody's going to believe that I shot David Palmer ?
-not_available You better put that away .
-not_available Somebody might get hurt .
-not_available We're watching the Senator work the room before he gives the speech .
+jack_bauer You want my prints on this weapon ?
+jack_bauer Do you really think that anybody's going to believe that I shot David Palmer ?
+jonathan_matijevich You better put that away .
+jonathan_matijevich Somebody might get hurt .
+rick_garcia We're watching the Senator work the room before he gives the speech .
 not_available Milo , come here .
 not_available You were right .
 not_available About what ?
-not_available The keycard was a forgery .
+tony_almeida The keycard was a forgery .
 not_available We found the original .
 not_available Where ?
 not_available Jack's office .
-not_available Why did he swap it out ?
+milo_pressman Why did he swap it out ?
 not_available It doesn't matter .
-not_available I sent it to Archiving to make a backup of all the data .
-not_available Then , it's going straight to you .
+tony_almeida I sent it to Archiving to make a backup of all the data .
+tony_almeida Then , it's going straight to you .
 not_available You'll have to work quickly .
 not_available Just get it to me .
-not_available A forged keycard ?
+milo_pressman A forged keycard ?
 not_available What's that about ?
 not_available I have no idea .
 not_available She's squirming .
 not_available Almeida .
-not_available This is Pierce from Secret Service .
-not_available I called because we have some new information you should know about .
-not_available One of our agents , Jack Bauer , might be there today .
+aaron_pierce This is Pierce from Secret Service .
+tony_almeida I called because we have some new information you should know about .
+tony_almeida One of our agents , Jack Bauer , might be there today .
 not_available Yes , he's here .
 not_available I cleared him .
-not_available We learned that he may have been compromised .
-not_available He may not be acting to protect the senator .
-not_available Are you saying he's a threat ?
+tony_almeida We learned that he may have been compromised .
+tony_almeida He may not be acting to protect the senator .
+aaron_pierce Are you saying he's a threat ?
 not_available Yeah .
-not_available Take the appropriate actions .
+tony_almeida Take the appropriate actions .
 not_available She's on the move .
-not_available Okay , ladies restroom .
-not_available Second to last stall .
-not_available The cameras are on a 20 second loop .
+nina_myers Okay , ladies restroom .
+nina_myers Second to last stall .
+nina_myers The cameras are on a 20 second loop .
 not_available Am I clear ?
 not_available No , not yet .
 not_available Go .
-not_available Got 20 seconds .
+nina_myers Got 20 seconds .
 not_available Get out !
 not_available Now !
 not_available Grab it !
 not_available All of it .
 not_available Go !
-not_available Can you tell if expectations are high in the party for the speech ?
-not_available I got to keep you guys working .
-not_available The fatter your paycheck , the more taxes you can afford .
-not_available That's right , Senator .
+rick_garcia Can you tell if expectations are high in the party for the speech ?
+president_david_palmer I got to keep you guys working .
+president_david_palmer The fatter your paycheck , the more taxes you can afford .
+jared That's right , Senator .
 not_available Excuse me , guys .
 not_available What's up ?
-not_available I just got a call from CTU .
-not_available We need to get you out , sir .
+aaron_pierce I just got a call from CTU .
+aaron_pierce We need to get you out , sir .
 not_available Why ?
-not_available There's a problem with one of their agents .
+aaron_pierce There's a problem with one of their agents .
 not_available What kind of problem ?
-not_available He could be a threat to you .
-not_available If he's one of ours , why don't you find him and take care of this quietly ?
+aaron_pierce He could be a threat to you .
+president_david_palmer If he's one of ours , why don't you find him and take care of this quietly ?
 not_available We are trying , sir .
 not_available I'll tell you what .
-not_available I'll lose the face time , but the speech stays .
-not_available There's something I have to say this morning .
-not_available With all due respect , I think it's a mistake , sir .
-not_available This information comes directly from CTU headquarters .
-not_available I am sure your people will take care of this .
+president_david_palmer I'll lose the face time , but the speech stays .
+president_david_palmer There's something I have to say this morning .
+aaron_pierce With all due respect , I think it's a mistake , sir .
+aaron_pierce This information comes directly from CTU headquarters .
+president_david_palmer I am sure your people will take care of this .
 not_available All Right !
-not_available Everyone on the floor , listen up .
+aaron_pierce Everyone on the floor , listen up .
 not_available This is Pierce .
-not_available Palmer has decided to proceed .
-not_available I repeat , Palmer will remain .
-not_available We need to locate and detain a suspect whose name is Jack Bauer .
-not_available Bauer is 5'11 " .
-not_available Blond hair , 160 pounds .
-not_available He is wearing a dark brown jacket that may display CTU ID .
+aaron_pierce Palmer has decided to proceed .
+aaron_pierce I repeat , Palmer will remain .
+aaron_pierce We need to locate and detain a suspect whose name is Jack Bauer .
+aaron_pierce Bauer is 5'11 " .
+aaron_pierce Blond hair , 160 pounds .
+aaron_pierce He is wearing a dark brown jacket that may display CTU ID .
 not_available This is Hayes .
-not_available Spotting is possible on Bauer .
+alan_hayes Spotting is possible on Bauer .
 not_available How would you like me to proceed ?
 not_available All right .
 not_available Hold your position .
@@ -448,51 +445,51 @@ not_available Copy .
 not_available Hi , Jamey .
 not_available What's this all about ?
 not_available Why don't you tell us ?
-not_available I have no idea what you're talking about .
-not_available Who were you contacting in the bathroom ?
+jamey_farrell I have no idea what you're talking about .
+nina_myers Who were you contacting in the bathroom ?
 not_available None of your business .
 not_available It was personal .
-not_available Are they the same people who set me up to be killed ?
+nina_myers Are they the same people who set me up to be killed ?
 not_available Set you up to be killed ?
 not_available What are you talking about ?
 not_available We don't have time for this .
 not_available Talk to us , Jamey .
-not_available Who's got Jack's wife and daughter ?
-not_available What are they making Jack do ?
+nina_myers Who's got Jack's wife and daughter ?
+nina_myers What are they making Jack do ?
 not_available I don't know .
-not_available Richard Walsh is dead .
+nina_myers Richard Walsh is dead .
 not_available So is Scott Baylor .
-not_available You'll be charged with murder and treason .
-not_available I suggest you start telling me what's going on .
-not_available They said no one would get hurt .
+nina_myers You'll be charged with murder and treason .
+nina_myers I suggest you start telling me what's going on .
+jamey_farrell They said no one would get hurt .
 not_available Who are they ?
 not_available I can't tell you .
-not_available Tell us everything you know !
+tony_almeida Tell us everything you know !
 not_available It's your only way out !
 not_available Do you understand !
-not_available I was just supposed to tap into the surveillance of all the security cameras .
-not_available Then they asked me to send messages from inside .
+jamey_farrell I was just supposed to tap into the surveillance of all the security cameras .
+jamey_farrell Then they asked me to send messages from inside .
 not_available What messages ?
 not_available What messages !
 not_available Mostly about Jack .
 not_available Then about the keycard .
-not_available I didn't know this was going to happen .
-not_available You have to believe that .
+jamey_farrell I didn't know this was going to happen .
+jamey_farrell You have to believe that .
 not_available Fine , we do .
-not_available But now you need to help us .
-not_available Who were you doing all this for ?
+nina_myers But now you need to help us .
+nina_myers Who were you doing all this for ?
 not_available No .
-not_available I have to talk to someone first .
+jamey_farrell I have to talk to someone first .
 not_available What ?
 not_available No !
-not_available There is no time , Jamey .
-not_available Palmer is exposed .
-not_available Jack's family is in danger .
-not_available You have to start talking to us now !
+nina_myers There is no time , Jamey .
+nina_myers Palmer is exposed .
+nina_myers Jack's family is in danger .
+nina_myers You have to start talking to us now !
 not_available All right , Jamey .
-not_available I'll make sure they cut you a deal , okay ?
+tony_almeida I'll make sure they cut you a deal , okay ?
 not_available No .
-not_available I'm not saying anything , not until I get Agency counsel Sit !
+jamey_farrell I'm not saying anything , not until I get Agency counsel Sit !
 not_available As Mayor of LA , I'm often given the opportunity to meet some truly remarkable people .
 not_available People that strive for the greater unity .
 not_available People that work to make our world a better place .
@@ -500,23 +497,23 @@ not_available One of those people is here today .
 not_available And " remarkable " only begins to describe this man .
 not_available Ladies and gentlemen , the next president of the United States and my good friend , David Palmer .
 not_available I love you , Kimberly .
-not_available You know that ?
+teri_bauer You know that ?
 not_available Yeah .
 not_available Good .
-not_available It's important that you know that .
-not_available Mom , if you're feeling guilty about our fight yesterday I'm over it .
-not_available I just want to get home .
+teri_bauer It's important that you know that .
+kim_bauer Mom , if you're feeling guilty about our fight yesterday I'm over it .
+kim_bauer I just want to get home .
 not_available It's not why I'm saying that .
-not_available We're stuck in this awful place
-not_available and I just want you to know that you're not alone .
+teri_bauer We're stuck in this awful place
+teri_bauer and I just want you to know that you're not alone .
 not_available Mom , you're scaring me .
-not_available Sounds like you're saying this 'cause something bad will happen .
+kim_bauer Sounds like you're saying this 'cause something bad will happen .
 not_available No , no .
 not_available It's just .
-not_available I'm trying to explain to you what a simple , powerful thing
-not_available my love for you is .
-not_available So , no matter how bad things get or how good they get , that's not going to change .
-not_available I just don't know how to do anything but love you .
+teri_bauer I'm trying to explain to you what a simple , powerful thing
+teri_bauer my love for you is .
+teri_bauer So , no matter how bad things get or how good they get , that's not going to change .
+teri_bauer I just don't know how to do anything but love you .
 not_available Thank you .
 not_available Thank you very much .
 not_available Thank you .
@@ -525,11 +522,11 @@ not_available Thank you , Mayor Nelson .
 not_available And thank you , kind citizens of Los Angeles .
 not_available Identification , please .
 not_available You know , this country depends on a healthy economy in California .
-not_available And the nucleus of that economy is energy .
+president_david_palmer And the nucleus of that economy is energy .
 not_available All right , Jack .
 not_available Step out .
 not_available We're ready for you .
-not_available To do what ?
+jack_bauer To do what ?
 not_available Relax .
 not_available It will be over in five minutes .
 not_available is standing right here in this room today .
@@ -538,25 +535,25 @@ not_available Do you see the photographer ?
 not_available The men and women who serve this industry .
 not_available Yes .
 not_available Go over and join him .
-not_available After he shoots Palmer , he will hand you his weapon .
-not_available You've got to be kidding me .
-not_available I know you'll be tempted to intervene
-not_available but you must believe me , Jack if you do , your family dies and we'll get Palmer anyway .
-not_available I understand .
-not_available When I started my campaign , over a year ago I made a promise to you who've supported me .
-not_available That my campaign would be built on integrity , commitment and above all , honor .
-not_available Thank you .
-not_available Thank you .
+ira_gaines After he shoots Palmer , he will hand you his weapon .
+jack_bauer You've got to be kidding me .
+ira_gaines I know you'll be tempted to intervene
+ira_gaines but you must believe me , Jack if you do , your family dies and we'll get Palmer anyway .
+jack_bauer I understand .
+president_david_palmer When I started my campaign , over a year ago I made a promise to you who've supported me .
+president_david_palmer That my campaign would be built on integrity , commitment and above all , honor .
+president_david_palmer Thank you .
+president_david_palmer Thank you .
 not_available Palmer !
-not_available Thank you .
+president_david_palmer Thank you .
 not_available Integrity , commitment , honor .
-not_available Anything less would be unacceptable .
-not_available Agent Bauer .
-not_available Alan Hayes , Secret Service .
+president_david_palmer Anything less would be unacceptable .
+alan_hayes Agent Bauer .
+alan_hayes Alan Hayes , Secret Service .
 not_available I need you to come with me .
 not_available What's the matter ?
 not_available No problem .
-not_available Just come with me .
+alan_hayes Just come with me .
 not_available Seven years ago .
 not_available Gun !
 not_available Blanket Palmer .
@@ -571,7 +568,7 @@ not_available What's happening ?
 not_available Did you screw me ?
 not_available I didn't do this .
 not_available Do you understand ?
-not_available Please , don't hurt my family .
+jack_bauer Please , don't hurt my family .
 not_available Don't hurt my family .
 not_available I'll help .
 not_available I promise .
@@ -579,13 +576,13 @@ not_available Please !
 not_available That's it , we're done .
 not_available Kill the wife and kid !
 not_available Get out of here !
-not_available I don't have time for this .
+ira_gaines I don't have time for this .
 not_available Hello ?
 not_available What do you want ?
-not_available Division picked up Bauer at the power plant .
-not_available They've been looking for him all night .
+jamey_farrell Division picked up Bauer at the power plant .
+jamey_farrell They've been looking for him all night .
 not_available Why ?
-not_available He's been breaking protocol since you got to him .
+jamey_farrell He's been breaking protocol since you got to him .
 not_available Damn it !
 not_available Take me !
 not_available No !
@@ -597,8 +594,9 @@ not_available Don't !
 not_available Please don't .
 not_available Eli .
 not_available Yeah .
-not_available I still need them alive .
+ira_gaines I still need them alive .
 not_available Both of them ?
 not_available Yes .
 not_available Take them back .
-not_available No ! No !
+not_available No !
+not_available No !

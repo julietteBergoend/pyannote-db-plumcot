@@ -1,456 +1,581 @@
-
-not_available Are you stupid? What are you doing in the street? What are you, an idiot? No! Keep moving! 
-not_available No! Come on, get her! Shut up! Put her down.
-not_available Keep moving.
-not_available Shut up! Let's go.
-not_available Keep going.
-not_available Help me.
-not_available We have to go back.
-not_available There's no point, she's dead.
-not_available You don't know that.
-not_available Get in! Take it easy! Know what, you better decide whose side you're on.
-not_available We can't leave her in the middle of the street.
-not_available Nina.
-not_available Nina, I know you're upset.
-not_available Of course I'm upset, Jack.
-not_available What do you expect? I'm sorry.
-not_available The reason why I had to leave the office is because I got a call from Walsh.
-not_available He was meeting another one of our agents.
-not_available Scott Baylor.
-not_available He said he had evidence that 
-not_available That led you to me.
-not_available I know, Jack, but you should have thought it through.
-not_available Nina, listen to me.
-not_available Richard Walsh is dead.
-not_available What? He was shot.
-not_available I watched him die.
-not_available What is going on? He was killed because he had proof that people from our own agency are behind the hit on Palmer.
-not_available Who? 
-not_available I don't know yet.
-not_available Right before Richard died, he gave me that keycard.
-not_available I'm hoping that's going to tell us.
-not_available Jamey's trying to break it down now.
-not_available You trust Jamey? 
-not_available He did.
-not_available I trust you.
-not_available Which means the three of us have to work together.
-not_available From this point forward, we have to assume that we can trust nobody else.
-not_available I understand.
-not_available Good.
-not_available Are you all right? 
-not_available Yeah.
-not_available Work the card with Jamey.
-not_available I have to make a call.
-not_available Thank you.
-not_available Senator, Agent Pierce wanted to talk to you as soon as you got back.
-not_available Fine.
-not_available Just give me a minute.
-not_available It's important, there's a security issue.
-not_available A minute! 
-not_available Yeah.
-not_available Did you find anything out yet? David, it's barely been half an hour since you told me about it.
-not_available Carl, I need you to find out the source of this story.
-not_available Not first thing in the morning.
-not_available Now! I understand, but this can't be done over the phone.
-not_available I have to talk to some people in person.
-not_available It's five after three.
-not_available I want to hear something by 4:00.
-not_available David, you've got to let me.
-not_available Where were you? 
-not_available I went for a drive.
-not_available A drive.
-not_available Alone, at this time of night? I just needed to get away for a while.
-not_available Away from what, David? Everything.
-not_available Wait a minute.
-not_available They haven't told you, have they? There has been an assassination threat.
-not_available That's what all the fuss is about? Yes.
-not_available I thought it was something serious.
-not_available Jack.
-not_available I'm screening the passenger list, something doesn't add up.
-not_available What? 
-not_available 2B Manifest shows an empty seat.
-not_available So? According to the ticketing file first class was full, plus there is a waiting list.
-not_available Why would the plane take off with an empty seat? Doesn't make sense.
-not_available This is good, let's work it.
-not_available What time does Rayburn get in? 
-not_available 6:00.
-not_available Then wake him up, bring him in now.
-not_available Jack.
-not_available We've got something off the keycard.
-not_available The encryption is complex.
-not_available I've asked Jamey to isolate sectors and she's managed to extract one.
-not_available Just part of one, actually.
-not_available That's it, just an address.
-not_available What's that got to do with Palmer? It doesn't say.
-not_available Crosscheck it with his schedule for tomorrow.
-not_available He's not going anywhere near it.
-not_available Has he been anywhere near it since he came to Los Angeles? No.
-not_available How about previous visits, connection to family members, associates, anything? I can check.
-not_available It will take time.
-not_available No.
-not_available Let's see what we can peel off.
-not_available Start in here.
-not_available Still just the address on San Fernando Road.
-not_available How long is it going to take to access the next level? Minutes or hours? 
-not_available Hours most likely.
-not_available We don't have hours.
-not_available I'll check out the address myself.
-not_available You want some backup? 
-not_available No.
-not_available I need you here.
-not_available What's wrong? 
-not_available I don't know.
-not_available Suddenly I can't access our decryption software.
-not_available Phones are down, too.
-not_available It's a lockdown.
-not_available It's Mason.
-not_available Hide the keycard.
-not_available NI'll handle this.
-not_available Hello, Nina.
-not_available These men are with Internal Investigations.
-not_available You are now on official lockdown.
-not_available On what authority? 
-not_available District Office.
-not_available Trying to stop an assassination, George.
-not_available Can't you find anything better to do than this? Two agents died tonight.
-not_available Lockdown is standard procedure until we get some answers.
-not_available Where's Jack? I don't know.
-not_available Station 2, coming your way.
-not_available Lockdown, nobody leaves.
-not_available Lockdown, are you serious? 
-not_available No, I'm kidding.
-not_available I gotta get some work from my car.
-not_available You know the drill.
-not_available Fine, you take the keys.
-not_available All right, I assume you're all familiar with lockdown procedures.
-not_available You remain in the building.
-not_available All communications will be monitored.
-not_available Any incoming call without secure access codes will be blocked.
-not_available In the meantime, you can continue to work on systems available to you 'til notified otherwise.
-not_available Anyone currently assigned.
-not_available Who called them in, Tony.
-not_available You? Yeah.
-not_available Me.
-not_available Why? Somebody had to.
-not_available Jack's out of control.
-not_available Meaning what? Two agents are down, Jack was there when it happened.
-not_available You can't believe he had anything to do with that.
-not_available To tell you the truth, I don't know what to believe.
-not_available I'd hate to think this has anything to do with me.
-not_available You think what you want.
-not_available All right, get comfortable, could be here for quite a while.
-not_available He got past me.
-not_available All right, Nina, where'd he go? I already told you, I don't know.
-not_available As soon as you tell me, we can get things up and running.
-not_available I'm really sorry, George, I can't help you out.
-not_available Me, too.
-not_available Senator, could I have a word with you? I'm not sure you appreciate the seriousness of this threat.
-not_available I get serious threats every morning with my orange juice.
-not_available With all due respect, this one's different.
-not_available It's a pro from overseas.
-not_available Who's behind it? 
-not_available We don't know.
-not_available But as I'm sure you're aware an airliner exploded about an hour and a half ago outside LA.
-not_available No survivors.
-not_available Are you saying there's some connection? Again, we don't know.
-not_available We're looking into it.
-not_available What do we know? That these are serious people, and they want you dead, today.
-not_available What about my family? The threat appears to be against you only.
-not_available But, of course, we'll increase security for your family as well.
-not_available The main thing is your schedule.
-not_available Today is Primary Day, I'm not gonna hide in my hotel room.
-not_available Understood.
-not_available But we are recommending some changes.
-not_available The breakfast, for example.
-not_available The breakfast is important.
-not_available The top labor leaders in the state are going to be there.
-not_available We're trying to keep you alive, Senator.
-not_available And I'm trying to win an election.
-not_available Mom said you wanted to see me.
-not_available Wanted to make sure you're all right.
-not_available What are you doing up? If I'm not sleeping by Actually, I was gonna watch some tube, you wanna join me? Is anything on this time of night? Nothing good.
-not_available I guess I'll pass.
-not_available Heard about the threat.
-not_available Don't worry about it.
-not_available They'll take good care of me.
-not_available They better.
-not_available Better get some rest.
-not_available I'm telling you, we have to go back and get Janet.
-not_available Are you gonna tell your girlfriend to shut her mouth or not? She's probably dead, there's no point.
-not_available And what if she's not? She might need help.
-not_available Why do always do what he tells you? Why don't you think for yourself? Just leave it alone, okay.
-not_available I can't, she's my friend.
-not_available You know, she may be right after all.
-not_available We should go back.
-not_available If she's alive, she can I.<br>D.
-not_available us.
-not_available We have to shut her up for good.
-not_available What? What are you saying? You're gonna kill Janet? Is that what you're gonna do? Be quiet! Close her mouth! Now! I'm not gonna let you tie me up.
-not_available Let me out.
-not_available Sounds like she's gonna tie you up.
-not_available Shut up! I just hope the girls are still there.
-not_available Oh, no.
-not_available I don't believe this.
-not_available Stay in your car, sir.
-not_available Back in the car.
-not_available Keep your hands where I can see 'em.
-not_available Do you have any idea how fast you were going? Yes.
-not_available Officer, our daughters are missing.
-not_available We got a phone call, we are on our way to pick them up.
-not_available Please.
-not_available Can I see your license and registration? 
-not_available Did you hear what I said? Your license and registration, please.
-not_available I'm Teri Bauer, he's telling the truth.
-not_available We really could use your help here.
-not_available My daughter just phoned from Platt's Auto Body.
-not_available Different last names.
-not_available One's married, one's not.
-not_available Out together in the middle of the night.
-not_available I called 911 fifteen minutes ago, verify it if you want.
-not_available You know what, I'm gonna do that.
-not_available Yeah, why don't you do that.
-not_available All right.
-not_available Hey, listen, I asked you to remain in the car.
-not_available I understand that.
-not_available Can we speed things up? Write us tickets, we'll be on our way.
-not_available The woman asked me to verify the 911.
-not_available That's what I'm trying to do.
-not_available You know, You are a real piece of work, you know that? My daughter is in trouble.
-not_available We're finished here.
-not_available Take your hands off me! What are you doing? Take it easy, relax, everyone.
-not_available Get your hands off me! Stop, don't do that.
-not_available Calm down.
-not_available Take it easy.
-not_available Ma'am, he just disobeyed a direct order from a police officer.
-not_available I'm afraid I'm going to have to place him under arrest.
-not_available You've got to be kidding me.
-not_available Come on.
-not_available Oh, my God.
-not_available What was your name? Excuse me! You know Richard Walsh was killed tonight.
-not_available Scott Baylor, too.
-not_available Did you know Jack was there when it happened? I don't know anything about it.
-not_available And you have no idea where he is right now? No.
-not_available You're making a big mistake, Nina.
-not_available No, you are.
-not_available When this lockdown is over, I'm gonna have a little talk with the Double
-not_available I team about some highly irregular banking transactions which were traced to your account.
-not_available Trust me.
-not_available The trouble Jack's in right now my bank accounts won't even raise an eyebrow.
-not_available He's going down, Nina.
-not_available That doesn't mean you have to go down with him.
-not_available True love is a beautiful thing, but why go to extremes? I know about the affair.
-not_available See, Jack talks about it all the time.
-not_available Sure he does.
-not_available How else would I know about it? It is possible, that Jack's not the shining knight you think he is.
-not_available Want to try again? Where is Jack now? This is Mary 13
-not_available 8.
-not_available Need a transportation unit at the Fifth Street bridge.
-not_available Ma'am.
-not_available Please.
-not_available Would you listen to me
-not_available Repeat location with full request.
-not_available unit at the Fifth Street bridge Copy, 1Mary3
-not_available 8.
-not_available It's Teri.
-not_available Leave a message after the beep and I'll call you back.
-not_available Honey, it's me, I'm just checking up on Kim.
-not_available I'll call you back soon.
-not_available Don't move.
-not_available Damn it.
-not_available Request backup.
-not_available Stop! Police.
-not_available Hold it right there.
-not_available Federal Agent! Your badge, nice and slow.
-not_available Putting my gun down.
-not_available "CTU.<br>" What the hell is that? Counter Terrorist Unit.
-not_available This guy is not waiting around for me.
-not_available You better shoot me or help.
-not_available Decide now.
-not_available All right, I'll help you.
-not_available I'm picking up my gun.
-not_available Easy.
-not_available You be careful with that gun.
-not_available I need him alive.
-not_available Throw me your flashlight.
-not_available Take cover! Turn off your radio.
-not_available I wish you hadn't called for backup.
-not_available Why? Because cops have to play by the rules.
-not_available I may have to break a few with this guy.
-not_available Who is he? To sum it up, Jack leaves his wife shacks up with you for a while gets bored and then moves back home, leaving you out in the cold.
-not_available My personal life is not your concern.
-not_available It is if it affects your work.
-not_available It doesn't affect my work.
-not_available How long you been with the Agency, Nina? Six years, seven? Seven years.
-not_available I remember when you first joined.
-not_available You were going places.
-not_available Everybody knew it.
-not_available It hasn't quite happened for you yet, has it? You ever wonder why? I've done all right.
-not_available But you could have done so much better.
-not_available You had a great reputation, once.
-not_available You know what your reputation is now? Jack's flunky.
-not_available His lap dog.
-not_available This is your chance to get back on track, Nina.
-not_available He's a loose cannon.
-not_available Rules don't apply to Jack Bauer.
-not_available He does what he wants, when he wants and he doesn't care whose life it affects.
-not_available He shot me with a tranq gun here in the office, for God's sakes.
-not_available That's because you withheld crucial information.
-not_available I was following orders.
-not_available Maybe he's following orders.
-not_available Orders you don't know about.
-not_available He violated lockdown and left you holding the bag.
-not_available If he cared about you, he wouldn't have put you in that position.
-not_available Let me ask you would you have done that to him? The fact is, I'm just asking you to do your job and tell me where he is.
-not_available I don't know.
-not_available Get out! Maybe she's dead after all.
-not_available We have to be sure.
-not_available Let's just put her in the van.
-not_available No.
-not_available Dan.
-not_available Shut up! Move it.
-not_available Yeah? Mason's going to want to talk to you.
-not_available What you want me to say? Jack's made it clear that the three of us work in confidence.
-not_available But doesn't Mason supersede Jack? No.
-not_available What we're doing came from Walsh.
-not_available George will say anything to get you to talk.
-not_available Do not be intimidated by him.
-not_available Okay.
-not_available Cross me.
-not_available The other building.
-not_available This place is like a maze.
-not_available All right, I've got a name.
-not_available George Ferragamo.
-not_available Know him? Yeah.
-not_available I know the name.
-not_available You find anything else, leave a message on the 802 number only.
-not_available Okay, you got it.
-not_available Thanks, Carl.
-not_available You've been spending an awful lot of time behind closed doors, making phone calls.
-not_available Have I? What's going on, David? The phone call, earlier tonight, from Maureen Kingsley.
-not_available She's digging up old history.
-not_available Bad history.
-not_available Just tell me.
-not_available She claims that Keith murdered the boy who raped Nicole.
-not_available What? First, Lyle Gibson was no boy, he was 19.
-not_available Second, he killed himself.
-not_available The coroner's report proved it.
-not_available Maureen has new evidence.
-not_available What evidence? I put Carl on it.
-not_available He came up with a name George Ferragamo.
-not_available That's the therapist Keith went to, what about him? He claims that He's not claiming that Keith confessed in therapy? 
-not_available Apparently.
-not_available Well, then he's lying.
-not_available You've got to get our lawyers on this right away.
-not_available Yeah, I know and I will.
-not_available But you know 
-not_available What is it, David? I just don't understand it.
-not_available Maureen's always been very responsible.
-not_available One of the few real professionals left.
-not_available I'd call this unprofessional.
-not_available David you can't seriously think that our son might be a killer? No.
-not_available Of course not.
-not_available Look, I apologized.
-not_available You don't get it, do you? You've committed a serious crime.
-not_available Officer, please.
-not_available Clearly, he's upset.
-not_available We both are.
-not_available If you could just give us a break? Please? was placed at that location, approximately 30 minutes ago.
-not_available Copy.
-not_available Thanks.
-not_available That still doesn't justify you disobeying a police officer.
-not_available Idiot.
-not_available Here's the backup.
-not_available Ground units are on their way.
-not_available I need him now to claim jurisdiction.
-not_available Where do you want me? Keep him pinned down at the exit.
-not_available I'll try to go around the other side.
-not_available Don't hit him.
-not_available I won't.
-not_available Don't hit me, either.
-not_available This is the police.
-not_available Drop your weapon.
-not_available I told you to stay put.
-not_available Over here.
-not_available You want me, come and get me.
-not_available Don't do it! He'll kill both of us! Don't do it! Come out! Drop the gun! Don't! Step out where I can see you, and throw down the gun! 
-not_available Don't do it.
-not_available Drop it! I'm gonna drop the gun but you gotta relax! Don't do it.
-not_available He'll kill us both.
-not_available Shut up! Put down the gun! Drop it! Speak English, asshole.
-not_available The gun is going down.
-not_available I'm putting down the gun.
-not_available The gun's going down.
-not_available Good work, throw me your cuffs.
-not_available Oh, my God.
-not_available I think it might be up here, swing to the right.
-not_available Yeah, maybe.
-not_available There is someone up ahead, maybe they saw something.
-not_available Roll down your window.
-not_available Excuse me, could you tell me what happened here, please.
-not_available It might involve our children.
-not_available You shouldn't let your children come down here.
-not_available Yeah, I know that, but could you just please tell me what happened? Girl was hit by a car.
-not_available Ma'am, do you know where they took her? St.
-not_available Mark's is closest.
-not_available Was she alive? She didn't look good.
-not_available Go.
-not_available Hey, it's Gaines.
-not_available Where's the other one? She was a problem, so we killed her.
-not_available The body? No one'll find it.
-not_available She been any trouble? 
-not_available Not at all.
-not_available You're with me now.
-not_available Be good, you'll be back at the mall in a day or two.
-not_available Be bad, and you won't.
-not_available Clear? Good.
-not_available Agent Farrell, come with me, please.
-not_available Jamey.
-not_available I've already told these men I don't know anything.
-not_available Trying to protect Jack and Nina? Don't be naive.
-not_available Sit.
-not_available Let me tell you how the game is played.
-not_available First thing they do is to tell you that you're the only one they can trust.
-not_available That's flattering and it makes you trust them in return.
-not_available Right? Then they get you to do something you shouldn't.
-not_available Say you don't know where Jack went, for example.
-not_available Then the next thing you know, Jack's gone Nina's stonewalling, and you're in the hot seat.
-not_available Sound familiar? You're being used.
-not_available I've seen it a million times.
-not_available If you help me out, I'll help you out.
-not_available If you hold out Mason.
-not_available Really? Good.
-not_available I'm on my way.
-not_available It seems our boy has surfaced.
-not_available His name popped up on a police frequency.
-not_available Not that I'm surprised.
-not_available Is he in trouble? Off the record, just out of curiosity what's so special about Jack Bauer? All right, we found Bauer.
-not_available We're pulling out.
-not_available Lockdown's over.
-not_available I hope you give some thought to what we talked about.
-not_available Call it in as a DOA.
-not_available Pedestrian hit by vehicle.
-not_available Everything checked out, here you go.
-not_available What was her name? Jessie Hampton.
-not_available You know anything about this guy? No.
-not_available But I got to take him for questioning.
-not_available Maybe you didn't notice, but he killed a cop.
-not_available Of course I did, but there's something else at stake here.
-not_available Not to me.
-not_available Not to these guys.
-not_available All right.
-not_available Can I at least have a few minutes with him? Guys.
-not_available Thank you.
-not_available Get up.
-not_available If you tell me who you are, I might be able to help you.
-not_available Don't let them take me.
-not_available If they do, I'm dead.
-not_available They seem in control.
-not_available I'm not worried about them.
-not_available Who are you worried about? First you spring me, then I talk.
-not_available That's not gonna happen.
-not_available That's too bad Bauer.
-not_available Bauer? How do you know my name? Time's up.
-not_available I know more than that.
-not_available If you ever want to see your daughter again, get me out of this.
-not_available What do you know about my daughter? I'm fine.
-not_available I'm fine.
+not_available Are you stupid ?
+not_available What are you doing in the street ?
+not_available What are you , an idiot ?
+not_available No !
+not_available Keep moving !
+not_available No !
+not_available Come on , get her !
+not_available Shut up !
+not_available Put her down .
+not_available Keep moving .
+not_available Shut up !
+not_available Let's go .
+not_available Keep going .
+not_available Help me .
+not_available We have to go back .
+dan_mounts There's no point , she's dead .
+not_available You don't know that .
+not_available Get in !
+not_available Take it easy !
+dan_mounts Know what , you better decide whose side you're on .
+kim_bauer We can't leave her in the middle of the street .
+not_available Nina .
+not_available Nina , I know you're upset .
+nina_myers Of course I'm upset , Jack .
+not_available What do you expect ?
+not_available I'm sorry .
+jack_bauer The reason why I had to leave the office is because I got a call from Walsh .
+jack_bauer He was meeting another one of our agents .
+not_available Scott Baylor .
+jack_bauer He said he had evidence that That led you to me .
+nina_myers I know , Jack , but you should have thought it through .
+not_available Nina , listen to me .
+jack_bauer Richard Walsh is dead .
+not_available What ?
+not_available He was shot .
+not_available I watched him die .
+nina_myers What is going on ?
+jack_bauer He was killed because he had proof that people from our own agency are behind the hit on Palmer .
+not_available Who ?
+jack_bauer I don't know yet .
+jack_bauer Right before Richard died , he gave me that keycard .
+jack_bauer I'm hoping that's going to tell us .
+jack_bauer Jamey's trying to break it down now .
+not_available You trust Jamey ?
+not_available He did .
+not_available I trust you .
+jack_bauer Which means the three of us have to work together .
+jack_bauer From this point forward , we have to assume that we can trust nobody else .
+nina_myers I understand .
+not_available Good .
+jack_bauer Are you all right ?
+not_available Yeah .
+jack_bauer Work the card with Jamey .
+not_available I have to make a call .
+not_available Thank you .
+secret_service_agent Senator , Agent Pierce wanted to talk to you as soon as you got back .
+not_available Fine .
+not_available Just give me a minute .
+secret_service_agent It's important , there's a security issue .
+not_available A minute !
+not_available Yeah .
+president_david_palmer Did you find anything out yet ?
+carl_webb David , it's barely been half an hour since you told me about it .
+president_david_palmer Carl , I need you to find out the source of this story .
+not_available Not first thing in the morning .
+not_available Now !
+carl_webb I understand , but this can't be done over the phone .
+carl_webb I have to talk to some people in person .
+not_available It's five after three .
+not_available I want to hear something by 4:00 .
+not_available David , you've got to let me .
+not_available Where were you ?
+president_david_palmer I went for a drive .
+not_available A drive .
+sherry_palmer Alone , at this time of night ?
+president_david_palmer I just needed to get away for a while .
+not_available Away from what , David ?
+not_available Everything .
+not_available Wait a minute .
+sherry_palmer They haven't told you , have they ?
+sherry_palmer There has been an assassination threat .
+president_david_palmer That's what all the fuss is about ?
+not_available Yes .
+president_david_palmer I thought it was something serious .
+not_available Jack .
+tony_almeida I'm screening the passenger list , something doesn't add up .
+not_available What ?
+tony_almeida 2B Manifest shows an empty seat .
+not_available So ?
+tony_almeida According to the ticketing file first class was full , plus there is a waiting list .
+tony_almeida Why would the plane take off with an empty seat ?
+not_available Doesn't make sense .
+jack_bauer This is good , let's work it .
+not_available What time does Rayburn get in ?
+not_available 6:00 .
+jack_bauer Then wake him up , bring him in now .
+not_available Jack .
+nina_myers We've got something off the keycard .
+nina_myers The encryption is complex .
+nina_myers I've asked Jamey to isolate sectors and she's managed to extract one .
+jamey_farrell Just part of one , actually .
+not_available That's it , just an address .
+jack_bauer What's that got to do with Palmer ?
+not_available It doesn't say .
+jack_bauer Crosscheck it with his schedule for tomorrow .
+jamey_farrell He's not going anywhere near it .
+jack_bauer Has he been anywhere near it since he came to Los Angeles ?
+not_available No .
+jack_bauer How about previous visits , connection to family members , associates , anything ?
+not_available I can check .
+not_available It will take time .
+not_available No .
+jack_bauer Let's see what we can peel off .
+not_available Start in here .
+not_available Still just the address on San Fernando Road .
+not_available How long is it going to take to access the next level ?
+not_available Minutes or hours ?
+not_available Hours most likely .
+not_available We don't have hours .
+not_available I'll check out the address myself .
+not_available You want some backup ?
+not_available No .
+not_available I need you here .
+not_available What's wrong ?
+not_available I don't know .
+jamey_farrell Suddenly I can't access our decryption software .
+not_available Phones are down , too .
+not_available It's a lockdown .
+not_available It's Mason .
+not_available Hide the keycard .
+not_available NI'll handle this .
+not_available Hello , Nina .
+george_mason These men are with Internal Investigations .
+george_mason You are now on official lockdown .
+not_available On what authority ?
+not_available District Office .
+nina_myers Trying to stop an assassination , George .
+nina_myers Can't you find anything better to do than this ?
+george_mason Two agents died tonight .
+george_mason Lockdown is standard procedure until we get some answers .
+not_available Where's Jack ?
+not_available I don't know .
+george_mason Station 2 , coming your way .
+not_available Lockdown , nobody leaves .
+jack_bauer Lockdown , are you serious ?
+not_available No , I'm kidding .
+jack_bauer I gotta get some work from my car .
+not_available You know the drill .
+not_available Fine , you take the keys .
+george_mason All right , I assume you're all familiar with lockdown procedures .
+george_mason You remain in the building .
+george_mason All communications will be monitored .
+george_mason Any incoming call without secure access codes will be blocked .
+george_mason In the meantime , you can continue to work on systems available to you 'til notified otherwise .
+george_mason Anyone currently assigned .
+not_available Who called them in , Tony .
+not_available You ?
+not_available Yeah .
+not_available Me .
+not_available Why ?
+not_available Somebody had to .
+not_available Jack's out of control .
+not_available Meaning what ?
+tony_almeida Two agents are down , Jack was there when it happened .
+nina_myers You can't believe he had anything to do with that .
+tony_almeida To tell you the truth , I don't know what to believe .
+nina_myers I'd hate to think this has anything to do with me .
+not_available You think what you want .
+george_mason All right , get comfortable , could be here for quite a while .
+not_available He got past me .
+george_mason All right , Nina , where'd he go ?
+nina_myers I already told you , I don't know .
+george_mason As soon as you tell me , we can get things up and running .
+nina_myers I'm really sorry , George , I can't help you out .
+not_available Me , too .
+not_available Senator , could I have a word with you ?
+aaron_pierce I'm not sure you appreciate the seriousness of this threat .
+president_david_palmer I get serious threats every morning with my orange juice .
+aaron_pierce With all due respect , this one's different .
+aaron_pierce It's a pro from overseas .
+not_available Who's behind it ?
+not_available We don't know .
+aaron_pierce But as I'm sure you're aware
+aaron_pierce an airliner exploded about an hour and a half ago outside LA .
+not_available No survivors .
+not_available Are you saying there's some connection ?
+aaron_pierce Again , we don't know .
+not_available We're looking into it .
+not_available What do we know ?
+aaron_pierce That these are serious people , and they want you dead , today .
+not_available What about my family ?
+aaron_pierce The threat appears to be against you only .
+aaron_pierce But , of course , we'll increase security for your family as well .
+aaron_pierce The main thing is your schedule .
+president_david_palmer Today is Primary Day , I'm not gonna hide in my hotel room .
+not_available Understood .
+aaron_pierce But we are recommending some changes .
+aaron_pierce The breakfast , for example .
+president_david_palmer The breakfast is important .
+president_david_palmer The top labor leaders in the state are going to be there .
+aaron_pierce We're trying to keep you alive , Senator .
+president_david_palmer And I'm trying to win an election .
+not_available Mom said you wanted to see me .
+not_available Wanted to make sure you're all right .
+not_available What are you doing up ?
+keith_palmer If I'm not sleeping by Actually , I was gonna watch some tube , you wanna join me ?
+not_available Is anything on this time of night ?
+not_available Nothing good .
+not_available I guess I'll pass .
+not_available Heard about the threat .
+not_available Don't worry about it .
+not_available They'll take good care of me .
+not_available They better .
+not_available Better get some rest .
+not_available I'm telling you , we have to go back and get Janet .
+not_available Are you gonna tell your girlfriend to shut her mouth or not ?
+rick_allen She's probably dead , there's no point .
+not_available And what if she's not ?
+not_available She might need help .
+kim_bauer Why do always do what he tells you ?
+not_available Why don't you think for yourself ?
+rick_allen Just leave it alone , okay .
+not_available I can't , she's my friend .
+dan_mounts You know , she may be right after all .
+dan_mounts We should go back .
+dan_mounts If she's alive , she can .
+not_available  ID us .
+dan_mounts We have to shut her up for good .
+not_available What ?
+not_available What are you saying ?
+not_available You're gonna kill Janet ?
+not_available Is that what you're gonna do ?
+not_available Be quiet !
+not_available Close her mouth !
+not_available Now !
+not_available I'm not gonna let you tie me up .
+not_available Let me out .
+not_available Sounds like she's gonna tie you up .
+not_available Shut up !
+not_available I just hope the girls are still there .
+not_available Oh , no .
+not_available I don't believe this .
+officer_imary38 Stay in your car , sir .
+not_available Back in the car .
+officer_imary38 Keep your hands where I can see 'em .
+officer_imary38 Do you have any idea how fast you were going ?
+not_available Yes .
+alan_york Officer , our daughters are missing .
+alan_york We got a phone call , we are on our way to pick them up .
+not_available Please .
+not_available Can I see your license and registration ?
+alan_york Did you hear what I said ?
+officer_imary38 Your license and registration , please .
+teri_bauer I'm Teri Bauer , he's telling the truth .
+teri_bauer We really could use your help here .
+teri_bauer My daughter just phoned from Platt's Auto Body .
+not_available Different last names .
+officer_imary38 One's married , one's not .
+not_available Out together in the middle of the night .
+teri_bauer I called 911 fifteen minutes ago , verify it if you want .
+not_available You know what , I'm gonna do that .
+alan_york Yeah , why don't you do that .
+not_available All right .
+officer_imary38 Hey , listen , I asked you to remain in the car .
+not_available I understand that .
+alan_york Can we speed things up ?
+alan_york Write us tickets , we'll be on our way .
+officer_imary38 The woman asked me to verify the 911 .
+not_available That's what I'm trying to do .
+alan_york You know , You are a real piece of work , you know that ?
+alan_york My daughter is in trouble .
+not_available We're finished here .
+not_available Take your hands off me !
+not_available What are you doing ?
+not_available Take it easy , relax , everyone .
+not_available Get your hands off me !
+not_available Stop , don't do that .
+not_available Calm down .
+not_available Take it easy .
+officer_imary38 Ma'am , he just disobeyed a direct order from a police officer .
+officer_imary38 I'm afraid I'm going to have to place him under arrest .
+alan_york You've got to be kidding me .
+not_available Come on .
+not_available Oh , my God .
+not_available What was your name ?
+not_available Excuse me !
+george_mason You know Richard Walsh was killed tonight .
+not_available Scott Baylor , too .
+george_mason Did you know Jack was there when it happened ?
+nina_myers I don't know anything about it .
+george_mason And you have no idea where he is right now ?
+not_available No .
+george_mason You're making a big mistake , Nina .
+not_available No , you are .
+nina_myers When this lockdown is over , I'm gonna have a little talk with the Double I team about some highly irregular banking transactions which were traced to your account .
+not_available Trust me .
+george_mason The trouble Jack's in right now
+george_mason my bank accounts won't even raise an eyebrow .
+george_mason He's going down , Nina .
+george_mason That doesn't mean you have to go down with him .
+george_mason True love is a beautiful thing , but why go to extremes ?
+not_available I know about the affair .
+not_available See , Jack talks about it all the time .
+not_available Sure he does .
+not_available How else would I know about it ?
+george_mason It is possible , that Jack's not the shining knight you think he is .
+not_available Want to try again ?
+george_mason Where is Jack now ?
+not_available This is Mary 13 8 .
+not_available Need a transportation unit at the Fifth Street bridge .
+not_available Ma'am .
+not_available Please .
+not_available Would you listen to me Repeat location with full request .
+not_available unit at the Fifth Street bridge Copy , 1Mary3 8 .
+not_available It's Teri .
+not_available Leave a message after the beep
+teri_bauer and I'll call you back .
+jack_bauer Honey , it's me , I'm just checking up on Kim .
+not_available I'll call you back soon .
+not_available Don't move .
+not_available Damn it .
+not_available Request backup .
+not_available Stop !
+not_available Police .
+not_available Hold it right there .
+not_available Federal Agent !
+jessie_hampton Your badge , nice and slow .
+jack_bauer Putting my gun down .
+not_available CTU.
+not_available What the hell is that ?
+jack_bauer Counter Terrorist Unit .
+jack_bauer This guy is not waiting around for me .
+jack_bauer You better shoot me or help .
+not_available Decide now .
+jessie_hampton All right , I'll help you .
+not_available I'm picking up my gun .
+not_available Easy .
+jack_bauer You be careful with that gun .
+not_available I need him alive .
+not_available Throw me your flashlight .
+not_available Take cover !
+jack_bauer Turn off your radio .
+jack_bauer I wish you hadn't called for backup .
+not_available Why ?
+jack_bauer Because cops have to play by the rules .
+jack_bauer I may have to break a few with this guy .
+jessie_hampton Who is he ?
+george_mason To sum it up , Jack leaves his wife shacks up with you for a while gets bored and then moves back home , leaving you out in the cold .
+nina_myers My personal life is not your concern .
+george_mason It is if it affects your work .
+not_available It doesn't affect my work .
+george_mason How long you been with the Agency , Nina ?
+george_mason Six years , seven ?
+not_available Seven years .
+george_mason I remember when you first joined .
+not_available You were going places .
+george_mason Everybody knew it .
+george_mason It hasn't quite happened for you yet , has it ?
+george_mason You ever wonder why ?
+nina_myers I've done all right .
+george_mason But you could have done so much better .
+george_mason You had a great reputation , once .
+george_mason You know what your reputation is now ?
+not_available Jack's flunky .
+not_available His lap dog .
+george_mason This is your chance to get back on track , Nina .
+not_available He's a loose cannon .
+george_mason Rules don't apply to Jack Bauer .
+george_mason He does what he wants , when he wants
+george_mason and he doesn't care whose life it affects .
+george_mason He shot me with a tranq gun here in the office , for God's sakes .
+nina_myers That's because you withheld crucial information .
+not_available I was following orders .
+nina_myers Maybe he's following orders .
+nina_myers Orders you don't know about .
+george_mason He violated lockdown and left you holding the bag .
+george_mason If he cared about you , he wouldn't have put you in that position .
+not_available Let me ask you
+not_available would you have done that to him ?
+george_mason The fact is , I'm just asking you to do your job and tell me where he is .
+not_available I don't know .
+not_available Get out !
+not_available Maybe she's dead after all .
+not_available We have to be sure .
+not_available Let's just put her in the van .
+not_available No .
+not_available Dan .
+not_available Shut up !
+not_available Move it .
+not_available Yeah ?
+not_available Mason's going to want to talk to you .
+not_available What you want me to say ?
+nina_myers Jack's made it clear that the three of us work in confidence .
+jamey_farrell But doesn't Mason supersede Jack ?
+not_available No .
+nina_myers What we're doing came from Walsh .
+jamey_farrell George will say anything to get you to talk .
+nina_myers Do not be intimidated by him .
+not_available Okay .
+not_available Cross me .
+not_available The other building .
+jessie_hampton This place is like a maze .
+carl_webb All right , I've got a name .
+carl_webb George Ferragamo .
+not_available Know him ?
+not_available Yeah .
+not_available I know the name .
+president_david_palmer You find anything else , leave a message on the 802 number only .
+carl_webb Okay , you got it .
+not_available Thanks , Carl .
+sherry_palmer You've been spending an awful lot of time behind closed doors , making phone calls .
+not_available Have I ?
+sherry_palmer What's going on , David ?
+president_david_palmer The phone call , earlier tonight , from Maureen Kingsley .
+president_david_palmer She's digging up old history .
+not_available Bad history .
+not_available Just tell me .
+president_david_palmer She claims that Keith murdered the boy who raped Nicole .
+not_available What ?
+sherry_palmer First , Lyle Gibson was no boy , he was 19 .
+sherry_palmer Second , he killed himself .
+sherry_palmer The coroner's report proved it .
+president_david_palmer Maureen has new evidence .
+not_available What evidence ?
+not_available I put Carl on it .
+president_david_palmer He came up with a name George Ferragamo .
+sherry_palmer That's the therapist Keith went to , what about him ?
+not_available He claims that He's not claiming that Keith confessed in therapy ?
+not_available Apparently .
+sherry_palmer Well , then he's lying .
+sherry_palmer You've got to get our lawyers on this right away .
+president_david_palmer Yeah , I know and I will .
+sherry_palmer But you know What is it , David ?
+president_david_palmer I just don't understand it .
+president_david_palmer Maureen's always been very responsible .
+president_david_palmer One of the few real professionals left .
+sherry_palmer I'd call this unprofessional .
+sherry_palmer David you can't seriously think that our son might be a killer ?
+not_available No .
+not_available Of course not .
+alan_york Look , I apologized .
+officer_imary38 You don't get it , do you ?
+officer_imary38 You've committed a serious crime .
+not_available Officer , please .
+teri_bauer Clearly , he's upset .
+not_available We both are .
+teri_bauer If you could just give us a break ?
+not_available Please ?
+not_available was placed at that location , approximately 30 minutes ago .
+not_available Copy .
+not_available Thanks .
+officer_imary38 That still doesn't justify you disobeying a police officer .
+not_available Idiot .
+not_available Here's the backup .
+not_available Ground units are on their way .
+jack_bauer I need him now to claim jurisdiction .
+jessie_hampton Where do you want me ?
+jack_bauer Keep him pinned down at the exit .
+jack_bauer I'll try to go around the other side .
+not_available Don't hit him .
+not_available I won't .
+not_available Don't hit me , either .
+not_available This is the police .
+not_available Drop your weapon .
+jessie_hampton I told you to stay put .
+not_available Over here .
+not_available You want me , come and get me .
+not_available Don't do it !
+jessie_hampton He'll kill both of us !
+not_available Don't do it !
+not_available Come out !
+not_available Drop the gun !
+not_available Don't !
+janitor Step out where I can see you , and throw down the gun !
+not_available Don't do it .
+not_available Drop it !
+jack_bauer I'm gonna drop the gun
+not_available but you gotta relax !
+not_available Don't do it .
+not_available He'll kill us both .
+not_available Shut up !
+not_available Put down the gun !
+not_available Drop it !
+not_available Speak English , asshole .
+not_available The gun is going down .
+not_available I'm putting down the gun .
+not_available The gun's going down .
+not_available Good work , throw me your cuffs .
+not_available Oh , my God .
+teri_bauer I think it might be up here , swing to the right .
+not_available Yeah , maybe .
+alan_york There is someone up ahead , maybe they saw something .
+not_available Roll down your window .
+teri_bauer Excuse me , could you tell me what happened here , please .
+teri_bauer It might involve our children .
+woman You shouldn't let your children come down here .
+teri_bauer Yeah , I know that , but could you just please tell me what happened ?
+woman Girl was hit by a car .
+not_available Ma'am
+alan_york , do you know where they took her ?
+not_available St .
+woman Mark's is closest .
+teri_bauer Was she alive ?
+woman She didn't look good .
+not_available Go .
+not_available Hey , it's Gaines .
+not_available Where's the other one ?
+dan_mounts She was a problem , so we killed her .
+ira_gaines The body ?
+not_available No one'll find it .
+not_available She been any trouble ?
+not_available Not at all .
+not_available You're with me now .
+ira_gaines Be good , you'll be back at the mall in a day or two .
+not_available Be bad , and you won't .
+not_available Clear ?
+not_available Good .
+not_available Agent Farrell , come with me , please .
+not_available Jamey .
+jamey_farrell I've already told these men I don't know anything .
+george_mason Trying to protect Jack and Nina ?
+george_mason Don't be naive .
+not_available Sit .
+george_mason Let me tell you how the game is played .
+george_mason First thing they do is to tell you that you're the only one they can trust .
+george_mason That's flattering and it makes you trust them in return .
+not_available Right ?
+george_mason Then they get you to do something you shouldn't .
+george_mason Say you don't know where Jack went , for example .
+george_mason Then the next thing you know , Jack's gone Nina's stonewalling , and you're in the hot seat .
+not_available Sound familiar ?
+not_available You're being used .
+george_mason I've seen it a million times .
+george_mason If you help me out , I'll help you out .
+george_mason If you hold out Mason .
+not_available Really ?
+not_available Good .
+george_mason I'm on my way .
+george_mason It seems our boy has surfaced .
+george_mason His name popped up on a police frequency .
+not_available Not that I'm surprised .
+not_available Is he in trouble ?
+george_mason Off the record , just out of curiosity what's so special about Jack Bauer ?
+george_mason All right , we found Bauer .
+not_available We're pulling out .
+george_mason Lockdown's over .
+not_available I hope you give some thought to what we talked about .
+not_available Call it in as a DOA .
+not_available Pedestrian hit by vehicle .
+not_available Everything checked out , here you go .
+not_available What was her name ?
+not_available Jessie Hampton .
+not_available You know anything about this guy ?
+not_available No .
+not_available But I got to take him for questioning .
+sergeant_kiley Maybe you didn't notice , but he killed a cop .
+jack_bauer Of course I did , but there's something else at stake here .
+sergeant_kiley Not to me .
+not_available Not to these guys .
+not_available All right .
+jack_bauer Can I at least have a few minutes with him ?
+not_available Guys .
+jack_bauer Thank you .
+jack_bauer Get up .
+jack_bauer If you tell me who you are , I might be able to help you .
+not_available Don't let them take me .
+not_available If they do , I'm dead .
+not_available They seem in control .
+not_available I'm not worried about them .
+jack_bauer Who are you worried about ?
+not_available First you spring me , then I talk .
+not_available That's not gonna happen .
+not_available That's too bad Bauer .
+not_available Bauer ?
+not_available How do you know my name ?
+not_available Time's up .
+greg_penticoff I know more than that .
+greg_penticoff If you ever want to see your daughter again , get me out of this .
+not_available What do you know about my daughter ?
+not_available I'm fine .
+not_available I'm fine .

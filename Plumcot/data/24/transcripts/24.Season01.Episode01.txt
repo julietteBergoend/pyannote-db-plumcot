@@ -18,7 +18,7 @@ president_david_palmer I want to stay lowkey Wrong .
 patty_brooks Play it up , inspire people .
 president_david_palmer Honey , what do you think ?
 sherry_palmer I agree with Patty .
-president_david_palmer Okay , but not " occasion.<br>
+president_david_palmer Okay , but not " occasion.
 president_david_palmer " It sounds like we're having brunch .
 president_david_palmer "
 not_available On this historic day " ? Deal .
@@ -154,8 +154,7 @@ teri_bauer Hello ?
 jack_bauer Hey .
 jack_bauer Did you hear from Kim yet ?
 teri_bauer No .
-jack_bauer We should try and remember.<br
-jack_bauer > .
+jack_bauer We should try and remember.
 jack_bauer what it was like when we were kids , you know ?
 teri_bauer It's a different world now , Jack .
 jack_bauer Yeah , I know .
@@ -328,14 +327,14 @@ jack_bauer Okay , bye .
 nina_myers Everything
 nina_myers okay ?
 not_available Yeah .
-rick_allen When I got into San Diego State I figured , " What the hell? "
-rick_allen " Give college a try.<br
-kim_bauer > " Do you live near the beach ?
+rick_allen When I got into San Diego State I figured , What the hell?
+rick_allen Give college a try.
+kim_bauer Do you live near the beach ?
 not_available Yeah .
 kim_bauer Do you surf ?
 not_available No .
 rick_allen Surfing's way too motivated .
-rick_allen You got to get wet , there's sharks you got to call everybody " dude.<br>
+rick_allen You got to get wet , there's sharks you got to call everybody " dude.
 rick_allen " Why ?
 kim_bauer No reason .
 kim_bauer My dad surfs .
@@ -345,8 +344,7 @@ rick_allen He's too old ?
 kim_bauer My father's dead .
 rick_allen Hey , my bad .
 kim_bauer It's okay .
-kim_bauer He was this really great guy , and then six months ago , he.<br
-not_available > .
+kim_bauer He was this really great guy , and then six months ago , he.
 not_available I'm sorry .
 not_available Yeah .
 kim_bauer I'm over it .
